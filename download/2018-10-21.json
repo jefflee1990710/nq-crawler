@@ -1,0 +1,716 @@
+[
+    {
+        "id": 679251,
+        "updated_sequence": 1070862,
+        "published_at": {
+            "unix": 1540165740,
+            "text": "2018-10-22 00:49:00 +0100",
+            "iso_8601": "2018-10-21T23:49:00Z"
+        },
+        "updated_at": {
+            "unix": 1540165829,
+            "text": "2018-10-22 00:50:29 +0100",
+            "iso_8601": "2018-10-21T23:50:29Z"
+        },
+        "subject": "South Korea October 1st-20th Trade Balance at Surplus of USD 1.64bln, Exports rose 26.0% and Imports rose 31.4% Y/Y",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "south-korea-october-1st-20th-trade-balance-at-surplus-of-usd-1-64bln-exports-rose-26-0-and-imports-rose-31-4-y-y-21-10-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-10-22 07:49:00",
+        "gmt_time": "2018-10-21 23:49:00"
+    },
+    {
+        "id": 679250,
+        "updated_sequence": 1070859,
+        "published_at": {
+            "unix": 1540164600,
+            "text": "2018-10-22 00:30:00 +0100",
+            "iso_8601": "2018-10-21T23:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1540165377,
+            "text": "2018-10-22 00:42:57 +0100",
+            "iso_8601": "2018-10-21T23:42:57Z"
+        },
+        "subject": "PRE-MARKET JAPANESE AND SOUTH KOREAN STOCK NEWS: Asahi Kasei (3407 JT) may report an increase in FY19 oper. profit to above JPY 200bln for the first time ever",
+        "content": "<p>JAPAN</p>\r\n\r\n<p>Asahi Kasei (3407 JT)<br />- Co. may report FY19 oper. profit rose by 1% Y/Y to more than JPY 200bln for the first time ever. (Newswires)</p>\r\n\r\n<p>Hitachi (6501 JT)<br />- Co. has appointed advisers to examine sales of 70% stake in fleet of new high-speed trains valued at GBP 600mln. (Newswires)</p>\r\n\r\n<p>Monex Group (8698 JT)<br />- Co. will partner with Shizuoka Bank to launch financial instruments intermediary services. (Newswires)</p>\r\n\r\n<p>NEC (6701 JT)<br />- Co. agreed an alliance with Samsung Electronics (005930 KS) on developing base stations for 5g mobile communications. (Nikkei)</p>\r\n\r\n<p>TEPCO (9501 JT)<br />- Co. is to renter the telecommunications sector in which it will offer plans to bundle internet service with electricity and gas as an effort to keep its customers from moving to other power providers. (Nikkei)</p>\r\n\r\n<p>SOUTH KOREA</p>\r\n\r\n<p>Samsung Engineering (028050 KS)<br />- Co. is consortium which received Thailand refinery upgrade project order valued at USD 4bln. (Newswires)</p>\r\n\r\n<p>Energy related<br />- South Korea is to announce reduction in fuel tax rates this week to assist in easing cost pressures. (Yonhap)</p>\r\n\r\n<p>Other News<br />- US and North Korea are planning a 2nd summit in January. (Newswires)<br />- US and South Korea called off joint military exercises, while reports noted South Korea are to conduct drills alone in December. (Newswires)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-japanese-and-south-korean-stock-news-asahi-kasei-3407-jt-may-report-an-increase-in-fy19-oper-profit-to-above-jpy-200bln-for-the-first-time-ever-21-10-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-10-22 07:30:00",
+        "gmt_time": "2018-10-21 23:30:00"
+    },
+    {
+        "id": 679249,
+        "updated_sequence": 1070856,
+        "published_at": {
+            "unix": 1540164300,
+            "text": "2018-10-22 00:25:00 +0100",
+            "iso_8601": "2018-10-21T23:25:00Z"
+        },
+        "updated_at": {
+            "unix": 1540165237,
+            "text": "2018-10-22 00:40:37 +0100",
+            "iso_8601": "2018-10-21T23:40:37Z"
+        },
+        "subject": "WorleyParsons (WOR AT) to acquire Energy, Chemicals and Resources Business from Jacob Engineering (JEC) valued at USD 3.3bln",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "worleyparsons-wor-at-to-acquire-energy-chemicals-and-resources-business-from-jacob-engineering-jec-valued-at-usd-3-3bln-21-10-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-10-22 07:25:00",
+        "gmt_time": "2018-10-21 23:25:00"
+    },
+    {
+        "id": 679248,
+        "updated_sequence": 1070847,
+        "published_at": {
+            "unix": 1540163280,
+            "text": "2018-10-22 00:08:00 +0100",
+            "iso_8601": "2018-10-21T23:08:00Z"
+        },
+        "updated_at": {
+            "unix": 1540163369,
+            "text": "2018-10-22 00:09:29 +0100",
+            "iso_8601": "2018-10-21T23:09:29Z"
+        },
+        "subject": "CBS (CBS) interim Chairman Parsons resigns due to health reasons",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "cbs-cbs-interim-chairman-parsons-resigns-due-to-health-reasons-21-10-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-10-22 07:08:00",
+        "gmt_time": "2018-10-21 23:08:00"
+    },
+    {
+        "id": 679247,
+        "updated_sequence": 1070844,
+        "published_at": {
+            "unix": 1540163220,
+            "text": "2018-10-22 00:07:00 +0100",
+            "iso_8601": "2018-10-21T23:07:00Z"
+        },
+        "updated_at": {
+            "unix": 1540163330,
+            "text": "2018-10-22 00:08:50 +0100",
+            "iso_8601": "2018-10-21T23:08:50Z"
+        },
+        "subject": "White House Economic Advisor Kudlow said China is not doing anything to defuse trade frictions, according to FT",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "FT",
+        "slug": "white-house-economic-advisor-kudlow-said-china-is-not-doing-anything-to-defuse-trade-frictions-according-to-ft-21-10-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-10-22 07:07:00",
+        "gmt_time": "2018-10-21 23:07:00"
+    },
+    {
+        "id": 679246,
+        "updated_sequence": 1070841,
+        "published_at": {
+            "unix": 1540162920,
+            "text": "2018-10-22 00:02:00 +0100",
+            "iso_8601": "2018-10-21T23:02:00Z"
+        },
+        "updated_at": {
+            "unix": 1540163059,
+            "text": "2018-10-22 00:04:19 +0100",
+            "iso_8601": "2018-10-21T23:04:19Z"
+        },
+        "subject": "US Treasury Secretary Mnuchin's team reportedly told China there is no point in floating plans to buy US products as key priorities need to be addressed such as structural issues including IP theft and market access",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-treasury-secretary-mnuchin-s-team-reportedly-told-china-there-is-no-point-in-floating-plans-to-buy-us-products-as-key-priorities-need-to-be-addressed-such-as-structural-issues-including-ip-theft-and-market-access-21-10-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-10-22 07:02:00",
+        "gmt_time": "2018-10-21 23:02:00"
+    },
+    {
+        "id": 679245,
+        "updated_sequence": 1070838,
+        "published_at": {
+            "unix": 1540162800,
+            "text": "2018-10-22 00:00:00 +0100",
+            "iso_8601": "2018-10-21T23:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1540162873,
+            "text": "2018-10-22 00:01:13 +0100",
+            "iso_8601": "2018-10-21T23:01:13Z"
+        },
+        "subject": "China brokerages are mulling relief funds with local SOE's according to Chinese press",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "china-brokerages-are-mulling-relief-funds-with-local-soe-s-according-to-chinese-press-21-10-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-10-22 07:00:00",
+        "gmt_time": "2018-10-21 23:00:00"
+    },
+    {
+        "id": 679243,
+        "updated_sequence": 1070832,
+        "published_at": {
+            "unix": 1540162740,
+            "text": "2018-10-21 23:59:00 +0100",
+            "iso_8601": "2018-10-21T22:59:00Z"
+        },
+        "updated_at": {
+            "unix": 1540162771,
+            "text": "2018-10-21 23:59:31 +0100",
+            "iso_8601": "2018-10-21T22:59:31Z"
+        },
+        "subject": "WorleyParsons (WOR AT) in trading halt pending further announcement",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "worleyparsons-wor-at-in-trading-halt-pending-further-announcement-21-10-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-10-22 06:59:00",
+        "gmt_time": "2018-10-21 22:59:00"
+    },
+    {
+        "id": 679244,
+        "updated_sequence": 1070835,
+        "published_at": {
+            "unix": 1540162740,
+            "text": "2018-10-21 23:59:00 +0100",
+            "iso_8601": "2018-10-21T22:59:00Z"
+        },
+        "updated_at": {
+            "unix": 1540162822,
+            "text": "2018-10-22 00:00:22 +0100",
+            "iso_8601": "2018-10-21T23:00:22Z"
+        },
+        "subject": "US and South Korea call off joint military exercises, with South Korea to conduct drills alone in December",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-and-south-korea-call-off-joint-military-exercises-with-south-korea-to-conduct-drills-alone-in-december-21-10-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-10-22 06:59:00",
+        "gmt_time": "2018-10-21 22:59:00"
+    },
+    {
+        "id": 679242,
+        "updated_sequence": 1070829,
+        "published_at": {
+            "unix": 1540162200,
+            "text": "2018-10-21 23:50:00 +0100",
+            "iso_8601": "2018-10-21T22:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1540162283,
+            "text": "2018-10-21 23:51:23 +0100",
+            "iso_8601": "2018-10-21T22:51:23Z"
+        },
+        "subject": "US President Trump has no intention of relaxing tariffs against China, according to Twitter reports citing Axios",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Twitter/Axios",
+        "slug": "us-president-trump-has-no-intention-of-relaxing-tariffs-against-china-according-to-twitter-reports-citing-axios-21-10-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-10-22 06:50:00",
+        "gmt_time": "2018-10-21 22:50:00"
+    },
+    {
+        "id": 679241,
+        "updated_sequence": 1070870,
+        "published_at": {
+            "unix": 1540161840,
+            "text": "2018-10-21 23:44:00 +0100",
+            "iso_8601": "2018-10-21T22:44:00Z"
+        },
+        "updated_at": {
+            "unix": 1540167171,
+            "text": "2018-10-22 01:12:51 +0100",
+            "iso_8601": "2018-10-22T00:12:51Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIAN STOCK NEWS: Virgin Australia (VAH AT) Q1 revenue rose 9.7% Y/Y vs. guidance of minimum 7% gain",
+        "content": "<p>BHP (BHP AT)<br />- Co, is reportedly moving closer to offload its Mt Arthur coal operations. (Newswires)</p>\r\n\r\n<p>Cabcharge (CAB AT)<br />- Co. will rebrand itself as A2B Australia. (AFR)</p>\r\n\r\n<p>Hub24 (HUB AT)<br />- Co. Q1 FUA AUD 9.14bln vs. Prev. AUD 8.34bln Q/Q. (Newswires)</p>\r\n\r\n<p>Macquarie (MQG AT)<br />- Co. is said to be preparing to sell is smart meter business. (Newswires)</p>\r\n\r\n<p>Navitas (NVT AT)<br />- The majority of Co. shareholders are said to be in favour of allowing BGH to conduct due diligence. (AFR)</p>\r\n\r\n<p>Virgin Australia (VAH AT)<br />- Co. Q1 revenue rose 9.7% Y/Y vs. guidance of minimum 7% gain, Co. sees H1 underlying profit of at least AUD 100mln. (Newswires)</p>\r\n\r\n<p>Westpac (WBC AT)<br />- Whistleblower reported Westpac &#39;coverups&#39; to APRA and said that he is being intimidated after having raised red flags. (AFR)</p>\r\n\r\n<p>Other News<br />- Australian PM Morrison&rsquo;s governing coalition is on track to lose&nbsp;its 1-seat majority in parliament following a by-election defeat in Sydney, which means that the Liberal Party and coalition partners would need to rely on support from independent MPs in the event of confident votes. (BBC)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-australian-stock-news-virgin-australia-vah-at-q1-revenue-rose-9-7-y-y-vs-guidance-of-minimum-7-gain-21-10-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-10-22 06:44:00",
+        "gmt_time": "2018-10-21 22:44:00"
+    },
+    {
+        "id": 679240,
+        "updated_sequence": 1070821,
+        "published_at": {
+            "unix": 1540161180,
+            "text": "2018-10-21 23:33:00 +0100",
+            "iso_8601": "2018-10-21T22:33:00Z"
+        },
+        "updated_at": {
+            "unix": 1540161268,
+            "text": "2018-10-21 23:34:28 +0100",
+            "iso_8601": "2018-10-21T22:34:28Z"
+        },
+        "subject": "NHC says Willa which is south-southwest of Cabo, Corrientes, Mexico rapidly intensifies to an extremely dangerous category 4 hurricane ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "nhc-says-willa-which-is-south-southwest-of-cabo-corrientes-mexico-rapidly-intensifies-to-an-extremely-dangerous-category-4-hurricane-21-10-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-10-22 06:33:00",
+        "gmt_time": "2018-10-21 22:33:00"
+    },
+    {
+        "id": 679239,
+        "updated_sequence": 1070818,
+        "published_at": {
+            "unix": 1540160100,
+            "text": "2018-10-21 23:15:00 +0100",
+            "iso_8601": "2018-10-21T22:15:00Z"
+        },
+        "updated_at": {
+            "unix": 1540160200,
+            "text": "2018-10-21 23:16:40 +0100",
+            "iso_8601": "2018-10-21T22:16:40Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASES CALENDAR NOW AVAILABLE IN THE RESEARCH SECTION: Highlights Japanese All Industry Activity Index, RBA Debelle Speech and New Zealand market closure",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asian-daily-economic-releases-calendar-now-available-in-the-research-section-highlights-japanese-all-industry-activity-index-rba-debelle-speech-and-new-zealand-market-closure-21-10-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-10-22 06:15:00",
+        "gmt_time": "2018-10-21 22:15:00"
+    },
+    {
+        "id": 679238,
+        "updated_sequence": 1070815,
+        "published_at": {
+            "unix": 1540159620,
+            "text": "2018-10-21 23:07:00 +0100",
+            "iso_8601": "2018-10-21T22:07:00Z"
+        },
+        "updated_at": {
+            "unix": 1540159648,
+            "text": "2018-10-21 23:07:28 +0100",
+            "iso_8601": "2018-10-21T22:07:28Z"
+        },
+        "subject": "German tax revenue in September rose 5.8% Y/Y",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "german-tax-revenue-in-september-rose-5-8-y-y-21-10-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-10-22 06:07:00",
+        "gmt_time": "2018-10-21 22:07:00"
+    },
+    {
+        "id": 679238,
+        "updated_sequence": 1070815,
+        "published_at": {
+            "unix": 1540159620,
+            "text": "2018-10-21 23:07:00 +0100",
+            "iso_8601": "2018-10-21T22:07:00Z"
+        },
+        "updated_at": {
+            "unix": 1540159648,
+            "text": "2018-10-21 23:07:28 +0100",
+            "iso_8601": "2018-10-21T22:07:28Z"
+        },
+        "subject": "German tax revenue in September rose 5.8% Y/Y",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "german-tax-revenue-in-september-rose-5-8-y-y-21-10-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-10-22 06:07:00",
+        "gmt_time": "2018-10-21 22:07:00"
+    },
+    {
+        "id": 679237,
+        "updated_sequence": 1070812,
+        "published_at": {
+            "unix": 1540159500,
+            "text": "2018-10-21 23:05:00 +0100",
+            "iso_8601": "2018-10-21T22:05:00Z"
+        },
+        "updated_at": {
+            "unix": 1540159628,
+            "text": "2018-10-21 23:07:08 +0100",
+            "iso_8601": "2018-10-21T22:07:08Z"
+        },
+        "subject": "German Finance Ministry says trade uncertainty will continue crimping exports",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "german-finance-ministry-says-trade-uncertainty-will-continue-crimping-exports-21-10-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-10-22 06:05:00",
+        "gmt_time": "2018-10-21 22:05:00"
+    },
+    {
+        "id": 679236,
+        "updated_sequence": 1070809,
+        "published_at": {
+            "unix": 1540159320,
+            "text": "2018-10-21 23:02:00 +0100",
+            "iso_8601": "2018-10-21T22:02:00Z"
+        },
+        "updated_at": {
+            "unix": 1540159410,
+            "text": "2018-10-21 23:03:30 +0100",
+            "iso_8601": "2018-10-21T22:03:30Z"
+        },
+        "subject": "US President Trump and Turkish President Erdogan discussed legal process regarding Pastor Brunson as well as countering terrorism, according to Turkish press",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-president-trump-and-turkish-president-erdogan-discussed-legal-process-regarding-pastor-brunson-as-well-as-countering-terrorism-according-to-turkish-press-21-10-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-10-22 06:02:00",
+        "gmt_time": "2018-10-21 22:02:00"
+    },
+    {
+        "id": 679235,
+        "updated_sequence": 1070804,
+        "published_at": {
+            "unix": 1540157940,
+            "text": "2018-10-21 22:39:00 +0100",
+            "iso_8601": "2018-10-21T21:39:00Z"
+        },
+        "updated_at": {
+            "unix": 1540158041,
+            "text": "2018-10-21 22:40:41 +0100",
+            "iso_8601": "2018-10-21T21:40:41Z"
+        },
+        "subject": "Virgin Australia (VAH AT) Q1 revenue rose 9.7% Y/Y and Co. expects H1 underlying pretax profit of at least AUD 100mln",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "virgin-australia-vah-at-q1-revenue-rose-9-7-y-y-and-co-expects-h1-underlying-pretax-profit-of-at-least-aud-100mln-21-10-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-10-22 05:39:00",
+        "gmt_time": "2018-10-21 21:39:00"
+    },
+    {
+        "id": 679234,
+        "updated_sequence": 1070873,
+        "published_at": {
+            "unix": 1540157700,
+            "text": "2018-10-21 22:35:00 +0100",
+            "iso_8601": "2018-10-21T21:35:00Z"
+        },
+        "updated_at": {
+            "unix": 1540167215,
+            "text": "2018-10-22 01:13:35 +0100",
+            "iso_8601": "2018-10-22T00:13:35Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p>ASIA-PAC</p>\r\n\r\n<p>Chinese House Prices (Sep) Y/Y 7.9% (Prev. 7.0%). (Newswires)</p>\r\n\r\n<p>Australian PM Morrison&rsquo;s governing coalition is on track to lose&nbsp;its 1-seat majority in parliament following a by-election in Sydney, which means that the Liberal Party and coalition partners would need to rely on support from independent MPs in the event of confident votes. (BBC)<br />&nbsp;</p>\r\n\r\n<p>UK/EU</p>\r\n\r\n<p>UK PM May told business leaders that EU leaders are committed to a Brexit deal this autumn according to sources on Friday, while there were also reports that the UK is said to drop Brexit demand on a time-limited backstop to ease deal. (Newswires)</p>\r\n\r\n<p>BoE Governor Carney said the BoE is focusing on the possible consequences of a cliff-edge Brexit and that in preparing for Brexit outcomes, the central bank is preparing for the worst-case scenarios rather than hoping for the best. (Newswires)</p>\r\n\r\n<p>Italy&#39;s government may cut 2019 deficit target to 2.1% from 2.4%. (Il Foglio)</p>\r\n\r\n<p>Moody&rsquo;s downgraded Italy by one notch from Baa2 to Baa3; Outlook Stable. (Newswires)</p>\r\n\r\n<p>Fitch upgraded Cyprus from BB+ to investment grade of BBB-; Outlook Stable. (Newswires)</p>\r\n\r\n<p><br />FX/CRYPTO</p>\r\n\r\n<p>Canadian CPI Inflation (Sep) Y/Y 2.2% vs. Exp. 2.7% (Prev. 2.8%). (Newswires)</p>\r\n\r\n<p>Swiss blockchain company Trade.io was reportedly hacked in which TIO tokens went missing. Elsewhere, there were comments from BoJ Deputy Governor Amamiya that a digital currency from the BoJ isn&rsquo;t coming anytime soon. (Newswires)<br />&nbsp;</p>\r\n\r\n<p>COMMODITIES</p>\r\n\r\n<p>Baker Hughes Rig Count (19/Oct): Oil rigs up 4 at 873, gas rigs 1 at 194, total rigs up 4 at 1067. (Newswires)</p>\r\n\r\n<p><br />GEOPOLITICAL</p>\r\n\r\n<p>Saudi Arabia claimed journalist Khashoggi was killed during a fight inside the consulate which contradicted its prior claim that Khashoggi had left the embassy, while there were also comments from the Saudi Foreign Minister that they do not know how journalist Khashoggi was killed or where the body is. Elsewhere, Turkish press reported that Saudi Crown Prince Mohammed bin Salman contacted Khashoggi by phone directly and tried to convince him to return to Riyadh shortly before he was killed. (Newswires/Yeni Safak)</p>\r\n\r\n<p>US National Security Adviser Bolton is reportedly urging US President Trump to quit the 1987 intermediate-range nuclear forces treaty as Russia is said to be developing a new cruise missile which violates the agreement. (Guardian)</p>\r\n\r\n<p>US</p>\r\n\r\n<p>US President Trump said they are studying a major tax reduction for middle-income citizens in which they will provide details of next month. (Newswires)</p>\r\n\r\n<p>Fed&#39;s Bostic (voter, dove) said there is no sign of dark clouds on the horizon that could trip the economy which is &#39;chugging along&#39; and reiterated that trade policy remains a risk to outlook. (Newswires)</p>\r\n\r\n<p>Fed&#39;s Kaplan (non-voter, dove) said two or three more rate hikes would take the Fed to neutral and that he is not committed on the need to raise above neutral levels which will depend on productivity. Kaplan also commented that the US economy is &#39;basically&#39; meeting the Fed&#39;s dual mandate on employment and inflation and he is skeptical about further US wage growth from current levels, while he also noted that current market gyrations are not a concern and that corrections can be &#39;healthy&#39; in addressing imbalances. (Newswires)</p>\r\n\r\n<p>MARKET RECAP</p>\r\n\r\n<p>PayPal (PYPL), American Express (AXP) and Procter &amp; Gamble (PG) gained following earnings reports, where they all beat on EPS estimates. Apple (AAPL) also a top mover following a reiteration at Wedbush, while Disney (DIS) traded higher after an upgrade at Barclays. Disappointments in earnings included VF Corp (VFC), after missing its EPS estimates, and State Street (STT) which reported less than expected Q3 revenue. Broker moves caused eBay (EBAY) and Valero (VLO) to nosedive on the day following downgrades at Stifel and Goldman respectively. DowDuPont (DWDP) was also a bottom mover on the back of it announcing a USD 4.6bln goodwill impairment charge. SPX -0.04% at 2768, NDX -0.12% at 7107, DJI +0.25% at 25442.</p>\r\n\r\n<p>Yields were higher by 2-4bps across the curve by settlement, with the Treasury complex taking cues from the situation in Italy, which injected choppy trade into Bunds and BTPs. However, as EU Commissioner Moscovici struck a positive, constructive tone, flows moved back into risk, allowing the T-Note to move lower and settle into a range. Despite the higher yields, major curve spreads flattened by 0.5-1.5bps. US T-note futures (Z8) settled 6 ticks lower at 117-30+.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-asia-pac-opening-news-21-10-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-10-22 05:35:00",
+        "gmt_time": "2018-10-21 21:35:00"
+    },
+    {
+        "id": 679233,
+        "updated_sequence": 1070954,
+        "published_at": {
+            "unix": 1540157460,
+            "text": "2018-10-21 22:31:00 +0100",
+            "iso_8601": "2018-10-21T21:31:00Z"
+        },
+        "updated_at": {
+            "unix": 1540180175,
+            "text": "2018-10-22 04:49:35 +0100",
+            "iso_8601": "2018-10-22T03:49:35Z"
+        },
+        "subject": "UK PM May is to tell parliament 95% of withdrawal agreement has been settled and will reiterate her opposition against a Northern Ireland backstop",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "uk-pm-may-is-to-tell-parliament-95-of-withdrawal-agreement-has-been-settled-and-will-reiterate-her-opposition-against-a-northern-ireland-backstop-21-10-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-10-22 05:31:00",
+        "gmt_time": "2018-10-21 21:31:00"
+    },
+    {
+        "id": 679040,
+        "updated_sequence": 1070792,
+        "published_at": {
+            "unix": 1540155600,
+            "text": "2018-10-21 22:00:00 +0100",
+            "iso_8601": "2018-10-21T21:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1540155600,
+            "text": "2018-10-21 22:00:00 +0100",
+            "iso_8601": "2018-10-21T21:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-18-10-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-10-22 05:00:00",
+        "gmt_time": "2018-10-21 21:00:00"
+    }
+]

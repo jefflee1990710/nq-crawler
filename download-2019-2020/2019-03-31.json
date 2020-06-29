@@ -1,0 +1,648 @@
+[
+    {
+        "id": 862336,
+        "updated_sequence": 1823427,
+        "published_at": {
+            "unix": 1554076620,
+            "text": "2019-04-01 00:57:00 +0100",
+            "iso_8601": "2019-03-31T23:57:00Z"
+        },
+        "updated_at": {
+            "unix": 1554076712,
+            "text": "2019-04-01 00:58:32 +0100",
+            "iso_8601": "2019-03-31T23:58:32Z"
+        },
+        "subject": "Japanese Loans & Discount Corp (Feb) Y/Y 3.3% (Prev. 3.2%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-loans-discount-corp-feb-y-y-3-3-prev-3-2-31-03-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-04-01 07:57:00",
+        "gmt_time": "2019-03-31 23:57:00"
+    },
+    {
+        "id": 862335,
+        "updated_sequence": 1823422,
+        "published_at": {
+            "unix": 1554076440,
+            "text": "2019-04-01 00:54:00 +0100",
+            "iso_8601": "2019-03-31T23:54:00Z"
+        },
+        "updated_at": {
+            "unix": 1554076522,
+            "text": "2019-04-01 00:55:22 +0100",
+            "iso_8601": "2019-03-31T23:55:22Z"
+        },
+        "subject": "BoJ official says some firms said they were feeling impact of overseas economic slowdown",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "boj-official-says-some-firms-said-they-were-feeling-impact-of-overseas-economic-slowdown-31-03-2019",
+        "hidden": false,
+        "section": {
+            "id": 14,
+            "name": "BoJ"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-04-01 07:54:00",
+        "gmt_time": "2019-03-31 23:54:00"
+    },
+    {
+        "id": 862324,
+        "updated_sequence": 1823374,
+        "published_at": {
+            "unix": 1554075540,
+            "text": "2019-04-01 00:39:00 +0100",
+            "iso_8601": "2019-03-31T23:39:00Z"
+        },
+        "updated_at": {
+            "unix": 1554075625,
+            "text": "2019-04-01 00:40:25 +0100",
+            "iso_8601": "2019-03-31T23:40:25Z"
+        },
+        "subject": "BoJ purchased JPY 5.95tln of JGBs in March vs. peak of JPY 11.2tln during November 2014",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "boj-purchased-jpy-5-95tln-of-jgbs-in-march-vs-peak-of-jpy-11-2tln-during-november-2014-31-03-2019",
+        "hidden": false,
+        "section": {
+            "id": 14,
+            "name": "BoJ"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-04-01 07:39:00",
+        "gmt_time": "2019-03-31 23:39:00"
+    },
+    {
+        "id": 862323,
+        "updated_sequence": 1823371,
+        "published_at": {
+            "unix": 1554074880,
+            "text": "2019-04-01 00:28:00 +0100",
+            "iso_8601": "2019-03-31T23:28:00Z"
+        },
+        "updated_at": {
+            "unix": 1554074999,
+            "text": "2019-04-01 00:29:59 +0100",
+            "iso_8601": "2019-03-31T23:29:59Z"
+        },
+        "subject": "CIMIC (CIM AT) CPB Contractors unit receives NZD 221mln metro sports facility project",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "cimic-cim-at-cpb-contractors-unit-receives-nzd-221mln-metro-sports-facility-project-31-03-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-04-01 07:28:00",
+        "gmt_time": "2019-03-31 23:28:00"
+    },
+    {
+        "id": 862322,
+        "updated_sequence": 1823368,
+        "published_at": {
+            "unix": 1554074760,
+            "text": "2019-04-01 00:26:00 +0100",
+            "iso_8601": "2019-03-31T23:26:00Z"
+        },
+        "updated_at": {
+            "unix": 1554074828,
+            "text": "2019-04-01 00:27:08 +0100",
+            "iso_8601": "2019-03-31T23:27:08Z"
+        },
+        "subject": "PRE-MARKET JAPANESE AND SOUTH KOREAN STOCK NEWS: Nissan (7201 JT) completes sale of battery unit to Envision Group",
+        "content": "<p>JAPAN</p><p>Fanuc (6954 JT) - Co. CEO Inaba is to step down. (Newswires)</p><p>Nissan (7201 JT) - Co. completes sale of battery unit to Envision Group. (Newswires)</p><p>Nomura Holdings (8604 JT) - Co. received approval to set up a securities unit in China. (Newswires)</p><p>Rakuten (4755 JT) - Co. is considering not requiring a 2yr contract from its mobile customers. (Nikkei)</p><p>Trade - US and Japan are to conduct trade talks on April 15th-16th. (Newswires)</p><p>Other News - BoJ kept its bond buying amounts for April unchanged from the prior month. (Newswires)</p><p>&nbsp;</p><p>SOUTH KOREA</p><p>Hyundai Motors (005380 KS) - Co. is to recall nearly 16.5k Veloster vehicles in North America. (Yonhap)</p><p>Other News - US President Trump commented that new sanctions on North Korea are unnecessary. (Newswires)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-japanese-and-south-korean-stock-news-nissan-7201-jt-completes-sale-of-battery-unit-to-envision-group-31-03-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-04-01 07:26:00",
+        "gmt_time": "2019-03-31 23:26:00"
+    },
+    {
+        "id": 862321,
+        "updated_sequence": 1823365,
+        "published_at": {
+            "unix": 1554073680,
+            "text": "2019-04-01 00:08:00 +0100",
+            "iso_8601": "2019-03-31T23:08:00Z"
+        },
+        "updated_at": {
+            "unix": 1554073845,
+            "text": "2019-04-01 00:10:45 +0100",
+            "iso_8601": "2019-03-31T23:10:45Z"
+        },
+        "subject": "Woolworths (WOW AT) announces completion of sale of petrol business and a AUD 1.7bln off-market buyback, while it identified around 30 Big W stores and 2 distribution centres for closure over next 3 years ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "woolworths-wow-at-announces-completion-of-sale-of-petrol-business-and-a-aud-1-7bln-off-market-buyback-while-it-identified-around-30-big-w-stores-and-2-distribution-centres-for-closure-over-next-3-years-31-03-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-04-01 07:08:00",
+        "gmt_time": "2019-03-31 23:08:00"
+    },
+    {
+        "id": 862320,
+        "updated_sequence": 1823362,
+        "published_at": {
+            "unix": 1554073440,
+            "text": "2019-04-01 00:04:00 +0100",
+            "iso_8601": "2019-03-31T23:04:00Z"
+        },
+        "updated_at": {
+            "unix": 1554073540,
+            "text": "2019-04-01 00:05:40 +0100",
+            "iso_8601": "2019-03-31T23:05:40Z"
+        },
+        "subject": "Kellogg (K) is near an agreement to sell some brands to Ferrero",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "kellogg-k-is-near-an-agreement-to-sell-some-brands-to-ferrero-31-03-2019",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-04-01 07:04:00",
+        "gmt_time": "2019-03-31 23:04:00"
+    },
+    {
+        "id": 862319,
+        "updated_sequence": 1823359,
+        "published_at": {
+            "unix": 1554073260,
+            "text": "2019-04-01 00:01:00 +0100",
+            "iso_8601": "2019-03-31T23:01:00Z"
+        },
+        "updated_at": {
+            "unix": 1554073355,
+            "text": "2019-04-01 00:02:35 +0100",
+            "iso_8601": "2019-03-31T23:02:35Z"
+        },
+        "subject": "Ireland Manufacturing PMI (Mar) 53.9 (Prev. 54.0)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "ireland-manufacturing-pmi-mar-53-9-prev-54-0-31-03-2019",
+        "hidden": false,
+        "section": {
+            "id": 6,
+            "name": "EU Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-04-01 07:01:00",
+        "gmt_time": "2019-03-31 23:01:00"
+    },
+    {
+        "id": 862318,
+        "updated_sequence": 1823356,
+        "published_at": {
+            "unix": 1554073200,
+            "text": "2019-04-01 00:00:00 +0100",
+            "iso_8601": "2019-03-31T23:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1554073280,
+            "text": "2019-04-01 00:01:20 +0100",
+            "iso_8601": "2019-03-31T23:01:20Z"
+        },
+        "subject": "Australian Core Logic House PX (Mar) -0.7% (Prev. -0.9%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "australian-core-logic-house-px-mar-0-7-prev-0-9-31-03-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-04-01 07:00:00",
+        "gmt_time": "2019-03-31 23:00:00"
+    },
+    {
+        "id": 862317,
+        "updated_sequence": 1823353,
+        "published_at": {
+            "unix": 1554072840,
+            "text": "2019-03-31 23:54:00 +0100",
+            "iso_8601": "2019-03-31T22:54:00Z"
+        },
+        "updated_at": {
+            "unix": 1554072936,
+            "text": "2019-03-31 23:55:36 +0100",
+            "iso_8601": "2019-03-31T22:55:36Z"
+        },
+        "subject": "Goldman Sach says sees near-term risks for GBP as skewed to the upside on condition that indicative vote process is moving along",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "goldman-sach-says-sees-near-term-risks-for-gbp-as-skewed-to-the-upside-on-condition-that-indicative-vote-process-is-moving-along-31-03-2019",
+        "hidden": false,
+        "section": {
+            "id": 22,
+            "name": "FX Flows"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-04-01 06:54:00",
+        "gmt_time": "2019-03-31 22:54:00"
+    },
+    {
+        "id": 862316,
+        "updated_sequence": 1823350,
+        "published_at": {
+            "unix": 1554072780,
+            "text": "2019-03-31 23:53:00 +0100",
+            "iso_8601": "2019-03-31T22:53:00Z"
+        },
+        "updated_at": {
+            "unix": 1554072840,
+            "text": "2019-03-31 23:54:00 +0100",
+            "iso_8601": "2019-03-31T22:54:00Z"
+        },
+        "subject": "Barclays recommends selling EUR/AUD with a target of 1.5675 and stop-loss at 1.5930",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "barclays-recommends-selling-eur-aud-with-a-target-of-1-5675-and-stop-loss-at-1-5930-31-03-2019",
+        "hidden": false,
+        "section": {
+            "id": 22,
+            "name": "FX Flows"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-04-01 06:53:00",
+        "gmt_time": "2019-03-31 22:53:00"
+    },
+    {
+        "id": 862315,
+        "updated_sequence": 1823347,
+        "published_at": {
+            "unix": 1554071880,
+            "text": "2019-03-31 23:38:00 +0100",
+            "iso_8601": "2019-03-31T22:38:00Z"
+        },
+        "updated_at": {
+            "unix": 1554072099,
+            "text": "2019-03-31 23:41:39 +0100",
+            "iso_8601": "2019-03-31T22:41:39Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIAN STOCK NEWS: Rio Tinto (RIO AT) sees impact of disruption from cyclone to result in loss of around 14mln tons of production this year",
+        "content": "<p>AMP Capital (AMP AT) - Blackrock Is said to be interested in Co.’s capital unit. (Newswires)</p><p>Asaleo Care (AHY AT) - Co. completes sale of Australian consumer tissue business. (Newswires)</p><p>Charter Hall REIT (CQR AT) - Co. shares halted ahead of M&amp;A and share placement announcement. (Newswires)</p><p>oOh!media (OML AT) - Buyout funds are reportedly expressing interest in the Co. (Newswires)</p><p>Rio Tinto (RIO AT) - Co. sees Pilbara iron ore shipments to be at lower end of 338mln-350mln tons guidance and stated the impact of disruption from the recent cyclone to result in loss of around 14mln tons of production this year. (Newswires)</p><p>Financials - The costs to the major banks of remediating misconduct could top AUD 6bln by end-2020 according to reports citing analysts and former banking executives. (AFR)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-australian-stock-news-rio-tinto-rio-at-sees-impact-of-disruption-from-cyclone-to-result-in-loss-of-around-14mln-tons-of-production-this-year-31-03-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-04-01 06:38:00",
+        "gmt_time": "2019-03-31 22:38:00"
+    },
+    {
+        "id": 862314,
+        "updated_sequence": 1823342,
+        "published_at": {
+            "unix": 1554071220,
+            "text": "2019-03-31 23:27:00 +0100",
+            "iso_8601": "2019-03-31T22:27:00Z"
+        },
+        "updated_at": {
+            "unix": 1554071308,
+            "text": "2019-03-31 23:28:28 +0100",
+            "iso_8601": "2019-03-31T22:28:28Z"
+        },
+        "subject": "Algeria's President is reportedly preparing to announce resignation",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "algeria-s-president-is-reportedly-preparing-to-announce-resignation-31-03-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-04-01 06:27:00",
+        "gmt_time": "2019-03-31 22:27:00"
+    },
+    {
+        "id": 862313,
+        "updated_sequence": 1823337,
+        "published_at": {
+            "unix": 1554070500,
+            "text": "2019-03-31 23:15:00 +0100",
+            "iso_8601": "2019-03-31T22:15:00Z"
+        },
+        "updated_at": {
+            "unix": 1554070566,
+            "text": "2019-03-31 23:16:06 +0100",
+            "iso_8601": "2019-03-31T22:16:06Z"
+        },
+        "subject": "Turkey President Erdogan says although the Mayorship may have been lost in Istanbul, we won many municipalities in Istanbul",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "turkey-president-erdogan-says-although-the-mayorship-may-have-been-lost-in-istanbul-we-won-many-municipalities-in-istanbul-31-03-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-04-01 06:15:00",
+        "gmt_time": "2019-03-31 22:15:00"
+    },
+    {
+        "id": 861991,
+        "updated_sequence": 1823322,
+        "published_at": {
+            "unix": 1554069600,
+            "text": "2019-03-31 23:00:00 +0100",
+            "iso_8601": "2019-03-31T22:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1554069600,
+            "text": "2019-03-31 23:00:00 +0100",
+            "iso_8601": "2019-03-31T22:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-28-03-2019",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-04-01 06:00:00",
+        "gmt_time": "2019-03-31 22:00:00"
+    },
+    {
+        "id": 862312,
+        "updated_sequence": 1823330,
+        "published_at": {
+            "unix": 1554069600,
+            "text": "2019-03-31 23:00:00 +0100",
+            "iso_8601": "2019-03-31T22:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1554069753,
+            "text": "2019-03-31 23:02:33 +0100",
+            "iso_8601": "2019-03-31T22:02:33Z"
+        },
+        "subject": "Australian CBA Manufacturing PMI (Mar F) 52.0 (Prev. 52.0)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "australian-cba-manufacturing-pmi-mar-f-52-0-prev-52-0-31-03-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-04-01 06:00:00",
+        "gmt_time": "2019-03-31 22:00:00"
+    },
+    {
+        "id": 862310,
+        "updated_sequence": 1823320,
+        "published_at": {
+            "unix": 1554069240,
+            "text": "2019-03-31 22:54:00 +0100",
+            "iso_8601": "2019-03-31T21:54:00Z"
+        },
+        "updated_at": {
+            "unix": 1554069309,
+            "text": "2019-03-31 22:55:09 +0100",
+            "iso_8601": "2019-03-31T21:55:09Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASES CALENDAR NOW AVAILABLE IN THE RESEARCH SECTION: Highlights BoJ Tankan Survey and Chinese Caixin Manufacturing PMI",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asian-daily-economic-releases-calendar-now-available-in-the-research-section-highlights-boj-tankan-survey-and-chinese-caixin-manufacturing-pmi-31-03-2019",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-04-01 05:54:00",
+        "gmt_time": "2019-03-31 21:54:00"
+    },
+    {
+        "id": 862309,
+        "updated_sequence": 1823317,
+        "published_at": {
+            "unix": 1554067980,
+            "text": "2019-03-31 22:33:00 +0100",
+            "iso_8601": "2019-03-31T21:33:00Z"
+        },
+        "updated_at": {
+            "unix": 1554068144,
+            "text": "2019-03-31 22:35:44 +0100",
+            "iso_8601": "2019-03-31T21:35:44Z"
+        },
+        "subject": "Rio Tinto (RIO AT) sees Pilbara iron ore shipments to be at lower end of 338mln-350mln tons and says impact of disruption from cyclone will result in loss of around 14mln tonnes of production this year",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "rio-tinto-rio-at-sees-pilbara-iron-ore-shipments-to-be-at-lower-end-of-338mln-350mln-tons-and-says-impact-of-disruption-from-cyclone-will-result-in-loss-of-around-14mln-tonnes-of-production-this-year-31-03-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-04-01 05:33:00",
+        "gmt_time": "2019-03-31 21:33:00"
+    },
+    {
+        "id": 862307,
+        "updated_sequence": 1823334,
+        "published_at": {
+            "unix": 1554067140,
+            "text": "2019-03-31 22:19:00 +0100",
+            "iso_8601": "2019-03-31T21:19:00Z"
+        },
+        "updated_at": {
+            "unix": 1554070460,
+            "text": "2019-03-31 23:14:20 +0100",
+            "iso_8601": "2019-03-31T22:14:20Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p><strong>ASIA-PAC</strong></p><ul><li>Chinese Manufacturing PMI (Mar) 50.5 vs. Exp. 49.5 (Prev. 49.2); First expansionary reading since October. (Newswires)</li><li>Chinese Non-Manufacturing PMI (Mar) 54.8 vs. Exp. 54.5 (Prev. 54.3)</li></ul><p>PBoC denied rumours that were circulating on Friday that the RRR could be reduced today. (Newswires)</p><p>Chinese President Xi is said to be wary about a summit with US President Trump given the difficulty in reaching a compromise according to reports on Friday, while China’s Global Times editor tweeted that China has been more cautious on its optimism from trade talks than the US. However, there were separate reports from other Chinese press that suggested China-US trade talks have made 'new' progress and NEC Director Kudlow also suggested headway was made in trade talks. (Newswires/Nikkei/Xinhua/Twitter)</p><p>Indian Trade Ministry has discussed delaying retaliatory tariffs on US good by a month as it plans to send a trade delegation to Washington to address trade issues, according to a spokeswoman. (Newswires)</p><p><strong>UK/EU</strong></p><p>UK MPs voted by a majority of 58 (344 vs 286) to reject PM May’s Withdrawal Agreement. In light of the rejection, the EU exit date becomes April 12th, as opposed to May 23rd if it would have been accepted. (Newswires)</p><p>UK PM May said there is not enough time to agree or ratify a deal, while she added that a further extension needs a clear purpose and that the UK will almost certainly need to hold EU elections. Furthermore, PM May is said to suggest that she will continue with her deal and have a fourth Meaningful Vote according to Telegraph's Hope. (Newswires/Twitter)</p><p>UK Conservative Party Deputy Chairman Cleverly said the party is not preparing for a snap general election as it wouldn’t solve anything and could cause an “unnecessary delay’’ to Brexit. (Newswires)</p><p>Downing Street is seeking to delay any Conservative party leadership contest until October in a move that will hamper the campaign of established candidates such as Boris Johnson, Jeremy Hunt and Sajid Javid, while those close to PM May are reportedly to push for a new Prime Minister to be chosen after the party’s conference at the end of September. (Newswires/Guardian)</p><p>Downing Street was said to be planning to bring UK PM May's deal back to the HoC again this week and threatened an election if it cannot secure a majority according to Buzzfeed's Wickham.&nbsp; In related news, there was chatter among Tory MPs that Brexit is heading towards a customs union on Monday and the government will have a choice as to whether to accept it (loses scores of Tory MPs without guarantee of Lab to make up the numbers) or presumably, to dissolve parliament, according to Sky News Political Correspondent Goodall. (Twitter)</p><p>UK could ask for an additional short extension to Brexit and PM May is said to be open to the possibility of altering the political declaration, according to an official. (Newswires)</p><p>A minimum of 19 MEPs representing Leave-voting constituencies in UK are actively campaigning for a People’s Vote to overturn the referendum. (Telegraph)</p><p>EU Commission said a no-deal Brexit on April 12th is now a likely scenario and European Council President Tusk called for an EU summit on April 10th in light of UK Parliament rejected Withdrawal Agreement, while there were also separate reports that the EU is said to see a no deal Brexit as more likely than a long delay. (Newswires)</p><p>EU's Barnier said on Friday that the EU are willing to have a permanent customs union with the UK. Elsewhere. EU’s Juncker commented that the EU have been patient with Britain but patience runs out and that he would like UK to reach an accord regarding Brexit in the next hours or days. (Newswires)</p><ul><li>UK GDP (Q4) Q/Q 0.2% vs. Exp. 0.2% (Prev. 0.2%). (Newswires)</li><li>UK GDP (Q4) Y/Y 1.4% vs. Exp. 1.3% (Prev. 1.3%)</li></ul><p>ECB’s Knot commented that the ECB would need a clear monetary-policy reason to consider acting to mitigate the effects of negative interest rates on banks, while he also expressed doubts on tiered deposit rates as a best solution. (Newswires)</p><p><strong>FX</strong></p><p>Turkey opposition party is claiming victory in Istanbul and Ankara, while the ruling AK Party is also claiming to have won in Istanbul following local elections over the weekend which are seen as a referendum on President Erdogan. (Newswires)</p><p><strong>COMMODITIES</strong></p><p>US Baker Hughes Rig Count: Oil rigs -8 at 816, natgas rigs -2 at 190, total rigs -10 at 1006. (Newswires)</p><p><strong>GEOPOLITICS</strong></p><p>US are preparing new sanctions on Russia amid the Salisbury attack in the UK, according to sources. (Newswires)</p><p>&nbsp;</p><p><strong>US</strong></p><p>US President Trump said he could close the border with Mexico for trade and for a long time, while Mexican Foreign Minister later responded that Mexico does not act on the basis of threats and that Mexico is a great neighbour. (Newswires)</p><p>US NEC Director Kudlow said the Fed should cut rates by 50bps, while he also commented that there is no inflation out there and that US President Trump would like the Fed to stop shrinking the balance sheet. (Newswires/Axios)</p><p>Fed's Quarles (voter, neutral) said further rate hikes are likely to be needed at some point given the optimistic economic outlook but reiterated the Fed's wait-and-see stance. Quarles added that he does not view the yield curve inversion as much of a harbinger of recession and attributes it to other causes like the size of the Fed's balance sheet. (Newswires)</p><p>Fed's Kashkari (non-voter, dove) said he is happy that the Fed is pausing and sees no reason to hike rates, while he added that he would support a cut if he came to the conclusion that the economy is slowing and that the balance of risks has shifted. (Newswires)</p><p>Fed's Kaplan (non-voter, dove) said US inflation running under the 2% target allows the Fed to be patient, while he added he is not committed to the next policy move and is data dependent. Furthermore, Kaplan commented that US economy more sensitive to rate changes than ever before due to high debt. (Newswires)</p><p><strong>MARKET RECAP</strong></p><p>DowDuPont (DWDP) traded near the bottom of the Dow on Friday as it guided its earnings and revenue lower due to flooding impact. Restoration Hardware (RH) dived after an abysmal FY profit forecast. 3M (MMM) faced headwinds on a negative mention by JPMorgan’s industrials analyst Tulsa. BlackBerry (BB) surged after reporting its earnings report. Following Thursday’s session seeing all-time highs for Lululemon (LULU), the stock pared back some of the move today as two top stake holders cut their positions. Gilead (GILD) opened higher on reporting its arthritis drug had met its primary endpoint. Celgene (CELG) caught a bid after independent merger review firm ISS gave its approval for it to be acquired by Bristol-Myers (BMY), which consequentially dipped lower. Carmax (KMX) and Science Applications International (SAIC) surged on an earnings beat. SPX +0.67% at 2834, NDX +0.80% at 7379, DJI +0.82% at 25929.</p><p>At settlement, major curve spreads had narrowed by between 1bps (2s5s) and 4bps (2s30s). Profit taking was cited in APAC trade, while the trade optimism chestnut was also cited. An attempt at a move higher in European trade ran out of steam, but did see some upside after PCE data was released (deflator saw the first decline since March 2017). There was also demand inspired by Brexit uncertainty, as well US President Trump firing barbs at Mexico on Twitter, and then subsequently in remarks. The curve remained flatter into the close, and traders will be focussed on Monday’s liquidity impact from SOMA day. US T-note futures (M9) settled 9 ticks lower at 124-07.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-asia-pac-opening-news-31-03-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-04-01 05:19:00",
+        "gmt_time": "2019-03-31 21:19:00"
+    }
+]

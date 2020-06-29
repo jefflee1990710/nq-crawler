@@ -1,0 +1,206 @@
+[
+    {
+        "id": 689627,
+        "updated_sequence": 1113585,
+        "published_at": {
+            "unix": 1545609540,
+            "text": "2018-12-23 23:59:00 +0000",
+            "iso_8601": "2018-12-23T23:59:00Z"
+        },
+        "updated_at": {
+            "unix": 1545609608,
+            "text": "2018-12-24 00:00:08 +0000",
+            "iso_8601": "2018-12-24T00:00:08Z"
+        },
+        "subject": "Samsung Electronics (005930 KS) is expected to report weaker-than-expected Q4 results; according to Yonhap",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Yonhap",
+        "slug": "samsung-electronics-005930-ks-is-expected-to-report-weaker-than-expected-q4-results-according-to-yonhap-24-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-24 07:59:00",
+        "gmt_time": "2018-12-23 23:59:00"
+    },
+    {
+        "id": 689626,
+        "updated_sequence": 1113582,
+        "published_at": {
+            "unix": 1545605820,
+            "text": "2018-12-23 22:57:00 +0000",
+            "iso_8601": "2018-12-23T22:57:00Z"
+        },
+        "updated_at": {
+            "unix": 1545605923,
+            "text": "2018-12-23 22:58:43 +0000",
+            "iso_8601": "2018-12-23T22:58:43Z"
+        },
+        "subject": "PRE-MARKET SOUTH KOREAN NEWS: Nothing to highlight. Japanese markets shut due to a public holiday",
+        "content": "<p><strong>South Korea</strong></p>\r\n\r\n<p>- South Korea&rsquo;s Navy has dismissed Japan&rsquo;s claims that a South Korean warship directed fire-control radar at Tokyo&rsquo;s patrol aircraft on Thursday. (Yonhap)</p>\r\n\r\n<p>- US Secretary of State Pompeo said the US are &ldquo;counting on&rdquo; a second summit between US President Trump and North Korean leader Kim Jung Un; he added that there has been progress in denuclearisation. (NPR)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "pre-market-south-korean-news-nothing-to-highlight-japanese-markets-shut-due-to-a-public-holiday-23-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-24 06:57:00",
+        "gmt_time": "2018-12-23 22:57:00"
+    },
+    {
+        "id": 689625,
+        "updated_sequence": 1113579,
+        "published_at": {
+            "unix": 1545604140,
+            "text": "2018-12-23 22:29:00 +0000",
+            "iso_8601": "2018-12-23T22:29:00Z"
+        },
+        "updated_at": {
+            "unix": 1545604405,
+            "text": "2018-12-23 22:33:25 +0000",
+            "iso_8601": "2018-12-23T22:33:25Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIA STOCK NEWS: ASX set to open lower after Nasdaq fell into bear market, oil slid and base metals drifted lower on Friday. (AFR)",
+        "content": "<p><strong>Australia</strong>:</p>\r\n\r\n<p><strong>Stocks</strong></p>\r\n\r\n<p>- ASX set to open lower after Nasdaq fell into bear market, oil slid and base metals drifted lower on Friday. (AFR)</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Rio Tinto (RIO AT)<br />- Co. has completed the sale of Grasberg interest in Indonesia for USD 3.5bln. Proceeds will be allocated with FY18 results. CEO said that a bulk of the Co.&rsquo;s asset sales are now complete and they wont be looking at any near-term large acquisitions. (Newswires/FT)</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>MYOB (MYO AT)<br />- Co. agrees to support KKR&rsquo;s AUD 3.40/shr while affirming FY 18 underlying EBITDA and organic revenue guidance. &nbsp;(Newswires)</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Yancoal Australia (YAL AT)<br />- Retail shortfall bookbuild has failed to clear HKD 23.48/shr offer price. (Newswires)</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Gascoyne Resources (GCY AT)<br />- Co. guides FY19 gold production 92-102K oz at AISC at AUD 1220-1320/oz. (Newswires)</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Navitas (NCT AT)<br />- Co. signed a recruitment and marketing agreement with James Cook University. (Newswires)</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Peninsula Energy (PEN AT)<br />- Co.&rsquo;s unit has signed a new uranium toll mining agreement with Uranium One Americas. (Newswires)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "pre-market-australia-stock-news-asx-set-to-open-lower-after-nasdaq-fell-into-bear-market-oil-slid-and-base-metals-drifted-lower-on-friday-afr-23-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-24 06:29:00",
+        "gmt_time": "2018-12-23 22:29:00"
+    },
+    {
+        "id": 689425,
+        "updated_sequence": 1113560,
+        "published_at": {
+            "unix": 1545602400,
+            "text": "2018-12-23 22:00:00 +0000",
+            "iso_8601": "2018-12-23T22:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1545602400,
+            "text": "2018-12-23 22:00:00 +0000",
+            "iso_8601": "2018-12-23T22:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-20-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-24 06:00:00",
+        "gmt_time": "2018-12-23 22:00:00"
+    },
+    {
+        "id": 689624,
+        "updated_sequence": 1113576,
+        "published_at": {
+            "unix": 1545602400,
+            "text": "2018-12-23 22:00:00 +0000",
+            "iso_8601": "2018-12-23T22:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1545604259,
+            "text": "2018-12-23 22:30:59 +0000",
+            "iso_8601": "2018-12-23T22:30:59Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASES CALENDAR NOW AVAILABLE IN THE RESEARCH SECTION: Japanese Markets are closed for Emperor's Birthday",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asian-daily-economic-releases-calendar-now-available-in-the-research-section-japanese-markets-are-closed-for-emperor-s-birthday-23-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-24 06:00:00",
+        "gmt_time": "2018-12-23 22:00:00"
+    },
+    {
+        "id": 689623,
+        "updated_sequence": 1113571,
+        "published_at": {
+            "unix": 1545602400,
+            "text": "2018-12-23 22:00:00 +0000",
+            "iso_8601": "2018-12-23T22:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1545603037,
+            "text": "2018-12-23 22:10:37 +0000",
+            "iso_8601": "2018-12-23T22:10:37Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p><strong>24th December 2018</strong></p>\r\n\r\n<p><strong>ASIA-PAC</strong></p>\r\n\r\n<p>Tsunamis linked to volcanic eruptions hit the coastal towns around Indonesia&#39;s Sunda Strait, killing at least 222 people and injuring 843. (BBC/ Guardian)</p>\r\n\r\n<p>White House Trade Adviser Navarro said a trade pact with China in 90 days is difficult. (Nikkei)</p>\r\n\r\n<p><strong>UK/EU</strong></p>\r\n\r\n<p>UK PM May&#39;s allies are plotting to keep her at No10 for at least another two years amid growing confidence Brexit her deal will pass the meaningful vote in January. (The Times)</p>\r\n\r\n<p>DATA RECAP</p>\r\n\r\n<p>UK GDP QQ Q3 0.6% vs. Exp. 0.6% (Prev. 0.6%) (Newswires)<br />UK GDP YY Q3 1.5% vs. Exp. 1.5% (Prev. 1.5%)</p>\r\n\r\n<p><strong>CENTRAL BANKS</strong></p>\r\n\r\n<p>ECB&#39;s Weidmann (Hawk) said he is worried about the implications of Italy&#39;s budget deal with the European Commission for future fiscal discipline in the Euro zone. (Welt Am Sonntag)</p>\r\n\r\n<p>ECB&#39;s Nowotny (Hawk) said the ECB should normalise monetary policy quicker than the market expects. (Newswires)</p>\r\n\r\n<p>Fed&#39;s Mester (Hawk, Voter) said the US economy is doing quite well but global outlook has softened. (Newswires)</p>\r\n\r\n<p>Fed&#39;s Williams (Neutral, Voter) said rates are Fed&#39;s primary tool, could reconsider balance sheet policy if economic outlook deteriorates materially. He added that if there is a deterioration in the economy, Fed could consider it&#39;s balance sheet policy. (Newswires)</p>\r\n\r\n<p><strong>COMMODITIES</strong></p>\r\n\r\n<p>UAE Energy Minister Mazrouei said if the 1.2mln BPD OPEC+ production cut is not enough, then OPEC may decide curb further production. He added that he believes the supply glut will be removed in Q1 2019. Mazrouei reiterated that OPEC&rsquo;s 800K BPD cut is to start in January and added that the cartels will have an extra meeting if the cut is not enough. (Newswires)</p>\r\n\r\n<p>Iraqi Oil Minister said they want to stem the decline in oil prices and there could be a supply shortage in Q3 2019. He added that OPEC wants to output cut deal to be for the year and Iraq shares Saudi&#39;s view that the deal will be extended. (Newswires)<br />&nbsp;</p>\r\n\r\n<p><strong>GEOPOLITICAL</strong></p>\r\n\r\n<p>Russian Foreign Ministry said that Russia and Iran have agreed to continue expanding and protecting bilateral cooperation from US sanctions. (Newswires)</p>\r\n\r\n<p>US Secretary of State Pompeo said the US are &ldquo;counting on&rdquo; a second summit between US President Trump and North Korean leader Kim Jung Un; he added that there has been progress in denuclearisation. (NPR)</p>\r\n\r\n<p>Canadian Foreign Minister Freeland has called for the immediate release of the two Canadians detained in China. (Newswires)</p>\r\n\r\n<p><strong>US</strong></p>\r\n\r\n<p>US President Trump appointed Deputy Defence Secretary Patrick Shanahan as acting Defence Secretary effective Jan 1st, following Jim Mattis&#39; resignation last week. (Twitter/BBC)</p>\r\n\r\n<p>US envoy to coalition against ISIS, Brett McGurk has resigned (effective Dec 31st) over President Trump&#39;s decision to pull troops from Syria. (BBC/Newswires)</p>\r\n\r\n<p>More resignations are&nbsp;expected from the Pentagon following the departure of Secretary of D&eacute;fense Mattis. (Fox News)</p>\r\n\r\n<p>US President Trump has reportedly privately discussed firing Fed Chair Powell over the latest Fed rate hike against the backdrop of a global stocks rout; according to four sources familiar with the matter. (Newswires) Furthermore, US Treasury Secretary Mnuchin tweeted about Trump&#39;s disapproval with the latest hike, however he noted that Trump &ldquo;never suggested&rdquo; firing Powell as he does not believe he has the right to. (Twitter) It was then reported on WSJ that White House advisers are discussing arranging a meeting between President Trump and Fed Chair Powell in the coming weeks. (WSJ)</p>\r\n\r\n<p>US Treasury Secretary Mnuchin said he will convene a call on Monday with US President Trump&rsquo;s working group on financial markets, the call will include officials from the Fed, SEC and CFTC. (Newswires)</p>\r\n\r\n<p>The US government has been partially shut after Senate failed to pass a bill containing funding for US President Trump&#39;s border wall. A top White House official warned that it is &quot;very possible&quot; the shutdown will extend into the new year. Senate are to meet again on Dec 27th to try reach a deal. Trump is also said to be willing to accept USD 2.6bln in wall funding; according to Fox News. (Newswires/Telegraph/Fox News)</p>\r\n\r\n<p>White House Budget Director Mulvaney said border wall funding proposals are in the range of USD 1.6-5.0bln, he added that it is possible for the shutdown to continue into new Congress. (Fox News)</p>\r\n\r\n<p>BoC Survey shows that inflation expectations are roughly unchanged and remain in top half of the bank&rsquo;s 1%-3% inflation control range. (Newswires)</p>\r\n\r\n<p>DATA RECAP</p>\r\n\r\n<p>US GDP Final Q3 3.4% vs. Exp. 3.5% (Prev. 3.5%) (Newswires)<br />US Durable Goods Nov 0.8% vs. Exp. 1.6% (Prev. -4.3%)<br />US Core PCE Price Index YY Nov 1.9% vs. Exp. 1.9% (Prev. 1.8%)<br />US Core PCE Price Index MM Nov 0.1% vs. Exp. 0.2% (Prev. 0.1%)<br />US U Mich Expectations Final Dec 87.0 vs. Exp. 86.1 (Prev. 86.1)</p>\r\n\r\n<p>Canadian GDP MM Oct 0.3% vs. Exp. 0.2% (Prev. -0.1%)</p>\r\n\r\n<p><strong>MARKET RECAP</strong></p>\r\n\r\n<p>Nike (NKE) outperformed today after reporting a beat on EPS and revenue estimates, as well as benefiting from upgrades at JPMorgan and Pivotal Research; this helped Foot Locker (FL) to outperform on the day too. Altria (MO) opened lower following news of JUUL labs, which it has a 35% stake in, having to pay investors and employees USD 4bln to ease tensions over the acquisition; Citi also downgraded the stock. Perrigo (PRGO) nosedived on the back of news it was appealing a EUR 1.6bln fine in Ireland, creating uncertainty for its future. Conagra Brands (CAG) continued its fall from yesterday as JPMorgan and Credit Suisse both cut their price targets. FAANG stocks (FB, AAPL, AMZN, NFLX, GOOGL) drifted lower through the session. DJIA -1.81% at 22445.37, S&amp;P 500 -2.06% at 2416.62, NASDAQ -2.99% at 6333.00</p>\r\n\r\n<p>US T-Note futures were pretty much flat by settlement on Friday. There were some downticks after the Fed&rsquo;s Williams suggested that if the economic outlook deteriorated materially, the FOMC could consider its policy to keep the balance sheet unwind on autopilot. However, the Williams moves were faded, before T-Notes resumed modest up ticks, while equities resumed their slide. There is some focus on next week&rsquo;s auctions of 2s, 5s, 7s, with around USD 131bln of supply on tap, however, at the end of play, Treasuries were little changed, with most of the moves seeing the 2s sector, where yields were around 3bps lower.<br />&nbsp;</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "daily-asia-pac-opening-news-23-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-24 06:00:00",
+        "gmt_time": "2018-12-23 22:00:00"
+    }
+]

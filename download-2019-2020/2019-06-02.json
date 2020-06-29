@@ -1,0 +1,614 @@
+[
+    {
+        "id": 871834,
+        "updated_sequence": 1863705,
+        "published_at": {
+            "unix": 1559519700,
+            "text": "2019-06-03 00:55:00 +0100",
+            "iso_8601": "2019-06-02T23:55:00Z"
+        },
+        "updated_at": {
+            "unix": 1559519821,
+            "text": "2019-06-03 00:57:01 +0100",
+            "iso_8601": "2019-06-02T23:57:01Z"
+        },
+        "subject": "Hyundai Engineering & Construction (000720 KS) receives deal to build seawater injection project in Basra, Iraq valued around USD 2.4bln",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "hyundai-engineering-construction-000720-ks-receives-deal-to-build-seawater-injection-project-in-basra-iraq-valued-around-usd-2-4bln-02-06-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-06-03 07:55:00",
+        "gmt_time": "2019-06-02 23:55:00"
+    },
+    {
+        "id": 871833,
+        "updated_sequence": 1863702,
+        "published_at": {
+            "unix": 1559519640,
+            "text": "2019-06-03 00:54:00 +0100",
+            "iso_8601": "2019-06-02T23:54:00Z"
+        },
+        "updated_at": {
+            "unix": 1559519745,
+            "text": "2019-06-03 00:55:45 +0100",
+            "iso_8601": "2019-06-02T23:55:45Z"
+        },
+        "subject": "Toshiba (6502 JT) Memory business will receive JPY 1.3tln in mostly bank loans in which it will use the proceeds to buyback preferred shares from US tech firms including Apple (AAPL)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "toshiba-6502-jt-memory-business-will-receive-jpy-1-3tln-in-mostly-bank-loans-in-which-it-will-use-the-proceeds-to-buyback-preferred-shares-from-us-tech-firms-including-apple-aapl-02-06-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-06-03 07:54:00",
+        "gmt_time": "2019-06-02 23:54:00"
+    },
+    {
+        "id": 871830,
+        "updated_sequence": 1863693,
+        "published_at": {
+            "unix": 1559519400,
+            "text": "2019-06-03 00:50:00 +0100",
+            "iso_8601": "2019-06-02T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1559519508,
+            "text": "2019-06-03 00:51:48 +0100",
+            "iso_8601": "2019-06-02T23:51:48Z"
+        },
+        "subject": "Japanese Capital Spending Ex. Software (Q1) Y/Y 6.9% vs. Exp. 2.3%\t(Prev. 5.5%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-capital-spending-ex-software-q1-y-y-6-9-vs-exp-2-3-prev-5-5-02-06-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-06-03 07:50:00",
+        "gmt_time": "2019-06-02 23:50:00"
+    },
+    {
+        "id": 871832,
+        "updated_sequence": 1863699,
+        "published_at": {
+            "unix": 1559519400,
+            "text": "2019-06-03 00:50:00 +0100",
+            "iso_8601": "2019-06-02T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1559519611,
+            "text": "2019-06-03 00:53:31 +0100",
+            "iso_8601": "2019-06-02T23:53:31Z"
+        },
+        "subject": "Japanese Company Sales (Q1) Y/Y 3.0% (Prev.\t3.7%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-company-sales-q1-y-y-3-0-prev-3-7-02-06-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-06-03 07:50:00",
+        "gmt_time": "2019-06-02 23:50:00"
+    },
+    {
+        "id": 871831,
+        "updated_sequence": 1863696,
+        "published_at": {
+            "unix": 1559519400,
+            "text": "2019-06-03 00:50:00 +0100",
+            "iso_8601": "2019-06-02T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1559519561,
+            "text": "2019-06-03 00:52:41 +0100",
+            "iso_8601": "2019-06-02T23:52:41Z"
+        },
+        "subject": "Japanese Company Profits (Q1) Y/Y 10.3% (Prev. -7.0%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-company-profits-q1-y-y-10-3-prev-7-0-02-06-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-06-03 07:50:00",
+        "gmt_time": "2019-06-02 23:50:00"
+    },
+    {
+        "id": 871829,
+        "updated_sequence": 1863690,
+        "published_at": {
+            "unix": 1559519400,
+            "text": "2019-06-03 00:50:00 +0100",
+            "iso_8601": "2019-06-02T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1559519484,
+            "text": "2019-06-03 00:51:24 +0100",
+            "iso_8601": "2019-06-02T23:51:24Z"
+        },
+        "subject": "Japanese Capital Spending (Q1) Y/Y 6.1% vs. Exp. 2.6%\t(Prev. 5.7%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-capital-spending-q1-y-y-6-1-vs-exp-2-6-prev-5-7-02-06-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-06-03 07:50:00",
+        "gmt_time": "2019-06-02 23:50:00"
+    },
+    {
+        "id": 871827,
+        "updated_sequence": 1863684,
+        "published_at": {
+            "unix": 1559518740,
+            "text": "2019-06-03 00:39:00 +0100",
+            "iso_8601": "2019-06-02T23:39:00Z"
+        },
+        "updated_at": {
+            "unix": 1559519359,
+            "text": "2019-06-03 00:49:19 +0100",
+            "iso_8601": "2019-06-02T23:49:19Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIAN, JAPANESE & SOUTH KOREAN STOCK NEWS: ANZ Bank (ANZ AT) completes sale of life insurance business to Zurich; Toshiba (6502 JT) sells Texas LNG business to Total (FP FP) for more than USD 800mln",
+        "content": "<p>AUSTRALIA</p><p>ANZ Bank (ANZ AT) - Co. completes sale of life insurance business to Zurich Financial Services Australia. (Newswires)</p><p>Bank of Queensland (BOQ AT) - Co. is thought to have conducted talks regarding hiring an adviser to assist with possible merger with another regional bank, although nothing is expected to occur until after a new CEO is appointed. (Newswires)</p><p>Brambles (BXB AT) - Co. completed sale of IFCO RPC pooling business and intends to start on-market share repurchase early this month. (Newswires)</p><p>Caltex (CTX AT) - KKR and Blackstone were thought to be interested in the Co. although a deal is said to be unlikely. (Newswires)</p><p>Lynas (LYC AT) - Wesfarmers (WES AT) will not increase its offer and is reportedly to drop its bid altogether. (Newswires)</p><p>Metcash (MTS AT) - Co. agrees deal to supply Drakes Supermarkets stores in Queensland for an additional 5 years. (Newswires)</p><p>Other News - Top CEOs and chairmen have cautioned against the RBA cutting rates to a record low tomorrow and warned the RBA should have some firepower in the locker in the event of an unexpected recession. (AFR)</p><p>&nbsp;</p><p>JAPAN</p><p>Nexon (3659 JT) - KKR, Bain Capital, MBK, Netmarble and Kakao made formal bids for Co. parent. (Newswires)</p><p>SoftBank (9984 JT) - Co. spokesman denied report that the Co. is said to be experiencing difficulties raising USD 100bln for new tech fund amid some concerns about lack of transparency and governance. (Newswires)</p><p>Toshiba (6502 JT) - Co. confirms sale of Texas LNG business to Total (FP FP) for more than USD 800mln. (Newswires)</p><p>JGBs - BoJ announced its bond purchases for June in which it maintained purchase amounts on all maturities aside from 10yr-25yr JGB purchases which it revised to JPY 100bln-300bln on 3 occasions vs. Prev. JPY 100bln-250bln on 4 occasions. (Newswires)</p><p>Other News - Japan will form multiple funds related to infrastructure exports. (Nikkei)</p><p>&nbsp;</p><p>SOUTH KOREA</p><p>Samsung Engineering (028050 KS) - Altoukhi Co. and Vision International Investment are seeking KRW 723.2bln in compensation from the Co. related to cancellation of the 3rd phase in the Yanbu Power &amp; Desalination Plant. (Newswires)</p><p>Other News - South Korea Defence Minister Jeong and acting US Defence Secretary Shanahan are to discuss the situation on the Korean Peninsula and ways to boost the alliance between the two countries today. (Yonhap)</p><p>Data Recap - South Korea Trade Balance (USD)(May) 2.27B vs. Exp. 5.07B (Prev. 4.00B) - South Korea Exports (May) Y/Y -9.4% vs. Exp. -5.6% (Prev. -2.0%) - South Korea Imports (May) Y/Y -1.9% vs. Exp. 0.4% (Prev. 2.6%)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-australian-japanese-south-korean-stock-news-anz-bank-anz-at-completes-sale-of-life-insurance-business-to-zurich-toshiba-6502-jt-sells-texas-lng-business-to-total-fp-fp-for-more-than-usd-800mln-02-06-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-06-03 07:39:00",
+        "gmt_time": "2019-06-02 23:39:00"
+    },
+    {
+        "id": 871826,
+        "updated_sequence": 1863679,
+        "published_at": {
+            "unix": 1559517480,
+            "text": "2019-06-03 00:18:00 +0100",
+            "iso_8601": "2019-06-02T23:18:00Z"
+        },
+        "updated_at": {
+            "unix": 1559517654,
+            "text": "2019-06-03 00:20:54 +0100",
+            "iso_8601": "2019-06-02T23:20:54Z"
+        },
+        "subject": "IATA lowers 2019 global net forecast to USD 28bln vs. Prev. USD 35.5bln, while it sees 2019 global air cargo traffic at zero growth at best and 2019 global passenger traffic growth at 5% Y/Y",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "iata-lowers-2019-global-net-forecast-to-usd-28bln-vs-prev-usd-35-5bln-while-it-sees-2019-global-air-cargo-traffic-at-zero-growth-at-best-and-2019-global-passenger-traffic-growth-at-5-y-y-02-06-2019",
+        "hidden": false,
+        "section": {
+            "id": 34,
+            "name": "Global Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-06-03 07:18:00",
+        "gmt_time": "2019-06-02 23:18:00"
+    },
+    {
+        "id": 871825,
+        "updated_sequence": 1879430,
+        "published_at": {
+            "unix": 1559516640,
+            "text": "2019-06-03 00:04:00 +0100",
+            "iso_8601": "2019-06-02T23:04:00Z"
+        },
+        "updated_at": {
+            "unix": 1561257039,
+            "text": "2019-06-23 03:30:39 +0100",
+            "iso_8601": "2019-06-23T02:30:39Z"
+        },
+        "subject": "JPMorgan sees RBNZ lowering rates to 1.00% this year from current 1.50%",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "jpmorgan-sees-rbnz-lowering-rates-to-1-00-this-year-from-current-1-50-02-06-2019",
+        "hidden": false,
+        "section": {
+            "id": 11,
+            "name": "RBNZ"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-06-03 07:04:00",
+        "gmt_time": "2019-06-02 23:04:00"
+    },
+    {
+        "id": 871824,
+        "updated_sequence": 1863673,
+        "published_at": {
+            "unix": 1559516400,
+            "text": "2019-06-03 00:00:00 +0100",
+            "iso_8601": "2019-06-02T23:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1559516456,
+            "text": "2019-06-03 00:00:56 +0100",
+            "iso_8601": "2019-06-02T23:00:56Z"
+        },
+        "subject": "Australian CBA Manufacturing PMI (May F) 51.0 (Prev. 51.1)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "australian-cba-manufacturing-pmi-may-f-51-0-prev-51-1-02-06-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-06-03 07:00:00",
+        "gmt_time": "2019-06-02 23:00:00"
+    },
+    {
+        "id": 871823,
+        "updated_sequence": 1863670,
+        "published_at": {
+            "unix": 1559515020,
+            "text": "2019-06-02 23:37:00 +0100",
+            "iso_8601": "2019-06-02T22:37:00Z"
+        },
+        "updated_at": {
+            "unix": 1559515104,
+            "text": "2019-06-02 23:38:24 +0100",
+            "iso_8601": "2019-06-02T22:38:24Z"
+        },
+        "subject": "Nikkei reports that data shows China exports to the US are being rerouted through Vietnam, Taiwan and Mexico in an effort to circumvent tariffs",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Nikkei",
+        "slug": "nikkei-reports-that-data-shows-china-exports-to-the-us-are-being-rerouted-through-vietnam-taiwan-and-mexico-in-an-effort-to-circumvent-tariffs-02-06-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-06-03 06:37:00",
+        "gmt_time": "2019-06-02 22:37:00"
+    },
+    {
+        "id": 871822,
+        "updated_sequence": 1863667,
+        "published_at": {
+            "unix": 1559514780,
+            "text": "2019-06-02 23:33:00 +0100",
+            "iso_8601": "2019-06-02T22:33:00Z"
+        },
+        "updated_at": {
+            "unix": 1559514865,
+            "text": "2019-06-02 23:34:25 +0100",
+            "iso_8601": "2019-06-02T22:34:25Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASES CALENDAR NOW AVAILABLE IN THE RESEARCH SECTION: Highlights include Japanese Capital Spending, Australian Company Profits and Business Inventories, Chinese Caixin Manufacturing PMI",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asian-daily-economic-releases-calendar-now-available-in-the-research-section-highlights-include-japanese-capital-spending-australian-company-profits-and-business-inventories-chinese-caixin-manufacturing-pmi-02-06-2019",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-06-03 06:33:00",
+        "gmt_time": "2019-06-02 22:33:00"
+    },
+    {
+        "id": 871819,
+        "updated_sequence": 1863651,
+        "published_at": {
+            "unix": 1559512860,
+            "text": "2019-06-02 23:01:00 +0100",
+            "iso_8601": "2019-06-02T22:01:00Z"
+        },
+        "updated_at": {
+            "unix": 1559513095,
+            "text": "2019-06-02 23:04:55 +0100",
+            "iso_8601": "2019-06-02T22:04:55Z"
+        },
+        "subject": "US equity futures begin the week negative and extend on Friday's losses amid US-China and US-Mexico trade tensions, while China have also released a white paper in which it formally blamed the US for the setback in negotiations",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-equity-futures-begin-the-week-negative-and-extend-on-friday-s-losses-amid-us-china-and-us-mexico-trade-tensions-while-china-have-also-released-a-white-paper-in-which-it-formally-blamed-the-us-for-the-setback-in-negotiations-02-06-2019",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-06-03 06:01:00",
+        "gmt_time": "2019-06-02 22:01:00"
+    },
+    {
+        "id": 871818,
+        "updated_sequence": 1863655,
+        "published_at": {
+            "unix": 1559512080,
+            "text": "2019-06-02 22:48:00 +0100",
+            "iso_8601": "2019-06-02T21:48:00Z"
+        },
+        "updated_at": {
+            "unix": 1559514092,
+            "text": "2019-06-02 23:21:32 +0100",
+            "iso_8601": "2019-06-02T22:21:32Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p><strong>ASIA-PAC</strong></p><p>China State Council Information Office released a white paper which formalized its position on trade negotiations and stated that the US government bears the responsibility for setback in trade talks, while it also noted that China does not want a trade war but is not afraid of one either. However, it was also reported that China suggested negotiations remain a priority and China State Councillor Wei Fenghe said both sides should follow the consensus by the 2 heads of state and promote a relationship involving coordination, cooperation and stability, while a researcher at the state-backed think tank China Center for International Economic Exchanges suggested China “is expressing its wish to work together,”. (Newswires/WSJ)</p><p>Chinese Commerce Ministry said it will draft a list of 'unreliable' entities which targets foreign players that harm the interest of Chinese firms. In related news, China Global Times Editor tweeted that based on what he knows, China will take major retaliatory measures against the US placing Huawei and other Chinese companies on entity list, while he added that Beijing will not wait passively and more countermeasures will follow although he thinks only those foreign Co.s that have cut off supply chains will be put on the China entity list.. (Newswires/Twitter)</p><p>US customs agents formally began to collect 25% tariffs on USD 200bln list of Chinese goods arriving at US seaports, while China's higher tariffs on US goods on USD 60bln target list took effect at 00:00 local time on June 1st. (Newswires)</p><p>China is to begin probe of FedEx over possible infringement of Huawei’s legal rights regarding rerouted packages. (Xinhua)</p><p>Former PBoC governor Zhou said 7.00 is not necessarily the USD/CNH threshold. (Newswires)</p><p>&nbsp;</p><p><strong>UK/EU</strong></p><p>UK Foreign Minister Hunt said no-deal must be kept on the table but does not want to have to choose between no-deal and no Brexit. (Newswires)</p><p>Italy's 5-Star Movement is in favour of League's proposal to finance the flat tax measure by raising the budget deficit, while there were also reports that Italy told the EU it sees lower borrowing costs and will condition its flat tax on deficit targets. (Newswires/Repubblica)</p><p>Germany’s SPD party leader and ruling coalition partner Andrea Nahles resigned. (Newswires)</p><p>ECB's Visco said that Italy's increase in 2019 debt-to-GDP ratio could exceed the government’s budget forecast due to lower than expected privatization proceeds, while he added that it is counter-productive to raise public deficit and risks triggering a restrictive expansion. (Newswires)</p><p>Fitch affirmed Austria at 'AA+'; Outlook Positive. (Newswires)</p><p>&nbsp;</p><p><strong>COMMODITIES</strong></p><p>Baker Hughes (May 31) US oil rigs +3 at 800 (prev. 797), US nat gas rigs -2 at 184 (prev. 182), total US rigs +1 at 984 (prev. 983). (Newswires)</p><p>&nbsp;</p><p><strong>US</strong></p><p>US President Trump tweeted that Mexico is sending a big delegation to talk about the border and suggested that the problem is that they’ve been “talking” for 25 years and we want action not talk. President Trump also suggested they could solve the Border Crisis in one day if they so desired but added that our companies and jobs are coming back to the USA. (Twitter)</p><p>US Trade Representative Lighthizer was said to have opposed new Mexican tariffs and argued that it could harm USMCA, while US Treasury Secretary Mnuchin was also said to be against new measures against Mexico, according to sources. (WSJ/CNBC)</p><p>Mexico President Lopez Obrador said Mexico will not respond to any US provocations and will be prudent with the US, while he added that disputes must be resolved by dialogue not through coercive measures and that the US trade issue will not change Mexico's migration policy. (Newswires)</p><p>Mexican Economy Minister said Mexico will do what is necessary to defend its legitimate interests and the White House argument that tariffs are a response to a national security emergency are too lax and too broad, while he added that the multilateral system plus NAFTA offers Mexico the tools to respond to tariffs. (Newswires)</p><p>Mexico's Foreign Minister said the process of negotiation has started, spoke with Secretary of State Pompeo and US President Trump Advisor Kushner on the phone. (Newswires)</p><p>Moody's said the new US tariffs on Mexico would be credit negative for the US auto sector which relies heavily on imports from Mexico. (Newswires)</p><p>Fed's Kashkari (Non-Voter, Dove) said he does not see a need to shift policy just yet and that inflation expectations are anchored around 1.7%. (Newswires)</p><ul><li>US Core PCE Price Index (Apr) M/M 0.2% vs. Exp. 0.2% (Rev. 0.1%). (Newswires)</li><li>US Core PCE Price Index (Apr) Y/Y 1.6% vs. Exp. 1.6% (Prev. 1.6%, Rev. 1.5%)</li><li>US Chicago PMI (May) 54.2 vs. Exp. 53.7 (Prev. 52.6)</li></ul><p>&nbsp;</p><p><strong>MARKET RECAP</strong></p><p>US automakers, including Ford (F) and General Motors (GM), were under pressure after US President Trump said he would impose 5% tariffs on Mexican imports. Later Moody's said the new US tariffs on Mexico would be credit negative for the US auto sector which relies heavily on imports from Mexico. Constellations Brands (STZ), owner of Corona beer, was also hit by the news. Energy names, including ExxonMobil (XOM), Chevron (CVX) and ConocoPhilips (COP), shrugged off news that the US was to postpone petrochemical sanctions on Iran, in an apparent attempt to de-escalate tensions between the two nations, and instead followed the crude complex lower as risk sentiment soured. Tesla (TSLA) managed to outperform much of the tech/automaker sector on the day as news emerged that the firm was to lower the price of its Model S in China to spur demand. Costco (COST) lost ground despite the firm posting a beat on both top and bottom-line earnings expectations and Baird analyst Peter Benedict saying the co.’s bull thesis remains intact. Johnson &amp; Johnson (JNJ) sold off somewhat as news emerged that it had lost another talcum powder case, one of thousands and must pay a USD 300mln punitive award in New York. Gap (GPS) sunk after the co. reported poor earnings. Dell Technologies (DELL) opened lower after a revenue miss. S&amp;P 500 -1.3% AT 2752, NASDAQ-100 -1.6% AT 7128, DOW JONES -1.4% AT 24815.</p><p>Last week saw US 5yr yields fell to sub-2%, the 3m/10yr spread moved further into inversion (resulting in more commentary about the risks of recession over a 12-24 month horizon), and some data surprised to the downside, seeing the market price in three Fed rate cuts by the end of 2020. The fixed income bid was also supported by a slide in equities, although month-end models had suggest positive inflows into stocks. And the latest US measures against Mexico have added to Treasury upside as we close out the week; With 2s, 5s sub-2%, 7s are a couple of basis points away. Bund yields fell in sympathy, seeing German 10yr yields flirt with fresh all-time lows. Comments from Clarida on Thursday and the aforementioned risk-off were underpinning the bid on Friday. At settlement, the curve had bull-flattened, though major curve spreads were steeper (notably the 2s20s widened 6bps, 2s10s +5bps, 5s30s +3bps, 2s5s +3bps). US T-note futures (M9) settled +22 ticks at 126-12.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-asia-pac-opening-news-02-06-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-06-03 05:48:00",
+        "gmt_time": "2019-06-02 21:48:00"
+    },
+    {
+        "id": 871817,
+        "updated_sequence": 1863643,
+        "published_at": {
+            "unix": 1559511420,
+            "text": "2019-06-02 22:37:00 +0100",
+            "iso_8601": "2019-06-02T21:37:00Z"
+        },
+        "updated_at": {
+            "unix": 1559511477,
+            "text": "2019-06-02 22:37:57 +0100",
+            "iso_8601": "2019-06-02T21:37:57Z"
+        },
+        "subject": "ANZ Bank (ANZ AT) completes sale of life insurance business to Zurich Financial Services Australia",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "anz-bank-anz-at-completes-sale-of-life-insurance-business-to-zurich-financial-services-australia-02-06-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-06-03 05:37:00",
+        "gmt_time": "2019-06-02 21:37:00"
+    },
+    {
+        "id": 871816,
+        "updated_sequence": 1863640,
+        "published_at": {
+            "unix": 1559509800,
+            "text": "2019-06-02 22:10:00 +0100",
+            "iso_8601": "2019-06-02T21:10:00Z"
+        },
+        "updated_at": {
+            "unix": 1559509887,
+            "text": "2019-06-02 22:11:27 +0100",
+            "iso_8601": "2019-06-02T21:11:27Z"
+        },
+        "subject": "Syrian T4 airbase near Homs used by Iranian forces is under missile attack, according to state TV",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "syrian-t4-airbase-near-homs-used-by-iranian-forces-is-under-missile-attack-according-to-state-tv-02-06-2019",
+        "hidden": false,
+        "section": {
+            "id": 23,
+            "name": "Geopolitical"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-06-03 05:10:00",
+        "gmt_time": "2019-06-02 21:10:00"
+    },
+    {
+        "id": 871815,
+        "updated_sequence": 1863637,
+        "published_at": {
+            "unix": 1559509620,
+            "text": "2019-06-02 22:07:00 +0100",
+            "iso_8601": "2019-06-02T21:07:00Z"
+        },
+        "updated_at": {
+            "unix": 1559509816,
+            "text": "2019-06-02 22:10:16 +0100",
+            "iso_8601": "2019-06-02T21:10:16Z"
+        },
+        "subject": "China State Councilor and Defense Minister Wei Fenghe says US and China should follow the consensus by the 2 head of state and promote a relationship involving coordination, cooperation and stability",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "china-state-councilor-and-defense-minister-wei-fenghe-says-us-and-china-should-follow-the-consensus-by-the-2-head-of-state-and-promote-a-relationship-involving-coordination-cooperation-and-stability-02-06-2019",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-06-03 05:07:00",
+        "gmt_time": "2019-06-02 21:07:00"
+    },
+    {
+        "id": 871502,
+        "updated_sequence": 1863631,
+        "published_at": {
+            "unix": 1559509200,
+            "text": "2019-06-02 22:00:00 +0100",
+            "iso_8601": "2019-06-02T21:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1559509213,
+            "text": "2019-06-02 22:00:13 +0100",
+            "iso_8601": "2019-06-02T21:00:13Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-30-05-2019",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-06-03 05:00:00",
+        "gmt_time": "2019-06-02 21:00:00"
+    }
+]

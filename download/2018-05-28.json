@@ -1,0 +1,2600 @@
+[
+    {
+        "id": 660387,
+        "updated_sequence": 984198,
+        "published_at": {
+            "unix": 1527551880,
+            "text": "2018-05-29 00:58:00 +0100",
+            "iso_8601": "2018-05-28T23:58:00Z"
+        },
+        "updated_at": {
+            "unix": 1527552002,
+            "text": "2018-05-29 01:00:02 +0100",
+            "iso_8601": "2018-05-29T00:00:02Z"
+        },
+        "subject": "South32 (S32 AT) to buy 50% interest in Eagle Downs metallurgical coal project",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "south32-s32-at-to-buy-50-interest-in-eagle-downs-metallurgical-coal-project-29-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-29 07:58:00",
+        "gmt_time": "2018-05-28 23:58:00"
+    },
+    {
+        "id": 660386,
+        "updated_sequence": 984195,
+        "published_at": {
+            "unix": 1527551820,
+            "text": "2018-05-29 00:57:00 +0100",
+            "iso_8601": "2018-05-28T23:57:00Z"
+        },
+        "updated_at": {
+            "unix": 1527551917,
+            "text": "2018-05-29 00:58:37 +0100",
+            "iso_8601": "2018-05-28T23:58:37Z"
+        },
+        "subject": "FIRB says foreign investment in Australia declined 4% during 2016-2017",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "firb-says-foreign-investment-in-australia-declined-4-during-2016-2017-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-29 07:57:00",
+        "gmt_time": "2018-05-28 23:57:00"
+    },
+    {
+        "id": 660385,
+        "updated_sequence": 984192,
+        "published_at": {
+            "unix": 1527551580,
+            "text": "2018-05-29 00:53:00 +0100",
+            "iso_8601": "2018-05-28T23:53:00Z"
+        },
+        "updated_at": {
+            "unix": 1527551634,
+            "text": "2018-05-29 00:53:54 +0100",
+            "iso_8601": "2018-05-28T23:53:54Z"
+        },
+        "subject": "EU is reported to consider review on Mifid II if Brexit discussions break down",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "eu-is-reported-to-consider-review-on-mifid-ii-if-brexit-discussions-break-down-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-29 07:53:00",
+        "gmt_time": "2018-05-28 23:53:00"
+    },
+    {
+        "id": 660384,
+        "updated_sequence": 984269,
+        "published_at": {
+            "unix": 1527550440,
+            "text": "2018-05-29 00:34:00 +0100",
+            "iso_8601": "2018-05-28T23:34:00Z"
+        },
+        "updated_at": {
+            "unix": 1527566091,
+            "text": "2018-05-29 04:54:51 +0100",
+            "iso_8601": "2018-05-29T03:54:51Z"
+        },
+        "subject": "United Steelworkers union members in Labrador City, Canada ratify 5-year collective bargaining agreement with Iron Ore Company of Canada, which ends a 9-week strike",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "united-steelworkers-union-members-in-labrador-city-canada-ratify-5-year-collective-bargaining-agreement-with-iron-ore-company-of-canada-which-ends-a-9-week-strike-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-29 07:34:00",
+        "gmt_time": "2018-05-28 23:34:00"
+    },
+    {
+        "id": 660381,
+        "updated_sequence": 984177,
+        "published_at": {
+            "unix": 1527550200,
+            "text": "2018-05-29 00:30:00 +0100",
+            "iso_8601": "2018-05-28T23:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1527550247,
+            "text": "2018-05-29 00:30:47 +0100",
+            "iso_8601": "2018-05-28T23:30:47Z"
+        },
+        "subject": "Australian ANZ Roy Morgan Consumer Confidence Index (May 27) W/W 117.7 (Prev. 121.6)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "australian-anz-roy-morgan-consumer-confidence-index-may-27-w-w-117-7-prev-121-6-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-29 07:30:00",
+        "gmt_time": "2018-05-28 23:30:00"
+    },
+    {
+        "id": 660380,
+        "updated_sequence": 984189,
+        "published_at": {
+            "unix": 1527549720,
+            "text": "2018-05-29 00:22:00 +0100",
+            "iso_8601": "2018-05-28T23:22:00Z"
+        },
+        "updated_at": {
+            "unix": 1527550812,
+            "text": "2018-05-29 00:40:12 +0100",
+            "iso_8601": "2018-05-28T23:40:12Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIA, JAPANESE AND SOUTH KOREAN STOCK NEWS: Galaxy Resources (GXY AT) is to offload northern tenements to Posco (005490 KS) for USD 280mln",
+        "content": "<p>AUSTRALIA</p>\r\n\r\n<p>BHP (BHP AT)<br />- Co. and Queensland reached an &#39;in principle&#39; agreement regarding USD 288mln coal royalties bill. (Guardian)</p>\r\n\r\n<p>Compumedics (CMP AT)<br />- Co. shares halted pending an announcement. (Newswires)</p>\r\n\r\n<p>Downer EDI (DOW AT)<br />- Co. JV wins Century mine contract. (Newswires)</p>\r\n\r\n<p>Galaxy Resources (GXY AT)<br />- Co. is to offload northern tenements to Posco (005490 KS) for USD 280mln. (Newswires)</p>\r\n\r\n<p>Macquarie Group (MQG AT)<br />- Co. is said to have accepted Odyssey&rsquo;s revised bid for MST Global valued at AUD 100mln. (AFR)</p>\r\n\r\n<p>New Hope Corporation (NHC AT)<br />- Co. Q3 coal sales fell 12.5% to 1.9mln tonnes, while production rose to 2.1mln tonnes vs. Prev. 2.0mln tonnes. (Newswires)</p>\r\n\r\n<p>Wesfarmers (WES AT)<br />- Co. is under pressure to return capital to shareholders and be more disciplined on acquisitions after blowing away nearly AUD 2bln on Bunnings UK and Ireland. (AFR)</p>\r\n\r\n<p>Energy<br />- WTI crude fell 2.1%. (SMH)</p>\r\n\r\n<p>JAPAN</p>\r\n\r\n<p>Nissan (7201 JT)<br />- Co. is planning to reduce North America output by 20% through the summer. (Newswires)</p>\r\n\r\n<p>Pigeon Corp (7956 JT)<br />- Co. is said to report Q1 oper. profit rose 10% Y/Y. (Newswires)</p>\r\n\r\n<p>SoftBank (9984 JT)<br />- Co. and Swiss Re (SREN SW) terminated negotiations related to a potential investment by the Japanese firm that was said to be valued over USD 10bln. (Nikkei)</p>\r\n\r\n<p>SOUTH KOREA</p>\r\n\r\n<p>Hyundai Heavy (009540 KS)<br />- Co. signs MOU with Naver (035420 KS) affiliate on robot development. (Yonhap)<br /><br />Posco (005490 KS)<br />- Co. is to buy a package of mining tenements in Argentina from Galaxy Resources in deal valued at USD 280mln. (Newswires)</p>\r\n\r\n<p>Other News<br />- US is said to prepare new sanctions push against North Korea, although reports added that the US could hold off on sanctions for summit talks. (WSJ) In separate news, US reportedly demands that North Korea ship out its nuclear weapons and missiles. (Chosun)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-australia-japanese-and-south-korean-stock-news-galaxy-resources-gxy-at-is-to-offload-northern-tenements-to-posco-005490-ks-for-usd-280mln-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-29 07:22:00",
+        "gmt_time": "2018-05-28 23:22:00"
+    },
+    {
+        "id": 660379,
+        "updated_sequence": 984168,
+        "published_at": {
+            "unix": 1527549480,
+            "text": "2018-05-29 00:18:00 +0100",
+            "iso_8601": "2018-05-28T23:18:00Z"
+        },
+        "updated_at": {
+            "unix": 1527549574,
+            "text": "2018-05-29 00:19:34 +0100",
+            "iso_8601": "2018-05-28T23:19:34Z"
+        },
+        "subject": "Apple (AAPL) is said to be planning to adopt OLED for all new iPhone models next year",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "apple-aapl-is-said-to-be-planning-to-adopt-oled-for-all-new-iphone-models-next-year-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-29 07:18:00",
+        "gmt_time": "2018-05-28 23:18:00"
+    },
+    {
+        "id": 660378,
+        "updated_sequence": 984165,
+        "published_at": {
+            "unix": 1527548280,
+            "text": "2018-05-28 23:58:00 +0100",
+            "iso_8601": "2018-05-28T22:58:00Z"
+        },
+        "updated_at": {
+            "unix": 1527548341,
+            "text": "2018-05-28 23:59:01 +0100",
+            "iso_8601": "2018-05-28T22:59:01Z"
+        },
+        "subject": "US reportedly demands that North Korea ship out its nuclear weapons and missiles, according to reports in Chosun",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Chosun",
+        "slug": "us-reportedly-demands-that-north-korea-ship-out-its-nuclear-weapons-and-missiles-according-to-reports-in-chosun-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-29 06:58:00",
+        "gmt_time": "2018-05-28 22:58:00"
+    },
+    {
+        "id": 660377,
+        "updated_sequence": 984162,
+        "published_at": {
+            "unix": 1527545760,
+            "text": "2018-05-28 23:16:00 +0100",
+            "iso_8601": "2018-05-28T22:16:00Z"
+        },
+        "updated_at": {
+            "unix": 1527547790,
+            "text": "2018-05-28 23:49:50 +0100",
+            "iso_8601": "2018-05-28T22:49:50Z"
+        },
+        "subject": "China may face liquidity shortage during the next 2 months which could see PBoC reduce RRR mid-year to increase liquidity, according to China Securities Journal",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "China Securities Journal",
+        "slug": "china-may-face-liquidity-shortage-during-the-next-2-months-which-could-see-pboc-reduce-rrr-mid-year-to-increase-liquidity-according-to-china-securities-journal-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-29 06:16:00",
+        "gmt_time": "2018-05-28 22:16:00"
+    },
+    {
+        "id": 660376,
+        "updated_sequence": 984156,
+        "published_at": {
+            "unix": 1527544140,
+            "text": "2018-05-28 22:49:00 +0100",
+            "iso_8601": "2018-05-28T21:49:00Z"
+        },
+        "updated_at": {
+            "unix": 1527544261,
+            "text": "2018-05-28 22:51:01 +0100",
+            "iso_8601": "2018-05-28T21:51:01Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASES CALENDAR NOW AVAILABLE IN THE RESEARCH SECTION: Highlights Include Japanese Jobless Rate and Fed's Bullard Speech; Singapore, Malaysia and Indonesia are closed for holiday",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asian-daily-economic-releases-calendar-now-available-in-the-research-section-highlights-include-japanese-jobless-rate-and-fed-s-bullard-speech-singapore-malaysia-and-indonesia-are-closed-for-holiday-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-29 05:49:00",
+        "gmt_time": "2018-05-28 21:49:00"
+    },
+    {
+        "id": 660375,
+        "updated_sequence": 984153,
+        "published_at": {
+            "unix": 1527543840,
+            "text": "2018-05-28 22:44:00 +0100",
+            "iso_8601": "2018-05-28T21:44:00Z"
+        },
+        "updated_at": {
+            "unix": 1527543891,
+            "text": "2018-05-28 22:44:51 +0100",
+            "iso_8601": "2018-05-28T21:44:51Z"
+        },
+        "subject": "Canada will conduct probe on steel imports from China, South Korea and Vietnam",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "canada-will-conduct-probe-on-steel-imports-from-china-south-korea-and-vietnam-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-29 05:44:00",
+        "gmt_time": "2018-05-28 21:44:00"
+    },
+    {
+        "id": 660374,
+        "updated_sequence": 984150,
+        "published_at": {
+            "unix": 1527543000,
+            "text": "2018-05-28 22:30:00 +0100",
+            "iso_8601": "2018-05-28T21:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1527543138,
+            "text": "2018-05-28 22:32:18 +0100",
+            "iso_8601": "2018-05-28T21:32:18Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p>ASIA-PAC</p>\r\n\r\n<p>South Korean Consumer Confidence (May) 107.9 (Prev. 107.1). (Newswires)<br />&nbsp;</p>\r\n\r\n<p>UK</p>\r\n\r\n<p>BoE and UK Treasury are reported to be in disagreement regarding what the UK needs in terms of a Plan B for the financial services sector post-Brexit. (FT)</p>\r\n\r\n<p>EU</p>\r\n\r\n<p>Former IMF official Cottarelli accepted the mandate to form an Italian government as expected and sees elections at the start of next year, while there were also reports Cottarelli could present its list of ministers to President Mattarella tonight or tomorrow morning. In related news, League leader Salvini said he hopes there will be a government in October for the approval of the budget law and to avoid a VAT increase and M5S leader Di Maio wants elections as soon as possible, while Forza Italia&rsquo;s Berlusconi said his party will reject the Cottarelli government. (Newswires)</p>\r\n\r\n<p>Spanish Parliament started the process for a no confidence vote against PM Rajoy, while it set the date for debate and vote of confidence on PM Rajoy&#39;s government for May 31st and June 1st. (Newswires)</p>\r\n\r\n<p>Spain is to nominate Bank of Spain&rsquo;s director general of economy and statistics Hernandez de Cos to replace central bank Governor Linde when the latter&rsquo;s term ends next month. (Newswires)</p>\r\n\r\n<p>German Chancellor Merkel still hopes there will be no need for the EU to implement WTO-complaints measures with the US. (Newswires)<br />&nbsp;</p>\r\n\r\n<p>GEOPOLITICAL</p>\r\n\r\n<p>US is said to prepare new sanctions push against North Korea, although reports added that the US could hold off on sanctions for summit talks. (WSJ)<br />&nbsp;</p>\r\n\r\n<p>MARKET RECAP</p>\r\n\r\n<p>European bourses closed on the back-foot (Eurostoxx -0.75) with two major market players UK and US away from the market, and driven by political developments in peripheral countries on Monday. Bourses gave up losses amid growing uncertainty in Italy, after President Mattarella summoned former-IMF senior director Cottarelli to meet in an attempt to form a technocratic government. This followed Mattarella&rsquo;s rejection of Eurosceptic Economy Minister Paolo Savona, impeding the M5S-League coalition government to go ahead. Later in the session, Italy&#39;s PM-designate Cottarelli accepted the mandate to form a technocratic government as expected, eyeing elections at the start of next year (previously it was cited September 9th). Reports also followed that M5S leader Di Maio wants elections as soon as possible. Il Sole 24 Ore reported that the ex-IMF official Cottarelli could be named both Finance Minister and PM and he is expected to release a list of ministers to President Mattarella tonight or tomorrow morning. The FTSE MIB closed lower by 1.8% hitting a 12-weeks low at -2.7% in the session, BTPs also continued to post losses seen last week, despite the temporary boost given by Bunds at the open which slipped below 160. The spread was the widest since December 2013 above the 200 points seen on Friday.</p>\r\n\r\n<p>Political developments in Spain also weighed on markets after the Spanish Parliament started the process for a no confidence vote against PM Rajoy, after the Spanish opposition put forward the proposition against the PM on Friday. On the news, the IBEX 35 slipped below 9800 and closed -0.5% lower whilst EURUSD accelerated its descent and broke the 1.1640, and continued to print session lows moving towards 1.1600 amid uncertainty growing in Europe. Though PM Rajoy previously defended his position by saying a no confidence motion is bad for the country, and subsequently ruled out a snap election, leader of the Citizen Party Rivera has said the only option is to hold fresh elections in Spain.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-asia-pac-opening-news-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-29 05:30:00",
+        "gmt_time": "2018-05-28 21:30:00"
+    },
+    {
+        "id": 660297,
+        "updated_sequence": 984141,
+        "published_at": {
+            "unix": 1527541200,
+            "text": "2018-05-28 22:00:00 +0100",
+            "iso_8601": "2018-05-28T21:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1527541200,
+            "text": "2018-05-28 22:00:00 +0100",
+            "iso_8601": "2018-05-28T21:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-27-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-29 05:00:00",
+        "gmt_time": "2018-05-28 21:00:00"
+    },
+    {
+        "id": 660116,
+        "updated_sequence": 984140,
+        "published_at": {
+            "unix": 1527541200,
+            "text": "2018-05-28 22:00:00 +0100",
+            "iso_8601": "2018-05-28T21:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1527541200,
+            "text": "2018-05-28 22:00:00 +0100",
+            "iso_8601": "2018-05-28T21:00:00Z"
+        },
+        "subject": "US SERVICE IS NOW CLOSED, PLEASE SWITCH OVER TO THE ASIA CHANNEL",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-service-is-now-closed-please-switch-over-to-the-asia-channel-21_00pm_utc_24-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-29 05:00:00",
+        "gmt_time": "2018-05-28 21:00:00"
+    },
+    {
+        "id": 660371,
+        "updated_sequence": 984137,
+        "published_at": {
+            "unix": 1527521520,
+            "text": "2018-05-28 16:32:00 +0100",
+            "iso_8601": "2018-05-28T15:32:00Z"
+        },
+        "updated_at": {
+            "unix": 1527521655,
+            "text": "2018-05-28 16:34:15 +0100",
+            "iso_8601": "2018-05-28T15:34:15Z"
+        },
+        "subject": "EUROPEAN MARKET WRAP: UK/US away, focus on politics in Italy/Spain ",
+        "content": "<p>EUROPEAN PRELIMINARY CASH EQUITY CLOSE: EURO STOXX 50 (-0.75%), DAX (-0.48%), CAC (-0.58%), IBEX (-0.48%), FTSE MIB (-1.80%), SMI (+0.25%)</p>\r\n\r\n<p>European bourses closed on the back-foot (Eurostoxx -0.75) with two major market players UK and US away from the market, and driven by political developments in peripheral countries on Monday. Bourses gave up losses amid growing uncertainty in Italy, after President Mattarella summoned former-IMF senior director Cottarelli to meet in an attempt to form a technocratic government. This followed Mattarella&rsquo;s rejection of Eurosceptic Economy Minister Paolo Savona, impeding the M5S-League coalition government to go ahead. Later in the session, Italy&#39;s PM-designate Cottarelli accepted the mandate to form a technocratic government as expected, eyeing elections at the start of next year (previously it was cited September 9th). Reports also followed that M5S leader Di Maio wants elections as soon as possible. Il Sole 24 Ore reported that the ex-IMF official Cottarelli could be named both Finance Minister and PM and he is expected to release a list of ministers to President Mattarella tonight or tomorrow morning. The FTSE MIB closed lower by 1.8% hitting a 12-weeks low at -2.7% in the session, BTPs also continued to post losses seen last week, despite the temporary boost given by Bunds at the open which slipped below 160. The spread was the widest since December 2013 above the 200 points seen on Friday.</p>\r\n\r\n<p>Political developments in Spain also weighed on markets after the Spanish Parliament started the process for a no confidence vote against PM Rajoy, after the Spanish opposition put forward the proposition against the PM on Friday. On the news, the IBEX 35 slipped below 9800 and closed -0.5% lower whilst EURUSD accelerated its descent and broke the 1.1640, and continued to print session lows moving towards 1.1600 amid uncertainty growing in Europe. Though PM Rajoy previously defended his position by saying a no confidence motion is bad for the country, and subsequently ruled out a snap election, leader of the Citizen Party Rivera has said the only option is to hold fresh elections in Spain.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "european-market-wrap-uk-us-away-focus-on-politics-in-italy-spain-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-28 23:32:00",
+        "gmt_time": "2018-05-28 15:32:00"
+    },
+    {
+        "id": 660370,
+        "updated_sequence": 984132,
+        "published_at": {
+            "unix": 1527521400,
+            "text": "2018-05-28 16:30:00 +0100",
+            "iso_8601": "2018-05-28T15:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1527521538,
+            "text": "2018-05-28 16:32:18 +0100",
+            "iso_8601": "2018-05-28T15:32:18Z"
+        },
+        "subject": "EUROPEAN PRELIMINARY CASH EQUITY CLOSE: EURO STOXX 50 (-0.75%), DAX (-0.48%), CAC (-0.58%), IBEX (-0.48%), FTSE MIB (-1.80%), SMI (+0.25%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "european-preliminary-cash-equity-close-euro-stoxx-50-0-75-dax-0-48-cac-0-58-ibex-0-48-ftse-mib-1-80-smi-0-25-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 33,
+            "name": "European Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-28 23:30:00",
+        "gmt_time": "2018-05-28 15:30:00"
+    },
+    {
+        "id": 660368,
+        "updated_sequence": 984125,
+        "published_at": {
+            "unix": 1527521400,
+            "text": "2018-05-28 16:30:00 +0100",
+            "iso_8601": "2018-05-28T15:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1527521400,
+            "text": "2018-05-28 16:30:00 +0100",
+            "iso_8601": "2018-05-28T15:30:00Z"
+        },
+        "subject": "AUDIO SERVICE NOW CLOSED DUE TO THE MARKET HOLIDAY IN THE US. THE DESK WILL REOPEN AT 2200BST/1700EDT FOR THE BEGINNING OF ASIA-PAC TRADE",
+        "content": "<p>- Note, there will be no US service for the remainder of the day&nbsp;due to US market closures.</p>\r\n\r\n<p>- The service will re-open on May 28th at 2200BST/1700EDT for the beginning of the Asia-Pacific session with full coverage to resume thereafter on Tuesday May 30th.</p>\r\n\r\n<p>UK</p>\r\n\r\n<p>All UK products are closed</p>\r\n\r\n<p>EUROPE</p>\r\n\r\n<p>Regular close and trading</p>\r\n\r\n<p>US</p>\r\n\r\n<p>Floor Trade</p>\r\n\r\n<p>All closed</p>\r\n\r\n<p>Electronic Trade</p>\r\n\r\n<p>Equity (Closed 1200CDT/1800BST, Re-opens 1700CDT/2300BST)</p>\r\n\r\n<p>Interest Rate (Closed 1200CDT/1800BST, Re-opens 1700CDT/2300BST)</p>\r\n\r\n<p>FX (Closed 1200CDT/1800BST, Re-opens 1700CDT/2300BST)</p>\r\n\r\n<p>NYMEX (Closed 1200CDT/1800BST, Re-opens 1700CDT/2300BST)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "audio-service-now-closed-due-to-the-market-holiday-in-the-us-the-desk-will-reopen-at-2200bst-1700edt-for-the-beginning-of-asia-pac-trade-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-28 23:30:00",
+        "gmt_time": "2018-05-28 15:30:00"
+    },
+    {
+        "id": 660369,
+        "updated_sequence": 984127,
+        "published_at": {
+            "unix": 1527521280,
+            "text": "2018-05-28 16:28:00 +0100",
+            "iso_8601": "2018-05-28T15:28:00Z"
+        },
+        "updated_at": {
+            "unix": 1527521436,
+            "text": "2018-05-28 16:30:36 +0100",
+            "iso_8601": "2018-05-28T15:30:36Z"
+        },
+        "subject": "Forza Italia’s Berlusconi says his party will reject the Cottarelli government",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>This followed&nbsp;Italy&#39;s Forza Italia says they will not vote for a Cottarelli led government, which makes the possibility of the Mattarella dictated government passing parliament much more unlikely, as Forza Italia, 5SM and League combined hold a majority in the house.</li>\r\n  <li>This is in the wake of the rejection of candidates proposed by 5SM/League coalition and makes the possibility of a snap-election much more likely.</li>\r\n</ul>\r\n",
+        "analysis_updated_at": {
+            "unix": 1527521435,
+            "text": "2018-05-28 16:30:35 +0100",
+            "iso_8601": "2018-05-28T15:30:35Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "forza-italia-s-berlusconi-says-his-party-will-reject-the-cottarelli-government-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-28 23:28:00",
+        "gmt_time": "2018-05-28 15:28:00"
+    },
+    {
+        "id": 660369,
+        "updated_sequence": 984127,
+        "published_at": {
+            "unix": 1527521280,
+            "text": "2018-05-28 16:28:00 +0100",
+            "iso_8601": "2018-05-28T15:28:00Z"
+        },
+        "updated_at": {
+            "unix": 1527521436,
+            "text": "2018-05-28 16:30:36 +0100",
+            "iso_8601": "2018-05-28T15:30:36Z"
+        },
+        "subject": "Forza Italia’s Berlusconi says his party will reject the Cottarelli government",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>This followed&nbsp;Italy&#39;s Forza Italia says they will not vote for a Cottarelli led government, which makes the possibility of the Mattarella dictated government passing parliament much more unlikely, as Forza Italia, 5SM and League combined hold a majority in the house.</li>\r\n  <li>This is in the wake of the rejection of candidates proposed by 5SM/League coalition and makes the possibility of a snap-election much more likely.</li>\r\n</ul>\r\n",
+        "analysis_updated_at": {
+            "unix": 1527521435,
+            "text": "2018-05-28 16:30:35 +0100",
+            "iso_8601": "2018-05-28T15:30:35Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "forza-italia-s-berlusconi-says-his-party-will-reject-the-cottarelli-government-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-28 23:28:00",
+        "gmt_time": "2018-05-28 15:28:00"
+    },
+    {
+        "id": 660367,
+        "updated_sequence": 984117,
+        "published_at": {
+            "unix": 1527520620,
+            "text": "2018-05-28 16:17:00 +0100",
+            "iso_8601": "2018-05-28T15:17:00Z"
+        },
+        "updated_at": {
+            "unix": 1527520707,
+            "text": "2018-05-28 16:18:27 +0100",
+            "iso_8601": "2018-05-28T15:18:27Z"
+        },
+        "subject": "Italy's League leader Salvini says he hopes there will be a government in October for the approval of the budget law and to avoid a VAT increase",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "italy-s-league-leader-salvini-says-he-hopes-there-will-be-a-government-in-october-for-the-approval-of-the-budget-law-and-to-avoid-a-vat-increase-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-28 23:17:00",
+        "gmt_time": "2018-05-28 15:17:00"
+    },
+    {
+        "id": 660366,
+        "updated_sequence": 984114,
+        "published_at": {
+            "unix": 1527519480,
+            "text": "2018-05-28 15:58:00 +0100",
+            "iso_8601": "2018-05-28T14:58:00Z"
+        },
+        "updated_at": {
+            "unix": 1527519601,
+            "text": "2018-05-28 16:00:01 +0100",
+            "iso_8601": "2018-05-28T15:00:01Z"
+        },
+        "subject": "Italy's M5S leader Di Maio repeats the group does not want to exit the EU ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "italy-s-m5s-leader-di-maio-repeats-the-group-does-not-want-to-exit-the-eu-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-28 22:58:00",
+        "gmt_time": "2018-05-28 14:58:00"
+    },
+    {
+        "id": 660365,
+        "updated_sequence": 984111,
+        "published_at": {
+            "unix": 1527518580,
+            "text": "2018-05-28 15:43:00 +0100",
+            "iso_8601": "2018-05-28T14:43:00Z"
+        },
+        "updated_at": {
+            "unix": 1527518653,
+            "text": "2018-05-28 15:44:13 +0100",
+            "iso_8601": "2018-05-28T14:44:13Z"
+        },
+        "subject": "Italy's M5S leader Di Maio wants elections as soon as possible; according to ANSA",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "italy-s-m5s-leader-di-maio-wants-elections-as-soon-as-possible-according-to-ansa-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-28 22:43:00",
+        "gmt_time": "2018-05-28 14:43:00"
+    },
+    {
+        "id": 660364,
+        "updated_sequence": 984108,
+        "published_at": {
+            "unix": 1527518100,
+            "text": "2018-05-28 15:35:00 +0100",
+            "iso_8601": "2018-05-28T14:35:00Z"
+        },
+        "updated_at": {
+            "unix": 1527518181,
+            "text": "2018-05-28 15:36:21 +0100",
+            "iso_8601": "2018-05-28T14:36:21Z"
+        },
+        "subject": "Italy's PM-designate Cottarelli could present its list of ministers to the President Mattarella tonight or tomorrow morning ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Il Sole 24 Ore",
+        "slug": "italy-s-pm-designate-cottarelli-could-present-its-list-of-ministers-to-the-president-mattarella-tonight-or-tomorrow-morning-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-28 22:35:00",
+        "gmt_time": "2018-05-28 14:35:00"
+    },
+    {
+        "id": 660363,
+        "updated_sequence": 984105,
+        "published_at": {
+            "unix": 1527517980,
+            "text": "2018-05-28 15:33:00 +0100",
+            "iso_8601": "2018-05-28T14:33:00Z"
+        },
+        "updated_at": {
+            "unix": 1527518074,
+            "text": "2018-05-28 15:34:34 +0100",
+            "iso_8601": "2018-05-28T14:34:34Z"
+        },
+        "subject": "Italy's M5S leader Di Maio calls for peaceful protests against the 'arrogance of institutions'",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "italy-s-m5s-leader-di-maio-calls-for-peaceful-protests-against-the-arrogance-of-institutions-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-28 22:33:00",
+        "gmt_time": "2018-05-28 14:33:00"
+    },
+    {
+        "id": 660362,
+        "updated_sequence": 984102,
+        "published_at": {
+            "unix": 1527516900,
+            "text": "2018-05-28 15:15:00 +0100",
+            "iso_8601": "2018-05-28T14:15:00Z"
+        },
+        "updated_at": {
+            "unix": 1527516990,
+            "text": "2018-05-28 15:16:30 +0100",
+            "iso_8601": "2018-05-28T14:16:30Z"
+        },
+        "subject": "Italy's PM-designate Cottarelli could be both Finance Minister and PM; according to Il Messaggero ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "italy-s-pm-designate-cottarelli-could-be-both-finance-minister-and-pm-according-to-il-messaggero-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-28 22:15:00",
+        "gmt_time": "2018-05-28 14:15:00"
+    },
+    {
+        "id": 660357,
+        "updated_sequence": 984087,
+        "published_at": {
+            "unix": 1527514620,
+            "text": "2018-05-28 14:37:00 +0100",
+            "iso_8601": "2018-05-28T13:37:00Z"
+        },
+        "updated_at": {
+            "unix": 1527514757,
+            "text": "2018-05-28 14:39:17 +0100",
+            "iso_8601": "2018-05-28T13:39:17Z"
+        },
+        "subject": "German Chancellor Merkel still hopes there will be no need for the EU to implement WTO-complaints measures with the US",
+        "content": "<ul><li>She adds to be open to talks with the US over a trade deal within the WTO rules framework</li>\r\n</ul>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "german-chancellor-merkel-still-hopes-there-will-be-no-need-for-the-eu-to-implement-wto-complaints-measures-with-the-us-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-28 21:37:00",
+        "gmt_time": "2018-05-28 13:37:00"
+    },
+    {
+        "id": 660356,
+        "updated_sequence": 984082,
+        "published_at": {
+            "unix": 1527510420,
+            "text": "2018-05-28 13:27:00 +0100",
+            "iso_8601": "2018-05-28T12:27:00Z"
+        },
+        "updated_at": {
+            "unix": 1527510459,
+            "text": "2018-05-28 13:27:39 +0100",
+            "iso_8601": "2018-05-28T12:27:39Z"
+        },
+        "subject": "Scotiabank FX Daily - Politics Dominating In Thin UK/US Holiday Trade",
+        "content": "<p>&middot; USD mixed vs. G10 as market participants assess risks in Korea, Italy, Spain.</p>\r\n\r\n<p>&middot; CAD soft as oil prices extend their decline; all eyes on this Wednesday&rsquo;s BoC.</p>\r\n\r\n<p>&middot; EUR testing fresh lows on escalating political uncertainty in Italy &amp; Spain.</p>\r\n\r\n<p>&middot; GBP quiet consolidating above Friday&rsquo;s low; BoE rate expectations steady.</p>\r\n\r\n<p>&middot; JPY extending recent bullish reversal; risk-off driving safe haven gains.</p>\r\n\r\n<p>&middot; AUD consolidating in mid-0.75 area; focus on this week&rsquo;s Q1 capex data.</p>\r\n\r\n<p>&middot; MXN outperforming most G10 currencies, extending its recent bullish reversal.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Scotiabank",
+        "slug": "scotiabank-fx-daily-politics-dominating-in-thin-uk-us-holiday-trade-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 39,
+            "name": "Bank Research"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-28 20:27:00",
+        "gmt_time": "2018-05-28 12:27:00"
+    },
+    {
+        "id": 660355,
+        "updated_sequence": 984079,
+        "published_at": {
+            "unix": 1527507060,
+            "text": "2018-05-28 12:31:00 +0100",
+            "iso_8601": "2018-05-28T11:31:00Z"
+        },
+        "updated_at": {
+            "unix": 1527507104,
+            "text": "2018-05-28 12:31:44 +0100",
+            "iso_8601": "2018-05-28T11:31:44Z"
+        },
+        "subject": "Spanish Leader of Citizen Party Rivera says only option is to hold elections in Spain ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "spanish-leader-of-citizen-party-rivera-says-only-option-is-to-hold-elections-in-spain-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-28 19:31:00",
+        "gmt_time": "2018-05-28 11:31:00"
+    },
+    {
+        "id": 660354,
+        "updated_sequence": 984076,
+        "published_at": {
+            "unix": 1527503760,
+            "text": "2018-05-28 11:36:00 +0100",
+            "iso_8601": "2018-05-28T10:36:00Z"
+        },
+        "updated_at": {
+            "unix": 1527504487,
+            "text": "2018-05-28 11:48:07 +0100",
+            "iso_8601": "2018-05-28T10:48:07Z"
+        },
+        "subject": "Italy's PM-designate Cottarelli accepts the mandate to forma government as expected; he sees elections seen at the start of next year",
+        "content": "<ul><li>He adds that if he doesn&#39;t win confidence, then elections will be after August</li>\r\n  <li>He said he will present his list of Ministers in a very short order</li>\r\n</ul>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>Corriere early reported elections may be on September 9th</li>\r\n</ul>\r\n",
+        "analysis_updated_at": {
+            "unix": 1527504000,
+            "text": "2018-05-28 11:40:00 +0100",
+            "iso_8601": "2018-05-28T10:40:00Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "italy-s-pm-designate-cottarelli-accepts-the-mandate-to-forma-government-as-expected-he-sees-elections-seen-at-the-start-of-next-year-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-28 18:36:00",
+        "gmt_time": "2018-05-28 10:36:00"
+    },
+    {
+        "id": 660352,
+        "updated_sequence": 984063,
+        "published_at": {
+            "unix": 1527503700,
+            "text": "2018-05-28 11:35:00 +0100",
+            "iso_8601": "2018-05-28T10:35:00Z"
+        },
+        "updated_at": {
+            "unix": 1527503785,
+            "text": "2018-05-28 11:36:25 +0100",
+            "iso_8601": "2018-05-28T10:36:25Z"
+        },
+        "subject": "Spanish parliament sets the date for debate and vote of confidence on PM Rajoy's government for May 31st and June 1st",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "spanish-parliament-sets-the-date-for-debate-and-vote-of-confidence-on-pm-rajoy-s-government-for-may-31st-and-june-1st-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-28 18:35:00",
+        "gmt_time": "2018-05-28 10:35:00"
+    },
+    {
+        "id": 660353,
+        "updated_sequence": 984066,
+        "published_at": {
+            "unix": 1527503640,
+            "text": "2018-05-28 11:34:00 +0100",
+            "iso_8601": "2018-05-28T10:34:00Z"
+        },
+        "updated_at": {
+            "unix": 1527503810,
+            "text": "2018-05-28 11:36:50 +0100",
+            "iso_8601": "2018-05-28T10:36:50Z"
+        },
+        "subject": "Czech central bank Governor Rusnok says the central bank expects the the Crown to return to appreciation trend",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "czech-central-bank-governor-rusnok-says-the-central-bank-expects-the-the-crown-to-return-to-appreciation-trend-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 8,
+            "name": "Other Central Banks"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-28 18:34:00",
+        "gmt_time": "2018-05-28 10:34:00"
+    },
+    {
+        "id": 660351,
+        "updated_sequence": 984060,
+        "published_at": {
+            "unix": 1527503100,
+            "text": "2018-05-28 11:25:00 +0100",
+            "iso_8601": "2018-05-28T10:25:00Z"
+        },
+        "updated_at": {
+            "unix": 1527503598,
+            "text": "2018-05-28 11:33:18 +0100",
+            "iso_8601": "2018-05-28T10:33:18Z"
+        },
+        "subject": "Italian President Mattarella give mandate to form a government to ex-IMF official Cottarelli",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>Once Ministers have been appointed, the vote then goes&nbsp;to the House but a Cottarelli-led government is unlikely&nbsp;as Forza Italia, 5SM and League combined hold a majority in the House and do not want a technocratic government&nbsp;</li>\r\n  <li>This is in the wake of the rejection of candidates proposed by 5SM/League coalition and makes the possibility of a snap-election much more likely, Correire has suggested September 9th as a possible date</li>\r\n</ul>\r\n",
+        "analysis_updated_at": {
+            "unix": 1527503400,
+            "text": "2018-05-28 11:30:00 +0100",
+            "iso_8601": "2018-05-28T10:30:00Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "italian-president-mattarella-give-mandate-to-form-a-government-to-ex-imf-official-cottarelli-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-28 18:25:00",
+        "gmt_time": "2018-05-28 10:25:00"
+    },
+    {
+        "id": 660350,
+        "updated_sequence": 984049,
+        "published_at": {
+            "unix": 1527501900,
+            "text": "2018-05-28 11:05:00 +0100",
+            "iso_8601": "2018-05-28T10:05:00Z"
+        },
+        "updated_at": {
+            "unix": 1527502239,
+            "text": "2018-05-28 11:10:39 +0100",
+            "iso_8601": "2018-05-28T10:10:39Z"
+        },
+        "subject": "Spanish Parliament has started the process for a no confidence vote against PM Rajoy",
+        "content": "",
+        "reaction_details": "<ul><li><p>The latest news accelerated losses for the EUR with EUR/USD slipping from 1.1667 to around 1.1642 in the following few minutes with the IBEX 35 extending losses moving from 9845 to 9798</p>\r\n  </li>\r\n</ul>\r\n",
+        "reaction_updated_at": {
+            "unix": 1527502239,
+            "text": "2018-05-28 11:10:39 +0100",
+            "iso_8601": "2018-05-28T10:10:39Z"
+        },
+        "analysis_details": "<ul><li>This follows earlier reports that&nbsp;Spanish PM said he&nbsp;had&nbsp;no plans to resign</li>\r\n  <li>On Friday,&nbsp;Spanish opposition&nbsp;put forward a motion of no confidence against&nbsp;PM Mariano&nbsp;Rajoy</li>\r\n  <li>Spanish PM&nbsp;Rajoy&nbsp;defended&nbsp;his position by saying a no confidence motion is bad for the country&#39;s interest and ruled out a snap election</li>\r\n</ul>\r\n",
+        "analysis_updated_at": {
+            "unix": 1527502080,
+            "text": "2018-05-28 11:08:00 +0100",
+            "iso_8601": "2018-05-28T10:08:00Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "spanish-parliament-has-started-the-process-for-a-no-confidence-vote-against-pm-rajoy-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-28 18:05:00",
+        "gmt_time": "2018-05-28 10:05:00"
+    },
+    {
+        "id": 660349,
+        "updated_sequence": 984041,
+        "published_at": {
+            "unix": 1527500340,
+            "text": "2018-05-28 10:39:00 +0100",
+            "iso_8601": "2018-05-28T09:39:00Z"
+        },
+        "updated_at": {
+            "unix": 1527500448,
+            "text": "2018-05-28 10:40:48 +0100",
+            "iso_8601": "2018-05-28T09:40:48Z"
+        },
+        "subject": "NOTICE: Due to the UK bank holiday and US Memorial Day holiday on Monday 28th May, the desk will be running a reduced service alongside the subsequent market closures. See below for further details",
+        "content": "<p>&nbsp;</p>\r\n\r\n<p>- The European service will run to 1630BST to cover the European cash equity close, upon which the desk will close. Note, there will be no US service thereafter for that session due to US market closures.</p>\r\n\r\n<p>- The service will then re-open later that evening on May 28th at 2200BST for the beginning of the Asia-Pacific session with full coverage to resume thereafter on Tuesday May 30th.</p>\r\n\r\n<p>UK</p>\r\n\r\n<p>All UK products are closed</p>\r\n\r\n<p>EUROPE</p>\r\n\r\n<p>Regular close and trading</p>\r\n\r\n<p>US</p>\r\n\r\n<p>Floor Trade</p>\r\n\r\n<p>All closed</p>\r\n\r\n<p>Electronic Trade</p>\r\n\r\n<p>Equity (Closed 1200CDT/1800BST, Re-opens 1700CDT/2300BST)</p>\r\n\r\n<p>Interest Rate (Closed 1200CDT/1800BST, Re-opens 1700CDT/2300BST)</p>\r\n\r\n<p>FX (Closed 1200CDT/1800BST, Re-opens 1700CDT/2300BST)</p>\r\n\r\n<p>NYMEX (Closed 1200CDT/1800BST, Re-opens 1700CDT/2300BST)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "notice-due-to-the-uk-bank-holiday-and-us-memorial-day-holiday-on-monday-28th-may-the-desk-will-be-running-a-reduced-service-alongside-the-subsequent-market-closures-see-below-for-further-details-09_40am_utc_28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-28 17:39:00",
+        "gmt_time": "2018-05-28 09:39:00"
+    },
+    {
+        "id": 660348,
+        "updated_sequence": 984038,
+        "published_at": {
+            "unix": 1527499800,
+            "text": "2018-05-28 10:30:00 +0100",
+            "iso_8601": "2018-05-28T09:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1527500193,
+            "text": "2018-05-28 10:36:33 +0100",
+            "iso_8601": "2018-05-28T09:36:33Z"
+        },
+        "subject": "Italy sells EUR 1.25bln vs. Exp. EUR 0.75-1.25bln 0.1% 2022, 1.3% 2028 BTPei and EUR 1.75bln vs. Exp. EUR 1.25-1.75bln 2020 CTZ",
+        "content": "<ul><li>EUR 646.5mln 0.1% 2022 BTPei b/c 2.74 (Prev. 2.07) and yield -0.05% (Prev. -0.41%)</li>\r\n  <li>EUR 603.5mln 1.3% 2028 BTPei b/c 2.23 (Prev. 1.44) and yield 1.28% (Prev. 0.47%)</li>\r\n  <li>EUR 1.75bln 2020 CTZ b/c 1.86 (Prev. 1.58) and yield 0.350% (Prev. -0.275%)</li>\r\n</ul>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "italy-sells-eur-1-25bln-vs-exp-eur-0-75-1-25bln-0-1-2022-1-3-2028-btpei-and-eur-1-75bln-vs-exp-eur-1-25-1-75bln-2020-ctz-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 21,
+            "name": "Fixed Income"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-28 17:30:00",
+        "gmt_time": "2018-05-28 09:30:00"
+    },
+    {
+        "id": 660347,
+        "updated_sequence": 984026,
+        "published_at": {
+            "unix": 1527499140,
+            "text": "2018-05-28 10:19:00 +0100",
+            "iso_8601": "2018-05-28T09:19:00Z"
+        },
+        "updated_at": {
+            "unix": 1527499227,
+            "text": "2018-05-28 10:20:27 +0100",
+            "iso_8601": "2018-05-28T09:20:27Z"
+        },
+        "subject": "Turkish Central Bank says the monetary policy simplification process has been completed",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "turkish-central-bank-says-the-monetary-policy-simplification-process-has-been-completed-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 8,
+            "name": "Other Central Banks"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-28 17:19:00",
+        "gmt_time": "2018-05-28 09:19:00"
+    },
+    {
+        "id": 660193,
+        "updated_sequence": 984010,
+        "published_at": {
+            "unix": 1527498000,
+            "text": "2018-05-28 10:00:00 +0100",
+            "iso_8601": "2018-05-28T09:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1527498000,
+            "text": "2018-05-28 10:00:00 +0100",
+            "iso_8601": "2018-05-28T09:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE HAS NOW FINISHED, PLEASE REVERT BACK TO YOUR ORIGINAL CHANNEL FOR COVERAGE ON THE UK & EUROPEAN SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-has-now-finished-please-revert-back-to-your-original-channel-for-coverage-on-the-uk-european-session-25-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-28 17:00:00",
+        "gmt_time": "2018-05-28 09:00:00"
+    },
+    {
+        "id": 660346,
+        "updated_sequence": 984021,
+        "published_at": {
+            "unix": 1527498000,
+            "text": "2018-05-28 10:00:00 +0100",
+            "iso_8601": "2018-05-28T09:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1527498206,
+            "text": "2018-05-28 10:03:26 +0100",
+            "iso_8601": "2018-05-28T09:03:26Z"
+        },
+        "subject": "Italy's Forza Italia says they will not vote for a Cottarelli led government",
+        "content": "<ul><li>This makes the possibility of the Mattarella dictated government passing parliament much more unlikely, as Forza Italia, 5SM and League combined hold a majority in the house</li>\r\n  <li>This is in the wake of the rejection of candidates proposed by 5SM/League coalition and makes the possibility of a snap-election much more likely</li>\r\n</ul>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "italy-s-forza-italia-says-they-will-not-vote-for-a-cottarelli-led-government-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-28 17:00:00",
+        "gmt_time": "2018-05-28 09:00:00"
+    },
+    {
+        "id": 660344,
+        "updated_sequence": 984051,
+        "published_at": {
+            "unix": 1527497640,
+            "text": "2018-05-28 09:54:00 +0100",
+            "iso_8601": "2018-05-28T08:54:00Z"
+        },
+        "updated_at": {
+            "unix": 1527502514,
+            "text": "2018-05-28 11:15:14 +0100",
+            "iso_8601": "2018-05-28T10:15:14Z"
+        },
+        "subject": "Italy's 5SM \"evaluating\" a possible coalition with League in the next elections, according to 5SM source",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "italy-s-5sm-evaluating-a-possible-coalition-with-league-in-the-next-elections-according-to-5sm-source-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-28 16:54:00",
+        "gmt_time": "2018-05-28 08:54:00"
+    },
+    {
+        "id": 660343,
+        "updated_sequence": 984005,
+        "published_at": {
+            "unix": 1527496920,
+            "text": "2018-05-28 09:42:00 +0100",
+            "iso_8601": "2018-05-28T08:42:00Z"
+        },
+        "updated_at": {
+            "unix": 1527497105,
+            "text": "2018-05-28 09:45:05 +0100",
+            "iso_8601": "2018-05-28T08:45:05Z"
+        },
+        "subject": "EU MID-SESSION UPDATE: Italian EUR-phoria short-lived as latest developments cloud the political outlook",
+        "content": "<p>EQUITIES</p>\r\n\r\n<p>European bourses (Eurostoxx 50 +0.3%) have kicked the week off on a positive footing following prospects of the US-North Korea summit being back in play after President Trump mentioned a US team was sent to make arrangements and following an unannounced inter-Korean meeting between Moon and Kim. Sentiment in Europe has also been supported by Italian politics after Italy PM-designate Conte reportedly gave up on efforts of forming a government after Italian President Mattarella rejected Eurosceptic Paolo Savona for the Economy Minister. The rejection of the Eurosceptic candidate has been seen as a market-friendly outcome and subsequently led the FSTE MIB (+0.1%) to outperform at the open with the FTSE Italia All-share bank index opening higher by 3%. However, gains have been scaled back in recent trade as markets digest the potential fallout of the decision by Mattarella which has lead to greater uncertainty in Italian politics. President Mattarella has reportedly summoned former-IMF senior director Cottarelli to meet today in a move viewed by some as laying the groundwork for a technocratic government; something which has been strongly opposed by the 5SM and League with Di Maio subsequently calling for Mattarella&rsquo;s impeachment. Elsewhere in the equity space, energy names lag their peers, in-fitting with price action in the complex with moves otherwise tamed by UK and US participants away from market today.</p>\r\n\r\n<p>FX</p>\r\n\r\n<p>EUR has been a key focus for markets today given the aforementioned developments in Italian politics. Subsequently the EUR gained ground against its major counterparts which lifted EUR/USD (temporarily) back above 1.1700 to the upside, subsequently pushing the DXY back below 94.00 to trade lower on the day before a bulk of the initial moves were scaled back as markets remain uncertain over what is next to happen next in what&rsquo;s been a particularly tumultuous process thus far.</p>\r\n\r\n<p>USD/JPY has traded relatively choppy as the initial upside from the revival of the US-North Korea summit hopes was short-lived after the pair met resistance at the 21DMA at 109.80 with light volumes unable to stage a more meaningful move higher in the pair.</p>\r\n\r\n<p>For commodity-related currencies, the CAD has been hampered by sell-off in energy markets with traders also mindful of Wednesday&rsquo;s BoC rate decision, ahead of which RBC look for unchanged at 1.25% and note that consistent with their current guidance and &ldquo;and a firmer growth profile in the rest of 2018 &ndash; we anticipate the next hike from the BoC to come in July&rdquo;.&nbsp;</p>\r\n\r\n<p>GBP currently trading with little in the way of firm direction with UK traders away from market. Political headlines will likely come back into the forefront after last week&rsquo;s slew of tier 1 data released with the latest reports suggesting that sources state the UK is lacking a plan in the event of a &#39;no-deal&#39; Brexit, thus making it virtually impossible for May to walk out of negotiations with the EU.</p>\r\n\r\n<p>FIXED INCOME</p>\r\n\r\n<p>With the UK and US away from market today, price action has naturally been led by European paper with the main theme as discussed above being that of Italian politics. At the Eurex open Bunds opened lower and slipped below 160.50 with support for BTPs in a reversal of the price action seen on Friday with the open seeing the IT/GE spread narrowing by around 15bps. However, as seen across FX markets and the equity space, the trend was unwound throughout the morning.</p>\r\n\r\n<p>COMMODITIES</p>\r\n\r\n<p>Oil has extended the losses seen on Friday after OPEC members Russia and Saudi Arabia announced the intention to increase production in Q3 2018. WTI and Brent are both down 1.7% and 1.5% respectively. Meanwhile, US oil production showed no signs of abating on Friday, as rig counts continue to increase, hitting 1059 vs. a previous 1046.</p>\r\n\r\n<p>In the metals complex, Gold is seeing a sell-off (-0.34%) as safe-haven demand subsides following renewed hope of a US-North Korea summit. Steel futures have hit a one-week peak as Chinese industrial profit data showed positivity.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "eu-mid-session-update-italian-eur-phoria-short-lived-as-latest-developments-cloud-the-political-outlook-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-28 16:42:00",
+        "gmt_time": "2018-05-28 08:42:00"
+    },
+    {
+        "id": 660342,
+        "updated_sequence": 984000,
+        "published_at": {
+            "unix": 1527496260,
+            "text": "2018-05-28 09:31:00 +0100",
+            "iso_8601": "2018-05-28T08:31:00Z"
+        },
+        "updated_at": {
+            "unix": 1527496455,
+            "text": "2018-05-28 09:34:15 +0100",
+            "iso_8601": "2018-05-28T08:34:15Z"
+        },
+        "subject": "Turkish Central Bank has approved the simplification process of the operational framework of monetary policy, setting the one week repo rate equal to the current funding rate and as the policy rate of the central bank",
+        "content": "",
+        "reaction_details": "<p>USDTRY firmed to 4.6125&nbsp;on this news, from 4.6425</p>\r\n",
+        "reaction_updated_at": {
+            "unix": 1527496454,
+            "text": "2018-05-28 09:34:14 +0100",
+            "iso_8601": "2018-05-28T08:34:14Z"
+        },
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "turkish-central-bank-has-approved-the-simplification-process-of-the-operational-framework-of-monetary-policy-setting-the-one-week-repo-rate-equal-to-the-current-funding-rate-and-as-the-policy-rate-of-the-central-bank-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 8,
+            "name": "Other Central Banks"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-28 16:31:00",
+        "gmt_time": "2018-05-28 08:31:00"
+    },
+    {
+        "id": 660341,
+        "updated_sequence": 983994,
+        "published_at": {
+            "unix": 1527496140,
+            "text": "2018-05-28 09:29:00 +0100",
+            "iso_8601": "2018-05-28T08:29:00Z"
+        },
+        "updated_at": {
+            "unix": 1527496275,
+            "text": "2018-05-28 09:31:15 +0100",
+            "iso_8601": "2018-05-28T08:31:15Z"
+        },
+        "subject": "League's Salvini says he still aims to govern with the vetoed ministers",
+        "content": "<ul><li>This comes after Savona was vetoed as economy minister by President Mattarella and ahead of potentially new elections</li>\r\n</ul>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "league-s-salvini-says-he-still-aims-to-govern-with-the-vetoed-ministers-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-28 16:29:00",
+        "gmt_time": "2018-05-28 08:29:00"
+    },
+    {
+        "id": 660338,
+        "updated_sequence": 983980,
+        "published_at": {
+            "unix": 1527494040,
+            "text": "2018-05-28 08:54:00 +0100",
+            "iso_8601": "2018-05-28T07:54:00Z"
+        },
+        "updated_at": {
+            "unix": 1527494186,
+            "text": "2018-05-28 08:56:26 +0100",
+            "iso_8601": "2018-05-28T07:56:26Z"
+        },
+        "subject": "FX Morning Colour – EUR firmer as Eurospectics are shunned by Mattarella. Activity muted elsewhere by market closures",
+        "content": "<p>EUR has been a key focus for markets today after news that Italy PM-designate Conte reportedly gave up on efforts of forming a government after Italian President Mattarella rejected Eurosceptic Paolo Savona for the Economy Minister position. Despite the possibility of fresh elections in September, this has been seen as a market positive due to the rejection of the Eurosceptics. Subsequently the EUR has gained ground against its major counterparts which lifted EUR/USD (temporarily) back above 1.1700 to the upside, subsequently pushing the DXY back below 94.00 to trade lower on the day.</p>\r\n\r\n<p>USD/JPY has traded relatively choppy as the initial upside from the revival of the US-North Korea summit hopes was short-lived after the pair met resistance at the 21DMA at 109.80 with light volumes unable to stage a more meaningful move higher in the pair.</p>\r\n\r\n<p>For commodity-related currencies, the CAD has been hampered by sell-off in energy markets with traders also mindful of Wednesday&rsquo;s BoC rate decision, ahead of which RBC look for unchanged at 1.25% and note that consistent with their current guidance and &ldquo;and a firmer growth profile in the rest of 2018 &ndash; we anticipate the next hike from the BoC to come in July&rdquo;. &nbsp;</p>\r\n\r\n<p>GBP currently trading with little in the way of firm direction with UK traders away from market. Political headlines will likely come back into the forefront after last week&rsquo;s slew of tier 1 data released with the latest reports suggesting that sources state the UK is lacking a plan in the event of a &#39;no-deal&#39; Brexit, thus making it virtually impossible for May to walk out of negotiations with the EU.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "fx-morning-colour-eur-firmer-as-eurospectics-are-shunned-by-mattarella-activity-muted-elsewhere-by-market-closures-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-28 15:54:00",
+        "gmt_time": "2018-05-28 07:54:00"
+    },
+    {
+        "id": 660337,
+        "updated_sequence": 983982,
+        "published_at": {
+            "unix": 1527493920,
+            "text": "2018-05-28 08:52:00 +0100",
+            "iso_8601": "2018-05-28T07:52:00Z"
+        },
+        "updated_at": {
+            "unix": 1527494696,
+            "text": "2018-05-28 09:04:56 +0100",
+            "iso_8601": "2018-05-28T08:04:56Z"
+        },
+        "subject": "Italian President Mattarella is expected to meet Ex-IMF's Cottarelli at 10:30 BST",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "italian-president-mattarella-is-expected-to-meet-ex-imf-s-cottarelli-at-10-30-bst-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-28 15:52:00",
+        "gmt_time": "2018-05-28 07:52:00"
+    },
+    {
+        "id": 660333,
+        "updated_sequence": 983958,
+        "published_at": {
+            "unix": 1527491460,
+            "text": "2018-05-28 08:11:00 +0100",
+            "iso_8601": "2018-05-28T07:11:00Z"
+        },
+        "updated_at": {
+            "unix": 1527491488,
+            "text": "2018-05-28 08:11:28 +0100",
+            "iso_8601": "2018-05-28T07:11:28Z"
+        },
+        "subject": "ECB says banks borrowed EUR 221mln at marginal rate & deposited EUR 646.998bln; Excess liquidity EUR 1.845tln",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "ecb-says-banks-borrowed-eur-221mln-at-marginal-rate-deposited-eur-646-998bln-excess-liquidity-eur-1-845tln-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 17,
+            "name": "ECB"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-28 15:11:00",
+        "gmt_time": "2018-05-28 07:11:00"
+    },
+    {
+        "id": 660332,
+        "updated_sequence": 983960,
+        "published_at": {
+            "unix": 1527490920,
+            "text": "2018-05-28 08:02:00 +0100",
+            "iso_8601": "2018-05-28T07:02:00Z"
+        },
+        "updated_at": {
+            "unix": 1527491658,
+            "text": "2018-05-28 08:14:18 +0100",
+            "iso_8601": "2018-05-28T07:14:18Z"
+        },
+        "subject": "EU morning movers: Italian Banks (FTSE Italia All-share bank index) +3.0%, Commerzbank (CBK GY) +2.1%, ING (INGA NA) +1.4%, Airbus (AIR FP) +1.0%, Bayer (BAYN GY) -1.6%, Shell (RDSA NA) -0.14%, Repsol (REP SM) -0.6",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "eu-morning-movers-italian-banks-ftse-italia-all-share-bank-index-3-0-commerzbank-cbk-gy-2-1-ing-inga-na-1-4-airbus-air-fp-1-0-bayer-bayn-gy-1-6-shell-rdsa-na-0-14-repsol-rep-sm-0-6-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 33,
+            "name": "European Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-28 15:02:00",
+        "gmt_time": "2018-05-28 07:02:00"
+    },
+    {
+        "id": 660331,
+        "updated_sequence": 983947,
+        "published_at": {
+            "unix": 1527489480,
+            "text": "2018-05-28 07:38:00 +0100",
+            "iso_8601": "2018-05-28T06:38:00Z"
+        },
+        "updated_at": {
+            "unix": 1527489711,
+            "text": "2018-05-28 07:41:51 +0100",
+            "iso_8601": "2018-05-28T06:41:51Z"
+        },
+        "subject": "Spain's PM Rajoy says he has no plans to resign; according to the People's Party",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>This follows reports on Friday that&nbsp;Spanish opposition have put forward a motion of no confidence against&nbsp;PM Mariano&nbsp;Rajoy</li>\r\n  <li>Spanish PM&nbsp;Rajoy&nbsp;defended&nbsp;his position by saying a no confidence motion is bad for the country&#39;s interest and ruled out a snap election</li>\r\n</ul>\r\n",
+        "analysis_updated_at": {
+            "unix": 1527489711,
+            "text": "2018-05-28 07:41:51 +0100",
+            "iso_8601": "2018-05-28T06:41:51Z"
+        },
+        "push_notify": false,
+        "source": "Cadena Ser",
+        "slug": "spain-s-pm-rajoy-says-he-has-no-plans-to-resign-according-to-the-people-s-party-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-28 14:38:00",
+        "gmt_time": "2018-05-28 06:38:00"
+    },
+    {
+        "id": 660330,
+        "updated_sequence": 983941,
+        "published_at": {
+            "unix": 1527489480,
+            "text": "2018-05-28 07:38:00 +0100",
+            "iso_8601": "2018-05-28T06:38:00Z"
+        },
+        "updated_at": {
+            "unix": 1527489541,
+            "text": "2018-05-28 07:39:01 +0100",
+            "iso_8601": "2018-05-28T06:39:01Z"
+        },
+        "subject": "League's Salvini says he will propose to 5SM a change to the current electoral law",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "league-s-salvini-says-he-will-propose-to-5sm-a-change-to-the-current-electoral-law-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-28 14:38:00",
+        "gmt_time": "2018-05-28 06:38:00"
+    },
+    {
+        "id": 660329,
+        "updated_sequence": 983938,
+        "published_at": {
+            "unix": 1527489360,
+            "text": "2018-05-28 07:36:00 +0100",
+            "iso_8601": "2018-05-28T06:36:00Z"
+        },
+        "updated_at": {
+            "unix": 1527489414,
+            "text": "2018-05-28 07:36:54 +0100",
+            "iso_8601": "2018-05-28T06:36:54Z"
+        },
+        "subject": "League's Salvini says that if Berlusconi supports a Cottarelli lead government, it is no longer an ally of League. ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "league-s-salvini-says-that-if-berlusconi-supports-a-cottarelli-lead-government-it-is-no-longer-an-ally-of-league-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-28 14:36:00",
+        "gmt_time": "2018-05-28 06:36:00"
+    },
+    {
+        "id": 660328,
+        "updated_sequence": 983935,
+        "published_at": {
+            "unix": 1527489000,
+            "text": "2018-05-28 07:30:00 +0100",
+            "iso_8601": "2018-05-28T06:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1527489202,
+            "text": "2018-05-28 07:33:22 +0100",
+            "iso_8601": "2018-05-28T06:33:22Z"
+        },
+        "subject": "League's Salvini says he will evaluate whether to form a coalition with 5SM in future elections",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>This is after calls for early elections</li>\r\n  <li>Corriere reported early elections could be set for September 9th</li>\r\n</ul>\r\n",
+        "analysis_updated_at": {
+            "unix": 1527489060,
+            "text": "2018-05-28 07:31:00 +0100",
+            "iso_8601": "2018-05-28T06:31:00Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "league-s-salvini-says-he-will-evaluate-whether-to-form-a-coalition-with-5sm-in-future-elections-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-28 14:30:00",
+        "gmt_time": "2018-05-28 06:30:00"
+    },
+    {
+        "id": 660327,
+        "updated_sequence": 983928,
+        "published_at": {
+            "unix": 1527488640,
+            "text": "2018-05-28 07:24:00 +0100",
+            "iso_8601": "2018-05-28T06:24:00Z"
+        },
+        "updated_at": {
+            "unix": 1527488863,
+            "text": "2018-05-28 07:27:43 +0100",
+            "iso_8601": "2018-05-28T06:27:43Z"
+        },
+        "subject": "Italian League leader Salvini says he doesn't want to talk about the possibility of impeaching President Mattarella",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>This comes after Di Maio stated it is unclear what will happen in the next few months and that the President should be impeached for betraying the constitution, while League leader Salvini said Italians should vote again</li>\r\n</ul>\r\n",
+        "analysis_updated_at": {
+            "unix": 1527488863,
+            "text": "2018-05-28 07:27:43 +0100",
+            "iso_8601": "2018-05-28T06:27:43Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "italian-league-leader-salvini-says-he-doesn-t-want-to-talk-about-the-possibility-of-impeaching-president-mattarella-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-28 14:24:00",
+        "gmt_time": "2018-05-28 06:24:00"
+    },
+    {
+        "id": 660326,
+        "updated_sequence": 983916,
+        "published_at": {
+            "unix": 1527487440,
+            "text": "2018-05-28 07:04:00 +0100",
+            "iso_8601": "2018-05-28T06:04:00Z"
+        },
+        "updated_at": {
+            "unix": 1527487753,
+            "text": "2018-05-28 07:09:13 +0100",
+            "iso_8601": "2018-05-28T06:09:13Z"
+        },
+        "subject": "Early Italian elections could be set for 9th September 2018",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>This follows reports that&nbsp;M5S leader Di Maio said it is unclear what will happen in the next few months and that the President should be impeached for betraying the constitution, while League leader Salvini said Italians should vote again.</li>\r\n  <li>Reports also stated that Italy PM-designate Conte&nbsp;gave up on efforts of forming a government after Italian President Mattarella rejected Eurosceptic Paolo Savona for the Economy Minister position because the appointment would have &ldquo;alarmed markets and investors, Italians and foreigners&rdquo;.</li>\r\n  <li>Additionally, President Mattarella has&nbsp;summoned former-IMF senior director Cottarelli to meet today in a move viewed by some as laying the groundwork for a technocratic government.&nbsp;</li>\r\n</ul>\r\n",
+        "analysis_updated_at": {
+            "unix": 1527487753,
+            "text": "2018-05-28 07:09:13 +0100",
+            "iso_8601": "2018-05-28T06:09:13Z"
+        },
+        "push_notify": false,
+        "source": "Corriere",
+        "slug": "early-italian-elections-could-be-set-for-9th-september-2018-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-28 14:04:00",
+        "gmt_time": "2018-05-28 06:04:00"
+    },
+    {
+        "id": 660325,
+        "updated_sequence": 983926,
+        "published_at": {
+            "unix": 1527487200,
+            "text": "2018-05-28 07:00:00 +0100",
+            "iso_8601": "2018-05-28T06:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1527488850,
+            "text": "2018-05-28 07:27:30 +0100",
+            "iso_8601": "2018-05-28T06:27:30Z"
+        },
+        "subject": "Additional European equity stories post the release of the Daily European equity opening news",
+        "content": "<p>Fonciere Des Regions (FDR FP) / Beni Stabili (BNS IM) &ndash; The two companies have approved a merger. (Newswires)</p>\r\n\r\n<p>Shire (SHP LN) &ndash; A group of shareholders from Takeda oppose the Shire takeover citing concerns over dilution and debt. (Nikkei)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "additional-european-equity-stories-post-the-release-of-the-daily-european-equity-opening-news-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 33,
+            "name": "European Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-28 14:00:00",
+        "gmt_time": "2018-05-28 06:00:00"
+    },
+    {
+        "id": 660324,
+        "updated_sequence": 983949,
+        "published_at": {
+            "unix": 1527486600,
+            "text": "2018-05-28 06:50:00 +0100",
+            "iso_8601": "2018-05-28T05:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1527489836,
+            "text": "2018-05-28 07:43:56 +0100",
+            "iso_8601": "2018-05-28T06:43:56Z"
+        },
+        "subject": "DAILY EUROPEAN EQUITY OPENING NEWS",
+        "content": "<p>**EUROPEAN EQUITY COVERAGE WILL ONLY COVER COMPANIES IN THE STOXX 600 OR COMPANIES OF SYSTEMIC IMPORTANCE TO PARTICULAR SECTORS**</p>\r\n\r\n<p>**NOTE UK AND US MARKETS ARE CLOSED FOR A BANK HOLIDAY AND MEMORIAL DAY**</p>\r\n\r\n<p>28th May 2018</p>\r\n\r\n<p>The Daily European Equity Opening News is uploaded at 0700BST/0100CDT recapping all of the overnight equity news</p>\r\n\r\n<p>From 0700BST/0100CDT all equity news will be covered in real time over the audio and headline feed and the full audio rundown will be at 0715BST/0115CDT.</p>\r\n\r\n<p>There will be an additional audio rundown at 0750BST/0150CDT recapping any company news which has hit the wires since 0715BST/0115CDT ahead of the European equity open</p>\r\n\r\n<p>ASIA</p>\r\n\r\n<p>Asian equity markets traded mostly higher on warming geopolitical ties with prospects of the US-North Korea summit back in play after President Trump mentioned a US team was sent to make arrangements and following an unannounced inter-Korean meeting between Moon and Kim. However, it wasn&rsquo;t all smooth sailing as the region also digested a slump in crude prices following reports that Saudi Arabia and Russia are nearing an agreement to raise output. ASX 200 (-0.6%) was dragged by commodity names after WTI crude extended on last week&rsquo;s losses to briefly trade below USD 66.00/bbl and after iron ore also slipped nearly 4% on Friday. Nikkei 225 (+0.1%) lacked direction amid an indecisive currency, while Shanghai Comp. (+0.2%) and Hang Seng (+0.6%) were initially choppy amid the aforementioned opposing risk factors but then eventually traded positive after strong Industrial Profit growth and a tepid net liquidity injection of CNY 30bln. Finally, 10yr JGBs were relatively flat alongside indecisive trade for Tokyo stocks and lack of a BoJ rinban announcement.</p>\r\n\r\n<p>FTSE</p>\r\n\r\n<p>Barclays (BARC LN) &ndash; The co. has begun making defensive moves and are confident of shareholder support vs. a possible offensive from the activist Sherborne, who want the company to scale back its investment bank and focus on credit cards in US and UK. (Newswires)</p>\r\n\r\n<p>RBS (RBS LN) &ndash; Co. was told by MPs to scrap plans to close up to 62 branches in Scotland as it could have a &ldquo;devastating&rdquo; impact on communities. (The Telegraph)</p>\r\n\r\n<p>UK gambling names &ndash; A group of MPs said that gambling companies should be treated like tobacco firms, calling for gambling ads to have serious addiction warnings. The group also demands a ban on gambling ads during live sporting events. (The Guardian)</p>\r\n\r\n<p>BT (BT/A LN) &ndash; The co. has had investor interest in the Openreach division. BT say they have not initiated a sale of this division. (FT)</p>\r\n\r\n<p>Smiths Group (SMIN LN) &ndash; Co. has been holding preliminary talks about a possible combination of healthcare operations with companies including ICU Medical (ICUI). It is unclear which other companies Smiths Group held talks with. (Sky News)</p>\r\n\r\n<p>OTHER UK COMPANIES</p>\r\n\r\n<p>Virgin Money Holdings (VM/ LN) - Clydesdale and Yorkshire banks are looking to increase the GBP 1.6bln offer for Virgin Money. (Times)</p>\r\n\r\n<p>DAX</p>\r\n\r\n<p>German companies &ndash; Saudi Crown Price has mandated that no more government deals be conducted with German companies in retaliation to German foreign policy actions in the Middle East. (Der Spiegel)</p>\r\n\r\n<p>Daimler (DAI GY) &ndash; German Transport minister Scheuer has summoned CEO&nbsp;relating to the Mercedes-Benz engine management software which is alleged to have caused a breach of regulations. This breach has led to the probe of 120,000 Mercedes-Benz cars. (Newswires)</p>\r\n\r\n<p>Bayer (BAYN GY) &ndash; Sources state that Bayer has won a antitrust case for the upcoming Monsanto deal. (Newswires)</p>\r\n\r\n<p>Volkswagen (VOW3 GY) &ndash; The co. has to develop a software update for the 2.0-TDI engine, as some Passat models display the engine warning light regardless if there is no problem with the engine. Separately, the co. has warned of bottlenecks in August production due to the switch to WLTP lab tests. (Newswires)</p>\r\n\r\n<p>Deutsche Post (DPW GY) &ndash; Co. plans to increase the postage price in 2019 for domestic letters to EUR 0.80 vs. Prev. EUR 0.70. (Bild am Sonntag)</p>\r\n\r\n<p>PAN EUROPE</p>\r\n\r\n<p>Gemalto (GTO NA) &ndash; The co. has announced a collaboration with Qualcomm relating to integration of EXIM innovation into the Snapdragon platform. (Newswires)</p>\r\n\r\n<p>SMI</p>\r\n\r\n<p>Swiss Re (SREN SW) &ndash; Softbank have reportedly ended discussions about a potential minority investment in Swiss Re. Swiss Re &nbsp;will further ideas between their operative entities and the portfolio of Softbanks companies. (Newswires)</p>\r\n\r\n<p>OTHER SWISS COMPANIES</p>\r\n\r\n<p>Sulzer (SUN SW) &ndash; The Renova representative on Co. board has tendered his resignation. Co. says the board now consists of three members who represent Renova, and a total of seven members. (Newswires)</p>\r\n\r\n<p>US</p>\r\n\r\n<p>* EQUITIES: SPX -0.2% at 2,722, NDX +0.2% at 6,961, DJI -0.2% at 24,751.&nbsp; SECTORS: Cons Cyclicals +0.2%, Cons Non-Cyclicals: +0.1%, Energy: -2.6%, Financials: -0.4%, Health Care: -0.2%, Industrials: -0.2%, Materials: -0.5%, Telecom: -0.6%, Tech: 0%, Utilities: +0.4%</p>\r\n\r\n<p>US equity futures were content within their 2730-2740 range, until pre-market news from Spain, Italy as well as OPEC added to a risk-off feel, which the futures complex finally succumbed to. In the pre-market, ES tested the 2715 area, before ranging between 2715-2725 heading into the long weekend.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-european-equity-opening-news-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 33,
+            "name": "European Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-28 13:50:00",
+        "gmt_time": "2018-05-28 05:50:00"
+    },
+    {
+        "id": 660323,
+        "updated_sequence": 983900,
+        "published_at": {
+            "unix": 1527485520,
+            "text": "2018-05-28 06:32:00 +0100",
+            "iso_8601": "2018-05-28T05:32:00Z"
+        },
+        "updated_at": {
+            "unix": 1527485731,
+            "text": "2018-05-28 06:35:31 +0100",
+            "iso_8601": "2018-05-28T05:35:31Z"
+        },
+        "subject": "NOTICE: Due to the UK bank holiday and US Memorial Day holiday on Monday 28th May, the desk will be running a reduced service alongside the subsequent market closures. See below for further details",
+        "content": "<p>European service is opening at its regular time of 0630BST/0030CDT given that European markets will be open for trade.</p>\r\n\r\n<p>- The European service will run to 1630BST to cover the European cash equity close, upon which the desk will close. Note, there will be no US service thereafter for that session due to US market closures.</p>\r\n\r\n<p>- The service will then re-open later that evening on May 28th at 2200BST for the beginning of the Asia-Pacific session with full coverage to resume thereafter on Tuesday May 30th.</p>\r\n\r\n<p>UK</p>\r\n\r\n<p>All UK products are closed</p>\r\n\r\n<p>EUROPE</p>\r\n\r\n<p>Regular close and trading</p>\r\n\r\n<p>US</p>\r\n\r\n<p>Floor Trade</p>\r\n\r\n<p>All closed</p>\r\n\r\n<p>Electronic Trade</p>\r\n\r\n<p>Equity (Closed 1200CDT/1800BST, Re-opens 1700CDT/2300BST)</p>\r\n\r\n<p>Interest Rate (Closed 1200CDT/1800BST, Re-opens 1700CDT/2300BST)</p>\r\n\r\n<p>FX (Closed 1200CDT/1800BST, Re-opens 1700CDT/2300BST)</p>\r\n\r\n<p>NYMEX (Closed 1200CDT/1800BST, Re-opens 1700CDT/2300BST)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "notice-due-to-the-uk-bank-holiday-and-us-memorial-day-holiday-on-monday-28th-may-the-desk-will-be-running-a-reduced-service-alongside-the-subsequent-market-closures-see-below-for-further-details-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-28 13:32:00",
+        "gmt_time": "2018-05-28 05:32:00"
+    },
+    {
+        "id": 660322,
+        "updated_sequence": 983889,
+        "published_at": {
+            "unix": 1527485100,
+            "text": "2018-05-28 06:25:00 +0100",
+            "iso_8601": "2018-05-28T05:25:00Z"
+        },
+        "updated_at": {
+            "unix": 1527485254,
+            "text": "2018-05-28 06:27:34 +0100",
+            "iso_8601": "2018-05-28T05:27:34Z"
+        },
+        "subject": "DAILY EUROPEAN OPENING NEWS: Italy PM-designate Conte reportedly gave up on efforts of forming a government after Italian President Mattarella rejected Eurosceptic Paolo Savona for the Economy Minister position",
+        "content": "<p>Asian equity markets traded mostly higher on warming geopolitical ties with prospects of the US-North Korea summit back in play</p>\r\n\r\n<p>Italy PM-designate Conte reportedly gave up on efforts of forming a government after Italian President Mattarella rejected Eurosceptic Paolo Savona for the Economy Minister position</p>\r\n\r\n<p>Today&rsquo;s calendar sees a lack of tier 1 highlights. UK and US markets are closed</p>\r\n\r\n<p>ASIA</p>\r\n\r\n<p>Asian equity markets traded mostly higher on warming geopolitical ties with prospects of the US-North Korea summit back in play after President Trump mentioned a US team was sent to make arrangements and following an unannounced inter-Korean meeting between Moon and Kim. However, it wasn&rsquo;t all smooth sailing as the region also digested a slump in crude prices following reports that Saudi Arabia and Russia are nearing an agreement to raise output. ASX 200 (-0.6%) was dragged by commodity names after WTI crude extended on last week&rsquo;s losses to briefly trade below USD 66.00/bbl and after iron ore also slipped nearly 4% on Friday. Nikkei 225 (+0.1%) lacked direction amid an indecisive currency, while Shanghai Comp. (+0.2%) and Hang Seng (+0.6%) were initially choppy amid the aforementioned opposing risk factors but then eventually traded positive after strong Industrial Profit growth and a tepid net liquidity injection of CNY 30bln. Finally, 10yr JGBs were relatively flat alongside indecisive trade for Tokyo stocks and lack of a BoJ rinban announcement.</p>\r\n\r\n<p>Chinese Industrial Profits (Apr) Y/Y 21.9% vs. (Prev. 3.1%); 6-month high. (SCMP)</p>\r\n\r\n<p>PBoC injected CNY 20bln via 7-day reverse repos and CNY 10bln via 28-day reverse repos for a net daily injection of CNY 30bln, while it hiked 28-day reverse repo rate by 5bps to 2.85% which is inline with what the central bank did to the other tenors previously following the March Fed hike. (Newswires)<br />PBoC set CNY mid-point at 6.3962 (Prev. 6.3867)</p>\r\n\r\n<p><br />UK/EU</p>\r\n\r\n<p>UK is reported to be lacking a plan in the event of a &#39;no-deal&#39; Brexit, thus making it virtually impossible for May to walk out of negotiations with the EU, according to sources. (FT)</p>\r\n\r\n<p>UK Foreign Minister Johnson has stressed the need for the UK to come &ldquo;fully out&rdquo; of the EU customs union if the UK is to be a global trading nation. (Guardian)</p>\r\n\r\n<p><br />EU Brexit Negotiator Barnier said on Friday his scenario is to reach a realistic Brexit deal and that his worst-case scenario is not a no deal. (Newswires) On Saturday, Barnier warned the UK to stop playing &lsquo;hide and seek&rsquo; and come to a realistic solution for their exit from the EU. (FT)</p>\r\n\r\n<p>Italy PM-designate Conte reportedly gave up on efforts of forming a government after Italian President Mattarella rejected Eurosceptic Paolo Savona for the Economy Minister position because the appointment would have &ldquo;alarmed markets and investors, Italians and foreigners&rdquo;. Following the veto by Mattarella, M5S leader Di Maio said it is unclear what will happen in the next few months and that the President should be impeached for betraying the constitution, while League leader Salvini said Italians should vote again. (Newswires/Guardian) President Mattarella has reportedly summoned former-IMF senior director Cottarelli to meet today in a move viewed by some as laying the groundwork for a technocratic government. (Newswires)<br /><br />Moody&#39;s placed Italy Baa2 rating on downgrade watch. (Newswires)</p>\r\n\r\n<p>FX</p>\r\n\r\n<p>EUR/USD reclaimed the 1.1700 handle to the upside on reports that Italian PM-designate Conte gave up on forming a government after President Mattarella rejected Eurosceptic Paolo Savona for the Economy Minister position. Despite the uncertainty following the veto including the possibility of fresh elections, EUR strengthened across the board due to the rejection of the Eurosceptics and in turn, dragged the DXY back below the 94.00 level. Elsewhere, USD/JPY traded choppy as the initial upside from the revival of the US-North Korea summit hopes was counterbalanced by the crude slump, while commodity-linked currencies were mixed as the CAD suffered and antipodeans weathered the crude sell-off storm.</p>\r\n\r\n<p><br />COMMODITIES</p>\r\n\r\n<p>Commodities were lacklustre overnight following Friday&rsquo;s losses in which WTI crude futures extended on last week&rsquo;s decline of around 5% with another near 3% decline to briefly trade below USD 66/bbl after reports on Friday suggested that Saudi Arabia and Russia were nearing an agreement to raise production. Elsewhere, gold opened lower on renewed prospects for a summit US-North Korea summit, while copper consolidated overnight amid an initial choppy risk tone.</p>\r\n\r\n<p>Russian Energy Minister Novak said OPEC+ are likely to agree to gradually raise output and that proportional easing for OPEC+ members seems a fair option. However, Novak added no final decision has yet been taken about easing cuts deal and it is too soon to say how much of the cut supply will be coming back to the market. (Newswires)</p>\r\n\r\n<p>Russian President Putin said oil prices at USD 65/bbl suit Russia, while Russian Deputy Finance Ministry Oreshkin said 3-year forecast assumed oil prices at USD 60/bbl. (Newswires)</p>\r\n\r\n<p>US Baker Hughes Total Rig Count (18 May) 1059 (Prev. 1046). (Newswires)</p>\r\n\r\n<p>NHC said storm Alberto continues to head for the Northern Gulf Coast. (Newswires)</p>\r\n\r\n<p><br />GEOPOLITICS</p>\r\n\r\n<p>US President Trump tweeted that a US team arrived in North Korea to make arrangement for summit between Trump and Kim Jong Un. (Twitter) In related news, there were also reports that South Korea President Moon may join US and North Korean leaders for a trilateral summit, according to an official. (Yonhap)</p>\r\n\r\n<p>South Korea President Moon met with North Korea leader Kim in an unannounced meeting over the weekend in which the latter affirmed commitment for denuclearisation. (WSJ)</p>\r\n\r\n<p>North Korean delegates headed for Singapore today in preparation for a possible US-North Korea summit. (Yonhap)</p>\r\n\r\n<p>Iran Deputy Foreign Minister said after talks with Europeans, negotiations will continue to try and salvage the nuclear deal, while there were also reports that Iran is weeks away from deciding to stay or exit their nuclear deal. (Newswires)<br />&nbsp;</p>\r\n\r\n<p>US</p>\r\n\r\n<p>Treasury yields fell across the curve amid continued uncertainty in Europe around the upsurge of the new populist government in Italy, which sent the spread between 10yr Bunds and BTPS above 200bps, and also on the prospect that Spanish PM Rajoy will likely face a confidence vote. Treasuries caught a bid during European hours as safe haven assets drew demand, and stabilised near session highs as investors squared-up their books ahead of the long weekend in the US/UK. Most of the action was concentrated in the belly of the curve with 10yr yields higher by c.5bps, the front end of the curve was higher by c.3bps and the long end by c.4bps. 2s5s and 2s10s narrowed by c.2bps whilst 5s30 and 10s30s widened by c.2bps. US 10yr T-Notes futures settled 11+ ticks higher at 119-27+.</p>\r\n\r\n<p>Fed&#39;s Bostic (voter, dovish) said there are a lot of reasons to proceed with gradual hikes, not the least because that is what the Fed has guided. (Newswires)</p>\r\n\r\n<p>Fed&#39;s Kaplan (non-voter, neutral) said he is very carefully monitoring impact of dollar and is hopeful the IOER will help the Fed better set the funds rate, while Kaplan reiterated the case for gradual hikes and cited the possibility for &#39;rapid change&#39;. (Newswires)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "daily-european-opening-news-italy-pm-designate-conte-reportedly-gave-up-on-efforts-of-forming-a-government-after-italian-president-mattarella-rejected-eurosceptic-paolo-savona-for-the-economy-minister-position-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-28 13:25:00",
+        "gmt_time": "2018-05-28 05:25:00"
+    },
+    {
+        "id": 660321,
+        "updated_sequence": 983886,
+        "published_at": {
+            "unix": 1527483480,
+            "text": "2018-05-28 05:58:00 +0100",
+            "iso_8601": "2018-05-28T04:58:00Z"
+        },
+        "updated_at": {
+            "unix": 1527483648,
+            "text": "2018-05-28 06:00:48 +0100",
+            "iso_8601": "2018-05-28T05:00:48Z"
+        },
+        "subject": "ASIA-PAC MARKET WRAP: Asia traded mostly positive amid revived prospects for US-North Korea summit next month; crude continued to slip",
+        "content": "<p>Asia equity markets traded mostly higher on warming geopolitical ties with prospects of the US-North Korea summit back in play after President Trump mentioned a US team was sent to make arrangements and following an unannounced inter-Korean meeting between Moon and Kim. However, it wasn&rsquo;t all smooth sailing as the region also digested a slump in crude prices following reports that Saudi Arabia and Russia are nearing an agreement to raise output. ASX 200 (-0.6%) was dragged by commodity names after WTI crude extended on last week&rsquo;s losses to briefly trade below USD 66.00/bbl and after iron ore also slipped nearly 4% on Friday. Elsewhere, Nikkei 225 (+0.1%) lacked direction amid an indecisive currency, while Shanghai Comp. (+0.2%) and Hang Seng (+0.6%) were initially choppy amid the aforementioned opposing risk factors but then eventually traded positive after strong Industrial Profit growth and a tepid net liquidity injection of CNY 30bln. Finally, 10yr JGBs were relatively flat alongside indecisive trade for Tokyo stocks and lack of a BoJ rinban announcement.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-market-wrap-asia-traded-mostly-positive-amid-revived-prospects-for-us-north-korea-summit-next-month-crude-continued-to-slip-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-28 12:58:00",
+        "gmt_time": "2018-05-28 04:58:00"
+    },
+    {
+        "id": 660320,
+        "updated_sequence": 983883,
+        "published_at": {
+            "unix": 1527482400,
+            "text": "2018-05-28 05:40:00 +0100",
+            "iso_8601": "2018-05-28T04:40:00Z"
+        },
+        "updated_at": {
+            "unix": 1527482567,
+            "text": "2018-05-28 05:42:47 +0100",
+            "iso_8601": "2018-05-28T04:42:47Z"
+        },
+        "subject": "RBA's Harper says RBA has steady as she goes stance on policy and that a recovery in wage growth will be a long distance",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "rba-s-harper-says-rba-has-steady-as-she-goes-stance-on-policy-and-that-a-recovery-in-wage-growth-will-be-a-long-distance-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-28 12:40:00",
+        "gmt_time": "2018-05-28 04:40:00"
+    },
+    {
+        "id": 660319,
+        "updated_sequence": 983880,
+        "published_at": {
+            "unix": 1527480840,
+            "text": "2018-05-28 05:14:00 +0100",
+            "iso_8601": "2018-05-28T04:14:00Z"
+        },
+        "updated_at": {
+            "unix": 1527480982,
+            "text": "2018-05-28 05:16:22 +0100",
+            "iso_8601": "2018-05-28T04:16:22Z"
+        },
+        "subject": "Larsen & Toubro (LT IS) construction unit water and effluent treatment business receives orders valued at INR 57.0bln",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "larsen-toubro-lt-is-construction-unit-water-and-effluent-treatment-business-receives-orders-valued-at-inr-57-0bln-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-28 12:14:00",
+        "gmt_time": "2018-05-28 04:14:00"
+    },
+    {
+        "id": 660318,
+        "updated_sequence": 983877,
+        "published_at": {
+            "unix": 1527478320,
+            "text": "2018-05-28 04:32:00 +0100",
+            "iso_8601": "2018-05-28T03:32:00Z"
+        },
+        "updated_at": {
+            "unix": 1527478546,
+            "text": "2018-05-28 04:35:46 +0100",
+            "iso_8601": "2018-05-28T03:35:46Z"
+        },
+        "subject": "PRE-MARKET INDIA STOCK NEWS: Sun Pharma (SUNP IS) Q4 consolidated profit rose 6.9% Y/Y to INR 13.8bln",
+        "content": "<p>Bank of Baroda (BOB IS)<br />- Co. Q4 net loss INR 31.0bln vs. Prev. profit INR 1.5bln Y/Y. (ET)<br /><br />ICICI Bank (ICICIBC IS)<br />- SEBI issued a show-clause notice to the lender and its CEO Kochar for alleged breach of disclosure requirements in case related to Videocon Group and NuPower Renewables which was run by her husband. (ET)</p>\r\n\r\n<p>Sun Pharma (SUNP IS)<br />- Co. Q4 consolidated profit rose 6.9% Y/Y to INR 13.8bln. (ET)</p>\r\n\r\n<p>Tech Mahindra (TECHM IS)<br />- Co. Q4 net rose 108% Y/Y to INR 12.2bln. (ET)</p>\r\n\r\n<p>Financials<br />- Some PSU banks may face tougher measures from the RBI under the prompt corrective action framework, following a worsening of performances during Q4. (Telegraph India)</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-india-stock-news-sun-pharma-sunp-is-q4-consolidated-profit-rose-6-9-y-y-to-inr-13-8bln-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-28 11:32:00",
+        "gmt_time": "2018-05-28 03:32:00"
+    },
+    {
+        "id": 660317,
+        "updated_sequence": 983871,
+        "published_at": {
+            "unix": 1527477840,
+            "text": "2018-05-28 04:24:00 +0100",
+            "iso_8601": "2018-05-28T03:24:00Z"
+        },
+        "updated_at": {
+            "unix": 1527477904,
+            "text": "2018-05-28 04:25:04 +0100",
+            "iso_8601": "2018-05-28T03:25:04Z"
+        },
+        "subject": "North Korean delegates reportedly head for Singapore today in preparation for a possible US-North Korea summit",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "north-korean-delegates-reportedly-head-for-singapore-today-in-preparation-for-a-possible-us-north-korea-summit-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-28 11:24:00",
+        "gmt_time": "2018-05-28 03:24:00"
+    },
+    {
+        "id": 660316,
+        "updated_sequence": 983868,
+        "published_at": {
+            "unix": 1527477240,
+            "text": "2018-05-28 04:14:00 +0100",
+            "iso_8601": "2018-05-28T03:14:00Z"
+        },
+        "updated_at": {
+            "unix": 1527477509,
+            "text": "2018-05-28 04:18:29 +0100",
+            "iso_8601": "2018-05-28T03:18:29Z"
+        },
+        "subject": "Reports state that South Korea President Moon met with North Korea leader Kim in a surprise meeting over the weekend in which the latter affirmed commitment for denuclearisation",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Twitter",
+        "slug": "reports-state-that-south-korea-president-moon-met-with-north-korea-leader-kim-in-a-surprise-meeting-over-the-weekend-in-which-the-latter-affirmed-commitment-for-denuclearisation-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": "'Newsquawk source' - Signifies information that has not been formally tested through traditional journalistic channels and therefore is to be treated as unsubstantiated. Any interpretation of this information is taken at the reader’s own risk and is a representation of the rumours within the market place and never generated by ourselves",
+        "rumour": true,
+        "hk_time": "2018-05-28 11:14:00",
+        "gmt_time": "2018-05-28 03:14:00"
+    },
+    {
+        "id": 660315,
+        "updated_sequence": 983865,
+        "published_at": {
+            "unix": 1527476820,
+            "text": "2018-05-28 04:07:00 +0100",
+            "iso_8601": "2018-05-28T03:07:00Z"
+        },
+        "updated_at": {
+            "unix": 1527477173,
+            "text": "2018-05-28 04:12:53 +0100",
+            "iso_8601": "2018-05-28T03:12:53Z"
+        },
+        "subject": "ASIA-PAC MID-SESSION UPDATE: Asia stocks trade choppy as participants digest revived hopes of US-North Korea summit and crude slump",
+        "content": "<p>Asia equity markets trade choppy as region digests a slump in crude prices amid reports that Saudi Arabia and Russia are nearing an agreement to raise output, with prospects of the US-North Korea summit back in play after the US sent a team to make arrangements. ASX 200 (-0.6%) is dragged by commodity names after WTI crude extended on last week&rsquo;s losses of around 5% with another near 3% decline to briefly trade below USD 66.00/bbl and after iron ore also slipped nearly 4% on Friday. Elsewhere, Nikkei 225 (Unch) lacks direction amid an indecisive currency and Chinese markets (Shanghai Comp. +0.1%, Hang Seng +0.5%) are also choppy amid the aforementioned opposing risk factors, while the PBoC also conducted a tame net liquidity injection of CNY 30bln and raised the rates on its 28-day reverse repos by 5bps which was inline with previous actions on other tenors post-March Fed-hike.</p>\r\n\r\n<p>In FX markets, EUR/USD is firmer and reclaimed the 1.1700 handle on reports that Italian PM-designate Conte gave up on forming a government after President Mattarella surprisingly rejected Eurosceptic Paolo Savona for the Economy Minister position. Despite the uncertainty following the veto including the possibility of fresh elections, EUR strengthened across the board due to the rejection of the Eurosceptics and in turn, dragged the DXY back below the 94.00 level. Elsewhere, USD/JPY trades choppy as the initial upside from the revival of the US-North Korea summit hopes is counterbalanced by the crude slump, while commodity-linked currencies are mixed as the CAD suffers and antipodeans weather the crude sell-off storm.</p>\r\n\r\n<p>Finally, 10yr JGBs are relatively flat alongside indecisive trade for Tokyo stocks and amid a lack of BoJ rinban announcement.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-mid-session-update-asia-stocks-trade-choppy-as-participants-digest-revived-hopes-of-us-north-korea-summit-and-crude-slump-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-28 11:07:00",
+        "gmt_time": "2018-05-28 03:07:00"
+    },
+    {
+        "id": 660314,
+        "updated_sequence": 983859,
+        "published_at": {
+            "unix": 1527475560,
+            "text": "2018-05-28 03:46:00 +0100",
+            "iso_8601": "2018-05-28T02:46:00Z"
+        },
+        "updated_at": {
+            "unix": 1527475637,
+            "text": "2018-05-28 03:47:17 +0100",
+            "iso_8601": "2018-05-28T02:47:17Z"
+        },
+        "subject": "NHC says Storm Alberto continues to head for the Northern Gulf Coast",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "nhc-says-storm-alberto-continues-to-head-for-the-northern-gulf-coast-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-28 10:46:00",
+        "gmt_time": "2018-05-28 02:46:00"
+    },
+    {
+        "id": 660313,
+        "updated_sequence": 983856,
+        "published_at": {
+            "unix": 1527472740,
+            "text": "2018-05-28 02:59:00 +0100",
+            "iso_8601": "2018-05-28T01:59:00Z"
+        },
+        "updated_at": {
+            "unix": 1527472856,
+            "text": "2018-05-28 03:00:56 +0100",
+            "iso_8601": "2018-05-28T02:00:56Z"
+        },
+        "subject": "South Korea President Moon may join US and North Korean leaders for a trilateral summit, according to Yonhap citing an official",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "south-korea-president-moon-may-join-us-and-north-korean-leaders-for-a-trilateral-summit-according-to-yonhap-citing-an-official-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-28 09:59:00",
+        "gmt_time": "2018-05-28 01:59:00"
+    },
+    {
+        "id": 660312,
+        "updated_sequence": 983853,
+        "published_at": {
+            "unix": 1527472140,
+            "text": "2018-05-28 02:49:00 +0100",
+            "iso_8601": "2018-05-28T01:49:00Z"
+        },
+        "updated_at": {
+            "unix": 1527472271,
+            "text": "2018-05-28 02:51:11 +0100",
+            "iso_8601": "2018-05-28T01:51:11Z"
+        },
+        "subject": "PBoC hikes 28-Day reverse repo rate by 5bps to 2.85% which is inline with what the central bank did to the other tenors previously following the Fed hike in March",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pboc-hikes-28-day-reverse-repo-rate-by-5bps-to-2-85-which-is-inline-with-what-the-central-bank-did-to-the-other-tenors-previously-following-the-fed-hike-in-march-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-28 09:49:00",
+        "gmt_time": "2018-05-28 01:49:00"
+    },
+    {
+        "id": 660311,
+        "updated_sequence": 983850,
+        "published_at": {
+            "unix": 1527470640,
+            "text": "2018-05-28 02:24:00 +0100",
+            "iso_8601": "2018-05-28T01:24:00Z"
+        },
+        "updated_at": {
+            "unix": 1527470668,
+            "text": "2018-05-28 02:24:28 +0100",
+            "iso_8601": "2018-05-28T01:24:28Z"
+        },
+        "subject": "Moody's places Italy Baa2 rating on downgrade watch",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "moody-s-places-italy-baa2-rating-on-downgrade-watch-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-28 09:24:00",
+        "gmt_time": "2018-05-28 01:24:00"
+    },
+    {
+        "id": 660310,
+        "updated_sequence": 983847,
+        "published_at": {
+            "unix": 1527470520,
+            "text": "2018-05-28 02:22:00 +0100",
+            "iso_8601": "2018-05-28T01:22:00Z"
+        },
+        "updated_at": {
+            "unix": 1527470590,
+            "text": "2018-05-28 02:23:10 +0100",
+            "iso_8601": "2018-05-28T01:23:10Z"
+        },
+        "subject": "Hebron Radio denies reports that Palestinian President Abbas died",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "hebron-radio-denies-reports-that-palestinian-president-abbas-died-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-28 09:22:00",
+        "gmt_time": "2018-05-28 01:22:00"
+    },
+    {
+        "id": 660310,
+        "updated_sequence": 983847,
+        "published_at": {
+            "unix": 1527470520,
+            "text": "2018-05-28 02:22:00 +0100",
+            "iso_8601": "2018-05-28T01:22:00Z"
+        },
+        "updated_at": {
+            "unix": 1527470590,
+            "text": "2018-05-28 02:23:10 +0100",
+            "iso_8601": "2018-05-28T01:23:10Z"
+        },
+        "subject": "Hebron Radio denies reports that Palestinian President Abbas died",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "hebron-radio-denies-reports-that-palestinian-president-abbas-died-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-28 09:22:00",
+        "gmt_time": "2018-05-28 01:22:00"
+    },
+    {
+        "id": 660309,
+        "updated_sequence": 983844,
+        "published_at": {
+            "unix": 1527470340,
+            "text": "2018-05-28 02:19:00 +0100",
+            "iso_8601": "2018-05-28T01:19:00Z"
+        },
+        "updated_at": {
+            "unix": 1527470523,
+            "text": "2018-05-28 02:22:03 +0100",
+            "iso_8601": "2018-05-28T01:22:03Z"
+        },
+        "subject": "PRE-MARKET CHINESE STOCK NEWS: Chinese Industrial Profits growth at a 6-month high",
+        "content": "<p>Tencent (700 HK)<br />- Co. Chairman has vowed to advance the chip industry in China following the ZTE ban which is said to serve as a wake-up call. (Newswires)</p>\r\n\r\n<p>ZTE (763 HK)<br />- US reached an agreement to keep ZTE in business in which the Co. will pay a USD 1.3bln fine. (Nikkei)</p>\r\n\r\n<p>Data Recap<br />- Chinese Industrial Profits (Apr) Y/Y 21.9% vs. (Prev. 3.1%); 6-month high. (SCMP)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-chinese-stock-news-chinese-industrial-profits-growth-at-a-6-month-high-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-28 09:19:00",
+        "gmt_time": "2018-05-28 01:19:00"
+    },
+    {
+        "id": 660307,
+        "updated_sequence": 983836,
+        "published_at": {
+            "unix": 1527470100,
+            "text": "2018-05-28 02:15:00 +0100",
+            "iso_8601": "2018-05-28T01:15:00Z"
+        },
+        "updated_at": {
+            "unix": 1527470290,
+            "text": "2018-05-28 02:18:10 +0100",
+            "iso_8601": "2018-05-28T01:18:10Z"
+        },
+        "subject": "PBoC sets CNY mid-point at 6.3962 (Prev. 6.3867)",
+        "content": "<p>Tencent (700 HK)<br />- Co. Chairman has vowed to advance the chip industry in China following the ZTE ban which is said to serve as a wake-up call. (Newswires)</p>\r\n\r\n<p>ZTE (763 HK)<br />- US reached an agreement to keep the ZTE in business in which the Co. will pay a USD 1.3bln fine. (Nikkei)</p>\r\n\r\n<p>Data Recap<br />- Chinese Industrial Profits (Apr) Y/Y 21.9% vs. (Prev. 3.1%); 6-month high. (SCMP)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pboc-sets-cny-mid-point-at-6-3962-prev-6-3867-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-28 09:15:00",
+        "gmt_time": "2018-05-28 01:15:00"
+    },
+    {
+        "id": 660308,
+        "updated_sequence": 983839,
+        "published_at": {
+            "unix": 1527470100,
+            "text": "2018-05-28 02:15:00 +0100",
+            "iso_8601": "2018-05-28T01:15:00Z"
+        },
+        "updated_at": {
+            "unix": 1527470347,
+            "text": "2018-05-28 02:19:07 +0100",
+            "iso_8601": "2018-05-28T01:19:07Z"
+        },
+        "subject": "PBoC are to inject CNY 20bln via 7-day reverse repos and CNY 10bln via 28-day reverse repos ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pboc-are-to-inject-cny-20bln-via-7-day-reverse-repos-and-cny-10bln-via-28-day-reverse-repos-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-28 09:15:00",
+        "gmt_time": "2018-05-28 01:15:00"
+    },
+    {
+        "id": 660306,
+        "updated_sequence": 983830,
+        "published_at": {
+            "unix": 1527469020,
+            "text": "2018-05-28 01:57:00 +0100",
+            "iso_8601": "2018-05-28T00:57:00Z"
+        },
+        "updated_at": {
+            "unix": 1527469316,
+            "text": "2018-05-28 02:01:56 +0100",
+            "iso_8601": "2018-05-28T01:01:56Z"
+        },
+        "subject": "Palestinian President Mahmoud Abbas is reported to have died, according to Twitter reports citing Hebron Radio - Unconfirmed",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<p>- The reports have not cited a cause of death and there has not been any confirmation either, although Abbas was in hospital being treated for a lung infection.</p>\r\n",
+        "analysis_updated_at": {
+            "unix": 1527469316,
+            "text": "2018-05-28 02:01:56 +0100",
+            "iso_8601": "2018-05-28T01:01:56Z"
+        },
+        "push_notify": false,
+        "source": "Twitter",
+        "slug": "palestinian-president-mahmoud-abbas-is-reported-to-have-died-according-to-twitter-reports-citing-hebron-radio-unconfirmed-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": "'Newsquawk source' - Signifies information that has not been formally tested through traditional journalistic channels and therefore is to be treated as unsubstantiated. Any interpretation of this information is taken at the reader’s own risk and is a representation of the rumours within the market place and never generated by ourselves",
+        "rumour": true,
+        "hk_time": "2018-05-28 08:57:00",
+        "gmt_time": "2018-05-28 00:57:00"
+    },
+    {
+        "id": 660305,
+        "updated_sequence": 983824,
+        "published_at": {
+            "unix": 1527467880,
+            "text": "2018-05-28 01:38:00 +0100",
+            "iso_8601": "2018-05-28T00:38:00Z"
+        },
+        "updated_at": {
+            "unix": 1527468046,
+            "text": "2018-05-28 01:40:46 +0100",
+            "iso_8601": "2018-05-28T00:40:46Z"
+        },
+        "subject": "PRE-MARKET TAIWAN AND SINGAPORE NEWS: Epistar (2448 TT) plans to spin-off 2 of its 3 main businesses this year",
+        "content": "<p>TAIWAN</p>\r\n\r\n<p>Goodway Machine Corp (1583 TT)<br />- Co. executive said they are upbeat regarding the business outlook in the approaching quarters. (Taipei Times)</p>\r\n\r\n<p>Epistar (2448 TT)<br />- Co. announced plans to spin-off 2 of its 3 main businesses this year. (Taipei Times)</p>\r\n\r\n<p>Other News<br />- Taiwan April YTD Retail Sales rose 4.5% Y/Y. (Newswires)<br />- Director General of Budget, Accounting and Statistics upgraded Taiwan GDP growth forecast to 2.8% this year from around 2.6%. (Focus Taiwan)</p>\r\n\r\n<p>SINGAPORE<br /><br />Keppel Corp. (KEP SP)<br />- Co. entered option agreement for sale of shares in Aether Limited in which it expect an approximate SGD 114mln gain from proposed divestment. (Newswires)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-taiwan-and-singapore-news-epistar-2448-tt-plans-to-spin-off-2-of-its-3-main-businesses-this-year-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-28 08:38:00",
+        "gmt_time": "2018-05-28 00:38:00"
+    },
+    {
+        "id": 660304,
+        "updated_sequence": 983818,
+        "published_at": {
+            "unix": 1527465780,
+            "text": "2018-05-28 01:03:00 +0100",
+            "iso_8601": "2018-05-28T00:03:00Z"
+        },
+        "updated_at": {
+            "unix": 1527465999,
+            "text": "2018-05-28 01:06:39 +0100",
+            "iso_8601": "2018-05-28T00:06:39Z"
+        },
+        "subject": "Asia equity markets begin mixed with Japan and South Korea positive after US President Trump suggested prospects for a US-North Korea summit are back in play, while Australia lags on commodity weakness; ASX 200 (-0.2%), Nikkei 225 (+0.3%), KOSPI (+0.5%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-equity-markets-begin-mixed-with-japan-and-south-korea-positive-after-us-president-trump-suggested-prospects-for-a-us-north-korea-summit-are-back-in-play-while-australia-lags-on-commodity-weakness-asx-200-0-2-nikkei-225-0-3-k-28-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-28 08:03:00",
+        "gmt_time": "2018-05-28 00:03:00"
+    }
+]

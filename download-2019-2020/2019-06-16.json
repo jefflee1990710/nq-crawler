@@ -1,0 +1,512 @@
+[
+    {
+        "id": 874017,
+        "updated_sequence": 1875625,
+        "published_at": {
+            "unix": 1560728280,
+            "text": "2019-06-17 00:38:00 +0100",
+            "iso_8601": "2019-06-16T23:38:00Z"
+        },
+        "updated_at": {
+            "unix": 1560728864,
+            "text": "2019-06-17 00:47:44 +0100",
+            "iso_8601": "2019-06-16T23:47:44Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIAN, JAPANESE AND SOUTH KOREAN STOCK NEWS: AGL Energy (AGL AT) said it is determined to withdraw non-binding proposal to acquire Vocus (VOC AT)",
+        "content": "<p>AUSTRALIA</p><p>ANZ Bank (ANZ AT) - Co. names Antonia Watson as acting CEO of ANZ New Zealand after David Hisco left due to health issues and board concerns related to certain expenses transactions. (Newswires) Cochlear (COH AT) - Co. receives FDA approval for Nucleus profile and series implant, which it will launch in the US immediately. (Newswires)</p><p>Gas2Grid (GGX AT) - Co. was denied time extension under force majeure by the Philippines Department of Energy. (Newswires)</p><p>McMillan Shakespeare (MMS AT) - Co. guides FY net AUD 87mln-89mln and announces AUD 100mln buyback. (Newswires)</p><p>South32 (S32 AT) - Co. says its coal reserves for Bulli Seam have been lowered by 22mln tons to 114mln tons. (Newswires)</p><p>Southern Cross Media (SXL AT) - Co. Chairman Bush takes 2 months leave of absence due to health reasons and Deputy Chairman Pasternak will be acting Chairman until Bush returns who is also the Chairman of Inghams (ING AT). (Newswires)</p><p>Vocus (VOC AT) - AGL Energy (AGL AT) said it is determined to withdraw non-binding proposal for Vocus (VOC AT). (Newswires)</p><p>&nbsp;</p><p>&nbsp;</p><p>JAPAN</p><p>Honda (7267 JT) - Co. recalls its Pioneer 1000 utility vehicles from model-years 2016-2019 due to malfunction with the side-by-side throttle pedal. (Newswires)</p><p>Japan Display (6749 TT) TPK Holdings withdraws from investment in the Co. (Newswires)</p><p>Nippon Paint (4612 JT) - Co. will invest CNY 100bln to reorganize its plants in which it reduce total amount to 3 from current 8. (Newswires)</p><p>Nissan (7201 JT) - Co. internal investigation which was launched in the aftermath of the Ghosn scandal now covers all countries in the Co.’s global network. (Newswires)</p><p>Takeda (4502 JT) - Co. unit Millenium Pharma receives FDA orphan drug designation for its Balipodect as a treatment of Fragile Z Syndrome. (Newswires)</p><p>Yokohama Rubber (5101 JT) - Co. is to raise tire prices by 3% beginning in August. (Newswires)&nbsp;</p><p>&nbsp;</p><p>SOUTH KOREA</p><p>Hanwha Aerospace (012450 KS) - Co. is lowering chip supplies from Huawei unit. (Newswires)</p><p>Samsung Electronics (005930 KS) - Co.'s chip making business is said to be facing falling revenue in the Q2 due to weak demand and high inventories amid an industry-wide slump. (Yohnap)</p><p>SK Innovation (096770 KS) - Co. is planning to invest KRW 2tln in a China plant. (Newswires)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-australian-japanese-and-south-korean-stock-news-agl-energy-agl-at-said-it-is-determined-to-withdraw-non-binding-proposal-to-acquire-vocus-voc-at-16-06-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-06-17 07:38:00",
+        "gmt_time": "2019-06-16 23:38:00"
+    },
+    {
+        "id": 874016,
+        "updated_sequence": 1875620,
+        "published_at": {
+            "unix": 1560727920,
+            "text": "2019-06-17 00:32:00 +0100",
+            "iso_8601": "2019-06-16T23:32:00Z"
+        },
+        "updated_at": {
+            "unix": 1560728038,
+            "text": "2019-06-17 00:33:58 +0100",
+            "iso_8601": "2019-06-16T23:33:58Z"
+        },
+        "subject": "AGL Energy (AGL AT) said it is determined to withdraw non-binding proposal to acquire Vocus (VOC AT)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "agl-energy-agl-at-said-it-is-determined-to-withdraw-non-binding-proposal-to-acquire-vocus-voc-at-16-06-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-06-17 07:32:00",
+        "gmt_time": "2019-06-16 23:32:00"
+    },
+    {
+        "id": 874015,
+        "updated_sequence": 1875617,
+        "published_at": {
+            "unix": 1560726060,
+            "text": "2019-06-17 00:01:00 +0100",
+            "iso_8601": "2019-06-16T23:01:00Z"
+        },
+        "updated_at": {
+            "unix": 1560726166,
+            "text": "2019-06-17 00:02:46 +0100",
+            "iso_8601": "2019-06-16T23:02:46Z"
+        },
+        "subject": "UK Rightmove House Prices (Jun) Y/Y 0.0% (Prev. 0.1%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "uk-rightmove-house-prices-jun-y-y-0-0-prev-0-1-16-06-2019",
+        "hidden": false,
+        "section": {
+            "id": 29,
+            "name": "UK Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-06-17 07:01:00",
+        "gmt_time": "2019-06-16 23:01:00"
+    },
+    {
+        "id": 874014,
+        "updated_sequence": 1875614,
+        "published_at": {
+            "unix": 1560726060,
+            "text": "2019-06-17 00:01:00 +0100",
+            "iso_8601": "2019-06-16T23:01:00Z"
+        },
+        "updated_at": {
+            "unix": 1560726122,
+            "text": "2019-06-17 00:02:02 +0100",
+            "iso_8601": "2019-06-16T23:02:02Z"
+        },
+        "subject": "UK Rightmove House Prices (Jun) M/M 0.3% (Prev. 0.9%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "uk-rightmove-house-prices-jun-m-m-0-3-prev-0-9-16-06-2019",
+        "hidden": false,
+        "section": {
+            "id": 29,
+            "name": "UK Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-06-17 07:01:00",
+        "gmt_time": "2019-06-16 23:01:00"
+    },
+    {
+        "id": 874013,
+        "updated_sequence": 1875611,
+        "published_at": {
+            "unix": 1560724740,
+            "text": "2019-06-16 23:39:00 +0100",
+            "iso_8601": "2019-06-16T22:39:00Z"
+        },
+        "updated_at": {
+            "unix": 1560724840,
+            "text": "2019-06-16 23:40:40 +0100",
+            "iso_8601": "2019-06-16T22:40:40Z"
+        },
+        "subject": "NZIER says economists expect New Zealand 2019-2020 GDP growth of 2.5%",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "nzier-says-economists-expect-new-zealand-2019-2020-gdp-growth-of-2-5-16-06-2019",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-06-17 06:39:00",
+        "gmt_time": "2019-06-16 22:39:00"
+    },
+    {
+        "id": 874012,
+        "updated_sequence": 1875714,
+        "published_at": {
+            "unix": 1560724680,
+            "text": "2019-06-16 23:38:00 +0100",
+            "iso_8601": "2019-06-16T22:38:00Z"
+        },
+        "updated_at": {
+            "unix": 1560740362,
+            "text": "2019-06-17 03:59:22 +0100",
+            "iso_8601": "2019-06-17T02:59:22Z"
+        },
+        "subject": "Macquarie expects RBA to lower Cash Rate to 0.5% by year-end",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "macquarie-expects-rba-to-lower-cash-rate-to-0-5-by-year-end-16-06-2019",
+        "hidden": false,
+        "section": {
+            "id": 12,
+            "name": "RBA"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-06-17 06:38:00",
+        "gmt_time": "2019-06-16 22:38:00"
+    },
+    {
+        "id": 874011,
+        "updated_sequence": 1875605,
+        "published_at": {
+            "unix": 1560724200,
+            "text": "2019-06-16 23:30:00 +0100",
+            "iso_8601": "2019-06-16T22:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1560724252,
+            "text": "2019-06-16 23:30:52 +0100",
+            "iso_8601": "2019-06-16T22:30:52Z"
+        },
+        "subject": "New Zealand Performance of Services Index (May) 53.6 (Prev. 51.8)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "new-zealand-performance-of-services-index-may-53-6-prev-51-8-16-06-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-06-17 06:30:00",
+        "gmt_time": "2019-06-16 22:30:00"
+    },
+    {
+        "id": 874010,
+        "updated_sequence": 1875602,
+        "published_at": {
+            "unix": 1560723240,
+            "text": "2019-06-16 23:14:00 +0100",
+            "iso_8601": "2019-06-16T22:14:00Z"
+        },
+        "updated_at": {
+            "unix": 1560723311,
+            "text": "2019-06-16 23:15:11 +0100",
+            "iso_8601": "2019-06-16T22:15:11Z"
+        },
+        "subject": "India is to levy retaliatory tariffs on 28 US goods after US President Trump suspended India's GSP status",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "india-is-to-levy-retaliatory-tariffs-on-28-us-goods-after-us-president-trump-suspended-india-s-gsp-status-16-06-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-06-17 06:14:00",
+        "gmt_time": "2019-06-16 22:14:00"
+    },
+    {
+        "id": 874010,
+        "updated_sequence": 1875602,
+        "published_at": {
+            "unix": 1560723240,
+            "text": "2019-06-16 23:14:00 +0100",
+            "iso_8601": "2019-06-16T22:14:00Z"
+        },
+        "updated_at": {
+            "unix": 1560723311,
+            "text": "2019-06-16 23:15:11 +0100",
+            "iso_8601": "2019-06-16T22:15:11Z"
+        },
+        "subject": "India is to levy retaliatory tariffs on 28 US goods after US President Trump suspended India's GSP status",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "india-is-to-levy-retaliatory-tariffs-on-28-us-goods-after-us-president-trump-suspended-india-s-gsp-status-16-06-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-06-17 06:14:00",
+        "gmt_time": "2019-06-16 22:14:00"
+    },
+    {
+        "id": 874009,
+        "updated_sequence": 1875599,
+        "published_at": {
+            "unix": 1560722700,
+            "text": "2019-06-16 23:05:00 +0100",
+            "iso_8601": "2019-06-16T22:05:00Z"
+        },
+        "updated_at": {
+            "unix": 1560722853,
+            "text": "2019-06-16 23:07:33 +0100",
+            "iso_8601": "2019-06-16T22:07:33Z"
+        },
+        "subject": "Goldman Sachs economists are skeptical Fed will reduce rates as an insurance policy against slowing economic growth and sees the hurdle for such action to be much higher than most think",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "goldman-sachs-economists-are-skeptical-fed-will-reduce-rates-as-an-insurance-policy-against-slowing-economic-growth-and-sees-the-hurdle-for-such-action-to-be-much-higher-than-most-think-16-06-2019",
+        "hidden": false,
+        "section": {
+            "id": 18,
+            "name": "Fed"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-06-17 06:05:00",
+        "gmt_time": "2019-06-16 22:05:00"
+    },
+    {
+        "id": 874008,
+        "updated_sequence": 1875594,
+        "published_at": {
+            "unix": 1560722280,
+            "text": "2019-06-16 22:58:00 +0100",
+            "iso_8601": "2019-06-16T21:58:00Z"
+        },
+        "updated_at": {
+            "unix": 1560722349,
+            "text": "2019-06-16 22:59:09 +0100",
+            "iso_8601": "2019-06-16T21:59:09Z"
+        },
+        "subject": "Greece PM Tsipras says the country along with Cyprus will push EU partners to penalize or sanction Turkey it the latter is verified to have begun drilling for gas in the west of Cyprus",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "greece-pm-tsipras-says-the-country-along-with-cyprus-will-push-eu-partners-to-penalize-or-sanction-turkey-it-the-latter-is-verified-to-have-begun-drilling-for-gas-in-the-west-of-cyprus-16-06-2019",
+        "hidden": false,
+        "section": {
+            "id": 23,
+            "name": "Geopolitical"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-06-17 05:58:00",
+        "gmt_time": "2019-06-16 21:58:00"
+    },
+    {
+        "id": 874007,
+        "updated_sequence": 1875591,
+        "published_at": {
+            "unix": 1560722160,
+            "text": "2019-06-16 22:56:00 +0100",
+            "iso_8601": "2019-06-16T21:56:00Z"
+        },
+        "updated_at": {
+            "unix": 1560722234,
+            "text": "2019-06-16 22:57:14 +0100",
+            "iso_8601": "2019-06-16T21:57:14Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASES CALENDAR NOW AVAILABLE IN THE RESEARCH SECTION: Highlights include New Zealand Performance of Services Index, UK Rightmove House Prices and Singapore Non-Oil Exports",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asian-daily-economic-releases-calendar-now-available-in-the-research-section-highlights-include-new-zealand-performance-of-services-index-uk-rightmove-house-prices-and-singapore-non-oil-exports-16-06-2019",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-06-17 05:56:00",
+        "gmt_time": "2019-06-16 21:56:00"
+    },
+    {
+        "id": 874006,
+        "updated_sequence": 1875596,
+        "published_at": {
+            "unix": 1560721200,
+            "text": "2019-06-16 22:40:00 +0100",
+            "iso_8601": "2019-06-16T21:40:00Z"
+        },
+        "updated_at": {
+            "unix": 1560722642,
+            "text": "2019-06-16 23:04:02 +0100",
+            "iso_8601": "2019-06-16T22:04:02Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p><strong>ASIA-PAC</strong></p><p>US President Trump reiterated that China is manipulating its currency and suggested that it does not matter if Chinese Premier Xi does not come to G20. (Fox News)</p><p>US Commerce Secretary Ross downplayed the chances of reaching a US-China trade deal at the G20. (Newswires)</p><p>US have asked the WTO to pause the investigation into China IP until December, according to sources. (Newswires)</p><p>China and Russia could be about to upgrade their relationship to something close to an alliance as both try to fend off pressure from the West, according to sources. (SCMP)</p><p>China's Foreign Ministry said it has lodged stern representations to the US regarding Hong Kong, while it has summoned a senior US embassy official and urged the US to stop interfering immediately. (Newswires)</p><p>PBoC are to increase re-discount quota by CNY 200bln and increase SLF quota by CNY 100bln on June 14th to maintain ample liquidity for small and medium banks. (Newswires)</p><p>Reports noted that analysts widely expect China to boost policy easing measures to correct slowdown if new round of US tariffs are implemented, including relaxing property restrictions, supporting infrastructure spending and a weaker currency. (Newswires)</p><p>Hong Kong Chief Executive Carrie Lam suspended the extradition bill indefinitely and stated that the bill has caused plenty of division, while around 2mln protesters were said to have demonstrated over the weekend calling for the complete withdrawal of the extradition bill and for Chief Executive Lam to resign. (Newswires)</p><ul><li>Chinese Industrial Production (May) Y/Y 5.0% vs. Exp. 5.5% (Prev. 5.4%). (Newswires)</li><li>Chinese Retail Sales (May) Y/Y 8.6% vs. Exp. 8.1% (Prev. 7.2%)</li></ul><p>&nbsp;</p><ul><li>Indian Trade Balance (USD)(May) -15.36B vs. Exp. -15.84B (Prev. -15.33B). (Newswires)</li><li>Indian Exports (USD)(May) 29.99B (Prev. 26.07B)</li><li>Indian Imports (USD)(May) 45.35B (Prev. 41.4B)</li></ul><p>&nbsp;</p><p><strong>UK/EU</strong></p><p>Former UK Foreign Minister and leadership candidate Boris Johnson said he does not aim for a no-deal and does not want a no-deal to be the outcome. In other news, UK Health Minister Hancock said he will be backing Boris Johnson in the leadership race. (Newswires/FT)</p><p>Former UK Foreign Minister Boris Johnson’s plans to withhold Brexit bill payments could be thwarted by Attorney General Cox’s legal advice as he warned that linking Brexit bill payments to progress in trade talks would be illegal. (Telegraph)</p><p>Fitch affirmed France at 'AA'; Outlook Stable and Moody’s downgraded Turkey by one notch to B1 from Ba3; outlook remains negative. (Newswires)</p><p>&nbsp;</p><p><strong>COMMODITIES</strong></p><p>Baker Hughes Rig Count (14/June): oil rigs -1 at 788; nat gas -5 rigs at 181; total rigs -6 at 969. (Newswires)</p><p>IEA Monthly Report cut 2019 oil demand growth forecast by 100k bpd to 1.2mln bpd. (Newswires)</p><p>&nbsp;</p><p><strong>GEOPOLITICS</strong></p><p>US President Trump said the Gulf of Oman tanker attacks have Iran \"written all over it\" and that they are not closing the Strait of Hormuz. Furthermore, Trump said he is not looking to hurt Iran but added that they cannot have nuclear weapons. (Fox)</p><p>Iranian fast boats were reportedly preventing tugboats from toeing the Norwegian damaged vessel according to a US official, while there were also reports the UK is almost certain that a branch of the Iranian military launched the tanker attack in the Gulf of Oman. (Newswires)</p><p>Arab League called for restraint in the Gulf and noted there are risks of a deepening confrontation, while it sees behaviour of a \"certain party\" as worsening the situation. (Newswires)</p><p>&nbsp;</p><p><strong>US</strong></p><p>US President Trump said Fed Chair Powell was his pick and that he disagrees with him entirely, while he also commented the market would be stronger if we had a different person in the Federal Reserve who wouldn’t have raised interest rates so much. (ABC)</p><ul><li>US Industrial Production (May) M/M 0.4% vs. Exp. 0.2% (Prev. -0.5%, Rev. -0.4%). (Newswires)</li><li>US Manufacturing Output (May) M/M 0.2% vs. Exp. 0.1% (Prev. -0.5%)</li><li>US Retail Sales (May) M/M 0.5% vs. Exp. 0.6% (Prev. -0.2%, Rev. 0.3%)</li></ul><p>&nbsp;</p><p><strong>MARKET RECAP</strong></p><p>Broadcom (AVGO) sunk after market on Thursday, after cutting its FY19 revenue view, and warned it sees “a broad-based slowdown in the demand environment,” comments which dragged the broader semiconductor sector lower, including heavyweights Intel (INTC), Nvidia (NVDA) and Qualcomm (QCOM) who finished in the red. Facebook (FB) moved higher on the news that over a dozen companies, including Visa (V), Mastercard (MA), PayPal (PYPL) and Uber (UBER) have signed up to back Facebook’s soon to be released cryptocurrency. Tesla (TSLA) moved lower after the electric automaker had an additional request for tariff exemptions rejected by the US government, but went flat on a report from Elektrek suggesting the automaker is on track for a record quarter. Shares of Sony’s ADR (SNE) moved higher after it received a USD 1.5bln investment from hedge fund Third Point, which called on it to spin-off its image sensor arm. Twitter (TWTR) edged higher as the tech sector fell, after the co deleted thousands of accounts tied to Iran and upped its efforts to end false information campaigns. FedEx (FDX) fell after China launched an enquiry into its recent Huawei delivery mistakes. Sprint (S) and T-Mobile US (TMUS) spiked higher on the news the DoJ were nearing approval for the merger, although the DoJ are said to be maintaining their demands for the two to divest assets for the merger to be approved. Verizon (VZ) also spiked higher, on news the telecoms co. is to build a fiber-based distribution network connecting the NBA's 29 arenas. S&amp;P 500 -0.2% at 2887, NASDAQ-100 -0.4% at 7479, Dow Jones -0.1% at 26090.</p><p>A solid batch of data out of the US saw the curve bear-flatten, with shorter-dated yields rising about 2bps (at settle) vs yields on 30s declining by around 1bps. Early trade was defined by risk-off type flows, which led to some concerns that the 10-year yield could breach the 2.00% mark. However, haven trade was usurped by decent fundamentals, with traders reducing bets that the Fed could cut rates next week in wake of the upbeat data. The implied probability of a June rate cut has fallen to around 25% from around 33% on Thursday, while July pricing eased slightly too. However, the TPLEX found buyers after the inflation gauges in the Michigan Sentiment data declined sharply, challenging Fed Chair Powell's view that inflation weakness was transitory, and perhaps giving further credence to the notion that the Fed has grounds to cut based on inflation alone, let alone for \"insurance\" reasons to guard against the fall-out from global trade tensions. At settlement, major curve spreads were narrower to the tune of 2bps. US T-Note futures (M9) settled 2 ticks lower at 126-30.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-asia-pac-opening-news-16-06-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-06-17 05:40:00",
+        "gmt_time": "2019-06-16 21:40:00"
+    },
+    {
+        "id": 874005,
+        "updated_sequence": 1875585,
+        "published_at": {
+            "unix": 1560718920,
+            "text": "2019-06-16 22:02:00 +0100",
+            "iso_8601": "2019-06-16T21:02:00Z"
+        },
+        "updated_at": {
+            "unix": 1560719282,
+            "text": "2019-06-16 22:08:02 +0100",
+            "iso_8601": "2019-06-16T21:08:02Z"
+        },
+        "subject": "Huawei is said to be preparing for a 40%-60% decline in overseas shipments",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "huawei-is-said-to-be-preparing-for-a-40-60-decline-in-overseas-shipments-16-06-2019",
+        "hidden": false,
+        "section": {
+            "id": 34,
+            "name": "Global Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-06-17 05:02:00",
+        "gmt_time": "2019-06-16 21:02:00"
+    },
+    {
+        "id": 873796,
+        "updated_sequence": 1875579,
+        "published_at": {
+            "unix": 1560718800,
+            "text": "2019-06-16 22:00:00 +0100",
+            "iso_8601": "2019-06-16T21:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1560718800,
+            "text": "2019-06-16 22:00:00 +0100",
+            "iso_8601": "2019-06-16T21:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-13-06-2019",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-06-17 05:00:00",
+        "gmt_time": "2019-06-16 21:00:00"
+    }
+]

@@ -1,0 +1,2492 @@
+[
+    {
+        "id": 902354,
+        "updated_sequence": 2063561,
+        "published_at": {
+            "unix": 1578007620,
+            "text": "2020-01-02 23:27:00 +0000",
+            "iso_8601": "2020-01-02T23:27:00Z"
+        },
+        "updated_at": {
+            "unix": 1578007782,
+            "text": "2020-01-02 23:29:42 +0000",
+            "iso_8601": "2020-01-02T23:29:42Z"
+        },
+        "subject": "PRE-MARKET SOUTH KOREAN STOCK NEWS:  Reminder - Japanese markets remain shut",
+        "content": "<p>SOUTH KOREA</p><p>Hyundai Mipo Dockyard (010620 KS) – Co. reportedly seeks USD 3.7bln in orders in FY20 vs. USD 2.7bln in FY19. (Newswires)</p><p>Hyundai Heavy (009540 KS) - Co. is said to target USD 11.6bln on orders irdersi vs. USD 7.6bln in FY19. (Newswires) n FY20</p><p>LG Electronics (066570 KS) – Co. is to face a watchdog probe amid a collective complaint against the Co’s clothes dryers. (Yonhap)</p><p>OTHER NEWS</p><p>&nbsp;</p><p>US Defence Secretary Esper said he is confident regarding the preparedness of US forces regarding the deterrence of North Korean bad behaviour., Fox. (Fox)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "pre-market-south-korean-stock-news-reminder-japanese-markets-remain-shut-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-03 07:27:00",
+        "gmt_time": "2020-01-02 23:27:00"
+    },
+    {
+        "id": 902353,
+        "updated_sequence": 2063558,
+        "published_at": {
+            "unix": 1578007320,
+            "text": "2020-01-02 23:22:00 +0000",
+            "iso_8601": "2020-01-02T23:22:00Z"
+        },
+        "updated_at": {
+            "unix": 1578007452,
+            "text": "2020-01-02 23:24:12 +0000",
+            "iso_8601": "2020-01-02T23:24:12Z"
+        },
+        "subject": "PMU Relations Director alongside a delegation of the Iranian Revolutionary Guards were reportedly assassinated in the air strike, according to airspace observer INTELSky",
+        "content": "<ul><li><a href=\"https://twitter.com/Intel_Sky/status/1212876295928975362\">Link to tweet</a></li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>Note: PMU is the Iran-backed Iraqi militia</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1578007452,
+            "text": "2020-01-02 23:24:12 +0000",
+            "iso_8601": "2020-01-02T23:24:12Z"
+        },
+        "push_notify": false,
+        "source": "Twitter",
+        "slug": "pmu-relations-director-alongside-a-delegation-of-the-iranian-revolutionary-guards-were-reportedly-assassinated-in-the-air-strike-according-to-airspace-observer-intelsky-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 23,
+            "name": "Geopolitical"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-03 07:22:00",
+        "gmt_time": "2020-01-02 23:22:00"
+    },
+    {
+        "id": 902352,
+        "updated_sequence": 2063553,
+        "published_at": {
+            "unix": 1578007080,
+            "text": "2020-01-02 23:18:00 +0000",
+            "iso_8601": "2020-01-02T23:18:00Z"
+        },
+        "updated_at": {
+            "unix": 1578007339,
+            "text": "2020-01-02 23:22:19 +0000",
+            "iso_8601": "2020-01-02T23:22:19Z"
+        },
+        "subject": "Iraqi Security sources note that a PMU official (Iran-backed Iraqi militia) and others were killed in a targeted attack on two vehicles near the Baghdad International Airport, via Al-Jazeera",
+        "content": "<ul><li><a href=\"https://twitter.com/AJABreaking/status/1212874922319646721\">Link to tweet</a></li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>This follows reports of rockets fired in the vicinity of the Baghdad International Airport, it is unclear the origins of the attack</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1578007338,
+            "text": "2020-01-02 23:22:18 +0000",
+            "iso_8601": "2020-01-02T23:22:18Z"
+        },
+        "push_notify": false,
+        "source": "Twitter",
+        "slug": "iraqi-security-sources-note-that-a-pmu-official-iran-backed-iraqi-militia-and-others-were-killed-in-a-targeted-attack-on-two-vehicles-near-the-baghdad-international-airport-via-al-jazeera-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 23,
+            "name": "Geopolitical"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-03 07:18:00",
+        "gmt_time": "2020-01-02 23:18:00"
+    },
+    {
+        "id": 902351,
+        "updated_sequence": 2063548,
+        "published_at": {
+            "unix": 1578005820,
+            "text": "2020-01-02 22:57:00 +0000",
+            "iso_8601": "2020-01-02T22:57:00Z"
+        },
+        "updated_at": {
+            "unix": 1578005890,
+            "text": "2020-01-02 22:58:10 +0000",
+            "iso_8601": "2020-01-02T22:58:10Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIAN STOCK NEWS: ASX to rise following the global rally and as Wall St. posts fresh record highs. (AFR)",
+        "content": "<p>Insurance Australia (IAG AT)- Co. has increased gross reinsurance protection by up to AUD 10bln. (Newswires)</p><p>ALS (ALQ AT) – Co. has acquired Aquimisa Group in a deal funded from existing debt. (Newswires)</p><p>&nbsp;</p><p>OTHER NEWS</p><p>ACCC Chief Sims has accused state and federal governments of using privations to increase tax. (The Australian)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "pre-market-australian-stock-news-asx-to-rise-following-the-global-rally-and-as-wall-st-posts-fresh-record-highs-afr-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-03 06:57:00",
+        "gmt_time": "2020-01-02 22:57:00"
+    },
+    {
+        "id": 902350,
+        "updated_sequence": 2063545,
+        "published_at": {
+            "unix": 1578005280,
+            "text": "2020-01-02 22:48:00 +0000",
+            "iso_8601": "2020-01-02T22:48:00Z"
+        },
+        "updated_at": {
+            "unix": 1578005554,
+            "text": "2020-01-02 22:52:34 +0000",
+            "iso_8601": "2020-01-02T22:52:34Z"
+        },
+        "subject": "Al-Jazeera notes that the missiles falling in the vicinity of the Baghdad International Airport has injured a number of citizens, local media notes that 12 Iraqi military personnel were injured",
+        "content": "<ul><li><a href=\"https://twitter.com/AJABreaking/status/1212868123432509441\">Link to tweet</a></li><li><a href=\"https://twitter.com/AlHadath/status/1212868291179556864\">Link to local reports&nbsp;</a></li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>Prior to this, no casualties were reported</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1578005400,
+            "text": "2020-01-02 22:50:00 +0000",
+            "iso_8601": "2020-01-02T22:50:00Z"
+        },
+        "push_notify": false,
+        "source": "Twitter",
+        "slug": "al-jazeera-notes-that-the-missiles-falling-in-the-vicinity-of-the-baghdad-international-airport-has-injured-a-number-of-citizens-local-media-notes-that-12-iraqi-military-personnel-were-injured-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 23,
+            "name": "Geopolitical"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-03 06:48:00",
+        "gmt_time": "2020-01-02 22:48:00"
+    },
+    {
+        "id": 902349,
+        "updated_sequence": 2063538,
+        "published_at": {
+            "unix": 1578004140,
+            "text": "2020-01-02 22:29:00 +0000",
+            "iso_8601": "2020-01-02T22:29:00Z"
+        },
+        "updated_at": {
+            "unix": 1578004443,
+            "text": "2020-01-02 22:34:03 +0000",
+            "iso_8601": "2020-01-02T22:34:03Z"
+        },
+        "subject": "Iraqi Military base near Baghdad International Airport has reportedly been hit by four rockets, according to local police",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>This comes after Iraqi security sources noted that explosions in the vicinity of Baghdad International Airport were caused by three rockets, no casualties have been reported, via Al-Jazeera</li><li>Reports also note that the airport has been shut following the missile attacks</li><li>Note: The origins of the rockets are still unknown&nbsp;</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1578004200,
+            "text": "2020-01-02 22:30:00 +0000",
+            "iso_8601": "2020-01-02T22:30:00Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "iraqi-military-base-near-baghdad-international-airport-has-reportedly-been-hit-by-four-rockets-according-to-local-police-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 23,
+            "name": "Geopolitical"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-03 06:29:00",
+        "gmt_time": "2020-01-02 22:29:00"
+    },
+    {
+        "id": 902348,
+        "updated_sequence": 2063529,
+        "published_at": {
+            "unix": 1578003720,
+            "text": "2020-01-02 22:22:00 +0000",
+            "iso_8601": "2020-01-02T22:22:00Z"
+        },
+        "updated_at": {
+            "unix": 1578004121,
+            "text": "2020-01-02 22:28:41 +0000",
+            "iso_8601": "2020-01-02T22:28:41Z"
+        },
+        "subject": "US military helicopters were spotted in the airspace near the Baghdad International Airport, according to Sputnik citing reports",
+        "content": "<ul><li><a href=\"https://sputniknews.com/middleeast/202001031077924488-rockets-strike-iraqs-baghdad-airport-us-military-choppers-spotted-in-airspace---reports/\">Link</a></li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Sputnik",
+        "slug": "us-military-helicopters-were-spotted-in-the-airspace-near-the-baghdad-international-airport-according-to-sputnik-citing-reports-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 23,
+            "name": "Geopolitical"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-03 06:22:00",
+        "gmt_time": "2020-01-02 22:22:00"
+    },
+    {
+        "id": 902347,
+        "updated_sequence": 2063524,
+        "published_at": {
+            "unix": 1578003420,
+            "text": "2020-01-02 22:17:00 +0000",
+            "iso_8601": "2020-01-02T22:17:00Z"
+        },
+        "updated_at": {
+            "unix": 1578003615,
+            "text": "2020-01-02 22:20:15 +0000",
+            "iso_8601": "2020-01-02T22:20:15Z"
+        },
+        "subject": "Iraqi security sources note that explosions in the vicinity of Baghdad International Airport were caused by three rockets, no casualties have been reported, via Al-Jazeera",
+        "content": "<ul><li><a href=\"https://twitter.com/AJABreaking/status/1212860067504164864\">Link to tweet</a></li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>This follows reports of unknown air activities over Baghdad - explosions head near the Baghdad international airport, via airspace observer INTELSky and Al-Jazeera</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1578003540,
+            "text": "2020-01-02 22:19:00 +0000",
+            "iso_8601": "2020-01-02T22:19:00Z"
+        },
+        "push_notify": false,
+        "source": "Twitter",
+        "slug": "iraqi-security-sources-note-that-explosions-in-the-vicinity-of-baghdad-international-airport-were-caused-by-three-rockets-no-casualties-have-been-reported-via-al-jazeera-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 23,
+            "name": "Geopolitical"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-03 06:17:00",
+        "gmt_time": "2020-01-02 22:17:00"
+    },
+    {
+        "id": 902346,
+        "updated_sequence": 2063515,
+        "published_at": {
+            "unix": 1578003120,
+            "text": "2020-01-02 22:12:00 +0000",
+            "iso_8601": "2020-01-02T22:12:00Z"
+        },
+        "updated_at": {
+            "unix": 1578003258,
+            "text": "2020-01-02 22:14:18 +0000",
+            "iso_8601": "2020-01-02T22:14:18Z"
+        },
+        "subject": "US Defence Secretary Esper notes that the US will not accept continued attacks against personnel, \"Attacks against us will be met with responses in the time, manner, & place of our choosing\" - US urges the Iranian regime to end malign activities",
+        "content": "<ul><li><a href=\"https://twitter.com/EsperDoD/status/1212858905602203651\">Link to tweet</a></li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>This is very similar to comments he made during the US session in which the Defence Secretary said that there are indications that Iran, or forces backed by Iran, are potentially planning additional attacks; if the US becomes aware of this, they will take pre-emptive action.&nbsp;</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1578003258,
+            "text": "2020-01-02 22:14:18 +0000",
+            "iso_8601": "2020-01-02T22:14:18Z"
+        },
+        "push_notify": false,
+        "source": "Twitter",
+        "slug": "us-defence-secretary-esper-notes-that-the-us-will-not-accept-continued-attacks-against-personnel-attacks-against-us-will-be-met-with-responses-in-the-time-manner-place-of-our-choosing-us-urges-the-iranian-regime-to-end-malign-activi-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 23,
+            "name": "Geopolitical"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-03 06:12:00",
+        "gmt_time": "2020-01-02 22:12:00"
+    },
+    {
+        "id": 902345,
+        "updated_sequence": 2063517,
+        "published_at": {
+            "unix": 1578002820,
+            "text": "2020-01-02 22:07:00 +0000",
+            "iso_8601": "2020-01-02T22:07:00Z"
+        },
+        "updated_at": {
+            "unix": 1578003421,
+            "text": "2020-01-02 22:17:01 +0000",
+            "iso_8601": "2020-01-02T22:17:01Z"
+        },
+        "subject": "Reports of current unknown air activities over Baghdad - explosions head near the Baghdad international airport, via airspace observer INTELSky and Al-Jazeera",
+        "content": "<p><a href=\"https://twitter.com/Intel_Sky/status/1212857779184185344\">Link to INTELSky tweet</a></p><p><a href=\"https://twitter.com/AJABreaking/status/1212857812029759488\">Link to Al-Jazeera tweet</a></p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>This follows reports that Iraqi paramilitary groups who have been protesting against US air strikes in Iraq have called on supporters to withdraw from the perimeter of the US’ embassy in Baghdad.&nbsp;</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1578003421,
+            "text": "2020-01-02 22:17:01 +0000",
+            "iso_8601": "2020-01-02T22:17:01Z"
+        },
+        "push_notify": false,
+        "source": "Twitter",
+        "slug": "reports-of-current-unknown-air-activities-over-baghdad-explosions-head-near-the-baghdad-international-airport-via-airspace-observer-intelsky-and-al-jazeera-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 23,
+            "name": "Geopolitical"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-03 06:07:00",
+        "gmt_time": "2020-01-02 22:07:00"
+    },
+    {
+        "id": 902254,
+        "updated_sequence": 2063674,
+        "published_at": {
+            "unix": 1578002400,
+            "text": "2020-01-02 22:00:00 +0000",
+            "iso_8601": "2020-01-02T22:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1578019483,
+            "text": "2020-01-03 02:44:43 +0000",
+            "iso_8601": "2020-01-03T02:44:43Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-06_24am_utc_02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-03 06:00:00",
+        "gmt_time": "2020-01-02 22:00:00"
+    },
+    {
+        "id": 902342,
+        "updated_sequence": 2063507,
+        "published_at": {
+            "unix": 1578002400,
+            "text": "2020-01-02 22:00:00 +0000",
+            "iso_8601": "2020-01-02T22:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1578002472,
+            "text": "2020-01-02 22:01:12 +0000",
+            "iso_8601": "2020-01-02T22:01:12Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASE CALENDAR IS AVAILABLE IN THE RESEARCH SECTION OF THE WEBSITE: Japanese markets remain closed in extended New Year holiday",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "asian-daily-economic-release-calendar-is-available-in-the-research-section-of-the-website-japanese-markets-remain-closed-in-extended-new-year-holiday-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-03 06:00:00",
+        "gmt_time": "2020-01-02 22:00:00"
+    },
+    {
+        "id": 902341,
+        "updated_sequence": 2063505,
+        "published_at": {
+            "unix": 1578002400,
+            "text": "2020-01-02 22:00:00 +0000",
+            "iso_8601": "2020-01-02T22:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1578002461,
+            "text": "2020-01-02 22:01:01 +0000",
+            "iso_8601": "2020-01-02T22:01:01Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p>3rd January 2020</p><p><strong>ASIA-PAC</strong></p><p>China is reportedly looking to extend its antitrust law to internet businesses, as leading players like Alibaba (BABA), Tencent (TCEHY) have expanded their influence in the digital economy, according to Nikkei. (Nikkei)</p><p>&nbsp;</p><p><strong>GEOPOLITICS</strong></p><p>Defence Secretary Esper said that there are indications that Iran, or forces backed by Iran, are potentially planning additional attacks; if the US becomes aware of this, they will take pre-emptive action. (Newswires)</p><p>US Defence Secretary Esper said he is confident regarding the preparedness of US forces regarding the deterrence of North Korean bad behaviour., Fox. (Fox)</p><p>US President Trump and Turkish President Erdogan have, in a phone call, discussed the developments in both Syria and Libya., according to the Turkish Presidency. Further, US President Trump told Turkish President Erdogan that foreign interference in Libya is complicating the situation. (Newswires)</p><p>&nbsp;</p><p><strong>UK/EU</strong></p><p>BOE CFO survey shows Brexit uncertainty falling slightly in December, according to BoE Decision Maker Panel data. (Newswires)</p><p>Spain's Catalan separatist ERC party has come to an agreement with the socialist party PSOE ahead of the Sanchez-led cabinet votes on January 5th and 7th; ERC will abstain in the vote (a positive for Sanchez). (Newswires)</p><p>DATA RECAP&nbsp;</p><p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; UK Markit/CIPS Manufacturing PMI Final (Dec) 47.5 vs. Exp. 47.6 (Prev. 47.4)</p><p>&nbsp;</p><p><strong>US&nbsp;</strong></p><p>DATA RECAP</p><p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; US Markit Manufacturing PMI Final (Dec) 52.4 (Prev. 52.5) (Newswires)</p><p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Canadian Markit Manufacturing PMI SA (Dec) 50.4 vs. Prev. 51.4. (Newswires)</p><p><strong>FX&nbsp;</strong></p><p>Brazilian Economy Ministry said the trade surplus is likely to continue to decrease in 2020 due to stronger demand in Brazil supporting imports. (Newswires)</p><p>&nbsp;</p><p><strong>MARKET RECAP</strong></p><p><strong>* CLOSING LEVELS: SPX +0.84% at 3258; NDX +1.59% at 8872; DJIA +1.16% at 28870.</strong> * STOCK SPECIFICS: Tesla (TSLA) made strong gains after Canaccord Genuity raised its PT to USD 515/share from USD 375/share, citing further acceleration towards electric vehicles. Large Chinese ADRs surged on their first trading day of the year, helped by monetary easing in Beijing and anticipation of the US-China Phase One deal, particularly JD.com (JD), Baidu (BIDU) and Alibaba (BABA), with the former also supported with a Buy initiation at Citic and the latter finding buyers after applying for a banking license in Singapore. HanesBrands (HBI) and Franklin Resources (BEN) opened the year on the back foot after Wells Fargo downgraded both names. Fastly (FSLY), BlackRock (BLK) and T. Rowe Price (TROW) all traded firmer on upgrades, the former at Piper Jaffray and the latter two at Wells Fargo. Advanced Micro Devices (AMD) was a top performer following a positive mention at Nomura – citing optimism for 2020 7nm chip product launches – in addition to wider risk appetite. United Airlines (UAL) took off on the front foot after an upgrade at Evercore.</p><p><strong>* US T-NOTE FUTURES (H0) SETTLE 6+ TICKS HIGHER AT 128-20</strong>. The Treasury curve has bull-flattened led by gains in the long-end of the curve, which saw 2s30s narrowing by around 5bps. Desks remind us that volume was thin, and the complex will likely get back into full swing next week when participants return. Analysts suggested that the richening was inspired by the new year rally in EGBs (the ECB today re-started purchasing assets under its PSPP after the break into the end of 2019). Accordingly, US 10-year yields fell back beneath 1.90%, having cheapened to around 1.94%; a few analysts have previously suggested that 1.95%-2.00% levels could be a prime 'dip' to be bought, a play that appears to have yielded gains thus far. Meanwhile, the US Treasury will sell USD 28bln in 3-year notes, USD 24bln in 10-year notes re-opening, and USD 16bln in 30-year bonds re-opening; all sizes were unchanged.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "daily-asia-pac-opening-news-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-03 06:00:00",
+        "gmt_time": "2020-01-02 22:00:00"
+    },
+    {
+        "id": 902344,
+        "updated_sequence": 2063502,
+        "published_at": {
+            "unix": 1578001800,
+            "text": "2020-01-02 21:50:00 +0000",
+            "iso_8601": "2020-01-02T21:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1578001861,
+            "text": "2020-01-02 21:51:01 +0000",
+            "iso_8601": "2020-01-02T21:51:01Z"
+        },
+        "subject": "Facebook (FB) - Q4 and FY19 results will be released on January 29th 2020 after the Wall St. close",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "facebook-fb-q4-and-fy19-results-will-be-released-on-january-29th-2020-after-the-wall-st-close-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 34,
+            "name": "Global Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-03 05:50:00",
+        "gmt_time": "2020-01-02 21:50:00"
+    },
+    {
+        "id": 902343,
+        "updated_sequence": 2063499,
+        "published_at": {
+            "unix": 1578001560,
+            "text": "2020-01-02 21:46:00 +0000",
+            "iso_8601": "2020-01-02T21:46:00Z"
+        },
+        "updated_at": {
+            "unix": 1578001810,
+            "text": "2020-01-02 21:50:10 +0000",
+            "iso_8601": "2020-01-02T21:50:10Z"
+        },
+        "subject": "US Secretary of State Pompeo notes that he and the Iraqi speaker al-Habousi agreed that Iraq must uphold its responsibility to keep US personnel safe and prevent further attacks, \"Building a sovereign & strong Iraq remains a shared priority.\"",
+        "content": "<p><a href=\"https://twitter.com/SecPompeo/status/1212852222792491010\">Link to tweet</a></p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>This follows reports that Iraqi paramilitary groups who have been protesting against US air strikes in Iraq have called on supporters to withdraw from the perimeter of the US’ embassy in Baghdad.&nbsp;</li><li>&nbsp;</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1578001680,
+            "text": "2020-01-02 21:48:00 +0000",
+            "iso_8601": "2020-01-02T21:48:00Z"
+        },
+        "push_notify": false,
+        "source": "Twitter",
+        "slug": "us-secretary-of-state-pompeo-notes-that-he-and-the-iraqi-speaker-al-habousi-agreed-that-iraq-must-uphold-its-responsibility-to-keep-us-personnel-safe-and-prevent-further-attacks-building-a-sovereign-strong-iraq-remains-a-shared-priority-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 23,
+            "name": "Geopolitical"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-03 05:46:00",
+        "gmt_time": "2020-01-02 21:46:00"
+    },
+    {
+        "id": 902340,
+        "updated_sequence": 2063486,
+        "published_at": {
+            "unix": 1577999040,
+            "text": "2020-01-02 21:04:00 +0000",
+            "iso_8601": "2020-01-02T21:04:00Z"
+        },
+        "updated_at": {
+            "unix": 1577999162,
+            "text": "2020-01-02 21:06:02 +0000",
+            "iso_8601": "2020-01-02T21:06:02Z"
+        },
+        "subject": "Newsquawk US Market Wrap - 2nd January 2020: Both stocks and havens bid in quiet first trade of the decade",
+        "content": "<p>To download the report, please click <a href=\"/research_sheets/23545/download\">here</a> If you would like to subscribe to receive the research sheets directly in your inbox, you can now do so under the <a href=\"/research_sheets\">Research Suite</a> section of the portal. To subscribe simply check the box next to \"Email these reports\" under the desired category.&nbsp;</p><p><strong>US MARKET WRAP 2nd January 2020: Both stocks and havens bid in quiet first trade of the decade</strong></p><p>&nbsp;</p><p><strong>* SNAPSHOT</strong>: Equities up, Treasuries up, Dollar up, Crude up</p><p><strong>* REAR VIEW:</strong> Navarro says Phase One a done deal; PBOC cuts RRR by 50bps; US job cuts fall for second consecutive month; geopolitical tensions rise in both North Korea and Iran.</p><p><strong>* COMING UP: Data: </strong>EIA weekly crude stocks, US ISM Manufacturing PMI (final), German CPI (prelim.), Baker Hughes rig count, UK Markit Construction PMI (final). <strong>Speakers: </strong>Fed’s Mester, Brainard, Kaplan, Evans &amp; Barkin; BoC’s Wilkins. <strong>Events: </strong>FOMC Minutes.</p><p>&nbsp;</p><p><strong>* US/CHINA:</strong> White House trade advisor Navarro this week gave a positive assessment of progress, stating that it was a done deal, which was in the translation stage. US President Trump also tweeted over the holiday period that he and China's President Xi would sign the agreement on 15th January in Washington (a translation of the deal is expected to be released beforehand), and Trump suggested that he would travel to Beijing to begin talks on the second phase. (RECAP: The phase one 'deal' involves the US partially rolling back some levies on Chinese imports in exchange for ramping up for Chinese purchases of US ags; the deal doesn’t include the more important structural reforms, like subsidies China gives to its own firms).</p><p><strong>* PBOC: </strong>China's central bank lowered banks' reserve requirements ratio by 50bps from the current 13% for large banks, and 11% for smaller banks, with the cut becoming effective of 6th January and marking the eighth of such since 2018. The move, which was telegraphed in remarks by Premier Li in late December, is expected to release CNY 800bln of liquidity (around USD 115bln), and aimed at lowering costs to the real economy, particularly for small and micro-enterprises, the PBOC said. Analysts noted the move was not unexpected, with many looking for the central bank to ease liquidity into the Spring Festival (25th January); and despite the marked easing in tensions between US/China over trade, analysts look for further lowering of the RRR. Banks will be required to price all new loans using the Loan Prime Rate (LPR) and will convert all existing loans to the new benchmark from 1st March 2020 through 31st August 2020. \"As such, there is still a possibility of another broad-based RRR cut in 2Q or 3Q this year depending on the pace of recovery of the domestic economy as well as the progress on the interest rate front,\" UOB's analysts wrote, and it sees the 1-year LPR rate falling from 4.15% currently to 3.80% by mid-2020, assuming the LPR moves lower by around 5bps each month on average into mid-2020, though UOB sees no further reduction to the Medium-term Lending Facility (MLF -- which the LPR is pegged to) after the 5bps cut to 3.25% in November.</p><p><strong>* FOMC MINUTES PRIMER: </strong>FOMC to release December 2019 meeting minutes at 1400 EST/1900 GMT on Friday 3rd January 2020. <a href=\"https://newsquawk.com/headlines/primer-fomc-to-release-december-2019-meeting-minutes-at-1400-et-1900-gmt-on-friday-3rd-january-2020-02-01-2020\"><i>Click here for full Newsquawk primer.</i></a></p><p><strong>* US MARKIT MANUFACTURING PMI (FINAL DEC): </strong>The final read for December came in at 52.4, revised lower from the flash 52.5. Markit said the US manufacturing sector continued to recover from the soft patch seen in the summer, ending 2019 with its best quarter since the early months of 2019. The survey showed that the overall rate of expansion nevertheless faltered somewhat in December and remains well below that seen this time last year, which Markit said suggests that producers are starting 2020 on a softer footing than they had enjoyed heading into 2019. Markit also observed that business sentiment about the outlook remains especially subdued compared to a year ago, reflecting ongoing worries about geopolitics and trade wars, especially the impact of tariffs, as well as fears that political and economic uncertainty surrounding the 2020 elections could dampen demand. Finally, the impact of tariffs was clearly evident via higher prices, while the relatively subdued level of business confidence manifested itself in a pull-back in hiring, hinting at risk aversion and cost-cutting, according to the survey compiler.</p><p><strong>* CHINA CAIXIN MANUFACTURING PMI (DEC):</strong> The headline fell to 51.5 (consensus 51.6) from the two-year high of 51.8 in November, indicating that the health of China's economy continues to improve. However, new order growth softened, while export sales only ticked up slightly - new export orders, however, were more encouraging, rising above 50.0 for the first time since early 2018. The report also noted that the 12-month outlook sub-index remained relatively weak. However, some desks are surprised by the resiliency of the Caixin survey, as the official NBS manufacturing PMI remained at the lower 50.2, while industrial metal prices also hinted at weaker activity in December. Ahead, analysts think progress on the US/China trade front will continue to help drive stabilisation, but with that said, risks to domestic demand (via the property sector), will continue to warrant caution.</p><p><strong>* US DECEMBER CHALLENGER JOB CUTS:</strong>&nbsp;Announced job cuts by US based employers fell for a second straight month, to 32,843 – the lowest total since July 2018 (down 26% M/M, and down 25% Y/Y). “Confidence was high heading into the last month of the year. With some resolutions occurring in the trade war and strong consumer spending in the fourth quarter, companies appear to be taking a wait-and-see approach as we head into 2020,” Challenger said. For 2019 as a whole, employers announced plans to cut 592,556 jobs from their payrolls in 2019 -- 10% higher than the 538,695 cuts announced in 2018, and the highest annual total since 2015, when 598,510 cuts were announced. 2019 was the fourth-highest year for job cut announcements this decade.</p><p><strong>* EUROZONE MARKIT MANUFACTURING PMI (FINAL DEC):</strong> The final December manufacturing PMI declined to 46.3 in December from 46.9 in November, though was above the expected 45.9. Markit noted that although Germany was again the worst performer, the deteriorations seen in Italy and the Netherlands were the sharpest in over six-and-a-half years, and also highlighted that spare capacity weighed on employment with job losses the sharpest since the start of 2013. Pantheon Macroeconomics said that the PMI for the EZ as a whole doesn’t look pretty. \"New orders and output are still falling, and while the rate of contraction—in new orders—has eased a tad, the overall picture is grim,\" noting that \"work backlogs were further reduced and inventory accumulation slowed at the end of Q4, which in turn, pushed the rate of job losses up to its fastest pace since 2013.\" Ahead, PM is optimistic that the Q4 data as a whole provide the first small piece of evidence that the pace of decline is easing, but the consultancy says it is not expecting much in the way of a rebound in H1 2020.</p><p><strong>* GEOPOLITICS (NK, IR, TU): </strong>North Korean Leader Kim Jong Un stated that North Korea is no longer bound by previous agreements to halt missile tests, due to recent US actions alongside their co-operation with South Korea; adding that a ‘new strategic weapon’ would be unveiled soon. Many believe it could be a new type of Intercontinental Ballistic Missile (ICBM), or an upgraded ICBM. Following this, US Defence Secretary Esper stated he is confident regarding the preparedness of US forces to deter North Korea’s bad behaviour. Elsewhere, the Iran backed militia, Hezbollah, were struck by the US in Iraq. The airstrikes led to protests by Iraqi paramilitary groups who have called on supporters to withdraw from the perimeter of the US’ embassy in Baghdad. However, it is yet to be confirmed if crowds have begun dispersing. US Defence Secretary Esper announced there are indications that Iran, or forces backed by Iran, are potentially planning additional attacks, noting the US will take pre-emptive action if this is the case. Over in Turkey, the Turkish parliament agreed to send troops to Libya, after Turkey’s President Erdogan announced he would seek parliamentary approval after a request from the Tripoli government who are allies with Turkey, and have been holding a civil war against Gen Khalifa Haftar in Eastern Libya.</p><p><strong>* UK MARKIT MANUFACTURING PMI (DEC):</strong> The Final December manufacturing PMI fell to 47.5 in December (consensus 47.8, flash was 47.4) from 48.9 in November. Markit noted that the UK manufacturing sector took a turn for the worse at the end of 2019, with output falling at the quickest pace in seven-and-a-half years as new order inflows decreased and Brexit safety stocks were reduced. The data compiler added that, with demand weak and confidence remaining subdued, input purchasing was pared back sharply and jobs cut for the ninth successive month.</p><p><strong>* BOE:</strong> Through the holiday period, an article in the Daily Mail speculated that incoming BOE Governor Bailey might jettison the current forward guidance policy tool, and suggested that BOE watchers expect a return to the more conventional operation of monetary policy followed in the past.</p><p><strong>* BREXIT:</strong> EU Trade Commissioner Hogan told the Irish Times that the UK would be forced to abandon its commitment not to extend its transition period beyond the end of 2020, adding that the next stage of negotiations would involve complex and difficult choices, and reiterated that the EU's top priority was to preserve the integrity of the single market.</p><p><strong>* WTI (G0) SETTLED USD 0.12 HIGHER AT USD 61.18/BBL; BRENT (H0) SETTLED USD 0.25 HIGHER AT USD 66.25/BBL. </strong>The crude complex traded slightly firmer in thin liquidity conditions, PVM highlighted participants are awaiting fresh catalysts, however on the technical front the desk is keeping an eye on the 13dma at 60.95 and 65.68 for WTI and Brent, respectively. Geopolitical tensions have increased in recent days as Turkey have agreed to send troops to Libya to help the Tripoli government with its civil war. Tensions in Iran have also picked up following a US air strike on the Iranian backed militia Hezbollah in Iraq, thus could have a potential threat to regional crude oil supplies, writes Citi. Although the latest geopolitical spats have had little impact on price action so far, any further escalation will be worth keeping an eye on. The latest weekly API figures saw crude draw 7.8mln bbls, Cushing -1.4mln bbls, Gasoline -0.776mln bbls and distillates +2.8mln bbls, ahead of the EIA officials release on Friday; analysts forecast (bbls) crude -3.3mln bbls, distillates +1.1mln bbls and Gasoline +1.8mln bbls.</p><p><strong>* CLOSING LEVELS: </strong>SPX +0.84% at 3258; NDX +1.59% at 8872; DJIA +1.16% at 28870.</p><p><strong>* STOCK SPECIFICS: </strong>Tesla (TSLA) made strong gains after Canaccord Genuity raised its PT to USD 515/share from USD 375/share, citing further acceleration towards electric vehicles. Large Chinese ADRs surged on their first trading day of the year, helped by monetary easing in Beijing and anticipation of the US-China Phase One deal, particularly JD.com (JD), Baidu (BIDU) and Alibaba (BABA), with the former also supported with a Buy initiation at Citic and the latter finding buyers after applying for a banking license in Singapore. HanesBrands (HBI) and Franklin Resources (BEN) opened the year on the back foot after Wells Fargo downgraded both names. Fastly (FSLY), BlackRock (BLK) and T. Rowe Price (TROW) all traded firmer on upgrades, the former at Piper Jaffray and the latter two at Wells Fargo. Advanced Micro Devices (AMD) was a top performer following a positive mention at Nomura – citing optimism for 2020 7nm chip product launches – in addition to wider risk appetite. United Airlines (UAL) took off on the front foot after an upgrade at Evercore.</p><p><strong>* US T-NOTE FUTURES (H0) SETTLE 6+ TICKS HIGHER AT 128-20. </strong>The Treasury curve has bull-flattened led by gains in the long-end of the curve, which saw 2s30s narrowing by around 5bps. Desks remind us that volume was thin, and the complex will likely get back into full swing next week when participants return. Analysts suggested that the richening was inspired by the new year rally in EGBs (the ECB today re-started purchasing assets under its PSPP after the break into the end of 2019). Accordingly, US 10-year yields fell back beneath 1.90%, having cheapened to around 1.94%; a few analysts have previously suggested that 1.95%-2.00% levels could be a prime 'dip' to be bought, a play that appears to have yielded gains thus far. Meanwhile, the US Treasury will sell USD 28bln in 3-year notes, USD 24bln in 10-year notes re-opening, and USD 16bln in 30-year bonds re-opening; all sizes were unchanged.</p><p><strong>* FX WRAP: USD</strong> traded firmer today retracing some of its pre-Christmas losses following year-end rebalancing, however the index still lies beneath the 97.00 handle, trading from lows of 96.42 to highs of 96.88. Today’s PMI data failed to provide any fresh impetus to the buck’s movement given the final print was only slightly lower than the previous, plus participants will be eyeing tomorrow’s ISM manufacturing data for any fresh catalyst. A choppy day for the <strong>Euro</strong> with EURUSD falling from highs of 1.1225 to lows of 1.1164, however in the morning there was a quick reversal from 1.1175 to breach 1.12 to the upside, although the move was short-lived and extended back to the day’s lows, a level it resides around heading in to Asia trade. <strong>GBP</strong> also weaker as Cable lost 1.32 after initially trading at highs of 1.3266 before falling to lows of 1.3117, with today’s final PMI data doing little to help as it was revised lower. <strong>CAD</strong> traded flat against the buck today, with little reaction seen after the poor Markit PMI print, with USDCAD trading in a tight range throughout the session after losing the 1.30 handle trading in 1.2970 – 1.30 parameters. <strong>Havens</strong> were slightly bid today with <strong>JPY</strong> outpacing USD gains with the cross trading around the 108.50 mark heading into the Asia session. <strong>XAU</strong> also bid, with traders noting gold has settled higher for seven straight sessions, and one desk highlighting that CTA models have turned long on the precious metal. UBS Gold CTA tracker shows all 11 of the active strategies it tracks are now long, with the nearest exit level at USD 1492.90, with the desk also highlighting XAU’s positive seasonality in January of the last six years. <strong>EMFX</strong> was mixed with outperformance seen in <strong>MXN</strong>, despite poor PMI data which noted factory orders and exports fell at the fastest rates in survey history, resulting in record contractions in output and input buying. Banxico minutes highlighted that board member Esquivel was the one 50bp dissenter, and all board members expect Q4 weakness in the economy, noting it is still stagnant. The majority believed that core inflation has been persistent; upside for inflation has appeared which may make it challenging to attain their 3% target for 2020, due to announced increase in minimum wage. Note, the increase of minimum wage had led desks to believe a 50bp cut at its latest meeting was out of the question in case it spurred inflationary pressures taking it away from the 3% target. <strong>ZAR</strong> was the underperformer today, and USDZAR trades above the 14.00 handle amid broad dollar strength. <strong>BRL</strong> trades flat and <strong>TRY</strong> slightly weaker amid ongoing geopolitical concerns.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "newsquawk-us-market-wrap-2nd-january-2020-both-stocks-and-havens-bid-in-quiet-first-trade-of-the-decade-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-03 05:04:00",
+        "gmt_time": "2020-01-02 21:04:00"
+    },
+    {
+        "id": 902339,
+        "updated_sequence": 2063483,
+        "published_at": {
+            "unix": 1577998080,
+            "text": "2020-01-02 20:48:00 +0000",
+            "iso_8601": "2020-01-02T20:48:00Z"
+        },
+        "updated_at": {
+            "unix": 1577998427,
+            "text": "2020-01-02 20:53:47 +0000",
+            "iso_8601": "2020-01-02T20:53:47Z"
+        },
+        "subject": "MOC: S&P +1.875bln (Prev. + 1.35bln), Dow Jones +400mln (Prev. +425mln)",
+        "content": "<ul><li>Shortly after S&amp;P jumped to +3bln&nbsp;</li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "moc-s-p-1-875bln-prev-1-35bln-dow-jones-400mln-prev-425mln-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-03 04:48:00",
+        "gmt_time": "2020-01-02 20:48:00"
+    },
+    {
+        "id": 902338,
+        "updated_sequence": 2063478,
+        "published_at": {
+            "unix": 1577996400,
+            "text": "2020-01-02 20:20:00 +0000",
+            "iso_8601": "2020-01-02T20:20:00Z"
+        },
+        "updated_at": {
+            "unix": 1577996547,
+            "text": "2020-01-02 20:22:27 +0000",
+            "iso_8601": "2020-01-02T20:22:27Z"
+        },
+        "subject": "Fiat Chrysler (FCA IM, FCAU) automobiles sales in Italy in 2019 totaled 452k, with a market share of 23.6%",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "fiat-chrysler-fca-im-fcau-automobiles-sales-in-italy-in-2019-totaled-452k-with-a-market-share-of-23-6-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 34,
+            "name": "Global Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-03 04:20:00",
+        "gmt_time": "2020-01-02 20:20:00"
+    },
+    {
+        "id": 902337,
+        "updated_sequence": 2063475,
+        "published_at": {
+            "unix": 1577995920,
+            "text": "2020-01-02 20:12:00 +0000",
+            "iso_8601": "2020-01-02T20:12:00Z"
+        },
+        "updated_at": {
+            "unix": 1577996191,
+            "text": "2020-01-02 20:16:31 +0000",
+            "iso_8601": "2020-01-02T20:16:31Z"
+        },
+        "subject": "US T-Note futures (H0) settle 6+ ticks higher at 128-20",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<p>The Treasury curve has bull-flattened led by gains in the long-end of the curve, which saw 2s30s narrowing by around 5bps. Desks remind us that volume was thin, and the complex will likely get back into full swing next week when participants return. Analysts suggested that the richening was inspired by the new year rally in EGBs (the ECB today re-started purchasing assets under its PSPP after the break into the end of 2019). Accordingly, US 10-year yields fell back beneath 1.90%, having cheapened to around 1.94%; a few analysts have previously suggested that 1.95-2.00% levels could be a prime 'dip' to be bought, a play that appears to have yielded gains thus far. Meanwhile, the US Treasury will sell USD 28bln in 3-year notes, USD 24bln in 10-year notes re-opening, and USD 16bln in 30 year bonds re-opening; all sizes were unchanged.</p>",
+        "analysis_updated_at": {
+            "unix": 1577996160,
+            "text": "2020-01-02 20:16:00 +0000",
+            "iso_8601": "2020-01-02T20:16:00Z"
+        },
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "us-t-note-futures-h0-settle-6-ticks-higher-at-128-20-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 21,
+            "name": "Fixed Income"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-03 04:12:00",
+        "gmt_time": "2020-01-02 20:12:00"
+    },
+    {
+        "id": 902336,
+        "updated_sequence": 2063470,
+        "published_at": {
+            "unix": 1577993520,
+            "text": "2020-01-02 19:32:00 +0000",
+            "iso_8601": "2020-01-02T19:32:00Z"
+        },
+        "updated_at": {
+            "unix": 1577994202,
+            "text": "2020-01-02 19:43:22 +0000",
+            "iso_8601": "2020-01-02T19:43:22Z"
+        },
+        "subject": "WTI (G0) settles USD 0.12 higher at USD 61.18/bbl; Brent (H0) settles USD 0.25 higher at USD 66.25/bbl",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>The crude complex traded slightly firmer in thin liquidity conditions, PVM highlighted participants are awaiting fresh catalysts, however on the technical front the desk is keeping an eye on the 13dma at 60.95 and 65.68 for WTI and Brent, respectively. Geopolitical tensions have increased in recent days as Turkey have agreed to send troops to Libya to help the Tripoli government with its civil war. Tensions in Iran have also picked up following a US air strike on the Iranian backed militia Hezbollah in Iraq, thus could have a potential threat to regional crude oil supplies, writes Citi. Although the latest geopolitical spats have had little impact on price action so far, any further escalation will be worth keeping an eye on. The latest weekly API figures saw crude draw 7.8mln bbls, Cushing -1.4mln bbls, Gasoline -0.776mln bbls and distillates +2.8mln bbls, ahead of the EIA officials release on Friday; analysts forecast (bbls) crude -3.3mln bbls, distillates +1.1mln bbls and Gasoline +1.8mln bbls.</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1577993580,
+            "text": "2020-01-02 19:33:00 +0000",
+            "iso_8601": "2020-01-02T19:33:00Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "wti-g0-settles-usd-0-12-higher-at-usd-61-18-bbl-brent-h0-settles-usd-0-25-higher-at-usd-66-25-bbl-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 20,
+            "name": "Commodities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-03 03:32:00",
+        "gmt_time": "2020-01-02 19:32:00"
+    },
+    {
+        "id": 902335,
+        "updated_sequence": 2063465,
+        "published_at": {
+            "unix": 1577992440,
+            "text": "2020-01-02 19:14:00 +0000",
+            "iso_8601": "2020-01-02T19:14:00Z"
+        },
+        "updated_at": {
+            "unix": 1577992531,
+            "text": "2020-01-02 19:15:31 +0000",
+            "iso_8601": "2020-01-02T19:15:31Z"
+        },
+        "subject": "Brazilian Economy Ministry says the trade surplus is likely to continue to decrease in 2020 due to stronger demand in Brazil supporting imports",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "brazilian-economy-ministry-says-the-trade-surplus-is-likely-to-continue-to-decrease-in-2020-due-to-stronger-demand-in-brazil-supporting-imports-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-03 03:14:00",
+        "gmt_time": "2020-01-02 19:14:00"
+    },
+    {
+        "id": 902334,
+        "updated_sequence": 2063462,
+        "published_at": {
+            "unix": 1577991840,
+            "text": "2020-01-02 19:04:00 +0000",
+            "iso_8601": "2020-01-02T19:04:00Z"
+        },
+        "updated_at": {
+            "unix": 1577991908,
+            "text": "2020-01-02 19:05:08 +0000",
+            "iso_8601": "2020-01-02T19:05:08Z"
+        },
+        "subject": "Lowe's (LOW) is to hire above 53k staff for its Spring season",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "lowe-s-low-is-to-hire-above-53k-staff-for-its-spring-season-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-03 03:04:00",
+        "gmt_time": "2020-01-02 19:04:00"
+    },
+    {
+        "id": 902333,
+        "updated_sequence": 2063457,
+        "published_at": {
+            "unix": 1577991060,
+            "text": "2020-01-02 18:51:00 +0000",
+            "iso_8601": "2020-01-02T18:51:00Z"
+        },
+        "updated_at": {
+            "unix": 1577991171,
+            "text": "2020-01-02 18:52:51 +0000",
+            "iso_8601": "2020-01-02T18:52:51Z"
+        },
+        "subject": "American Airlines (AAL) are reportedly planning share a portion of the compensation it expects to receive from Boeing (BA) for the grounding of the 737 MAX jet, although talks with Boeing (BA) are still ongoing, reports CNBC",
+        "content": "<p><a href=\"https://www.cnbc.com/2020/01/02/american-airlines-to-share-boeing-737-max-settlement-with-employees.html?__source=twitter%7Cmain\">Click here for link</a></p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>Southwest Airlines (LUV) have recently come to an agreement with Boeing regarding compensation for the grounding of the jet, as have Icelandair and Turkish Airlines&nbsp;</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1577991171,
+            "text": "2020-01-02 18:52:51 +0000",
+            "iso_8601": "2020-01-02T18:52:51Z"
+        },
+        "push_notify": false,
+        "source": "CNBC",
+        "slug": "american-airlines-aal-are-reportedly-planning-share-a-portion-of-the-compensation-it-expects-to-receive-from-boeing-ba-for-the-grounding-of-the-737-max-jet-although-talks-with-boeing-ba-are-still-ongoing-reports-cnbc-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-03 02:51:00",
+        "gmt_time": "2020-01-02 18:51:00"
+    },
+    {
+        "id": 902332,
+        "updated_sequence": 2063459,
+        "published_at": {
+            "unix": 1577990340,
+            "text": "2020-01-02 18:39:00 +0000",
+            "iso_8601": "2020-01-02T18:39:00Z"
+        },
+        "updated_at": {
+            "unix": 1577991281,
+            "text": "2020-01-02 18:54:41 +0000",
+            "iso_8601": "2020-01-02T18:54:41Z"
+        },
+        "subject": "Spain's Catalan separatist ERC party has come to an agreement with the socialist party PSOE ahead of the Sanchez-led cabinet votes on January 5th and 7th; ERC will abstain in the vote (a positive for Sanchez)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>Sanchez requires an absolute majority to pass the January 5th vote and a simple majority for the January 7th vote. Rabobank's analysts wrote earlier, \"Sanchez currently has the support of 161 parliamentarians in the 350 seat house. These 161 seats primarily consist of 120 from his own PSOE and 35 from his coalition partner Podemos (the remainder stem from several small regional parties). However, this means that as things currently stand, he would not win in either the first or second round of voting. However, Sanchez is relying on the abstention of the Catalan Republican Left party (ERC) (with its 13 seats) in order to win the second round of voting.\"</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1577991000,
+            "text": "2020-01-02 18:50:00 +0000",
+            "iso_8601": "2020-01-02T18:50:00Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "spain-s-catalan-separatist-erc-party-has-come-to-an-agreement-with-the-socialist-party-psoe-ahead-of-the-sanchez-led-cabinet-votes-on-january-5th-and-7th-erc-will-abstain-in-the-vote-a-positive-for-sanchez-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-03 02:39:00",
+        "gmt_time": "2020-01-02 18:39:00"
+    },
+    {
+        "id": 902330,
+        "updated_sequence": 2063441,
+        "published_at": {
+            "unix": 1577989560,
+            "text": "2020-01-02 18:26:00 +0000",
+            "iso_8601": "2020-01-02T18:26:00Z"
+        },
+        "updated_at": {
+            "unix": 1577989635,
+            "text": "2020-01-02 18:27:15 +0000",
+            "iso_8601": "2020-01-02T18:27:15Z"
+        },
+        "subject": "5.8 magnitude earthquake recorded off the East coast of Japan",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "5-8-magnitude-earthquake-recorded-off-the-east-coast-of-japan-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-03 02:26:00",
+        "gmt_time": "2020-01-02 18:26:00"
+    },
+    {
+        "id": 902329,
+        "updated_sequence": 2063438,
+        "published_at": {
+            "unix": 1577989020,
+            "text": "2020-01-02 18:17:00 +0000",
+            "iso_8601": "2020-01-02T18:17:00Z"
+        },
+        "updated_at": {
+            "unix": 1577989153,
+            "text": "2020-01-02 18:19:13 +0000",
+            "iso_8601": "2020-01-02T18:19:13Z"
+        },
+        "subject": "US President Trump said to Turkish President Erdogan that foreign interference in Libya is complicating the situation",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-president-trump-said-to-turkish-president-erdogan-that-foreign-interference-in-libya-is-complicating-the-situation-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 23,
+            "name": "Geopolitical"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-03 02:17:00",
+        "gmt_time": "2020-01-02 18:17:00"
+    },
+    {
+        "id": 902326,
+        "updated_sequence": 2063428,
+        "published_at": {
+            "unix": 1577986140,
+            "text": "2020-01-02 17:29:00 +0000",
+            "iso_8601": "2020-01-02T17:29:00Z"
+        },
+        "updated_at": {
+            "unix": 1577986295,
+            "text": "2020-01-02 17:31:35 +0000",
+            "iso_8601": "2020-01-02T17:31:35Z"
+        },
+        "subject": "China is reportedly looking to extend its antitrust law to internet businesses, as leading players like Alibaba (BABA), Tencent (TCEHY) have expanded their influence in the digital economy, according to Nikkei",
+        "content": "<p><a href=\"https://asia.nikkei.com/Business/China-tech/China-readies-wider-antitrust-law-to-cover-internet-companies\">Click here for link</a></p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Nikkei",
+        "slug": "china-is-reportedly-looking-to-extend-its-antitrust-law-to-internet-businesses-as-leading-players-like-alibaba-baba-tencent-tcehy-have-expanded-their-influence-in-the-digital-economy-according-to-nikkei-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 34,
+            "name": "Global Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-03 01:29:00",
+        "gmt_time": "2020-01-02 17:29:00"
+    },
+    {
+        "id": 902325,
+        "updated_sequence": 2063423,
+        "published_at": {
+            "unix": 1577985900,
+            "text": "2020-01-02 17:25:00 +0000",
+            "iso_8601": "2020-01-02T17:25:00Z"
+        },
+        "updated_at": {
+            "unix": 1577986119,
+            "text": "2020-01-02 17:28:39 +0000",
+            "iso_8601": "2020-01-02T17:28:39Z"
+        },
+        "subject": "Apollo is reportedly still the leading bidder for Hilton Grand Vacations (HGV) as the deal is taking longer than expected, according to Street Insider citing sources",
+        "content": "<p><a href=\"https://www.streetinsider.com/Hot+M+and+A/Apollo+Remains+Lead+Bidder+for+Hilton+Grand+Vacations+%28HGV%29+as+Field+Narrows%2C+Deal+Drags+-+Sources/16290968.html\">Click here for link</a></p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Street Insider",
+        "slug": "apollo-is-reportedly-still-the-leading-bidder-for-hilton-grand-vacations-hgv-as-the-deal-is-taking-longer-than-expected-according-to-street-insider-citing-sources-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-03 01:25:00",
+        "gmt_time": "2020-01-02 17:25:00"
+    },
+    {
+        "id": 902324,
+        "updated_sequence": 2063416,
+        "published_at": {
+            "unix": 1577984580,
+            "text": "2020-01-02 17:03:00 +0000",
+            "iso_8601": "2020-01-02T17:03:00Z"
+        },
+        "updated_at": {
+            "unix": 1577984823,
+            "text": "2020-01-02 17:07:03 +0000",
+            "iso_8601": "2020-01-02T17:07:03Z"
+        },
+        "subject": "GOLD: Traders note gold has settled higher for seven straight sessions; CTA models have turned long, one bank desk says",
+        "content": "<ul><li>The UBS Gold CTA tracker shows all 11 of the active strategies it tracks are now long, with the nearest exit level at USD 1492.90.</li><li>The desk also highlighted gold's positive seasonality in January of the last six years.</li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "gold-traders-note-gold-has-settled-higher-for-seven-straight-sessions-cta-models-have-turned-long-one-bank-desk-says-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 37,
+            "name": "Metals News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-03 01:03:00",
+        "gmt_time": "2020-01-02 17:03:00"
+    },
+    {
+        "id": 902324,
+        "updated_sequence": 2063416,
+        "published_at": {
+            "unix": 1577984580,
+            "text": "2020-01-02 17:03:00 +0000",
+            "iso_8601": "2020-01-02T17:03:00Z"
+        },
+        "updated_at": {
+            "unix": 1577984823,
+            "text": "2020-01-02 17:07:03 +0000",
+            "iso_8601": "2020-01-02T17:07:03Z"
+        },
+        "subject": "GOLD: Traders note gold has settled higher for seven straight sessions; CTA models have turned long, one bank desk says",
+        "content": "<ul><li>The UBS Gold CTA tracker shows all 11 of the active strategies it tracks are now long, with the nearest exit level at USD 1492.90.</li><li>The desk also highlighted gold's positive seasonality in January of the last six years.</li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "gold-traders-note-gold-has-settled-higher-for-seven-straight-sessions-cta-models-have-turned-long-one-bank-desk-says-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 37,
+            "name": "Metals News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-03 01:03:00",
+        "gmt_time": "2020-01-02 17:03:00"
+    },
+    {
+        "id": 902323,
+        "updated_sequence": 2063418,
+        "published_at": {
+            "unix": 1577984520,
+            "text": "2020-01-02 17:02:00 +0000",
+            "iso_8601": "2020-01-02T17:02:00Z"
+        },
+        "updated_at": {
+            "unix": 1577984930,
+            "text": "2020-01-02 17:08:50 +0000",
+            "iso_8601": "2020-01-02T17:08:50Z"
+        },
+        "subject": "Fiat Chrysler (FCAU) - Italy December car sales 12.5% M/M; in 2019, Italian car sales grew +0.3%",
+        "content": "<ul><li>FCAU new car sales (Dec.) -2.26%&nbsp;</li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "fiat-chrysler-fcau-italy-december-car-sales-12-5-m-m-in-2019-italian-car-sales-grew-0-3-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-03 01:02:00",
+        "gmt_time": "2020-01-02 17:02:00"
+    },
+    {
+        "id": 902322,
+        "updated_sequence": 2063408,
+        "published_at": {
+            "unix": 1577982660,
+            "text": "2020-01-02 16:31:00 +0000",
+            "iso_8601": "2020-01-02T16:31:00Z"
+        },
+        "updated_at": {
+            "unix": 1577983249,
+            "text": "2020-01-02 16:40:49 +0000",
+            "iso_8601": "2020-01-02T16:40:49Z"
+        },
+        "subject": "EUROPEAN PRELIMINARY CASH CLOSE: EURO STOXX 50 (+1.4%) at 3796, FTSE100 (+0.9%) at 7608, DAX (+1.11%) at 13396, CAC 40 (+1.16%) at 6047, IBEX 35 (1.5%) at 9694, FTSE MIB (+1.4%) at 23838, SMI (+0.%) at 10724",
+        "content": "<ul><li>Energy +0.91%</li><li>Materials +0.71%</li><li>Industrials +0.93%</li><li>Consumer discretionary +0.99%</li><li>Consumer staples +0.24%</li><li>Health Care +0.17%</li><li>Financials +1.5%</li><li>IT +1.9%</li><li>Telecoms +0.73%</li><li>Utilities +0.6%</li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "european-preliminary-cash-close-euro-stoxx-50-1-4-at-3796-ftse100-0-9-at-7608-dax-1-11-at-13396-cac-40-1-16-at-6047-ibex-35-1-5-at-9694-ftse-mib-1-4-at-23838-smi-0-at-10724-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 33,
+            "name": "European Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-03 00:31:00",
+        "gmt_time": "2020-01-02 16:31:00"
+    },
+    {
+        "id": 902321,
+        "updated_sequence": 2063403,
+        "published_at": {
+            "unix": 1577982480,
+            "text": "2020-01-02 16:28:00 +0000",
+            "iso_8601": "2020-01-02T16:28:00Z"
+        },
+        "updated_at": {
+            "unix": 1577982563,
+            "text": "2020-01-02 16:29:23 +0000",
+            "iso_8601": "2020-01-02T16:29:23Z"
+        },
+        "subject": "Italian State Sector Surplus (Dec.): EUR 9.7bln (Prev. EUR 1.3bln)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "italian-state-sector-surplus-dec-eur-9-7bln-prev-eur-1-3bln-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-03 00:28:00",
+        "gmt_time": "2020-01-02 16:28:00"
+    },
+    {
+        "id": 902320,
+        "updated_sequence": 2063400,
+        "published_at": {
+            "unix": 1577982420,
+            "text": "2020-01-02 16:27:00 +0000",
+            "iso_8601": "2020-01-02T16:27:00Z"
+        },
+        "updated_at": {
+            "unix": 1577982515,
+            "text": "2020-01-02 16:28:35 +0000",
+            "iso_8601": "2020-01-02T16:28:35Z"
+        },
+        "subject": "Daily FX Wrap: Usd/majors retrace more NYE moves amidst mixed manufacturing PMIs",
+        "content": "<p><strong>DXY</strong></p><p>The index has bounced a bit further from sub-96.500 levels towards 96.850 even though bear-steepening along the UST curve has reversed course relatively sharply, albeit in still thin seasonal volumes, and the Dollar trades somewhat mixed vs its currency counterparts overall. Perhaps a comparatively solid rather than strong final Markit manufacturing PMI has assisted the Greenback recovery along with sabre rattling on the geopolitical front, while several G10 rivals and EM peers have simply lost momentum and handed back more pre-2020 gains after running into technical resistance.</p><p><strong>JPY/XAU/CHF&nbsp;</strong></p><p>The traditional safe-havens are on track to end the first (EU) session of the new year and decade on divergent paths, as the Yen and Gold outperform in stark contrast to the Franc as certain/select asset classes benefit from a degree of hedging/positioning for a potential downturn in risk sentiment. Usd/Jpy reversed from around 108.85 through 108.50 and tripped stops on a break of 108.40 to probe under 108.25, while Xau/Usd eclipsed December 31’s peak and climbed to within a few Bucks of the next bullish chart target circa 1536/oz. However, Usd/Chf failed make much headway either side of the 0.9700 handle as Eur/Chf straddled 1.0850 and the single currency regained a degree of composure vs the Greenback and Sterling around daily fixings.</p><p><strong>EUR/GBP/AUD/NZD</strong></p><p>As noted above, the Euro saw some pretty wild swings around the fixes, and some market contacts suggest this could have been exacerbated by the fact that Frankfurt and other continental European centres were closed for business on Xmas and New Year’s Eve. Indeed, Eur/Usd squeezed back up towards 1.1200 from lows near 1.1170 and Eur/Gbp rebounded to 0.8500 or so vs 0.8460 as Cable lost 1.3200 with no real support from an uptick in the final UK manufacturing PMI. On that note, mostly better than forecast or flash Eurozone manufacturing surveys hardly impacted the single currency, while the Antipodean Dollars gradually unwound post-US/China Phase 1 trade accord and PBoC RRR cut-related gains to sub-0.7000/0.6700 before the Kiwi reclaimed big figure+ status (just).</p><p><strong>CAD</strong></p><p>The Loonie has pared losses suffered in wake of another worrying Canadian economic release in the form of RBC’s manufacturing PMI that slipped to 50.4 from 51.4 and closer to the boom/bust line.</p><p><strong>EM</strong></p><p>A bright start to 2020 for most regional currencies, aside from the Try that was subject to more investor angst on geopolitical factors after Turkey’s Government approved the deployment of troops to Libya.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "daily-fx-wrap-usd-majors-retrace-more-nye-moves-amidst-mixed-manufacturing-pmis-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-03 00:27:00",
+        "gmt_time": "2020-01-02 16:27:00"
+    },
+    {
+        "id": 902319,
+        "updated_sequence": 2063397,
+        "published_at": {
+            "unix": 1577982180,
+            "text": "2020-01-02 16:23:00 +0000",
+            "iso_8601": "2020-01-02T16:23:00Z"
+        },
+        "updated_at": {
+            "unix": 1577982408,
+            "text": "2020-01-02 16:26:48 +0000",
+            "iso_8601": "2020-01-02T16:26:48Z"
+        },
+        "subject": "Axalta (AXTA) - Street Insider report that the potential takeover of the company is still dragging a long despite the co. failing to meet set target dates for an announcement",
+        "content": "<p><a href=\"https://www.streetinsider.com/Hot+M+and+A/Axalta+%28AXTA%29+Skips+Yearly+Guidance+Call+Amid+Ongoing+Talks+-+Sources/16290756.html\">Click here for link</a></p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Street Insider",
+        "slug": "axalta-axta-street-insider-report-that-the-potential-takeover-of-the-company-is-still-dragging-a-long-despite-the-co-failing-to-meet-set-target-dates-for-an-announcement-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-03 00:23:00",
+        "gmt_time": "2020-01-02 16:23:00"
+    },
+    {
+        "id": 902317,
+        "updated_sequence": 2063387,
+        "published_at": {
+            "unix": 1577981820,
+            "text": "2020-01-02 16:17:00 +0000",
+            "iso_8601": "2020-01-02T16:17:00Z"
+        },
+        "updated_at": {
+            "unix": 1577981949,
+            "text": "2020-01-02 16:19:09 +0000",
+            "iso_8601": "2020-01-02T16:19:09Z"
+        },
+        "subject": "Phillips 66 Wilmington, California refinery has reported flaring",
+        "content": "<ul><li>The WIlmington and Carson refinery hold a joint capacity of 139k BPD</li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "phillips-66-wilmington-california-refinery-has-reported-flaring-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 20,
+            "name": "Commodities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-03 00:17:00",
+        "gmt_time": "2020-01-02 16:17:00"
+    },
+    {
+        "id": 902316,
+        "updated_sequence": 2063389,
+        "published_at": {
+            "unix": 1577981640,
+            "text": "2020-01-02 16:14:00 +0000",
+            "iso_8601": "2020-01-02T16:14:00Z"
+        },
+        "updated_at": {
+            "unix": 1577982041,
+            "text": "2020-01-02 16:20:41 +0000",
+            "iso_8601": "2020-01-02T16:20:41Z"
+        },
+        "subject": "Altria (MO) and Phillip Morris (PM) - Trump administration will reportedly roll out the flavoured vaping ban today, according to FBN's Lawrence",
+        "content": "<p><a href=\"https://twitter.com/EdwardLawrence/status/1212769108242112512\">Click here for link</a></p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>It had been announced that the ban would be rolled out by the end of this week</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1577982041,
+            "text": "2020-01-02 16:20:41 +0000",
+            "iso_8601": "2020-01-02T16:20:41Z"
+        },
+        "push_notify": false,
+        "source": "FBN",
+        "slug": "altria-mo-and-phillip-morris-pm-trump-administration-will-reportedly-roll-out-the-flavoured-vaping-ban-today-according-to-fbn-s-lawrence-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-03 00:14:00",
+        "gmt_time": "2020-01-02 16:14:00"
+    },
+    {
+        "id": 902315,
+        "updated_sequence": 2063377,
+        "published_at": {
+            "unix": 1577980860,
+            "text": "2020-01-02 16:01:00 +0000",
+            "iso_8601": "2020-01-02T16:01:00Z"
+        },
+        "updated_at": {
+            "unix": 1577981301,
+            "text": "2020-01-02 16:08:21 +0000",
+            "iso_8601": "2020-01-02T16:08:21Z"
+        },
+        "subject": "US Treasury is to sell USD 28bln in 3-year notes, USD 24bln in 10-year notes and USD 16bln in 30 year bonds",
+        "content": "<ul><li>To settle on January 15th 2020</li><li>All are unchanged&nbsp;</li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-treasury-is-to-sell-usd-28bln-in-3-year-notes-usd-24bln-in-10-year-notes-and-usd-16bln-in-30-year-bonds-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 21,
+            "name": "Fixed Income"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-03 00:01:00",
+        "gmt_time": "2020-01-02 16:01:00"
+    },
+    {
+        "id": 902313,
+        "updated_sequence": 2063369,
+        "published_at": {
+            "unix": 1577979000,
+            "text": "2020-01-02 15:30:00 +0000",
+            "iso_8601": "2020-01-02T15:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1577979358,
+            "text": "2020-01-02 15:35:58 +0000",
+            "iso_8601": "2020-01-02T15:35:58Z"
+        },
+        "subject": "Mexico Markit Manufacturing PMI (Dec) 47.1 vs. Prev. 48.0",
+        "content": "<p>IHS Note:&nbsp;</p><ul><li>Factory orders and exports fall at fastest rates in survey history, causing record contractions in output and input buying</li><li>Business confidence sinks to new series low</li><li><a href=\"https://www.markiteconomics.com/Public/Home/PressRelease/328b6b329f5840cd9d59ddcbd0860f8f\">Link to Press Release</a></li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>IHS Economists note, \"As was the case through most of the second half of 2019, PMI data for December pointed to difficult conditions in the Mexican manufacturing industry\"</li><li>\"So far, it's difficult to see a light at the end of the tunnel and any meaningful rebound in 2020. In fact, businesses are at their least optimistic towards growth prospects in the series history\"</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1577979358,
+            "text": "2020-01-02 15:35:58 +0000",
+            "iso_8601": "2020-01-02T15:35:58Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "mexico-markit-manufacturing-pmi-dec-47-1-vs-prev-48-0-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-02 23:30:00",
+        "gmt_time": "2020-01-02 15:30:00"
+    },
+    {
+        "id": 902312,
+        "updated_sequence": 2063356,
+        "published_at": {
+            "unix": 1577978580,
+            "text": "2020-01-02 15:23:00 +0000",
+            "iso_8601": "2020-01-02T15:23:00Z"
+        },
+        "updated_at": {
+            "unix": 1577978689,
+            "text": "2020-01-02 15:24:49 +0000",
+            "iso_8601": "2020-01-02T15:24:49Z"
+        },
+        "subject": "US President Trump and Turkish President Erdogan have, in a phone call, discussed the developments in both Syria and Libya., according to the Turkish Presidency",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-president-trump-and-turkish-president-erdogan-have-in-a-phone-call-discussed-the-developments-in-both-syria-and-libya-according-to-the-turkish-presidency-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 23,
+            "name": "Geopolitical"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-02 23:23:00",
+        "gmt_time": "2020-01-02 15:23:00"
+    },
+    {
+        "id": 902311,
+        "updated_sequence": 2063349,
+        "published_at": {
+            "unix": 1577978160,
+            "text": "2020-01-02 15:16:00 +0000",
+            "iso_8601": "2020-01-02T15:16:00Z"
+        },
+        "updated_at": {
+            "unix": 1577978334,
+            "text": "2020-01-02 15:18:54 +0000",
+            "iso_8601": "2020-01-02T15:18:54Z"
+        },
+        "subject": "US Defence Secretary Esper says that there are indications that Iran, or forces backed by Iran, are potentially planning additional attacks; if the US becomes aware of this they will take preemptive action",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>Previously stated that he thinks that Hezbollah may engage in further provocations, adding that if it does, it would likely regret it</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1577978333,
+            "text": "2020-01-02 15:18:53 +0000",
+            "iso_8601": "2020-01-02T15:18:53Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-defence-secretary-esper-says-that-there-are-indications-that-iran-or-forces-backed-by-iran-are-potentially-planning-additional-attacks-if-the-us-becomes-aware-of-this-they-will-take-preemptive-action-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-02 23:16:00",
+        "gmt_time": "2020-01-02 15:16:00"
+    },
+    {
+        "id": 902310,
+        "updated_sequence": 2063347,
+        "published_at": {
+            "unix": 1577978040,
+            "text": "2020-01-02 15:14:00 +0000",
+            "iso_8601": "2020-01-02T15:14:00Z"
+        },
+        "updated_at": {
+            "unix": 1577978313,
+            "text": "2020-01-02 15:18:33 +0000",
+            "iso_8601": "2020-01-02T15:18:33Z"
+        },
+        "subject": "US Defence Secretary Esper says he is confident regarding the preparedness of US forces regarding the deterrence of North Korean bad behavior., Fox",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>Follows on from, North Korean Leader Kim Jong Un has stated that North Korea is no longer bound by previous agreements to halt missile tests, due to recent US actions alongside their co-operation with South Korea; adding that a ‘new strategic weapon’ would be unveiled soon. (Newswires/KCNA)</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1577978280,
+            "text": "2020-01-02 15:18:00 +0000",
+            "iso_8601": "2020-01-02T15:18:00Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-defence-secretary-esper-says-he-is-confident-regarding-the-preparedness-of-us-forces-regarding-the-deterrence-of-north-korean-bad-behavior-fox-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-02 23:14:00",
+        "gmt_time": "2020-01-02 15:14:00"
+    },
+    {
+        "id": 902309,
+        "updated_sequence": 2063337,
+        "published_at": {
+            "unix": 1577977560,
+            "text": "2020-01-02 15:06:00 +0000",
+            "iso_8601": "2020-01-02T15:06:00Z"
+        },
+        "updated_at": {
+            "unix": 1577977674,
+            "text": "2020-01-02 15:07:54 +0000",
+            "iso_8601": "2020-01-02T15:07:54Z"
+        },
+        "subject": "The Information in their 2020 Predictions believes that Slack (WORK) may become a takeover target",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "the-information-in-their-2020-predictions-believes-that-slack-work-may-become-a-takeover-target-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-02 23:06:00",
+        "gmt_time": "2020-01-02 15:06:00"
+    },
+    {
+        "id": 902308,
+        "updated_sequence": 2063353,
+        "published_at": {
+            "unix": 1577977200,
+            "text": "2020-01-02 15:00:00 +0000",
+            "iso_8601": "2020-01-02T15:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1577978460,
+            "text": "2020-01-02 15:21:00 +0000",
+            "iso_8601": "2020-01-02T15:21:00Z"
+        },
+        "subject": "Banxico meeting minutes reveal policymaker Esquivel voted for a 50bps rate cut",
+        "content": "<ul><li>All board members forecast weakness in the economy in Q4, noting it is still stagnant</li><li>Majority believes core inflation has been persistent; upside for inflation has appeared which may make it challenging to attain their 3% target for 2020, due to announced increase in minimum wage</li><li>A majority believes it is necessary to improve the credit outlook for Pemex, the state oil firm</li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "banxico-meeting-minutes-reveal-policymaker-esquivel-voted-for-a-50bps-rate-cut-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 8,
+            "name": "Other Central Banks"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-02 23:00:00",
+        "gmt_time": "2020-01-02 15:00:00"
+    },
+    {
+        "id": 902307,
+        "updated_sequence": 2063323,
+        "published_at": {
+            "unix": 1577977140,
+            "text": "2020-01-02 14:59:00 +0000",
+            "iso_8601": "2020-01-02T14:59:00Z"
+        },
+        "updated_at": {
+            "unix": 1577977249,
+            "text": "2020-01-02 15:00:49 +0000",
+            "iso_8601": "2020-01-02T15:00:49Z"
+        },
+        "subject": "US Defence Secretary Esper thinks that Hezbollah may engage in further provocations, adding that if it does, it would likely regret it",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-defence-secretary-esper-thinks-that-hezbollah-may-engage-in-further-provocations-adding-that-if-it-does-it-would-likely-regret-it-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 23,
+            "name": "Geopolitical"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-02 22:59:00",
+        "gmt_time": "2020-01-02 14:59:00"
+    },
+    {
+        "id": 902306,
+        "updated_sequence": 2063320,
+        "published_at": {
+            "unix": 1577976600,
+            "text": "2020-01-02 14:50:00 +0000",
+            "iso_8601": "2020-01-02T14:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1577976703,
+            "text": "2020-01-02 14:51:43 +0000",
+            "iso_8601": "2020-01-02T14:51:43Z"
+        },
+        "subject": "Aurina Pharmaceutical (AUPH) are reportedly being eyed for a takeover by larger pharma companies, according to Dealreporter",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "aurina-pharmaceutical-auph-are-reportedly-being-eyed-for-a-takeover-by-larger-pharma-companies-according-to-dealreporter-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-02 22:50:00",
+        "gmt_time": "2020-01-02 14:50:00"
+    },
+    {
+        "id": 902304,
+        "updated_sequence": 2063312,
+        "published_at": {
+            "unix": 1577975940,
+            "text": "2020-01-02 14:39:00 +0000",
+            "iso_8601": "2020-01-02T14:39:00Z"
+        },
+        "updated_at": {
+            "unix": 1577975986,
+            "text": "2020-01-02 14:39:46 +0000",
+            "iso_8601": "2020-01-02T14:39:46Z"
+        },
+        "subject": "US EQUITY OPEN: Indices open firmer in quite trade with little headwinds; WRK +3.2%, JD +2.2%, TSLA +2.1%, AMD +1.8%, BEN -1.6%, HBI -0.8%",
+        "content": "<p>Equity bourses in the US have opened on the front foot, continuing the trend from Europe and Asia, where relatively quiet markets have found support from easing monetary conditions in China and anticipation of the Phase One US-China trade deal. Counterintuitively, havens such as T-Notes and Gold are firmer too, although analysts note a pare back of recent selling with no immediate macro headwinds, which is causing participants to focus more on technicals.</p><ul><li><strong>WRK +3.2%</strong> upgraded to Overweight at Wells Fargo</li><li><strong>JD +2.2%</strong> initiated New Buy at Citic</li><li><strong>TSLA +2.1%</strong> to begin China Model 3 deliveries and PT rise at Canaccord</li><li><strong>AMD +1.8%</strong> PT rise at Nomura</li><li><strong>BEN -1.6% </strong>and <strong>HBI -0.8% </strong>both downgraded at Wells Fargo</li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": true,
+        "source": "Newsquawk",
+        "slug": "us-equity-open-indices-open-firmer-in-quite-trade-with-little-headwinds-wrk-3-2-jd-2-2-tsla-2-1-amd-1-8-ben-1-6-hbi-0-8-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-02 22:39:00",
+        "gmt_time": "2020-01-02 14:39:00"
+    },
+    {
+        "id": 902302,
+        "updated_sequence": 2063309,
+        "published_at": {
+            "unix": 1577975400,
+            "text": "2020-01-02 14:30:00 +0000",
+            "iso_8601": "2020-01-02T14:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1577975864,
+            "text": "2020-01-02 14:37:44 +0000",
+            "iso_8601": "2020-01-02T14:37:44Z"
+        },
+        "subject": "Canadian Markit Manufacturing PMI SA (Dec) 50.4 vs. Prev. 51.4",
+        "content": "<ul><li>Slower output growth amid fall in new orders</li><li>Subdued rate of job creation continues</li><li>Business optimism drops to its weakest since February 2016</li><li>Via <a href=\"https://www.markiteconomics.com/Public/Home/PressRelease/1411fab140fe40d18b1e0c634adf2c65\">Markit</a></li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>The survey notes a disappointing end to 2019 for the Canadian manufacturing sector as the steady recovery in production volumes stalled, while new orders fell back into decline.</li><li>Markit says that weakness in the investment goods category linked to softer capital spending at home and abroad remained a key factor behind the subdued manufacturing trend. Consumer goods producers once again fared better than elsewhere in the industrial sector, but even this outperforming area reported a growth slowdown at the end of 2019.</li><li>Markit adds that it appears that manufacturers are braced for a lack of new work to replace completed projects in the New Year, with business optimism now at its lowest for almost four years and job creation moving closer to stagnation in the latest survey period.</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1577975760,
+            "text": "2020-01-02 14:36:00 +0000",
+            "iso_8601": "2020-01-02T14:36:00Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "canadian-markit-manufacturing-pmi-sa-dec-50-4-vs-prev-51-4-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 9,
+            "name": "Canadian Data"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-02 22:30:00",
+        "gmt_time": "2020-01-02 14:30:00"
+    },
+    {
+        "id": 902300,
+        "updated_sequence": 2063290,
+        "published_at": {
+            "unix": 1577973480,
+            "text": "2020-01-02 13:58:00 +0000",
+            "iso_8601": "2020-01-02T13:58:00Z"
+        },
+        "updated_at": {
+            "unix": 1577973614,
+            "text": "2020-01-02 14:00:14 +0000",
+            "iso_8601": "2020-01-02T14:00:14Z"
+        },
+        "subject": "Newsquawk Daily US Equity Opening News - 2nd December 2020",
+        "content": "<p>To download the report, please click <a href=\"/research_sheets/23544/download\">here</a> If you would like to subscribe to receive the research sheets directly in your inbox, you can now do so under the <a href=\"/research_sheets\">Research Suite</a> section of the portal. To subscribe simply check the box next to \"Email these reports\" under the desired category.&nbsp;</p><ul><li><strong>Advanced Micro Devices Inc (AMD)</strong> (Information Technology/Semiconductors) has had its PT raised to USD 58 from USD 40 at Nomura Instinet.</li><li><strong>Tesla Inc (TSLA)</strong> (Consumer Discretionary/Automobiles) will begin delivering its China-made Model 3s on January 7th, following production beginning at its Shanghai plant back in October. Elsewhere, Canaccord Genuity has raised its PT on TSLA shares to USD 515 from USD 375.</li><li><strong>Ford Motor (F)</strong> (Consumer Discretionary/Automobile Manufacturers) has been downgraded to Underperform from Inline at Evercore.</li></ul><p><strong>2nd January 2020</strong></p><ul><li><strong>Of note for casino stocks (LVS, MGM, MLCO, WYNN)</strong>, the Macau region reported December casino revenue fell by 13.7% Y/Y to 22.84bln patacas (approx. CNY 26.25bln)</li><li><strong>Of note for tobacco stocks (MO, PM, BTI)</strong>, WSJ reports the FDA is to prohibit the sale of fruit flavoured, cartridge-based, e-cigarettes, but will exclude tank vaping systems from the ban as part of a compromise with the Trump administration, which could be announced as soon as Friday.</li></ul><p><strong>DOW</strong></p><ul><li><strong>Apple Inc. (AAPL)</strong> (Information Technology/Technology Hardware, Storage &amp; Peripherals) and <strong>Taiwan Semiconductor Manufacturing (TSM)</strong> (Information Technology/Semiconductors &amp; Semiconductor Equipment) – TSMC will remain the sole foundry partner for Apple’s 2020 iPhone chips and will begin volume production at the end of Q2, where two thirds of TSMC’s available 5nm EUV process will be utilized to produce the chips, according to DigiTimes, which cites a Chinese media publication.</li><li><strong>Boeing Company (BA)</strong> (Industrials/Aerospace &amp; Defense) is moving further towards more computer-automated flight control systems post the 737 MAX crashes, WSJ reports.</li><li><strong>JPMorgan Chase &amp; Co. (JPM)</strong> (Financials/Diversified Banks) is to implement a ban on fintech applications from accessing customer bank accounts via using their passwords in efforts to augment security, FT reports.</li></ul><p><strong>NASDAQ 100</strong></p><ul><li><strong>Advanced Micro Devices Inc (AMD)</strong> (Information Technology/Semiconductors) has had its PT raised to USD 58 from USD 40 at Nomura Instinet by analyst David Wong, citing its “steady stream” of 7nm and 7nm+ product launches in 2020.</li><li><strong>Alphabet Inc (GOOGL)</strong> (Communication Services/Interactive Media &amp; Services), a third-party study has found that Google’s DeepMind AI could augment the detection of breast cancer.</li><li><strong>PayPal (PYPL)</strong> (Information Technology/Data Processing &amp; Outsourced Services) has been mentioned positively at Citi by analyst Ashwin Shirvaikar, citing the latest collaboration with MercadoLibre (MELI) as further support for it as a way to play the secular digital commerce sector.</li><li><strong>Tesla Inc (TSLA)</strong> (Consumer Discretionary/Automobiles) will begin delivering its China-made Model 3s on January 7th, following production beginning at its Shanghai plant back in October. Elsewhere, Canaccord Genuity has raised its PT on TSLA shares to USD 515 from USD 375; analyst Jed Dorsheimer expects further catalysation towards electric vehicles and above the guided 360k vehicles in its Q4 delivery figures released next week.</li></ul><p><strong>S&amp;P 500</strong></p><ul><li><strong>Berkshire Hathaway (BRK.B)</strong> (Financials/Multi-Sector Holdings) chief Warren Buffet reportedly rejected <strong>Tiffany’s (TIF)</strong> (Consumer Discretionary/Specialty Retail) request to counter LVMH’s (MC FP) acquisition bid for USD 16.2bln, FT reports.</li><li><strong>Duke Energy (DUK)</strong> (Utilities/Electric Utilities) has made a plan with relevant bodies in North Carolina to permanently shut its nine coal ash basins left in the state, which will reduce the overall cost of removing them by around USD 1.5bln, compared to prior plans, leaving the total cost now between USD 8bln-9bln.</li><li><strong>Ford Motor (F)</strong> (Consumer Discretionary/Automobile Manufacturers) has been downgraded to Underperform from Inline at Evercore by analyst Chris McNally, who also downgrade to Renault (RNO FP), citing the weaker likely to get weaker in 2020 as Ford looks likely to struggle internationally going forward.</li></ul><p><strong>OTHER</strong></p><ul><li><strong>Alibaba Group Holding Limited (BABA) </strong>(Consumer Discretionary/Internet &amp; Direct Marketing Retail) subsidiary Ant Financial has applied for a digital banking license in Singapore, where the regulator has previously alluded to the issuance of five new licenses in 2020.</li><li><strong>Amarin Corp PLC (AMRN)</strong> (Health Care/Biotechnology) has had its cardiovascular treatment, Vascepa, approved in Canada.</li><li><strong>Pacific Gas &amp; Electric Company (PCG) </strong>(Utilities/Electric Utilities) has won a case against its bondholders where it will only be required to pay an interest rate of 2.59% whilst under Chapter 11, instead of the original contract rate of 6.05% which the bondholders were seeking, CNBC reports.</li></ul><p><strong>BROKER MOVES</strong></p><p><strong>Upgrades</strong></p><ul><li>BAXTER (BAX) UPGRADED TO OUTPERFORM FROM IN LINE AT EVERCORE ISI</li><li>BLACKROCK (BLK) UPGRADED TO OVERWEIGHT FROM EQUAL WEIGHT AT WELLS FARGO</li><li>CAPRI HOLDINGS (CPRI) UPGRADED TO OVERWEIGHT FROM EQUAL WEIGHT AT WELLS FARGO</li><li>FASTLY (FSLY) UPGRADED TO OVERWEIGHT FROM NEUTRAL AT PIPER JAFFRAY</li><li>HENRY SCHEIN (HSIC) UPGRADED TO IN LINE FROM UNDERPERFORM AT EVERCORE ISI</li><li>MEDTRONIC (MDT) UPGRADED TO BUY FROM NEUTRAL AT GUGGENHEIM</li><li>PERKINELMER (PKI) UPGRADED TO OUTPERFORM FROM IN LINE AT EVERCORE ISI</li><li>PROGRESSIVE (PGR) UPGRADED TO BUY FROM HOLD AT DEUTSCHE BANK</li><li>T. ROWE PRICE (TROW) UPGRADED TO OVERWEIGHT FROM EQUAL WEIGHT AT WELLS FARGO</li><li>UMPQUA HOLDINGS (UMPQ) UPGRADED TO OVERWEIGHT FROM EQUAL WEIGHT AT STEPHENS</li><li>UNITED AIRLINES (UAL) UPGRADED TO OUTPERFORM FROM IN LINE AT EVERCORE ISI</li><li>VARIAN MEDICAL (VAR) UPGRADED TO OUTPERFORM FROM IN LINE AT EVERCORE ISI</li><li>WESTROCK (WRK) UPGRADED TO OVERWEIGHT FROM EQUAL WEIGHT AT WELLS FARGO</li></ul><p><strong>Downgrades</strong></p><ul><li>ABBOTT (ABT) DOWNGRADED TO NEUTRAL FROM BUY AT GUGGENHEIM</li><li>ANSYS (ANSS) DOWNGRADED TO HOLD FROM BUY AT NEEDHAM</li><li>BADGER METER (BMI) DOWNGRADED TO SELL FROM HOLD AT CANACCORD</li><li>EDWARDS LIFESCIENCES (EW) DOWNGRADED TO IN LINE FROM OUTPERFORM AT EVERCORE ISI</li><li>FORD (F) DOWNGRADED TO UNDERPERFORM FROM IN LINE AT EVERCORE ISI</li><li>FRANKLIN RESOURCES (BEN) DOWNGRADED TO UNDERWEIGHT FROM EQUAL WEIGHT AT WELLS FARGO</li><li>HANESBRANDS (HBI) DOWNGRADED TO UNDERWEIGHT FROM EQUAL WEIGHT AT WELLS FARGO</li><li>HOLOGIC (HOLX) DOWNGRADED TO IN LINE FROM OUTPERFORM AT EVERCORE ISI</li><li>ILLUMINA (ILMN) DOWNGRADED TO IN LINE FROM OUTPERFORM AT EVERCORE ISI</li><li>INCYTE (INCY) DOWNGRADED TO NEUTRAL FROM BUY AT GUGGENHEIM</li><li>INTERCEPT (ICPT) DOWNGRADED TO NEUTRAL FROM BUY AT CITI</li><li>INVESCO (IVZ) DOWNGRADED TO UNDERWEIGHT FROM EQUAL WEIGHT AT WELLS FARGO</li><li>JANUS HENDERSON GROUP (JHG) DOWNGRADED TO UNDERWEIGHT FROM EQUAL WEIGHT AT WELLS FARGO</li><li>LUMENTUM (LITE) DOWNGRADED TO BUY FROM STRONG BUY AT NEEDHAM</li><li>NOVOCURE (NVCR) DOWNGRADED TO IN LINE FROM OUTPERFORM AT EVERCORE ISI</li><li>ROSS STORES (ROST) DOWNGRADED TO EQUAL WEIGHT FROM OVERWEIGHT AT WELLS FARGO</li><li>SEATTLE GENETICS (SGEN) DOWNGRADED TO NEUTRAL FROM BUY AT GUGGENHEIM</li><li>SIGNET JEWELERS (SIG) DOWNGRADED TO UNDERWEIGHT FROM EQUAL WEIGHT AT WELLS FARGO</li><li>WELLS FARGO (WFC) DOWNGRADED TO UNDERPERFORM FROM NEUTRAL AT BAIRD</li></ul><p><strong>Initiation</strong></p><ul><li>JD.COM (JD) RATED NEW BUY AT CITIC SECURITIES; PT USD 43.30</li></ul><p><strong>Ex-Dividends</strong></p><ul><li>AAR Corp (AIR). Amount $0.07</li><li>American Eagle Outfitters Inc (AEO). Amount $0.13</li><li>American Express Co (AXP). Amount $0.43</li><li>Bristol-Myers Squibb Co (BMY). Amount $0.45</li><li>Cisco Systems Inc (CSCO). Amount $0.35</li><li>Cleveland-Cliffs Inc (CLF). Amount $0.06</li><li>Cousins Properties Inc (CUZ). Amount $0.29</li><li>Encore Wire Corp (WIRE). Amount $0.02</li><li>Globe Life Inc (GL). Amount $0.17</li><li>Helios Technologies Inc (HLIO). Amount $0.09</li><li>Keurig Dr Pepper Inc (KDP). Amount $0.15</li><li>Mack-Cali Realty Corp (CLI). Amount $0.20</li><li>Morningstar Inc (MORN). Amount $0.30</li><li>NetApp Inc (NTAP). Amount $0.48</li><li>Owens Corning (OC). Amount $0.24</li><li>Royal Gold Inc (RGLD). Amount $0.28</li><li>Safehold Inc (SAFE). Amount $0.15</li><li>Sysco Corp (SYY). Amount $0.45</li><li>Western Digital Corp (WDC). Amount $0.50</li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "newsquawk-daily-us-equity-opening-news-2nd-december-2020-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-02 21:58:00",
+        "gmt_time": "2020-01-02 13:58:00"
+    },
+    {
+        "id": 902299,
+        "updated_sequence": 2063287,
+        "published_at": {
+            "unix": 1577972760,
+            "text": "2020-01-02 13:46:00 +0000",
+            "iso_8601": "2020-01-02T13:46:00Z"
+        },
+        "updated_at": {
+            "unix": 1577972858,
+            "text": "2020-01-02 13:47:38 +0000",
+            "iso_8601": "2020-01-02T13:47:38Z"
+        },
+        "subject": "Fixed and FX latest: bonds continue to bounce alongside or in tandem with Buck",
+        "content": "<p>The debt revival has nudged Bunds and US Treasuries to marginal new intraday highs, while Gilts have retested their best print for the day so far recorded in very early Liffe trade, irrespective of stocks retaining a decent bid ahead of the Wall Street open. The 10 year German benchmark is edging closer to 171.00 and its US counterpart near 128-22, as the Dollar hovers just shy of fresh session highs with the DXY sitting just under 96.747 vs 96.422 at the other end of the spectrum. No real reaction to US jobless claims that essentially netted out with the back revision, but unwinding Xmas and New Year positions in still thin seasonal volumes at play awaiting Canadian and US Markit manufacturing PMIs.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "fixed-and-fx-latest-bonds-continue-to-bounce-alongside-or-in-tandem-with-buck-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-02 21:46:00",
+        "gmt_time": "2020-01-02 13:46:00"
+    },
+    {
+        "id": 902293,
+        "updated_sequence": 2063263,
+        "published_at": {
+            "unix": 1577968200,
+            "text": "2020-01-02 12:30:00 +0000",
+            "iso_8601": "2020-01-02T12:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1577969232,
+            "text": "2020-01-02 12:47:12 +0000",
+            "iso_8601": "2020-01-02T12:47:12Z"
+        },
+        "subject": "US Challenger Job Cuts (Dec): 32,843 (prev. 44,569)",
+        "content": "<ul><li>Employers announced plans to cut 592,556 jobs from their payrolls in 2019, 10% higher than the 538,695 cuts announced in 2018. It is the highest annual total since 2015, when 598,510 cuts were announced. 2019 was the fourth-highest year for job cut announcements this decade.</li><li>“Confidence was high heading into the last month of the year. With some resolutions occurring in the trade war and strong consumer spending in the fourth quarter, companies appear to be taking a wait-and-see approach as we head into 2020,” Challenger said</li><li>Via <a href=\"http://www.challengergray.com/press/press-releases/2019-year-end-job-cuts-report-fewest-monthly-cuts-july-2018-yoy-10\">Challenger, Gray &amp; Christmas</a></li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Challenger, Gray & Christmas",
+        "slug": "us-challenger-job-cuts-dec-32-843-prev-44-569-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 4,
+            "name": "US Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-02 20:30:00",
+        "gmt_time": "2020-01-02 12:30:00"
+    },
+    {
+        "id": 902292,
+        "updated_sequence": 2063255,
+        "published_at": {
+            "unix": 1577967780,
+            "text": "2020-01-02 12:23:00 +0000",
+            "iso_8601": "2020-01-02T12:23:00Z"
+        },
+        "updated_at": {
+            "unix": 1577967870,
+            "text": "2020-01-02 12:24:30 +0000",
+            "iso_8601": "2020-01-02T12:24:30Z"
+        },
+        "subject": "Tesla (TSLA) has had its PT raised to USD 515 from USD 375 at Canaccord Genuity",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Canaccord Genuity",
+        "slug": "tesla-tsla-has-had-its-pt-raised-to-usd-515-from-usd-375-at-canaccord-genuity-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-02 20:23:00",
+        "gmt_time": "2020-01-02 12:23:00"
+    },
+    {
+        "id": 902291,
+        "updated_sequence": 2063252,
+        "published_at": {
+            "unix": 1577967720,
+            "text": "2020-01-02 12:22:00 +0000",
+            "iso_8601": "2020-01-02T12:22:00Z"
+        },
+        "updated_at": {
+            "unix": 1577967869,
+            "text": "2020-01-02 12:24:29 +0000",
+            "iso_8601": "2020-01-02T12:24:29Z"
+        },
+        "subject": "Scotiabank FX Daily - USD Steadies After Late-December Sell-Off  ",
+        "content": "<ul><li>&nbsp; USD broadly firmer vs. G-10 but medium/longer run headwinds remain.</li><li>&nbsp; CAD holiday rally fizzles out; spreads and crude should help cushion losses.</li><li>&nbsp; EUR drifts lower as Eurozone PMIs fail to provide direction.</li><li>&nbsp; GBP slides as New Year focuses attention on old problems.</li><li>&nbsp; JPY little changed amid pro-risk (stock) market sentiment.</li><li>&nbsp; AUD slips back below 0.70 despite PBoC RRR cut.</li><li>&nbsp; MXN holds sub-19 strength ahead of PMI data and Banxico minutes.</li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "scotiabank",
+        "slug": "scotiabank-fx-daily-usd-steadies-after-late-december-sell-off-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 39,
+            "name": "Bank Research"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-02 20:22:00",
+        "gmt_time": "2020-01-02 12:22:00"
+    },
+    {
+        "id": 902290,
+        "updated_sequence": 2063249,
+        "published_at": {
+            "unix": 1577967000,
+            "text": "2020-01-02 12:10:00 +0000",
+            "iso_8601": "2020-01-02T12:10:00Z"
+        },
+        "updated_at": {
+            "unix": 1577967279,
+            "text": "2020-01-02 12:14:39 +0000",
+            "iso_8601": "2020-01-02T12:14:39Z"
+        },
+        "subject": "China’s cut of USD weighting in CFETS index will boost global fortunes of yuan, SCMP reports citing economists",
+        "content": "<ul><li>China using trade talks to keep relations with US from spinning out of control amid an increasingly hostile bilateral atmosphere, says Chen Deming</li><li>But Beijing still strongly opposes US legislation on Hong Kong and Xinjiang and will enact retaliatory measures, former Chinese Commerce Minister says</li><li>Via <a href=\"https://www.scmp.com/economy/china-economy/article/3042047/trade-war-china-using-talks-prevent-relations-us-spinning-out\">SCMP</a></li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "SCMP",
+        "slug": "china-s-cut-of-usd-weighting-in-cfets-index-will-boost-global-fortunes-of-yuan-scmp-reports-citing-economists-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-02 20:10:00",
+        "gmt_time": "2020-01-02 12:10:00"
+    },
+    {
+        "id": 902288,
+        "updated_sequence": 2063242,
+        "published_at": {
+            "unix": 1577964960,
+            "text": "2020-01-02 11:36:00 +0000",
+            "iso_8601": "2020-01-02T11:36:00Z"
+        },
+        "updated_at": {
+            "unix": 1577965003,
+            "text": "2020-01-02 11:36:43 +0000",
+            "iso_8601": "2020-01-02T11:36:43Z"
+        },
+        "subject": "Saudi Arabia sets February Arab light Crude oil OSP at: +USD 3.55/bbl vs. Prev. +USD 335/bbl to the US. -USD 4.05/bbl to North West Europe",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "saudi-arabia-sets-february-arab-light-crude-oil-osp-at-usd-3-55-bbl-vs-prev-usd-335-bbl-to-the-us-usd-4-05-bbl-to-north-west-europe-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 20,
+            "name": "Commodities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-02 19:36:00",
+        "gmt_time": "2020-01-02 11:36:00"
+    },
+    {
+        "id": 902286,
+        "updated_sequence": 2063236,
+        "published_at": {
+            "unix": 1577963880,
+            "text": "2020-01-02 11:18:00 +0000",
+            "iso_8601": "2020-01-02T11:18:00Z"
+        },
+        "updated_at": {
+            "unix": 1577963936,
+            "text": "2020-01-02 11:18:56 +0000",
+            "iso_8601": "2020-01-02T11:18:56Z"
+        },
+        "subject": "Newsquawk Daily US Opening News - 2nd January 2020",
+        "content": "<p>To download the report, please click <a href=\"/research_sheets/23542/download\">here</a> If you would like to subscribe to receive the research sheets directly in your inbox, you can now do so under the <a href=\"/research_sheets\">Research Suite</a> section of the portal. To subscribe simply check the box next to \"Email these reports\" under the desired category.&nbsp;</p><ul><li>European bourses are firmer this morning in relatively quiet newsflow for the European session</li><li>USD is firmer this morning, but the DXY remains well off pre-holiday levels after tumbling at year end</li><li>PBOC has cut the RRR for domestic banks by 50bps, the level for big banks now stands at 12.5%</li><li>US President Trump says the US-China trade deal will be signed on January 15th at the White House with high level Chinese Representatives</li><li>North Korean Leader Kim Jong Un has stated that North Korea is no longer bound by previous agreements to halt missile tests</li><li>Looking ahead, highlights include US Initial Jobless Claims, US and Canadian Manufacturing PMIs (Final<strong>)</strong></li></ul><p><strong>NOTABLE RECENT NEWSFLOW</strong></p><p><strong>PBOC has cut the RRR for domestic banks by 50bps, the level for big banks now stands at 12.5%</strong>; this was the 8th cut since early 2018. (Newswires)</p><p><strong>US President Trump says the US-China trade deal will be signed on January 15th at the White House with high level Chinese Representatives</strong>, additionally <strong>President Trump will at a later date visit Beijing for the Phase Two talks</strong>. <i>Note, China is yet to confirm the signing will take place on January 15th at the White House and today’s Mofcom press conference has been suspended; although the Ministry of Foreign Affairs will hold their regular briefing</i> (Newswires)</p><p><strong>US President Donald Trump may use a trip to China to try to nudge Beijing into committing to changes in its economic model</strong>, according to observers. (SCMP)</p><p>China Caixin Manufacturing PMI 51.5 vs. Exp. 51.6 (Prev. 51.8)</p><p>PBoC sets today’s Yuan Reference rate at 6.9614 (Prev. 6.9762): PBoC skipped reverse repos for the 8th consecutive session, leading to a net drain of CNY 400bln</p><p>China has reportedly suspended planned cross-border listings between Shanghai and London amid current political tensions. Subsequently, China's Foreign Ministry are not aware of any specifics relating to the cross-border stock suspension. (Newswires)</p><p>2020 has begun in Hong Kong with further protests with tear gas being released in certain areas. (Newsires)</p><p><strong>North Korean Leader Kim Jong Un has stated that North Korea is no longer bound by previous agreements to halt missile tests</strong>, due to recent US actions alongside their co-operation with South Korea; adding that <strong>a ‘new strategic weapon’ would be unveiled soon</strong>. (Newswires/KCNA)</p><p>UK Labour MP Keir Starmer has opened up a solid lead over his rivals in the race to succeed Jeremy Corbyn, according to the first poll of Labour members seen by Sky News. (Sky News)</p><p>Iraqi paramilitary groups who have been protesting against US air strikes in Iraq have called on supporters to withdraw from the perimeter of the US’ embassy in Baghdad. However, it is yet to be confirmed if crowds have begun dispersing. (Newswires)</p><p>French CGT union has called on additional strikes across the nation this month amid protests against President Macron’s pledges to push through an overhaul of the pension system. (Newswires)</p><p>Austrian’s Conservative Leader Kurz has announced a deal with the Green party to form a Government. <i>Note, full details of the coalition and their relevant plans are to be released on Thursday</i>. (Newswires/Independent)</p><p><strong>UK/EU</strong></p><p>EU Markit Manufacturing Final PMI (Dec) 46.3 vs. Exp. 45.9 (Prev. 45.9)</p><p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; German Markit/BME Manufacturing PMI (Dec) 43.7 vs. Exp. 43.4 (Prev. 43.4)</p><p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; French Markit Manufacturing PMI (Dec) 50.4 vs. Exp. 50.3 (Prev. 50.3)</p><p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Italian Markit/IHS Manufacturing PMI (Dec) 46.2 vs. Exp. 47.2 (Prev. 47.6)</p><p>UK Markit/CIPS Manufacturing PMI Final (Dec) 47.5 vs. Exp. 47.6 (Prev. 47.4)</p><p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Output, new orders and new export orders fall sharply, Job losses reported for ninth straight month</p><p>EQUITIES</p><p>APAC Closing Levels:</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ASX 200: +0.1%</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hang Seng: +1.3%</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Shanghai Composite: +1.2%</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Note, Japanese markets were closed</p><p>Major European bourses are firmer this morning, <strong>Euro Stoxx 50</strong> +1.0%, as more participants return from the Christmas period and after yesterday’s New Years Day close. Newsflow thus far for the session has been extremely light, with the main focus being on the PBoC cutting the RRR by 50bps which lent support to APAC equities overnight and continues to aid European peers and US futures; alongside the updates to the US-China trade deal signing schedule, though this is all largely as expected. Currently there is no clear under/out performer amongst European bourses, though the <strong>Dax</strong> did initially lag potentially as the bourse was closed on New Years Eve. Turning to sectors, the picture isn’t substantially different from the overall stock performance this morning with all sectors firmly in the green; banking sector mildly outperforms its peers, deriving support from the aforementioned PBoC action. It’s been a relatively quiet morning in terms of stock specific stories but Tullow Oil (-4.5%) are the laggard of the Stoxx 600 after reporting disappointing oil well data. Elsewhere, Osram Licht (U/C) shares are flat after AMS reported a final acceptance level of 59.9% for their takeover of Osram, which is below the final acceptance level of 75% which is necessary for a full takeover. At the other end of the Stoxx 600 spectrum things are a quieter, with stocks largely in-line with indices overall performance, whilst a number of banking names such as Deutsche Bank (+5.0%) reside towards the top of the Stoxx 600. Finally, 3 Axis Advisors states that GSK (+0.4%), Sanofi (1.0%) and <strong>Pfizer</strong> are to increase prices on over 200 drugs within the US.</p><p><strong>FX</strong></p><p>USD – The DXY appears to have drawn a line in the sand just off 5 month lows following a sharp slide between Xmas and New Year amidst widespread Greenback declines and positioning for the turn of the year/decade. The index is currently holding a fraction above 96.600 within a tight 96.422-678 range with some support for the Buck gleaned via higher US Treasury yields and a steeper curve on a continuation of improved risk sentiment due to the US and China reaching a Phase 1 trade accord, with added impetus coming via the latter announcing another RRR reduction to take effect from next Monday.</p><p>SEK/NOK - The Scandinavian Crowns have kicked off 2020 on the front foot, as Eur/Sek meanders between 10.5000-4500 or so parameters and Eur/Nok hovers within a circa 9.8550-8175 band in wake of a recovery in Sweden’s manufacturing PMI and acceleration in Norwegian activity from an already comfortable 50+ base.</p><p>CAD/EUR/JPY/CHF/AUD/GBP/NZD - The Loonie is holding up better than G10 rivals and has retained the bulk of its pre-year end gains vs the Usd after advancing through the key/psychological 1.3000 level, while the Euro is struggling to keep its head above 1.1200 even though Eurozone manufacturing PMIs beat consensus or flash prints, bar Italy. Elsewhere, the Yen and Franc have also succumbed to the broad, albeit partial Dollar bounce, and aforementioned ongoing risk-on environment, with Usd/Jpy edging up towards 108.90 and Usd/Chf pivoting 0.9700. However, the Aussie, Pound and Kiwi have all lost momentum and seem vulnerable to deeper pull-backs/retracement from recent peaks, as Aud/Usd loses grip of 0.7000, Cable creeps closer to 1.3200 again and Nzd/Usd hovers a fraction over 0.6700.</p><p>EM - With the exception of Turkey’s geopolitically impaired Lira, most regional currencies are revelling in the PBoC inspired enhanced appetite for risk, as the Yuans consolidate advances beyond 7.0000, Rouble eyes 61.5000 having breached 62.0000 and Rand maintains 14.0000+ status.</p><p><strong>FIXED INCOME</strong></p><p>It’s been a slow grind, but core EU bonds have embarked on more pronounced recovery rallies and relatively firm if not quite strong rebounds from am session/intraday lows, as the German 10 year debt future trades 40 ticks above the Eurex base and its UK peer pares losses to only 19 ticks from ¾ point at one stage. <strong>Bunds</strong> and<strong> Gilts</strong> have decoupled from any inverse correlation with stocks, and may have derived some traction after manufacturing PMIs revealed a degree of improvement, but no major upside surprises, while FX developments look supportive as the single currency loses 1.1200 vs the Greenback and Sterling retreats further towards 1.3200. Note also, chart proponents could have drawn encouragement from the fact that 170.00 and the 130.45 held, as <strong>US Treasuries</strong> hover just shy of overnight session highs, though still sub-parity ahead of weekly claims and the final Markit manufacturing PMI.</p><p><strong>COMMODITIES&nbsp;</strong></p><p>A similarly quiet session in terms of newsflow for the commodity complex, with <strong>WTI</strong> and <strong>Brent</strong> firmer by around USD 0.30/bbl; supported by the risk-on tone across markets this morning, particularly in European stocks. Focus for the complex remains on geopolitical issues, with an Iran-backed Iraqi militia leaving their encampment at the US embassy in Baghdad; though this de-escalation is not likely to be a supportive factor for crude. Looking ahead, due to the holiday period the week’s EIA data will be released tomorrow at 16:00GMT with expectations for another headline draw at 3.167mln barrels. Turning to metals, where <strong>spot gold</strong> is modestly firmer this morning with the yellow-metal comfortable well above the USD 1500/oz mark at USD 1521/oz at best for the session thus far, continuing to be bolstered by the significant downside in the DXY over the holiday period. Separately, China’s largest steel making city Tangshen has issued a level 2 out of 3 smog alert; for reference, this alert requires non-exempt companies to cut emissions and/or output until the alert is reduced.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "newsquawk-daily-us-opening-news-2nd-january-2020-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-02 19:18:00",
+        "gmt_time": "2020-01-02 11:18:00"
+    },
+    {
+        "id": 902285,
+        "updated_sequence": 2063233,
+        "published_at": {
+            "unix": 1577962980,
+            "text": "2020-01-02 11:03:00 +0000",
+            "iso_8601": "2020-01-02T11:03:00Z"
+        },
+        "updated_at": {
+            "unix": 1577963062,
+            "text": "2020-01-02 11:04:22 +0000",
+            "iso_8601": "2020-01-02T11:04:22Z"
+        },
+        "subject": "Newsquawk EU Mid Session: Stocks support shifts to a new decade as PBoC lends support - 2nd January 2020",
+        "content": "<p>To download the report, please click <a href=\"/research_sheets/23541/download\">here</a> If you would like to subscribe to receive the research sheets directly in your inbox, you can now do so under the <a href=\"/research_sheets\">Research Suite</a> section of the portal. To subscribe simply check the box next to \"Email these reports\" under the desired category.</p><p><strong>EQUITIES</strong></p><p>Major European bourses are firmer this morning, <strong>Euro Stoxx 50</strong> +1.0%, as more participants return from the Christmas period and after yesterday’s New Years Day close. Newsflow thus far for the session has been extremely light, with the main focus being on the PBoC cutting the RRR by 50bps which lent support to APAC equities overnight and continues to aid European peers and US futures; alongside the updates to the US-China trade deal signing schedule, though this is all largely as expected. Currently there is no clear under/out performer amongst European bourses, though the <strong>Dax</strong> did initially lag potentially as the bourse was closed on New Years Eve. Turning to sectors, the picture isn’t substantially different from the overall stock performance this morning with all sectors firmly in the green; banking sector mildly outperforms its peers, deriving support from the aforementioned PBoC action. It’s been a relatively quiet morning in terms of stock specific stories but Tullow Oil (-4.5%) are the laggard of the Stoxx 600 after reporting disappointing oil well data. Elsewhere, Osram Licht (U/C) shares are flat after AMS reported a final acceptance level of 59.9% for their takeover of Osram, which is below the final acceptance level of 75% which is necessary for a full takeover. At the other end of the Stoxx 600 spectrum things are a quieter, with stocks largely in-line with indices overall performance, whilst a number of banking names such as Deutsche Bank (+5.0%) reside towards the top of the Stoxx 600. Finally, 3 Axis Advisors states that GSK (+0.4%), Sanofi (1.0%) and Pfizer are to increase prices on over 200 drugs within the US.</p><p><strong>FX</strong></p><p>USD – The DXY appears to have drawn a line in the sand just off 5 month lows following a sharp slide between Xmas and New Year amidst widespread Greenback declines and positioning for the turn of the year/decade. The index is currently holding a fraction above 96.600 within a tight 96.422-678 range with some support for the Buck gleaned via higher US Treasury yields and a steeper curve on a continuation of improved risk sentiment due to the US and China reaching a Phase 1 trade accord, with added impetus coming via the latter announcing another RRR reduction to take effect from next Monday.</p><p>SEK/NOK - The Scandinavian Crowns have kicked off 2020 on the front foot, as Eur/Sek meanders between 10.5000-4500 or so parameters and Eur/Nok hovers within a circa 9.8550-8175 band in wake of a recovery in Sweden’s manufacturing PMI and acceleration in Norwegian activity from an already comfortable 50+ base.</p><p>CAD/EUR/JPY/CHF/AUD/GBP/NZD - The Loonie is holding up better than G10 rivals and has retained the bulk of its pre-year end gains vs the Usd after advancing through the key/psychological 1.3000 level, while the Euro is struggling to keep its head above 1.1200 even though Eurozone manufacturing PMIs beat consensus or flash prints, bar Italy. Elsewhere, the Yen and Franc have also succumbed to the broad, albeit partial Dollar bounce, and aforementioned ongoing risk-on environment, with Usd/Jpy edging up towards 108.90 and Usd/Chf pivoting 0.9700. However, the Aussie, Pound and Kiwi have all lost momentum and seem vulnerable to deeper pull-backs/retracement from recent peaks, as Aud/Usd loses grip of 0.7000, Cable creeps closer to 1.3200 again and Nzd/Usd hovers a fraction over 0.6700.</p><p>EM - With the exception of Turkey’s geopolitically impaired Lira, most regional currencies are revelling in the PBoC inspired enhanced appetite for risk, as the Yuans consolidate advances beyond 7.0000, Rouble eyes 61.5000 having breached 62.0000 and Rand maintains 14.0000+ status.</p><p><strong>FIXED INCOME</strong></p><p>It’s been a slow grind, but core EU bonds have embarked on more pronounced recovery rallies and relatively firm if not quite strong rebounds from am session/intraday lows, as the German 10 year debt future trades 40 ticks above the Eurex base and its UK peer pares losses to only 19 ticks from ¾ point at one stage. <strong>Bunds</strong> and<strong> Gilts</strong> have decoupled from any inverse correlation with stocks, and may have derived some traction after manufacturing PMIs revealed a degree of improvement, but no major upside surprises, while FX developments look supportive as the single currency loses 1.1200 vs the Greenback and Sterling retreats further towards 1.3200. Note also, chart proponents could have drawn encouragement from the fact that 170.00 and the 130.45 held, as <strong>US Treasuries</strong> hover just shy of overnight session highs, though still sub-parity ahead of weekly claims and the final Markit manufacturing PMI.</p><p><strong>COMMODITIES</strong></p><p>A similarly quiet session in terms of newsflow for the commodity complex, with <strong>WTI</strong> and <strong>Brent</strong> firmer by around USD 0.30/bbl; supported by the risk-on tone across markets this morning, particularly in European stocks. Focus for the complex remains on geopolitical issues, with an Iran-backed Iraqi militia leaving their encampment at the US embassy in Baghdad; though this de-escalation is not likely to be a supportive factor for crude. Looking ahead, due to the holiday period the week’s EIA data will be released tomorrow at 16:00GMT with expectations for another headline draw at 3.167mln barrels. Turning to metals, where <strong>spot gold</strong> is modestly firmer this morning with the yellow-metal comfortable well above the USD 1500/oz mark at USD 1521/oz at best for the session thus far, continuing to be bolstered by the significant downside in the DXY over the holiday period. Separately, China’s largest steel making city Tangshen has issued a level 2 out of 3 smog alert; for reference, this alert requires non-exempt companies to cut emissions and/or output until the alert is reduced.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "newsquawk-eu-mid-session-stocks-support-shifts-to-a-new-decade-as-pboc-lends-support-2nd-january-2020-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-02 19:03:00",
+        "gmt_time": "2020-01-02 11:03:00"
+    },
+    {
+        "id": 902284,
+        "updated_sequence": 2063230,
+        "published_at": {
+            "unix": 1577962440,
+            "text": "2020-01-02 10:54:00 +0000",
+            "iso_8601": "2020-01-02T10:54:00Z"
+        },
+        "updated_at": {
+            "unix": 1577962525,
+            "text": "2020-01-02 10:55:25 +0000",
+            "iso_8601": "2020-01-02T10:55:25Z"
+        },
+        "subject": "Fixed Income: Bunds back above parity, Gilts reclaim 131.00 handle",
+        "content": "<p>It’s been a slow grind, but core EU bonds have embarked on more pronounced recovery rallies and relatively firm if not quite strong rebounds from am session/intraday lows, as the German 10 year debt future trades 40 ticks above the Eurex base and its UK peer pares losses to only 19 ticks from ¾ point at one stage. Bunds and Gilts have decoupled from any inverse correlation with stocks, and may have derived some traction after manufacturing PMIs revealed a degree of improvement, but no major upside surprises, while FX developments look supportive as the single currency loses 1.1200 vs the Greenback and Sterling retreats further towards 1.3200. Note also, chart proponents could have drawn encouragement from the fact that 170.00 and the 130.45 held, as US Treasuries hover just shy of overnight session highs, though still sub-parity ahead of weekly claims and the final Markit manufacturing PMI.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "fixed-income-bunds-back-above-parity-gilts-reclaim-131-00-handle-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-02 18:54:00",
+        "gmt_time": "2020-01-02 10:54:00"
+    },
+    {
+        "id": 902283,
+        "updated_sequence": 2063227,
+        "published_at": {
+            "unix": 1577961000,
+            "text": "2020-01-02 10:30:00 +0000",
+            "iso_8601": "2020-01-02T10:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1577961233,
+            "text": "2020-01-02 10:33:53 +0000",
+            "iso_8601": "2020-01-02T10:33:53Z"
+        },
+        "subject": "FX Morning Colour: Dollar totters into 2020 after year end tumble",
+        "content": "<p><strong>USD</strong></p><p>The <strong>DXY </strong>appears to have drawn a line in the sand just off 5 month lows following a sharp slide between Xmas and New Year amidst widespread Greenback declines and positioning for the turn of the year/decade. The index is currently holding a fraction above 96.600 within a tight 96.422-678 range with some support for the Buck gleaned via higher US Treasury yields and a steeper curve on a continuation of improved risk sentiment due to the US and China reaching a Phase 1 trade accord, with added impetus coming via the latter announcing another RRR reduction to take effect from next Monday.</p><p><strong>SEK/NOK</strong></p><p>The Scandinavian Crowns have kicked off 2020 on the front foot, as Eur/Sek meanders between 10.5000-4500 or so parameters and Eur/Nok hovers within a circa 9.8550-8175 band in wake of a recovery in Sweden’s manufacturing PMI and acceleration in Norwegian activity from an already comfortable 50+ base.</p><p><strong>CAD/EUR/JPY/CHF/AUD/GBP/NZD</strong></p><p>The Loonie is holding up better than G10 rivals and has retained the bulk of its pre-year end gains vs the Usd after advancing through the key/psychological 1.3000 level, while the Euro is struggling to keep its head above 1.1200 even though Eurozone manufacturing PMIs beat consensus or flash prints, bar Italy. Elsewhere, the Yen and Franc have also succumbed to the broad, albeit partial Dollar bounce, and aforementioned ongoing risk-on environment, with Usd/Jpy edging up towards 108.90 and Usd/Chf pivoting 0.9700. However, the Aussie, Pound and Kiwi have all lost momentum and seem vulnerable to deeper pull-backs/retracement from recent peaks, as Aud/Usd loses grip of 0.7000, Cable creeps closer to 1.3200 again and Nzd/Usd hovers a fraction over 0.6700.</p><p><strong>EM</strong></p><p>With the exception of Turkey’s geopolitically impaired Lira, most regional currencies are revelling in the PBoC inspired enhanced appetite for risk, as the Yuans consolidate advances beyond 7.0000, Rouble eyes 61.5000 having breached 62.0000 and Rand maintains 14.0000+ status.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "fx-morning-colour-dollar-totters-into-2020-after-year-end-tumble-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-02 18:30:00",
+        "gmt_time": "2020-01-02 10:30:00"
+    },
+    {
+        "id": 902281,
+        "updated_sequence": 2063213,
+        "published_at": {
+            "unix": 1577957520,
+            "text": "2020-01-02 09:32:00 +0000",
+            "iso_8601": "2020-01-02T09:32:00Z"
+        },
+        "updated_at": {
+            "unix": 1577958928,
+            "text": "2020-01-02 09:55:28 +0000",
+            "iso_8601": "2020-01-02T09:55:28Z"
+        },
+        "subject": "BOE CFO survey shows Brexit uncertainty falling slightly in December, according to BoE Decision Maker Panel data",
+        "content": "<ul><li>53% of firms reported that Brexit was one a top three source of uncertainty in December, slightly lower vs the three-month average</li><li>The date at which businesses expected Brexit-related uncertainty to be resolved was also pushed further into the future, continuing the recent trend; 42% thought that it would not be resolved until at least 2021 (prev. 34% in November); fewer respondents expecting uncertainty to be resolved in 2020.</li><li>Full release <a href=\"https://www.bankofengland.co.uk/decision-maker-panel/2019/december-2019\">here</a></li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>Note, the results of the UK General Election were announced while the December survey was in the field.</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1577958840,
+            "text": "2020-01-02 09:54:00 +0000",
+            "iso_8601": "2020-01-02T09:54:00Z"
+        },
+        "push_notify": false,
+        "source": "BoE",
+        "slug": "boe-cfo-survey-shows-brexit-uncertainty-falling-slightly-in-december-according-to-boe-decision-maker-panel-data-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 16,
+            "name": "BoE"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-02 17:32:00",
+        "gmt_time": "2020-01-02 09:32:00"
+    },
+    {
+        "id": 902279,
+        "updated_sequence": 2063185,
+        "published_at": {
+            "unix": 1577955840,
+            "text": "2020-01-02 09:04:00 +0000",
+            "iso_8601": "2020-01-02T09:04:00Z"
+        },
+        "updated_at": {
+            "unix": 1577955949,
+            "text": "2020-01-02 09:05:49 +0000",
+            "iso_8601": "2020-01-02T09:05:49Z"
+        },
+        "subject": "Volkswagen (VOW3 GY) are to enter into discussions with the German Consumer Organisation over a potential settlement in the diesel case; says there is no guarantee of a settlement ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "volkswagen-vow3-gy-are-to-enter-into-discussions-with-the-german-consumer-organisation-over-a-potential-settlement-in-the-diesel-case-says-there-is-no-guarantee-of-a-settlement-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 1,
+            "name": "DAX"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-02 17:04:00",
+        "gmt_time": "2020-01-02 09:04:00"
+    },
+    {
+        "id": 902252,
+        "updated_sequence": 2063292,
+        "published_at": {
+            "unix": 1577955600,
+            "text": "2020-01-02 09:00:00 +0000",
+            "iso_8601": "2020-01-02T09:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1577975376,
+            "text": "2020-01-02 14:29:36 +0000",
+            "iso_8601": "2020-01-02T14:29:36Z"
+        },
+        "subject": "ASIA-PAC SERVICE HAS NOW FINISHED, PLEASE REVERT BACK TO YOUR ORIGINAL CHANNEL FOR COVERAGE ON THE UK & EUROPEAN SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-has-now-finished-please-revert-back-to-your-original-channel-for-coverage-on-the-uk-european-session-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-02 17:00:00",
+        "gmt_time": "2020-01-02 09:00:00"
+    },
+    {
+        "id": 902273,
+        "updated_sequence": 2063163,
+        "published_at": {
+            "unix": 1577954280,
+            "text": "2020-01-02 08:38:00 +0000",
+            "iso_8601": "2020-01-02T08:38:00Z"
+        },
+        "updated_at": {
+            "unix": 1577954356,
+            "text": "2020-01-02 08:39:16 +0000",
+            "iso_8601": "2020-01-02T08:39:16Z"
+        },
+        "subject": "UK debt and STIR futures rattled on return from NY recess",
+        "content": "<p>Gilts have recoiled sharply from 2019 closing levels following a fleeting bounce from initial Liffe lows to post a marginally deeper base vs that seen on December 30, though still some distance from the contract nadir, with the Short Sterling strip also reversing amidst broadly risk on trade/sentiment, prompted by US-China Phase 1 and perpetuated by the latter’s latest RRR reduction. The 10 year bond is hovering nearer the bottom end of a 130.63-88 band compared to Tuesday’s 131.38 settlement and 3 month futures are 1-3 ticks adrift awaiting the final UK manufacturing PMI for December that is expected to be upgraded fractionally, but remain below the key 50 mark.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "uk-debt-and-stir-futures-rattled-on-return-from-ny-recess-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-02 16:38:00",
+        "gmt_time": "2020-01-02 08:38:00"
+    },
+    {
+        "id": 902268,
+        "updated_sequence": 2063148,
+        "published_at": {
+            "unix": 1577953020,
+            "text": "2020-01-02 08:17:00 +0000",
+            "iso_8601": "2020-01-02T08:17:00Z"
+        },
+        "updated_at": {
+            "unix": 1577953089,
+            "text": "2020-01-02 08:18:09 +0000",
+            "iso_8601": "2020-01-02T08:18:09Z"
+        },
+        "subject": "Bunds: back under pressure after corrective/technical rebound",
+        "content": "<p>The 10 year German benchmark has failed to sustain a consolidative recovery that faded just above a chart gap and short of resistance between 170.86-90, as intraday longs and spec buyers bail on a break of the pre-year end contract low to breach support seen at 170.36 and expose the next downside target at 170.18. Bunds are now holding just above the base of a 170.81-19 range as EU cash bourses resume on the front foot, albeit relatively mildly given a much more enthusiastic reaction across Asia-Pacific indices to China’s RRR cut, and attention turns to the Eurozone manufacturing PMIs.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "bunds-back-under-pressure-after-corrective-technical-rebound-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-02 16:17:00",
+        "gmt_time": "2020-01-02 08:17:00"
+    },
+    {
+        "id": 902264,
+        "updated_sequence": 2063136,
+        "published_at": {
+            "unix": 1577951040,
+            "text": "2020-01-02 07:44:00 +0000",
+            "iso_8601": "2020-01-02T07:44:00Z"
+        },
+        "updated_at": {
+            "unix": 1577951156,
+            "text": "2020-01-02 07:45:56 +0000",
+            "iso_8601": "2020-01-02T07:45:56Z"
+        },
+        "subject": "Iraq's December total oil exports: 3.428mln BPD., according to a Oil Ministry spokesman",
+        "content": "<ul><li>Southern terminals, 3.326mln BPD</li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "iraq-s-december-total-oil-exports-3-428mln-bpd-according-to-a-oil-ministry-spokesman-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 20,
+            "name": "Commodities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-02 15:44:00",
+        "gmt_time": "2020-01-02 07:44:00"
+    },
+    {
+        "id": 902261,
+        "updated_sequence": 2063124,
+        "published_at": {
+            "unix": 1577950020,
+            "text": "2020-01-02 07:27:00 +0000",
+            "iso_8601": "2020-01-02T07:27:00Z"
+        },
+        "updated_at": {
+            "unix": 1577950104,
+            "text": "2020-01-02 07:28:24 +0000",
+            "iso_8601": "2020-01-02T07:28:24Z"
+        },
+        "subject": "China's Foreign Ministry are not aware of any specifics relating to the cross-border stock suspension",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<p>Follows on from reports that China has suspended planned cross-border listings between Shanghai and London amid current political tensions. (Newswires)</p>",
+        "analysis_updated_at": {
+            "unix": 1577950104,
+            "text": "2020-01-02 07:28:24 +0000",
+            "iso_8601": "2020-01-02T07:28:24Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "china-s-foreign-ministry-are-not-aware-of-any-specifics-relating-to-the-cross-border-stock-suspension-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-02 15:27:00",
+        "gmt_time": "2020-01-02 07:27:00"
+    },
+    {
+        "id": 902260,
+        "updated_sequence": 2063129,
+        "published_at": {
+            "unix": 1577948700,
+            "text": "2020-01-02 07:05:00 +0000",
+            "iso_8601": "2020-01-02T07:05:00Z"
+        },
+        "updated_at": {
+            "unix": 1577950514,
+            "text": "2020-01-02 07:35:14 +0000",
+            "iso_8601": "2020-01-02T07:35:14Z"
+        },
+        "subject": "Additional European Equities post release of the Daily European Equity Opening News",
+        "content": "<p><strong>1&amp;1 Drillisch (DRI GY) – </strong>Co. has utilised an option to extend their network access deal with <strong>Telefonica Deutschland (02D GY</strong>) by a period of 5-years. (Newswires)</p><p><strong>Ahold Delhaize (AD NA) – </strong>Co. have commenced their previously announced EUR 1bln share buyback programme. (Newswires)</p><p><strong>Atlantia (ATL IM) – </strong>Italy’s 5-Star Leader Di Maio stated that the process has begun via a decree issued on December 31st which will allow the Italian Government to remove the Co’s motorway concession. (Newswires)</p><p><strong>Ferrexpo (FXPO LN) – </strong>Co. announces a special interim dividend of USD 0.066. (Newswires)</p><p><strong>French Co’s – </strong>French CGT union has called on additional strikes across the nation this month amid protests against President Macron’s pledges to push through an overhaul of the pension system. (Newswires)</p><p><strong>GSK (GSK LN) – </strong>Co., as well as <strong>Sanofi (SAN FP) </strong>and <strong>Pfizer (PFE)</strong> are intending to increase prices on over 200 drugs in the US., according to data analysed by 3 Axis Advisors. (Newswires)</p><p><strong>Lloyds (LLOY LN) – </strong>Co’s online services experienced an outage on Wednesday. (Newswires)</p><p><strong>Osram Licht (OSR GY) – AMS (AMS SW)</strong> has achieved a final acceptance level of 59.9% for their takeover of the Co., offer is expected to close in Q2 2020. <i>Note, AMS required approval from 75% of Osram Lichts investors to undertake a full takeover. </i>(Newswires)</p><p><strong>Tullow Oil (TLW LN) – </strong>Co’s Capra-1 oil well has discovered approx. 4-metres of net-oil pay. (Newswires)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "additional-european-equities-post-release-of-the-daily-european-equity-opening-news-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 33,
+            "name": "European Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-02 15:05:00",
+        "gmt_time": "2020-01-02 07:05:00"
+    },
+    {
+        "id": 902258,
+        "updated_sequence": 2063103,
+        "published_at": {
+            "unix": 1577948100,
+            "text": "2020-01-02 06:55:00 +0000",
+            "iso_8601": "2020-01-02T06:55:00Z"
+        },
+        "updated_at": {
+            "unix": 1577948220,
+            "text": "2020-01-02 06:57:00 +0000",
+            "iso_8601": "2020-01-02T06:57:00Z"
+        },
+        "subject": "Daily European Equity Opening News",
+        "content": "<p><strong>**EUROPEAN EQUITY COVERAGE WILL ONLY COVER COMPANIES IN THE STOXX 600 OR COMPANIES OF SYSTEMIC IMPORTANCE TO PARTICULAR SECTORS**</strong></p><p>2nd January 2020</p><p>The Daily European Equity Opening News is uploaded at 0700GMT/0100CST recapping all of the &nbsp;&nbsp;overnight equity news</p><p><strong>From 0700GMT/0100CST all equity news will be covered in real time over the audio and headline feed and the full audio rundown will be at 0715GMT/0115CST.</strong></p><p><strong>There will be an additional audio rundown at 0750GMT/0150CST recapping any company news which has hit the wires since 0715GMT/0115CST ahead of the European equity open</strong></p><p>FTSE 100</p><p>OTHER UK COMPANIES</p><p>BROKER MOVES</p><p>DAX</p><p><strong>E.ON (EOAN GY) – </strong>Co. is to cut 500/600 of its 9000 UK staff, and a restructuring of their Npower unit is required., according to Rheinische Post citing Co’s CEO. (Newswires)</p><p><strong>Deutsche Lufthansa (LHA GY) -</strong> A union for cabin crew at Germanwings is suspending their three-day strike. (Newswires)</p><p><strong>Henkel (HEN3 GY) – </strong>Co’s consumer product group will not be conducting a cost-cutting scheme, according to board member Nicol; instead are to invest further in marketing and digital transformation., according to Handelsblatt. (Newswires)</p><p>OTHER GERMAN COMPANIES</p><p>BROKER MOVES</p><p>CAC</p><p><strong>Airbus (AIR FP) – </strong>Co. delivered 863 aircraft in 2019 vs. Prev. 800; +7.9% YY., according to sources. (Newswires)</p><p>OTHER FRENCH COMPANIES</p><p>BROKER MOVES</p><p>PAN EUROPE</p><p><strong>Tobacco Names – </strong>US FDA is reportedly to ban the sale of mint, fruit and dessert flavoured e-cigarettes, menthol and tobacco flavours will not be affected. (WSJ/New York Times)</p><p>BROKER MOVES</p><p><strong>SIGNIFY (LIGHT NA)</strong> REITERATED UNDERWEIGHT AT JP MORGAN CHASE</p><p>SMI</p><p>OTHER SWISS COMPANIES</p><p>BROKER MOVES</p><p>SCANDINAVIA</p><p>BROKER MOVES</p><p>US</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "daily-european-equity-opening-news-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 33,
+            "name": "European Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-02 14:55:00",
+        "gmt_time": "2020-01-02 06:55:00"
+    },
+    {
+        "id": 902257,
+        "updated_sequence": 2063100,
+        "published_at": {
+            "unix": 1577947980,
+            "text": "2020-01-02 06:53:00 +0000",
+            "iso_8601": "2020-01-02T06:53:00Z"
+        },
+        "updated_at": {
+            "unix": 1577948103,
+            "text": "2020-01-02 06:55:03 +0000",
+            "iso_8601": "2020-01-02T06:55:03Z"
+        },
+        "subject": "Larger FX option expiries for today's NY cut",
+        "content": "<p>EUR/USD: 1.1100-15 (2.1BLN), 1.1200 (280M), 1.1215-20 (300M)</p><p>USD/CHF: 0.9815 (200M)</p><p>USD/JPY 109.25-30 (275M)&nbsp;</p><p>GBP/USD: 1.3190 (207M), 1.3200 (572M)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "dtcc",
+        "slug": "larger-fx-option-expiries-for-today-s-ny-cut-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 22,
+            "name": "FX Flows"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-02 14:53:00",
+        "gmt_time": "2020-01-02 06:53:00"
+    },
+    {
+        "id": 902256,
+        "updated_sequence": 2063097,
+        "published_at": {
+            "unix": 1577946660,
+            "text": "2020-01-02 06:31:00 +0000",
+            "iso_8601": "2020-01-02T06:31:00Z"
+        },
+        "updated_at": {
+            "unix": 1577946740,
+            "text": "2020-01-02 06:32:20 +0000",
+            "iso_8601": "2020-01-02T06:32:20Z"
+        },
+        "subject": "NEWS STORIES OF NOTE ",
+        "content": "<p>PBOC has cut the RRR for domestic banks by 50bps, the level for big banks now stands at 12.5%; this was the 8th cut since early 2018. (Newswires)&nbsp;</p><p>US President Trump says the US-China trade deal will be signed on January 15th at the White House with high level Chinese Representatives, additionally President Trump will at a later date visit Beijing for the Phase Two talks. Note, China is yet to confirm the signing will take place on January 15th at the White House and today’s Mofcom press conference has been suspended; although the Ministry of Foreign Affairs will hold their regular briefing (Newswires)</p><p>US President Donald Trump may use a trip to China to try to nudge Beijing into committing to changes in its economic model, according to observers. (SCMP)</p><p>China Caixin Manufacturing PMI 51.5 vs. Exp. 51.6 (Prev. 51.8)</p><p>PBoC sets today’s Yuan Reference rate at 6.9614 (Prev. 6.9762)</p><p>PBoC skipped reverse repos for the 8th consecutive session, leading to a net drain of CNY 400bln</p><p>China has reportedly suspended planned cross-border listings between Shanghai and London amid current political tensions. (Newswires)</p><p>2020 has begun in Hong Kong with further protests with tear gas being released in certain areas. (Newsires)</p><p>North Korean Leader Kim Jong Un has stated that North Korea is no longer bound by previous agreements to halt missile tests, due to recent US actions alongside their co-operation with South Korea; adding that a ‘new strategic weapon’ would be unveiled soon. (Newswires/KCNA)</p><p>UK Labour MP Keir Starmer has opened up a solid lead over his rivals in the race to succeed Jeremy Corbyn, according to the first poll of Labour members seen by Sky News. (Sky News)</p><p>Iraqi paramilitary groups who have been protesting against US air strikes in Iraq have called on supporters to withdraw from the perimeter of the US’ embassy in Baghdad. However, it is yet to be confirmed if crowds have begun dispersing. (Newswires)</p><p>French CGT union has called on additional strikes across the nation this month amid protests against President Macron’s pledges to push through an overhaul of the pension system. (Newswires)</p><p>Austrian’s Conservative Leader Kurz has announced a deal with the Green party to form a Government. Note, full details of the coalition and their relevant plans are to be released on Thursday. (Newswires/Independent)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "news-stories-of-note-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-02 14:31:00",
+        "gmt_time": "2020-01-02 06:31:00"
+    },
+    {
+        "id": 902255,
+        "updated_sequence": 2063094,
+        "published_at": {
+            "unix": 1577946600,
+            "text": "2020-01-02 06:30:00 +0000",
+            "iso_8601": "2020-01-02T06:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1577946661,
+            "text": "2020-01-02 06:31:01 +0000",
+            "iso_8601": "2020-01-02T06:31:01Z"
+        },
+        "subject": " THE SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "the-service-is-now-live-for-today-s-session-02-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-02 14:30:00",
+        "gmt_time": "2020-01-02 06:30:00"
+    }
+]

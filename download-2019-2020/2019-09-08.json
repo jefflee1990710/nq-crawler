@@ -1,0 +1,376 @@
+[
+    {
+        "id": 885735,
+        "updated_sequence": 1923931,
+        "published_at": {
+            "unix": 1567986600,
+            "text": "2019-09-09 00:50:00 +0100",
+            "iso_8601": "2019-09-08T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1567986771,
+            "text": "2019-09-09 00:52:51 +0100",
+            "iso_8601": "2019-09-08T23:52:51Z"
+        },
+        "subject": "Japanese Bank Lending Ex. Trusts (Aug) Y/Y 2.2% (Prev. 2.5%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-bank-lending-ex-trusts-aug-y-y-2-2-prev-2-5-08-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-09 07:50:00",
+        "gmt_time": "2019-09-08 23:50:00"
+    },
+    {
+        "id": 885738,
+        "updated_sequence": 1923940,
+        "published_at": {
+            "unix": 1567986600,
+            "text": "2019-09-09 00:50:00 +0100",
+            "iso_8601": "2019-09-08T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1567986949,
+            "text": "2019-09-09 00:55:49 +0100",
+            "iso_8601": "2019-09-08T23:55:49Z"
+        },
+        "subject": "Japanese GDP Price Index (Q2 F) Y/Y 0.4% vs. Exp. 0.4% (Prev. 0.1%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-gdp-price-index-q2-f-y-y-0-4-vs-exp-0-4-prev-0-1-08-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-09 07:50:00",
+        "gmt_time": "2019-09-08 23:50:00"
+    },
+    {
+        "id": 885737,
+        "updated_sequence": 1923937,
+        "published_at": {
+            "unix": 1567986600,
+            "text": "2019-09-09 00:50:00 +0100",
+            "iso_8601": "2019-09-08T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1567986941,
+            "text": "2019-09-09 00:55:41 +0100",
+            "iso_8601": "2019-09-08T23:55:41Z"
+        },
+        "subject": "Japanese Trade Balance BoP Basis (JPY)(Jul) -74.5B vs. Exp. -31.0B (Prev. 759.3B)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-trade-balance-bop-basis-jpy-jul-74-5b-vs-exp-31-0b-prev-759-3b-08-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-09 07:50:00",
+        "gmt_time": "2019-09-08 23:50:00"
+    },
+    {
+        "id": 885736,
+        "updated_sequence": 1923934,
+        "published_at": {
+            "unix": 1567986600,
+            "text": "2019-09-09 00:50:00 +0100",
+            "iso_8601": "2019-09-08T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1567986835,
+            "text": "2019-09-09 00:53:55 +0100",
+            "iso_8601": "2019-09-08T23:53:55Z"
+        },
+        "subject": "Japanese BoP Adjusted Account Balance (JPY)(Jul) 1.65T vs. Exp. 1.70T (Prev. 1.94T)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-bop-adjusted-account-balance-jpy-jul-1-65t-vs-exp-1-70t-prev-1-94t-08-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-09 07:50:00",
+        "gmt_time": "2019-09-08 23:50:00"
+    },
+    {
+        "id": 885727,
+        "updated_sequence": 1923907,
+        "published_at": {
+            "unix": 1567985640,
+            "text": "2019-09-09 00:34:00 +0100",
+            "iso_8601": "2019-09-08T23:34:00Z"
+        },
+        "updated_at": {
+            "unix": 1567985709,
+            "text": "2019-09-09 00:35:09 +0100",
+            "iso_8601": "2019-09-08T23:35:09Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIA, JAPANESE AND SOUTH KOREAN STOCK NEWS: Nissan (7201 JT) board will meet today to begin drawing up candidate list to replace CEO Saikawa",
+        "content": "<p>AUSTRALIA</p><p>Coca-Cola Amatil (CCL AT) - Co. is to further integrate beverage categories across each country of operation and targets a return to mid-single digit EPS growth beginning next year. (Newswires)</p><p>Nine Entertainment (NEC AT) - Co. CEO sells 700k shares in the Co. (Newswires)</p><p>Retail Food Group (RFG AT) - Reports note some speculation Soliton Capital may not proceed with AUD 160mln recapitalization after it conducts due diligence. (Newswires)</p><p>Suncorp (SUN AT) - Co. appoints Steve Johnston as CEO with immediate effect. (Newswires)</p><p>&nbsp;</p><p>JAPAN</p><p>ANA Holdings (9202 JT) - Co. cancelled 41 domestic flights due to typhoon. (Newswires)</p><p>Japan Airlines (9201 JT) - Co. cancelled 49 domestic flights due to typhoon. (Newswires)</p><p>Nissan (7201 JT) - Co. board will meet today to begin drawing up candidate list to replace CEO Saikawa, while it was also reported that the Co. is mulling exiting South Korea amid trade tensions. (Newswires)</p><p>&nbsp;</p><p>SOUTH KOREA</p><p>LG Electronics (066570 KS) - Co. President said they are raising investment to expand businesses in the built-in home appliance market. (Newswires)</p><p>Samsung Electronics (005930 KS) - Co. TV unit head expects to sell more than 5mln QLED TVs this year, while Co. will also collaborate with SK Telecom (017670 KS) on 5G-based 8K TVs. (Newswires/Yonhap)</p><p>Geopolitics - US Special Rep. for North Korea Biegun said the US is ready to engage with North Korea if they reach out. (Newswires)</p><p>Other News - South Korea Agriculture Minister Kim said South Korea has no plans to give up its developing nation status, especially to protect its sensitive agriculture industry. (Newswires)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-australia-japanese-and-south-korean-stock-news-nissan-7201-jt-board-will-meet-today-to-begin-drawing-up-candidate-list-to-replace-ceo-saikawa-08-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-09 07:34:00",
+        "gmt_time": "2019-09-08 23:34:00"
+    },
+    {
+        "id": 885726,
+        "updated_sequence": 1923904,
+        "published_at": {
+            "unix": 1567983660,
+            "text": "2019-09-09 00:01:00 +0100",
+            "iso_8601": "2019-09-08T23:01:00Z"
+        },
+        "updated_at": {
+            "unix": 1567983713,
+            "text": "2019-09-09 00:01:53 +0100",
+            "iso_8601": "2019-09-08T23:01:53Z"
+        },
+        "subject": "Reports note attacks on Iran-backed militia bases in eastern Syria",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "reports-note-attacks-on-iran-backed-militia-bases-in-eastern-syria-08-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 23,
+            "name": "Geopolitical"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-09 07:01:00",
+        "gmt_time": "2019-09-08 23:01:00"
+    },
+    {
+        "id": 885725,
+        "updated_sequence": 1923901,
+        "published_at": {
+            "unix": 1567982700,
+            "text": "2019-09-08 23:45:00 +0100",
+            "iso_8601": "2019-09-08T22:45:00Z"
+        },
+        "updated_at": {
+            "unix": 1567982740,
+            "text": "2019-09-08 23:45:40 +0100",
+            "iso_8601": "2019-09-08T22:45:40Z"
+        },
+        "subject": "New Zealand Manufacturing Sales Activity (Q2) Q/Q -0.7% (Prev. 1.0%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "new-zealand-manufacturing-sales-activity-q2-q-q-0-7-prev-1-0-08-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-09 06:45:00",
+        "gmt_time": "2019-09-08 22:45:00"
+    },
+    {
+        "id": 885723,
+        "updated_sequence": 1923893,
+        "published_at": {
+            "unix": 1567980840,
+            "text": "2019-09-08 23:14:00 +0100",
+            "iso_8601": "2019-09-08T22:14:00Z"
+        },
+        "updated_at": {
+            "unix": 1567980920,
+            "text": "2019-09-08 23:15:20 +0100",
+            "iso_8601": "2019-09-08T22:15:20Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASES CALENDAR NOW AVAILABLE IN THE RESEARCH SECTION: Highlights include Australia Home Loans, New Zealand Manufacturing Activity and Japanese Final Q2 GDP",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asian-daily-economic-releases-calendar-now-available-in-the-research-section-highlights-include-australia-home-loans-new-zealand-manufacturing-activity-and-japanese-final-q2-gdp-08-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-09 06:14:00",
+        "gmt_time": "2019-09-08 22:14:00"
+    },
+    {
+        "id": 885722,
+        "updated_sequence": 1923895,
+        "published_at": {
+            "unix": 1567979760,
+            "text": "2019-09-08 22:56:00 +0100",
+            "iso_8601": "2019-09-08T21:56:00Z"
+        },
+        "updated_at": {
+            "unix": 1567982156,
+            "text": "2019-09-08 23:35:56 +0100",
+            "iso_8601": "2019-09-08T22:35:56Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p><strong>ASIA-PAC</strong></p><p>PBoC announced to cut its RRR by 50bps to 13.00% effective September 16 and will further cut RRR by 100bps for some qualified banks (in two phases of 50bps each on Oct. 15 and Nov. 15) to release CNY 900bln in liquidity. PBoC also noted that the RRR cuts will lower cost burden on banks by CNY 15bln annually but reiterated that no flood-like stimulus will be implemented and that it will step up counter-cyclical adjustments, as well as keep liquidity reasonably ample. (Newswires)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p><p>US President Trump tweeted that China is eating the tariffs and that billions are pouring into US, while he suggested China is having its worst year in decades but that talks are happening which is good for all. (Twitter)</p><p>NEC Director Kudlow said the precise dates for the October US-China talks are yet to be set and that there are no conditions for the October talks. Kudlow also stated that the phone call last week went very well, that negotiations are proceeding and that tempers are calmer now but noted he cannot predict an outcome for the talks and emphasised that China must not be allowed to steal US intellectual property. (Newswires)</p><p>China reportedly proposed in last week’s phone call to buy a modest amount of US agricultural goods, which is thought to be contingent on US relaxing restrictions on Huawei and delaying October 1st tariffs. (Newswires)</p><p>Heavy protests continued over the weekend in Hong Kong where police used tear gas to keep protesters from blocking the airport. (Newswires)</p><ul><li>Chinese Trade Balance (USD)(Aug) 34.84B vs. Exp. 43.0B (Prev. 45.06B, Rev. 44.61B). (Newswires)</li><li>Chinese Exports (USD)(Aug) Y/Y -1.0% vs. Exp. 2.0% (Prev. 3.3%)</li><li>Chinese Imports (USD)(Aug) Y/Y -5.6% vs. Exp. -6.0% (Prev. -5.6%, Rev. -5.3%)</li><li>Chinese FX Reserves (Aug) 3.107tln vs. Exp. 3.100tln (Prev. 3.104tln)&nbsp;</li></ul><p>&nbsp;</p><p><strong>UK/EU</strong></p><p>UK PM Johnson said UK will get a deal on October 17th-18th and come out of the EU and that he will try reach out to the 21 expelled Tory members to try build bridges. In other news, UK PM Johnson was reported to draw up a plan to legally sabotage Brexit extension if MPs vote against holding a general election. (Newswires/Telegraph)</p><p>UK opposition lawmakers are to request emergency debate on Monday to try force government to publish a no-deal planning document and emergency debate regarding PM Johnson adhering to law on Brexit delay. In other reports, Brexit rebels will vote against or abstain from voting for an election on Monday and will also not put any motion of confidence on the government on Monday with a move before 31st October seen as unlikely. (Newswires/Sky)</p><p>UK House of Lords approved the legislation aimed at blocking a possible no-deal Brexit on Friday as expected, while it was also reported that UK High Court rejected the attempt to rule that PM Boris Johnson acted unlawfully by proroguing Parliament for five weeks. (Newswires)</p><p>UK Work and Pensions Minister Amber Rudd quit the Cabinet and the Conservative Party on Saturday night in which she criticized the “short-sighted” ousting of pro-EU MPs and stated that she believed PM Johnson was aiming for a no-deal Brexit. (Newswires)</p><p>ECB’s De Guindos said policy can play a greater countercyclical and stabilizing role, while he added that fiscal space should be used wisely in countries where it exists. (Newswires)</p><ul><li>EU GDP Revised (Q2) Q/Q 0.2% vs. Exp. 0.2% (Prev. 0.2%). (Newswires)</li><li>EU GDP Revised (Q2) Y/Y 1.2% vs. Exp. 1.1% (Prev. 1.1%, Rev. 1.3%)</li><li>EU Employment Final (Q2) Q/Q 0.2% vs. Exp. 0.2% (Prev. 0.2%, Rev. 0.4%)</li><li>EU Employment Final (Q2) Y/Y 1.2% vs. Exp. 1.1% (Prev. 1.1%, Rev. 1.4%)&nbsp;</li></ul><p>&nbsp;</p><p><strong>FX</strong></p><p>Turkish President Erdogan stated that Turkey will reduce interest rates to single digits and that inflation will follow suit. In other news, US Commerce Secretary Ross met with American business leaders from Turkey to learn about ways to increase US-Turkey trade and Turkey Trade Minister asked US to lift barriers as well as increase trade, with the US said to have set the goal of quadrupling trade to USD 100bln annually. Furthermore, China and Turkey have signed MoU’s to boost trade. (Newswires/Xinhua)</p><p>Canadian Employment Change Aug 81.1k vs. Exp. 15.0k (Prev. -24.2k). (Newswires)</p><p>&nbsp;</p><p><strong>COMMODITIES</strong></p><p>Saudi Arabia removed Energy Minister Al-Falih from position and replaced him with Prince Abdulaziz bin Salman bin Abdulaziz al-Saud. (Newswires)</p><p>&nbsp;</p><p><strong>GEOPOLITICS</strong></p><p>US Defence Secretary Esper said it appears in some ways that Iran is moving towards a place where talks would be possible and it was also reported the US continues to believe that enforcing sanctions on Iran is key to bringing Iran to the negotiation table according to a senior US Defence official. (Newswires)</p><p>US Secretary of State Pompeo said he thinks the Trump administration will announce vision for Middle East peace in coming weeks, while he also tweeted that Iran announced it will violate all limits and noted the fact that Iran retains massive uranium enrichment capacity reveals a core weakness of the deal. (Newswires/Twitter)</p><p>Iranian oil tanker Adrian Daria 1 reportedly unloaded its cargo of oil at a Syrian port, while there were separate reports that a US official warned that the US will continue to sanction whoever purchases Iranian oil or conducts business with its Revolutionary Guards. (Newswires/Al Jazeera)&nbsp;</p><p>&nbsp;</p><p><strong>US</strong></p><p>Fed Chair Powell said the Fed will act as appropriate to sustain the economic expansion when asked if the Fed will provide accommodation, while he added the Fed is watching all developments, geopolitical risks and financial conditions. Powell also commented that the labour market is in a good place and the labour market report is consistent with that story, while he reiterated the Fed will act appropriately to sustain the expansion. Powell added the economy is in the longest expansion since records began and the outlook is still favourable but noted risks to the outlook include slowing global growth and low inflation, while he cited trade tensions and Brexit as factors dampening global growth. (Newswires)</p><p>US President Trump reiterated arguments that the Fed should cut rates and suggested the Fed raised rates way to early and cut way too late, while he hinted at regret over decision to hire Fed Chair Powell. (Twitter)</p><p>NEC Director Kudlow acknowledged market expectations of lower rates but stated that 130k jobs is a solid number and suggested seasonal factors may have played a role. Kudlow also notef strength in household survey as well as participation and is encouraged by wage growth. (Newswires)</p><ul><li>US Non-Farm Payrolls (Aug) 130k vs. Exp. 158k (Prev. 164k, Rev. 159k); 2-month net revisions +20K (Prev. -41k), (Newswires)&nbsp;</li><li>US Average Earnings (Aug) M/M 0.4% vs. Exp. 0.3% (Prev. 0.3%)&nbsp;</li><li>US Average Earnings (Aug) Y/Y 3.2% vs. Exp. 3.1% (Prev. 3.2%)</li><li>&nbsp;US Unemployment Rate (Aug) 3.7% vs. Exp. 3.7% (Prev. 3.7%)</li></ul><p>&nbsp;</p><p><strong>MARKET RECAP</strong></p><p>Kellogg’s (K) were higher after an upgrade at Goldman Sachs which saw the shares higher by 2% at the end of the week. Conversely, Bank of America (BAC) weekly gains were capped following a downgrade from Keefe on Friday. Facebook’s (FB) upside gains were capped as it was revealed Friday morning that it is under a multi-state investigation for a possible antitrust violation. Costco (COST) and Fastenal (FAST) were higher on strong August sales SSS. Costco’s total comp sales came in at 5.5% beating the expectations for a 4.4% rise; core comp sales also beat expectations. Alexion Pharmaceuticals (ALXN) just about clawed back this week’s losses as Cowen and Piper Jaffray both stated they believe the sell-off in reaction to the co.’s patent rejection is overdone. Microsoft (MSFT) the underperforming constituent in the DJI on Friday after its CFO sold USD 17mln worth of stock. Lululemon (LULU) traded higher by over 5% after a strong earnings release which saw top and bottom-line beats, SSS of 15% accompanied by a boost to FY EPS and revenue guidance. Of note for automakers, US DoJ has launched an antitrust investigation into Ford (F), Honda (7267 JT), BMW (BMW GY) and Volkswagen (VOW3 GY) who forged an independent agreement with California on vehicle emissions standards, according to WSJ citing sources. S&amp;P 500 0.1% at 2979, NASDAQ-100 -0.1% at 7853, Dow Jones 0.3% at 26798.</p><p>At settlement, Treasuries have bull-flattened, with major curve spreads narrower by between 1-3bps. Overnight, the bias was to the downside, as geopolitical and trade related news flow became more constructive. The complex ticked higher in wake of a disappointing NFP headline, however, although there were some gyrations as traders' digested the data in wake of the release, which did show wage growth was solid. However, the T-Note came off highs after remarks from Fed chair Powell, who seemed upbeat on the economy, and signalled no concerns that could justify a 50bps rate cut at the 18th September FOMC. The market is still priced for 25bps. The Fed now enters blackout period, with attention on the central bank front moving towards Thursday's ECB, where a package of stimulus is expected to be unveiled, and will likely see T-Notes taking cues from Bunds. US T-note futures settled 2+ ticks higher at 131-12.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-asia-pac-opening-news-08-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-09 05:56:00",
+        "gmt_time": "2019-09-08 21:56:00"
+    },
+    {
+        "id": 885496,
+        "updated_sequence": 1923877,
+        "published_at": {
+            "unix": 1567976400,
+            "text": "2019-09-08 22:00:00 +0100",
+            "iso_8601": "2019-09-08T21:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1567976400,
+            "text": "2019-09-08 22:00:00 +0100",
+            "iso_8601": "2019-09-08T21:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "<p><a href=\"https://asia.nikkei.com/Business/Companies/Nintendo-to-move-Switch-output-to-Vietnam-as-China-tariffs-loom\">Via Nikkei</a></p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-05-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-09 05:00:00",
+        "gmt_time": "2019-09-08 21:00:00"
+    },
+    {
+        "id": 885721,
+        "updated_sequence": 1923883,
+        "published_at": {
+            "unix": 1567976400,
+            "text": "2019-09-08 22:00:00 +0100",
+            "iso_8601": "2019-09-08T21:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1567976526,
+            "text": "2019-09-08 22:02:06 +0100",
+            "iso_8601": "2019-09-08T21:02:06Z"
+        },
+        "subject": "UK PM Johnson draws up plan to legally sabotage Brexit extension if MPs vote against holding a general election, according to Telegraph",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Telegraph ",
+        "slug": "uk-pm-johnson-draws-up-plan-to-legally-sabotage-brexit-extension-if-mps-vote-against-holding-a-general-election-according-to-telegraph-08-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 38,
+            "name": "Brexit"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-09 05:00:00",
+        "gmt_time": "2019-09-08 21:00:00"
+    }
+]

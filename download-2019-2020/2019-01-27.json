@@ -1,0 +1,342 @@
+[
+    {
+        "id": 693225,
+        "updated_sequence": 1128186,
+        "published_at": {
+            "unix": 1548633120,
+            "text": "2019-01-27 23:52:00 +0000",
+            "iso_8601": "2019-01-27T23:52:00Z"
+        },
+        "updated_at": {
+            "unix": 1548633381,
+            "text": "2019-01-27 23:56:21 +0000",
+            "iso_8601": "2019-01-27T23:56:21Z"
+        },
+        "subject": "BoJ December meeting minutes state that members said it is appropriate to continue easing persistently and that CPI was likely to gradually increases towards target",
+        "content": "<p>Says<br />-&nbsp;Financial conditions are highly accommodative.<br />- One member suggested that long-term yields should be allowed to temporarily shit to negative.</p>\r\n\r\n<p>Link to full minutes release:&nbsp;<a href=\"https://www.boj.or.jp/en/mopo/mpmsche_minu/minu_2018/g181220.pdf\">https://www.boj.or.jp/en/mopo/mpmsche_minu/minu_2018/g181220.pdf</a></p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "boj-december-meeting-minutes-state-that-members-said-it-is-appropriate-to-continue-easing-persistently-and-that-cpi-was-likely-to-gradually-increases-towards-target-27-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 14,
+            "name": "BoJ"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-28 07:52:00",
+        "gmt_time": "2019-01-27 23:52:00"
+    },
+    {
+        "id": 693224,
+        "updated_sequence": 1128180,
+        "published_at": {
+            "unix": 1548633000,
+            "text": "2019-01-27 23:50:00 +0000",
+            "iso_8601": "2019-01-27T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1548633042,
+            "text": "2019-01-27 23:50:42 +0000",
+            "iso_8601": "2019-01-27T23:50:42Z"
+        },
+        "subject": "Japanese Corporate Services Prices (Dec) Y/Y\t 1.1% vs. Exp. 1.2% (Prev. 1.2%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-corporate-services-prices-dec-y-y-1-1-vs-exp-1-2-prev-1-2-27-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-28 07:50:00",
+        "gmt_time": "2019-01-27 23:50:00"
+    },
+    {
+        "id": 693223,
+        "updated_sequence": 1128177,
+        "published_at": {
+            "unix": 1548632580,
+            "text": "2019-01-27 23:43:00 +0000",
+            "iso_8601": "2019-01-27T23:43:00Z"
+        },
+        "updated_at": {
+            "unix": 1548632657,
+            "text": "2019-01-27 23:44:17 +0000",
+            "iso_8601": "2019-01-27T23:44:17Z"
+        },
+        "subject": "PREVIEW: BoJ minutes from December 19th-20th meeting due at 2350GMT/1750CST/0750HKT",
+        "content": "<p>The BoJ are to release the minutes from the Decemeber meeting, where the central bank kept policy unchanged with the bank rate kept at -0.1% and long-term yield target held at around 0.0% as expected. The central bank also left its forward guidance unchanged in which it will keep current extremely low rates for an extended period of time.</p>\r\n\r\n<p>Furthermore, the BoJ maintained its pledge to buy JGBs in a flexible manner so holdings rise at an annual pace of about JPY 80tln, while board members Kataoka and Harada dissented on YCC again as expected. Today&rsquo;s release is not expected to impact markets given that the announcement provided no surprises and failed to spur a reaction, while the BoJ also held a more recent meeting last week in which it continued to maintain its policy settings.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "preview-boj-minutes-from-december-19th-20th-meeting-due-at-2350gmt-1750cst-0750hkt-27-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 14,
+            "name": "BoJ"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-28 07:43:00",
+        "gmt_time": "2019-01-27 23:43:00"
+    },
+    {
+        "id": 693222,
+        "updated_sequence": 1128172,
+        "published_at": {
+            "unix": 1548632100,
+            "text": "2019-01-27 23:35:00 +0000",
+            "iso_8601": "2019-01-27T23:35:00Z"
+        },
+        "updated_at": {
+            "unix": 1548632249,
+            "text": "2019-01-27 23:37:29 +0000",
+            "iso_8601": "2019-01-27T23:37:29Z"
+        },
+        "subject": "North Korea reportedly urges South Korea to halt military drills which could hurt current mood of peace and dialogue ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Yonhap",
+        "slug": "north-korea-reportedly-urges-south-korea-to-halt-military-drills-which-could-hurt-current-mood-of-peace-and-dialogue-27-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 23,
+            "name": "Geopolitical"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-28 07:35:00",
+        "gmt_time": "2019-01-27 23:35:00"
+    },
+    {
+        "id": 693221,
+        "updated_sequence": 1128169,
+        "published_at": {
+            "unix": 1548631860,
+            "text": "2019-01-27 23:31:00 +0000",
+            "iso_8601": "2019-01-27T23:31:00Z"
+        },
+        "updated_at": {
+            "unix": 1548632163,
+            "text": "2019-01-27 23:36:03 +0000",
+            "iso_8601": "2019-01-27T23:36:03Z"
+        },
+        "subject": "PRE-MARKET JAPANESE AND SOUTH KOREAN STOCK NEWS: Earnings including Hyundai Mobis, LG Innotek and Samsung Heavy Industries",
+        "content": "<p>JAPAN</p>\r\n\r\n<p>Fujitsu (7276 JT)<br />- Blackrock raises stake in Co. to 6.31% from 5.24%. (Newswires)</p>\r\n\r\n<p>Koito Manufacturing (7276 JT)<br />- Co. 9-month net JPY 51.0bln vs. prev. JPY 47.5bln Y/Y, rev. JPY 608bln vs. Prev. JPY 641bln Y/Y. (Newswires)</p>\r\n\r\n<p>Ministop (9946 JT)<br />- Owners are said to withdraw from sale of Ministop Korea. (Newswires)</p>\r\n\r\n<p>Taiyo Yuden (6976 JT)<br />- Co. is to spend JPY 15bln on raising MLCC output. (Newswires)</p>\r\n\r\n<p>Takeda (4502 JT)<br />- Co. is planning to sell Osaka head office building. (Newswires)</p>\r\n\r\n<p>Property Developers<br />- Japanese real estate transactions declined 34% during H2 2018. (Newswires)</p>\r\n\r\n<p>Other News<br />- Reports note investigation into labor data showed 40% of key economic statistics may contain errors. (Nikkei)</p>\r\n\r\n<p><br />&nbsp;</p>\r\n\r\n<p>SOUTH KOREA</p>\r\n\r\n<p>Hyundai Mobis (012330 KS)<br />- Co. Q4 net KRW 420bln vs. Exp. KRW 509bln, oper. profit KRW 582bln vs. Exp. KRW 521bln, rev. KRW 9.64tln vs. Exp. KRW 9.27tln. (Newswires)</p>\r\n\r\n<p>LG Innotek (011070 KS)<br />- Co. Q4 net KRW 63.2bln vs. Exp. KRW 86.5bln. (Newswires)</p>\r\n\r\n<p>Samsung Heavy Industries (010140 KS)<br />- Co. FY18 oper. loss KRW 409bln vs. Prev. loss KRW 524bln Y/Y, rev. KRW 5.27tln vs. Prev. KRW 7.70tln Y/Y. (Newswires)<br /><br />Samsung Life Insurance (032830 KS)<br />- Co. is planning to raise dividend payout ratio gradually to 45%. (Newswires)</p>\r\n\r\n<p>Other News<br />- South Korea Defense Minister Jeong orders Navy to sternly deal with repeated low altitude flybys by Japanese patrol planes, which South Korea described as a serious provocation by an ally. (Yonhap)</p>\r\n\r\n<p>Data Recap<br />- South Korea private consumption grew by 2.8% in 2018 which was the fastest pace of growth since 2011. (Yonhap)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-japanese-and-south-korean-stock-news-earnings-including-hyundai-mobis-lg-innotek-and-samsung-heavy-industries-27-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-28 07:31:00",
+        "gmt_time": "2019-01-27 23:31:00"
+    },
+    {
+        "id": 693220,
+        "updated_sequence": 1128158,
+        "published_at": {
+            "unix": 1548627840,
+            "text": "2019-01-27 22:24:00 +0000",
+            "iso_8601": "2019-01-27T22:24:00Z"
+        },
+        "updated_at": {
+            "unix": 1548627950,
+            "text": "2019-01-27 22:25:50 +0000",
+            "iso_8601": "2019-01-27T22:25:50Z"
+        },
+        "subject": "Loyalists are reportedly threatening to abandon PM May in a push for a soft Brexit, according to reports in The Times",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "The Times",
+        "slug": "loyalists-are-reportedly-threatening-to-abandon-pm-may-in-a-push-for-a-soft-brexit-according-to-reports-in-the-times-27-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 38,
+            "name": "Brexit"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-28 06:24:00",
+        "gmt_time": "2019-01-27 22:24:00"
+    },
+    {
+        "id": 693219,
+        "updated_sequence": 1128155,
+        "published_at": {
+            "unix": 1548627780,
+            "text": "2019-01-27 22:23:00 +0000",
+            "iso_8601": "2019-01-27T22:23:00Z"
+        },
+        "updated_at": {
+            "unix": 1548627817,
+            "text": "2019-01-27 22:23:37 +0000",
+            "iso_8601": "2019-01-27T22:23:37Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASES CALENDAR NOW AVAILABLE IN THE RESEARCH SECTION: Highlights include BoJ Minutes from December Meeting, Chinese Industrial Profits, Australia holiday closure",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asian-daily-economic-releases-calendar-now-available-in-the-research-section-highlights-include-boj-minutes-from-december-meeting-chinese-industrial-profits-australia-holiday-closure-27-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-28 06:23:00",
+        "gmt_time": "2019-01-27 22:23:00"
+    },
+    {
+        "id": 693218,
+        "updated_sequence": 1128164,
+        "published_at": {
+            "unix": 1548627480,
+            "text": "2019-01-27 22:18:00 +0000",
+            "iso_8601": "2019-01-27T22:18:00Z"
+        },
+        "updated_at": {
+            "unix": 1548628895,
+            "text": "2019-01-27 22:41:35 +0000",
+            "iso_8601": "2019-01-27T22:41:35Z"
+        },
+        "subject": "UK PM May reportedly told cabinet ministers privately she will not let UK exit without a deal, although is said to not be ready to rule out a no-deal publicly as it would impact negotiations with Brussels according to The Sun",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "The Sun",
+        "slug": "uk-pm-may-reportedly-told-cabinet-ministers-privately-she-will-not-let-uk-exit-without-a-deal-although-is-said-to-not-be-ready-to-rule-out-a-no-deal-publicly-as-it-would-impact-negotiations-with-brussels-according-to-the-sun-27-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 38,
+            "name": "Brexit"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-28 06:18:00",
+        "gmt_time": "2019-01-27 22:18:00"
+    },
+    {
+        "id": 693217,
+        "updated_sequence": 1128200,
+        "published_at": {
+            "unix": 1548626940,
+            "text": "2019-01-27 22:09:00 +0000",
+            "iso_8601": "2019-01-27T22:09:00Z"
+        },
+        "updated_at": {
+            "unix": 1548635653,
+            "text": "2019-01-28 00:34:13 +0000",
+            "iso_8601": "2019-01-28T00:34:13Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p>ASIA-PAC</p>\r\n\r\n<p>PBoC conducted review on targeted RRR cut in which more banks were said to have qualified compared to last year. (Newswires)</p>\r\n\r\n<p><br />UK/EU</p>\r\n\r\n<p>House of Commons leader Leadsom said EU could delay Brexit to get a deal through, while she added backstop issue must be resolved and that many conservative MPs and the DUP can support PM May&#39;s deal. (BBC)</p>\r\n\r\n<p>Former UK Foreign Minister Johnson said that PM May plans to renegotiate the backstop with Brussels, citing senior sources. (Telegraph)</p>\r\n\r\n<p>Remain ministers stated during secret conference call that UK PM May must commit to securing her Brussel deal within 2 weeks to avoid resignations regarding a no-deal Brexit. (Newswires)</p>\r\n\r\n<p>Ireland said it will not accept changes aimed at avoiding a hard border, while Deputy PM Coveney said that the backstop was already a compromise drawn up to meet May&#39;s negotiating redlines, and the EU and Ireland were united in the view it was not going to change. (Newswires)</p>\r\n\r\n<p>DUP is reportedly set to back Sir Graham Brady&#39;s Brexit backstop amendment on Tuesday which if agreed by a majority of MPs, would provide Mrs May with evidence to take to Brussels to show the EU a deal is within reach if the bloc is willing to drop its opposition to renegotiating the Withdrawal Agreement. (Newswires)</p>\r\n\r\n<p>Fitch affirmed Germany at &#39;AAA&#39;; Outlook Stable and affirmed Sweden at &#39;AAA&#39;; Outlook Stable. (Newswires)</p>\r\n\r\n<p><br />COMMODITIES</p>\r\n\r\n<p>Baker Hughes Rig Count (25/Jan): oil rigs up 10 at 862, nat gas down 1 at 197, total up 9 at 1059. (Newswires)</p>\r\n\r\n<p>Venezuela&#39;s President Maduro said they are ready to ship oil exports away from the US if needed, while there was a source report that stated the US lobbied UK officials to cut off the Maduro regime from gold and that UK is said to deny Maduro&#39;s bid to pull out USD 1.2bln of gold. (Newswires)</p>\r\n\r\n<p>US Treasury Department lifted sanctions on Rusal and other companies associated with Russian billionaire Deripaska.&nbsp;(Newswires)<br />&nbsp;</p>\r\n\r\n<p>GEOPOLITICS</p>\r\n\r\n<p>US and Taliban officials in Doha, Qatar were reportedly finalizing a draft agreement that will end the 17-year-old war in Afghanistan. (Newswires)<br />&nbsp;</p>\r\n\r\n<p>US</p>\r\n\r\n<p>US President Trump signed bill to reopen the government after a tentative agreement was reached on a stopgap bill to fund the government till February 15th while negotiations continue on funding for a border wall. Furthermore, President Trump said he will declare an emergency if he doesn&#39;t reach a deal, while an administration official said the final deal to keep government open must have wall funding but does not have to amount to USD 5.7bln to get the White House&rsquo;s approval. (Newswires)</p>\r\n\r\n<p>Fed officials are reportedly weighing an earlier than anticipated end to bond portfolio runoff. (WSJ)</p>\r\n\r\n<p><br />MARKET RECAP</p>\r\n\r\n<p>Intel (INTC) underperformed after missing revenue estimates, putting a dampener on the semiconductor sector; however Western Digital (WDC) provided some relief as it outperformed following positive revenue guidance. AbbVie (ABV) traded lower after missing top and bottom line estimates. Colgate-Palmolive (CL) had a volatile early session before moving into the red as the market digested its disappointing profit forecast. Starbucks (SBUX) opened higher following stronger than expected EPS and revenue figures. ResMed (RMD) nosedived on the back of lower than expected revenue for its Q2 as well as a downgrade at JPMorgan. General Electric (GE) and Wabtec (WAB) surged after they announced a modifications to their merger agreement. Broker moves saw Valero (VLO) and Cognizant (CTSH) outperform after upgrades at Goldman and Bernstein respectively, Illumina (ILMN) underperformed after a downgrade at Deutsche Bank. Albemarle (ALB) opened in the green on the announcement it had reached a resolution with the Chilean Economic Development Agency. SPX +0.81% at 2664, NASDAQ +1.27% at 6787, DJI +0.72% at 24729.</p>\r\n\r\n<p>The complex drifted lower on Friday as equities rebounded as investors are hopeful on a mix of key events next week including US and China trade talks and the Fed interest rate decision. Rumours of a potential end to the government shutdown pushed treasuries to new lows; the complex remained around these levels after US President Trump confirmed a tentative deal has been reached with lawmakers to end the government shutdown until February 15th. Most of the actions was concentrated in the belly of the curve where yields were higher by c.5bps at settlement. Spreads were narrowly mixed. US T-note futures (H9) settled 11 ticks lower at 121-13.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-asia-pac-opening-news-27-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-28 06:09:00",
+        "gmt_time": "2019-01-27 22:09:00"
+    },
+    {
+        "id": 693039,
+        "updated_sequence": 1128139,
+        "published_at": {
+            "unix": 1548626400,
+            "text": "2019-01-27 22:00:00 +0000",
+            "iso_8601": "2019-01-27T22:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1548626400,
+            "text": "2019-01-27 22:00:00 +0000",
+            "iso_8601": "2019-01-27T22:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-24-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-28 06:00:00",
+        "gmt_time": "2019-01-27 22:00:00"
+    }
+]

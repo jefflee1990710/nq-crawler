@@ -1,0 +1,70 @@
+[
+    {
+        "id": 689723,
+        "updated_sequence": 1114183,
+        "published_at": {
+            "unix": 1546207200,
+            "text": "2018-12-30 22:00:00 +0000",
+            "iso_8601": "2018-12-30T22:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1546207200,
+            "text": "2018-12-30 22:00:00 +0000",
+            "iso_8601": "2018-12-30T22:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-27-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-31 06:00:00",
+        "gmt_time": "2018-12-30 22:00:00"
+    },
+    {
+        "id": 689794,
+        "updated_sequence": 1114181,
+        "published_at": {
+            "unix": 1546166160,
+            "text": "2018-12-30 10:36:00 +0000",
+            "iso_8601": "2018-12-30T10:36:00Z"
+        },
+        "updated_at": {
+            "unix": 1546166306,
+            "text": "2018-12-30 10:38:26 +0000",
+            "iso_8601": "2018-12-30T10:38:26Z"
+        },
+        "subject": "AUDIO SERVICE HAS NOW CLOSED FOR THE CHRISTMAS BREAK. THE SERVICE WILL RESUME ON WEDNESDAY 2ND JANUARY AT 0630GMT. WISHING YOU A HAPPY NEW YEAR.",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": true,
+        "source": "RANsquawk",
+        "slug": "audio-service-has-now-closed-for-the-christmas-break-the-service-will-resume-on-wednesday-2nd-january-at-0630gmt-wishing-you-a-happy-new-year-30-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-30 18:36:00",
+        "gmt_time": "2018-12-30 10:36:00"
+    }
+]

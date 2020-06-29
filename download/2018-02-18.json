@@ -1,0 +1,274 @@
+[
+    {
+        "id": 610450,
+        "updated_sequence": 780577,
+        "published_at": {
+            "unix": 1518998160,
+            "text": "2018-02-18 23:56:00 +0000",
+            "iso_8601": "2018-02-18T23:56:00Z"
+        },
+        "updated_at": {
+            "unix": 1518998251,
+            "text": "2018-02-18 23:57:31 +0000",
+            "iso_8601": "2018-02-18T23:57:31Z"
+        },
+        "subject": "Samsung Engineering (028050 KS) has won a KRW 1.1tln order",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "samsung-engineering-028050-ks-has-won-a-krw-1-1tln-order-18-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-19 07:56:00",
+        "gmt_time": "2018-02-18 23:56:00"
+    },
+    {
+        "id": 610449,
+        "updated_sequence": 780574,
+        "published_at": {
+            "unix": 1518997800,
+            "text": "2018-02-18 23:50:00 +0000",
+            "iso_8601": "2018-02-18T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1518997880,
+            "text": "2018-02-18 23:51:20 +0000",
+            "iso_8601": "2018-02-18T23:51:20Z"
+        },
+        "subject": "Japanese Trade Balance (JPY)(Jan) Y/Y -943B vs. Exp. -1,002B (Prev. 359B)",
+        "content": "<p>Adjusted Trade Balance (JPY)(Jan) Y/Y 370bln vs. Exp. 140bln (Prev. 90bln)</p>\r\n\r\n<p>Exports (Jan) Y/Y 12.2% Exp. 10.3% (Prev. 9.3%)</p>\r\n\r\n<p>Import (Jan) Y/Y 7.9% Exp. 8.3% (Prev. 14.9%)</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-trade-balance-jpy-jan-y-y-943b-vs-exp-1-002b-prev-359b-18-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-19 07:50:00",
+        "gmt_time": "2018-02-18 23:50:00"
+    },
+    {
+        "id": 610448,
+        "updated_sequence": 780571,
+        "published_at": {
+            "unix": 1518997380,
+            "text": "2018-02-18 23:43:00 +0000",
+            "iso_8601": "2018-02-18T23:43:00Z"
+        },
+        "updated_at": {
+            "unix": 1518997445,
+            "text": "2018-02-18 23:44:05 +0000",
+            "iso_8601": "2018-02-18T23:44:05Z"
+        },
+        "subject": "Toshiba (6502 JT) plans to begin mass production of hard drives in the Philippines and is to invest JPY 5bln to increase output at facilities",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "toshiba-6502-jt-plans-to-begin-mass-production-of-hard-drives-in-the-philippines-and-is-to-invest-jpy-5bln-to-increase-output-at-facilities-18-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-19 07:43:00",
+        "gmt_time": "2018-02-18 23:43:00"
+    },
+    {
+        "id": 610447,
+        "updated_sequence": 780568,
+        "published_at": {
+            "unix": 1518996360,
+            "text": "2018-02-18 23:26:00 +0000",
+            "iso_8601": "2018-02-18T23:26:00Z"
+        },
+        "updated_at": {
+            "unix": 1518996485,
+            "text": "2018-02-18 23:28:05 +0000",
+            "iso_8601": "2018-02-18T23:28:05Z"
+        },
+        "subject": "Noble Group (NOBL SP) expects to report a total net loss in a range of USD 1.725bln-1.925bln in Q4 17",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "noble-group-nobl-sp-expects-to-report-a-total-net-loss-in-a-range-of-usd-1-725bln-1-925bln-in-q4-17-18-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-19 07:26:00",
+        "gmt_time": "2018-02-18 23:26:00"
+    },
+    {
+        "id": 610446,
+        "updated_sequence": 780562,
+        "published_at": {
+            "unix": 1518994080,
+            "text": "2018-02-18 22:48:00 +0000",
+            "iso_8601": "2018-02-18T22:48:00Z"
+        },
+        "updated_at": {
+            "unix": 1518994176,
+            "text": "2018-02-18 22:49:36 +0000",
+            "iso_8601": "2018-02-18T22:49:36Z"
+        },
+        "subject": "Barclays recommending shorting USDSGD as trade weighted SGD weakness provides an opportunity to enter longs",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Barclays",
+        "slug": "barclays-recommending-shorting-usdsgd-as-trade-weighted-sgd-weakness-provides-an-opportunity-to-enter-longs-18-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-19 06:48:00",
+        "gmt_time": "2018-02-18 22:48:00"
+    },
+    {
+        "id": 610445,
+        "updated_sequence": 780565,
+        "published_at": {
+            "unix": 1518993660,
+            "text": "2018-02-18 22:41:00 +0000",
+            "iso_8601": "2018-02-18T22:41:00Z"
+        },
+        "updated_at": {
+            "unix": 1518994558,
+            "text": "2018-02-18 22:55:58 +0000",
+            "iso_8601": "2018-02-18T22:55:58Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIAN STOCK NEWS",
+        "content": "<p>Seek (SEK AT) - HY net profit up 21% to AUD 102mln, HY total sales revenue up 27% to AUD 620.3mln, &zwj;2018 interim dividend AUD 0.24/shr (Newswires)</p>\r\n\r\n<p>Beach Energy (BPT AT) - HY revenues up 14% to AUD 392.6mln, &zwj;declared interim dividend of AUD 0.01/shr, FY 18 pro forma capital expenditure is expected to be within range of AUD 405 &ndash; 455mln. (Newswires)</p>\r\n\r\n<p>Brambles (BXB AT) &ndash; Co. expects FY sales revenue growth to be in the mid-single digit&zwj;. (Newswires)​​ ​</p>\r\n\r\n<p>GWA Group (GWA AT) &ndash; HY revenue up 2% to AUD 227.1mln, HY NPAT up 7% to AUD 27.7mln. (Newswires)</p>\r\n\r\n<p>Woodside Petroleum &nbsp;(WPL AT) -&nbsp;&zwj; institutional entitlement offer raised gross proceeds of about AUD 1.57bln at AUD 27.00/shr. (Newswires)</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-australian-stock-news-18-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-19 06:41:00",
+        "gmt_time": "2018-02-18 22:41:00"
+    },
+    {
+        "id": 610444,
+        "updated_sequence": 780556,
+        "published_at": {
+            "unix": 1518992520,
+            "text": "2018-02-18 22:22:00 +0000",
+            "iso_8601": "2018-02-18T22:22:00Z"
+        },
+        "updated_at": {
+            "unix": 1518992575,
+            "text": "2018-02-18 22:22:55 +0000",
+            "iso_8601": "2018-02-18T22:22:55Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p><strong><a name=\"_Hlk504681185\"></a><a name=\"_Hlk504077437\">19<sup>th</sup> February 2018</a></strong></p>\r\n\r\n<p><br /><strong>ASIA-PAC</strong></p>\r\n\r\n<p>Japan&#39;s Chief Govt. spokesman said the FX market has shown one-sided moves recently<br />&nbsp;&nbsp;</p>\r\n\r\n<p><strong>US </strong></p>\r\n\r\n<p><br />US Consumer Department recommendation on steel: Global tariffs 24% on all imports; according to sources.</p>\r\n\r\n<p>US Commerce Department mulling 7.7% aluminium tariff, to recommend 23.5% tariff on all aluminium products from China, Russia, Venezuela and Vietnam. Import quote on all countries, 86.7% from of all their 2017 exports to the US.</p>\r\n\r\n<p><br /><strong>UK/EUROPE</strong></p>\r\n\r\n<p>UK Retail Sales MM (Jan) 0.1% vs. Exp. 0.5% (Prev. -1.5%, Rev. 1.5%)</p>\r\n\r\n<p>Retail Sales YY (Jan) 1.6% vs. Exp. 2.6% (Prev. 1.4%, Rev. 1.5%)</p>\r\n\r\n<p>Retail Sales Ex-Fuel MM (Jan) 0.1% vs. Exp. 0.6% (Prev. -1.6%, Rev. -1.5%)</p>\r\n\r\n<p>Retail Sales Ex-Fuel YY (Jan) 1.5% vs. Exp. 2.5% (Prev. 1.3%)<br />&nbsp;</p>\r\n\r\n<p><br /><strong>FX</strong></p>\r\n\r\n<p><a name=\"_Hlk504673747\">FOREX: DXY ends the week 1.5% lower</a></p>\r\n\r\n<p>Ahead of the long weekend, the USD snapped its run of four straight days of losses, ending the week with a positive day, but still looks set to close the week with a c1.5% loss. After this week&rsquo;s CPI and retail sales data, there hasn&rsquo;t been anything specific for FX traders to latch on to, and data and politics have generally played second fiddle to position adjusting. Many now are resuming the narrative of a weaker dollar based on expected twin deficits, trade protectionism, and other central banks playing catch-up to the US tightening cycle &ndash; helping their currencies appreciate &ndash; all amid a background of decent global growth. EUR gave up the 1.25 handle, GBP gave up 1.41, and JPY climbed back above 106 after falling to 105.50 overnight.</p>\r\n\r\n<p><strong>COMMODITIES</strong></p>\r\n\r\n<p>CRUDE: WTI futures settle 34 cents higher at $61.68 per barrel; Brent futures settle 51 cents higher at $64.84 per barrel</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>The crude complex was shaken in the early part of the week by bearish updates from the EIA, IEA as well as OPEC, whose forecasts all showed that global supply growth was set to outpace demand growth. However, at the end of the week &ndash; and looking with a wider lens &ndash; crude has generally looked-through the news, in part supported by comments from Saudi Arabia and Russia (Saudis set to trim production next month), but mainly taking its cue from &lsquo;recovering&rsquo; global risk sentiment and optimism about global growth prospects, as well as the USD weakness.</p>\r\n\r\n<p><br /><strong><a name=\"_Hlk506494646\"></a><a name=\"_Hlk506494612\">GEOPOLITICAL </a></strong></p>\r\n\r\n<p>South Korean President Moon could visit North Korea if the N.Korean stance changes, according to reports. (Newswires)</p>\r\n\r\n<p><br /><strong>MARKET RECAP</strong></p>\r\n\r\n<p>EQUITIES: SPX +0.1% at 2739, DJI +0.1% at 25281, NDX -0.1% at 6785</p>\r\n\r\n<p>Top sectors: Healthcare +0.9%, Telecoms +0.9%, Utilities +0.9%</p>\r\n\r\n<p>Bottom sectors: Cons Disc -0.3%, Materials -0.1% Energy -0.1%</p>\r\n\r\n<p>SPX prints its sixth straight day of gains, as traders question whether the recent VIX-inspired sell-off can actually be considered anything close to &ldquo;market turmoil,&rdquo; though some traders still note that the ES is yet to fully pare back those losses, and reclaim the 2785 level. The risk tone was once again firm on Friday, until headlines hit stating that Special Counsel Mueller had indicted 13 Russians and three entities with regards to interference in the 2016 Presidential Election. At the time, stock indices were losing steam, with ES March&rsquo;18 contract struggling to negotiate the 2750 handle, and the news brought out the sellers. The indictments contained no allegations that an American citizen was knowingly involved in US election meddling, and after stocks skidded lower into negative territory, buyers emerged around the key 2725 level, and stocks once again found themselves in positive territory, though the social media names weighed on the Nasdaq, which finished red.</p>\r\n\r\n<p>TREASURIES:&nbsp; US T-Note futures (March 2018) settle 4 ticks higher at 120-18+</p>\r\n\r\n<p>The US Treasury complex was immune to headlines that Special Counsel Mueller had indicted 13 Russians and three entities for meddling in the 2016 US Presidential Election. The curve was slightly higher pre-market, though buyers emerged for a second day, with no specific news catalyst. Some had rationalised the moves by suggesting that US Treasuries were oversold in many places, from a technical perspective. Either way, the net impact was narrowing in major curve spreads (2s10s -c4bps, 2s30s -c3bps, hough 5s30s was up slightly)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-asia-pac-opening-news-18-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-19 06:22:00",
+        "gmt_time": "2018-02-18 22:22:00"
+    },
+    {
+        "id": 610319,
+        "updated_sequence": 780552,
+        "published_at": {
+            "unix": 1518991200,
+            "text": "2018-02-18 22:00:00 +0000",
+            "iso_8601": "2018-02-18T22:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1518991200,
+            "text": "2018-02-18 22:00:00 +0000",
+            "iso_8601": "2018-02-18T22:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-20-12-2017",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-19 06:00:00",
+        "gmt_time": "2018-02-18 22:00:00"
+    }
+]

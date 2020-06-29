@@ -1,0 +1,512 @@
+[
+    {
+        "id": 878731,
+        "updated_sequence": 1894633,
+        "published_at": {
+            "unix": 1563753180,
+            "text": "2019-07-22 00:53:00 +0100",
+            "iso_8601": "2019-07-21T23:53:00Z"
+        },
+        "updated_at": {
+            "unix": 1563753343,
+            "text": "2019-07-22 00:55:43 +0100",
+            "iso_8601": "2019-07-21T23:55:43Z"
+        },
+        "subject": "South Korea July 1st-20th Trade Balance at deficit of USD 370mln, Exports -13.6% Y/Y (Prev. -10.0%), Imports -10.3% Y/Y (Prev. -8.1%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "south-korea-july-1st-20th-trade-balance-at-deficit-of-usd-370mln-exports-13-6-y-y-prev-10-0-imports-10-3-y-y-prev-8-1-21-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-22 07:53:00",
+        "gmt_time": "2019-07-21 23:53:00"
+    },
+    {
+        "id": 878730,
+        "updated_sequence": 1894630,
+        "published_at": {
+            "unix": 1563752760,
+            "text": "2019-07-22 00:46:00 +0100",
+            "iso_8601": "2019-07-21T23:46:00Z"
+        },
+        "updated_at": {
+            "unix": 1563752822,
+            "text": "2019-07-22 00:47:02 +0100",
+            "iso_8601": "2019-07-21T23:47:02Z"
+        },
+        "subject": "Samsung Electronics (005930 KS) mulling expanding investment in US amid Japanese curbs",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "samsung-electronics-005930-ks-mulling-expanding-investment-in-us-amid-japanese-curbs-21-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-22 07:46:00",
+        "gmt_time": "2019-07-21 23:46:00"
+    },
+    {
+        "id": 878729,
+        "updated_sequence": 1894627,
+        "published_at": {
+            "unix": 1563752220,
+            "text": "2019-07-22 00:37:00 +0100",
+            "iso_8601": "2019-07-21T23:37:00Z"
+        },
+        "updated_at": {
+            "unix": 1563752748,
+            "text": "2019-07-22 00:45:48 +0100",
+            "iso_8601": "2019-07-21T23:45:48Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIAN, JAPANESE AND SOUTH KOREAN STOCK NEWS: LNG (MNG AT) board approved re-domicile of the Co. and US listing",
+        "content": "<p>AUSTRALIA</p><p>Aveo Group (AOG AT) - Co. said significant progress has been made in discussions with Brookfield which is seeking to takeover the Co. (Newswires)</p><p>Cynata Therapeutics (CYP AT) - Co. confirmed it received an indicative non-binding proposal of AUD 2.00/Shr. (Newswires)</p><p>LNG (MNG AT) - Co. board approved re-domicile of the Co. and US listing. (Newswires)</p><p>Mineral Resources (MIN AT) - Co. JV agreement with Brockman may take an additional year. (Newswires)</p><p>Qantas (QAN AT) - US Department of Transport grants American Airlines-Qantas JV antitrust immunity as expected. (Newswires)</p><p>Resolute Mining (RSG AT) - Co. reports Ravenswood mineral resources were higher by 24% at 5.9mln ounces of gold. (Newswires)</p><p>Saracen Mineral Holdings (SAR AT) - Co. Q4 gold output 88.1k ounces vs. Prev. 78.9k ounces. (Newswires)</p><p>Woodside Petroleum (WPL AT) - Co. called in police as it suspects sabotage at its WA gas plant and deemed the discovery of asbestos in parts of its plant as 'suspicious'. (AFR)</p><p>&nbsp;</p><p>JAPAN</p><p>Asahi (3333 JY) - Co. is planning a share sale to fund Carlton deal. (Newswires)</p><p>Japan Display (6740 JT) - Large Japanese banks are to extend loan deadlines for Japan Display to December. (Newswires)</p><p>Kirin (2503 JT) - Co. has reportedly cancelled acquisition discussions related to Lion Drinks and Dairy. (Newswires)</p><p>TEPCO (9501 JT) - Co. plans to retire remaining reactors in Fukushima. (Newswires)</p><p>Trade - People in South Korea are said to have reduced purchases of beer products from Japan amid spat. (Newswires)</p><p>Other News - Japan's ruling LDP-led coalition won a majority of the seats up for grabs in Sunday's upper house election in which they won 71 of the 124 seats up for contention, although failed to hold on to the two-thirds supermajority needed to move ahead with revising the constitution. (Newswires)</p><p>&nbsp;</p><p>SOUTH KOREA</p><p>Hyundai Mobis (012330 KS) - Co. develops camera system to replace side mirrors. (Yonhap) Other News - South Korea’s economy is expected to have increased 1% during Q2 vs. 0.4% contraction in Q1. (Yonhap)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-australian-japanese-and-south-korean-stock-news-lng-mng-at-board-approved-re-domicile-of-the-co-and-us-listing-21-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-22 07:37:00",
+        "gmt_time": "2019-07-21 23:37:00"
+    },
+    {
+        "id": 878728,
+        "updated_sequence": 1894620,
+        "published_at": {
+            "unix": 1563750960,
+            "text": "2019-07-22 00:16:00 +0100",
+            "iso_8601": "2019-07-21T23:16:00Z"
+        },
+        "updated_at": {
+            "unix": 1563751067,
+            "text": "2019-07-22 00:17:47 +0100",
+            "iso_8601": "2019-07-21T23:17:47Z"
+        },
+        "subject": "EU is said to prepare an aid package for Ireland to soften no-deal Brexit, according to The Times",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "The Times",
+        "slug": "eu-is-said-to-prepare-an-aid-package-for-ireland-to-soften-no-deal-brexit-according-to-the-times-21-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 38,
+            "name": "Brexit"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-22 07:16:00",
+        "gmt_time": "2019-07-21 23:16:00"
+    },
+    {
+        "id": 878727,
+        "updated_sequence": 1894617,
+        "published_at": {
+            "unix": 1563750720,
+            "text": "2019-07-22 00:12:00 +0100",
+            "iso_8601": "2019-07-21T23:12:00Z"
+        },
+        "updated_at": {
+            "unix": 1563750850,
+            "text": "2019-07-22 00:14:10 +0100",
+            "iso_8601": "2019-07-21T23:14:10Z"
+        },
+        "subject": "Some Chinese companies are seeking to purchase farm products from US, according to authorities",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Xinhua",
+        "slug": "some-chinese-companies-are-seeking-to-purchase-farm-products-from-us-according-to-authorities-21-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-22 07:12:00",
+        "gmt_time": "2019-07-21 23:12:00"
+    },
+    {
+        "id": 878726,
+        "updated_sequence": 1894614,
+        "published_at": {
+            "unix": 1563749640,
+            "text": "2019-07-21 23:54:00 +0100",
+            "iso_8601": "2019-07-21T22:54:00Z"
+        },
+        "updated_at": {
+            "unix": 1563749729,
+            "text": "2019-07-21 23:55:29 +0100",
+            "iso_8601": "2019-07-21T22:55:29Z"
+        },
+        "subject": "UK government is said to consider a carbon surcharge related to airline tickets ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "uk-government-is-said-to-consider-a-carbon-surcharge-related-to-airline-tickets-21-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 34,
+            "name": "Global Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-22 06:54:00",
+        "gmt_time": "2019-07-21 22:54:00"
+    },
+    {
+        "id": 878725,
+        "updated_sequence": 1894611,
+        "published_at": {
+            "unix": 1563748500,
+            "text": "2019-07-21 23:35:00 +0100",
+            "iso_8601": "2019-07-21T22:35:00Z"
+        },
+        "updated_at": {
+            "unix": 1563748584,
+            "text": "2019-07-21 23:36:24 +0100",
+            "iso_8601": "2019-07-21T22:36:24Z"
+        },
+        "subject": "US President Trump will meet with Pakistan PM Khan to discuss Afghanistan peace deal on Monday",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-president-trump-will-meet-with-pakistan-pm-khan-to-discuss-afghanistan-peace-deal-on-monday-21-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 23,
+            "name": "Geopolitical"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-22 06:35:00",
+        "gmt_time": "2019-07-21 22:35:00"
+    },
+    {
+        "id": 878724,
+        "updated_sequence": 1894608,
+        "published_at": {
+            "unix": 1563748200,
+            "text": "2019-07-21 23:30:00 +0100",
+            "iso_8601": "2019-07-21T22:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1563748218,
+            "text": "2019-07-21 23:30:18 +0100",
+            "iso_8601": "2019-07-21T22:30:18Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASES CALENDAR NOW AVAILABLE IN THE RESEARCH SECTION: Highlights include Thailand trade data and Netherlands Consumer Confidence",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asian-daily-economic-releases-calendar-now-available-in-the-research-section-highlights-include-thailand-trade-data-and-netherlands-consumer-confidence-21-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-22 06:30:00",
+        "gmt_time": "2019-07-21 22:30:00"
+    },
+    {
+        "id": 878723,
+        "updated_sequence": 1894605,
+        "published_at": {
+            "unix": 1563747060,
+            "text": "2019-07-21 23:11:00 +0100",
+            "iso_8601": "2019-07-21T22:11:00Z"
+        },
+        "updated_at": {
+            "unix": 1563747108,
+            "text": "2019-07-21 23:11:48 +0100",
+            "iso_8601": "2019-07-21T22:11:48Z"
+        },
+        "subject": "Iranian lawmakers file motion asking government to impose toll on ships passing through Strait of Hormuz",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "iranian-lawmakers-file-motion-asking-government-to-impose-toll-on-ships-passing-through-strait-of-hormuz-21-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 23,
+            "name": "Geopolitical"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-22 06:11:00",
+        "gmt_time": "2019-07-21 22:11:00"
+    },
+    {
+        "id": 878722,
+        "updated_sequence": 1894622,
+        "published_at": {
+            "unix": 1563746940,
+            "text": "2019-07-21 23:09:00 +0100",
+            "iso_8601": "2019-07-21T22:09:00Z"
+        },
+        "updated_at": {
+            "unix": 1563751639,
+            "text": "2019-07-22 00:27:19 +0100",
+            "iso_8601": "2019-07-21T23:27:19Z"
+        },
+        "subject": "Japanese PM Abe's LDP-led coalition is expected to win half of the open seats in the Upper House election",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-pm-abe-s-ldp-led-coalition-is-expected-to-win-half-of-the-open-seats-in-the-upper-house-election-21-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-22 06:09:00",
+        "gmt_time": "2019-07-21 22:09:00"
+    },
+    {
+        "id": 878721,
+        "updated_sequence": 1894599,
+        "published_at": {
+            "unix": 1563746700,
+            "text": "2019-07-21 23:05:00 +0100",
+            "iso_8601": "2019-07-21T22:05:00Z"
+        },
+        "updated_at": {
+            "unix": 1563746867,
+            "text": "2019-07-21 23:07:47 +0100",
+            "iso_8601": "2019-07-21T22:07:47Z"
+        },
+        "subject": "EU countries are reportedly secretly wooing PM candidate Boris Johnson and signalled an intention to work out a deal to avoid a no-deal disaster",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Sunday Times",
+        "slug": "eu-countries-are-reportedly-secretly-wooing-pm-candidate-boris-johnson-and-signalled-an-intention-to-work-out-a-deal-to-avoid-a-no-deal-disaster-21-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 38,
+            "name": "Brexit"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-22 06:05:00",
+        "gmt_time": "2019-07-21 22:05:00"
+    },
+    {
+        "id": 878720,
+        "updated_sequence": 1894596,
+        "published_at": {
+            "unix": 1563746640,
+            "text": "2019-07-21 23:04:00 +0100",
+            "iso_8601": "2019-07-21T22:04:00Z"
+        },
+        "updated_at": {
+            "unix": 1563746718,
+            "text": "2019-07-21 23:05:18 +0100",
+            "iso_8601": "2019-07-21T22:05:18Z"
+        },
+        "subject": "Germany Finance Ministry report showed June tax revenue rose 6.8% Y/Y, while data suggests German manufacturing is to remain sluggish",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "germany-finance-ministry-report-showed-june-tax-revenue-rose-6-8-y-y-while-data-suggests-german-manufacturing-is-to-remain-sluggish-21-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-22 06:04:00",
+        "gmt_time": "2019-07-21 22:04:00"
+    },
+    {
+        "id": 878719,
+        "updated_sequence": 1894593,
+        "published_at": {
+            "unix": 1563746340,
+            "text": "2019-07-21 22:59:00 +0100",
+            "iso_8601": "2019-07-21T21:59:00Z"
+        },
+        "updated_at": {
+            "unix": 1563746434,
+            "text": "2019-07-21 23:00:34 +0100",
+            "iso_8601": "2019-07-21T22:00:34Z"
+        },
+        "subject": "UK Chancellor Hammond confirms he will resign if Boris Johnson becomes next PM",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "uk-chancellor-hammond-confirms-he-will-resign-if-boris-johnson-becomes-next-pm-21-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 38,
+            "name": "Brexit"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-22 05:59:00",
+        "gmt_time": "2019-07-21 21:59:00"
+    },
+    {
+        "id": 878718,
+        "updated_sequence": 1894665,
+        "published_at": {
+            "unix": 1563745380,
+            "text": "2019-07-21 22:43:00 +0100",
+            "iso_8601": "2019-07-21T21:43:00Z"
+        },
+        "updated_at": {
+            "unix": 1563758575,
+            "text": "2019-07-22 02:22:55 +0100",
+            "iso_8601": "2019-07-22T01:22:55Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p><strong>ASIA-PAC</strong></p><p>US President Trump said US Treasury Secretary Mnuchin had very good talks with his Chinese counterpart and suggested we'll see what happens. (Newswires)</p><p>China Global Times Editor tweeted the Chinese side sees a face-to-face meeting with the US as not far away and expects \"actions\" may happen soon which would be a sign of goodwill from both sides. (Twitter)</p><p>PBoC said they will implement appropriate counter cyclical adjustments and they are to keep prudent monetary policy where it is not too loose nor too tight, while they are to keep measures to fend off financial risks in key areas and keep M2 as well as social financing growth in line with nominal GDP growth. (Newswires)</p><p>A report suggested that China will further ease policy as growth starts to slow and amid looming trade war concerns but is saving big ammunition for potential shocks, according to sources. (Newswires)</p><p>US President Trump said he is willing to help resolve tensions between Japan and South Korea. (Newswires)</p><p>&nbsp;</p><p><strong>UK/EU</strong></p><p>UK PM Candidate Boris Johnson insisted Britain can leave the EU with a deal by October 31st if the country rediscovers its “sense of mission”, while he also stated there are technological ways to avoid the need for a backstop and that the solution lies in FTA to be negotiated after Britain exits EU on October. (Telegraph)</p><p>US President Trump said he spoke with UK PM candidate Johnson and looks forward to working with him and thinks he will work out Brexit, while there were also reports that Trump expressed concerns with France’s Macron in regards to the proposed digital services tax. (Newswires)</p><p>ECB is reportedly planning to restart government bond purchases by November, according to sources. (Der Spiegel)</p><p>Italian League Official said it is hard to continue governing with the 5 Star Movement. (Newswires)</p><p>Fitch affirmed Germany at AAA; Outlook Stable. (Newswires)</p><p>S&amp;P affirmed Czech Republic at AA; Outlook Stable. (Newswires)</p><p>&nbsp;</p><p><strong>FX</strong></p><p>Canadian Retail Sales (May) M/M -0.1% vs. Exp. 0.3% (Prev. 0.1%, Rev. 0.2%). (Newswires)&nbsp;</p><p>&nbsp;</p><p><strong>COMMODITIES</strong></p><p>Baker Hughes (July 19th): Oil rigs -5 at 779, Gas rigs +2 at 174, Total rigs -4 at 954. (Newswires)</p><p>Libya’s NOC confirmed 290k bpd output at Sharara has been offline since Friday. (Newswires)</p><p>&nbsp;</p><p><strong>GEOPOLITICS</strong></p><p>IRGC said it seized a UK tanker which has been taken to a coastal area and turned over to the maritime authorities to carry out the necessary legal steps, while Iran later confirmed the seizure of a second UK tanker which was let off with a warning about violating maritime regulations. (Newswires)</p><p>UK called an emergency committee meeting in response to the seizure and ministers are planning to place sanctions on Iran. In related news, the White House stated the NSC will continue to work with its allies and partners to defend against Iran’s \"malign behaviour\", while the US also confirmed it will deploy forces to Saudi Arabia and increase maritime surveillance in the Arabian Gulf. (Newswires)</p><p>US President Trump reportedly told Senator Rand Paul he would like to be involved in Iran talks, after Senator Rand Paul was said to have met with Iranian Foreign Minister Zarif on Thursday to discuss the potential prospects for talks between US and Iran. (Newswires)</p><p>US Secretary of State Pompeo said President Trump is prepared to conduct talks with Iran without preconditions and that we need the Iranians to come to the table for negotiations. (Newswires)</p><p>Trump administration invited Republican Senators to a meeting to discuss the potential sanctions on Turkey. (Washington Post)&nbsp;</p><p>&nbsp;</p><p><strong>US</strong></p><p>Fed officials reportedly could signal potential for additional stimulus beyond July and signal a 25bp cut is likely at the July meeting. Furthermore, the article states officials aren’t prepared for bolder action by making a half-point cut as recent economic developments have not signalled an imminent downturn. (WSJ)</p><p>Fed's Bullard (Voter, Dove) reiterated call for a 25bps cut at the July meeting and said a 25bps cut would give the Fed the option for a cut later in the year.&nbsp; Bullard also noted it would be difficult for the Fed not to ease at this point and would have to follow through on rate cuts to ratify earlier policy signals, while he sees no reason to revisit decision on timing of balance sheet runoff and would like to see a new repo facility made available but added the Fed is not at that point just yet. Furthermore, Bullard said he would listen to arguments for a larger rate cut but thinks 25bps is appropriate and doesn't think the situation calls for a larger cut. (Newswires/WSJ)</p><p>US President Trump renewed his criticism on the Fed in which he tweeted that because of the faulty thought process at the Fed, the US pays much higher interest rates than countries which are no match to the US economically and elaborated that US interest costs are much higher than other countries when they should be lower. (Twitter)</p><p>&nbsp;</p><p><strong>MARKET RECAP</strong></p><p>Major US equity indices moved lower throughout the US session, whilst the dollar pared Thursday’s losses, as Fed sources on Friday pushed back against expectations of a 50bps cut in July and geopolitical risk rose after 2 UK tankers were seized by Iran. The heightened security risk in the Strait of Hormuz saw crude markets bid higher later in the session, bucking the trend of consistent daily losses this week, whilst gold found some support following its downward trajectory on the day. Microsoft (MSFT) shares jumped higher after the co. reported earnings; the co. beat on top and bottom lines, but more importantly exceeded expectations in terms of its Cloud revenue. PC and Productivity and Business Processes also exceeded revenue expectations. American Express (AXP) posted stronger than expected profits, while revenue came in largely inline. The co. reaffirmed FY19 guidance, however desks noted expectations for a revision higher and as such AXP shares were pressured lower. CrowdStrike (CRWD) was an outperformer, shooting higher after the co. posted decent earnings, which included an upwards revision to 2020 guidance and impressive ARR and subscription revenue (desks noted record numbers of customers added and a low churn rate). State Street (STT) made decent gains after beating on the bottom line, with fee income (especially in Asset Management and FX) also better than expected. Intuitive Surgical (ISRG) moved higher after beating on top and bottom lines, with the co.’s da Vinci Surgical Systems seeing decent demand. Other notable stocks benefitting on the back of solid earnings include; BlackRock (BLK) missed on top and bottom lines but AUM up Y/Y; Capital One Financial (COF) big beat on bottom line; Citizens Financial Group (CFG) beat on top and bottom lines with loan loss provision, net charge-offs, Tangible book value all up; Gentex Corp. (GNTX) posted a top and bottom line beat but guided lower, Skechers (SKX) posted solid beat on top and bottom lines, SSS also higher. Chewy (CHWY) sunk after reporting a larger than expected loss. S&amp;P 500 -0.6% at 2977, NASDAQ-100 -0.9% at 7835, Dow Jones -0.3% at 27156.</p><p>The T-plex got off on the backfoot overnight and into the European session as the market pared back the dovish reaction from Fed’s Williams on Thursday. Although support was provided on the back of some disappointing German PPI data, where the Bund strength spread into wider government bonds. A mixed July (prelim.) University of Michigan survey didn’t cause a stir. Later in the US session, there was some further selling as Fed’s Bullard affirmed his preference to a 25bps rate cut at the July meeting, which was then echoed by Fed sources claiming that the general sentiment among Fed members was also for a 25bps cut. However, news of British shipping vessels being seized in the Persian Gulf saw bidding into the settlement, at which, the curve had flattened, seeing the 2s10s narrowing by approximately 3.5bps. US T-note futures (U9) settled 3+ ticks lower at 127-17.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-asia-pac-opening-news-21-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-22 05:43:00",
+        "gmt_time": "2019-07-21 21:43:00"
+    },
+    {
+        "id": 878533,
+        "updated_sequence": 1894580,
+        "published_at": {
+            "unix": 1563742800,
+            "text": "2019-07-21 22:00:00 +0100",
+            "iso_8601": "2019-07-21T21:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1563742800,
+            "text": "2019-07-21 22:00:00 +0100",
+            "iso_8601": "2019-07-21T21:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "<p><a href=\"https://asia.nikkei.com/Business/Companies/Nintendo-to-move-Switch-output-to-Vietnam-as-China-tariffs-loom\">Via Nikkei</a></p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-18-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-22 05:00:00",
+        "gmt_time": "2019-07-21 21:00:00"
+    }
+]

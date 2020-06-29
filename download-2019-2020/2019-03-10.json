@@ -1,0 +1,478 @@
+[
+    {
+        "id": 858903,
+        "updated_sequence": 1809573,
+        "published_at": {
+            "unix": 1552261800,
+            "text": "2019-03-10 23:50:00 +0000",
+            "iso_8601": "2019-03-10T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1552261972,
+            "text": "2019-03-10 23:52:52 +0000",
+            "iso_8601": "2019-03-10T23:52:52Z"
+        },
+        "subject": "Japanese Money Stock M3 (Feb) Y/Y 2.1% vs. Exp. 2.1% (Prev. 2.1%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-money-stock-m3-feb-y-y-2-1-vs-exp-2-1-prev-2-1-10-03-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-03-11 07:50:00",
+        "gmt_time": "2019-03-10 23:50:00"
+    },
+    {
+        "id": 858901,
+        "updated_sequence": 1809567,
+        "published_at": {
+            "unix": 1552261800,
+            "text": "2019-03-10 23:50:00 +0000",
+            "iso_8601": "2019-03-10T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1552261891,
+            "text": "2019-03-10 23:51:31 +0000",
+            "iso_8601": "2019-03-10T23:51:31Z"
+        },
+        "subject": "South Korean March 1st-10th Exports fell 19.1% Y/Y, Imports fell 15.4% Y/Y",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "south-korean-march-1st-10th-exports-fell-19-1-y-y-imports-fell-15-4-y-y-10-03-2019",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-03-11 07:50:00",
+        "gmt_time": "2019-03-10 23:50:00"
+    },
+    {
+        "id": 858902,
+        "updated_sequence": 1809570,
+        "published_at": {
+            "unix": 1552261800,
+            "text": "2019-03-10 23:50:00 +0000",
+            "iso_8601": "2019-03-10T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1552261944,
+            "text": "2019-03-10 23:52:24 +0000",
+            "iso_8601": "2019-03-10T23:52:24Z"
+        },
+        "subject": "Japanese Money Stock M2 (Feb) Y/Y 2.4% vs. Exp. 2.4% (Prev. 2.4%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-money-stock-m2-feb-y-y-2-4-vs-exp-2-4-prev-2-4-10-03-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-03-11 07:50:00",
+        "gmt_time": "2019-03-10 23:50:00"
+    },
+    {
+        "id": 858900,
+        "updated_sequence": 1809560,
+        "published_at": {
+            "unix": 1552260720,
+            "text": "2019-03-10 23:32:00 +0000",
+            "iso_8601": "2019-03-10T23:32:00Z"
+        },
+        "updated_at": {
+            "unix": 1552260856,
+            "text": "2019-03-10 23:34:16 +0000",
+            "iso_8601": "2019-03-10T23:34:16Z"
+        },
+        "subject": "US President Trump administration officials are reportedly divided over NOPEC legislation that would allow the government to sue OPEC nations for attempting to control oil prices",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Axios",
+        "slug": "us-president-trump-administration-officials-are-reportedly-divided-over-nopec-legislation-that-would-allow-the-government-to-sue-opec-nations-for-attempting-to-control-oil-prices-10-03-2019",
+        "hidden": false,
+        "section": {
+            "id": 20,
+            "name": "Commodities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-03-11 07:32:00",
+        "gmt_time": "2019-03-10 23:32:00"
+    },
+    {
+        "id": 858899,
+        "updated_sequence": 1809562,
+        "published_at": {
+            "unix": 1552260480,
+            "text": "2019-03-10 23:28:00 +0000",
+            "iso_8601": "2019-03-10T23:28:00Z"
+        },
+        "updated_at": {
+            "unix": 1552261538,
+            "text": "2019-03-10 23:45:38 +0000",
+            "iso_8601": "2019-03-10T23:45:38Z"
+        },
+        "subject": "PRE-MARKET JAPANESE AND SOUTH KOREAN STOCK NEWS: Hyundai Heavy (009540 KS) signs formal deal with KDB to takeover Daewoo Shipbuilding and Marine Engineering (042660 KS)",
+        "content": "<p>JAPAN</p><p>Hitachi (6501 JT) - Co. is said to be considering selling Hitachi Chemical (4217 JT) stake valued over JPY 300bln. (Newswires)</p><p>Idemitsu Kosan (5019 JT) - Co. is to set up a lubricant R&amp;D facility in China. (Newswires)</p><p>IHI Corp (7013 JT) - Co. has admitted to 211 improper inspections of airplane engines in 2 years. (Newswires)</p><p>Nissan (7201 JT) - Co. and Mitsubishi Motors (7211 JT) are said to be mulling shutting Netherlands JV. (Nikkei) - Former Chairman Ghosn is seeking to attend Tuesday’s board meeting.</p><p>&nbsp;</p><p>SOUTH KOREA</p><p>Daewoo Shipbuilding and Marine Engineering (042660 KS) - Hyundai Heavy (009540 KS) signs formal deal with KDB to takeover of the Co. (Newswires)</p><p>Kia Motors (000270 KS) - Co. is mulling stopping output in its Jiangsu China plant due to weak sales. (Yonhap)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-japanese-and-south-korean-stock-news-hyundai-heavy-009540-ks-signs-formal-deal-with-kdb-to-takeover-daewoo-shipbuilding-and-marine-engineering-042660-ks-10-03-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-03-11 07:28:00",
+        "gmt_time": "2019-03-10 23:28:00"
+    },
+    {
+        "id": 858898,
+        "updated_sequence": 1809627,
+        "published_at": {
+            "unix": 1552259700,
+            "text": "2019-03-10 23:15:00 +0000",
+            "iso_8601": "2019-03-10T23:15:00Z"
+        },
+        "updated_at": {
+            "unix": 1552276046,
+            "text": "2019-03-11 03:47:26 +0000",
+            "iso_8601": "2019-03-11T03:47:26Z"
+        },
+        "subject": "China has asked domestic airlines to ground Boeing (BA) 737 Max planes",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Caijing",
+        "slug": "china-has-asked-domestic-airlines-to-ground-boeing-ba-737-max-planes-10-03-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-03-11 07:15:00",
+        "gmt_time": "2019-03-10 23:15:00"
+    },
+    {
+        "id": 858896,
+        "updated_sequence": 1809544,
+        "published_at": {
+            "unix": 1552258860,
+            "text": "2019-03-10 23:01:00 +0000",
+            "iso_8601": "2019-03-10T23:01:00Z"
+        },
+        "updated_at": {
+            "unix": 1552258902,
+            "text": "2019-03-10 23:01:42 +0000",
+            "iso_8601": "2019-03-10T23:01:42Z"
+        },
+        "subject": "Fed Chair Powell repeats that economy is in a good place and rates are appropriate considering muted inflation",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "fed-chair-powell-repeats-that-economy-is-in-a-good-place-and-rates-are-appropriate-considering-muted-inflation-10-03-2019",
+        "hidden": false,
+        "section": {
+            "id": 18,
+            "name": "Fed"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-03-11 07:01:00",
+        "gmt_time": "2019-03-10 23:01:00"
+    },
+    {
+        "id": 858897,
+        "updated_sequence": 1809625,
+        "published_at": {
+            "unix": 1552258860,
+            "text": "2019-03-10 23:01:00 +0000",
+            "iso_8601": "2019-03-10T23:01:00Z"
+        },
+        "updated_at": {
+            "unix": 1552275486,
+            "text": "2019-03-11 03:38:06 +0000",
+            "iso_8601": "2019-03-11T03:38:06Z"
+        },
+        "subject": "Fed Chair Powell says Fed does not feel any hurry to change interest rates again and will wait to observe how global conditions evolve before making any changes",
+        "content": "<p>Says:</p><ul><li>Policy rate is roughly neutral.</li><li>US outlook remains positive on many measures and growth is expected to healthy this year.</li><li>Main risks to US economy are from abroad.</li><li>Observing retail sales after weak December but there is some evidence that sales rebounded in January.</li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "fed-chair-powell-says-fed-does-not-feel-any-hurry-to-change-interest-rates-again-and-will-wait-to-observe-how-global-conditions-evolve-before-making-any-changes-10-03-2019",
+        "hidden": false,
+        "section": {
+            "id": 18,
+            "name": "Fed"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-03-11 07:01:00",
+        "gmt_time": "2019-03-10 23:01:00"
+    },
+    {
+        "id": 858895,
+        "updated_sequence": 1809541,
+        "published_at": {
+            "unix": 1552257960,
+            "text": "2019-03-10 22:46:00 +0000",
+            "iso_8601": "2019-03-10T22:46:00Z"
+        },
+        "updated_at": {
+            "unix": 1552258046,
+            "text": "2019-03-10 22:47:26 +0000",
+            "iso_8601": "2019-03-10T22:47:26Z"
+        },
+        "subject": "US President Trump's budget proposal will not balance in 10 years and uses a controversial Pentagon \"slush fund\" to give Trump USD 750bln military budget without exceeding spending caps imposed under a 2011 budget law, according to Axios",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Axios",
+        "slug": "us-president-trump-s-budget-proposal-will-not-balance-in-10-years-and-uses-a-controversial-pentagon-slush-fund-to-give-trump-usd-750bln-military-budget-without-exceeding-spending-caps-imposed-under-a-2011-budget-law-according-to-axios-10-03-2019",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-03-11 06:46:00",
+        "gmt_time": "2019-03-10 22:46:00"
+    },
+    {
+        "id": 858894,
+        "updated_sequence": 1809538,
+        "published_at": {
+            "unix": 1552257780,
+            "text": "2019-03-10 22:43:00 +0000",
+            "iso_8601": "2019-03-10T22:43:00Z"
+        },
+        "updated_at": {
+            "unix": 1552257850,
+            "text": "2019-03-10 22:44:10 +0000",
+            "iso_8601": "2019-03-10T22:44:10Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIAN STOCK NEWS: Newcrest Mining (NCM AT) is to buy a 70% stake in Red Mine for USD 806.5mln",
+        "content": "<p>Appen (APX AT) - Co. is to purchase Figure Eight Technologies. (Newswires)</p><p>Beach Energy (BPT AT) - Co. enters MOU with Santos (STO AT) and Key Petroleum related to gas processing. (Newswires)</p><p>Macquarie Group (MQG AT) - US SEC is reportedly investigating Co.’s US unit. (Newswires)</p><p>Navitas (NVT AT) - KKR is said to be financially backing BGH Capital’s offer for Navitas. (AFR)</p><p>Newcrest Mining (NCM AT) - Co. is to buy a 70% stake in Red Mine for USD 806.5mln. (Newswires) - Co. CEO said they are in a strong position to carry out M&amp;A and prefer asset level transactions. (Newswires)&nbsp;&nbsp;</p><p>Retail Food Group (RFG AT) - Co. talks with PAGS related to sale of Crust Pizza and Donut King business is said to be in final stages but may not result in a deal. (Newswires)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-australian-stock-news-newcrest-mining-ncm-at-is-to-buy-a-70-stake-in-red-mine-for-usd-806-5mln-10-03-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-03-11 06:43:00",
+        "gmt_time": "2019-03-10 22:43:00"
+    },
+    {
+        "id": 858893,
+        "updated_sequence": 1809535,
+        "published_at": {
+            "unix": 1552257180,
+            "text": "2019-03-10 22:33:00 +0000",
+            "iso_8601": "2019-03-10T22:33:00Z"
+        },
+        "updated_at": {
+            "unix": 1552257238,
+            "text": "2019-03-10 22:33:58 +0000",
+            "iso_8601": "2019-03-10T22:33:58Z"
+        },
+        "subject": "UK PM May has reportedly been warned by MPs that the Brexit vote must be put on hold",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "uk-pm-may-has-reportedly-been-warned-by-mps-that-the-brexit-vote-must-be-put-on-hold-10-03-2019",
+        "hidden": false,
+        "section": {
+            "id": 38,
+            "name": "Brexit"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-03-11 06:33:00",
+        "gmt_time": "2019-03-10 22:33:00"
+    },
+    {
+        "id": 858892,
+        "updated_sequence": 1809532,
+        "published_at": {
+            "unix": 1552256700,
+            "text": "2019-03-10 22:25:00 +0000",
+            "iso_8601": "2019-03-10T22:25:00Z"
+        },
+        "updated_at": {
+            "unix": 1552256758,
+            "text": "2019-03-10 22:25:58 +0000",
+            "iso_8601": "2019-03-10T22:25:58Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASES CALENDAR NOW AVAILABLE IN THE RESEARCH SECTION: Highlights include Japanese Money Supply and Fed Chair Powell interview on CBS",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asian-daily-economic-releases-calendar-now-available-in-the-research-section-highlights-include-japanese-money-supply-and-fed-chair-powell-interview-on-cbs-10-03-2019",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-03-11 06:25:00",
+        "gmt_time": "2019-03-10 22:25:00"
+    },
+    {
+        "id": 858645,
+        "updated_sequence": 1809524,
+        "published_at": {
+            "unix": 1552255200,
+            "text": "2019-03-10 22:00:00 +0000",
+            "iso_8601": "2019-03-10T22:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1552255200,
+            "text": "2019-03-10 22:00:00 +0000",
+            "iso_8601": "2019-03-10T22:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-07-03-2019",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-03-11 06:00:00",
+        "gmt_time": "2019-03-10 22:00:00"
+    },
+    {
+        "id": 858888,
+        "updated_sequence": 1809522,
+        "published_at": {
+            "unix": 1552254120,
+            "text": "2019-03-10 21:42:00 +0000",
+            "iso_8601": "2019-03-10T21:42:00Z"
+        },
+        "updated_at": {
+            "unix": 1552255040,
+            "text": "2019-03-10 21:57:20 +0000",
+            "iso_8601": "2019-03-10T21:57:20Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p>ASIA-PAC</p><p>There were reports on Friday that China is said to have removed the trip to Mar-a-Lago from Chinese President Xi's calendar. In related news, US NEC Director Kudlow said US and China are still negotiating over the phone and that a Trump- Xi meeting may happen late this month or next, while White House Press Secretary Sanders said negotiations are ongoing about a potential meeting between Trump and Xi.&nbsp; (Newswires/Fox/Twitter)</p><p>US President Trump said he is confident of a China trade deal but added that the US will do very well either way. (Newswires)</p><p>China Mofcom stated that US-China trade talks have made substantial progress and leaders have agreed to work towards removal of tariffs. (Newswires)</p><p>PBoC pledged to further support the slowing economy by spurring loans and lowering borrowing costs after data showed a sharp decline in lending data due to seasonal factors, while reports noted Governor Yi Gang commented there is still some room for the PBoC to cut RRR although the amount of room is less compared with a few years ago. Furthermore, there were also comments from PBoC Deputy Governor Pan that they will keep liquidity ample and set up counter cyclical adjustments. (Newswires/Yahoo)</p><p>Chinese New Yuan Loans (CNY)(Feb) 885.8B vs. Exp. 975.0B (Prev. 3230.0B). (Newswires)&nbsp;</p><p>Chinese Aggregate Financing (CNY)(Feb) 703.0B vs. Exp. 1300.0B (Prev. 4640.0B).&nbsp;</p><p>Chinese Money Supply M2 (Feb) Y/Y 8.0% vs. Exp. 8.4% (Prev. 8.4%)</p><p>&nbsp;</p><p>Chinese CPI (Feb) M/M 1.0% vs. Exp.&nbsp; 0.7% (Prev. 0.5%). (Newswires)&nbsp;</p><p>Chinese CPI (Feb) Y/Y 1.5% vs. Exp. 1.5% (Prev. 1.7%)</p><p>Chinese PPI (Feb) Y/Y 0.1% vs. Exp. 0.2% (Prev. 0.1%)</p><p>&nbsp;</p><p>UK/EU</p><p>Only 2 cabinet members reportedly still support PM May, according to a cabinet minister. (Telegraph)</p><p>BoE reportedly tightened liquidity buffers ahead of Brexit in which it asked some UK banks to triple their holdings of easy-to-sell assets to cope in the event of a market crash from a potential no-deal Brexit. (FT)</p><p>EU is reportedly preparing to impose punitive conditions on UK for agreeing a Brexit extension with member states said to be toughening their attitudes and will demand legal as well as financial conditions such as an increase to the divorce bill. (Telegraph)</p><p>&nbsp;</p><p>UK Brexit Minister Barclay said now isn't the time to rerun old arguments with a very real deadline looming and that the UK has put forward clear new proposals and now need to agree a balanced solution that works on both sides. (Newswires)</p><p>DUP’s Dodds said EU offer was neither realistic nor sensible and that it disrespects the constitutional and economic integrity of the UK, while Dodd’s also suggested it was an attempt to get ahead in a possible blame game but added there is still time to get a deal. (Newswires)</p><p>ECB's Mersch said details of TLTRO will come when the ECB is ready and that the package reflects ECB's outlook. Mersch also commented that the timing and strength of EZ rebound is not clear but is confident a rebound will ultimately materialise. (Newswires)&nbsp;</p><p>COMMODITIES</p><p>Baker Hughes (March 8) oil rigs -9 at 834, nat gas rigs -2 at 193, total rigs -11 at 1027. (Newswires)</p><p>GEOPOLITICS</p><p>US President Trump said he would be very disappointed if he saw North Korea testing missiles recently. (Newswires)&nbsp;</p><p>GLOBAL NEWS</p><p>An Ethiopian Airlines Boeing 737 passenger flight crashed on Sunday morning during a regularly scheduled flight to Nairobi. (Telegraph)&nbsp;</p><p>US/NORTH AMERICA</p><p>Fed Chair Powell commented that downside risks to the economic outlook have increased and that more economies began to slow 6 months ago, while he added that US economic outlook is still favourable but that trade talks have added to the uncertainty. Powell also commented that short-term benchmark rate is within the broad range of estimates for neutral, that monetary policy is returning to more normal stance and that balance sheet reduction process is moving along which should reach new normal level by Q4. (Newswires)</p><p>US President Trump commented positively on the job report, while US NEC Director Kudlow also talked down the weak jobs report in which he assigned it to a weak government shutdown and weather issues. (Newswires)</p><p>US Non-Farm Payrolls (Feb) 20k vs. Exp. 180.0k (Prev. 304.0k, Rev. 311k); 2-month net revisions +12k&nbsp;</p><p>US Unemployment Rate (Feb) 3.8% vs. Exp. 3.9% (Prev. 4.0%)&nbsp;</p><p>US Average Earnings (Feb) Y/Y 3.4% vs. Exp. 3.3% (Prev. 3.2%, Rev. 3.1%)</p><p>&nbsp;</p><p>Canadian Employment Change (Feb) 55.9k (Prev. 66.8k)</p><p>Canada Average Hourly Wages (Feb) +2.2% (Prev. +1.8% YY)&nbsp;</p><p>&nbsp;</p><p>MARKET RECAP</p><p>Costco (COST) surged on Friday on the release of its earnings report where it beat on EPS estimates, and reported an easing of margin pressures. The energy complex nosedived, primarily due to the dip in crude prices; worth noting Norway’s sovereign wealth fund also announced its plans to cut its stake in oil companies, which included Exxon Mobil (XOM), Chevron (CVX) and ConocoPhillips (COP). Gilead Sciences (GILD) caught a bid on promising study results from HIV treatments. National Beverage (FIZZ) tanked after a disappointing earnings report. Netflix (NFLX) suffered from a downgrade at Buckingham, who cite investor angst over Disney’s (DIS) approaching streaming service. Horizon Pharma (HZNP) benefitted from an upgrade at Morgan Stanley, who say the co.’s entry into rare diseases isn’t appreciated enough. SPX -0.2% at 2743, NDX -0.2% at 7016, DJI -0.1% at 25448.</p><p>As the Tsy complex wrapped up for the week, the T Note future added only 3+ ticks at settlement, despite the NFP headline mis which took the June contract to highs of 122-31, and then snap to lows around 122-19, before continuing its sideways grind at relatively unchanged levels. There was buying after the Europeans had left for the week, which took the contract form around 122-21 to around 122-26. At settlement, major curve spreads were slightly narrower, but under 1bps. US T-note futures (M9) settled 3+ ticks higher at 122-24+.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-asia-pac-opening-news-10-03-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-03-11 05:42:00",
+        "gmt_time": "2019-03-10 21:42:00"
+    }
+]

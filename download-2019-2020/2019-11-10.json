@@ -1,0 +1,410 @@
+[
+    {
+        "id": 895459,
+        "updated_sequence": 1998205,
+        "published_at": {
+            "unix": 1573429800,
+            "text": "2019-11-10 23:50:00 +0000",
+            "iso_8601": "2019-11-10T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1573430314,
+            "text": "2019-11-10 23:58:34 +0000",
+            "iso_8601": "2019-11-10T23:58:34Z"
+        },
+        "subject": "BoJ Summary of Opinions from October meeting stated Japan's economy is likely to continue on an expanding trend as the impact of the slowdown in overseas economies on domestic demand is expected to be limited",
+        "content": "<p>Says:</p><ul><li>The year-on-year rate of change in the consumer price index (CPI) is likely to increase gradually toward 2 percent but adds it is expected to take time for the inflation rate to accelerate.</li><li>There has been no further increase in the possibility that the momentum toward achieving the price stability target will be lost.&nbsp;</li><li>As the inflation momentum has not been lost, the Bank should maintain the current monetary easing policy.</li><li>In the current situation where risks are skewed to the downside, the Bank should continue to examine whether additional monetary easing will be necessary.&nbsp;</li><li>Desirable for forward guidance to show decline in inflation rate is is not acceptable and it is necessary to for BoJ not to hesitate to take additional measures if there is an increased possibility inflation momentum will be lost.</li></ul><p>Link: <a href=\"https://www.boj.or.jp/en/mopo/mpmsche_minu/opinion_2019/opi191031.pdf\">https://www.boj.or.jp/en/mopo/mpmsche_minu/opinion_2019/opi191031.pdf</a></p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "boj-summary-of-opinions-from-october-meeting-stated-japan-s-economy-is-likely-to-continue-on-an-expanding-trend-as-the-impact-of-the-slowdown-in-overseas-economies-on-domestic-demand-is-expected-to-be-limited-10-11-2019",
+        "hidden": false,
+        "section": {
+            "id": 14,
+            "name": "BoJ"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-11-11 07:50:00",
+        "gmt_time": "2019-11-10 23:50:00"
+    },
+    {
+        "id": 895463,
+        "updated_sequence": 1998211,
+        "published_at": {
+            "unix": 1573429800,
+            "text": "2019-11-10 23:50:00 +0000",
+            "iso_8601": "2019-11-10T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1573431016,
+            "text": "2019-11-11 00:10:16 +0000",
+            "iso_8601": "2019-11-11T00:10:16Z"
+        },
+        "subject": "Japanese Adjusted Current Account Balance (JPY)(Sep) 1.485T vs. Exp. 1.664T (Prev. 1.720T)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-adjusted-current-account-balance-jpy-sep-1-485t-vs-exp-1-664t-prev-1-720t-11-11-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-11-11 07:50:00",
+        "gmt_time": "2019-11-10 23:50:00"
+    },
+    {
+        "id": 895461,
+        "updated_sequence": 1998203,
+        "published_at": {
+            "unix": 1573429800,
+            "text": "2019-11-10 23:50:00 +0000",
+            "iso_8601": "2019-11-10T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1573430048,
+            "text": "2019-11-10 23:54:08 +0000",
+            "iso_8601": "2019-11-10T23:54:08Z"
+        },
+        "subject": "Japanese Bank Lending Ex. Trusts (Oct) Y/Y 2.2% (Prev. 2.2%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-bank-lending-ex-trusts-oct-y-y-2-2-prev-2-2-10-11-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-11-11 07:50:00",
+        "gmt_time": "2019-11-10 23:50:00"
+    },
+    {
+        "id": 895460,
+        "updated_sequence": 1998200,
+        "published_at": {
+            "unix": 1573429800,
+            "text": "2019-11-10 23:50:00 +0000",
+            "iso_8601": "2019-11-10T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1573430040,
+            "text": "2019-11-10 23:54:00 +0000",
+            "iso_8601": "2019-11-10T23:54:00Z"
+        },
+        "subject": "Japanese Trade Balance BoP Basis (JPY)(Sep) 1.1B vs. Exp. 51.3B (Prev. 50.9B)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-trade-balance-bop-basis-jpy-sep-1-1b-vs-exp-51-3b-prev-50-9b-10-11-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-11-11 07:50:00",
+        "gmt_time": "2019-11-10 23:50:00"
+    },
+    {
+        "id": 895454,
+        "updated_sequence": 1998182,
+        "published_at": {
+            "unix": 1573428480,
+            "text": "2019-11-10 23:28:00 +0000",
+            "iso_8601": "2019-11-10T23:28:00Z"
+        },
+        "updated_at": {
+            "unix": 1573428769,
+            "text": "2019-11-10 23:32:49 +0000",
+            "iso_8601": "2019-11-10T23:32:49Z"
+        },
+        "subject": "PRE-MARKET JAPANESE AND SOUTH KOREAN STOCK NEWS: Earnings including Bridgestone, Honda, Isuzu, Resona and Samsung Heavy Industries",
+        "content": "<p>JAPAN</p><p>Bridgestone Corp (5108 JT) - Co. 9-month net JPY 205.4bln vs. Prev. JPY 219.5bln Y/Y, cuts FY guidance. (Newswires)</p><p>Chugoku Bank (8283 JT) - Co. H1 net JPY 8.6bln vs. Prev. JPY 9.7bln Y/Y. (Newswires)</p><p>Honda (7267 JT) - Co. H1 net JPY 368.9bln vs. Prev. JPY 455.1bln Y/Y, rev. JPY 7.73tln vs. Prev. JPY 7.87tln, Co. cuts FY guidance and announces JPY 100bln buyback for 1.9% of shares. (Newswires)</p><p>Isuzu Motors (7202 JT) - Co. H1 net JPY 39.8bln vs. Prev. JPY 56.4bln Y/Y, cuts FY guidance. (Newswires)</p><p>Mitsubishi UFJ Financial Group (8306 JT) - Co. reportedly plans to write off its losses for US acquisition due to low interest rates. (Newswires)</p><p>Mitsui Engineering &amp; Shipbuilding (7003 JT) - Co. expects net loss of JPY 99bln for FY period to March. (Nikkei)</p><p>Resona Holdings (8308 JT) - Co. H1 net JPY 76.9bln vs. Prev. JPY 122.1bln Y/Y. (Newswires)</p><p>SBI Holdings (8473 JT) - Co. is speculated to form tie-up with Fukushima Bank. (Newswires)</p><p>Sumitomo Metal Mining (5713 JT) - Co. H1 net JPY 29.4bln vs. Prev. JPY 58.1bln Y/Y. (Newswires)</p><p>Toshiba (6502 JT) - Co. H1 consolidated oper. profit is said to have increased 7x from the prior year to JPY 50bln. (Nikkei)</p><p>Toyo Tire &amp; Rubber Co. (5105 JT) - Co. 9-month net JPY 14.1bln vs. Prev. JPY 11.3bln Y/Y. (Newswires)</p><p>Other News - Japan’s government plans to push for ending tax deduction on large companies’ entertainment spending. (Nikkei)</p><p>&nbsp;</p><p>SOUTH KOREA</p><p>Handsome Co. (020000 KS) - Co. Q3 net KRW 21.0bln vs. Exp. KRW 17.4bln. (Newswires)</p><p>Kangwon Land (035250 KS) - Co. Q3 net KRW 129.0bln vs. Prev. KRW 93.3bln Y/Y. (Newswires)</p><p>Kia Motors (000270 KS) - Co.’s Seltos has become the best-selling SUV in India for October. (Newswires)</p><p>Posco International (047050 KS) - Co. signed front-end engineering design contract related to Myanmar gas project. (Yonhap)</p><p>Samsung Card (029780 KS) - Co. Q3 net KRW 90.8bln vs. Prev. CNY 80.7bln Y/Y. (Newswires)</p><p>Samsung Heavy Industries (010140 KS) - Co. Q3 net loss KRW 583.2bln vs. Prev. loss KRW 80.3bln Y/Y. (Newswires)</p><p>SK Broadband (033630 KS) - Co. merger with t-broad received conditional approval from South Korea’s antitrust regulator. (Yonhap)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-japanese-and-south-korean-stock-news-earnings-including-bridgestone-honda-isuzu-resona-and-samsung-heavy-industries-10-11-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-11-11 07:28:00",
+        "gmt_time": "2019-11-10 23:28:00"
+    },
+    {
+        "id": 895453,
+        "updated_sequence": 1998177,
+        "published_at": {
+            "unix": 1573427940,
+            "text": "2019-11-10 23:19:00 +0000",
+            "iso_8601": "2019-11-10T23:19:00Z"
+        },
+        "updated_at": {
+            "unix": 1573428013,
+            "text": "2019-11-10 23:20:13 +0000",
+            "iso_8601": "2019-11-10T23:20:13Z"
+        },
+        "subject": "Australia fire officials warn of catastrophic fire danger from the dozens of bush fires in New South Wales",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "australia-fire-officials-warn-of-catastrophic-fire-danger-from-the-dozens-of-bush-fires-in-new-south-wales-10-11-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-11-11 07:19:00",
+        "gmt_time": "2019-11-10 23:19:00"
+    },
+    {
+        "id": 895452,
+        "updated_sequence": 1998174,
+        "published_at": {
+            "unix": 1573426500,
+            "text": "2019-11-10 22:55:00 +0000",
+            "iso_8601": "2019-11-10T22:55:00Z"
+        },
+        "updated_at": {
+            "unix": 1573426596,
+            "text": "2019-11-10 22:56:36 +0000",
+            "iso_8601": "2019-11-10T22:56:36Z"
+        },
+        "subject": "Spanish PM Sanchez says his socialist party will call on other parties tomorrow to tackle the political stalemate",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "spanish-pm-sanchez-says-his-socialist-party-will-call-on-other-parties-tomorrow-to-tackle-the-political-stalemate-10-11-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-11-11 06:55:00",
+        "gmt_time": "2019-11-10 22:55:00"
+    },
+    {
+        "id": 895451,
+        "updated_sequence": 1998171,
+        "published_at": {
+            "unix": 1573425780,
+            "text": "2019-11-10 22:43:00 +0000",
+            "iso_8601": "2019-11-10T22:43:00Z"
+        },
+        "updated_at": {
+            "unix": 1573425856,
+            "text": "2019-11-10 22:44:16 +0000",
+            "iso_8601": "2019-11-10T22:44:16Z"
+        },
+        "subject": "DBS (DBS SP) Q3 net SGD 1.63bln vs. Prev. SGD 1.41bln Y/Y, net interest income SGD 2.46bln vs. Prev. SGD 2.27bln Y/Y",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "dbs-dbs-sp-q3-net-sgd-1-63bln-vs-prev-sgd-1-41bln-y-y-net-interest-income-sgd-2-46bln-vs-prev-sgd-2-27bln-y-y-10-11-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-11-11 06:43:00",
+        "gmt_time": "2019-11-10 22:43:00"
+    },
+    {
+        "id": 895450,
+        "updated_sequence": 1998165,
+        "published_at": {
+            "unix": 1573425600,
+            "text": "2019-11-10 22:40:00 +0000",
+            "iso_8601": "2019-11-10T22:40:00Z"
+        },
+        "updated_at": {
+            "unix": 1573425785,
+            "text": "2019-11-10 22:43:05 +0000",
+            "iso_8601": "2019-11-10T22:43:05Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIAN STOCK NEWS: BHP (BHP AT) said petroleum is set to deliver strong results and contribute significant value for the Co. through the 2020s and beyond",
+        "content": "<p>BHP (BHP AT) - Co. said petroleum is set to deliver strong results and contribute significant value for the Co. through the 2020s and beyond, while it guides FY20 conventional petroleum output at 110mln-116mln BOE. (Newswires)</p><p>Coles (COL AT) - Co. enters deal to source private label groceries from Sainsbury’s (SBRY LN) as it seeks to raise its house brand sales to 40% of total sales during next few years. (AFR)</p><p>Domain Holdings (DHG AT) - Co. entered binding agreement for 100% takeover of Bidtracker Holdings. (Newswires)</p><p>Suncorp (SUN AT) - Co. plans to raise AUD 250mln through offer of capital notes 3. (Newswires)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-australian-stock-news-bhp-bhp-at-said-petroleum-is-set-to-deliver-strong-results-and-contribute-significant-value-for-the-co-through-the-2020s-and-beyond-10-11-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-11-11 06:40:00",
+        "gmt_time": "2019-11-10 22:40:00"
+    },
+    {
+        "id": 895449,
+        "updated_sequence": 1998160,
+        "published_at": {
+            "unix": 1573424940,
+            "text": "2019-11-10 22:29:00 +0000",
+            "iso_8601": "2019-11-10T22:29:00Z"
+        },
+        "updated_at": {
+            "unix": 1573425017,
+            "text": "2019-11-10 22:30:17 +0000",
+            "iso_8601": "2019-11-10T22:30:17Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASES CALENDAR NOW AVAILABLE IN THE RESEARCH SECTION: Highlights include BoJ Summary of Opinions, Japanese Machine Orders and Current Account Balance",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asian-daily-economic-releases-calendar-now-available-in-the-research-section-highlights-include-boj-summary-of-opinions-japanese-machine-orders-and-current-account-balance-10-11-2019",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-11-11 06:29:00",
+        "gmt_time": "2019-11-10 22:29:00"
+    },
+    {
+        "id": 895448,
+        "updated_sequence": 1998157,
+        "published_at": {
+            "unix": 1573423500,
+            "text": "2019-11-10 22:05:00 +0000",
+            "iso_8601": "2019-11-10T22:05:00Z"
+        },
+        "updated_at": {
+            "unix": 1573424523,
+            "text": "2019-11-10 22:22:03 +0000",
+            "iso_8601": "2019-11-10T22:22:03Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p><strong>ASIA-PAC</strong></p><p>US President Trump said he has not yet agreed to roll back tariffs on China, while he noted that China would like him to do so and wants him to make a trade deal. Furthermore, President Trump stated the deal will be signed in the US and sources reported that President Trump will not \"fully\" roll back China tariffs and that China wants a partial tariff rollback. (Newswires)</p><p>US President Trump is said to remain confident that some kind of deal gets done although there is still work to be done and internal opponents of going soft on tariffs according to sources, while Trump commented over the weekend that he thinks trade talks are moving along very nicely. (Politico/Newswires)</p><p>White House Trade Adviser Navarro said US is willing to postpone the December 15th tariffs for a Phase One deal and that the US is saving other tariffs to make sure we can negotiate phase 2 and 3 with China, while he commented over the weekend that there is no agreement to rollback any existing tariffs as part of the Phase One deal and that there are no conflicting signals. (Fox/Twitter)</p><p>White House spokesperson said US is optimistic about some kind of US-China trade deal and that if a deal is reached, then some tariffs could be lifted. (Newswires)</p><p>US Chief of Staff to the Vice President said he is very confident a phase one trade deal with China will be signed before the end of the year. (Newswires)</p><p>China Global Times Editor said markets didn't expect Trump's remarks but added it is not a flat denial and that what's certain is that if there's no rollback of tariffs, there will be no phase 1. (Twitter)</p><p>Hong Kong police reportedly tried to detonate an explosive device in Mong Kok on Friday, while violence continued on what was a 24th weekend of unrest for Hong Kong. (Newswires)</p><ul><li>Chinese CPI (Oct) Y/Y 3.8% vs. Exp. 3.3% (Prev. 3.0%). (Newswires)&nbsp;</li><li>Chinese PPI (Oct) Y/Y -1.6% vs. Exp. -1.5% (Prev. -1.2%)</li></ul><p>NZIER Shadow Board on average expect the RBNZ to remain on hold at this week’s meeting but the range of views has widened since the last meeting with an increased skew towards a higher OCR, while it noted that the recent data has been mixed. (Newswires)</p><p>&nbsp;</p><p><strong>UK/EU</strong></p><p>SNP's Sturgeon said if there is a hung parliament, she would seek to form a progressive alliance to block the Conservative party from Government but would drive a hard bargain. (Newswires)</p><p>UK Election Polling: Panelbase poll estimates support for the Conservatives at 40% (unch.), Labour at 30% (+1), Liberal Democrats (+1), Brexit Party (-1). (Newswires)</p><p>Moody’s affirmed UK at Aa2; Outlook revised to Negative from Stable. (Newswires)</p><p>Preliminary data from the Spanish election shows no party with a majority, although Spain’s socialists are on course to win 120 (-3) out of the 350 seats and the conservatives Peoples’ Party with 87 (+21) seats, while far-right VOX are to win 52 seats (+28). (Newswires)</p><p>&nbsp;</p><p><strong>FX</strong></p><ul><li>Canadian Employment Change (Oct) -1.8k vs. Exp. 15.9k (Prev. 53.7k). (Newswires)</li><li>Canadian Unemployment Rate (Oct) 5.5% vs. Exp. 5.5% (Prev. 5.5%)&nbsp;</li></ul><p>&nbsp;</p><p><strong>COMMODITIES</strong></p><p>Baker Hughes US rig count: Oil rigs -7 at 684, nat gas rigs unchanged at 130, total rigs -5 at 817. (Newswires)</p><p>Iran said it discovered an oilfield with 53bln barrels in southwest Iran. (Newswires)</p><p>Alberta government announced that oil producers can now drill from conventional wells without limits, while curtailment orders remain in effect on existing producers' conventional oil wells. (Newswires)&nbsp;</p><p>&nbsp;</p><p><strong>GEOPOLITICS</strong></p><p>There were reports that Iranian Air Defences shot down a drone over the port of Mahshahr on the edge of the Persian Gulf, although US Central Command later stated the reports of US drone being shot down are incorrect and all US equipment has been accounted for. (Newswires/ELINT News)</p><p>Bolivia President Morales resigned after the country’s armed forces chief called on him to quit. (Newswires)</p><p>&nbsp;</p><p><strong>US</strong></p><p>Fed’s Williams (Voter, Neutral) said he expects interest rates will be very low for the foreseeable future and that global growth will be modest, while he added that monetary policy is moderately accommodative and that he was concerned about persistently low inflation. (Newswires)</p><p>Fed's Bostic (Non-Voter, Dove) said the Fed should wait and see on future rate cuts. Bostic also suggested that economic growth will remain in the current good place where it is for at least the next 6 to 12 months, while he sees no slowdown in consumer spending and GDP ending at 2.2%. (Newswires)</p><p>&nbsp;</p><p><strong>MARKET RECAP</strong></p><p>Markets moved sideways to end the week on Friday experiencing some choppy tape action amid trade updates, albeit ranges were thin. There were further comments directly from President Trump that there was no decision yet made on rolling back tariffs which saw a kneejerk risk-off reaction across major asset classes. McDonald’s (MCD) shares were supported on an upgrade to Buy from Neutral at Longbow; the analyst noted the Co. is in good hands following the appointment of its new CEO Chris Kempczinski, as he has played an integral role alongside the former CEO Easterbrook in driving company performance. AbbVie (ABBV) performed well; the Co. submitted a supplemental New Drug Application to the FDA for its Imbruvica for treatment of patients younger than 70 years old with small or chronic lymphocytic leukaemia. Separately, the Co. will price USD 28bln in supply next week for its Allergan (AGN) acquisition. Alibaba (BABA) made decent strides on reports that it is planning to launch its Hong Kong IPO in the last week of November, according to sources; the Co. hopes to raise USD 15bln in its offering. HP (HPQ) was under pressure on reports that its board is not convinced that a sale to Xerox (XRX) is the right move. DuPont de Nemours Inc (DD) moved lower in choppy trade, on reports that it is considering divesting is transportation business. Albemarle (ALB) was under pressure after being downgraded to Underweight from Neutral at JP Morgan, who noted the growth rate for global electric vehicles is slowing whilst lithium supply is picking up, leading its analysts to believe the Co.’s long term contracts are potentially to be renegotiated downwards. Elsewhere in notable downgrades, Tiffany &amp; Co. (TIF) was pressured on a downgrade to hold from buy at Jefferies, citing limited scope for a third-party acquisition bid, although LVMH (MC FP) is reportedly willing to up its offer from USD 120/share. United Rentals (URI) performed well after being upgraded to Conviction buy at Goldman Sachs, while Cummins (CMI) was supported by an upgrade at Evercore ISI. Boeing (BA) and Southwest Airlines (LUV) saw pressure as it was announced LUV would be pushing back the flight schedule for BA’s 737 Max jet to March; from February previously. LUV also announced due to the delay it is unable to provide Q120 ASM guidance at this time. AstraZeneca (AZN) caught a bid during trade as its phase 3 Farxiga trial met its primary efficacy endpoint. Also of note, unconfirmed source reports noted takeover chatter for PayPal (PYPL), with Mastercard (MA) touted as a potential suitor with a USD 135/shr offer. S&amp;P 500 0.3% at 3093, NASDAQ-100 0.4% at 8256, Dow Jones 0% at 27681.</p><p>A lack of conviction in risk appetite was evident in the TPLEX which settled little changed. The T-Note was offered through the European session before reversing course in the latter end of the day, triggered by US President Trump saying he had not yet decided whether to roll back China tariffs. More broadly, looking at the week, the TPLEX has seen significant amount of selling, with yields at levels not seen since July, off their lows in late-August/early-September. Given the reported progress in US-China trade, Treasury refunding, ramped up corporate issuance and a Fed now (presumably) on pause, the selling pressure on the TPLEX is of little surprise in this first week of November. T-note futures (Z9) settled unchanged at 128-12+.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-asia-pac-opening-news-10-11-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-11-11 06:05:00",
+        "gmt_time": "2019-11-10 22:05:00"
+    },
+    {
+        "id": 895225,
+        "updated_sequence": 1998149,
+        "published_at": {
+            "unix": 1573423200,
+            "text": "2019-11-10 22:00:00 +0000",
+            "iso_8601": "2019-11-10T22:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1573423200,
+            "text": "2019-11-10 22:00:00 +0000",
+            "iso_8601": "2019-11-10T22:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-07-11-2019",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-11-11 06:00:00",
+        "gmt_time": "2019-11-10 22:00:00"
+    }
+]

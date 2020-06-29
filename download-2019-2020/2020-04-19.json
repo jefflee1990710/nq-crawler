@@ -1,0 +1,792 @@
+[
+    {
+        "id": 920867,
+        "updated_sequence": 2219306,
+        "published_at": {
+            "unix": 1587340680,
+            "text": "2020-04-20 00:58:00 +0100",
+            "iso_8601": "2020-04-19T23:58:00Z"
+        },
+        "updated_at": {
+            "unix": 1587340786,
+            "text": "2020-04-20 00:59:46 +0100",
+            "iso_8601": "2020-04-19T23:59:46Z"
+        },
+        "subject": "China Development Bank to terminate 29 of the 99 undelivered Boeing (BA) 737 Max planes",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "china-development-bank-to-terminate-29-of-the-99-undelivered-boeing-ba-737-max-planes-19-04-2020",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-04-20 07:58:00",
+        "gmt_time": "2020-04-19 23:58:00"
+    },
+    {
+        "id": 920866,
+        "updated_sequence": 2219301,
+        "published_at": {
+            "unix": 1587340200,
+            "text": "2020-04-20 00:50:00 +0100",
+            "iso_8601": "2020-04-19T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1587340316,
+            "text": "2020-04-20 00:51:56 +0100",
+            "iso_8601": "2020-04-19T23:51:56Z"
+        },
+        "subject": "Japanese Adjusted Trade Balance (JPY)(Mar) -190.0B vs. Exp. -115.0B (Prev. 498.3B)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-adjusted-trade-balance-jpy-mar-190-0b-vs-exp-115-0b-prev-498-3b-19-04-2020",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-04-20 07:50:00",
+        "gmt_time": "2020-04-19 23:50:00"
+    },
+    {
+        "id": 920862,
+        "updated_sequence": 2219289,
+        "published_at": {
+            "unix": 1587339900,
+            "text": "2020-04-20 00:45:00 +0100",
+            "iso_8601": "2020-04-19T23:45:00Z"
+        },
+        "updated_at": {
+            "unix": 1587339986,
+            "text": "2020-04-20 00:46:26 +0100",
+            "iso_8601": "2020-04-19T23:46:26Z"
+        },
+        "subject": "RBNZ buys NZD 450mln of government bonds in QE operations as targetted",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "rbnz-buys-nzd-450mln-of-government-bonds-in-qe-operations-as-targetted-19-04-2020",
+        "hidden": false,
+        "section": {
+            "id": 11,
+            "name": "RBNZ"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-04-20 07:45:00",
+        "gmt_time": "2020-04-19 23:45:00"
+    },
+    {
+        "id": 920861,
+        "updated_sequence": 2219286,
+        "published_at": {
+            "unix": 1587339840,
+            "text": "2020-04-20 00:44:00 +0100",
+            "iso_8601": "2020-04-19T23:44:00Z"
+        },
+        "updated_at": {
+            "unix": 1587339921,
+            "text": "2020-04-20 00:45:21 +0100",
+            "iso_8601": "2020-04-19T23:45:21Z"
+        },
+        "subject": "RBA adds AUD 1.35bln to banking system through repos vs. Prev. AUD 1.52bln",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "rba-adds-aud-1-35bln-to-banking-system-through-repos-vs-prev-aud-1-52bln-19-04-2020",
+        "hidden": false,
+        "section": {
+            "id": 12,
+            "name": "RBA"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-04-20 07:44:00",
+        "gmt_time": "2020-04-19 23:44:00"
+    },
+    {
+        "id": 920860,
+        "updated_sequence": 2219283,
+        "published_at": {
+            "unix": 1587339720,
+            "text": "2020-04-20 00:42:00 +0100",
+            "iso_8601": "2020-04-19T23:42:00Z"
+        },
+        "updated_at": {
+            "unix": 1587339782,
+            "text": "2020-04-20 00:43:02 +0100",
+            "iso_8601": "2020-04-19T23:43:02Z"
+        },
+        "subject": "US President Trump says he is in favor of aid to state and local governments, although that would be for a future package to negotiated with Congress",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-president-trump-says-he-is-in-favor-of-aid-to-state-and-local-governments-although-that-would-be-for-a-future-package-to-negotiated-with-congress-19-04-2020",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-04-20 07:42:00",
+        "gmt_time": "2020-04-19 23:42:00"
+    },
+    {
+        "id": 920859,
+        "updated_sequence": 2219315,
+        "published_at": {
+            "unix": 1587339480,
+            "text": "2020-04-20 00:38:00 +0100",
+            "iso_8601": "2020-04-19T23:38:00Z"
+        },
+        "updated_at": {
+            "unix": 1587340844,
+            "text": "2020-04-20 01:00:44 +0100",
+            "iso_8601": "2020-04-20T00:00:44Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIA, JAPAN AND SOUTH KOREA STOCK NEWS: NAB flags charges, Couche Tard will not proceed with pursuit for Caltex, oil slips to around USD 17.00/bbl",
+        "content": "<p>AUSTRALIA</p><p>Boart Longyear (BLY AT) - Co. Q1 net loss AUD 22.0mln vs. Prev. loss AUD 6.0mln Y/Y. (Newswires)</p><p>Caltex (CTX AT) - Co. Q1 RCOP net AUD 80mln vs. Prev. AUD 94mln Y/Y, EBIT AUD 142mln vs. Prev. AUD 138mln Y/Y, Co. says Couche-Tard will not proceed with pursuit for Caltex amid coronavirus but may engage once there is some clarity on outlook. (Newswires)</p><p>Cynata Therapeutics (CYP AT) - Co. preclinical study showing beneficial effects of Cymerus in acute respiratory distress syndrome was accepted in leading peer-reviewed journal. (Newswires)</p><p>Domain Holdings (DHG AT) - Co. is expected to announce job cuts and salary reductions. (Newswires)</p><p>Downer (DOW AT) - Co. announces new AUD 500mln syndicated bank facility and reached agreement to extend maturity of AUD 130mln bilateral debt facilities. (Newswires)</p><p>Fonterra (FSF AT) - Co. CEO notes increase of global milk supply and affirms guidance. (Newswires)</p><p>Metcash (MTS AT) - Co. in trading halt pending equity raising announcement. (Newswires)</p><p>National Australia Bank (NAB AT) - Co. H1 earnings are expected to include charges of AUD 188mln after tax for customer-related remediation which is expected to reduce group's CET 1 ration by about 6 bps, while capitalization policy to reduce after-tax earnings by AUD 742mln. (Newswires)</p><p>Perpetual (PPT AT) - Co. Q3 FUM AUD 21.4bln vs. Prev. AUD 26.3bln Q/Q. (Newswires)</p><p>Resolute Mining (RSG AT) - Co. Q3 gold output 110.8k ounces vs. Prev. 98.1k ounces Y/Y. (Newswires)</p><p>South32 (S32 AT) - Co. Q3 manganese output 1.31mln tons vs. Prev. 1.36mln tons Y/Y, alumina output 1.28mln tons vs. Prev. 1.20mln tons Y/Y, suspends share buyback, lowers capex and manganese output guidance but affirms all other guidance. (Newswires)</p><p>Sydney Airport (SYD AT) - Co. March passenger numbers fell 45.1% Y/Y to 2.0mln, Co. secures AUD 850mln new debt facilities. (Newswires)</p><p>Virgin Australia (VAH AT) - BGH Capital is said to be among the interested parties in Virgin and would likely bid with a partner, while other reports noted NSW Premier confirmed the state government is considering providing funding for the airline. (AFR/Newswires)</p><p>&nbsp;</p><p>JAPAN</p><p>Asics (7936 JT) - Co. Q1 earnings results was postponed from May 8th to May 22nd. (Newswires)</p><p>Honda (7267 KT) - Co. to resume operations in Turkish plants from today. (Newswires)</p><p>JFE Holdings (5411 JT) - Co. unit will invest JPY 10bln on plastic recycling plant. (Newswires)</p><p>Meiji Holdings (2269 JT) - Co. will delay earnings announcement. (Newswires)</p><p>Nissan (7201 JT) - Co. said to adjust output next month. (Newswires)</p><p>Sony (6758 JT) - Co. postpones earnings release from April 30th to May 13th. (Newswires)</p><p>Toshiba (6502 JT) - Co. postpones FY results from May 14th to end-May or later. (Newswires)</p><p>&nbsp;</p><p>SOUTH KOREA</p><p>Asiana Airlines (020560 KS) - Co. announces self-rescue plan in which it extends unpaid leave for staff and is implementing measures to safeguard operations until they return to normal. (Newswires)</p><p>GS Engineering (006360 KS) - Co. receives KRW 551bln order from Singapore. (Newswires)</p><p>Nexen Tire (002350 KS) - Co. suspended production April 18th-29th to make adjustments to inventory. (Newswires)</p><p>Other News - South Korea government is expected to announce next steps for airlines and refineries this week, while it was also reported the government will maintain social distancing guidelines with less intensity until May 5th. (Yonhap)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-australia-japan-and-south-korea-stock-news-nab-flags-charges-couche-tard-will-not-proceed-with-pursuit-for-caltex-oil-slips-to-around-usd-17-00-bbl-19-04-2020",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-04-20 07:38:00",
+        "gmt_time": "2020-04-19 23:38:00"
+    },
+    {
+        "id": 920858,
+        "updated_sequence": 2219277,
+        "published_at": {
+            "unix": 1587338700,
+            "text": "2020-04-20 00:25:00 +0100",
+            "iso_8601": "2020-04-19T23:25:00Z"
+        },
+        "updated_at": {
+            "unix": 1587338771,
+            "text": "2020-04-20 00:26:11 +0100",
+            "iso_8601": "2020-04-19T23:26:11Z"
+        },
+        "subject": "US President Trump says will be willing to provide aid to Iran if the latter asks for help",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-president-trump-says-will-be-willing-to-provide-aid-to-iran-if-the-latter-asks-for-help-19-04-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-04-20 07:25:00",
+        "gmt_time": "2020-04-19 23:25:00"
+    },
+    {
+        "id": 920857,
+        "updated_sequence": 2219274,
+        "published_at": {
+            "unix": 1587338460,
+            "text": "2020-04-20 00:21:00 +0100",
+            "iso_8601": "2020-04-19T23:21:00Z"
+        },
+        "updated_at": {
+            "unix": 1587338513,
+            "text": "2020-04-20 00:21:53 +0100",
+            "iso_8601": "2020-04-19T23:21:53Z"
+        },
+        "subject": "RBA says excess cash at exchange settlement accounts at AUD 85.8bln vs. Prev.  AUD 87.3bln",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "rba-says-excess-cash-at-exchange-settlement-accounts-at-aud-85-8bln-vs-prev-aud-87-3bln-19-04-2020",
+        "hidden": false,
+        "section": {
+            "id": 12,
+            "name": "RBA"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-04-20 07:21:00",
+        "gmt_time": "2020-04-19 23:21:00"
+    },
+    {
+        "id": 920855,
+        "updated_sequence": 2219269,
+        "published_at": {
+            "unix": 1587337440,
+            "text": "2020-04-20 00:04:00 +0100",
+            "iso_8601": "2020-04-19T23:04:00Z"
+        },
+        "updated_at": {
+            "unix": 1587337892,
+            "text": "2020-04-20 00:11:32 +0100",
+            "iso_8601": "2020-04-19T23:11:32Z"
+        },
+        "subject": "UK Rightmove says new home sales are almost impossible and it cannot provide meaningful price data",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "uk-rightmove-says-new-home-sales-are-almost-impossible-and-it-cannot-provide-meaningful-price-data-19-04-2020",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-04-20 07:04:00",
+        "gmt_time": "2020-04-19 23:04:00"
+    },
+    {
+        "id": 920856,
+        "updated_sequence": 2219264,
+        "published_at": {
+            "unix": 1587337320,
+            "text": "2020-04-20 00:02:00 +0100",
+            "iso_8601": "2020-04-19T23:02:00Z"
+        },
+        "updated_at": {
+            "unix": 1587337810,
+            "text": "2020-04-20 00:10:10 +0100",
+            "iso_8601": "2020-04-19T23:10:10Z"
+        },
+        "subject": "British Retail Consortium says footfall is down 83% Y/Y since the UK lockdown started",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "british-retail-consortium-says-footfall-is-down-83-y-y-since-the-uk-lockdown-started-23_10pm_utc_19-04-2020",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-04-20 07:02:00",
+        "gmt_time": "2020-04-19 23:02:00"
+    },
+    {
+        "id": 920853,
+        "updated_sequence": 2219253,
+        "published_at": {
+            "unix": 1587337260,
+            "text": "2020-04-20 00:01:00 +0100",
+            "iso_8601": "2020-04-19T23:01:00Z"
+        },
+        "updated_at": {
+            "unix": 1587337356,
+            "text": "2020-04-20 00:02:36 +0100",
+            "iso_8601": "2020-04-19T23:02:36Z"
+        },
+        "subject": "UK Rightmove House Prices (Apr) Y/Y 2.1% (Prev. 3.5%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "uk-rightmove-house-prices-apr-y-y-2-1-prev-3-5-19-04-2020",
+        "hidden": false,
+        "section": {
+            "id": 29,
+            "name": "UK Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-04-20 07:01:00",
+        "gmt_time": "2020-04-19 23:01:00"
+    },
+    {
+        "id": 920852,
+        "updated_sequence": 2219255,
+        "published_at": {
+            "unix": 1587337260,
+            "text": "2020-04-20 00:01:00 +0100",
+            "iso_8601": "2020-04-19T23:01:00Z"
+        },
+        "updated_at": {
+            "unix": 1587337366,
+            "text": "2020-04-20 00:02:46 +0100",
+            "iso_8601": "2020-04-19T23:02:46Z"
+        },
+        "subject": "UK Rightmove House Prices (Apr) M/M -0.2% (Prev. 1.0%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "uk-rightmove-house-prices-apr-m-m-0-2-prev-1-0-19-04-2020",
+        "hidden": false,
+        "section": {
+            "id": 29,
+            "name": "UK Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-04-20 07:01:00",
+        "gmt_time": "2020-04-19 23:01:00"
+    },
+    {
+        "id": 920848,
+        "updated_sequence": 2219232,
+        "published_at": {
+            "unix": 1587336060,
+            "text": "2020-04-19 23:41:00 +0100",
+            "iso_8601": "2020-04-19T22:41:00Z"
+        },
+        "updated_at": {
+            "unix": 1587336132,
+            "text": "2020-04-19 23:42:12 +0100",
+            "iso_8601": "2020-04-19T22:42:12Z"
+        },
+        "subject": "CORONAVIRUS WORLDWIDE CASES 2,402,980, DEATHS 165,641, RECOVERED 615,703",
+        "content": "<p>Figures provided as of Sunday (via worldometers website) against Saturday:</p><p>&nbsp;US total cases 762,496 (prev. 738,792), death toll 40,478 (prev. 39,014).</p><p>&nbsp;ITALY total cases 178,972 (prev. 175,925), death toll 23,660 (prev. 23,227).</p><p>&nbsp;SPAIN total cases 198,674 (prev. 194,416), death toll 21,238 (prev. 20,043).</p><p>&nbsp;GERMANY total cases 145,184 (prev. 143,724), death toll 4,586 (prev. 4,538).</p><p>&nbsp;CHINA total cases (prev. 82,735), death toll (prev. 4,632).</p><p>&nbsp;FRANCE total cases 152,894 (prev. 151,793), death toll 19,718 (prev. 19,323).</p><p>&nbsp;UK total cases 120,067 (prev. 114,217), death toll 16,060 (prev. 15,464).</p><p>&nbsp;SWITZERLAND total cases 27,740 (prev. 27,404), death toll 1,393 (prev. 1,368)</p><p>&nbsp;NETHERLANDS total cases 32,655 (prev. 31,589), death toll 3,684 (prev. 3,601).</p><p>&nbsp;CANADA total cases 34,813 (prev. 33,383), death toll 1,583 (prev. 1,470).</p><p>&nbsp;SOUTH KOREA total cases 10,661 (prev. 10,653), death toll 234 (prev. 232).</p><p>&nbsp;</p>",
+        "reaction_details": "<p>Note</p><p>Figures are provided via worldometers thus there may be some discrepancies on figures provided against those stated from individual states.</p><p>Blank spaces are indicative of countries that have not yet updated their figures on Sunday</p>",
+        "reaction_updated_at": {
+            "unix": 1587336132,
+            "text": "2020-04-19 23:42:12 +0100",
+            "iso_8601": "2020-04-19T22:42:12Z"
+        },
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Worldometers",
+        "slug": "coronavirus-worldwide-cases-2-402-980-deaths-165-641-recovered-615-703-19-04-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-04-20 06:41:00",
+        "gmt_time": "2020-04-19 22:41:00"
+    },
+    {
+        "id": 920847,
+        "updated_sequence": 2219415,
+        "published_at": {
+            "unix": 1587335760,
+            "text": "2020-04-19 23:36:00 +0100",
+            "iso_8601": "2020-04-19T22:36:00Z"
+        },
+        "updated_at": {
+            "unix": 1587349906,
+            "text": "2020-04-20 03:31:46 +0100",
+            "iso_8601": "2020-04-20T02:31:46Z"
+        },
+        "subject": "US CDC reports total coronavirus cases as of previous day at 1600EDT increased to 720,630 (Prev. 690,714), while total death toll was at 37,202 (Prev. 35,443)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-cdc-reports-total-coronavirus-cases-as-of-previous-day-at-1600edt-increased-to-720-630-prev-690-714-while-total-death-toll-was-at-37-202-prev-35-443-19-04-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-04-20 06:36:00",
+        "gmt_time": "2020-04-19 22:36:00"
+    },
+    {
+        "id": 920846,
+        "updated_sequence": 2219234,
+        "published_at": {
+            "unix": 1587335340,
+            "text": "2020-04-19 23:29:00 +0100",
+            "iso_8601": "2020-04-19T22:29:00Z"
+        },
+        "updated_at": {
+            "unix": 1587336295,
+            "text": "2020-04-19 23:44:55 +0100",
+            "iso_8601": "2020-04-19T22:44:55Z"
+        },
+        "subject": "US President Trump says getting closer to a deal with Democrats regarding stimulus deal and could have an answer on Monday",
+        "content": "<p>Says:</p><ul><li>VP Pence will lead call with Governors on Monday to discuss what can be done to further coronavirus response.</li><li>Preparing to use Defense Production Act to increase swab production at a facility.</li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-president-trump-says-getting-closer-to-a-deal-with-democrats-regarding-stimulus-deal-and-could-have-an-answer-on-monday-19-04-2020",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-04-20 06:29:00",
+        "gmt_time": "2020-04-19 22:29:00"
+    },
+    {
+        "id": 920845,
+        "updated_sequence": 2219271,
+        "published_at": {
+            "unix": 1587334920,
+            "text": "2020-04-19 23:22:00 +0100",
+            "iso_8601": "2020-04-19T22:22:00Z"
+        },
+        "updated_at": {
+            "unix": 1587337973,
+            "text": "2020-04-20 00:12:53 +0100",
+            "iso_8601": "2020-04-19T23:12:53Z"
+        },
+        "subject": "NAB (NAB AT) H1 earnings are expected to include charges of AUD 188mln after tax for customer-related remediation which is expected to reduce group's CET 1 ration by about 6 bps, while capitalization policy to reduce after-tax earnings by AUD 742mln",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "nab-nab-at-h1-earnings-are-expected-to-include-charges-of-aud-188mln-after-tax-for-customer-related-remediation-which-is-expected-to-reduce-group-s-cet-1-ration-by-about-6-bps-while-capitalization-policy-to-reduce-after-tax-earnings-by-au-19-04-2020",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-04-20 06:22:00",
+        "gmt_time": "2020-04-19 22:22:00"
+    },
+    {
+        "id": 920844,
+        "updated_sequence": 2219215,
+        "published_at": {
+            "unix": 1587334200,
+            "text": "2020-04-19 23:10:00 +0100",
+            "iso_8601": "2020-04-19T22:10:00Z"
+        },
+        "updated_at": {
+            "unix": 1587334305,
+            "text": "2020-04-19 23:11:45 +0100",
+            "iso_8601": "2020-04-19T22:11:45Z"
+        },
+        "subject": "US House Majority Leader Hoyer says House could meet on Wednesday regarding relief loan plan",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>As a reminder, US President Trump’s administration and Democrats in Congress are said to be near a USD 450bln economic relief package for small businesses including billions for the paycheck protection programme, hospitals and expansion of testing, while other sources also noted that US Treasury Secretary Mnuchin and House Speaker Pelosi were very close to a deal for 2nd round of small business loans.&nbsp;</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1587334305,
+            "text": "2020-04-19 23:11:45 +0100",
+            "iso_8601": "2020-04-19T22:11:45Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-house-majority-leader-hoyer-says-house-could-meet-on-wednesday-regarding-relief-loan-plan-19-04-2020",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-04-20 06:10:00",
+        "gmt_time": "2020-04-19 22:10:00"
+    },
+    {
+        "id": 920843,
+        "updated_sequence": 2219212,
+        "published_at": {
+            "unix": 1587333720,
+            "text": "2020-04-19 23:02:00 +0100",
+            "iso_8601": "2020-04-19T22:02:00Z"
+        },
+        "updated_at": {
+            "unix": 1587333957,
+            "text": "2020-04-19 23:05:57 +0100",
+            "iso_8601": "2020-04-19T22:05:57Z"
+        },
+        "subject": "Oil prices are pressured at the reopen of electronic trade with WTI down around 4.0% amid the bleak outlook for demand, while index futures are mildly pressured to start the weak with Emini S&P and Dow futures both lower by 0.6%",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "oil-prices-are-pressured-at-the-reopen-of-electronic-trade-with-wti-down-around-4-0-amid-the-bleak-outlook-for-demand-while-index-futures-are-mildly-pressured-to-start-the-weak-with-emini-s-p-and-dow-futures-both-lower-by-0-6-19-04-2020",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-04-20 06:02:00",
+        "gmt_time": "2020-04-19 22:02:00"
+    },
+    {
+        "id": 920842,
+        "updated_sequence": 2219207,
+        "published_at": {
+            "unix": 1587332580,
+            "text": "2020-04-19 22:43:00 +0100",
+            "iso_8601": "2020-04-19T21:43:00Z"
+        },
+        "updated_at": {
+            "unix": 1587332658,
+            "text": "2020-04-19 22:44:18 +0100",
+            "iso_8601": "2020-04-19T21:44:18Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASES CALENDAR IS NOW AVAILABLE IN THE RESEARCH SECTION: Highlights include: New Zealand CPI, Japanse Trade Balance and Exports, PBoC Loan Prime Rate",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "asian-daily-economic-releases-calendar-is-now-available-in-the-research-section-highlights-include-new-zealand-cpi-japanse-trade-balance-and-exports-pboc-loan-prime-rate-19-04-2020",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-04-20 05:43:00",
+        "gmt_time": "2020-04-19 21:43:00"
+    },
+    {
+        "id": 920841,
+        "updated_sequence": 2219437,
+        "published_at": {
+            "unix": 1587331680,
+            "text": "2020-04-19 22:28:00 +0100",
+            "iso_8601": "2020-04-19T21:28:00Z"
+        },
+        "updated_at": {
+            "unix": 1587354813,
+            "text": "2020-04-20 04:53:33 +0100",
+            "iso_8601": "2020-04-20T03:53:33Z"
+        },
+        "subject": "US Navy reported an unsafe interception by a Russian fighter jet on a US P-8 aircraft in which the Russian jet conducted a high powered manoeuvre ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-navy-reported-an-unsafe-interception-by-a-russian-fighter-jet-on-a-us-p-8-aircraft-in-which-the-russian-jet-conducted-a-high-powered-manoeuvre-19-04-2020",
+        "hidden": false,
+        "section": {
+            "id": 23,
+            "name": "Geopolitical"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-04-20 05:28:00",
+        "gmt_time": "2020-04-19 21:28:00"
+    },
+    {
+        "id": 920840,
+        "updated_sequence": 2219201,
+        "published_at": {
+            "unix": 1587331380,
+            "text": "2020-04-19 22:23:00 +0100",
+            "iso_8601": "2020-04-19T21:23:00Z"
+        },
+        "updated_at": {
+            "unix": 1587331666,
+            "text": "2020-04-19 22:27:46 +0100",
+            "iso_8601": "2020-04-19T21:27:46Z"
+        },
+        "subject": "Molecular Partners (MOLN SW) intiates anti COVID-19 therapeutic program leveraging multi-target binding of darpin proteins to neutralize SARS-CoV-2, has identified multiple proteins which neutralize samples of the virus, will proceed with preclinical test",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "molecular-partners-moln-sw-intiates-anti-covid-19-therapeutic-program-leveraging-multi-target-binding-of-darpin-proteins-to-neutralize-sars-cov-2-has-identified-multiple-proteins-which-neutralize-samples-of-the-virus-will-proceed-with-pr-19-04-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-04-20 05:23:00",
+        "gmt_time": "2020-04-19 21:23:00"
+    },
+    {
+        "id": 920839,
+        "updated_sequence": 2219196,
+        "published_at": {
+            "unix": 1587330240,
+            "text": "2020-04-19 22:04:00 +0100",
+            "iso_8601": "2020-04-19T21:04:00Z"
+        },
+        "updated_at": {
+            "unix": 1587330305,
+            "text": "2020-04-19 22:05:05 +0100",
+            "iso_8601": "2020-04-19T21:05:05Z"
+        },
+        "subject": "Magnitude 6.1 earhtquake strikes near east coast of Honshu, Japan",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "magnitude-6-1-earhtquake-strikes-near-east-coast-of-honshu-japan-19-04-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-04-20 05:04:00",
+        "gmt_time": "2020-04-19 21:04:00"
+    },
+    {
+        "id": 920838,
+        "updated_sequence": 2219216,
+        "published_at": {
+            "unix": 1587330000,
+            "text": "2020-04-19 22:00:00 +0100",
+            "iso_8601": "2020-04-19T21:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1587333387,
+            "text": "2020-04-19 22:56:27 +0100",
+            "iso_8601": "2020-04-19T21:56:27Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p><strong>CORONAVIRUS UPDATE / RESPONSES</strong></p><p>US President Trump’s administration and Democrats in Congress are said to be near a USD 450bln economic relief package for small businesses including billions for the paycheck protection programme, hospitals and expansion of testing, while other sources also noted that US Treasury Secretary Mnuchin and House Speaker Pelosi were very close to a deal for 2nd round of small business loans. (Newswires/Twitter)</p><p>US President Trump commented that the coronavirus surge seems to be over, while he suggested that some states have been too strict regarding stay at home orders and could achieve same results by doing less. However, there were also reports that the administration clashed with state Governors on Sunday regarding lifting of lockdowns. (Newswires)</p><p>NIH noted a study which showed Remdesivir was effective in COVID-19 prevention in monkeys. (Newswires)</p><p>Michigan Governor Whitmer said they aim to begin reopening the state economy on May 1st. (Newswires)</p><p>UK PM Johnson spokesman said work is taking place across the government to ready for the point where we are able to relax social distancing measures but for now the message is to stay at home, while they cannot say for certain when the social distancing measures can be relaxed. (Newswires)</p><p>German Health Minister Spahn said the outbreak has become manageable again. (Newswires)</p><p>&nbsp;</p><p><strong>ASIA-PAC</strong></p><p>China's Parliament Standing Committee is to meet from April 26-29th. (Xinhua)</p><p>China Politburo reportedly vowed to adopt stronger macroeconomic policies to offset the impact of coronavirus and that policy tools include RRR and interest rate cuts, while it reiterated to keep liquidity ample. (Newswires)</p><p>&nbsp;</p><p><strong>UK/EU</strong></p><p>UK Chancellor Sunak extended the furlough scheme to end-June from end-May and the scheme will continue to be reviewed to support the recovery, while he is also reportedly considering a further bailout for larger UK companies. (Newswires/Sky News)</p><p>BoE Governor Bailey stated that global policy makers at the IMF meeting showed a very clear commitment to do what is necessary and the OBR scenario of a 35% decline in UK GDP in second quarter is not implausible. Bailey added that the MPC will set out its view clearly in May on how much \"scarring\" the UK economy is facing and cannot currently say how long the Central Bank will hold onto purchased Gilts for. (Newswires)</p><p>ECB’s De Guindos and Villeroy commented that ECB is flexible and could act further if required, while there were also reports that ECB and European Commission are discussing setting up a Euro zone bad bank to deal with non-performing loans. (Newswires)</p><p>Fitch revised Portugal's Outlook to Stable; Affirmed rating,at 'BBB'. (Newswires)</p><p>EU HICP Final (Mar) Y/Y 0.7% vs. Exp. 0.7% (Prev. 0.7%). (Newswires)</p><p>&nbsp;</p><p><strong>FX</strong></p><p>Canadian Finance Minister Morneau said businesses in Canada do not want the government to take equity stakes and that Canada will need to do more to help provide credit for small and medium sized businesses with an announcement to be made shortly. Furthermore, an announcement on credit access for bigger firms is to come in \"a short while\". (Newswires)</p><p>Moody’s cut Mexico one notch from A3 to Baa1; Outlook remains Negative. (Newswires)</p><p>&nbsp;</p><p><strong>COMMODITIES</strong></p><p>Baker Hughes US Rig Count: Oil -66 at 438; nat gas -7 at 89. (Newswires)</p><p>Traders are storing around 160mln barrels of oil on sea tankers vs. 80mln barrels on April 1st and more tankers are sought for storage, according to shipping sources. (Newswires)</p><p>&nbsp;</p><p><strong>US</strong></p><p>Fed's Williams (voter, neutral) said there is a lot of economic pain today and it is likely to continue for some time. (CNBC)</p><p>Fed's Mester (voter, hawk) said the data has been ugly which is not unexpected and the Fed should not be concerned about moral hazard for now. (Newswires)</p><p>Fed's Bullard (non-voter, dove) stated that the Fed can do much more on liquidity if necessary and that current programs are \"standard moves\". Bullard commented the upcoming FOMC meeting will be a good time to review the impact of programmes so far and is not expecting much on forward guidance at the meeting as the story is about the virus and not rates. Bullard also noted&nbsp; that one thing that the Fed could do in its next statement is emphasize that data right now isn't meaningful and that the Fed should be careful about the next steps and reserve some firepower for clearly identified problems, while he suggested it is unlikely the Fed would move to purchase equities and not sure it would have much impact anyway given the size and liquidity of the US market. (Newswires)</p><p>NY Fed Markets Head Sing said short term funding markets have stabilised, including in both the overnight and term repo operations, while the commercial paper market is seeing tentative signs of stabilisation but rates are still elevated. (Newswires)</p><p>NY Fed cut Treasuries/TIPS purchases to USD 15bln per day for next week (Prev. USD 30bln). (Newswires)</p><p>&nbsp;</p><p><strong>MARKET RECAP</strong></p><p>Stocks firmed on news after-market Thursday that a COVID-19 vaccine is close (despite the drugmaker Gilead stating there were anecdotal reports did not provide statistical power necessary to determine the safety and efficacy profile of the drug as a treatment). Additionally, the news that Boeing is set to restart commercial jets production, following on from similar updates at European manufacturers such as Daimler, Volkswagen and Volvo. Stocks pared back some of the initial enthusiasm; equities that benefited from 'stay at home' underperformed amid talk of global economies re-opening. In terms of the strategies, high dividend shares did well on Friday after lagging for much of the week; momentum strategies have generally performed well this week, although lagged on Friday; value strategies had a decent session, although they are still down on the week. Gilead (GILD) remdesivir was reported to have made rapid progress in treating severe COVID-19 patients in Chicago, seeing speedy recoveries in fever and respiratory symptoms, with nearly all in the closely observed clinical trial, were discharged in a week. Gilead later said that anecdotal reports did not provide statistical power necessary to determine the safety and efficacy profile of the drug as a treatment for COVID-19. Apple Inc. (AAPL) has been downgraded to Sell from Neutral at Goldman Sachs, which sees a decline of 36% in Q2 iPhone units. Boeing (BA) is planning to resume commercial jet production in Seattle, Washington as early as Monday, providing some support to suppliers, such as Spirit AeroSystems (SPR). Ford Motor (F) looks for a net loss of around USD 2bln for Q1 2020, according to an SEC filing; expects an approximate USD 800mln tax expense in Q1. SPX +2.7% at 2875, NDX +0.8% at 8832, DJI +3% at 24242.</p><p>A choppy session for the Treasury curve; by settlement, 2s were unchanged at 0.20%, 10s +3bps at 0.64% and 30s +5bps at 1.26bps. An initial Gilead-induced risk bounce, which sequentially faded, only for Treasuries to be offered after the release of the NY Fed’s new (reduced) scheduled of purchases for next week’s asset buys. After the 10-year yield found solace around the 0.60% figure on Thursday, the risk rally in later trade saw it back up to just beneath 0.70%, with the Fed set to by USD 15bln per day next week, down from USD 30bln. The further tapering of the Fed’s purchases saw the curve bear steepen. However, the cuts will be evenly distributed across maturities, which some analysts suggesting that gives credence to the view that the increasingly Fed-lite market could be expressing its view of increased inflation expectations; one strategist at Janney Montgomery noted that in the wake of the Fed’s QE1 and ZIRP announcement in 2008/09, there was a +75bps back up in long-end yields in the face of a deflationary environment, which saw 2s10s widen to around the 100bps area (2s10s currently sits just below 45bps). T-note futures (M20) settled 11 ticks lower at 138-28+.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-asia-pac-opening-news-19-04-2020",
+        "hidden": false,
+        "section": {
+            "id": 18,
+            "name": "Fed"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-04-20 05:00:00",
+        "gmt_time": "2020-04-19 21:00:00"
+    }
+]

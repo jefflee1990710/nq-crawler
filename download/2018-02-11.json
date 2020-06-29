@@ -1,0 +1,342 @@
+[
+    {
+        "id": 609719,
+        "updated_sequence": 777751,
+        "published_at": {
+            "unix": 1518392400,
+            "text": "2018-02-11 23:40:00 +0000",
+            "iso_8601": "2018-02-11T23:40:00Z"
+        },
+        "updated_at": {
+            "unix": 1518392537,
+            "text": "2018-02-11 23:42:17 +0000",
+            "iso_8601": "2018-02-11T23:42:17Z"
+        },
+        "subject": "London City Airport shutdown was due to an unexploded World War 2 device being found",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "london-city-airport-shutdown-was-due-to-an-unexploded-world-war-2-device-being-found-11-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-12 07:40:00",
+        "gmt_time": "2018-02-11 23:40:00"
+    },
+    {
+        "id": 609718,
+        "updated_sequence": 777754,
+        "published_at": {
+            "unix": 1518392100,
+            "text": "2018-02-11 23:35:00 +0000",
+            "iso_8601": "2018-02-11T23:35:00Z"
+        },
+        "updated_at": {
+            "unix": 1518392576,
+            "text": "2018-02-11 23:42:56 +0000",
+            "iso_8601": "2018-02-11T23:42:56Z"
+        },
+        "subject": "Japanese News Stories of Note and South Korean Pre-Market Stories: Japan is shut for National Founding Day",
+        "content": "<p>JAPAN</p>\r\n\r\n<p>Chubu Electric Power (9502 JT)<br />- Co. and Osaka Gas are to set up JV to provide electricity and gas to retail customers. (Newswires)</p>\r\n\r\n<p>Hitachi (6501 JT)<br />- Co. is said to be near a USD 827mln-plus deal for wind turbines with Taiwan. (Nikkei)</p>\r\n\r\n<p>NTT (9432 JT)<br />- Co. 9-month net JPY 736.6bln vs. Prev. JPY 668.7bln Y/Y. (Newswires)</p>\r\n\r\n<p>Renesas (9432 JT)<br />- Co. FY17 net JPY 77.2bln vs. Exp. JPY 73.4bln. (Newswires)</p>\r\n\r\n<p>Other News<br />- Japanese PM Abe is reported making final arrangements to reappoint BoJ Gov. Kuroda for a 2<sup>nd</sup> term, according sources close to the government. (Japan News)<br />- Japan government is said to be considering promoting BoJ Executive Director Amamiya to Deputy Governor. (Newswires)<br />&nbsp;</p>\r\n\r\n<p>SOUTH KOREA</p>\r\n\r\n<p>Hyundai Heavy (009540 KS)<br />- Co. Q4 net loss KRW 539.6bln vs. Exp. loss KRW 153.0bln. (Newswires)</p>\r\n\r\n<p>Kolon Industries (120110 KS)<br />- Co. Q1 net KRW 25.2bln vs. Exp. KRW 43.9bln. (Newswires)</p>\r\n\r\n<p>SK Networks (001740 KS)<br />- Co. Q4 net KRW 9.9bln vs. Exp. KRW 31.9bln (Newswires)</p>\r\n\r\n<p>Geopolitical<br />- North Korea invited South Korean President Moon for talks in Pyongyang, while President Moon stated that they should make preparations to realize the meeting. (Newswires)<br />- US official stated that there is no differences between US, South Korea and Japan on need to isolate North Korea until it gives up its nuclear weapons program. (Newswires)</p>\r\n\r\n<p>Other News<br />- South Korea&rsquo;s unemployment benefits applications rose 32% to a record high of 152,000 in January. (Yonhap)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-news-stories-of-note-and-south-korean-pre-market-stories-japan-is-shut-for-national-founding-day-11-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-12 07:35:00",
+        "gmt_time": "2018-02-11 23:35:00"
+    },
+    {
+        "id": 609717,
+        "updated_sequence": 777847,
+        "published_at": {
+            "unix": 1518391380,
+            "text": "2018-02-11 23:23:00 +0000",
+            "iso_8601": "2018-02-11T23:23:00Z"
+        },
+        "updated_at": {
+            "unix": 1518408583,
+            "text": "2018-02-12 04:09:43 +0000",
+            "iso_8601": "2018-02-12T04:09:43Z"
+        },
+        "subject": "Office of Management and Budget Director Mulvaney says we can see a surge in US interest rates",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "office-of-management-and-budget-director-mulvaney-says-we-can-see-a-surge-in-us-interest-rates-11-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-12 07:23:00",
+        "gmt_time": "2018-02-11 23:23:00"
+    },
+    {
+        "id": 609716,
+        "updated_sequence": 777742,
+        "published_at": {
+            "unix": 1518391320,
+            "text": "2018-02-11 23:22:00 +0000",
+            "iso_8601": "2018-02-11T23:22:00Z"
+        },
+        "updated_at": {
+            "unix": 1518391396,
+            "text": "2018-02-11 23:23:16 +0000",
+            "iso_8601": "2018-02-11T23:23:16Z"
+        },
+        "subject": "London City Airport and surrounding roads said to be shut due to emergency services incident, although no further details are known",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "london-city-airport-and-surrounding-roads-said-to-be-shut-due-to-emergency-services-incident-although-no-further-details-are-known-11-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-12 07:22:00",
+        "gmt_time": "2018-02-11 23:22:00"
+    },
+    {
+        "id": 609715,
+        "updated_sequence": 777739,
+        "published_at": {
+            "unix": 1518390180,
+            "text": "2018-02-11 23:03:00 +0000",
+            "iso_8601": "2018-02-11T23:03:00Z"
+        },
+        "updated_at": {
+            "unix": 1518390319,
+            "text": "2018-02-11 23:05:19 +0000",
+            "iso_8601": "2018-02-11T23:05:19Z"
+        },
+        "subject": "Goldman Sachs global equity trading division says to sell the rallies and avoid buying dips",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "goldman-sachs-global-equity-trading-division-says-to-sell-the-rallies-and-avoid-buying-dips-11-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-12 07:03:00",
+        "gmt_time": "2018-02-11 23:03:00"
+    },
+    {
+        "id": 609714,
+        "updated_sequence": 777736,
+        "published_at": {
+            "unix": 1518389400,
+            "text": "2018-02-11 22:50:00 +0000",
+            "iso_8601": "2018-02-11T22:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1518389923,
+            "text": "2018-02-11 22:58:43 +0000",
+            "iso_8601": "2018-02-11T22:58:43Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIAN STOCK NEWS: Amcor, Ansell & JB Hi-Fi earnings; WTI crude fell over 3% on Friday",
+        "content": "<p>Amcor (AMC AT)<br />- Co. H1 net AUD 329.7mln vs. Exp. AUD 321mln. (Newswires)</p>\r\n\r\n<p>AMP Capital (AMP AT)<br />- China Life Insurance (2628 HK) is in discussions to acquire Co.&rsquo;s life insurance assets for up to AUD 3bln. (The Australian)</p>\r\n\r\n<p>Ansell (ANN AT)<br />- Co. H1 net AUD 428.2mln vs. Prev. AUD 69.8mln Y/Y. (Newswires)</p>\r\n\r\n<p>Aurizon Holdings (AZJ AT)<br />- Co. H1 underlying net AUD 281.5mln vs. Exp. AUD 250.0mln. (Newswires)</p>\r\n\r\n<p>CBA (CBA AT)<br />- Co. new CEO Comyn is expected to secure a settlement with Austrac in early days at the Co. (Newswieres)</p>\r\n\r\n<p>Bendigo &amp; Adelaide Bank (BEN AT)<br />- Co. H1 cash profit AUD 225.3mln vs. Exp. AUD 227mln. (Newswires)</p>\r\n\r\n<p>GPT Group (GPT AT)<br />- Co. Chairman Rob Ferguson is to retire after the AGM, with Vickki McFadden as his replacement. (Newswires)</p>\r\n\r\n<p>JB Hi-Fi (JBH AT)<br />- Co. H1 net AUD 151.7mln vs. Exp. AUD 148.0mln. (Newswires)</p>\r\n\r\n<p>Myer (MYR AT)<br />- Solomon Lew push to overthrow Co. board took a hit after the Co.&rsquo;s 2<sup>nd</sup> largest shareholder is said to support the management. (Newswires)</p>\r\n\r\n<p>NextDC (NXT AT)<br />- Temasek reportedly may be considering takeover offer for the Co. (Newswires)</p>\r\n\r\n<p>Rio Tinto (RIO AT)<br />- Co. is examining a possible IPO of Pacific Aluminium. (AFR)</p>\r\n\r\n<p>Westpac (WBC AT)<br />- Thousands of &quot;courtesy&quot; calls made by Westpac to customers are under intense scrutiny after ASIC told the Federal Court the bank recommended customers collectively transfer hundreds of millions into BT super without considering their financial interests. (AFR)</p>\r\n\r\n<p>Financials<br />- ANZ, NAB and Westpac reportedly joined CBA is their failure to disclose term deposit customers what rate they would get on rollovers. (The Australian)<br />- The banking royal commissioner will outline how he will investigate misconduct in the financial services industry,&nbsp;with the 1st meeting of the commission to be held today. (The&nbsp;Australian)</p>\r\n\r\n<p>Energy<br />- WTI crude futures fell over 3% to below USD 60/bbl. (Newswires)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-australian-stock-news-amcor-ansell-jb-hi-fi-earnings-wti-crude-fell-over-3-on-friday-11-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-12 06:50:00",
+        "gmt_time": "2018-02-11 22:50:00"
+    },
+    {
+        "id": 609713,
+        "updated_sequence": 777725,
+        "published_at": {
+            "unix": 1518387600,
+            "text": "2018-02-11 22:20:00 +0000",
+            "iso_8601": "2018-02-11T22:20:00Z"
+        },
+        "updated_at": {
+            "unix": 1518387720,
+            "text": "2018-02-11 22:22:00 +0000",
+            "iso_8601": "2018-02-11T22:22:00Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASES CALENDAR NOW AVAILABLE IN THE RESEARCH SECTION: Highlights Include Australian Credit Card Balances and Purchases; also possible release of Chinese New Yuan Loans and Aggregate Financing",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asian-daily-economic-releases-calendar-now-available-in-the-research-section-highlights-include-australian-credit-card-balances-and-purchases-also-possible-release-of-chinese-new-yuan-loans-and-aggregate-financing-11-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-12 06:20:00",
+        "gmt_time": "2018-02-11 22:20:00"
+    },
+    {
+        "id": 609712,
+        "updated_sequence": 777762,
+        "published_at": {
+            "unix": 1518386700,
+            "text": "2018-02-11 22:05:00 +0000",
+            "iso_8601": "2018-02-11T22:05:00Z"
+        },
+        "updated_at": {
+            "unix": 1518394188,
+            "text": "2018-02-12 00:09:48 +0000",
+            "iso_8601": "2018-02-12T00:09:48Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p>ASIA-PAC</p>\r\n\r\n<p>Japanese PM Abe is making final arrangements to reappoint BoJ Gov. Kuroda for a 2<sup>nd</sup> term, according sources close to the government. (Japan News)</p>\r\n\r\n<p>New Zealand Card Spending Retail Sales (Jan) M/M 1.4% vs. Exp. 0.5% (Prev. 0.5%). (Newswires)<br />New Zealand Card Spending Retail Sales (Jan) Y/Y 3.4% (Prev. 3.3%)</p>\r\n\r\n<p><br />NORTH AMERICA</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>EQUITIES: SPX +1.5% at 2620, DJI +1.4% 24192, NDX +1.7% at 6413. Top sectors: IT +2.5%, Utilities +2.2%, Healthcare +1.5%. Bottom sectors: Energy -0.3%, Cons Stap +0.2%, Cons Disc +0.7%. In early trade, sour sentiment and concerns about the valuation of equities extended, lining stocks up for another grim end to the week. However, in afternoon trade, the DJIA and SPX fell to test their 200d MA, which neither could meaningfully break beneath. The result was an immediate improvement in sentiment and buyers emerged, pushing stocks up to erase losses for the day. The run-in to the close was choppy, however, and gains appeared fragile. The weekly stats, however, still look grim, with the SPX off by over 5% in the week, straddling the 2600 handle as we close out trade. However, Friday&rsquo;s gains have taken at least some of the sting out of the gains, and technical analysts were encouraged by the fact that the 200d MA held its ground when tested. &nbsp;&nbsp;</p>\r\n\r\n<p>TREASURIES:&nbsp;US T-Note futures settle 9 ticks higher at 121-05+. Yields narrowed along the curve, with Treasuries re-establishing themselves as a safe-haven amid the stock slide. At settlement, 2s10s were steeper by c.5bps, 2s30s wider by c5bps, 5s30s steeper by c.3bps. Fixed income traders were happy to look through the budget deal reached by US lawmakers, despite the assumption that it will likely see issuance increased, likely weighing on prices. Given the sharp rise seen in bond yields over the last few weeks &ndash; which many have attributed it to better inflation prospects, solid growth, and a Fed which may hike &frac34; times in 2018 &ndash; attention next week will be on US CPI data to assess how widespread inflation pressures are.&nbsp;</p>\r\n\r\n<p><br />UK</p>\r\n\r\n<p>EU plans the next round of Brexit talks for 26 February. (Newswires)</p>\r\n\r\n<p>UK firms face VAT border friction in the event of a hard Brexit, while there were also reports that Brussels warned that UK asset managers face a shutout post-Brexit. (FT)</p>\r\n\r\n<p>BoE&rsquo;s Haldane said that minor interest rate increases are likely to be introduced later this year but that the BoE is not in a rush, while he also stated that inflation is currently running above target and that&rsquo;s one of the factors interest rates were hiked last year. (ChronicleLive)</p>\r\n\r\n<p>EU</p>\r\n\r\n<p>ECB&rsquo;s Nowotny said that the ECB is concerned regarding US attempts to politically influence FX rates. Nowotny also added that EU inflation still has room to increase so the ECB is still on the careful side, although that certainly won&rsquo;t last forever and that there will be a need for higher interest rates in the foreseeable future. (Newswires)</p>\r\n\r\n<p>ECB&rsquo;s Visco said ECB will be patient on pursuit of its inflation goal and that it has been challenging to push up inflation expectations. (Newswires)</p>\r\n\r\n<p>Fitch affirmed Germany at &#39;AAA&#39;; Outlook Stable, affirmed Czech Republic at &#39;A+&#39;; Outlook Positive, affirmed Malta at &#39;A+&#39;; Outlook Stable and affirmed Finland at &#39;AA+&#39;; Outlook Stable. (Newswires)</p>\r\n\r\n<p>Moody&rsquo;s affirmed European Stability Mechanism rating at Aa1; Outlook Stable. (Newswires)</p>\r\n\r\n<p><br />FX</p>\r\n\r\n<p><a name=\"_Hlk504673747\">FOREX: DXY +0.2% on Friday. </a>The dollar heads into the close having put in its best weekly performance in 15-months, reminding us that the buck still has safe-haven properties. Another read might be that the greenback was merely tracking a steepening UST yield curve. On Friday, however, it was supported as lawmakers reached the budget deal. The established havens &ndash; JPY and CHF &ndash; were mixed on Friday, however, with the yen gaining against its US counterpart, eyeing the 108.50 handle, though USDCHF was higher on the day, though capped by 0.94 (EURCHF found a bid despite a weaker EURUSD). The performance of EMFX continues to suggest that the contagion from the stock slide is limited, with the ZAR and MXN making ground against the USD on Friday, though the TRY and BRL didn&rsquo;t fare as well. Gold, meanwhile, is the victim of a steepening curve &ndash; while it generally held its value amid Monday&rsquo;s slide, gains were given up after Tuesday&rsquo;s stabilisation; but even as stocks were under pressure today, gold could not manage to rally above the key $1320 level.</p>\r\n\r\n<p>South Africa Ruling ANC party panel Is said to meet this Monday regarding President Zuma&rsquo;s exit. (Newswires)</p>\r\n\r\n<p>COMMODITIES</p>\r\n\r\n<p>WTI futures settle USD 1.95 lower at USD 59.20 per barrel; Brent futures settle USD 2.02 lower at USD 62.79 per barrel. Benchmarks are set to print the largely weekly falls seen in two years, with WTI slipping beneath $60, extending its slump to six sessions; today&rsquo;s catalyst was the sour risk mood in early trade (and even when risk sentiment improved after stocks successfully bounced off of 200d MA, oil struggled to rally), as well as Ineos ramping up crude supply along the Forties pipeline quicker than was anticipated. Perhaps crude struggled to rally as risk improved due to oil drillers adding 26 rigs in the week pushing the rig count to the highest since Jan 2017.</p>\r\n\r\n<p>US Baker Hughes Total Rig Count W/W 975 (Prev. 946). (Newswires)<br />US Baker Hughes Gas Rig Count W/W 184 (Prev. 181)<br />US Baker Hughes Oil Rig Count 791 (Prev. 765</p>\r\n\r\n<p>GEOPOLITICAL</p>\r\n\r\n<p>North Korea invited South Korean President Moon for talks in Pyongyang, while President Moon stated that they should make preparations to realize the meeting. (Newswires)</p>\r\n\r\n<p>US official stated that there is no differences between US, South Korea and Japan on need to isolate North Korea until it gives up its nuclear weapons program. (Newswires)</p>\r\n\r\n<p>US / North America</p>\r\n\r\n<p>US Government reopened from a temporary shutdown early last Friday after the Senate and House voted to pass the spending bill to fund the government through to March 23<sup>rd</sup> and which will extend the federal debt ceiling to March 2019. (Newswires) &nbsp;</p>\r\n\r\n<p>US White House stated that 2019 budget plan will project 3% growth. (Newswires)</p>\r\n\r\n<p>Mick Mulvaney&rsquo;s spokesman denied reports that his boss is in talks to replace John Kelly as White House Chief of Staff. (Newswires)</p>\r\n\r\n<p>Canadian PM Trudeau stated that NAFTA should be modernized and updated, while he also added that the deal can be a win-win. (Newswires)</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-asia-pac-opening-news-11-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-12 06:05:00",
+        "gmt_time": "2018-02-11 22:05:00"
+    },
+    {
+        "id": 609535,
+        "updated_sequence": 777716,
+        "published_at": {
+            "unix": 1518386400,
+            "text": "2018-02-11 22:00:00 +0000",
+            "iso_8601": "2018-02-11T22:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1518386400,
+            "text": "2018-02-11 22:00:00 +0000",
+            "iso_8601": "2018-02-11T22:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-20-12-2017",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-12 06:00:00",
+        "gmt_time": "2018-02-11 22:00:00"
+    },
+    {
+        "id": 609707,
+        "updated_sequence": 777714,
+        "published_at": {
+            "unix": 1518383700,
+            "text": "2018-02-11 21:15:00 +0000",
+            "iso_8601": "2018-02-11T21:15:00Z"
+        },
+        "updated_at": {
+            "unix": 1518383700,
+            "text": "2018-02-11 21:15:00 +0000",
+            "iso_8601": "2018-02-11T21:15:00Z"
+        },
+        "subject": "RANsquawk Week in Focus - 12th February - 16th February 2018",
+        "content": "<ul><li>US &amp; UK CPI headline the economic releases.</li>\r\n  <li>The Riksbank will issue its first decision of 2018.</li>\r\n  <li>Asia will be subject to lower liquidity owing to Japanese &amp; Chinese holidays.</li>\r\n</ul>\r\n\r\n<p><strong><a href=\"https://ransquawk.com/research_sheets/18578/download\">Click here to download full report</a></strong></p>\r\n\r\n<p>If you would like to subscribe to receive the research sheets directly in your inbox, you can now do so under the<strong><a href=\"https://ransquawk.com/research_sheets\">&nbsp;Research Suite</a></strong>&nbsp;section of the portal. To subscribe simply check the box next to &ldquo;Email me these reports&rdquo; under the desired category. If you are seeing &quot;Loading Subscription Status&quot; instead of &quot;Email me these reports&quot; please try clearing you cache (CTRL+F5) and restarting your browser.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "ransquawk-week-in-focus-12th-february-16th-february-2018-15_30pm_utc_09-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-12 05:15:00",
+        "gmt_time": "2018-02-11 21:15:00"
+    }
+]

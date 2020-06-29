@@ -1,0 +1,648 @@
+[
+    {
+        "id": 786656,
+        "updated_sequence": 1502145,
+        "published_at": {
+            "unix": 1549842600,
+            "text": "2019-02-10 23:50:00 +0000",
+            "iso_8601": "2019-02-10T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1549842751,
+            "text": "2019-02-10 23:52:31 +0000",
+            "iso_8601": "2019-02-10T23:52:31Z"
+        },
+        "subject": "US Commerce Department preliminary finding is that weighted average dumping margins for South Korean steel makers NEXTEEL and SeAh Steel is 59.09% and 26.47% respectively",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-commerce-department-preliminary-finding-is-that-weighted-average-dumping-margins-for-south-korean-steel-makers-nexteel-and-seah-steel-is-59-09-and-26-47-respectively-10-02-2019",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-02-11 07:50:00",
+        "gmt_time": "2019-02-10 23:50:00"
+    },
+    {
+        "id": 786253,
+        "updated_sequence": 1500534,
+        "published_at": {
+            "unix": 1549841940,
+            "text": "2019-02-10 23:39:00 +0000",
+            "iso_8601": "2019-02-10T23:39:00Z"
+        },
+        "updated_at": {
+            "unix": 1549842024,
+            "text": "2019-02-10 23:40:24 +0000",
+            "iso_8601": "2019-02-10T23:40:24Z"
+        },
+        "subject": "ANZ Bank expects a dovish tone from the RBNZ in Wednesday's meeting, inline with other major central banks",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "anz-bank-expects-a-dovish-tone-from-the-rbnz-in-wednesday-s-meeting-inline-with-other-major-central-banks-10-02-2019",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-02-11 07:39:00",
+        "gmt_time": "2019-02-10 23:39:00"
+    },
+    {
+        "id": 786198,
+        "updated_sequence": 1500315,
+        "published_at": {
+            "unix": 1549841820,
+            "text": "2019-02-10 23:37:00 +0000",
+            "iso_8601": "2019-02-10T23:37:00Z"
+        },
+        "updated_at": {
+            "unix": 1549841926,
+            "text": "2019-02-10 23:38:46 +0000",
+            "iso_8601": "2019-02-10T23:38:46Z"
+        },
+        "subject": "US General says withdrawal of US forces from Syria is likely to begin in weeks dependent on conditions on the ground, also says US troop levels in Iraq are to remain steady",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-general-says-withdrawal-of-us-forces-from-syria-is-likely-to-begin-in-weeks-dependent-on-conditions-on-the-ground-also-says-us-troop-levels-in-iraq-are-to-remain-steady-10-02-2019",
+        "hidden": false,
+        "section": {
+            "id": 23,
+            "name": "Geopolitical"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-02-11 07:37:00",
+        "gmt_time": "2019-02-10 23:37:00"
+    },
+    {
+        "id": 786198,
+        "updated_sequence": 1500315,
+        "published_at": {
+            "unix": 1549841820,
+            "text": "2019-02-10 23:37:00 +0000",
+            "iso_8601": "2019-02-10T23:37:00Z"
+        },
+        "updated_at": {
+            "unix": 1549841926,
+            "text": "2019-02-10 23:38:46 +0000",
+            "iso_8601": "2019-02-10T23:38:46Z"
+        },
+        "subject": "US General says withdrawal of US forces from Syria is likely to begin in weeks dependent on conditions on the ground, also says US troop levels in Iraq are to remain steady",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-general-says-withdrawal-of-us-forces-from-syria-is-likely-to-begin-in-weeks-dependent-on-conditions-on-the-ground-also-says-us-troop-levels-in-iraq-are-to-remain-steady-10-02-2019",
+        "hidden": false,
+        "section": {
+            "id": 23,
+            "name": "Geopolitical"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-02-11 07:37:00",
+        "gmt_time": "2019-02-10 23:37:00"
+    },
+    {
+        "id": 785852,
+        "updated_sequence": 1498932,
+        "published_at": {
+            "unix": 1549841280,
+            "text": "2019-02-10 23:28:00 +0000",
+            "iso_8601": "2019-02-10T23:28:00Z"
+        },
+        "updated_at": {
+            "unix": 1549841282,
+            "text": "2019-02-10 23:28:02 +0000",
+            "iso_8601": "2019-02-10T23:28:02Z"
+        },
+        "subject": "PRE-MARKET SOUTH KOREAN NEWS: Earnings from KB Financial and LG Corp; Japan is shut for National Founding Day",
+        "content": "<p>JAPAN</p>\r\n\r\n<p>Isuzu Motors (7202 JT)<br />- Co. 9-month net JPY 94.0bln vs. Prev. JPY 83.8bln Y/Y. (Newswires)</p>\r\n\r\n<p>Mitsui Fudosan (8801 JT)<br />- Co. 9-month net JPY 102.2bln vs. Prev. JPY 72.1bln Y/Y. (Newswires)</p>\r\n\r\n<p>Renesas (6723 JT)<br />- Co. FY18 net JPY 54.6bln vs. Prev. JPY 77.2bln Y/Y. (Newswires)</p>\r\n\r\n<p>Shiseido (4911 JT)<br />- Co. FY net JPY 61.4bln vs. Prev. JPY 22.7bln Y/Y. (Newswires)</p>\r\n\r\n<p>SMC Corp (6273 JT)<br />- Co. 9-month net JPY 108.9bln vs. Prev. JPY 114.0bln Y/Y. (Newswires)</p>\r\n\r\n<p>Toshiba (6502 JT)<br />- Co. is expected to lower FY oper. profit guidance to JPY 20bln-30bln from JPY 60bln. (Newswires)</p>\r\n\r\n<p><br />SOUTH KOREA</p>\r\n\r\n<p>KB Financial Group (105560 KS)<br />- Co. Q4 net KRW 200bln vs. Prev. KRW 554bln Y/Y. (Newswires)</p>\r\n\r\n<p>LG Corp (003550 KS)<br />- Co. Q4 net KRW 382.8bln vs. Prev. JPY 304.9bln Y/Y, oper. profit KRW 298.0bln vs. Exp. KRW 467.9bln, rev. KRW 3.17tln vs. Exp. &nbsp;KRW 3.43tln. (Newswires)</p>\r\n\r\n<p>Samsung Biologics (207940 KS)<br />- Samsung Bioepis announces licensing agreement in China with C-Bridge Capital. (Newswires)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-south-korean-news-earnings-from-kb-financial-and-lg-corp-japan-is-shut-for-national-founding-day-10-02-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-02-11 07:28:00",
+        "gmt_time": "2019-02-10 23:28:00"
+    },
+    {
+        "id": 785788,
+        "updated_sequence": 1498677,
+        "published_at": {
+            "unix": 1549841100,
+            "text": "2019-02-10 23:25:00 +0000",
+            "iso_8601": "2019-02-10T23:25:00Z"
+        },
+        "updated_at": {
+            "unix": 1549841165,
+            "text": "2019-02-10 23:26:05 +0000",
+            "iso_8601": "2019-02-10T23:26:05Z"
+        },
+        "subject": "IMF Chief Lagarde says sees possible economic storm from several factors including trade and tariff escalations, financial tightening, Brexit uncertainty and China slowdown",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "imf-chief-lagarde-says-sees-possible-economic-storm-from-several-factors-including-trade-and-tariff-escalations-financial-tightening-brexit-uncertainty-and-china-slowdown-10-02-2019",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-02-11 07:25:00",
+        "gmt_time": "2019-02-10 23:25:00"
+    },
+    {
+        "id": 785625,
+        "updated_sequence": 1498026,
+        "published_at": {
+            "unix": 1549840740,
+            "text": "2019-02-10 23:19:00 +0000",
+            "iso_8601": "2019-02-10T23:19:00Z"
+        },
+        "updated_at": {
+            "unix": 1549840873,
+            "text": "2019-02-10 23:21:13 +0000",
+            "iso_8601": "2019-02-10T23:21:13Z"
+        },
+        "subject": "US President Trump's advisers are said to have informally discussed holding a summit at Mar-a-lago next month with Chinese President Xi as part of an attempt to end the trade dispute, according to Axios",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Axios",
+        "slug": "us-president-trump-s-advisers-are-said-to-have-informally-discussed-holding-a-summit-at-mar-a-lago-next-month-with-chinese-president-xi-as-part-of-an-attempt-to-end-the-trade-dispute-according-to-axios-10-02-2019",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-02-11 07:19:00",
+        "gmt_time": "2019-02-10 23:19:00"
+    },
+    {
+        "id": 785225,
+        "updated_sequence": 1496425,
+        "published_at": {
+            "unix": 1549840080,
+            "text": "2019-02-10 23:08:00 +0000",
+            "iso_8601": "2019-02-10T23:08:00Z"
+        },
+        "updated_at": {
+            "unix": 1549840113,
+            "text": "2019-02-10 23:08:33 +0000",
+            "iso_8601": "2019-02-10T23:08:33Z"
+        },
+        "subject": "New Zealand Shadow Board sees less need for the RBNZ to hike interest rates",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "new-zealand-shadow-board-sees-less-need-for-the-rbnz-to-hike-interest-rates-10-02-2019",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-02-11 07:08:00",
+        "gmt_time": "2019-02-10 23:08:00"
+    },
+    {
+        "id": 785014,
+        "updated_sequence": 1495582,
+        "published_at": {
+            "unix": 1549839660,
+            "text": "2019-02-10 23:01:00 +0000",
+            "iso_8601": "2019-02-10T23:01:00Z"
+        },
+        "updated_at": {
+            "unix": 1549839730,
+            "text": "2019-02-10 23:02:10 +0000",
+            "iso_8601": "2019-02-10T23:02:10Z"
+        },
+        "subject": "China GDP is expected to slow to 6.3% for this year, according to China Daily",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "china-gdp-is-expected-to-slow-to-6-3-for-this-year-according-to-china-daily-10-02-2019",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-02-11 07:01:00",
+        "gmt_time": "2019-02-10 23:01:00"
+    },
+    {
+        "id": 784740,
+        "updated_sequence": 1494487,
+        "published_at": {
+            "unix": 1549839120,
+            "text": "2019-02-10 22:52:00 +0000",
+            "iso_8601": "2019-02-10T22:52:00Z"
+        },
+        "updated_at": {
+            "unix": 1549839210,
+            "text": "2019-02-10 22:53:30 +0000",
+            "iso_8601": "2019-02-10T22:53:30Z"
+        },
+        "subject": "Switzerland voters reject proposal that limits urban growth by freezing size of construction zones",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "switzerland-voters-reject-proposal-that-limits-urban-growth-by-freezing-size-of-construction-zones-10-02-2019",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-02-11 06:52:00",
+        "gmt_time": "2019-02-10 22:52:00"
+    },
+    {
+        "id": 784703,
+        "updated_sequence": 1494346,
+        "published_at": {
+            "unix": 1549839060,
+            "text": "2019-02-10 22:51:00 +0000",
+            "iso_8601": "2019-02-10T22:51:00Z"
+        },
+        "updated_at": {
+            "unix": 1549839148,
+            "text": "2019-02-10 22:52:28 +0000",
+            "iso_8601": "2019-02-10T22:52:28Z"
+        },
+        "subject": "China travel during Lunar New Year increased 7.6% Y/Y to 415mln travellers",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "china-travel-during-lunar-new-year-increased-7-6-y-y-to-415mln-travellers-10-02-2019",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-02-11 06:51:00",
+        "gmt_time": "2019-02-10 22:51:00"
+    },
+    {
+        "id": 784519,
+        "updated_sequence": 1497507,
+        "published_at": {
+            "unix": 1549838700,
+            "text": "2019-02-10 22:45:00 +0000",
+            "iso_8601": "2019-02-10T22:45:00Z"
+        },
+        "updated_at": {
+            "unix": 1549840632,
+            "text": "2019-02-10 23:17:12 +0000",
+            "iso_8601": "2019-02-10T23:17:12Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIAN STOCK NEWS: Earnings from Amcor, Aurizon Holdings, Bendigo & Adelaide Bank, GPT Group and JB Hi-Fi",
+        "content": "<p>Amcor (AMC AT)<br />- Co. H1 net AUD 267.6mln vs. Prev. AUD 329.7mln Y/Y, rev. AUD 4.55bln vs. Prev. AUD 4.50bln Y/Y, Co. raises interim dividend by 2.4%. (Newswires)</p>\r\n\r\n<p>Aurizon Holdings (AZJ AT)<br />- Co. H1 net AUD 226.9mln vs. Prev. AUD 281.5mln Y/Y. (Newswires)</p>\r\n\r\n<p>Bendigo and Adelaide Bank (BEN AT)<br />- Co. H1 net AUD 203.2mln vs. Prev. AUD 231.7mln Y/Y. (Newswires)</p>\r\n\r\n<p>GPT Group (GPT AT)<br />- Co. FY18 net AUD 1.45bln vs. Prev. AUD 1.27bln Y/Y. (Newswires)</p>\r\n\r\n<p>JB Hi-Fi (JBH AT)<br />- Co. H1 net AUD 160.1mln vs. Prev. AUD 151.7mln Y/Y. (Newswires)</p>\r\n\r\n<p>Nine Entertainment (NEC AT)<br />- Anthony Catalano is said to be interested in Co.&rsquo;s regional publishing assets which were acquired through Fairfax Media takeover. (AFR)</p>\r\n\r\n<p>Sigma Pharmaceuticals (SIG AT)<br />- Co. business review identified over AUD 100mln in annual cost savings. (Newswires)</p>\r\n\r\n<p>Westpac (WBC AT)<br />- Co. is mulling sale of St George vendor finance business. (Newswires)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-australian-stock-news-earnings-from-amcor-aurizon-holdings-bendigo-adelaide-bank-gpt-group-and-jb-hi-fi-10-02-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-02-11 06:45:00",
+        "gmt_time": "2019-02-10 22:45:00"
+    },
+    {
+        "id": 784470,
+        "updated_sequence": 1493412,
+        "published_at": {
+            "unix": 1549838640,
+            "text": "2019-02-10 22:44:00 +0000",
+            "iso_8601": "2019-02-10T22:44:00Z"
+        },
+        "updated_at": {
+            "unix": 1549838729,
+            "text": "2019-02-10 22:45:29 +0000",
+            "iso_8601": "2019-02-10T22:45:29Z"
+        },
+        "subject": "UK PM May reportedly rejects pivot towards Brexit customs union compromise",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "uk-pm-may-reportedly-rejects-pivot-towards-brexit-customs-union-compromise-10-02-2019",
+        "hidden": false,
+        "section": {
+            "id": 38,
+            "name": "Brexit"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-02-11 06:44:00",
+        "gmt_time": "2019-02-10 22:44:00"
+    },
+    {
+        "id": 783985,
+        "updated_sequence": 1491468,
+        "published_at": {
+            "unix": 1549837800,
+            "text": "2019-02-10 22:30:00 +0000",
+            "iso_8601": "2019-02-10T22:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1549837847,
+            "text": "2019-02-10 22:30:47 +0000",
+            "iso_8601": "2019-02-10T22:30:47Z"
+        },
+        "subject": "UK PM May has agreed to talks with Labour leader Corbyn regarding a soft Brexit, according to Telegraph",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Telegraph ",
+        "slug": "uk-pm-may-has-agreed-to-talks-with-labour-leader-corbyn-regarding-a-soft-brexit-according-to-telegraph-10-02-2019",
+        "hidden": false,
+        "section": {
+            "id": 38,
+            "name": "Brexit"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-02-11 06:30:00",
+        "gmt_time": "2019-02-10 22:30:00"
+    },
+    {
+        "id": 784004,
+        "updated_sequence": 1491543,
+        "published_at": {
+            "unix": 1549837800,
+            "text": "2019-02-10 22:30:00 +0000",
+            "iso_8601": "2019-02-10T22:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1549837884,
+            "text": "2019-02-10 22:31:24 +0000",
+            "iso_8601": "2019-02-10T22:31:24Z"
+        },
+        "subject": "Talks between Republicans and Democrats are reported to have come to a standstill ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "talks-between-republicans-and-democrats-are-reported-to-have-come-to-a-standstill-10-02-2019",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-02-11 06:30:00",
+        "gmt_time": "2019-02-10 22:30:00"
+    },
+    {
+        "id": 783684,
+        "updated_sequence": 1490265,
+        "published_at": {
+            "unix": 1549837200,
+            "text": "2019-02-10 22:20:00 +0000",
+            "iso_8601": "2019-02-10T22:20:00Z"
+        },
+        "updated_at": {
+            "unix": 1549837298,
+            "text": "2019-02-10 22:21:38 +0000",
+            "iso_8601": "2019-02-10T22:21:38Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASES CALENDAR NOW AVAILABLE IN THE RESEARCH SECTION: Highlights include light calendar and Japan is closed for holiday",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asian-daily-economic-releases-calendar-now-available-in-the-research-section-highlights-include-light-calendar-and-japan-is-closed-for-holiday-10-02-2019",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-02-11 06:20:00",
+        "gmt_time": "2019-02-10 22:20:00"
+    },
+    {
+        "id": 783509,
+        "updated_sequence": 1489566,
+        "published_at": {
+            "unix": 1549836900,
+            "text": "2019-02-10 22:15:00 +0000",
+            "iso_8601": "2019-02-10T22:15:00Z"
+        },
+        "updated_at": {
+            "unix": 1549836982,
+            "text": "2019-02-10 22:16:22 +0000",
+            "iso_8601": "2019-02-10T22:16:22Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p>ASIA-PAC</p>\r\n\r\n<p>China trade deadline of March 1st could move according to senior administration official. (CNBC)</p>\r\n\r\n<p>US Treasury Secretary Mnuchin and USTR Lighthizer to go to China for trade meetings on February 14-15 and deputy-level talks are to begin on February 11. In related news, there were reports that many of the concessions Beijing is offering appear to be rehashes of measures previously announced. (Newswires/Nikkei)</p>\r\n\r\n<p><br />UK/EU</p>\r\n\r\n<p>EU&#39;s Chief Brexit Negotiator Barnier reiterated that the EU will not reopen the WA but highlighted the EU&#39;s openness to rework the Political Declaration and added that he is looking forward to his meeting with UK Brexit Secretary Barclay. (Newswires)</p>\r\n\r\n<p>Irish PM Varadkar said on balance he believes a deal can be secured but is unsure if it can be done by the end of March or after an extension. (Newswires)</p>\r\n\r\n<p>Fitch affirmed Greece at BB-, Outlook Stable. (Newswires)</p>\r\n\r\n<p><br />COMMODITIES</p>\r\n\r\n<p>Baker Hughes Rig Count (8/Feb): Total rigs +4 at 1059; oil rigs +7 at 854; gas rigs -3 at 195. (Newswires)</p>\r\n\r\n<p>Trump administration senior official said the US does not support market-distorting behaviour such as cartels, while the official added that US is dedicated to open, fair and competitive markets for global energy trade. (Newswires)</p>\r\n\r\n<p>Russian official Sechin told President Putin in a letter that OPEC/Non-OPEC cuts play into US hands, while Sechin added that Russia is faced with oil market share decline and that the OPEC deal is a strategic threat to the Russian oil sector. (Newswires)</p>\r\n\r\n<p><br />US</p>\r\n\r\n<p>US President Trump tweeted a comment that suggested he is on sound legal ground to declare a National Emergency, while he also noted that Border Committee Democrats are all of a sudden behaving irrationally. (Twitter)</p>\r\n\r\n<p>US House Majority Leader Hoyer said on Friday that he was optimistic on a border spending deal early next week, although there were separate comments from US Deputy Assistant to the President that suggested the US is on the edge of another government shutdown because &quot;Democrats won&rsquo;t come to the table and have a conversation about securing the country&quot;. (Newswires/Twitter)</p>\r\n\r\n<p>NEC Director Kudlow and Chief of Staff Mulvaney said to be mulling departing Trump administration. (Vanity Fair)</p>\r\n\r\n<p>Fed&#39;s Daly (non-voter) said US economy is slowing down and that in itself will help prevent a recession, while also noted financial conditions are tighter now than at the start of 2018. Furthermore, Daly commented that the Fed is discussing whether QE should be used only in emergencies or more readily and that patience is data-dependent not time-dependent. (Newswires)</p>\r\n\r\n<p>US are reportedly considering 3 potential car tariff options in which one of which includes a 10% levy and a second option is customs duties that would be limited to technologically advanced cars such as e-cars and their components, while a third option is a 25% tariff. (Newswires)</p>\r\n\r\n<p><br />MARKET RECAP</p>\r\n\r\n<p>Earnings from Coty (COTY), Mattel (MAT) and Motorola (MSI) all came in stronger than expected seeing the three stocks surge on Friday. Phillips 66 (PSX) opened higher after beating EPS estimates. Chipmakers Micron Technology (MU) and Western Digital (WDC) traded lower after Goldman commented cautiously on them due to a lower forecast in DRAM and NAND pricing. Goodyear Tire &amp; Rubber (GT) nosedived following a miss on top and bottom line estimates. Qorvo (QRVO) opened lower after it gave pessimistic guidance. Arconic (ARNC) drifted lower through the day on the announcement of the co. splitting into two and despite reporting strong earnings. Electronic Arts (EA). SPX +0.1% at 2708, NASDAQ +0.1% at 7299, DJI +0.3% at 25104.</p>\r\n\r\n<p>Much of the movement in the T-Note was sideways on Friday, with a slight upward bias, inspired by the usual cocktail of lingering concerns over US/China trade, and global growth. A brief dip in the pre-market was attributed to dealers unloading auction long positions, while Bunds were providing some influence in early trade too. Profit-taking at the end of the European day saw some of the gains pared back to leave the T-Note 3 ticks higher at settlement. Major curve spreads were mixed, but generally +/- 1bps at settle. US T-note futures (H9) settled +3 ticks at 122-12.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-asia-pac-opening-news-10-02-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-02-11 06:15:00",
+        "gmt_time": "2019-02-10 22:15:00"
+    },
+    {
+        "id": 783403,
+        "updated_sequence": 1489143,
+        "published_at": {
+            "unix": 1549836660,
+            "text": "2019-02-10 22:11:00 +0000",
+            "iso_8601": "2019-02-10T22:11:00Z"
+        },
+        "updated_at": {
+            "unix": 1549836792,
+            "text": "2019-02-10 22:13:12 +0000",
+            "iso_8601": "2019-02-10T22:13:12Z"
+        },
+        "subject": "Early weakness in CHF to begin the session weaker with USD/CHF and EUR/CHF surging higher by around 0.8%; despite no immediate news catalysts",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "early-weakness-in-chf-to-begin-the-session-weaker-with-usd-chf-and-eur-chf-surging-higher-by-around-0-8-despite-no-immediate-news-catalysts-10-02-2019",
+        "hidden": false,
+        "section": {
+            "id": 22,
+            "name": "FX Flows"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-02-11 06:11:00",
+        "gmt_time": "2019-02-10 22:11:00"
+    },
+    {
+        "id": 695182,
+        "updated_sequence": 1792448,
+        "published_at": {
+            "unix": 1549836000,
+            "text": "2019-02-10 22:00:00 +0000",
+            "iso_8601": "2019-02-10T22:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1550027018,
+            "text": "2019-02-13 03:03:38 +0000",
+            "iso_8601": "2019-02-13T03:03:38Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "<p>Says<br />- Co. offered bonuses to employees that stole IP secrets.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-07-02-2019",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-02-11 06:00:00",
+        "gmt_time": "2019-02-10 22:00:00"
+    }
+]

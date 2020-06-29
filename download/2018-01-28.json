@@ -1,0 +1,410 @@
+[
+    {
+        "id": 607893,
+        "updated_sequence": 770852,
+        "published_at": {
+            "unix": 1517183880,
+            "text": "2018-01-28 23:58:00 +0000",
+            "iso_8601": "2018-01-28T23:58:00Z"
+        },
+        "updated_at": {
+            "unix": 1517200019,
+            "text": "2018-01-29 04:26:59 +0000",
+            "iso_8601": "2018-01-29T04:26:59Z"
+        },
+        "subject": "US President Trump stated he had a lot of difficulties with EU from a trade stand point, in an interview to be aired later",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-president-trump-stated-he-had-a-lot-of-difficulties-with-eu-from-a-trade-stand-point-in-an-interview-to-be-aired-later-28-01-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-01-29 07:58:00",
+        "gmt_time": "2018-01-28 23:58:00"
+    },
+    {
+        "id": 607892,
+        "updated_sequence": 770766,
+        "published_at": {
+            "unix": 1517181900,
+            "text": "2018-01-28 23:25:00 +0000",
+            "iso_8601": "2018-01-28T23:25:00Z"
+        },
+        "updated_at": {
+            "unix": 1517181994,
+            "text": "2018-01-28 23:26:34 +0000",
+            "iso_8601": "2018-01-28T23:26:34Z"
+        },
+        "subject": "Atlas Iron (AGO AT) Q2 iron ore shipped 2.2mln WMT vs. Prev. 3.0mln WMT",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "atlas-iron-ago-at-q2-iron-ore-shipped-2-2mln-wmt-vs-prev-3-0mln-wmt-28-01-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-01-29 07:25:00",
+        "gmt_time": "2018-01-28 23:25:00"
+    },
+    {
+        "id": 607891,
+        "updated_sequence": 770822,
+        "published_at": {
+            "unix": 1517181540,
+            "text": "2018-01-28 23:19:00 +0000",
+            "iso_8601": "2018-01-28T23:19:00Z"
+        },
+        "updated_at": {
+            "unix": 1517192146,
+            "text": "2018-01-29 02:15:46 +0000",
+            "iso_8601": "2018-01-29T02:15:46Z"
+        },
+        "subject": "PRE-MARKET JAPANESE AND SOUTH KOREAN STOCK NEWS: Corporate earnings including Fanuc and Hyundai Steel",
+        "content": "<p>JAPAN</p>\r\n\r\n<p>Fanuc (6954 JT)<br />- Co. Q3 net JPY 50.5bln vs. Exp. JPY 41.8bln. (Newswires)</p>\r\n\r\n<p>KDDI (9433 JT)<br />- Co. may report 9-month oper. profit grew slightly Y/Y to JPY 790bln. (Nikkei)</p>\r\n\r\n<p>Mitsui &amp; Co. (8031 JT)<br />- Co. submitted a bid for AWE (AWE AT) at AUD 0.95/Shr vs. last close AUD 0.85/Shr. (Newswires)</p>\r\n\r\n<p>NTT DoCoMo (9437 JT)<br />- Co. may report 9-month oper. profit slightly declined Y/Y to JPY 830bln. (Nikkei)</p>\r\n\r\n<p>Rakuten (4755 JT)<br />- Co. is said to pay as much as JPY 50bln to acquire Asahi Fire &amp; Marine. (Newswires)</p>\r\n\r\n<p>Sharp (6753 JT)<br />- Co. 9-month net is expected to increase 270% Y/Y to JPY 70bln. (Nikkei)</p>\r\n\r\n<p>Shin-Etsu (4063 JT)<br />- Co. Q3 net JPY 62.6bln vs. Exp. JPY 59.8bln. (Newswires)</p>\r\n\r\n<p>SoftBank (9984 JT)<br />- Co. is planning to set up a global digital payments system to compete with the likes of Paypal, Apple Pay and Alipay. (Newswires)<br />- Co. has chosen Citi and Mizuho to lead listing of mobile business in Tokyo and London. (Newswires)</p>\r\n\r\n<p>Suntory (2578 JT)<br />- Co. is to cooperate with Alibaba to sell alcoholic beverages online in China. (Nikkei)</p>\r\n\r\n<p>Other News<br />-&nbsp;BoJ stated that Governor&nbsp;Kuroda didn&#39;t revise price outlook in the comments he made during Davos. (Newswires)<br />&nbsp;</p>\r\n\r\n<p>SOUTH KOREA<br />&nbsp;</p>\r\n\r\n<p>Hyundai Steel (004020 KS)<br />- Co. Q4 net KRW 77.8bln vs. Exp. KRW 259.0bln. (Newswires)</p>\r\n\r\n<p>LG Electronics (066570 KS)<br />- Co. added a new colour V30 smartphone to help bolster sales of handsets. (Yonhap)</p>\r\n\r\n<p>Samsung Heavy Industries (010140 KS)<br />- Co. FY 17 net loss KRW 340.7bln vs. Prev. loss KRW 138.8bln Y/Y. (Newswires)</p>\r\n\r\n<p>Posco Daewoo (047050 KS)<br />- Co. guides FY17 oper. profit KRW 500bln vs. Prev. KRW 401.3bln Y/Y. (Newswires)</p>\r\n\r\n<p>Other News<br />- BoK stated that the US is expected to bolster its protectionist trade policies going forward, which could pose challenges for South Korea. (Newswires)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-japanese-and-south-korean-stock-news-corporate-earnings-including-fanuc-and-hyundai-steel-28-01-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-01-29 07:19:00",
+        "gmt_time": "2018-01-28 23:19:00"
+    },
+    {
+        "id": 607890,
+        "updated_sequence": 770758,
+        "published_at": {
+            "unix": 1517179920,
+            "text": "2018-01-28 22:52:00 +0000",
+            "iso_8601": "2018-01-28T22:52:00Z"
+        },
+        "updated_at": {
+            "unix": 1517180541,
+            "text": "2018-01-28 23:02:21 +0000",
+            "iso_8601": "2018-01-28T23:02:21Z"
+        },
+        "subject": "Crown Resorts (CWN AT) sells Las Vegas site to Wynn Resorts (WYNN) for USD 264mln",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "crown-resorts-cwn-at-sells-las-vegas-site-to-wynn-resorts-wynn-for-usd-264mln-28-01-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-01-29 06:52:00",
+        "gmt_time": "2018-01-28 22:52:00"
+    },
+    {
+        "id": 607889,
+        "updated_sequence": 770752,
+        "published_at": {
+            "unix": 1517179860,
+            "text": "2018-01-28 22:51:00 +0000",
+            "iso_8601": "2018-01-28T22:51:00Z"
+        },
+        "updated_at": {
+            "unix": 1517179929,
+            "text": "2018-01-28 22:52:09 +0000",
+            "iso_8601": "2018-01-28T22:52:09Z"
+        },
+        "subject": "Canada and Mexico reject proposal to rework NAFTA corporate arbitration system, according to reports in WSJ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "canada-and-mexico-reject-proposal-to-rework-nafta-corporate-arbitration-system-according-to-reports-in-wsj-28-01-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-01-29 06:51:00",
+        "gmt_time": "2018-01-28 22:51:00"
+    },
+    {
+        "id": 607888,
+        "updated_sequence": 770746,
+        "published_at": {
+            "unix": 1517179800,
+            "text": "2018-01-28 22:50:00 +0000",
+            "iso_8601": "2018-01-28T22:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1517179857,
+            "text": "2018-01-28 22:50:57 +0000",
+            "iso_8601": "2018-01-28T22:50:57Z"
+        },
+        "subject": "US President Trump's security officials consider federal takeover of US 5G network to guard against China",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-president-trump-s-security-officials-consider-federal-takeover-of-us-5g-network-to-guard-against-china-28-01-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-01-29 06:50:00",
+        "gmt_time": "2018-01-28 22:50:00"
+    },
+    {
+        "id": 607887,
+        "updated_sequence": 770749,
+        "published_at": {
+            "unix": 1517179560,
+            "text": "2018-01-28 22:46:00 +0000",
+            "iso_8601": "2018-01-28T22:46:00Z"
+        },
+        "updated_at": {
+            "unix": 1517179883,
+            "text": "2018-01-28 22:51:23 +0000",
+            "iso_8601": "2018-01-28T22:51:23Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIAN STOCK NEWS: AWE (AWE AT) receives bid from Mitsui (8031 JT), CBA (CBA AT) names next CEO",
+        "content": "<p>AMA Group (AMA AT)<br />- Blackstone (BX) granted exclusive due diligence on the Co. after presenting an indicative proposal. (Newswires)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\r\n\r\n<p>AWE (AWE AT)<br />- Co. receives bid from Mitsui &amp; Co. (8031 JT) for AUD 0.95/Shr vs. last close AUD 0.85/Shr. (Newswires)</p>\r\n\r\n<p>Commonwealth Bank of Australia (CBA AT)<br />- Co. may choose a sale for its Colonial First State Global Asset Management as a number of US institutions are said to have shown interest. (Newswires)<br />- Co. has also chosen its retail banking chief Comyn as the CEO effective on April 9th. (Newswires) &nbsp;</p>\r\n\r\n<p>Incitec Pivot (IPL AT)<br />- Co. announces changes to its organizational structure and executive team. (Newswires)</p>\r\n\r\n<p>Iluka Resources (ILU AT)<br />- Co. Q4 Mineral Sands Output 298.3K tons vs. Prev. 217.5K tons Y/Y, Total Mineral Sands revenue AUD 245.4mln vs. Prev. AUD 253.7mln Y/Y. (Newswires)</p>\r\n\r\n<p>Rio Tinto (RIO AT)<br />- An investor reportedly sent documents to the UK&rsquo;s Serious Fraud Office alleging shortcomings in Co.&rsquo;s Oyu Tolgoi disclosures. (The Australian)</p>\r\n\r\n<p>Westpac (WBC AT)<br />- Co. is to conduct hybrid securities offering valued at AUD 1.0bln-1.5bln. (AFR)</p>\r\n\r\n<p>Other News<br />- US miner Cliffs says it is likely to shut its Australian iron ore business this year after it posted losses over the last half-year. (AFR)</p>\r\n\r\n<p>Basic Materials / Energy<br />- Spot gold rose 0.1%.<br />- WTI crude US oil rose 1.1%.<br />- Iron ore fell nearly 1.0%.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-australian-stock-news-awe-awe-at-receives-bid-from-mitsui-8031-jt-cba-cba-at-names-next-ceo-28-01-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-01-29 06:46:00",
+        "gmt_time": "2018-01-28 22:46:00"
+    },
+    {
+        "id": 607886,
+        "updated_sequence": 770740,
+        "published_at": {
+            "unix": 1517179320,
+            "text": "2018-01-28 22:42:00 +0000",
+            "iso_8601": "2018-01-28T22:42:00Z"
+        },
+        "updated_at": {
+            "unix": 1517179435,
+            "text": "2018-01-28 22:43:55 +0000",
+            "iso_8601": "2018-01-28T22:43:55Z"
+        },
+        "subject": "US Rep. Levin said that major issues remain after receiving briefing on NAFTA talks from US Trade Representative Lighthizer",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-rep-levin-said-that-major-issues-remain-after-receiving-briefing-on-nafta-talks-from-us-trade-representative-lighthizer-28-01-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-01-29 06:42:00",
+        "gmt_time": "2018-01-28 22:42:00"
+    },
+    {
+        "id": 607885,
+        "updated_sequence": 770737,
+        "published_at": {
+            "unix": 1517178480,
+            "text": "2018-01-28 22:28:00 +0000",
+            "iso_8601": "2018-01-28T22:28:00Z"
+        },
+        "updated_at": {
+            "unix": 1517178511,
+            "text": "2018-01-28 22:28:31 +0000",
+            "iso_8601": "2018-01-28T22:28:31Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASES CALENDAR NOW AVAILABLE IN THE RESEARCH SECTION: Highlights Include Australian HIA New Home Sales and Singapore PPI",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "asian-daily-economic-releases-calendar-now-available-in-the-research-section-highlights-include-australian-hia-new-home-sales-and-singapore-ppi-28-01-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-01-29 06:28:00",
+        "gmt_time": "2018-01-28 22:28:00"
+    },
+    {
+        "id": 607884,
+        "updated_sequence": 770734,
+        "published_at": {
+            "unix": 1517178360,
+            "text": "2018-01-28 22:26:00 +0000",
+            "iso_8601": "2018-01-28T22:26:00Z"
+        },
+        "updated_at": {
+            "unix": 1517178432,
+            "text": "2018-01-28 22:27:12 +0000",
+            "iso_8601": "2018-01-28T22:27:12Z"
+        },
+        "subject": "US President Trump says we will make a trade deal with UK",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-president-trump-says-we-will-make-a-trade-deal-with-uk-28-01-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-01-29 06:26:00",
+        "gmt_time": "2018-01-28 22:26:00"
+    },
+    {
+        "id": 607883,
+        "updated_sequence": 770881,
+        "published_at": {
+            "unix": 1517177280,
+            "text": "2018-01-28 22:08:00 +0000",
+            "iso_8601": "2018-01-28T22:08:00Z"
+        },
+        "updated_at": {
+            "unix": 1517203387,
+            "text": "2018-01-29 05:23:07 +0000",
+            "iso_8601": "2018-01-29T05:23:07Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p>ASIA-PAC</p>\r\n\r\n<p>BoJ&#39;s Governor Kuroda said we are finally close to the target and that inflationary expectation are picking up slightly, while he also repeated that the BoJ will continue to support the economy via monetary easing, medium-long term inflation expectations are expected to rise. (Newswires)</p>\r\n\r\n<p><br />NORTH AMERICA</p>\r\n\r\n<p>US President Trump plans to seek USD 716bln in defence spending, a massive increase that signals a shift away from concerns about deficits. (WaPo) Furthermore, there were also reports that draft of White House infrastructure plan would reduce environmental requirement for infrastructure projects. (Newswires)</p>\r\n\r\n<p>US Treasury Secretary Mnuchin said comments on USD were &#39;even-handed&#39; and pointed out that where USD is in the short term is not a concern. (Newswires)</p>\r\n\r\n<p>Mexican Deputy Economy Minister Baker said Mexico prioritises a good NAFTA deal over a fixed-time frame. He added that Mexico sees the presentation of auto ideas as a positive. (Newswires)</p>\r\n\r\n<p>Canadian NAFTA negotiator said NAFTA talks could stretch into 2019 before deal, while there were comments from Canada that some progress was made in discussions. (Newswires)</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>EQUITIES: SPX +1.2% at 2872.87, DJI +0.9% at 26616.71, NDX +1.5% at 7,022.97.<br />Top sectors: Healthcare +2.2%, IT +1.7%, Cons Disc +1.0%<br />Bottom sectors: Utilities +0.1%, Materials +0.4%, Energy +0.6%</p>\r\n\r\n<p>Stocks closed the week at fresh record highs, with the SPX printing a positive weekly close for the fourth consecutive week. Friday&rsquo;s gains being led by healthcare. The defensive utilities sector was the laggard, but still green. Stock futures largely looked through the softer than expected US advanced GDP print for Q4, and instead took their cue from earnings. Solid earnings from Intel on Thursday helped boost tech stocks; Intel shares were up around 10% to 17-year highs and received a host of broker upgrades. Elsewhere on the earnings slate, Abbvie reported top- and bottom-line beat and raised guidance, and the story was similar for Honeywell. Colgate-Palmolive was more in-line with forecasts, while Nextera beat on EPS, but posted a small revenue miss.</p>\r\n\r\n<p>Treasury yields were higher on Friday, with the underperformance mostly in the belly of the curve. The sell-off was inspired by a weaker than expected advanced GDP reading for Q4.<strong> </strong>The 2s30s, 5s10s and 5s30s curves all narrowed slightly, while 2s5s and 2s10s saw modest widening ahead of next week&rsquo;s FOMC (2s rose to nine year highs), where the central bank is expected to stand pat in outgoing Fed chair Yellen&rsquo;s final meeting.<strong> </strong>The Fed had forecast GDP growth of 2.5% in 2017, and as such, the Q4 data is a touch ahead of their forecasts, leaving it scope to continue on its hiking trajectory, where it has pencilled in three 2018 rate rises.<strong> </strong>10-Year T-Note settles -12 ticks at 122-02..</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>DATA</p>\r\n\r\n<p>US GDP Advance (Q4) 2.6% vs. Exp. 3.0% (Prev. 3.2%, Rev. 2.6%)<br />- US GDP Deflator Advance (Q4) 2.4% vs. Exp. 2.3% (Prev. 2.1%)<br />- US GDP Cons Spending Advance (Q4) 3.8% (Prev. 2.2%)<br />- US GDP Sales Advance (Q4) 3.2% vs. Exp. 3.2% (Prev. 2.4%)<br />- US PCE Prices Advance (Q4) 2.8% vs. Exp. 1.8% (Prev. 1.5%)<br />- US Core PCE Prices Advance (Q4) 1.9% vs. Exp. 1.6% (Prev. 1.3%)</p>\r\n\r\n<p>US Adv Goods Trade Balance (Dec) -71.58B vs. Exp. -68.60B (Prev. -70.00B, Rev. -69.99B)<br />- US Retail Inventories Advance (Dec) 0.6% (Prev. 0.2%, Rev. 0.3%)<br />- US Wholesale Inventories Adv (Dec) 0.2% vs. Exp. 0.2% (Prev. 0.8%)</p>\r\n\r\n<p>US Durable Goods (Dec) 2.9% vs. Exp. 0.8% (Prev. 1.3%, Rev. 1.7%)<br />- US Durables Ex-Defense MM (Dec) 2.2% vs. Exp. 0.3% (Prev. 1.0%, Rev. 1.5%)<br />- US Nondefe Cap Ex-Air (Dec) -0.3% vs. Exp. 0.5% (Prev. -0.2%, Rev. 0.2%)<br />- US Durables Ex-Transport (Dec) 0.6% vs. Exp. 0.5% (Prev. -0.1%,Rev. 0.3%)</p>\r\n\r\n<p>Canadian CPI Inflation YY (Dec) 1.9% vs. Exp. 1.9% (Prev. 2.1%)<br />- Canadian CPI Inflation MM (Dec) -0.4% vs. Exp. -0.3% (Prev. 0.3%)<br />- Canadian CPI Common (Dec) 1.6% vs. Exp. 1.5% (Prev. 1.5%)<br />- Canadian CPI Trim (Dec) 1.9% (Prev. 1.8%)<br />- Canadian CPI Median (Dec) 1.9% (Prev. 1.9%)<br />- Canadian Core CPI MM SA (Dec) 0.1% (Prev. 0.2%)<br />- Canadian CPI MM SA (Dec) 0.2% (Prev. 0.5%)<br />- Canadian CPI BoC Core MM (Dec) -0.5% (Prev. -0.1%)<br />- Canadian CPI BoC Core YY (Dec) 1.2% (Prev. 1.3%)<br />&nbsp;</p>\r\n\r\n<p>EU/UK</p>\r\n\r\n<p>Fitch affirmed Austria at AA+, outlook stable and affirmed France at AA, outlook stable. (Newswires)</p>\r\n\r\n<p>ECB&rsquo;s Knot stated that the ECB should make it clear how it will end its asset purchases after September when its current purchase program finishes and that there isn&rsquo;t any reason to continue with bond purchases. Knot also stated that the current program should end ASAP, but noted it was better to continue the program until September for credibility. (Newswires)</p>\r\n\r\n<p>EU&#39;s Moscovici said that the door was open if the UK wants to change its mind on Brexit. (Newswires)</p>\r\n\r\n<p>US President Trump commented that he would be &lsquo;Tougher&rsquo; than UK PM May in Brexit discussions with the EU. (Newswires)</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>FX</p>\r\n\r\n<p>FOREX: DXY red for the sixth straight week</p>\r\n\r\n<p>The DXY lost 0.5% on Friday trade, capping off a grim week &ndash; the sixth consecutive week of losses. The dollar was given some reprieve after US President Donald Trump&rsquo;s comments on Thursday (which were on the face of it, contrary to the comments of his Treasury Secretary) when he expressed a desire for a &ldquo;strong dollar&rdquo;. However, he said that Treasury Secretary Mnuchin&rsquo;s comments were apparently &ldquo;even handed&rdquo; and that where the buck is in the short-term was not a concern.</p>\r\n\r\n<p>The EUR again took advantage of the dollar weakness, but failed to test the post-ECB highs printed on Thursday, with price action capped by the 1.25 handle. Next week the docket is packed full of ECB speakers (Coeure, Lautenschlager, Praet, Mersch) that will put into perspective the ECB&rsquo;s latest meeting. Yesterday, sources stories suggested that the ECB remains split about its next move, and the immediate debate centres around when the ECB will amend its forward guidance (March seems to be the consensus).</p>\r\n\r\n<p>The yen, meanwhile, was among the top performers in the G10 space after BOJ Governor Kuroda again said that he expects only moderate economic growth, and inflation expectations were rising slightly. The comments sent USDJPY to visit the 108.50 mark, and were clearly misinterpreted by the market; later in the session, a BOJ released a statement saying that the governor&rsquo;s comments were not a revision of his views, prompting the yen to retreat to 109.</p>\r\n\r\n<p>Other havens were bid on USD weakness, and gold continued its rise, settling above $1,350, but the yellow metal didn&rsquo;t manage to test weekly highs around $1,366.</p>\r\n\r\n<p>Sterling was lingering around the 1.42 mark, but has backed away from highs against the EUR, despite newsflow over the last couple of days suggesting that Europeans may be more open to a flexible approach to Brexit, including flexibility over the transitional period. On the data front, GDP growth was encouraging, and at 1.8% in 2017, is four times the level most analysts were forecasting after the Brexit referendum. In late US trade, the greenback found some strength, contributing to GBP weaknesss, and pushing cable down towards the 1.4150 area.</p>\r\n\r\n<p>CAD advanced against the buck; although CPI fell, we are still knocking around the midpoint of the BOC tolerance band, and all three BOC metrics suggested that the inflationary landscape is firm.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><a name=\"_Hlk504673747\">COMMODITIES</a></p>\r\n\r\n<p>WTI futures settle 63 cents higher at USD 66.14 per barrel, Brent futures settle 10 cents higher at USD 70.52 per barrel</p>\r\n\r\n<p>Both Brent and WTI are rounding off a solid week, rising between 3% and 4%. There was no specific, meaningful crude related news explaining Friday&rsquo;s gains, and analysts were content to attribute the rise to stronger stocks, a firmer dollar. Oil drillers added 12 rigs, according to Baker Hughes, the most since March, and the second rise in three weeks.</p>\r\n\r\n<p>Iranian Oil Minister Zanganeh stated that output declined in some oil fields due to lack of resources and added that Iran will seek lower production in coming years if it cannot be fixed. (Newswires)</p>\r\n\r\n<p>US Baker Hughes Total (Jan 26) 947 (Prev. 936)<br />- US Baker Hughes Gas (Jan 26) 188 (Prev. 189)<br />- US Baker Hughes Oil (Jan 26) 759 (Prev. 747)</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>GEOPOLITICS</p>\r\n\r\n<p>Russia has no obligations to carry out one sided sanctions set by the USA, including North Korea. (Newswires)</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-asia-pac-opening-news-28-01-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-01-29 06:08:00",
+        "gmt_time": "2018-01-28 22:08:00"
+    },
+    {
+        "id": 607708,
+        "updated_sequence": 770721,
+        "published_at": {
+            "unix": 1517176800,
+            "text": "2018-01-28 22:00:00 +0000",
+            "iso_8601": "2018-01-28T22:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1517176800,
+            "text": "2018-01-28 22:00:00 +0000",
+            "iso_8601": "2018-01-28T22:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-20-12-2017",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-01-29 06:00:00",
+        "gmt_time": "2018-01-28 22:00:00"
+    }
+]

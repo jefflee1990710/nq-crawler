@@ -1,0 +1,524 @@
+[
+    {
+        "id": 924880,
+        "updated_sequence": 2297525,
+        "published_at": {
+            "unix": 1589155080,
+            "text": "2020-05-11 00:58:00 +0100",
+            "iso_8601": "2020-05-10T23:58:00Z"
+        },
+        "updated_at": {
+            "unix": 1589155151,
+            "text": "2020-05-11 00:59:11 +0100",
+            "iso_8601": "2020-05-10T23:59:11Z"
+        },
+        "subject": "South Korea May 1st-10th Exports fell 46.3% Y/Y, Imports fell 37.2% Y/Y",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "south-korea-may-1st-10th-exports-fell-46-3-y-y-imports-fell-37-2-y-y-10-05-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-05-11 07:58:00",
+        "gmt_time": "2020-05-10 23:58:00"
+    },
+    {
+        "id": 924879,
+        "updated_sequence": 2297537,
+        "published_at": {
+            "unix": 1589154600,
+            "text": "2020-05-11 00:50:00 +0100",
+            "iso_8601": "2020-05-10T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1589155924,
+            "text": "2020-05-11 01:12:04 +0100",
+            "iso_8601": "2020-05-11T00:12:04Z"
+        },
+        "subject": "BoJ Summary of Opinions from April 27th meeting states Japan economy is likely to remain in severe state for the time being, adds appropriate for the Bank to further enhance monetary easing  ",
+        "content": "<p>Says:&nbsp;</p><ul><li>Further easing measures, mainly to provide liquidity, are necessary this time as well.It also is important to fully prepare for a possible further worsening of the situation.</li><li>Japan's economy likely to improve and it sees prices pick up once pandemic subsides.</li><li>Timing to hot price target to be delayed as Japan's economy faces contraction as sharp as during The Great Depression of 1930s.</li><li>Policymakers must act boldly to avoid repeating The Great Depression, while there is room for more fiscal and monetary policy coordination as Japan faces risk of deflation.</li></ul><p>Full link: <a href=\"https://www.boj.or.jp/en/mopo/mpmsche_minu/opinion_2020/opi200427.pdf\">https://www.boj.or.jp/en/mopo/mpmsche_minu/opinion_2020/opi200427.pdf</a></p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>As a reminder, the BoJ kept NIRP at -0.1% and long term JGB yield target at around 0% as expected at the meeting, but pledged to buy unlimited JGBs and increased its purchases of corporate bonds and commercial paper. Furthermore, the BoJ said it will buy up to JPY 20tln of corporate bonds, as well as relax rules for corporate bonds and commercial paper purchases, while it will expand the type of assets it accepts as collateral for loan programme to tackle coronavirus.</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1589155924,
+            "text": "2020-05-11 01:12:04 +0100",
+            "iso_8601": "2020-05-11T00:12:04Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "boj-summary-of-opinions-from-april-27th-meeting-states-japan-economy-is-likely-to-remain-in-severe-state-for-the-time-being-adds-appropriate-for-the-bank-to-further-enhance-monetary-easing-10-05-2020",
+        "hidden": false,
+        "section": {
+            "id": 14,
+            "name": "BoJ"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-05-11 07:50:00",
+        "gmt_time": "2020-05-10 23:50:00"
+    },
+    {
+        "id": 924878,
+        "updated_sequence": 2297510,
+        "published_at": {
+            "unix": 1589154540,
+            "text": "2020-05-11 00:49:00 +0100",
+            "iso_8601": "2020-05-10T23:49:00Z"
+        },
+        "updated_at": {
+            "unix": 1589154579,
+            "text": "2020-05-11 00:49:39 +0100",
+            "iso_8601": "2020-05-10T23:49:39Z"
+        },
+        "subject": "RBNZ buys NZD 450mln of government bonds in QE operations",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "rbnz-buys-nzd-450mln-of-government-bonds-in-qe-operations-10-05-2020",
+        "hidden": false,
+        "section": {
+            "id": 11,
+            "name": "RBNZ"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-05-11 07:49:00",
+        "gmt_time": "2020-05-10 23:49:00"
+    },
+    {
+        "id": 924877,
+        "updated_sequence": 2297507,
+        "published_at": {
+            "unix": 1589154120,
+            "text": "2020-05-11 00:42:00 +0100",
+            "iso_8601": "2020-05-10T23:42:00Z"
+        },
+        "updated_at": {
+            "unix": 1589154184,
+            "text": "2020-05-11 00:43:04 +0100",
+            "iso_8601": "2020-05-10T23:43:04Z"
+        },
+        "subject": "RBA adds AUD 785mln to the banking system through repos vs. Prev. AUD 1.78bln",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "rba-adds-aud-785mln-to-the-banking-system-through-repos-vs-prev-aud-1-78bln-10-05-2020",
+        "hidden": false,
+        "section": {
+            "id": 12,
+            "name": "RBA"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-05-11 07:42:00",
+        "gmt_time": "2020-05-10 23:42:00"
+    },
+    {
+        "id": 924876,
+        "updated_sequence": 2297541,
+        "published_at": {
+            "unix": 1589154000,
+            "text": "2020-05-11 00:40:00 +0100",
+            "iso_8601": "2020-05-10T23:40:00Z"
+        },
+        "updated_at": {
+            "unix": 1589156400,
+            "text": "2020-05-11 01:20:00 +0100",
+            "iso_8601": "2020-05-11T00:20:00Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIA, JAPAN AND SOUTH KOREA STOCK NEWS: Mid-cap earnings",
+        "content": "<p>AUSTRALIA</p><p>CIMIC Group (CIM AT) - Co. Q1 net AUD 166mln vs. Prev. AUD 181mln Y/Y, rev. AUD 3.3bln vs. Prev. AUD 3.4bln Y/Y. (Newswires)</p><p>Cochlear (COH AT) - Co. April sales revenue fell 60% Y/Y and Implant unit sales were lower by 80% Y/Y. (Newswires)</p><p>Incitec Pivot (IPL AT) - Co. H1 net AUD 64.6mln vs. Prev. AUD 41.9mln Y/Y, rev. AUD 1.85bln vs. Prev. AUD 1.74bln Y/Y, Co. suspends dividend, while it announced AUD 600mln share placement and AUD 75mln repurchase plan. (Newswires)</p><p>News Corp (NWS AT) - Co. in discussions to sell part or all of its regional and community newspaper portfolio to Antony Catalano. (AFR)</p><p>Nine Entertainment (NEC AT) - Co. terminated further engagement with NZME after the latter recently resumed its efforts to acquire Stuff New Zealand from the Co. (Newswires)</p><p>Scentre Group (SCG AT) - Co. Q1 total in store sales rose 2.7% Y/Y to AUD 656mln, Co. will not pay a dividend in H1. (Newswires)</p><p>Suncorp (SUN AT) - Co. Q3 total lending fell 0.4% Q/Q to AUD 58.2bln, while it approved AUD 4.05bln in loan deferrals and expects FY group costs to be slightly above AUD 2.7bln including pay and leave entitlements remediation. (Newswires)</p><p>Other News - China is threatening major tariffs on Australia's barley exports which could cause an impact of hundreds of millions of dollars<strong> </strong>to the industry. (abc.net.au)</p><p>&nbsp;</p><p>JAPAN</p><p>Capcom (9697 JT) - Co. FY net JPY 16.0bln vs. Prev. JPY 12.6bln Y/Y. (Newswires)</p><p>Daiwa Securities (8601 JT) - Co. FY net JPY 60.4bln vs. Prev. JPY 63.8bln Y/Y. (Newswires)</p><p>Don Quijote (7532 JT) - Co. 9-month net JPY 38,4bln vs. Prev. JPY 38.0bln Y/Y, Co. April same store sales fell 10.2% Y/Y. (Newswires)</p><p>Honda (7267 JT) - Co. is to gradually restart auto output in US and Canada. (Newswires)</p><p>Minebea (6479 JT) - Co. FY net JPY 46.0bln vs. Prev. JPY 60.1bln Y/Y. (Newswires)</p><p>NEC Corp (6701 JT) - Co. raises FY adj. net forecast to JPY 111.0bln from JPY 74.0bln. (Newswires)</p><p>Sharp (6753 JT) - Co. cuts FY net outlook to JPY 20.0bln from JPY 80.0bln. (Newswires)</p><p>Sumco Corp (3436 JT) - Co. Q1 net JPY 8.5bln vs. Prev. JPY 13.1bln Y/Y. (Newswires)</p><p>Sumitomo Electric (5802 JT) - Co. awarded JPY 60bln contract for power line order in Germany. (Nikkei)</p><p>Suntory Beverage &amp; Food (2587 JT) - Co. Q1 net JPY 12.7bln vs. Prev. JPY 10.7bln Y/Y. (Newswires)</p><p>Foreign Investor Rules - Japan’s government released names of more than 500 companies which will be placed under tougher restrictions on receiving foreign investment in which companies such as Toshiba (6502 JT), Toyota (7203 JT), SoftBank (9984 JT) and Mitsubishi Heavy (7011 JT) will require advanced approval from the government for foreign investors to take a stake of more than 1% in any enterprises included in the 12 core strategic industries, while the rules will also apply to Avigan related manufacturers. (Newswires)</p><p>State of Emergency - Japan is reportedly considering lifting the state of emergency declaration in most prefectures this month in which 34 out of the 47 prefectures could be removed from the state of emergency status but it will continue to urge caution in some areas including Tokyo. (Nikkei)</p><p>Other News - Japan government will compile a 2nd extra budget to combat coronavirus pandemic and pass through in current Diet session, which is to mainly fund rent assistance, students facing falling income and expansion of corporate subsidies. (Nikkei)</p><p>&nbsp;</p><p>&nbsp;</p><p>SOUTH KOREA</p><p>Celltrion (068270 KS) - Co. Q1 net KRW 104.9bln vs. Exp. KRW 105.0bln, Prev. KRW 63.9bln Y/Y. (Newswires)</p><p>COWAY (021240 KS) - Co. Q1 net KRW 101.6bln vs. Prev. KRW 100.0bln Y/Y. (Newswires)</p><p>Handsome (020000 KS) - Co. Q1 net KRW 21.6bln vs. Prev. KRW 25.4bln Y/Y. (Newswires)</p><p>Hyundai Home Shopping Network (057050 KS) - Co. Q1 net fell 9.3% Y/Y to KRW 35.5bln. (Newswires)</p><p>Kumho Petrochemical (011780 KS) - Co. Q1 net KRW 127.6bln vs. Prev. KRW 114.0bln Y/Y. (Newswires)</p><p>LG Corp (003550 KS) - Co.&nbsp; Q1 net KRW 592.0bln vs. Prev. KRW 452.5bln, rev. TWD 1.59tln vs. Prev. TWD 1.63tln Y/Y. (Newswires)</p><p>Mando Corp (204320 KS) - Co. Q1 oper. Profit fell 42% Y/Y to KRW 18.5bln. (Newswires)</p><p>Other News - Seoul ordered to shut all bars and nightclubs after as many as 40 new COVID-19 cases were linked to them. (Newswires)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-australia-japan-and-south-korea-stock-news-mid-cap-earnings-10-05-2020",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-05-11 07:40:00",
+        "gmt_time": "2020-05-10 23:40:00"
+    },
+    {
+        "id": 924875,
+        "updated_sequence": 2297501,
+        "published_at": {
+            "unix": 1589153160,
+            "text": "2020-05-11 00:26:00 +0100",
+            "iso_8601": "2020-05-10T23:26:00Z"
+        },
+        "updated_at": {
+            "unix": 1589153228,
+            "text": "2020-05-11 00:27:08 +0100",
+            "iso_8601": "2020-05-10T23:27:08Z"
+        },
+        "subject": "RBA says excess cash at exchange settlement accounts at AUD 62.9bln vs. Prev.  AUD 65.9bln",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "rba-says-excess-cash-at-exchange-settlement-accounts-at-aud-62-9bln-vs-prev-aud-65-9bln-10-05-2020",
+        "hidden": false,
+        "section": {
+            "id": 12,
+            "name": "RBA"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-05-11 07:26:00",
+        "gmt_time": "2020-05-10 23:26:00"
+    },
+    {
+        "id": 924874,
+        "updated_sequence": 2297498,
+        "published_at": {
+            "unix": 1589152320,
+            "text": "2020-05-11 00:12:00 +0100",
+            "iso_8601": "2020-05-10T23:12:00Z"
+        },
+        "updated_at": {
+            "unix": 1589152519,
+            "text": "2020-05-11 00:15:19 +0100",
+            "iso_8601": "2020-05-10T23:15:19Z"
+        },
+        "subject": "Japan government will compile a 2nd extra budget to combat coronavirus pandemic and pass through in current Diet session, which is to mainly fund rent assistance, students facing falling income and expansion of corporate subsidies, according to Nikkei ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Nikkei",
+        "slug": "japan-government-will-compile-a-2nd-extra-budget-to-combat-coronavirus-pandemic-and-pass-through-in-current-diet-session-which-is-to-mainly-fund-rent-assistance-students-facing-falling-income-and-expansion-of-corporate-subsidies-according-10-05-2020",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-05-11 07:12:00",
+        "gmt_time": "2020-05-10 23:12:00"
+    },
+    {
+        "id": 924873,
+        "updated_sequence": 2297495,
+        "published_at": {
+            "unix": 1589150880,
+            "text": "2020-05-10 23:48:00 +0100",
+            "iso_8601": "2020-05-10T22:48:00Z"
+        },
+        "updated_at": {
+            "unix": 1589151102,
+            "text": "2020-05-10 23:51:42 +0100",
+            "iso_8601": "2020-05-10T22:51:42Z"
+        },
+        "subject": "CBS News White House Correspondent Ben Tracy says US VP Pence is not self isolating and plans to be at the White House on Monday ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>As a reminder, it was earlier reported that Vice President Pence is to self isolate after an aide tested positive for coronavirus.</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1589151102,
+            "text": "2020-05-10 23:51:42 +0100",
+            "iso_8601": "2020-05-10T22:51:42Z"
+        },
+        "push_notify": false,
+        "source": "CBS/Twitter",
+        "slug": "cbs-news-white-house-correspondent-ben-tracy-says-us-vp-pence-is-not-self-isolating-and-plans-to-be-at-the-white-house-on-monday-10-05-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-05-11 06:48:00",
+        "gmt_time": "2020-05-10 22:48:00"
+    },
+    {
+        "id": 924872,
+        "updated_sequence": 2297490,
+        "published_at": {
+            "unix": 1589150700,
+            "text": "2020-05-10 23:45:00 +0100",
+            "iso_8601": "2020-05-10T22:45:00Z"
+        },
+        "updated_at": {
+            "unix": 1589150805,
+            "text": "2020-05-10 23:46:45 +0100",
+            "iso_8601": "2020-05-10T22:46:45Z"
+        },
+        "subject": "CIMIC Group (CIM AT) Q1 net AUD 166mln vs. Prev. AUD 181mln Y/Y, rev. AUD 3.3bln vs. Prev. AUD 3.4bln Y/Y",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "cimic-group-cim-at-q1-net-aud-166mln-vs-prev-aud-181mln-y-y-rev-aud-3-3bln-vs-prev-aud-3-4bln-y-y-10-05-2020",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-05-11 06:45:00",
+        "gmt_time": "2020-05-10 22:45:00"
+    },
+    {
+        "id": 924869,
+        "updated_sequence": 2297481,
+        "published_at": {
+            "unix": 1589148900,
+            "text": "2020-05-10 23:15:00 +0100",
+            "iso_8601": "2020-05-10T22:15:00Z"
+        },
+        "updated_at": {
+            "unix": 1589148995,
+            "text": "2020-05-10 23:16:35 +0100",
+            "iso_8601": "2020-05-10T22:16:35Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASES CALENDAR IS NOW AVAILABLE IN THE RESEARCH SECTION: Highlights include: New Zealand Electronic Card Retail Sales and BoJ Summary of Opinions",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "asian-daily-economic-releases-calendar-is-now-available-in-the-research-section-highlights-include-new-zealand-electronic-card-retail-sales-and-boj-summary-of-opinions-10-05-2020",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-05-11 06:15:00",
+        "gmt_time": "2020-05-10 22:15:00"
+    },
+    {
+        "id": 924868,
+        "updated_sequence": 2297478,
+        "published_at": {
+            "unix": 1589148540,
+            "text": "2020-05-10 23:09:00 +0100",
+            "iso_8601": "2020-05-10T22:09:00Z"
+        },
+        "updated_at": {
+            "unix": 1589148750,
+            "text": "2020-05-10 23:12:30 +0100",
+            "iso_8601": "2020-05-10T22:12:30Z"
+        },
+        "subject": "NZIER Shadow Board says it favours further QE from the RBNZ over negative Official Cash Rate",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>As a reminder, the RBNZ will hold its next policy meeting on May 13th where OIS price in 86% chance of the central bank maintaining rates at 0.25%.</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1589148750,
+            "text": "2020-05-10 23:12:30 +0100",
+            "iso_8601": "2020-05-10T22:12:30Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "nzier-shadow-board-says-it-favours-further-qe-from-the-rbnz-over-negative-official-cash-rate-10-05-2020",
+        "hidden": false,
+        "section": {
+            "id": 11,
+            "name": "RBNZ"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-05-11 06:09:00",
+        "gmt_time": "2020-05-10 22:09:00"
+    },
+    {
+        "id": 924867,
+        "updated_sequence": 2297473,
+        "published_at": {
+            "unix": 1589148300,
+            "text": "2020-05-10 23:05:00 +0100",
+            "iso_8601": "2020-05-10T22:05:00Z"
+        },
+        "updated_at": {
+            "unix": 1589148454,
+            "text": "2020-05-10 23:07:34 +0100",
+            "iso_8601": "2020-05-10T22:07:34Z"
+        },
+        "subject": "Iraq gunmen reportedly opened fire at staffers at the Faiha Oil field",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "iraq-gunmen-reportedly-opened-fire-at-staffers-at-the-faiha-oil-field-10-05-2020",
+        "hidden": false,
+        "section": {
+            "id": 23,
+            "name": "Geopolitical"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-05-11 06:05:00",
+        "gmt_time": "2020-05-10 22:05:00"
+    },
+    {
+        "id": 924866,
+        "updated_sequence": 2297662,
+        "published_at": {
+            "unix": 1589147940,
+            "text": "2020-05-10 22:59:00 +0100",
+            "iso_8601": "2020-05-10T21:59:00Z"
+        },
+        "updated_at": {
+            "unix": 1589169626,
+            "text": "2020-05-11 05:00:26 +0100",
+            "iso_8601": "2020-05-11T04:00:26Z"
+        },
+        "subject": "US CDC reports total coronavirus cases as of previous day increased to 1,300,696 (Prev. 1,274,036), while total death toll was at 78,771 (Prev. 77,034)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-cdc-reports-total-coronavirus-cases-as-of-previous-day-increased-to-1-300-696-prev-1-274-036-while-total-death-toll-was-at-78-771-prev-77-034-10-05-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-05-11 05:59:00",
+        "gmt_time": "2020-05-10 21:59:00"
+    },
+    {
+        "id": 924865,
+        "updated_sequence": 2297463,
+        "published_at": {
+            "unix": 1589146980,
+            "text": "2020-05-10 22:43:00 +0100",
+            "iso_8601": "2020-05-10T21:43:00Z"
+        },
+        "updated_at": {
+            "unix": 1589147083,
+            "text": "2020-05-10 22:44:43 +0100",
+            "iso_8601": "2020-05-10T21:44:43Z"
+        },
+        "subject": "US Vice President Pence is to self isolate after an aide tested positive for coronavirus",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-vice-president-pence-is-to-self-isolate-after-an-aide-tested-positive-for-coronavirus-10-05-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-05-11 05:43:00",
+        "gmt_time": "2020-05-10 21:43:00"
+    },
+    {
+        "id": 924864,
+        "updated_sequence": 2297603,
+        "published_at": {
+            "unix": 1589146080,
+            "text": "2020-05-10 22:28:00 +0100",
+            "iso_8601": "2020-05-10T21:28:00Z"
+        },
+        "updated_at": {
+            "unix": 1589160180,
+            "text": "2020-05-11 02:23:00 +0100",
+            "iso_8601": "2020-05-11T01:23:00Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p><strong>CORONAVIRUS UPDATE / RESPONSES</strong></p><p>US President Trump said he is relying on US state governors when asked about releasing CDC reopening guidelines and commented that they are in no rush to negotiate a Phase 4 stimulus package. In related news, NEC Director Kudlow stated that formal talks on next stimulus package are paused and wont resume till late-May or early June, while prior reports noted that the White House hopes to have a Phase 4 Covid-19 stimulus package soon and encourages the House of Representatives to reconvene. (Newswires)</p><p>EU is to extend the external border closure for 30 more days and the Spanish government reportedly stopped Madrid region from easing lockdown, according to local press. (Newswires)</p><p>UK PM Johnson outlined a conditional 3-step plan to reopen the economy in which the stay at home message was adjusted to stay alert, control the virus and save lives although he added this was not a plan to end lockdown this week but instead were the first careful steps to modify measures. The first step is a change of emphasis from the government’s advisory to work from home if you can and only go to work if you must, to those that cannot work from home should be actively encouraged to go to work but should avoid public transport if possible as social distancing must be maintained. PM Johnson added they may be able to begin a phased reopening of shops and schools under step 2 which will be on June 1st at the earliest, while some of the hospitality industry and other public places will be able to reopen in step 3 at the earliest by July subject to conditions. Furthermore, UK PM Johnson unveiled a 5-level Covid alert system with 5 being the most critical level and suggested we are currently at level 4 but are in a position to begin a move to step 3. PM Johnson also stated that he will provide more details regarding his announcement on Monday in Parliament and that they will impose a quarantine on people flying in from abroad. (Newswires)</p><p>Scotland, Wales and Northern Ireland were reported to reject UK PM Johnson’s stay alert slogan with Scotland’s First Minister Nicola Sturgeon stating she will continue to use the ‘stay at home’ message to tackle the coronavirus outbreak in Scotland. Furthermore, Wales reportedly extended the lockdown period for another 3-week period last week with three modifications which are that exercise can be more than once a day, garden centres can be reopened, while they are looking at reopening libraries and recycling centres. (Newswires)</p><p>&nbsp;</p><p><strong>ASIA-PAC</strong></p><p>US President Trump said he is having a hard time with China in regard to the deal and has not made any decision yet on China, while there were comments from the US Chamber of Commerce which called on China to dramatically accelerate purchases of US goods under the Phase One trade deal as the economy in China returns to normality. (Newswires)</p><p>NEC Director Kudlow said the relationship with China is complex and that China has not been transparent, while he added that China will be held accountable when final results come in. (Newswires)</p><p>PBoC said China faces unprecedented economic challenges from the coronavirus and that they will resort to more powerful policies to address the impact to economic growth. (Newswires)</p><p>&nbsp;</p><p><strong>UK/EU</strong></p><p>UK ministers are expected to extend the job retention scheme until end-September although at a reduced rate of 60% in which Chancellor Sunak could announce the changes to the furlough scheme as early as this Monday. (Telegraph)</p><p>UK is drawing up plans to bypass the French port of Calais by developing ports on the UK's East Coast which is said to be due to COVID and Brexit, as well as reduce dependence on France. (FT)</p><p>ECB President Lagarde said ECB will play its full part within its mandate and emphasised that there should be no undue constraints on ECB policy response. Largarde noted that bank lending was the largest on record in March and that government financing may need to exceed 10% of GDP this year. (Newswires)</p><p>ECB has asked staff to study if the Central Bank should purchase junk Corporate Bonds to fight the COVID-19 fallout, with policymakers said to be under pressure to mimic the Fed on junk debt but doubts remain, according to sources. (Newswires)</p><p>French Finance Minister said the Eurogroup have reached a deal on a EUR 240bln Treasury line for countries that wish it and that ESM credit line will be operational on June 1st, while reports also noted ESM coronavirus credit line loan is to be for up to 10-years maturity. (Newswires)</p><p>German Finance Minister Scholz in Eurogroup meeting that he was confident there would be a solution to allow the Bundesbank to keep buying bonds after the three month deadline, while he insisted this was a German and not an ECB issue to be dealt with. (FT)</p><p>Italian PM Conte said EU aid is insufficient and recovery fund is needed. (Newswires)</p><p>&nbsp;</p><p><strong>FX</strong></p><p>SNB Chairman Jordan stated they are making a substantial commitment regarding FX intervention and stated that they stepped up intervention and are staying course on negative rates to ease the upward pressure on CHF. (Newswires)</p><p>Canadian Employment Change (Apr) -1993.8k vs. Exp. -4000.0k (Prev. -1010.7k). (Newswires) Canadian Unemployment Rate (Apr) 13.0% vs. Exp. 18.0% (Prev. 7.8%)&nbsp;</p><p>&nbsp;</p><p><strong>COMMODITIES</strong></p><p>Baker Hughes Rig Count: Oil -36 at 338, Natgas -1 at 80, Total -34 at 374. (Newswires)</p><p>White House said US President Trump and Saudi King Salman spoke about the virus and energy markets, in which they agreed on the importance of stability. (Newswires)</p><p>Iraq’s Finance Minister Ali Allawi has been named as acting Oil Minister until the position is filled. (Newswires)&nbsp;</p><p>&nbsp;</p><p><strong>US</strong></p><p>US President Trump announced the US will purchase USD 3bln in agricultural products from US farmers beginning in early in the approaching week. (Newswires)</p><p>NEC Director Kudlow said jobs numbers will continue to deteriorate but will see positive numbers in the second half of the year and added that the White House is weighing making business expenditures for virus safety tax deductible. (Newswires)</p><p>White House Economic Adviser Hassett said if Fed push rates negative, he would support it, but added that he respects the Fed's independence. Furthermore, Hassett also commented that the payroll tax cuts would only be present in the next package, while he suggested that next month's unemployment rate is likely to be higher and could be around 20%-25%. (Newswires)</p><p>NY Fed cut Treasuries/TIPS purchases to USD 7bln per day for next week (Prev. USD 8bln). (Newswires)</p><ul><li>US Non-Farm Payrolls (Apr) -20.5mln vs. Exp. -22.mln (Prev. -701.0k, Rev. -870k); 2-month net revisions -214k (prev. -57k)</li><li>US Unemployment Rate (Apr) 14.7% vs. Exp. 16.0% (Prev. 4.4%)</li><li>US Average Earnings YY (Apr) 7.9% vs. Exp. 3.3% (Prev. 3.1%, Rev. 3.3%)</li></ul><p>&nbsp;</p><p><strong>MARKET RECAP</strong></p><p>Overnight news that US/China trade officials held a call supported risk sentiment (officials to move forward with phase one); ES printed a high overnight, busting through 2,900, which had proved stiff resistance, and has been consolidating/moving horizontally since, although a late session ramp saw new highs made in thin trade, perhaps supported by positive developments on US/Saudi ties after a White House announcement suggesting Trump had held constructive calls with the Kingdom. Ford (F) announced it is aiming to begin its phased restart in North America from May 18th; it was also downgraded to junk at Fitch. Walt Disney Company (DIS) announced it is to reopen its Disney Springs in the US in a phased manner from May 20th; it also sold out of all its Shanghai reopening Disneyland tickets. Microsoft (MSFT) reported that Amazon (AMZN) has filed another protest of its USD 10bln JEDI contract with the Department of Defence, although the complaint is confidential therefore MSFT is unaware of the details. JPMorgan (JPM) in a 10Q filing restated its NII guidance (revised higher) and cut its expense guidance; it now sees FY20 NII to be around USD 56bln, and adjusted expenses sub USD 65bln in FY20; Q2 NII view at around USD 14bln. SPX +1.68% at 2929, NDQ +1.30% at 9220, DJIA +1.91% at 24331.</p><p>The TPLEX endured an erratic session as participants digested a less-dire-than-expected NFP print – albeit still a record slump – as well as another push towards NIRP. The T-Note had been modestly firming overnight before it legged lower on the release of the NFP report, amid a wider risk on environment. However, the losses in the TPLEX soon reversed course not long after the cash equity open, led by another rally in short rates, which saw shorter maturity Fed Funds futures move above par, seeing the 2-year yield print a new all-time low of 10.5bps. The sharp move lower pared heading into the latest NY Fed USTs purchases schedule announcement, which saw the Fed taper its daily purchases to around USD 7bln per day from around USD 8bln. Looking at the changes within the buckets, it kept its long-end purchases unchanged (20- to 30-year) but made the largest proportion of cuts at the front-end – perhaps to counter the recent leg lower in front-end yields towards NIRP as well as addressing recent steepening post the Treasury quarterly refunding announcement. Following the updated schedule release, yields continued to edge higher, to which by settlement, all yields along the curve had risen on the session: 2s +2.5bps at 0.15%, 5s +3bps at 0.33%, 10s +5bps at 0.68%, 30s +7bps at 1.39%. US T-note futures (M0) settled 11 ticks lower at 138-30+.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-asia-pac-opening-news-10-05-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-05-11 05:28:00",
+        "gmt_time": "2020-05-10 21:28:00"
+    }
+]

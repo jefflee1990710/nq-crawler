@@ -1,0 +1,580 @@
+[
+    {
+        "id": 672369,
+        "updated_sequence": 1042903,
+        "published_at": {
+            "unix": 1535932200,
+            "text": "2018-09-03 00:50:00 +0100",
+            "iso_8601": "2018-09-02T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1535932315,
+            "text": "2018-09-03 00:51:55 +0100",
+            "iso_8601": "2018-09-02T23:51:55Z"
+        },
+        "subject": "Japanese Company Sales (Q2) 5.1% (Prev. 3.2%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-company-sales-q2-5-1-prev-3-2-02-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 07:50:00",
+        "gmt_time": "2018-09-02 23:50:00"
+    },
+    {
+        "id": 672368,
+        "updated_sequence": 1042900,
+        "published_at": {
+            "unix": 1535932200,
+            "text": "2018-09-03 00:50:00 +0100",
+            "iso_8601": "2018-09-02T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1535932278,
+            "text": "2018-09-03 00:51:18 +0100",
+            "iso_8601": "2018-09-02T23:51:18Z"
+        },
+        "subject": "Japanese Company Profits (Q2)\t17.9% (Prev. 0.2%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-company-profits-q2-17-9-prev-0-2-02-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 07:50:00",
+        "gmt_time": "2018-09-02 23:50:00"
+    },
+    {
+        "id": 672367,
+        "updated_sequence": 1042897,
+        "published_at": {
+            "unix": 1535932200,
+            "text": "2018-09-03 00:50:00 +0100",
+            "iso_8601": "2018-09-02T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1535932266,
+            "text": "2018-09-03 00:51:06 +0100",
+            "iso_8601": "2018-09-02T23:51:06Z"
+        },
+        "subject": "Japanese Capital Spending Ex. Software (Q2) Y/Y 14.0% (Prev. 2.1%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-capital-spending-ex-software-q2-y-y-14-0-prev-2-1-02-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 07:50:00",
+        "gmt_time": "2018-09-02 23:50:00"
+    },
+    {
+        "id": 672365,
+        "updated_sequence": 1042888,
+        "published_at": {
+            "unix": 1535931120,
+            "text": "2018-09-03 00:32:00 +0100",
+            "iso_8601": "2018-09-02T23:32:00Z"
+        },
+        "updated_at": {
+            "unix": 1535931533,
+            "text": "2018-09-03 00:38:53 +0100",
+            "iso_8601": "2018-09-02T23:38:53Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIAN, JAPANESE AND SOUTH KOREAN STOCK NEWS: WTI crude futures fell 0.5% to below USD 70/bbl",
+        "content": "<p>AUSTRALIA</p>\r\n\r\n<p>Northern Star Resources (NST AT)<br />- Co. stated that its placement closed substantially oversubscribed. (Newswires)</p>\r\n\r\n<p>Virgin Australia (VAH AT)<br />- HNA Group (521 HK) is reportedly open to sale of its stake in Virgin Australia and are said to have received expressions of interest for its near-20% stake in the airliner. (The Australia)</p>\r\n\r\n<p>Woolworths (WOW AT)<br />- Co. plans for a USD 2bln listing of its petrol station business are said to be gaining traction with adviser UBS hosting an investor lunch. (The Australian)</p>\r\n\r\n<p>Energy<br />- WTI crude futures declined 0.5% to below USD 70/bbl. (Newswires)</p>\r\n\r\n<p><br />&nbsp;</p>\r\n\r\n<p>JAPAN</p>\r\n\r\n<p>Fujikura (5803 JT)<br />- Co. is alleged to have mishandled inspections on certain products for over 3 decades. (Newswires)</p>\r\n\r\n<p>Nidec Corp (6594 JT)<br />- Co. expects to pay around JPY 50bln to buy 5 German robotics firms. (Newswires)</p>\r\n\r\n<p>Other News<br />- BoJ Governor Kuroda reiterated that the central bank was unlikely to increase rates for quite some time. (Newswires)</p>\r\n\r\n<p><br />SOUTH KOREA</p>\r\n\r\n<p>LG Electronics (066570 KS)<br />- Co. CEO states they are to greatly bolster AI and robotics operations. (Yonhap)</p>\r\n\r\n<p>Data Recap<br />- South Korea Trade Balance (USD)(Aug) 6.9B vs. Exp. 7.3B (Prev. 6.9B). (Newswires)<br />- South Korea Exports (Aug) Y/Y 8.7% vs. Exp. 10.1% (Prev. 6.2%)<br />- South Korea Imports (Aug) Y/Y 9.2% vs. Exp. 8.2% (Prev. 16.4%)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-australian-japanese-and-south-korean-stock-news-wti-crude-futures-fell-0-5-to-below-usd-70-bbl-02-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 07:32:00",
+        "gmt_time": "2018-09-02 23:32:00"
+    },
+    {
+        "id": 672364,
+        "updated_sequence": 1042878,
+        "published_at": {
+            "unix": 1535929200,
+            "text": "2018-09-03 00:00:00 +0100",
+            "iso_8601": "2018-09-02T23:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1535929240,
+            "text": "2018-09-03 00:00:40 +0100",
+            "iso_8601": "2018-09-02T23:00:40Z"
+        },
+        "subject": "Australian CBA Manufacturing PMI (Aug) 53.2 (Prev. 52.4)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "australian-cba-manufacturing-pmi-aug-53-2-prev-52-4-02-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 07:00:00",
+        "gmt_time": "2018-09-02 23:00:00"
+    },
+    {
+        "id": 672363,
+        "updated_sequence": 1042875,
+        "published_at": {
+            "unix": 1535928660,
+            "text": "2018-09-02 23:51:00 +0100",
+            "iso_8601": "2018-09-02T22:51:00Z"
+        },
+        "updated_at": {
+            "unix": 1535928794,
+            "text": "2018-09-02 23:53:14 +0100",
+            "iso_8601": "2018-09-02T22:53:14Z"
+        },
+        "subject": "China Communist Party journal states the nation may experience short-term pain from trade dispute with US including negative impact to financial stability, but reiterates there will be no change to stable growth trend",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "china-communist-party-journal-states-the-nation-may-experience-short-term-pain-from-trade-dispute-with-us-including-negative-impact-to-financial-stability-but-reiterates-there-will-be-no-change-to-stable-growth-trend-02-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 06:51:00",
+        "gmt_time": "2018-09-02 22:51:00"
+    },
+    {
+        "id": 672358,
+        "updated_sequence": 1042848,
+        "published_at": {
+            "unix": 1535927460,
+            "text": "2018-09-02 23:31:00 +0100",
+            "iso_8601": "2018-09-02T22:31:00Z"
+        },
+        "updated_at": {
+            "unix": 1535927557,
+            "text": "2018-09-02 23:32:37 +0100",
+            "iso_8601": "2018-09-02T22:32:37Z"
+        },
+        "subject": "Barclays says its trade of the week is long USD/CAD with a target of 1.3200 and stop at 1.2970",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "barclays-says-its-trade-of-the-week-is-long-usd-cad-with-a-target-of-1-3200-and-stop-at-1-2970-02-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 06:31:00",
+        "gmt_time": "2018-09-02 22:31:00"
+    },
+    {
+        "id": 672357,
+        "updated_sequence": 1042845,
+        "published_at": {
+            "unix": 1535927400,
+            "text": "2018-09-02 23:30:00 +0100",
+            "iso_8601": "2018-09-02T22:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1535927424,
+            "text": "2018-09-02 23:30:24 +0100",
+            "iso_8601": "2018-09-02T22:30:24Z"
+        },
+        "subject": "Australian AiG Performance of Manufacturing Index (Aug) 56.7 (Prev. 52.0)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "australian-aig-performance-of-manufacturing-index-aug-56-7-prev-52-0-02-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 06:30:00",
+        "gmt_time": "2018-09-02 22:30:00"
+    },
+    {
+        "id": 672356,
+        "updated_sequence": 1042842,
+        "published_at": {
+            "unix": 1535926680,
+            "text": "2018-09-02 23:18:00 +0100",
+            "iso_8601": "2018-09-02T22:18:00Z"
+        },
+        "updated_at": {
+            "unix": 1535926891,
+            "text": "2018-09-02 23:21:31 +0100",
+            "iso_8601": "2018-09-02T22:21:31Z"
+        },
+        "subject": "Weekend reports note that Germany's BDI industry group has raised concerns related to a lack of Brexit progress and plan to begin implementing contingency plans for a non-Brexit scenario if there is still no agreement by mid-November, according to FT",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "FT",
+        "slug": "weekend-reports-note-that-germany-s-bdi-industry-group-has-raised-concerns-related-to-a-lack-of-brexit-progress-and-plan-to-begin-implementing-contingency-plans-for-a-non-brexit-scenario-if-there-is-still-no-agreement-by-mid-november-accord-02-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 06:18:00",
+        "gmt_time": "2018-09-02 22:18:00"
+    },
+    {
+        "id": 672355,
+        "updated_sequence": 1042839,
+        "published_at": {
+            "unix": 1535926620,
+            "text": "2018-09-02 23:17:00 +0100",
+            "iso_8601": "2018-09-02T22:17:00Z"
+        },
+        "updated_at": {
+            "unix": 1535926729,
+            "text": "2018-09-02 23:18:49 +0100",
+            "iso_8601": "2018-09-02T22:18:49Z"
+        },
+        "subject": "Weekend reports note that BoE Governor Carney is said to have indicated he could be willing to serve more of his 8-year term, according to FT reports",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "FT ",
+        "slug": "weekend-reports-note-that-boe-governor-carney-is-said-to-have-indicated-he-could-be-willing-to-serve-more-of-his-8-year-term-according-to-ft-reports-02-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 06:17:00",
+        "gmt_time": "2018-09-02 22:17:00"
+    },
+    {
+        "id": 672354,
+        "updated_sequence": 1042836,
+        "published_at": {
+            "unix": 1535926380,
+            "text": "2018-09-02 23:13:00 +0100",
+            "iso_8601": "2018-09-02T22:13:00Z"
+        },
+        "updated_at": {
+            "unix": 1535926527,
+            "text": "2018-09-02 23:15:27 +0100",
+            "iso_8601": "2018-09-02T22:15:27Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASES CALENDAR NOW AVAILABLE IN THE RESEARCH SECTION: Highlights Include New Zealand Terms of Trade, Australian Retail Sales, Regional PMIs including Chinese Caixin Manufacturing PMI",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asian-daily-economic-releases-calendar-now-available-in-the-research-section-highlights-include-new-zealand-terms-of-trade-australian-retail-sales-regional-pmis-including-chinese-caixin-manufacturing-pmi-02-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 06:13:00",
+        "gmt_time": "2018-09-02 22:13:00"
+    },
+    {
+        "id": 672353,
+        "updated_sequence": 1042833,
+        "published_at": {
+            "unix": 1535925000,
+            "text": "2018-09-02 22:50:00 +0100",
+            "iso_8601": "2018-09-02T21:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1535925037,
+            "text": "2018-09-02 22:50:37 +0100",
+            "iso_8601": "2018-09-02T21:50:37Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p>ASIA</p>\r\n\r\n<p>South Korea Trade Balance (USD)(Aug) 6.9B vs. Exp. 7.3B (Prev. 6.9B). (Newswires)<br />South Korea Exports (Aug) Y/Y 8.7% vs. Exp. 10.1% (Prev. 6.2%)<br />South Korea Imports (Aug) Y/Y 9.2% vs. Exp. 8.2% (Prev. 16.4%)</p>\r\n\r\n<p>Macau gaming revenue in August rose 17.1% Y/Y to MOP 26.6bln. (Newswires)</p>\r\n\r\n<p><br />UK</p>\r\n\r\n<p>EU chief Brexit negotiator Barnier stated he strongly opposes UK PM May&#39;s Chequers Brexit trade proposals, while reports noted that negotiators will re-engage again this week. In addition, Barnier also commented that EU and UK do not need more time to reach an agreement and that political decisions are required. (Guardian)</p>\r\n\r\n<p>UK PM May said she will refuse compromises on her Brexit plan that are not in the national interest and that she is confident the government can broker a good deal for Britain, while she added she will not succumb to those calling for a second referendum. PM May added that progress has been made in negotiations following the Chequers agreement and that the government has also been preparing for the event of a no-deal Brexit. (Sunday Telegraph)<br />&nbsp;</p>\r\n\r\n<p>EU</p>\r\n\r\n<p>ECB&#39;s de Guindos said economic growth in the Euro area remains solid and broad-based, while he noted risks surrounding growth outlook are balanced but uncertainties remain. De Guindos added that underlying inflation expected to pick-up before the end of summer and that uncertainty around the path of inflation has diminished. (Newswires)</p>\r\n\r\n<p>Fitch affirmed Italy at &#39;BBB&#39;; Outlook revised from Stable to Negative, while Fitch affirmed Hungary at &#39;BBB-&#39;; Outlook Positive. (Newswires)</p>\r\n\r\n<p><br />COMMODITIES</p>\r\n\r\n<p>Baker Hughes Rig Count (31 Aug) Oil rigs +2 to 862, Gas rigs +2 to 184, total rigs +4 to 1048. (Newswires)</p>\r\n\r\n<p><br />US</p>\r\n\r\n<p>US and Canada NAFTA talks concluded without a breakthrough and are set to resume on Wednesday, while reports also noted that President Trump will notify Congress to proceed with a Mexico-only trade deal that will replace NAFTA. USTR Lighthizer had commented on Friday that President Trump will sign a deal with Mexico and Canada if it is willing, while he added that talks with Canada were constructive and made progress. (Newswires)</p>\r\n\r\n<p>US President Trump tweeted over the weekend that a trilateral NAFTA deal with Canada is unnecessary and warned that Canada must accept new terms or US will terminate the agreement and revert to pre-NAFTA. (Twitter)</p>\r\n\r\n<p><br />MARKET RECAP</p>\r\n\r\n<p>Dan Loeb&rsquo;s Third Point LLC is looking for a list of nominees to challenge Campbell Soup&rsquo;s (CPB) board of directors, according to people familiar with the matter. It is reportedly unconvinced that the co. is exploring a sale of the entire group after it announced it is to sell its international refrigerated business unit on Thursday. Of note for Autonames (GM, F), European Commission President Juncker said the EU will increase auto tariffs in retaliation, if the US does, though he hopes his agreement with US President Trump will prevail, avoiding this scenario. Also, separately for Ford (F), a note from Morgan Stanley said the automaker&rsquo;s free cash flow may fall significantly in 2019. Walmart (WMT) were lower after Amazon (AMZN) announced it will soon sell food and drinks online in Mexico.&nbsp; Also, during hours The Information reported Alibaba (BABA) is to hold its plans to expand its US cloud business. SPX 0.0% at 2901, NDX +0.2% at 7655, DJI -0.1% at 25959.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-asia-pac-opening-news-02-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 05:50:00",
+        "gmt_time": "2018-09-02 21:50:00"
+    },
+    {
+        "id": 672352,
+        "updated_sequence": 1042830,
+        "published_at": {
+            "unix": 1535923080,
+            "text": "2018-09-02 22:18:00 +0100",
+            "iso_8601": "2018-09-02T21:18:00Z"
+        },
+        "updated_at": {
+            "unix": 1535923112,
+            "text": "2018-09-02 22:18:32 +0100",
+            "iso_8601": "2018-09-02T21:18:32Z"
+        },
+        "subject": "Notice: The earlier technical issues affecting the audio have now been resolved and all is running as normal; apologies for the inconvenience during the earlier disruption",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "notice-the-earlier-technical-issues-affecting-the-audio-have-now-been-resolved-and-all-is-running-as-normal-apologies-for-the-inconvenience-during-the-earlier-disruption-02-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 05:18:00",
+        "gmt_time": "2018-09-02 21:18:00"
+    },
+    {
+        "id": 672351,
+        "updated_sequence": 1042827,
+        "published_at": {
+            "unix": 1535922000,
+            "text": "2018-09-02 22:00:00 +0100",
+            "iso_8601": "2018-09-02T21:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1535922037,
+            "text": "2018-09-02 22:00:37 +0100",
+            "iso_8601": "2018-09-02T21:00:37Z"
+        },
+        "subject": "NOTICE: We are currently be experiencing some audio issues and are looking to resolve the issues as quickly as possible. Apologies for the inconvenience",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "notice-we-are-currently-be-experiencing-some-audio-issues-and-are-looking-to-resolve-the-issues-as-quickly-as-possible-apologies-for-the-inconvenience-02-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 05:00:00",
+        "gmt_time": "2018-09-02 21:00:00"
+    },
+    {
+        "id": 672159,
+        "updated_sequence": 1042818,
+        "published_at": {
+            "unix": 1535922000,
+            "text": "2018-09-02 22:00:00 +0100",
+            "iso_8601": "2018-09-02T21:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1535922000,
+            "text": "2018-09-02 22:00:00 +0100",
+            "iso_8601": "2018-09-02T21:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-30-08-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 05:00:00",
+        "gmt_time": "2018-09-02 21:00:00"
+    },
+    {
+        "id": 672351,
+        "updated_sequence": 1042827,
+        "published_at": {
+            "unix": 1535922000,
+            "text": "2018-09-02 22:00:00 +0100",
+            "iso_8601": "2018-09-02T21:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1535922037,
+            "text": "2018-09-02 22:00:37 +0100",
+            "iso_8601": "2018-09-02T21:00:37Z"
+        },
+        "subject": "NOTICE: We are currently be experiencing some audio issues and are looking to resolve the issues as quickly as possible. Apologies for the inconvenience",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "notice-we-are-currently-be-experiencing-some-audio-issues-and-are-looking-to-resolve-the-issues-as-quickly-as-possible-apologies-for-the-inconvenience-02-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 05:00:00",
+        "gmt_time": "2018-09-02 21:00:00"
+    },
+    {
+        "id": 672350,
+        "updated_sequence": 1042824,
+        "published_at": {
+            "unix": 1535922000,
+            "text": "2018-09-02 22:00:00 +0100",
+            "iso_8601": "2018-09-02T21:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1535922018,
+            "text": "2018-09-02 22:00:18 +0100",
+            "iso_8601": "2018-09-02T21:00:18Z"
+        },
+        "subject": "GBP/USD on the backfoot in early trade after comments over the weekend from EU chief Brexit negotiator Barnier stated he strongly opposes UK PM May's Chequers Brexit trade proposals",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Guardian",
+        "slug": "gbp-usd-on-the-backfoot-in-early-trade-after-comments-over-the-weekend-from-eu-chief-brexit-negotiator-barnier-stated-he-strongly-opposes-uk-pm-may-s-chequers-brexit-trade-proposals-02-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 05:00:00",
+        "gmt_time": "2018-09-02 21:00:00"
+    }
+]

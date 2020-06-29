@@ -1,0 +1,928 @@
+[
+    {
+        "id": 914168,
+        "updated_sequence": 2137917,
+        "published_at": {
+            "unix": 1584316260,
+            "text": "2020-03-15 23:51:00 +0000",
+            "iso_8601": "2020-03-15T23:51:00Z"
+        },
+        "updated_at": {
+            "unix": 1584316477,
+            "text": "2020-03-15 23:54:37 +0000",
+            "iso_8601": "2020-03-15T23:54:37Z"
+        },
+        "subject": "BoJ to hold emergency monetary policy meeting to be held 1200 local time/0300GMT to examine necessary monetary adjustment issue in light of recent developments, adds to hold one-day meeting instead of March 18th-19th scheduled meeting",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "boj-to-hold-emergency-monetary-policy-meeting-to-be-held-1200-local-time-0300gmt-to-examine-necessary-monetary-adjustment-issue-in-light-of-recent-developments-adds-to-hold-one-day-meeting-instead-of-march-18th-19th-scheduled-meeting-15-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 14,
+            "name": "BoJ"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-16 07:51:00",
+        "gmt_time": "2020-03-15 23:51:00"
+    },
+    {
+        "id": 914165,
+        "updated_sequence": 2137962,
+        "published_at": {
+            "unix": 1584315780,
+            "text": "2020-03-15 23:43:00 +0000",
+            "iso_8601": "2020-03-15T23:43:00Z"
+        },
+        "updated_at": {
+            "unix": 1584318843,
+            "text": "2020-03-16 00:34:03 +0000",
+            "iso_8601": "2020-03-16T00:34:03Z"
+        },
+        "subject": "PRE-MARKET JAPANESE AND SOUTH KOREAN STOCK NEWS: Japanese Parliament approved an emergency bill to give PM Abe emergency powers if necessary due to the coronavirus",
+        "content": "<p>JAPAN</p><p>Daiwa House Industry (1925 JT) - Co. is to repurchase JPY 30bln in shares. (Newswires)</p><p>Kansai Electric Power (9503 JT) - Japan METI ordered business improvement for the Co. (Newswires)</p><p>Murata Manufacturing (6981 JT) - Co. appointed a new President with immediate effect. (Newswires)</p><p>&nbsp;</p><p>Other News</p><p>BoJ announced that as of the upcoming week, the Bank will provide ample liquidity using market operations with long maturities, while there were separate reports the BoJ could increase purchases of commercial paper &amp; corporate bonds at their meeting this upcoming week according to sources. (Newswires)</p><p>Japanese Parliament have approved an emergency bill to give PM Abe emergency powers if necessary due to the coronavirus, while there were comments by PM Abe that the government will <strong>inject</strong> \"<strong>necessary and sufficient</strong>\" <strong>funds</strong> into the economy and use \"unprecedented ideas\" to bring back growth. (Newswires/Nikkei)</p><p>Reports noted speculation government may reduce fixed-asset tax for small firms. (Nikkei)</p><p>&nbsp;</p><p>SOUTH KOREA</p><p>Hyundai Heavy Industries (009540 KS) - Co. was awarded KRW 404bln order from South Korean military. (Newswires)</p><p>Other News - South Korea Vice Finance Minister Kim said to take stern and quick steps in case of one-sided moves and to strengthen FX liquidity steps to stabilize swaps, while they will take appropriate and supply liquidity if required. (Newswires)</p><p>&nbsp;</p><p>Coronavirus&nbsp;</p><p>South Korea reported 76 new coronavirus cases to bring the total to 8162 and which was the first time in 23 days that the increase was less than 100. (Yonhap)&nbsp;</p><p>131 countries and territories have restricted entry from South Korea. (Yonhap)</p><p>&nbsp;</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-japanese-and-south-korean-stock-news-japanese-parliament-approved-an-emergency-bill-to-give-pm-abe-emergency-powers-if-necessary-due-to-the-coronavirus-15-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-16 07:43:00",
+        "gmt_time": "2020-03-15 23:43:00"
+    },
+    {
+        "id": 914164,
+        "updated_sequence": 2137901,
+        "published_at": {
+            "unix": 1584315360,
+            "text": "2020-03-15 23:36:00 +0000",
+            "iso_8601": "2020-03-15T23:36:00Z"
+        },
+        "updated_at": {
+            "unix": 1584315536,
+            "text": "2020-03-15 23:38:56 +0000",
+            "iso_8601": "2020-03-15T23:38:56Z"
+        },
+        "subject": "HKMA lowers its base rate by 64bps to 0.86%",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>As a reminder, the Hong Kong Monetary Authority moves in lockstep with the Fed to protect the USD/HKD peg.</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1584315536,
+            "text": "2020-03-15 23:38:56 +0000",
+            "iso_8601": "2020-03-15T23:38:56Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "hkma-lowers-its-base-rate-by-64bps-to-0-86-15-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 8,
+            "name": "Other Central Banks"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-16 07:36:00",
+        "gmt_time": "2020-03-15 23:36:00"
+    },
+    {
+        "id": 914163,
+        "updated_sequence": 2137896,
+        "published_at": {
+            "unix": 1584314820,
+            "text": "2020-03-15 23:27:00 +0000",
+            "iso_8601": "2020-03-15T23:27:00Z"
+        },
+        "updated_at": {
+            "unix": 1584314894,
+            "text": "2020-03-15 23:28:14 +0000",
+            "iso_8601": "2020-03-15T23:28:14Z"
+        },
+        "subject": "Wynn Resorts (WYNN) is to shut Las Vegas casino in March 17th amid coronavirus",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "wynn-resorts-wynn-is-to-shut-las-vegas-casino-in-march-17th-amid-coronavirus-15-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-16 07:27:00",
+        "gmt_time": "2020-03-15 23:27:00"
+    },
+    {
+        "id": 914162,
+        "updated_sequence": 2137893,
+        "published_at": {
+            "unix": 1584314640,
+            "text": "2020-03-15 23:24:00 +0000",
+            "iso_8601": "2020-03-15T23:24:00Z"
+        },
+        "updated_at": {
+            "unix": 1584314759,
+            "text": "2020-03-15 23:25:59 +0000",
+            "iso_8601": "2020-03-15T23:25:59Z"
+        },
+        "subject": "BoJ says seeing some jittery movements in USD funding market and it will strive to maintain smooth market functioning",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "boj-says-seeing-some-jittery-movements-in-usd-funding-market-and-it-will-strive-to-maintain-smooth-market-functioning-15-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 14,
+            "name": "BoJ"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-16 07:24:00",
+        "gmt_time": "2020-03-15 23:24:00"
+    },
+    {
+        "id": 914161,
+        "updated_sequence": 2137890,
+        "published_at": {
+            "unix": 1584314280,
+            "text": "2020-03-15 23:18:00 +0000",
+            "iso_8601": "2020-03-15T23:18:00Z"
+        },
+        "updated_at": {
+            "unix": 1584314355,
+            "text": "2020-03-15 23:19:15 +0000",
+            "iso_8601": "2020-03-15T23:19:15Z"
+        },
+        "subject": "Fed Chair Powell says 13.3 powers are part of the Fed's playbook and is prepared to use authorities as appropriate",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "fed-chair-powell-says-13-3-powers-are-part-of-the-fed-s-playbook-and-is-prepared-to-use-authorities-as-appropriate-15-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 18,
+            "name": "Fed"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-16 07:18:00",
+        "gmt_time": "2020-03-15 23:18:00"
+    },
+    {
+        "id": 914160,
+        "updated_sequence": 2137887,
+        "published_at": {
+            "unix": 1584314100,
+            "text": "2020-03-15 23:15:00 +0000",
+            "iso_8601": "2020-03-15T23:15:00Z"
+        },
+        "updated_at": {
+            "unix": 1584314227,
+            "text": "2020-03-15 23:17:07 +0000",
+            "iso_8601": "2020-03-15T23:17:07Z"
+        },
+        "subject": "US CDC recommends all gathering of over 50 people be suspended",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>As a reminder, US President Trump declared a national emergency over the coronavirus on Friday, while there were also reports of NYC to close schools and several business also announced shut downs.</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1584314227,
+            "text": "2020-03-15 23:17:07 +0000",
+            "iso_8601": "2020-03-15T23:17:07Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-cdc-recommends-all-gathering-of-over-50-people-be-suspended-15-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-16 07:15:00",
+        "gmt_time": "2020-03-15 23:15:00"
+    },
+    {
+        "id": 914159,
+        "updated_sequence": 2137882,
+        "published_at": {
+            "unix": 1584313860,
+            "text": "2020-03-15 23:11:00 +0000",
+            "iso_8601": "2020-03-15T23:11:00Z"
+        },
+        "updated_at": {
+            "unix": 1584313946,
+            "text": "2020-03-15 23:12:26 +0000",
+            "iso_8601": "2020-03-15T23:12:26Z"
+        },
+        "subject": "Axios tweets that because US government was so slow to distribute tests, Trump officials don't know how far the virus has spread in US",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Axios/Twitter",
+        "slug": "axios-tweets-that-because-us-government-was-so-slow-to-distribute-tests-trump-officials-don-t-know-how-far-the-virus-has-spread-in-us-15-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-16 07:11:00",
+        "gmt_time": "2020-03-15 23:11:00"
+    },
+    {
+        "id": 914158,
+        "updated_sequence": 2137879,
+        "published_at": {
+            "unix": 1584313680,
+            "text": "2020-03-15 23:08:00 +0000",
+            "iso_8601": "2020-03-15T23:08:00Z"
+        },
+        "updated_at": {
+            "unix": 1584313837,
+            "text": "2020-03-15 23:10:37 +0000",
+            "iso_8601": "2020-03-15T23:10:37Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASE CALENDAR IS AVAILABLE IN THE RESEARCH SECTION OF THE WEBSITE: Highlights include Chinese Home Prices, Industrial Production and Retail Sales",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "asian-daily-economic-release-calendar-is-available-in-the-research-section-of-the-website-highlights-include-chinese-home-prices-industrial-production-and-retail-sales-15-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-16 07:08:00",
+        "gmt_time": "2020-03-15 23:08:00"
+    },
+    {
+        "id": 914157,
+        "updated_sequence": 2137876,
+        "published_at": {
+            "unix": 1584313500,
+            "text": "2020-03-15 23:05:00 +0000",
+            "iso_8601": "2020-03-15T23:05:00Z"
+        },
+        "updated_at": {
+            "unix": 1584313685,
+            "text": "2020-03-15 23:08:05 +0000",
+            "iso_8601": "2020-03-15T23:08:05Z"
+        },
+        "subject": "Fed Chair Powell says we have plenty of policy space and power in our tools, adds fiscal policy does play a major role when theres an economic downturn which probably needs to be the case here as well",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "fed-chair-powell-says-we-have-plenty-of-policy-space-and-power-in-our-tools-adds-fiscal-policy-does-play-a-major-role-when-theres-an-economic-downturn-which-probably-needs-to-be-the-case-here-as-well-15-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 18,
+            "name": "Fed"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-16 07:05:00",
+        "gmt_time": "2020-03-15 23:05:00"
+    },
+    {
+        "id": 914156,
+        "updated_sequence": 2137869,
+        "published_at": {
+            "unix": 1584313380,
+            "text": "2020-03-15 23:03:00 +0000",
+            "iso_8601": "2020-03-15T23:03:00Z"
+        },
+        "updated_at": {
+            "unix": 1584313480,
+            "text": "2020-03-15 23:04:40 +0000",
+            "iso_8601": "2020-03-15T23:04:40Z"
+        },
+        "subject": "Healius (HLS AT) board rejects indicative proposal from Partners Group",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "healius-hls-at-board-rejects-indicative-proposal-from-partners-group-15-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-16 07:03:00",
+        "gmt_time": "2020-03-15 23:03:00"
+    },
+    {
+        "id": 914155,
+        "updated_sequence": 2137866,
+        "published_at": {
+            "unix": 1584313140,
+            "text": "2020-03-15 22:59:00 +0000",
+            "iso_8601": "2020-03-15T22:59:00Z"
+        },
+        "updated_at": {
+            "unix": 1584313225,
+            "text": "2020-03-15 23:00:25 +0000",
+            "iso_8601": "2020-03-15T23:00:25Z"
+        },
+        "subject": "RBA adds AUD 5.9bln to banking system through market repo operations",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "rba-adds-aud-5-9bln-to-banking-system-through-market-repo-operations-15-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 12,
+            "name": "RBA"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-16 06:59:00",
+        "gmt_time": "2020-03-15 22:59:00"
+    },
+    {
+        "id": 914154,
+        "updated_sequence": 2137874,
+        "published_at": {
+            "unix": 1584313080,
+            "text": "2020-03-15 22:58:00 +0000",
+            "iso_8601": "2020-03-15T22:58:00Z"
+        },
+        "updated_at": {
+            "unix": 1584313630,
+            "text": "2020-03-15 23:07:10 +0000",
+            "iso_8601": "2020-03-15T23:07:10Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIAN STOCK NEWS: RBA said it is to conduct 1-month and 3-month operations until further notice, while it will conduct 6-month operations or longer at least weekly",
+        "content": "<p>Healius (HLS AT) - Partners Group has reportedly re-confirmed its offer for the Co. (AFR)</p><p>Reject Shop (TRS AT) - Co. reports first 11-weeks of H2 same store sales rose 5.7% Y/Y. (Newswires)</p><p>Other News - ASIC said it is taking steps to ensure equity market resiliency, while Australian Council of Financial Regulators said substantial financial buffers are available to be drawn down if required to support the economy. (Newswires)</p><p>RBA - RBA said it is to conduct 1-month and 3-month operations until further notice, while it will conduct 6-month operations or longer at least weekly until further notice. (Newswires)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-australian-stock-news-rba-said-it-is-to-conduct-1-month-and-3-month-operations-until-further-notice-while-it-will-conduct-6-month-operations-or-longer-at-least-weekly-15-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-16 06:58:00",
+        "gmt_time": "2020-03-15 22:58:00"
+    },
+    {
+        "id": 914152,
+        "updated_sequence": 2137860,
+        "published_at": {
+            "unix": 1584312240,
+            "text": "2020-03-15 22:44:00 +0000",
+            "iso_8601": "2020-03-15T22:44:00Z"
+        },
+        "updated_at": {
+            "unix": 1584313004,
+            "text": "2020-03-15 22:56:44 +0000",
+            "iso_8601": "2020-03-15T22:56:44Z"
+        },
+        "subject": "Fed Chair Powell says Fed doesn't see negative rates as appropriate policy response in the US, willing to be patient in assessing when to raise rates back from near-zero",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "fed-chair-powell-says-fed-doesn-t-see-negative-rates-as-appropriate-policy-response-in-the-us-willing-to-be-patient-in-assessing-when-to-raise-rates-back-from-near-zero-15-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 18,
+            "name": "Fed"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-16 06:44:00",
+        "gmt_time": "2020-03-15 22:44:00"
+    },
+    {
+        "id": 914151,
+        "updated_sequence": 2137852,
+        "published_at": {
+            "unix": 1584312060,
+            "text": "2020-03-15 22:41:00 +0000",
+            "iso_8601": "2020-03-15T22:41:00Z"
+        },
+        "updated_at": {
+            "unix": 1584312130,
+            "text": "2020-03-15 22:42:10 +0000",
+            "iso_8601": "2020-03-15T22:42:10Z"
+        },
+        "subject": "8 large US banks are to suspend buyback through Q2, according to reports",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Twitter",
+        "slug": "8-large-us-banks-are-to-suspend-buyback-through-q2-according-to-reports-15-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-16 06:41:00",
+        "gmt_time": "2020-03-15 22:41:00"
+    },
+    {
+        "id": 914150,
+        "updated_sequence": 2138043,
+        "published_at": {
+            "unix": 1584311940,
+            "text": "2020-03-15 22:39:00 +0000",
+            "iso_8601": "2020-03-15T22:39:00Z"
+        },
+        "updated_at": {
+            "unix": 1584325818,
+            "text": "2020-03-16 02:30:18 +0000",
+            "iso_8601": "2020-03-16T02:30:18Z"
+        },
+        "subject": "Fed Chair Powell says today's actions will help the US economy and promote a more vigorous return to normal, adds today's FOMC meeting was in lieu of meeting on March 17th-18th",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "fed-chair-powell-says-today-s-actions-will-help-the-us-economy-and-promote-a-more-vigorous-return-to-normal-adds-today-s-fomc-meeting-was-in-lieu-of-meeting-on-march-17th-18th-15-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 18,
+            "name": "Fed"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-16 06:39:00",
+        "gmt_time": "2020-03-15 22:39:00"
+    },
+    {
+        "id": 914149,
+        "updated_sequence": 2137844,
+        "published_at": {
+            "unix": 1584311760,
+            "text": "2020-03-15 22:36:00 +0000",
+            "iso_8601": "2020-03-15T22:36:00Z"
+        },
+        "updated_at": {
+            "unix": 1584311824,
+            "text": "2020-03-15 22:37:04 +0000",
+            "iso_8601": "2020-03-15T22:37:04Z"
+        },
+        "subject": "London Mayor Khan is to conduct an emergency business summit, according to CityAM",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "CityAM",
+        "slug": "london-mayor-khan-is-to-conduct-an-emergency-business-summit-according-to-cityam-15-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-16 06:36:00",
+        "gmt_time": "2020-03-15 22:36:00"
+    },
+    {
+        "id": 914148,
+        "updated_sequence": 2137838,
+        "published_at": {
+            "unix": 1584311580,
+            "text": "2020-03-15 22:33:00 +0000",
+            "iso_8601": "2020-03-15T22:33:00Z"
+        },
+        "updated_at": {
+            "unix": 1584311695,
+            "text": "2020-03-15 22:34:55 +0000",
+            "iso_8601": "2020-03-15T22:34:55Z"
+        },
+        "subject": "RBA says it is to conduct 1-month and 3-month operations until further notice, while it will conduct 6-month operations or longer at least weekly until further notice",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "rba-says-it-is-to-conduct-1-month-and-3-month-operations-until-further-notice-while-it-will-conduct-6-month-operations-or-longer-at-least-weekly-until-further-notice-15-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 12,
+            "name": "RBA"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-16 06:33:00",
+        "gmt_time": "2020-03-15 22:33:00"
+    },
+    {
+        "id": 914147,
+        "updated_sequence": 2137841,
+        "published_at": {
+            "unix": 1584311520,
+            "text": "2020-03-15 22:32:00 +0000",
+            "iso_8601": "2020-03-15T22:32:00Z"
+        },
+        "updated_at": {
+            "unix": 1584311774,
+            "text": "2020-03-15 22:36:14 +0000",
+            "iso_8601": "2020-03-15T22:36:14Z"
+        },
+        "subject": "Fed Chair Powell says coronavirus is having a  profound effect on US and globally, adds weakness abroad will weigh on US exports for a while and that financial conditions in US tightened markedly",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "fed-chair-powell-says-coronavirus-is-having-a-profound-effect-on-us-and-globally-adds-weakness-abroad-will-weigh-on-us-exports-for-a-while-and-that-financial-conditions-in-us-tightened-markedly-15-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 18,
+            "name": "Fed"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-16 06:32:00",
+        "gmt_time": "2020-03-15 22:32:00"
+    },
+    {
+        "id": 914146,
+        "updated_sequence": 2138170,
+        "published_at": {
+            "unix": 1584311160,
+            "text": "2020-03-15 22:26:00 +0000",
+            "iso_8601": "2020-03-15T22:26:00Z"
+        },
+        "updated_at": {
+            "unix": 1584338669,
+            "text": "2020-03-16 06:04:29 +0000",
+            "iso_8601": "2020-03-16T06:04:29Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS; Fed, RBNZ and BoC cut rates in emergency meetings",
+        "content": "<p><strong>CORONAVIRUS UPDATE / RESPONSES</strong></p><p>Fed cut Fed Funds Rate 100bps to 0.00%-0.25% via 9-1 vote (Mester dissented preferring a 50bps cut) and the Fed launched USD 700bln QE program in which it will increase Treasury purchases by at least USD 500bln and raise MBS purchases by USD 200bln. Fed expects target interest rates will remain in this range until economy has weathered recent events and is on track to meet inflation and employment targets, while it is reducing requirement ratio to 0% effective March 26th. (Newswires)</p><p>US President Trump stated that markets will be thrilled by the Fed rate cut, while he suggested to take it easy on panic grocery buying and that grocery stores will work 24 hours around the clock to keep stores stocked. (Newswires)</p><p>US President Trump declared a national emergency over the coronavirus and opens up access to USD 50bln for states and localities to fight against the coronavirus, while he announced to ‘waive' interest payments on all federal government loans including student loans. Furthermore, the US will add the UK to the travel ban list. (Newswires)</p><p>US House passed bill to make coronavirus testing free and require paid sick leave for those impacted by the coronavirus outbreak. (Newswires)</p><p>New York Governor Cuomo said NYC schools are to close early this week, while NYC Mayor De Blasio suggested it is possible schools may not reopen this academic year. (Newswires)</p><p>Bank of Canada cut key overnight interest rate by 50bps to 0.75% from 1.25% and stands ready to adjust monetary policy further if required to support economic growth and keep inflation on target. BoC said it is a proactive measure taken in light of the negative shocks to Canada's economy arising from the COVID-19 pandemic and recent sharp drop in oil prices, while it added that it has taken measures to ensure banks have sufficient liquidity and have a variety of other tools in the tool kit to address the crisis. (Newswires)</p><p>Canadian Government are reportedly considering a multi-billion aid package for industries which have most been hit by the coronavirus outbreak, according to sources. In related news, Canada's Chief Financial Superintendent said they are lowering the domestic stability buffer requirement for major banks to 1.25% from 2.50% of risk-weighted assets to add an additional CAD 300bln in lending capacity. (Newswires)</p><p>Norges Bank delivered a 50bps emergency rate cut to 1.0%0 from 1.50% via unanimous decision, while it noted the Committee is monitoring developments closely and is prepared to make further rate cuts. Furthermore, Ministry of Finance has, at the Norges Bank's recommendation, elected to cut the countercyclical capital buffer to 1.0% from 2.5%, while Norges Bank have cancelled their meeting for March 18th due to the holding of an extraordinary meeting but wishes to emphasise that the Committee can convene at short notice and decide on new measures if so required. (Newswires)</p><p>BoE Governor Carney said Fed, BoJ, Bank of Canada, ECB and SNB have agreed to lower pricing on standing USD liquidity swaps by 25bps and that central banks will offer US Dollar swaps with 84-day maturities. (Newswires)</p><p>European Commission President von der Leyen said the EU is to set up EUR 37bln in coronavirus response initiative and to provide maximum flexibility on state aid to provide flexibility within the stability and growth pact, while she added that they stand ready to do more as the situation evolves. (Newswires)</p><p>EU Commission expects EU GDP to shrink by ~1% in 2020, while other reports noted that Euro zone growth will very likely drop below 0% this year due to the coronavirus according to EU officials. (Newswires)</p><p>Swiss Government are to make up to CHF 10bln available to mitigate the impact of the coronavirus, while it announced schools are to close until at least April 4th and tightened restrictions on public gatherings/events. (Newswires)</p><p>Spanish government imposed a nationwide near-lockdown in hopes of tempering a coronavirus epidemic. (Guardian)</p><p>PBoC announced to cut RRR for some banks by 50-100bps under inclusive finance scheme and an additional 100bps cut for joint-stock banks from March 16th which will unleash CNY 550bln of banks’ funds. (Newswires)</p><p>BoJ announced that as of the upcoming week, the Bank will provide ample liquidity using market operations with long maturities, while there were separate reports the BoJ could increase purchases of commercial paper &amp; corporate bonds at their meeting next week, according to sources. (Newswires)</p><p>Japanese Parliament have approved an emergency bill to give PM Abe emergency powers if necessary due to the coronavirus. (Newswires)</p><p>RBNZ lowered the OCR by 75bps to 0.25% in an emergency meeting and stated that the OCR is to remain at 0.25% for at least a year. (Newswires)</p><p>&nbsp;</p><p><strong>ASIA-PAC</strong></p><p>US State Department summoned China's ambassador over comments from China's Foreign Ministry spokesman who suggested the US military may have brought coronavirus to Wuhan. (Newswires)</p><p>&nbsp;</p><p><strong>UK/EU</strong></p><p>BoE Minutes from Emergency Meeting stated should the MPC need to provide further monetary stimulus, there were a number of options at its disposal, including cutting the Bank Rate further, enlarging the TFSME, and expanding asset purchases. (Newswires)</p><p>UK Government said it will publish emergency legislation to deal with coronavirus in the “early part of next week” with the aim to get it through Parliament by end of the month. (ITV)</p><p>German Finance Minister Scholz said we will use all means to tackle the coronavirus and will provide tax relief to Co's including deferrals, while tax aid will cost billions. Schulz added they will undertake credit programmes without without limit, while there were separate comments from Germany Economy Minister Altmaier that suggested around EUR 500bln are available. (Newswires)</p><p>COMMODITIES&nbsp;</p><p>US President Trump asked the energy department to purchase oil through for the SPR and said they will it \"will fill it to the top. (Newswires)</p><p>US crude exports are reportedly set to fall by roughly 1mln BPD in coming months as Saudi Arabia floods market, according to sources at top exporters. (Newswires)</p><p>Russian Energy Minister Novak said Moscow sees no grounds to return to discussions with OPEC+ partners and reiterated that Russia could raise output in April by 200k BPD. (IFAX)</p><p>Baker Hughes Rig Count (13th Mar) Oil +1 at 683, Natural gas -2 at 107, total -1 at 792. (Newswires)</p><p>&nbsp;</p><p><strong>MARKET RECAP</strong></p><p>Stocks made strong gains on Friday in the Asia and Europe session, after another large sell-off on Thursday, before paring somewhat in US trade, and then experiencing a late session ramp to highs. Coordinated / uncoordinated fiscal and monetary responses to the COVID-19 outbreak continue to grow, where Trump declared a state of emergency to free up funds, the BoC and Canadian Government announced a rate cut and fiscal stimulus, Norges Bank made an emergency rate cut, and several other central banks announced liquidity measures, all on Friday. The equity gains were widespread with all sectors in positive territory, Financials leading as yields rose across the curve in a bear steepening fashion; although Utilities were a relative underperformer, as was Energy following crude prices coming off their highs on Russia announcing production ramp-up plans. Cruise liners &amp; Airlines bounced after the heavy sell off on Thursday with cruise names; NCLH, CCL, RCL, seeing heavy gains at the open, although pared back somewhat throughout the day, barring the late session, Trump-induced ramp, while airlines, AAL, DAL, UAL, LUV, also saw solid gains. SPX +9.21% at 2709, NDX +10% at 7995, DJIA +9.34% at 23181.</p><p>The TPLEX bear steepened again on Friday amid a renewed risk appetite. The Treasury selling coincided with strength in equities, following on from Thursday where both were sold amid a flight to cash. It is possible that the move in government debt was less correlated to risk appetite and more to technical factors, such as the ongoing duration selling by risk parity-type players, as well as profit taking from exhausted levels, as has broadly been suggested in recent sessions. The TPLEX did find a bid after the NY Fed stepped into move forward its Treasury purchase schedule, although it ultimately proved short-lived, as the selling pressures resumed heading into settlement. The 10-year yield rose by around 9bps to just over 0.94%, while the 2-year yield remained unchanged at 0.48%. US T-note futures (H0) settled 1 point 3 ticks lower at 135-25+.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-asia-pac-opening-news-fed-rbnz-and-boc-cut-rates-in-emergency-meetings-15-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-16 06:26:00",
+        "gmt_time": "2020-03-15 22:26:00"
+    },
+    {
+        "id": 914145,
+        "updated_sequence": 2137824,
+        "published_at": {
+            "unix": 1584310560,
+            "text": "2020-03-15 22:16:00 +0000",
+            "iso_8601": "2020-03-15T22:16:00Z"
+        },
+        "updated_at": {
+            "unix": 1584310777,
+            "text": "2020-03-15 22:19:37 +0000",
+            "iso_8601": "2020-03-15T22:19:37Z"
+        },
+        "subject": "US equity futures hit limit down by 5% halting the Emini S&P which has losses of 4.8% and DJIA futures are down over 1000 points",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-equity-futures-hit-limit-down-by-5-halting-the-emini-s-p-which-has-losses-of-4-8-and-djia-futures-are-down-over-1000-points-15-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-16 06:16:00",
+        "gmt_time": "2020-03-15 22:16:00"
+    },
+    {
+        "id": 914145,
+        "updated_sequence": 2137824,
+        "published_at": {
+            "unix": 1584310560,
+            "text": "2020-03-15 22:16:00 +0000",
+            "iso_8601": "2020-03-15T22:16:00Z"
+        },
+        "updated_at": {
+            "unix": 1584310777,
+            "text": "2020-03-15 22:19:37 +0000",
+            "iso_8601": "2020-03-15T22:19:37Z"
+        },
+        "subject": "US equity futures hit limit down by 5% halting the Emini S&P which has losses of 4.8% and DJIA futures are down over 1000 points",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-equity-futures-hit-limit-down-by-5-halting-the-emini-s-p-which-has-losses-of-4-8-and-djia-futures-are-down-over-1000-points-15-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-16 06:16:00",
+        "gmt_time": "2020-03-15 22:16:00"
+    },
+    {
+        "id": 914144,
+        "updated_sequence": 2137818,
+        "published_at": {
+            "unix": 1584309900,
+            "text": "2020-03-15 22:05:00 +0000",
+            "iso_8601": "2020-03-15T22:05:00Z"
+        },
+        "updated_at": {
+            "unix": 1584310050,
+            "text": "2020-03-15 22:07:30 +0000",
+            "iso_8601": "2020-03-15T22:07:30Z"
+        },
+        "subject": "RBNZ Governor Orr says our mandate remains the same, not considering negative rates",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "rbnz-governor-orr-says-our-mandate-remains-the-same-not-considering-negative-rates-15-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 11,
+            "name": "RBNZ"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-16 06:05:00",
+        "gmt_time": "2020-03-15 22:05:00"
+    },
+    {
+        "id": 914143,
+        "updated_sequence": 2137815,
+        "published_at": {
+            "unix": 1584309780,
+            "text": "2020-03-15 22:03:00 +0000",
+            "iso_8601": "2020-03-15T22:03:00Z"
+        },
+        "updated_at": {
+            "unix": 1584309928,
+            "text": "2020-03-15 22:05:28 +0000",
+            "iso_8601": "2020-03-15T22:05:28Z"
+        },
+        "subject": "Futures are volatile at the reopen of electronic trade following the emergency 100bps Fed rate cut and USD 700bln QE announcement with T-notes higher by over 1 point, while US equity futures slip around 4% on escalating coronavirus fears",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "futures-are-volatile-at-the-reopen-of-electronic-trade-following-the-emergency-100bps-fed-rate-cut-and-usd-700bln-qe-announcement-with-t-notes-higher-by-over-1-point-while-us-equity-futures-slip-around-4-on-escalating-coronavirus-fears-15-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-16 06:03:00",
+        "gmt_time": "2020-03-15 22:03:00"
+    },
+    {
+        "id": 914142,
+        "updated_sequence": 2137812,
+        "published_at": {
+            "unix": 1584308640,
+            "text": "2020-03-15 21:44:00 +0000",
+            "iso_8601": "2020-03-15T21:44:00Z"
+        },
+        "updated_at": {
+            "unix": 1584308817,
+            "text": "2020-03-15 21:46:57 +0000",
+            "iso_8601": "2020-03-15T21:46:57Z"
+        },
+        "subject": "Notice: Please refresh your website and audio feed and in the event the audio widget/icon is missing, please press Ctrl+F5",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "notice-please-refresh-your-website-and-audio-feed-and-in-the-event-the-audio-widget-icon-is-missing-please-press-ctrl-f5-15-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-16 05:44:00",
+        "gmt_time": "2020-03-15 21:44:00"
+    },
+    {
+        "id": 914139,
+        "updated_sequence": 2137803,
+        "published_at": {
+            "unix": 1584308400,
+            "text": "2020-03-15 21:40:00 +0000",
+            "iso_8601": "2020-03-15T21:40:00Z"
+        },
+        "updated_at": {
+            "unix": 1584308524,
+            "text": "2020-03-15 21:42:04 +0000",
+            "iso_8601": "2020-03-15T21:42:04Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-session-15-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-16 05:40:00",
+        "gmt_time": "2020-03-15 21:40:00"
+    },
+    {
+        "id": 914138,
+        "updated_sequence": 2137800,
+        "published_at": {
+            "unix": 1584306000,
+            "text": "2020-03-15 21:00:00 +0000",
+            "iso_8601": "2020-03-15T21:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1584306773,
+            "text": "2020-03-15 21:12:53 +0000",
+            "iso_8601": "2020-03-15T21:12:53Z"
+        },
+        "subject": "Fed cuts Fed Funds Rate 100bps to 0.00%-0.25% via 9-1 vote, launches USD 700bln QE program",
+        "content": "<p>Says:</p><ul><li>Expects target interest rates will remain in this range until economy has weathered recent events and is on track to meet inflation and employment targets.</li><li>Mester dissented in which she preferred a cut to 0.50%-0.75%.</li><li>Will increase Treasury purchases by at least USD 500bln and increase purchases of MBS by USD 200bln.</li><li>Reducing requirement ratio to 0% effective March 26th.</li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "fed-cuts-fed-funds-rate-100bps-to-0-00-0-25-via-9-1-vote-launches-usd-700bln-qe-program-15-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 18,
+            "name": "Fed"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-16 05:00:00",
+        "gmt_time": "2020-03-15 21:00:00"
+    }
+]

@@ -1,0 +1,716 @@
+[
+    {
+        "id": 664543,
+        "updated_sequence": 1002314,
+        "published_at": {
+            "unix": 1530489540,
+            "text": "2018-07-02 00:59:00 +0100",
+            "iso_8601": "2018-07-01T23:59:00Z"
+        },
+        "updated_at": {
+            "unix": 1530489633,
+            "text": "2018-07-02 01:00:33 +0100",
+            "iso_8601": "2018-07-02T00:00:33Z"
+        },
+        "subject": "German Interior Minister Seehofer says wants to avoid collapse of Merkel's government and is said to be seeking one more discussion with the CDU",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "german-interior-minister-seehofer-says-wants-to-avoid-collapse-of-merkel-s-government-and-is-said-to-be-seeking-one-more-discussion-with-the-cdu-02-07-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-07-02 07:59:00",
+        "gmt_time": "2018-07-01 23:59:00"
+    },
+    {
+        "id": 664539,
+        "updated_sequence": 1002302,
+        "published_at": {
+            "unix": 1530489000,
+            "text": "2018-07-02 00:50:00 +0100",
+            "iso_8601": "2018-07-01T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1530489226,
+            "text": "2018-07-02 00:53:46 +0100",
+            "iso_8601": "2018-07-01T23:53:46Z"
+        },
+        "subject": "Japanese Tankan Small Manufacturing Index (Q2) 14 vs. Exp. 14 (Prev. 15)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-tankan-small-manufacturing-index-q2-14-vs-exp-14-prev-15-01-07-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-07-02 07:50:00",
+        "gmt_time": "2018-07-01 23:50:00"
+    },
+    {
+        "id": 664534,
+        "updated_sequence": 1002287,
+        "published_at": {
+            "unix": 1530489000,
+            "text": "2018-07-02 00:50:00 +0100",
+            "iso_8601": "2018-07-01T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1530489098,
+            "text": "2018-07-02 00:51:38 +0100",
+            "iso_8601": "2018-07-01T23:51:38Z"
+        },
+        "subject": "Japanese Tankan Large Manufacturing Index (Q2) 21 vs. Exp. 22 (Prev. 24)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-tankan-large-manufacturing-index-q2-21-vs-exp-22-prev-24-01-07-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-07-02 07:50:00",
+        "gmt_time": "2018-07-01 23:50:00"
+    },
+    {
+        "id": 664535,
+        "updated_sequence": 1002290,
+        "published_at": {
+            "unix": 1530489000,
+            "text": "2018-07-02 00:50:00 +0100",
+            "iso_8601": "2018-07-01T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1530489107,
+            "text": "2018-07-02 00:51:47 +0100",
+            "iso_8601": "2018-07-01T23:51:47Z"
+        },
+        "subject": "Japanese Tankan Large Manufacturing Outlook (Q2) 21 vs. Exp. 20 (Prev. 20)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-tankan-large-manufacturing-outlook-q2-21-vs-exp-20-prev-20-01-07-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-07-02 07:50:00",
+        "gmt_time": "2018-07-01 23:50:00"
+    },
+    {
+        "id": 664536,
+        "updated_sequence": 1002293,
+        "published_at": {
+            "unix": 1530489000,
+            "text": "2018-07-02 00:50:00 +0100",
+            "iso_8601": "2018-07-01T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1530489119,
+            "text": "2018-07-02 00:51:59 +0100",
+            "iso_8601": "2018-07-01T23:51:59Z"
+        },
+        "subject": "Japanese Tankan Large Non-Manufacturing Index (Q2)\t24 vs. Exp. 23 (Prev. 23)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-tankan-large-non-manufacturing-index-q2-24-vs-exp-23-prev-23-01-07-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-07-02 07:50:00",
+        "gmt_time": "2018-07-01 23:50:00"
+    },
+    {
+        "id": 664537,
+        "updated_sequence": 1002296,
+        "published_at": {
+            "unix": 1530489000,
+            "text": "2018-07-02 00:50:00 +0100",
+            "iso_8601": "2018-07-01T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1530489126,
+            "text": "2018-07-02 00:52:06 +0100",
+            "iso_8601": "2018-07-01T23:52:06Z"
+        },
+        "subject": "Japanese Tankan Large Non-Manufacturing Outlook (Q2) 21 vs. Exp. 22 (Prev. 20)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-tankan-large-non-manufacturing-outlook-q2-21-vs-exp-22-prev-20-01-07-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-07-02 07:50:00",
+        "gmt_time": "2018-07-01 23:50:00"
+    },
+    {
+        "id": 664538,
+        "updated_sequence": 1002299,
+        "published_at": {
+            "unix": 1530489000,
+            "text": "2018-07-02 00:50:00 +0100",
+            "iso_8601": "2018-07-01T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1530489144,
+            "text": "2018-07-02 00:52:24 +0100",
+            "iso_8601": "2018-07-01T23:52:24Z"
+        },
+        "subject": "Japanese Large All Industry Capex (Q2) 13.6% vs. Exp. 9.3% (Prev. 2.3%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-large-all-industry-capex-q2-13-6-vs-exp-9-3-prev-2-3-01-07-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-07-02 07:50:00",
+        "gmt_time": "2018-07-01 23:50:00"
+    },
+    {
+        "id": 664540,
+        "updated_sequence": 1002305,
+        "published_at": {
+            "unix": 1530489000,
+            "text": "2018-07-02 00:50:00 +0100",
+            "iso_8601": "2018-07-01T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1530489265,
+            "text": "2018-07-02 00:54:25 +0100",
+            "iso_8601": "2018-07-01T23:54:25Z"
+        },
+        "subject": "Japanese Tankan Small Manufacturing Outlook (Q2) 12 vs. Exp. 11 (Prev. 12)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-tankan-small-manufacturing-outlook-q2-12-vs-exp-11-prev-12-01-07-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-07-02 07:50:00",
+        "gmt_time": "2018-07-01 23:50:00"
+    },
+    {
+        "id": 664541,
+        "updated_sequence": 1002308,
+        "published_at": {
+            "unix": 1530489000,
+            "text": "2018-07-02 00:50:00 +0100",
+            "iso_8601": "2018-07-01T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1530489298,
+            "text": "2018-07-02 00:54:58 +0100",
+            "iso_8601": "2018-07-01T23:54:58Z"
+        },
+        "subject": "Japanese Tankan Small Non-Manufacturing Index (Q2) 8 vs. Exp.\t 9 (Prev. 10)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-tankan-small-non-manufacturing-index-q2-8-vs-exp-9-prev-10-01-07-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-07-02 07:50:00",
+        "gmt_time": "2018-07-01 23:50:00"
+    },
+    {
+        "id": 664542,
+        "updated_sequence": 1002311,
+        "published_at": {
+            "unix": 1530489000,
+            "text": "2018-07-02 00:50:00 +0100",
+            "iso_8601": "2018-07-01T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1530489329,
+            "text": "2018-07-02 00:55:29 +0100",
+            "iso_8601": "2018-07-01T23:55:29Z"
+        },
+        "subject": "Japanese Tankan Small Non-Manufacturing Outlook (Q2) 5 vs. Exp. 7\t(Prev. 5)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-tankan-small-non-manufacturing-outlook-q2-5-vs-exp-7-prev-5-01-07-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-07-02 07:50:00",
+        "gmt_time": "2018-07-01 23:50:00"
+    },
+    {
+        "id": 664533,
+        "updated_sequence": 1002325,
+        "published_at": {
+            "unix": 1530488580,
+            "text": "2018-07-02 00:43:00 +0100",
+            "iso_8601": "2018-07-01T23:43:00Z"
+        },
+        "updated_at": {
+            "unix": 1530490491,
+            "text": "2018-07-02 01:14:51 +0100",
+            "iso_8601": "2018-07-02T00:14:51Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIAN, JAPANESE AND SOUTH KOREAN STOCK NEWS: Oil prices gap lower after US President Trump tweeted over the weekend that he asked Saudi King Salman to increase output by as much as 2mln bpd",
+        "content": "<p>AUSTRALIA</p>\r\n\r\n<p>APA Group (APA AT)<br />- Co. CEO McCormack is said to be meeting with potential investors in Montreal including large Canadian pension funds. (Newswires)</p>\r\n\r\n<p>Automotive Holdings (AHG AT)<br />- HNA terminates deal to buy Co. refrigerated logistics business. (Newswires)</p>\r\n\r\n<p>Gateway Lifestyle Operations (GTY AT)<br />- Hometown intends to make a cash takeover offer equal to AUD 2.25/stapled security or AUD 2.3035/stapled security before adjustments for distribution, while it is also said to be willing to increase its offer by around 2% (Newswires)</p>\r\n\r\n<p>Rio Tinto (RIO AT)<br />- Co. Labor costs at iron ore mines in Australia said to increase by as much as 10%. (AFR)</p>\r\n\r\n<p>Telstra (TLS AT)<br />- Co. sells stake in its Ventures unit for USD 62.5mln to HarbourVest and commits another USD 125mln in a merger of its Ventures unit with HarbourVest to create a fund valued at USD 675mln. (AFR) &nbsp;</p>\r\n\r\n<p>Yancoal (YAL AT)<br />- Co. applies for a dual listing in Hong Kong and proposes 35-1 share consolidation for shareholder approval. (Newswires)</p>\r\n\r\n<p>Energy<br />- WTI rose 1.1% on Friday to above USD 74/bbl, although prices gapped lower after President Trump tweeted over the weekend that he asked Saudi King Salman to increase output by as much as 2mln bpd. (Newswires)</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>JAPAN</p>\r\n\r\n<p>Fujitsu (6702 JT)<br />- United Microelectronics Corp (2303 TT) approves to buy remaining interest in MIFS Fab from Fujitsu valued at JPY 57.6bln. (Newswires)</p>\r\n\r\n<p>Honda (7267 JT)<br />- Co. halts Mexico plant due to flooding. (Nikkei)</p>\r\n\r\n<p>Mitsubishi UFJ Financial Group (8306 JT)<br />- Japan SESC recommends penalties against the Co. related to manipulation of JGB futures. (Newswires)</p>\r\n\r\n<p>ORIX Corp (8591 JT)<br />- Co. is said to pay over JPY 100bln to acquire NXT Capital. (Newswires)</p>\r\n\r\n<p>Other News<br />- Japan is said to see real GDP growth of between 1%-2% for FY19. (Newswires)<br />- Japan military is said to have eased defence force vigilance regarding North Korea. (Newswires)<br />&nbsp;</p>\r\n\r\n<p>SOUTH KOREA</p>\r\n\r\n<p>Hyundai Motor (005380 KS)<br />- Co. was reported to be considering takeover of Fiat-Chrysler (FCA IM). (Newswires)</p>\r\n\r\n<p>Lotte Group<br />- Co. founder&#39;s elder son made another attempt to push out his brother who was jailed for bribery, although the attempt to oust the younger brother from the board failed and with the sibling dispute said to complicate plans for a Japanese listing. (Nikkei)</p>\r\n\r\n<p>Other News<br />- Reports note speculation South Korea may miss 3% GDP growth target for 2018 due to several factors including poor employment figures, as well as weaker investment and consumption. (Newswires)<br />- Satellite images suggest North Korea is completing a major expansion of its key missile manufacturing plant. (Newswires)</p>\r\n\r\n<p>Data Recap<br />- South Korea Trade Balance (USD)(Jun) 6.3B (Prev. 6.6B). (Newswires)<br />- South Korea Exports (Jun) Y/Y -0.1% vs. Exp. 0.4% (Prev. -1.5%)<br />- South Korean Imports (Jun) Y/Y 10.7% vs. Exp. 11.4% (Prev. 14.5%)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-australian-japanese-and-south-korean-stock-news-oil-prices-gap-lower-after-us-president-trump-tweeted-over-the-weekend-that-he-asked-saudi-king-salman-to-increase-output-by-as-much-as-2mln-bpd-01-07-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-07-02 07:43:00",
+        "gmt_time": "2018-07-01 23:43:00"
+    },
+    {
+        "id": 664532,
+        "updated_sequence": 1002281,
+        "published_at": {
+            "unix": 1530487680,
+            "text": "2018-07-02 00:28:00 +0100",
+            "iso_8601": "2018-07-01T23:28:00Z"
+        },
+        "updated_at": {
+            "unix": 1530487806,
+            "text": "2018-07-02 00:30:06 +0100",
+            "iso_8601": "2018-07-01T23:30:06Z"
+        },
+        "subject": "Germany Interior Minister and CSU leader Seehofer is said to remain in politics if Chancellor Merkel's CDU party backs down regarding migration",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "germany-interior-minister-and-csu-leader-seehofer-is-said-to-remain-in-politics-if-chancellor-merkel-s-cdu-party-backs-down-regarding-migration-01-07-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-07-02 07:28:00",
+        "gmt_time": "2018-07-01 23:28:00"
+    },
+    {
+        "id": 664531,
+        "updated_sequence": 1002278,
+        "published_at": {
+            "unix": 1530487320,
+            "text": "2018-07-02 00:22:00 +0100",
+            "iso_8601": "2018-07-01T23:22:00Z"
+        },
+        "updated_at": {
+            "unix": 1530487511,
+            "text": "2018-07-02 00:25:11 +0100",
+            "iso_8601": "2018-07-01T23:25:11Z"
+        },
+        "subject": "UK PM May representative in Brexit discussions Robbins is said to have told ministers there is no chance for a bespoke trade deal with EU",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Times",
+        "slug": "uk-pm-may-representative-in-brexit-discussions-robbins-is-said-to-have-told-ministers-there-is-no-chance-for-a-bespoke-trade-deal-with-eu-01-07-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-07-02 07:22:00",
+        "gmt_time": "2018-07-01 23:22:00"
+    },
+    {
+        "id": 664530,
+        "updated_sequence": 1002275,
+        "published_at": {
+            "unix": 1530486000,
+            "text": "2018-07-02 00:00:00 +0100",
+            "iso_8601": "2018-07-01T23:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1530486030,
+            "text": "2018-07-02 00:00:30 +0100",
+            "iso_8601": "2018-07-01T23:00:30Z"
+        },
+        "subject": "Australian CBA Manufacturing PMI (Jun) 55.0 (Prev. 53.2)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "australian-cba-manufacturing-pmi-jun-55-0-prev-53-2-01-07-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-07-02 07:00:00",
+        "gmt_time": "2018-07-01 23:00:00"
+    },
+    {
+        "id": 664529,
+        "updated_sequence": 1002272,
+        "published_at": {
+            "unix": 1530484920,
+            "text": "2018-07-01 23:42:00 +0100",
+            "iso_8601": "2018-07-01T22:42:00Z"
+        },
+        "updated_at": {
+            "unix": 1530485006,
+            "text": "2018-07-01 23:43:26 +0100",
+            "iso_8601": "2018-07-01T22:43:26Z"
+        },
+        "subject": "Chinese GDP is expected to grow 6.6% this year, according to Chinese press reports",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "chinese-gdp-is-expected-to-grow-6-6-this-year-according-to-chinese-press-reports-01-07-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-07-02 06:42:00",
+        "gmt_time": "2018-07-01 22:42:00"
+    },
+    {
+        "id": 664528,
+        "updated_sequence": 1002269,
+        "published_at": {
+            "unix": 1530484740,
+            "text": "2018-07-01 23:39:00 +0100",
+            "iso_8601": "2018-07-01T22:39:00Z"
+        },
+        "updated_at": {
+            "unix": 1530484820,
+            "text": "2018-07-01 23:40:20 +0100",
+            "iso_8601": "2018-07-01T22:40:20Z"
+        },
+        "subject": "German Chancellor Merkel's CDU party suspends meeting and are to reconvene Monday at 0830CET/0730BST",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "german-chancellor-merkel-s-cdu-party-suspends-meeting-and-are-to-reconvene-monday-at-0830cet-0730bst-01-07-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-07-02 06:39:00",
+        "gmt_time": "2018-07-01 22:39:00"
+    },
+    {
+        "id": 664527,
+        "updated_sequence": 1002266,
+        "published_at": {
+            "unix": 1530484200,
+            "text": "2018-07-01 23:30:00 +0100",
+            "iso_8601": "2018-07-01T22:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1530484256,
+            "text": "2018-07-01 23:30:56 +0100",
+            "iso_8601": "2018-07-01T22:30:56Z"
+        },
+        "subject": "Australian AiG Performance of Manufacturing Index (Jun) 57.4 (Prev. 57.5)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "australian-aig-performance-of-manufacturing-index-jun-57-4-prev-57-5-01-07-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-07-02 06:30:00",
+        "gmt_time": "2018-07-01 22:30:00"
+    },
+    {
+        "id": 664526,
+        "updated_sequence": 1002263,
+        "published_at": {
+            "unix": 1530483000,
+            "text": "2018-07-01 23:10:00 +0100",
+            "iso_8601": "2018-07-01T22:10:00Z"
+        },
+        "updated_at": {
+            "unix": 1530483130,
+            "text": "2018-07-01 23:12:10 +0100",
+            "iso_8601": "2018-07-01T22:12:10Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASES CALENDAR NOW AVAILABLE IN THE RESEARCH SECTION: Highlights Include Japanese Tankan Survey, Chinese Caixin Manufacturing PMI and other regional PMIs, Hong Kong is closed for holiday",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "asian-daily-economic-releases-calendar-now-available-in-the-research-section-highlights-include-japanese-tankan-survey-chinese-caixin-manufacturing-pmi-and-other-regional-pmis-hong-kong-is-closed-for-holiday-01-07-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-07-02 06:10:00",
+        "gmt_time": "2018-07-01 22:10:00"
+    },
+    {
+        "id": 664525,
+        "updated_sequence": 1002260,
+        "published_at": {
+            "unix": 1530481320,
+            "text": "2018-07-01 22:42:00 +0100",
+            "iso_8601": "2018-07-01T21:42:00Z"
+        },
+        "updated_at": {
+            "unix": 1530481948,
+            "text": "2018-07-01 22:52:28 +0100",
+            "iso_8601": "2018-07-01T21:52:28Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p>ASIA-PAC</p>\r\n\r\n<p>Chinese Manufacturing PMI (Jun) 51.5 vs. Exp. 51.7 (Prev. 51.9). (Newswires)<br />Chinese Non-Manufacturing PMI (Jun) 55.0 vs. Exp. 54.8 (Prev. 54.9)<br />Chinese Composite PMI (Jun) 54.4 (Prev. 54.6)<br />&nbsp;</p>\r\n\r\n<p>UK</p>\r\n\r\n<p>BoE&#39;s Cunliffe has warned that escalating trade wars, strains in emerging markets and a rising possibility of a Chinese credit crisis could combine into a &ldquo;painful&rdquo; experience for the British economy. (Sunday Times)</p>\r\n\r\n<p>UK PM May has vowed to defy cabinet plotters, telling aides that she will not be bullied out of office by ministers or hardline Brexiteers opposed to her EU plans. May has opted to stand and fight if Conservative MPs force a vote to oust her, adding that she is content to &ldquo;win by one vote&rdquo;. (Sunday&nbsp;Times)</p>\r\n\r\n<p>UK government official said that the government is planning incase of a no deal scenario, while there were separate reports that the EU noted there was no hope of securing a withdrawal deal by October. (Newswires)</p>\r\n\r\n<p>Data Recap<br />UK GDP QQ (Q1) 0.2% vs. Exp. 0.1% (Prev. 0.1%). (Newswires)<br />UK GDP YY (Q1) 1.2% vs. Exp. 1.2% (Prev. 1.2%)</p>\r\n\r\n<p><br />EU</p>\r\n\r\n<p>Germany Interior Minister and CSU party leader Seehofer is reported to resign, which follows a meeting over the weekend with Chancellor Merkel that Seehofer described as pointless and in which he rejected the migration deal that was negotiated at the EU summit. Furthermore, CSU caucus chief Dobrindt opposes the resignation and requests an internal vote, while there were also comments from Economy Minister Altmaier who stated that the German coalition is in a serious situation. (Newswires)</p>\r\n\r\n<p>ECB&#39;s Draghi is said to have warned Eurozone leaders on Friday that countries are facing lower confidence and that EU trade tensions will have a larger impact. (Newswires)</p>\r\n\r\n<p><br />FX</p>\r\n\r\n<p>Canadian GDP MM (Apr) 0.1% vs. Exp. 0.0% (Prev. 0.3%). (Newswires)</p>\r\n\r\n<p><br />COMMODITIES</p>\r\n\r\n<p>US President Trump tweeted that he asked Saudi Arabia&rsquo;s King Salman to raise production maybe up to 2mln bpd to make up for Iran and Venezuela, while Trump adds that prices are too high and that King Salman has agreed. (Newswires/Twitter)</p>\r\n\r\n<p>Iran Oil Minister Zanganeh is said to urge fellow OPEC members to refrain from unilateral measures in a letter to UAE Energy Minister and OPEC President in which Zanganeh also warned that any production increases above limits is in breech of the agreement. (Newswires)</p>\r\n\r\n<p>Saudi Arabia reportedly boosted June crude exports to highest since 2013, according to KPLER. (Newswires)</p>\r\n\r\n<p><br />US</p>\r\n\r\n<p>US President Trump said will wait until mid-term elections to decide on NAFTA and that he has no plans on backing down regarding China. Elsewhere, US President Trump said on Friday he is working on phase 2 of the tax plan and that he is considering cutting corporation tax again from 21% to 20%. (Newswires)</p>\r\n\r\n<p>EU warned that US car import tariffs could result to a global retaliation that could impact as much as USD 300bln of US goods. (FT)</p>\r\n\r\n<p>US Commerce Department was reported on Friday to have begun a review of US export controls ordered by President Trump, which will align with CFIUS legislation requirement to review emerging and foundational technologies essential to US national security. In separate news, there were also reports on Friday that US President Trump is said to have told advisors he wants the US to withdraw from the WTO. (Newswires)<br />&nbsp;</p>\r\n\r\n<p>MARKET RECAP</p>\r\n\r\n<p>A quiet day for the Emini500 as it grinded higher amid no specific newsflow, however the gains were not enough for the index to finish in the green for the week. The ES found some support around the 50dma at 2722 before climbing higher at the open and settling around the 2740 level. In late trade a large market imbalance was seen which led to some selling in the ES erasing some of the earlier gains. SPX +0.08% at 2719, NASDAQ COMP +0.13% at 7041, DJI +0.24% at 24275.</p>\r\n\r\n<p>Treasury trading was particularly quiet, despite it being month-end, quarter-end, and half-end. Heading into the afternoon, volumes declined as it appeared most market players tried to get away early ahead of the Independence Day holiday next week. Despite equities trending higher, the risk-on sentiment failed to send bonds lower with IFR noting slightly month-end demand keeping bonds elevated. US 10YR T-Notes futures (Sep 2018) settled unchanged at 120-06.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-asia-pac-opening-news-01-07-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-07-02 05:42:00",
+        "gmt_time": "2018-07-01 21:42:00"
+    },
+    {
+        "id": 664319,
+        "updated_sequence": 1002249,
+        "published_at": {
+            "unix": 1530478800,
+            "text": "2018-07-01 22:00:00 +0100",
+            "iso_8601": "2018-07-01T21:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1530478800,
+            "text": "2018-07-01 22:00:00 +0100",
+            "iso_8601": "2018-07-01T21:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-28-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-07-02 05:00:00",
+        "gmt_time": "2018-07-01 21:00:00"
+    },
+    {
+        "id": 664524,
+        "updated_sequence": 1002255,
+        "published_at": {
+            "unix": 1530478800,
+            "text": "2018-07-01 22:00:00 +0100",
+            "iso_8601": "2018-07-01T21:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1530478888,
+            "text": "2018-07-01 22:01:28 +0100",
+            "iso_8601": "2018-07-01T21:01:28Z"
+        },
+        "subject": "Germany Interior Minister and CSU party leader Seehofer is to resign",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "germany-interior-minister-and-csu-party-leader-seehofer-is-to-resign-01-07-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-07-02 05:00:00",
+        "gmt_time": "2018-07-01 21:00:00"
+    }
+]

@@ -1,0 +1,554 @@
+[
+    {
+        "id": 911258,
+        "updated_sequence": 2126133,
+        "published_at": {
+            "unix": 1583107140,
+            "text": "2020-03-01 23:59:00 +0000",
+            "iso_8601": "2020-03-01T23:59:00Z"
+        },
+        "updated_at": {
+            "unix": 1583107187,
+            "text": "2020-03-01 23:59:47 +0000",
+            "iso_8601": "2020-03-01T23:59:47Z"
+        },
+        "subject": "South Korea reports a 22nd death from the coronavirus",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "south-korea-reports-a-22nd-death-from-the-coronavirus-01-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-02 07:59:00",
+        "gmt_time": "2020-03-01 23:59:00"
+    },
+    {
+        "id": 911255,
+        "updated_sequence": 2126124,
+        "published_at": {
+            "unix": 1583106600,
+            "text": "2020-03-01 23:50:00 +0000",
+            "iso_8601": "2020-03-01T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1583106699,
+            "text": "2020-03-01 23:51:39 +0000",
+            "iso_8601": "2020-03-01T23:51:39Z"
+        },
+        "subject": "Japanese Capital Spending Ex. Software (Q4) Y/Y -5.0% vs. Exp. -2.0% (Prev. 7.7%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-capital-spending-ex-software-q4-y-y-5-0-vs-exp-2-0-prev-7-7-01-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-02 07:50:00",
+        "gmt_time": "2020-03-01 23:50:00"
+    },
+    {
+        "id": 911257,
+        "updated_sequence": 2126130,
+        "published_at": {
+            "unix": 1583106600,
+            "text": "2020-03-01 23:50:00 +0000",
+            "iso_8601": "2020-03-01T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1583106789,
+            "text": "2020-03-01 23:53:09 +0000",
+            "iso_8601": "2020-03-01T23:53:09Z"
+        },
+        "subject": "Japanese Company Sales (Q4) Y/Y -6.4% (Prev. -2.6%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-company-sales-q4-y-y-6-4-prev-2-6-01-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-02 07:50:00",
+        "gmt_time": "2020-03-01 23:50:00"
+    },
+    {
+        "id": 911256,
+        "updated_sequence": 2126127,
+        "published_at": {
+            "unix": 1583106600,
+            "text": "2020-03-01 23:50:00 +0000",
+            "iso_8601": "2020-03-01T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1583106739,
+            "text": "2020-03-01 23:52:19 +0000",
+            "iso_8601": "2020-03-01T23:52:19Z"
+        },
+        "subject": "Japanese Company Profits (Q4) Y/Y -4.6% (Prev. -5.3%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-company-profits-q4-y-y-4-6-prev-5-3-01-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-02 07:50:00",
+        "gmt_time": "2020-03-01 23:50:00"
+    },
+    {
+        "id": 911253,
+        "updated_sequence": 2126118,
+        "published_at": {
+            "unix": 1583106240,
+            "text": "2020-03-01 23:44:00 +0000",
+            "iso_8601": "2020-03-01T23:44:00Z"
+        },
+        "updated_at": {
+            "unix": 1583106579,
+            "text": "2020-03-01 23:49:39 +0000",
+            "iso_8601": "2020-03-01T23:49:39Z"
+        },
+        "subject": "PRE-MARKET JAPANESE AND SOUTH KOREAN STOCK NEWS: Coronavirus cases in South Korea rose by 586 to a total 3736, while it exports rebounded in February",
+        "content": "<p>Japan</p><p>Rakuten (4755 JT) - Co. reportedly plans to lower price of its big data mobile plan to JPY 2980/month although the Co. denies being the source of the report. In other news, the FTC said it will recommend the Co. be ordered to halt plans for free shipping. (Nikkei)</p><p>Toyota (7203 JT) - Co. is to invest JPY 130bln for EV factory in China. (Newswires)</p><p>Other News - Japanese PM Abe reiterated they will not hesitate to expand immigration restrictions and will conduct fiscal measures if needed in response to the coronavirus outbreak. (Newswires)</p><p>&nbsp;</p><p>South Korea</p><p>Hyundai Motor (005380 KS) - Co. halted operations at one of its plants after a worker was diagnosed with coronavirus. (Yonhap)</p><p>LG Innotek (011070 KS) - Co. halts operations at Gumi factory after a worker was confirmed to have coronavirus. (Newswires)</p><p>SK Telecom (017670 KS) - Co. formed a global alliance with 9 telecom firms to develop 5G. (Yonhap)</p><p>Coronavirus update - South Korea reported 586 new coronavirus cases to bring the total number to 3736. (Newswires)</p><p>Other News - South Korean Finance Minister Hong said they are targeting to submit an extra budget to parliament by March 5th. (Newswires)</p><p>Data Recap - South Korea Trade Balance (Feb P) 4.12B (Prev. 0.54B). (Newswires) - South Korea Exports (Feb P) 4.5% (Prev. -6.3%) - South Korea Imports (Feb P) 1.4% (Prev. -5.4%)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-japanese-and-south-korean-stock-news-coronavirus-cases-in-south-korea-rose-by-586-to-a-total-3736-while-it-exports-rebounded-in-february-01-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-02 07:44:00",
+        "gmt_time": "2020-03-01 23:44:00"
+    },
+    {
+        "id": 911252,
+        "updated_sequence": 2126113,
+        "published_at": {
+            "unix": 1583105100,
+            "text": "2020-03-01 23:25:00 +0000",
+            "iso_8601": "2020-03-01T23:25:00Z"
+        },
+        "updated_at": {
+            "unix": 1583105231,
+            "text": "2020-03-01 23:27:11 +0000",
+            "iso_8601": "2020-03-01T23:27:11Z"
+        },
+        "subject": "Italy reports it now has 1694 confirmed coronavirus cases vs. Prev. 1128 on Saturday, while deaths are now at 34",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "italy-reports-it-now-has-1694-confirmed-coronavirus-cases-vs-prev-1128-on-saturday-while-deaths-are-now-at-34-01-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-02 07:25:00",
+        "gmt_time": "2020-03-01 23:25:00"
+    },
+    {
+        "id": 911251,
+        "updated_sequence": 2126110,
+        "published_at": {
+            "unix": 1583105100,
+            "text": "2020-03-01 23:25:00 +0000",
+            "iso_8601": "2020-03-01T23:25:00Z"
+        },
+        "updated_at": {
+            "unix": 1583105153,
+            "text": "2020-03-01 23:25:53 +0000",
+            "iso_8601": "2020-03-01T23:25:53Z"
+        },
+        "subject": "South Korea reported 586 new coronavirus cases to bring the total number to 3736",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "south-korea-reported-586-new-coronavirus-cases-to-bring-the-total-number-to-3736-01-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-02 07:25:00",
+        "gmt_time": "2020-03-01 23:25:00"
+    },
+    {
+        "id": 911250,
+        "updated_sequence": 2126107,
+        "published_at": {
+            "unix": 1583104860,
+            "text": "2020-03-01 23:21:00 +0000",
+            "iso_8601": "2020-03-01T23:21:00Z"
+        },
+        "updated_at": {
+            "unix": 1583105020,
+            "text": "2020-03-01 23:23:40 +0000",
+            "iso_8601": "2020-03-01T23:23:40Z"
+        },
+        "subject": "Goldman Sachs sees 50bps cut from Fed by March 18th and another 50bps cut in Q2, also sees most other G10 central banks lowering rates as well",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>This was reported earlier although has just been picked up by a major newswire.</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1583105020,
+            "text": "2020-03-01 23:23:40 +0000",
+            "iso_8601": "2020-03-01T23:23:40Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "goldman-sachs-sees-50bps-cut-from-fed-by-march-18th-and-another-50bps-cut-in-q2-also-sees-most-other-g10-central-banks-lowering-rates-as-well-01-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 18,
+            "name": "Fed"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-02 07:21:00",
+        "gmt_time": "2020-03-01 23:21:00"
+    },
+    {
+        "id": 911249,
+        "updated_sequence": 2126102,
+        "published_at": {
+            "unix": 1583104320,
+            "text": "2020-03-01 23:12:00 +0000",
+            "iso_8601": "2020-03-01T23:12:00Z"
+        },
+        "updated_at": {
+            "unix": 1583104406,
+            "text": "2020-03-01 23:13:26 +0000",
+            "iso_8601": "2020-03-01T23:13:26Z"
+        },
+        "subject": "Pete Buttigieg is reportedly planning to suspend his Presidential campaign",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pete-buttigieg-is-reportedly-planning-to-suspend-his-presidential-campaign-01-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-02 07:12:00",
+        "gmt_time": "2020-03-01 23:12:00"
+    },
+    {
+        "id": 911247,
+        "updated_sequence": 2126094,
+        "published_at": {
+            "unix": 1583103720,
+            "text": "2020-03-01 23:02:00 +0000",
+            "iso_8601": "2020-03-01T23:02:00Z"
+        },
+        "updated_at": {
+            "unix": 1583103917,
+            "text": "2020-03-01 23:05:17 +0000",
+            "iso_8601": "2020-03-01T23:05:17Z"
+        },
+        "subject": "Heavy losses seen in US equity futures at the reopen which have declined by around 3%, while oil futures are also weaker around 2.6% following the dismal Chinese PMI data over the weekend which printed the worst on record",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "heavy-losses-seen-in-us-equity-futures-at-the-reopen-which-have-declined-by-around-3-while-oil-futures-are-also-weaker-around-2-6-following-the-dismal-chinese-pmi-data-over-the-weekend-which-printed-the-worst-on-record-01-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-02 07:02:00",
+        "gmt_time": "2020-03-01 23:02:00"
+    },
+    {
+        "id": 911248,
+        "updated_sequence": 2126099,
+        "published_at": {
+            "unix": 1583103600,
+            "text": "2020-03-01 23:00:00 +0000",
+            "iso_8601": "2020-03-01T23:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1583104085,
+            "text": "2020-03-01 23:08:05 +0000",
+            "iso_8601": "2020-03-01T23:08:05Z"
+        },
+        "subject": "Australian CoreLogic House PX (Feb) M/M 1.2% (Prev. 0.9%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "australian-corelogic-house-px-feb-m-m-1-2-prev-0-9-01-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-02 07:00:00",
+        "gmt_time": "2020-03-01 23:00:00"
+    },
+    {
+        "id": 911246,
+        "updated_sequence": 2126096,
+        "published_at": {
+            "unix": 1583103180,
+            "text": "2020-03-01 22:53:00 +0000",
+            "iso_8601": "2020-03-01T22:53:00Z"
+        },
+        "updated_at": {
+            "unix": 1583104002,
+            "text": "2020-03-01 23:06:42 +0000",
+            "iso_8601": "2020-03-01T23:06:42Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIAN STOCK NEWS: Caltex (CTX AT) board concludes that EG proposal undervalues the Co. although it continues to engage with EG",
+        "content": "<p>Bluescope Steel (BSL AT) - Co. reportedly may be a takeover target. (The Australian)</p><p>Caltex (CTX AT) - Co. board concludes that EG proposal undervalues the Co. although it continues to engage with EG. (Newswires)</p><p>CIMIC (CIM AT) - Co. unit CPD was selected for projects valued around AUD 237mln by the South Australian government. (Newswires)</p><p>Cromwell Property (CMW AT) - Co. shareholder ARA issued notice of meeting and is to appoint Gary Weiss to the board. (Newswires)</p><p>Other News - Australian Council of Financial Regulators is to discuss the impact of coronavirus on the economy today. (Newswires)</p><p>Coronavirus - Coronavirus has claimed its first Australian death. (Newswires)</p><p>Rate forecasts - JPMorgan sees the RBA cutting by 50bps tomorrow, while OIS have priced in 100% probability for a 25bps rate cut. (Newswires)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-australian-stock-news-caltex-ctx-at-board-concludes-that-eg-proposal-undervalues-the-co-although-it-continues-to-engage-with-eg-01-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-02 06:53:00",
+        "gmt_time": "2020-03-01 22:53:00"
+    },
+    {
+        "id": 911245,
+        "updated_sequence": 2126082,
+        "published_at": {
+            "unix": 1583102220,
+            "text": "2020-03-01 22:37:00 +0000",
+            "iso_8601": "2020-03-01T22:37:00Z"
+        },
+        "updated_at": {
+            "unix": 1583102306,
+            "text": "2020-03-01 22:38:26 +0000",
+            "iso_8601": "2020-03-01T22:38:26Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASE CALENDAR IS AVAILABLE IN THE RESEARCH SECTION OF THE WEBSITE: Highlights include Regional PMI data including Chinese Caixin Manufacturing PMI",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "asian-daily-economic-release-calendar-is-available-in-the-research-section-of-the-website-highlights-include-regional-pmi-data-including-chinese-caixin-manufacturing-pmi-01-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-02 06:37:00",
+        "gmt_time": "2020-03-01 22:37:00"
+    },
+    {
+        "id": 911245,
+        "updated_sequence": 2126082,
+        "published_at": {
+            "unix": 1583102220,
+            "text": "2020-03-01 22:37:00 +0000",
+            "iso_8601": "2020-03-01T22:37:00Z"
+        },
+        "updated_at": {
+            "unix": 1583102306,
+            "text": "2020-03-01 22:38:26 +0000",
+            "iso_8601": "2020-03-01T22:38:26Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASE CALENDAR IS AVAILABLE IN THE RESEARCH SECTION OF THE WEBSITE: Highlights include Regional PMI data including Chinese Caixin Manufacturing PMI",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "asian-daily-economic-release-calendar-is-available-in-the-research-section-of-the-website-highlights-include-regional-pmi-data-including-chinese-caixin-manufacturing-pmi-01-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-02 06:37:00",
+        "gmt_time": "2020-03-01 22:37:00"
+    },
+    {
+        "id": 911244,
+        "updated_sequence": 2126079,
+        "published_at": {
+            "unix": 1583101200,
+            "text": "2020-03-01 22:20:00 +0000",
+            "iso_8601": "2020-03-01T22:20:00Z"
+        },
+        "updated_at": {
+            "unix": 1583101592,
+            "text": "2020-03-01 22:26:32 +0000",
+            "iso_8601": "2020-03-01T22:26:32Z"
+        },
+        "subject": "Newswires note Australian interest rate futures surge and price in more than a 100% chance of a rate cut at the RBA meeting on Tuesday",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>As a guide, OIS are pricing in 100% probability of a 25bps cut which is in contrast to ASX 30-Day Interbank Cash Rate Futures which were pricing an 82% chance for rates to be kept unchanged as of February 28th.</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1583101380,
+            "text": "2020-03-01 22:23:00 +0000",
+            "iso_8601": "2020-03-01T22:23:00Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "newswires-note-australian-interest-rate-futures-surge-and-price-in-more-than-a-100-chance-of-a-rate-cut-at-the-rba-meeting-on-tuesday-01-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 12,
+            "name": "RBA"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-02 06:20:00",
+        "gmt_time": "2020-03-01 22:20:00"
+    },
+    {
+        "id": 911243,
+        "updated_sequence": 2126072,
+        "published_at": {
+            "unix": 1583100060,
+            "text": "2020-03-01 22:01:00 +0000",
+            "iso_8601": "2020-03-01T22:01:00Z"
+        },
+        "updated_at": {
+            "unix": 1583100189,
+            "text": "2020-03-01 22:03:09 +0000",
+            "iso_8601": "2020-03-01T22:03:09Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p><strong>CORONAVIRUS UPDATE&nbsp;</strong></p><p>US confirmed its first coronavirus-related death which was a patient in the 50s at King County in Washington State. (Newswires)</p><p>WHO said much of the global community is not yet ready to implement measures that have contained the coronavirus in China, while there were also comments from WHO’s Tederos that over 20 vaccines are in development globally and several in clinical trials in which they expect results within the next few weeks. (Newswires)</p><p>Italy will introduce measures valued at EUR 3.6bln to support the economy amid the coronavirus outbreak. (Newswires)</p><p>German government crisis committee called on cancellations of imminent major international events and conferences, as well as intensifying cross-border measures. (Newswires)&nbsp;</p><p>&nbsp;</p><p><strong>ASIA-PAC</strong></p><ul><li>Chinese Manufacturing PMI (Feb) 35.7 vs. Exp. 46.0 (Prev. 50.0). (Newswires)&nbsp;</li><li>Chinese Non-Manufacturing PMI (Feb) 29.6 vs. Exp. 50.0 (Prev. 54.1)&nbsp;&nbsp;</li><li>Chinese Composite PMI (Feb) 28.9 (Prev. 53.0)</li><li>Macau Gaming Revenue (MOP)(Jan) 3.1B (Prev. 22.8B). (Newswires)</li><li>Australian AiG Performance of Manufacturing Index (Feb) 44.3 (Prev. 45.4). (Newswires)&nbsp;</li><li><a href=\"https://newsquawk.com/headlines/new-zealand-terms-of-trade-qq-q4-2-6-vs-exp-0-8-prev-1-9-01-03-2020\">New Zealand Terms of Trade (Q4) Q/Q 2.6% vs. Exp. 0.8% (Prev. 1.9%)</a></li><li>South Korea Trade Balance (Feb P) 4.12B (Prev. 0.54B). (Newswires)</li><li>South Korea Exports (Feb P) 4.5% (Prev. -6.3%)&nbsp;</li><li>South Korea Imports (Feb P) 1.4% (Prev. -5.4%)&nbsp;</li></ul><p>&nbsp;</p><p><strong>UK/EU</strong></p><p>Fitch affirmed Switzerland at 'AAA'; Outlook Stable and Norway at \"AAA\", Outlook Stable, while it also affirmed Ireland at 'A+'; Outlook Stable. (Newswires)</p><p>&nbsp;</p><p><strong>COMMODITIES&nbsp;</strong></p><p>Baker Hughes Rig Count (28th Feb): Oil -1 at 678, natural gas unchanged at 110 and total -1 at 790 rigs. (Newswires)</p><p>&nbsp;</p><p><strong>GEOPOLITICS</strong></p><p>Reports noted 2 rockets landed in the ‘Concert Square’ near the US Embassy in the Baghdad green zone. (Newswires)</p><p>Turkey is said to have shot down 2 Syrian war planes amid increasing conflict. (Newswires)</p><p>&nbsp;</p><p><strong>US&nbsp;</strong></p><p>Fed Chair Powell (Neutral) said the Fed will use its tools and act as appropriate to support the economy. Powell also stated that fundamentals for the economy remain strong but COVID-19 poses evolving risks, while he added that they are monitoring developments and their implications for the economic outlook. (Newswires)</p><p>Fed's Bullard (Non-Voter, Dove) said he does not pre-judge the March meeting but does not feel the Fed has to cut just on the basis of market pricing. Bullard added that adjustments to US growth forecasts do not look very severe and markets may be overstating the risk, while he added they are willing to react if there is a major effect on the US economy but we would have to get to that juncture. (Newswires)</p><p>US President Trump is to meet with drug companies on Monday to discuss progress on coronavirus vaccines. (Newswires)</p><p>White House officials are to discuss tax cuts and other emergency measures in hopes of tackling COVID-19 fallout, according to reports citing people familiar with the matter. There were also separate reports that US House of Representatives members are being advised to put plans in place for office operations in the event of widespread COVID-19 infections in the US. (Washington Post/Newswires)</p><p>Acting White House Budget Office Chief Vought said we will need supplemental funding shortly but have not run out of money, while White House Legislative Affairs Director Ueland hopes to attain supplemental funding in the days ahead that President Trump can sign as soon as possible. (Newswires)</p><p>House of Representatives could vote on emergency COVID-19 bill as soon as next week, according to a congressional source. (Newswires)</p><p>NEC Director Kudlow said he expects a rebound in the stock market citing \"sound\" fundamentals of the economy and does not think people should panic, while he suggested that stocks look pretty cheap and that people should \"buy the dip\" in stock markets. (Newswires)</p><p>Joe Biden won the South Carolina Democrat Primary with 48% of the votes to win at least 35 delegates and Bernie Sanders finished second with 20% of the votes for 13 delegates. (Newswires)</p><p>Goldman Sachs now sees the Fed cutting rates by 50bps at this month’s meeting. (Newswires)&nbsp;</p><p>&nbsp;</p><p><strong>MARKET RECAP</strong></p><p>Further equity volatility to end the week due to the evolving COVID-19 situation. The further falling of yields continued to weigh on financials (BKX, XLF). Lower energy prices weighed on the sector (XLE, XOP) – meanwhile, Occidental (OXY) reported a disappointing quarter but decent production guidance and EOG Resources (EOG) missed on Revenue but boosted its dividend. Lower gold prices weighed on gold miners (NEM, LK, GOLD). Emerson (EMR) took a hit on warning of COVID-19 effecting its sales. Trade Desk (TTD) surged on strong earnings and guidance. Wayfair (W) tumbled lower on a larger than expected loss. Foot Locker (FL) made strong gains after a decent quarter. Gilead (GILD) pared some of its recent strength amid a downgrade at DZ Bank and announcing a takeover offer for Forty Seven (FTSV), which surged. Dell (DELL) posted decent top and bottom line figures although was offered amid weakness in its datacentre unit. Mylan (MYL) sold off after disappointing earnings and COVID-19 business impact warnings. Autodesk (ADSK) traded firmer after a strong quarter, although guidance was more or less inline. Live Nation (LYV) was another gainer after a decent quarter. PG&amp;E (PCG) traded lower after California regulators increased its wildfire fine. SPX -0.82% at 2954, NDQ +0.30% at 8462, DJIA -1.4% at 25,409.</p><p>Another big rip higher in the TPLEX, the largest such this week, led by the short end as virus concerns move the market’s expectations towards Fed accommodation, in addition to haven and month-end flows. The move higher came across the whole session, and found some additional pressure in the tail-end on the back of Powell’s remarks that the virus is an “evolving risk”, which some are alluding to as a shoe-in to a potential “material change to the outlook”. The rates market certainly believes the Fed won’t hold back, with 95bps of rate cuts now priced in for 2020, with 50bps expected for the March FOMC meeting – accompanied by excessive volume in rates futures. Additionally, desks draw attention to month-end rebalancing likely exacerbating the bid into duration from index buyers. While in the background, the virus continues to spread, impacting global supply chains and continuing investor appetite for Treasuries. At the US equity cash close the entire curve had bull steepened significantly, the 2-year yield was down 19bps and the 30-year a relatively “meagre” 10bps, with the 10-year yield down 13.5bps to 1.165%, off its all-time-low of 1.116%. US T-Note futures (H0) settled 1 point &amp; 13 ticks higher at 134-27.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-asia-pac-opening-news-01-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-02 06:01:00",
+        "gmt_time": "2020-03-01 22:01:00"
+    }
+]

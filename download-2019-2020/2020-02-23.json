@@ -1,0 +1,418 @@
+[
+    {
+        "id": 909964,
+        "updated_sequence": 2116000,
+        "published_at": {
+            "unix": 1582501020,
+            "text": "2020-02-23 23:37:00 +0000",
+            "iso_8601": "2020-02-23T23:37:00Z"
+        },
+        "updated_at": {
+            "unix": 1582501114,
+            "text": "2020-02-23 23:38:34 +0000",
+            "iso_8601": "2020-02-23T23:38:34Z"
+        },
+        "subject": "PRE-MARKET SOUTH KOREAN STOCK NEWS: South Korea raised virus alert to the “highest” as virus cases spiked; Japanese markets closed due to local holiday",
+        "content": "<p><strong>SOUTH KOREA</strong></p><p>Samsung Electronics (005930 KS) – Co. is to shut its operations plant in Gumi City in South Korea after an employee was reported to be infected with the COVID-19 virus. (Newswires)</p><p>Other News</p><p>- South Korea reported 46 additional cases, bringing the total to 602, with five deaths also confirmed. South Korea raised virus alert to the “highest” as virus cases spiked. (Yonhap)</p><p>- South Korean Finance Minister says will stem any herd-like speculative moves in FX, will soon announce measures to boost exports, investments and domestic demand. (Newswires)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "pre-market-south-korean-stock-news-south-korea-raised-virus-alert-to-the-highest-as-virus-cases-spiked-japanese-markets-closed-due-to-local-holiday-23-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-24 07:37:00",
+        "gmt_time": "2020-02-23 23:37:00"
+    },
+    {
+        "id": 909963,
+        "updated_sequence": 2115997,
+        "published_at": {
+            "unix": 1582499340,
+            "text": "2020-02-23 23:09:00 +0000",
+            "iso_8601": "2020-02-23T23:09:00Z"
+        },
+        "updated_at": {
+            "unix": 1582499475,
+            "text": "2020-02-23 23:11:15 +0000",
+            "iso_8601": "2020-02-23T23:11:15Z"
+        },
+        "subject": "WTI and Brent Apr'20 futures continue to extend losses amid fears of the rising coronavirus cases outside China, with the benchmarks down USD 1.5/bbl and USD 1.7/bbl respectively at present",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "wti-and-brent-apr-20-futures-continue-to-extend-losses-amid-fears-of-the-rising-coronavirus-cases-outside-china-with-the-benchmarks-down-usd-1-5-bbl-and-usd-1-7-bbl-respectively-at-present-23-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-24 07:09:00",
+        "gmt_time": "2020-02-23 23:09:00"
+    },
+    {
+        "id": 909962,
+        "updated_sequence": 2115994,
+        "published_at": {
+            "unix": 1582499040,
+            "text": "2020-02-23 23:04:00 +0000",
+            "iso_8601": "2020-02-23T23:04:00Z"
+        },
+        "updated_at": {
+            "unix": 1582499151,
+            "text": "2020-02-23 23:05:51 +0000",
+            "iso_8601": "2020-02-23T23:05:51Z"
+        },
+        "subject": "Risk-off sentiment seen in futures at the re-open of electronic trade amid rising COVID-19 cases and deaths outside China",
+        "content": "<ul><li>Nasdaq Mar’20: -115pts</li><li>DJ Mar’20: -260pts</li><li>E-Mini S&amp;P Mar’20: -36pts</li><li>Gold: +USD 16/oz</li><li>WTI Apr’20: -USD 0.90/bbl</li><li>UST Mar'20: +12 ticks</li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": true,
+        "source": "Newsquawk",
+        "slug": "risk-off-sentiment-seen-in-futures-at-the-re-open-of-electronic-trade-amid-rising-covid-19-cases-and-deaths-outside-china-23-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-24 07:04:00",
+        "gmt_time": "2020-02-23 23:04:00"
+    },
+    {
+        "id": 909961,
+        "updated_sequence": 2115989,
+        "published_at": {
+            "unix": 1582498920,
+            "text": "2020-02-23 23:02:00 +0000",
+            "iso_8601": "2020-02-23T23:02:00Z"
+        },
+        "updated_at": {
+            "unix": 1582499055,
+            "text": "2020-02-23 23:04:15 +0000",
+            "iso_8601": "2020-02-23T23:04:15Z"
+        },
+        "subject": "South Korean Finance Minister says will stem any herd-like speculative moves in FX, will soon announce measures to boost exports, investments and domestic demand",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "south-korean-finance-minister-says-will-stem-any-herd-like-speculative-moves-in-fx-will-soon-announce-measures-to-boost-exports-investments-and-domestic-demand-23-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-24 07:02:00",
+        "gmt_time": "2020-02-23 23:02:00"
+    },
+    {
+        "id": 909960,
+        "updated_sequence": 2115986,
+        "published_at": {
+            "unix": 1582497840,
+            "text": "2020-02-23 22:44:00 +0000",
+            "iso_8601": "2020-02-23T22:44:00Z"
+        },
+        "updated_at": {
+            "unix": 1582497893,
+            "text": "2020-02-23 22:44:53 +0000",
+            "iso_8601": "2020-02-23T22:44:53Z"
+        },
+        "subject": "Ontario's government has confirmed presumptive positive case of coronavirus in Toronto, Canada",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "ontario-s-government-has-confirmed-presumptive-positive-case-of-coronavirus-in-toronto-canada-23-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-24 06:44:00",
+        "gmt_time": "2020-02-23 22:44:00"
+    },
+    {
+        "id": 909959,
+        "updated_sequence": 2115981,
+        "published_at": {
+            "unix": 1582497420,
+            "text": "2020-02-23 22:37:00 +0000",
+            "iso_8601": "2020-02-23T22:37:00Z"
+        },
+        "updated_at": {
+            "unix": 1582497506,
+            "text": "2020-02-23 22:38:26 +0000",
+            "iso_8601": "2020-02-23T22:38:26Z"
+        },
+        "subject": "Austrian train operator OBB said train traffic has resumed in agreement with the Austrian authorities and the suspected cases of COVID-19 have not been confirmed, according to Sky News",
+        "content": "<ul><li><a href=\"https://twitter.com/SkyNewsBreak/status/1231709125601615880\">Link to tweet</a></li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>This follows Italy implementing measures to try halt the outbreak of the virus in the country after the total number of cases rose to 152, with a third confirmed death.&nbsp;</li><li>Subsequently, earlier reports noted that Austria has ceased all train traffic to Italy.</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1582497506,
+            "text": "2020-02-23 22:38:26 +0000",
+            "iso_8601": "2020-02-23T22:38:26Z"
+        },
+        "push_notify": false,
+        "source": "Twitter",
+        "slug": "austrian-train-operator-obb-said-train-traffic-has-resumed-in-agreement-with-the-austrian-authorities-and-the-suspected-cases-of-covid-19-have-not-been-confirmed-according-to-sky-news-23-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-24 06:37:00",
+        "gmt_time": "2020-02-23 22:37:00"
+    },
+    {
+        "id": 909958,
+        "updated_sequence": 2115978,
+        "published_at": {
+            "unix": 1582496460,
+            "text": "2020-02-23 22:21:00 +0000",
+            "iso_8601": "2020-02-23T22:21:00Z"
+        },
+        "updated_at": {
+            "unix": 1582497111,
+            "text": "2020-02-23 22:31:51 +0000",
+            "iso_8601": "2020-02-23T22:31:51Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIAN STOCK NEWS: ASX 200 set to fall at the open following the rout on Wall Street on Friday amid fears over the impact of the spreading COVID-19 virus. (The Australian)",
+        "content": "<p>NIB Holdings (NHF AT) – H1 net AUD 57.3mln vs. Prev. AUD 74.5mln. Revenue AUD 1.29bln vs. Prev. AUD 1.21bln. (Newswires)</p><p>Ramelius Resources (RMS AT) – H1 net AUD 158.5mln vs. Prev. AUD 181.8mln. EBITDA AUD 65.9mln vs. Prev. AUD 20.5mln. Revenue AUD 158.5mln vs. Prev. AUD 181.9mln. (Newswires)</p><p>Ht&amp;e (HT1 AT) – FY19 revenue AUD 252.7mln vs. Prev. AUD 271.8mln. (Newswires)</p><p>G8 Education (GEM AT) – FY19 underling net AUD 76.4mln vs. Prev. AUD 79.4mln. underlying EBIT AUD 132.5mln vs. Prev. AUD 136.3mln. Revenue AUD 902.1mln vs. Prev. AUD 857.8mln. (Newswires)</p><p>WPP AUNZ (WPP AT) – FY19 net AUD 51.2mln vs. Prev. AUD 56.6mln. EBIT AUD 91.8 vs. Prev. AUD 100.6mln. Revenue AUD 712.5mln vs. Prev. AUD 731.9mln. (Newswires)</p><p>Viva Energy Australia (VEA AT) – FY19 underlying net AUD 135.8mln vs. Prev. AUD 231.5mln. Underlying EBITDA AUD 644.5mln vs. Prev. AUD 774.6mln. Co. is to conduct off market buyback. (Newswires)</p><p>Amaysum Australia (AYS AT) – H1 underlying net AUD 4.2mln vs. Prev. AUD 7.6mln. adj. EBITDA AUD 24.0mln vs. Prev. AUD 29.2mln. Revenue AUD 244.4mln vs. Prev. AUD 263mln. (Newswires)</p><p>McMahon Holdings (MAH AT) – H1net AUD 28.7mln vs. Prev. AUD 8.2mln. Adj. EBIT AUD 441mln vs. Prev. AUD 118.9mln. Revenue AUD 686.7mln vs. Prev. AUD 710.3mln. (Newswires0</p><p>Severn West Media (SWM AT) – Co. is reportedly in talks with ITV Studios on its in-house production business. (AMH) Elsewhere, Co. approached Nine to discuss the potential sale of TX Australia. (AFR)</p><p>Other News:</p><p>- Australian Treasurer Frydenberg said the Australian economy is resilient despite the impacts coronavirus is having on China. (Newswires)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "pre-market-australian-stock-news-asx-200-set-to-fall-at-the-open-following-the-rout-on-wall-street-on-friday-amid-fears-over-the-impact-of-the-spreading-covid-19-virus-the-australian-23-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-24 06:21:00",
+        "gmt_time": "2020-02-23 22:21:00"
+    },
+    {
+        "id": 909957,
+        "updated_sequence": 2115983,
+        "published_at": {
+            "unix": 1582495260,
+            "text": "2020-02-23 22:01:00 +0000",
+            "iso_8601": "2020-02-23T22:01:00Z"
+        },
+        "updated_at": {
+            "unix": 1582497612,
+            "text": "2020-02-23 22:40:12 +0000",
+            "iso_8601": "2020-02-23T22:40:12Z"
+        },
+        "subject": "UK PM Johnson is poised to kick start trade negotiations with the US within the next two weeks, via Telegraph ",
+        "content": "<ul><li>On March 2 the “red lines” for its US negotiations will be published, expected to push back on US demands drug and health firms to have greater access to the British market.</li><li><a href=\"https://www.telegraph.co.uk/politics/2020/02/23/boris-johnson-piles-pressure-eus-brexit-time-wasters-kick-starting/\">Link to article</a></li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>This comes after US Treasury Secretary Mnuchin said the main focus for 2020 is a US-UK trade agreement.</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1582495620,
+            "text": "2020-02-23 22:07:00 +0000",
+            "iso_8601": "2020-02-23T22:07:00Z"
+        },
+        "push_notify": false,
+        "source": "Telegraph",
+        "slug": "uk-pm-johnson-is-poised-to-kick-start-trade-negotiations-with-the-us-within-the-next-two-weeks-via-telegraph-23-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 38,
+            "name": "Brexit"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-24 06:01:00",
+        "gmt_time": "2020-02-23 22:01:00"
+    },
+    {
+        "id": 909956,
+        "updated_sequence": 2115964,
+        "published_at": {
+            "unix": 1582494780,
+            "text": "2020-02-23 21:53:00 +0000",
+            "iso_8601": "2020-02-23T21:53:00Z"
+        },
+        "updated_at": {
+            "unix": 1582494876,
+            "text": "2020-02-23 21:54:36 +0000",
+            "iso_8601": "2020-02-23T21:54:36Z"
+        },
+        "subject": "Israeli Defence Forces confirm it has attacked Palestinian Islamic Jihad (PIJ) targets in the Gaza Strip and Syria, via ELINT News",
+        "content": "<ul><li><a href=\"https://twitter.com/ELINTNews/status/1231698505795821571\">Link to tweet</a></li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Twitter",
+        "slug": "israeli-defence-forces-confirm-it-has-attacked-palestinian-islamic-jihad-pij-targets-in-the-gaza-strip-and-syria-via-elint-news-23-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 23,
+            "name": "Geopolitical"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-24 05:53:00",
+        "gmt_time": "2020-02-23 21:53:00"
+    },
+    {
+        "id": 909955,
+        "updated_sequence": 2115961,
+        "published_at": {
+            "unix": 1582494600,
+            "text": "2020-02-23 21:50:00 +0000",
+            "iso_8601": "2020-02-23T21:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1582494708,
+            "text": "2020-02-23 21:51:48 +0000",
+            "iso_8601": "2020-02-23T21:51:48Z"
+        },
+        "subject": "Reports note of large-scale missile attacks on target(s) in Damascus, with impacts confrimed, via ELINT News",
+        "content": "<ul><li><a href=\"https://twitter.com/ELINTNews/status/1231697871965212672\">Link to tweet</a></li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Twitter",
+        "slug": "reports-note-of-large-scale-missile-attacks-on-target-s-in-damascus-with-impacts-confrimed-via-elint-news-23-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 23,
+            "name": "Geopolitical"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-24 05:50:00",
+        "gmt_time": "2020-02-23 21:50:00"
+    },
+    {
+        "id": 909954,
+        "updated_sequence": 2115956,
+        "published_at": {
+            "unix": 1582494420,
+            "text": "2020-02-23 21:47:00 +0000",
+            "iso_8601": "2020-02-23T21:47:00Z"
+        },
+        "updated_at": {
+            "unix": 1582494472,
+            "text": "2020-02-23 21:47:52 +0000",
+            "iso_8601": "2020-02-23T21:47:52Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASE CALENDAR IS AVAILABLE IN THE RESEARCH SECTION OF THE WEBSITE: Japanese marketes will be closed today due to Emperor's Birthday Holiday",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "asian-daily-economic-release-calendar-is-available-in-the-research-section-of-the-website-japanese-marketes-will-be-closed-today-due-to-emperor-s-birthday-holiday-23-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-24 05:47:00",
+        "gmt_time": "2020-02-23 21:47:00"
+    },
+    {
+        "id": 909953,
+        "updated_sequence": 2115973,
+        "published_at": {
+            "unix": 1582494300,
+            "text": "2020-02-23 21:45:00 +0000",
+            "iso_8601": "2020-02-23T21:45:00Z"
+        },
+        "updated_at": {
+            "unix": 1582496299,
+            "text": "2020-02-23 22:18:19 +0000",
+            "iso_8601": "2020-02-23T22:18:19Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p><strong>CORONAVIRUS UPDATE&nbsp;</strong></p><p>China’s Hubei province reported 630 new cases and 96 additional deaths from the coronavirus as of February 22 vs. 366 additional cases and 106 deaths on February 21<strong>. </strong>China reported an additional 648 coronavirus cases and 97 additional deaths as of February 22 vs. 397 additional cases and 109 deaths on February 21; Total cases in China76936; Total deaths 2442 (Newswires)</p><p>South Korea reported 46 additional cases, bringing the total to 602, with five deaths also confirmed. South Korea raised virus alert to the “highest” as virus cases spiked. (Yonhap)</p><p>Italy has implemented measures to try halt the outbreak of the virus in the country after the total number of cases rose to 152, with a third confirmed death. (Guardian) Subsequently, Austria has ceased all train traffic to Italy. (Newswires)</p><p>Iran confirmed 43 cases and eight deaths. Saudi Arabia, Kuwait, Iraq, Turkey and Afghanistan imposed travel and immigration restrictions on the country. (Newswires)</p><p>WHO's Tedros said that although the number of coronavirus cases outside of China is relatively small, we are concerned around the number of cases with no clear epidemiological link with a confirmed case. (Newswires) China's National Medical Products Administration has approved certain drugs for COVID-19 including a reagent that can differentiate between the flu and COVID19, which is a critical find, said renowned epidemiologist. (Global Times)</p><p>China has been advancing research on drugs and therapies against the novel coronavirus disease, a Chinese official said on Friday. Convalescent plasma therapy has proved to be effective on severe coronavirus cases, according to Global Times. (Global Times)</p><p>US CDC called coronavirus a \"tremendous public health threat,\" says future human-to-human transmission in the US is \"very possible, even likely\". (Newswires)</p><p>Only Nebraska, California and Illinois reportedly have the capacity to test for the coronavirus, according to sources. CDC reportedly have set up a surge testing capacity until the new testing kits become available, sources added. (Newswires)</p><p><strong>ASIA-PAC</strong></p><p>USTR official Doud said there are no plans are in place for Phase Two of US/China trade deal; USDA's McKinney said China has not made request to delay trade pledges. (Newswires)</p><p>US President Trump via Twitter indicated potential support measures for the US agricultural sector in the event that they need time until various trade deals kick in. (Twitter)</p><p>China state planner said it is to cut electricity prices for firms by 5% between first of February to June 31st. (Newswires)</p><p>IMF Director Georgieva said the current baseline scenario for China’s economy is a return to normal levels in Q2 with a relatively minor and short-lived impact on the global economy, China’s 2020 GDP is seen at 5.6% (Prev. 6.0%) whilst global GDP is seen dropping by 0.1ppts due to the coronavirus outbreak. (Newswires)</p><p>Chinese President Xi said the government will step up policy support measures to help achieve economic and social development targets for 2020. PBoC Vice Governor said the impact of the virus outbreak on China’s economy will be short and limited, macro management tools are ample, the Yuan will not appreciate or depreciate by a large margin. (Newswires)</p><p>Australian Treasurer Frydenberg said the Australian economy is resilient despite the impacts coronavirus is having on China. (Newswires)</p><p><strong>UK/EU</strong></p><p>US Treasury Secretary Mnuchin said the main focus for 2020 is a US-UK trade agreement. (Newswires)</p><p>UK PM Johnson’s Brexit team are reportedly working on a secret proposal to ensure of no checks on goods passing from Britain to Northern Ireland. (Times)</p><p>EU summit failed to come to an agreement on the next EU budget. (Newswires) Furthermore, EU sources indicate that ambassadors will not be able to reach an agreement on Barnier's negotiating mandate on Monday and will rely on the 'political push' of ministers on Tuesday instead to rubber-stamp the text. (Twitter)</p><p>Germany’s Hamburg election results (1536/1884 wards counted) show SPD 39.3% (vs. 45% in 2015), Greens 23.8% (vs.12.3%), CDU 11.3% (vs. 15.9%), Left Party 9.1% (vs. 9%), AfD 5.4% (vs. 4.9%) and FDP 4.9% (vs. 5.0%). (Europe Elects)</p><p>BoE's Tenreyro said the impact of coronavirus might be large given China's role in the global economy. (Newswires)</p><p>ECB's Chief Economist Lane said even if it occurs for a matter of weeks, supply chain disruptions from the coronavius does not change his economic view much; base case for a V-shaped recovery. (Newswires)</p><p>S&amp;P affirmed Switzerland at “AAA”; outlook “Stable”. (Newswires)</p><p>Data Recap</p><p>- EU HICP Final YY (Jan) 1.4% vs. Exp. 1.4% (Prev. 1.4%) (Newswires) - UK Flash Services PMI (Feb) 53.3 vs. Exp. 53.4 (Prev. 53.9) (Newswires) - UK Flash Manufacturing PMI (Feb) 51.9 vs. Exp. 49.7 (Prev. 50.0) - UK Flash Composite PMI (Feb) 53.3 vs. Exp. 52.8 (Prev. 53.3)</p><p><strong>FX</strong></p><p>Fitch affirmed Turkey at 'BB-'; Outlook “Stable”. (Newswires)</p><p><strong>COMMODITIES</strong></p><p>Baker Hughes Rig Count (21 Feb): Oil rigs +1 679, natgas rigs unch at 110, total rigs +1 at 791. (Newswires)</p><p><strong>GEOPOLITICAL&nbsp;</strong></p><p>Reports note of rocket barrages from Gaza on Sderot town and surrounding communities in southern Israel, whilst strikes on PIJ bases in Gaza continue. (Twitter)</p><p>UN Libya Envoy Salame said talks between the GNA and Haftar are going in the right direction, and still expects political talks between the two sides to go ahead in Geneva on Feb. 26th. (Newswires)</p><p>Turkish President Erdogan emphasised to Russia’s Putin that the Syrian government must be controlled in Idlib. (Newswires)</p><p>US still sees military role in Venezuela as option to oust Maduro, naval blockade among options that have been discussed. But Trump admin hopes military action is not necessary, according to Bloomberg reporter. (Twitter)</p><p><strong>US&nbsp;</strong></p><p>Nevada caucus results show the vote split as such: Sanders 46%, Biden 19.6%, Buttigieg 15.3%, Warran 10.1%, Klobuchar 4.8%, with 60% of precincts reported. (Associated Press)</p><p>Morning Consult post-debate poll: Sanders 30% (+2), Biden 19% (unch), Bloomberg 17% (-3), Elizabeth Warren 12% (+2), Buttigieg 11% (-1), Klobuchar 5% (-1). (Newswires)</p><p>Fed Vice Chair Clarida said he looks at asset prices, but never in isolation and balanced against other signals for policy path, sees survey evidence as important as financial market signals in assessing the policy rate and inflation expectations. (Newswires)&nbsp;</p><p><strong>MARKET RECAP</strong></p><p><strong>* US-T-NOTE FUTURES (H20) SETTLE 13+ TICKS HIGHER AT 131-27+</strong>. The Treasury curve bull-flattened on Friday, and 30-year yields fell to a fresh record low sub-1.90%; 10-year yields are also firmly sub-1.50%, now eying last year's low just beneath 1.43%. Some desks have noted that the cash yield on Treasuries and the cash yield on stocks is near the widest in around three decades, yet bonds continue to find buyers; some have explained this dynamic by pointing to growth slowing in Q1 2020, and scepticism that inflation will pick-up. Investors will therefore be keeping a close eye on next week's PCE report on Friday. The coronavirus is not concerning Fed offials just yet (although it is clearly a concern at the BOJ), and policymakers have generally given a nod to the December SEP projections which foresee an unchanged FFR in 2020; and in terms of the data, investors will put more stock into the manufacturing ISM due on 2nd March, and other regional manufacturing surveys next week. With that said, markets have added to expectations of Fed easing in 2020, with 47.5bps of easing priced through the end of this year (it was around 38bps a week ago).</p><p><strong>* SPX closes -1.1% at 3336, Dow closes -0.8% at 9573, Nasdaq 100 -1.9% at 9447.</strong> Coca-Cola Company (KO) announced the coronavirus would impact its current quarter earnings by 0.01-0.02/shr but continues to expect to achieve its FY guidance numbers. Walmart’s (WMT) Flipkart in India filed a legal challenge against an antitrust probe after Amazon (AMZN) filed a similar petition, according to a court filing. Wells Fargo (WFC) is reportedly near a settlement with prosecutors and the SEC in regard to abuse of customers in its banking, auto lending and mortgage business, according to NYT citing people familiar with the matter, which could be around USD 3bln.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "daily-asia-pac-opening-news-23-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-24 05:45:00",
+        "gmt_time": "2020-02-23 21:45:00"
+    }
+]

@@ -1,0 +1,580 @@
+[
+    {
+        "id": 872976,
+        "updated_sequence": 1868378,
+        "published_at": {
+            "unix": 1560124200,
+            "text": "2019-06-10 00:50:00 +0100",
+            "iso_8601": "2019-06-09T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1560124436,
+            "text": "2019-06-10 00:53:56 +0100",
+            "iso_8601": "2019-06-09T23:53:56Z"
+        },
+        "subject": "Japanese GDP Deflator (Q1 F) Q/Q 0.1% vs. Exp. 0.2% (Prev. 0.2%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-gdp-deflator-q1-f-q-q-0-1-vs-exp-0-2-prev-0-2-09-06-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-06-10 07:50:00",
+        "gmt_time": "2019-06-09 23:50:00"
+    },
+    {
+        "id": 872974,
+        "updated_sequence": 1868369,
+        "published_at": {
+            "unix": 1560124200,
+            "text": "2019-06-10 00:50:00 +0100",
+            "iso_8601": "2019-06-09T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1560124382,
+            "text": "2019-06-10 00:53:02 +0100",
+            "iso_8601": "2019-06-09T23:53:02Z"
+        },
+        "subject": "Japanese Bank Lending Ex. Trusts (May) Y/Y 2.80% (Prev. 2.50%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-bank-lending-ex-trusts-may-y-y-2-80-prev-2-50-09-06-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-06-10 07:50:00",
+        "gmt_time": "2019-06-09 23:50:00"
+    },
+    {
+        "id": 872972,
+        "updated_sequence": 1868360,
+        "published_at": {
+            "unix": 1560124200,
+            "text": "2019-06-10 00:50:00 +0100",
+            "iso_8601": "2019-06-09T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1560124311,
+            "text": "2019-06-10 00:51:51 +0100",
+            "iso_8601": "2019-06-09T23:51:51Z"
+        },
+        "subject": "Japanese GDP (Q1 F) Y/Y 2.2% vs. Exp. 2.1% (Prev. 2.1%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-gdp-q1-f-y-y-2-2-vs-exp-2-1-prev-2-1-09-06-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-06-10 07:50:00",
+        "gmt_time": "2019-06-09 23:50:00"
+    },
+    {
+        "id": 872968,
+        "updated_sequence": 1868348,
+        "published_at": {
+            "unix": 1560123540,
+            "text": "2019-06-10 00:39:00 +0100",
+            "iso_8601": "2019-06-09T23:39:00Z"
+        },
+        "updated_at": {
+            "unix": 1560123604,
+            "text": "2019-06-10 00:40:04 +0100",
+            "iso_8601": "2019-06-09T23:40:04Z"
+        },
+        "subject": "Some big tech firms are said to cut employee access to Huawei",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "some-big-tech-firms-are-said-to-cut-employee-access-to-huawei-09-06-2019",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-06-10 07:39:00",
+        "gmt_time": "2019-06-09 23:39:00"
+    },
+    {
+        "id": 872967,
+        "updated_sequence": 1868386,
+        "published_at": {
+            "unix": 1560123180,
+            "text": "2019-06-10 00:33:00 +0100",
+            "iso_8601": "2019-06-09T23:33:00Z"
+        },
+        "updated_at": {
+            "unix": 1560124864,
+            "text": "2019-06-10 01:01:04 +0100",
+            "iso_8601": "2019-06-10T00:01:04Z"
+        },
+        "subject": "PRE-MARKET JAPANESE AND SOUTH KOREAN STOCK NEWS: Australia is closed for holiday; - Renault (RNO FP) has told the Nissan (7203 JT) it would block the corporate governance plan ",
+        "content": "<p>JAPAN</p><p>Hitachi (6501 JT) - Co. said no decision has been made regarding making Hitachi High-Technologies a wholly owned unit. (Newswires)</p><p>Nissan (7201 JT) - Renault (RNO FP) has told the Co. it would block the corporate governance plan. (Newswires)</p><p>Toray (3402 JT) - Co. will apply for fast-track government approval to sell a cancer screening test which requires only one drop of blood. (Nikkei)</p><p>Other News - Japanese PM Abe appears unlikely to call a snap lower house parliamentary election this summer which reports suggest all but rules out a delay to a planned consumption tax hike. (Nikkei)</p><p>&nbsp;</p><p>SOUTH KOREA</p><p>Hanwha (000880 KS) - Co. is to buy KRW 351.6bln stake in US Accelerated Merger Corp. (Newswires)</p><p>SK Group - Consortium including SK Engineering &amp; Construction has been chosen as preferred bidder for a GBP1bln project to build the Silvertown Tunnel. (Yonhap)</p><p>Geopolitics - South Korea’s Foreign Minister Kang said US and South Korea determined that the short-range missiles launched last month did not deserve suspending talks with the regime, while Unification Minister said now is the time for South Korea to make all out efforts to resume US-North Korea talks. (Newswires)</p><p>Other News - South Korea Presidential aide said the government plans to announce steps to support growth soon and stated that risks to domestic growth are increasing. (Newswires)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-japanese-and-south-korean-stock-news-australia-is-closed-for-holiday-renault-rno-fp-has-told-the-nissan-7203-jt-it-would-block-the-corporate-governance-plan-09-06-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-06-10 07:33:00",
+        "gmt_time": "2019-06-09 23:33:00"
+    },
+    {
+        "id": 872966,
+        "updated_sequence": 1868342,
+        "published_at": {
+            "unix": 1560121980,
+            "text": "2019-06-10 00:13:00 +0100",
+            "iso_8601": "2019-06-09T23:13:00Z"
+        },
+        "updated_at": {
+            "unix": 1560122057,
+            "text": "2019-06-10 00:14:17 +0100",
+            "iso_8601": "2019-06-09T23:14:17Z"
+        },
+        "subject": "EU is to warn businesses not to expect any help regarding a no-deal Brexit and urges them to prepare for the UK to crash out of the EU on October 31st, according to FT",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "FT",
+        "slug": "eu-is-to-warn-businesses-not-to-expect-any-help-regarding-a-no-deal-brexit-and-urges-them-to-prepare-for-the-uk-to-crash-out-of-the-eu-on-october-31st-according-to-ft-09-06-2019",
+        "hidden": false,
+        "section": {
+            "id": 38,
+            "name": "Brexit"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-06-10 07:13:00",
+        "gmt_time": "2019-06-09 23:13:00"
+    },
+    {
+        "id": 872965,
+        "updated_sequence": 1868339,
+        "published_at": {
+            "unix": 1560121080,
+            "text": "2019-06-09 23:58:00 +0100",
+            "iso_8601": "2019-06-09T22:58:00Z"
+        },
+        "updated_at": {
+            "unix": 1560121319,
+            "text": "2019-06-10 00:01:59 +0100",
+            "iso_8601": "2019-06-09T23:01:59Z"
+        },
+        "subject": "Australia is nearing a deal to pass its full package of income tax cuts within weeks as they have support of 36 of the 39 senators needed, although there were also reports that Senator Hanson has declared she will not support the tax cuts ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "The Australian/AFR",
+        "slug": "australia-is-nearing-a-deal-to-pass-its-full-package-of-income-tax-cuts-within-weeks-as-they-have-support-of-36-of-the-39-senators-needed-although-there-were-also-reports-that-senator-hanson-has-declared-she-will-not-support-the-tax-cuts-09-06-2019",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-06-10 06:58:00",
+        "gmt_time": "2019-06-09 22:58:00"
+    },
+    {
+        "id": 872964,
+        "updated_sequence": 1868334,
+        "published_at": {
+            "unix": 1560120420,
+            "text": "2019-06-09 23:47:00 +0100",
+            "iso_8601": "2019-06-09T22:47:00Z"
+        },
+        "updated_at": {
+            "unix": 1560120486,
+            "text": "2019-06-09 23:48:06 +0100",
+            "iso_8601": "2019-06-09T22:48:06Z"
+        },
+        "subject": "UK Foreign Secretary Hunt said German Chancellor Merkel is willing to renegotiate Brexit deal with a new PM",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "uk-foreign-secretary-hunt-said-german-chancellor-merkel-is-willing-to-renegotiate-brexit-deal-with-a-new-pm-09-06-2019",
+        "hidden": false,
+        "section": {
+            "id": 38,
+            "name": "Brexit"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-06-10 06:47:00",
+        "gmt_time": "2019-06-09 22:47:00"
+    },
+    {
+        "id": 872963,
+        "updated_sequence": 1868336,
+        "published_at": {
+            "unix": 1560120240,
+            "text": "2019-06-09 23:44:00 +0100",
+            "iso_8601": "2019-06-09T22:44:00Z"
+        },
+        "updated_at": {
+            "unix": 1560120656,
+            "text": "2019-06-09 23:50:56 +0100",
+            "iso_8601": "2019-06-09T22:50:56Z"
+        },
+        "subject": "China is to implement export controls on sensitive sectors to prevent and resolve national security risks",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "china-is-to-implement-export-controls-on-sensitive-sectors-to-prevent-and-resolve-national-security-risks-09-06-2019",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-06-10 06:44:00",
+        "gmt_time": "2019-06-09 22:44:00"
+    },
+    {
+        "id": 872962,
+        "updated_sequence": 1868326,
+        "published_at": {
+            "unix": 1560119700,
+            "text": "2019-06-09 23:35:00 +0100",
+            "iso_8601": "2019-06-09T22:35:00Z"
+        },
+        "updated_at": {
+            "unix": 1560119778,
+            "text": "2019-06-09 23:36:18 +0100",
+            "iso_8601": "2019-06-09T22:36:18Z"
+        },
+        "subject": "ECB policymakers are said to be open to lowering rates if growth weakens according to reports citing sources, while the case for more QE is less clear",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "ecb-policymakers-are-said-to-be-open-to-lowering-rates-if-growth-weakens-according-to-reports-citing-sources-while-the-case-for-more-qe-is-less-clear-09-06-2019",
+        "hidden": false,
+        "section": {
+            "id": 17,
+            "name": "ECB"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-06-10 06:35:00",
+        "gmt_time": "2019-06-09 22:35:00"
+    },
+    {
+        "id": 872961,
+        "updated_sequence": 1868323,
+        "published_at": {
+            "unix": 1560119580,
+            "text": "2019-06-09 23:33:00 +0100",
+            "iso_8601": "2019-06-09T22:33:00Z"
+        },
+        "updated_at": {
+            "unix": 1560119635,
+            "text": "2019-06-09 23:33:55 +0100",
+            "iso_8601": "2019-06-09T22:33:55Z"
+        },
+        "subject": "ECB's Weidmann said German economy could decline slightly in Q2",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "ecb-s-weidmann-said-german-economy-could-decline-slightly-in-q2-09-06-2019",
+        "hidden": false,
+        "section": {
+            "id": 17,
+            "name": "ECB"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-06-10 06:33:00",
+        "gmt_time": "2019-06-09 22:33:00"
+    },
+    {
+        "id": 872960,
+        "updated_sequence": 1868320,
+        "published_at": {
+            "unix": 1560119400,
+            "text": "2019-06-09 23:30:00 +0100",
+            "iso_8601": "2019-06-09T22:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1560119473,
+            "text": "2019-06-09 23:31:13 +0100",
+            "iso_8601": "2019-06-09T22:31:13Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASES CALENDAR NOW AVAILABLE IN THE RESEARCH SECTION: Highlights Japanese GDP and Chinese Trade Data",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asian-daily-economic-releases-calendar-now-available-in-the-research-section-highlights-japanese-gdp-and-chinese-trade-data-09-06-2019",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-06-10 06:30:00",
+        "gmt_time": "2019-06-09 22:30:00"
+    },
+    {
+        "id": 872959,
+        "updated_sequence": 1868311,
+        "published_at": {
+            "unix": 1560117600,
+            "text": "2019-06-09 23:00:00 +0100",
+            "iso_8601": "2019-06-09T22:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1560117841,
+            "text": "2019-06-09 23:04:01 +0100",
+            "iso_8601": "2019-06-09T22:04:01Z"
+        },
+        "subject": "US equity futures gap higher at the reopen to trade higher by around 0.8% after the announcement by US President Trump that US and Mexico reached an agreement to avert tariffs, while USTs and gold are pressure on safe-haven outflows",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "us-equity-futures-gap-higher-at-the-reopen-to-trade-higher-by-around-0-8-after-the-announcement-by-us-president-trump-that-us-and-mexico-reached-an-agreement-to-avert-tariffs-while-usts-and-gold-are-pressure-on-safe-haven-outflows-09-06-2019",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-06-10 06:00:00",
+        "gmt_time": "2019-06-09 22:00:00"
+    },
+    {
+        "id": 872958,
+        "updated_sequence": 1868328,
+        "published_at": {
+            "unix": 1560116940,
+            "text": "2019-06-09 22:49:00 +0100",
+            "iso_8601": "2019-06-09T21:49:00Z"
+        },
+        "updated_at": {
+            "unix": 1560120191,
+            "text": "2019-06-09 23:43:11 +0100",
+            "iso_8601": "2019-06-09T22:43:11Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p><strong>ASIA-PAC</strong></p><p>US President Trump said on Friday that China is subsidising its products in order for them to continue to be sold in the USA and reiterated that many firms are leaving China for other countries including the US in order to avoid paying the tariffs. Furthermore, Trump added that there was no visible increase in costs or inflation and that the US is taking in billions. (Newswires/Twitter)</p><p>US Treasury Secretary Mnuchin commented that Huawei discussions are about national security and are separate from trade, while he added that President Trump could ease restrictions on the Co. if trade talks progress. Mnuchin also commented that he had constructive talks with PBoC Governor Yi Gang which included candid talks on trade, while he also suggested that China has allowed to let the CNY depreciate. (Newswires)</p><p>US Trade Representative’s office on Friday stated that US has provided some Chinese products additional time to avoid a tariff increase in which tariffs on some goods were postponed to June 15th from June 1st. (Newswires)</p><p>Chinese President Xi said we should find a trade solution despite the disagreements we have. In related news, there were comments from China Global Times Editor that China wants a deal although it must be a fair deal, otherwise China will continue with the trade war no matter how long it lasts. (Newswires/Twitter)</p><p>Chinese authorities reportedly called on several tech companies to warn them not to reduce exposure to China more than what was necessary due to trade restrictions or there would be consequences. (Newswires)</p><p>More than 1mln were reported to have conducted a protest in Hong Kong regarding new extradition law with mainland China in which some injuries were reported due to some violence. (Newswires)</p><p>G20 Finance Ministers and Central Bank Chiefs joint communique stated they pledge to use all the policies they can to protect global growth from disruptions due to trade and other tensions, while it added that risks from trade and geopolitical tensions are \"intensifying\". (Newswires)</p><p>&nbsp;</p><p><strong>UK/EU</strong></p><p>BoE’s Haldane suggested that acting early with a rate hike would ensure against the need for larger hikes in the future and suggested the time is approaching for when a small increase in rates would be prudent. (Newswires)</p><p>Former UK Foreign Minister Boris Johnson plans to reduce income tax for 3million by increasing the 40p rate threshold to GBP 80K from GBP 50K, while he also commented that Britain should be reducing corporation tax and other business taxes. In addition, Boris Johnson has also pledged to withhold the Brexit bill payment until the EU give the UK better exit terms. (Telegraph)</p><p>UK Work and Pensions Minister Rudd said she is backing Foreign Minister Hunt for Tory leadership. (Telegraph)</p><p>Italian Coalition Officials stated that the Italian budget deficit could be 2.0% of GDP or lower. (Newswires)</p><p>&nbsp;</p><p><strong>FX</strong></p><ul><li>Canadian Employment Change (May) 27.7k vs. Exp. 8.0k (Prev. 106.5k). (Newswires)</li><li>Canadian Unemployment Rate (May) 5.4% vs. Exp. 5.7% (Prev. 5.7%)</li></ul><p>&nbsp;</p><p><strong>COMMODITIES</strong></p><p>Baker Hughes Rig Count: oil rigs -11 to 789, gas rigs +2 to 186 and total rigs -9 at 975. (Newswires)</p><p>Saudi Energy Minister Al-Falih said that he is sure OPEC+ will extend the output pact and noted consensus among OPEC producers to roll over the current deal. Furthermore, Al-Falih said he does not think there will be a requirement for the output cut to be deepened and noted that questions remain over the position of non-OPEC nations. (Newswires)</p><p>Iran Oil Minister said the country does not have plans to leave OPEC. (Newswires)</p><p>&nbsp;</p><p><strong>GEOPOLITICS</strong></p><p>US Treasury announced fresh sanctions on Iran, targeting the nation's petrochemical sector, aimed at subsidiary petrochemical companies and foreign based sales agents, according to the US Treasury Website. (Newswires)</p><p>Acting US Defense Secretary Shanahan said the US is to file a formal diplomatic protest with Russia in regard to the \"unsafe\" naval encounter. There were also separate comments from Russian President Putin that the role of USD should be reconsidered and that the US is spreading its own jurisdiction across the globe, while he also commented that North Korea has stopped nuclear tests and is closing a test site. (Newswires)&nbsp;</p><p>&nbsp;</p><p><strong>US</strong></p><p>US President Trump announced that the US reached an agreement with Mexico and that tariffs are indefinitely suspended, while Mexico agreed to take strong measures to stem the tide of immigration. Furthermore, Mexico has agreed to immediately begin buying large quantities of agricultural products from US farmers. (Newswires)</p><p>US Treasury Secretary Mnuchin stated that commented he believes Mexico will meet their commitments and that US President Trump retains the ability to impose new tariffs if commitments are not made. (Newswires)</p><ul><li>US Non-Farm Payrolls (May) 75k vs. Exp. 185.0k (Prev. 263.0k, Rev. 224k); Two-Month Net Revisions (May): -75k (Prev. +16k).</li><li>US Unemployment Rate (May) 3.6% vs. Exp. 3.6% (Prev. 3.6%)</li><li>US Average Earnings YY (May) 3.1% vs. Exp. 3.2% (Prev. 3.2%)</li><li>US Wholesale Inventories (Apr) 0.8% vs. Exp. 0.7% (Prev. 0.7%)</li><li>US Wholesale Sales (Apr) -0.4% (Prev. 2.3%, Rev. 1.8%)</li></ul><p>&nbsp;</p><p><strong>MARKET RECAP</strong></p><p>Stocks rallied as weak NFP data fuelled speculation that the Fed would adopt an accommodative bias. Financial names, including Goldman Sachs (GS), JP Morgan (JPM), Bank of America (BAC) and Citigroup (C), were the laggards as yields fell. Tech surged, with the likes of Apple (AAPL) and Amazon (AMZN) leading the pack. Alphabet (GOOG, GOOGL) moved higher, also supported by pre-market stories that the tech giant is pushing the Trump administration to give it exemptions to the ban on exports to Huawei. Facebook (FB) participated in the rally despite news that it will no longer allow pre-installation of its apps on Huawei phones following the U.S. ban. T-Mobile US (TMUS) and Sprint (S) were also able to edge higher, in spite of news that more state attorneys were looking to probe the two companies proposed merger. Walmart (WMT) lagged the Consumer Staples sector, despite encouraging news this morning that the co are to expand and improve the speed of their delivery service as they look to close the gap with Amazon. Boeing (BA) moved higher with the market, seemingly unconcerned by the news that Qatari Airlines are seeking compensation over the 737 MAX grounding. CVS Health (CVS) struggled to hold onto any gains, as legal uncertainty, regarding the health co.’s recent acquisition of Aetna, looks set to continue into the summer. Caesar’s (CZR) spiked higher after the hotel chain rejected a bid from rival Eldorado Resorts (ERI) for being too low. Eldorado Resorts (ERI) also moved higher. Beyond Meat (BYND) skyrocketed after the meatless burger maker posted solid earnings, raised guidance and received a number of broker upgrades, including from JP Morgan, who raised their price target to USD 120. Tesla (TSLA) gained early as stocks rallied and was buoyed as Piper Jaffray maintained a high price target for the firm based on demand for its Model 3 car, albeit it did give these gains away. Altice (ATUS) fell after two private equity firms, who were major stakeholders in the co., announced a reduction in their stake. DocuSign Inc (DOCU) sunk despite reasonable earnings. Zoom Video (ZM) jumped after the co. reported better then expected earnings and guided higher, in its first earnings release since the co. went public. IBM (IBM) is cutting about 2,000 jobs in a round of layoffs this week as it works to reshape its business, WSJ reports, citing sources. FedEX (FDX) will not be renewing US domestic express contract with Amazon (AMZN). AT&amp;T (T) and Dish (DISH) reportedly are open to merging satellite TV businesses; both are not holding active talks, sources said. S&amp;P 500 +1.0% AT 2873, NASDAQ-100 +1.9% AT 7417, DOW JONES +1.0% AT 25983.</p><p>A disappointing NFP report saw the curve bull-steepen in an immediate response, as traders raised bets that the Fed will cut rates either in response to weakness in some gauges of economic activity, or in an “insurance” manner to extend the recovery. The probability of a June rate cut was up to around 22.5%, July rose to just under 90% (from around 70% on Thursday). Trump’s jawboning efforts resulted in some selling action in the afternoon, however, at settlement, major curve spreads were modestly narrower (2s30s was around 1bps lower, having been at 9bps wides after the payrolls data). US T-note futures (U9) settled 9 ticks higher at 127-07.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-asia-pac-opening-news-09-06-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-06-10 05:49:00",
+        "gmt_time": "2019-06-09 21:49:00"
+    },
+    {
+        "id": 872957,
+        "updated_sequence": 1868303,
+        "published_at": {
+            "unix": 1560114480,
+            "text": "2019-06-09 22:08:00 +0100",
+            "iso_8601": "2019-06-09T21:08:00Z"
+        },
+        "updated_at": {
+            "unix": 1560114540,
+            "text": "2019-06-09 22:09:00 +0100",
+            "iso_8601": "2019-06-09T21:09:00Z"
+        },
+        "subject": "United Technologies (UTX) reaches deal to acquire Raytheon (RTN), according to WSJ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "WSJ",
+        "slug": "united-technologies-utx-reaches-deal-to-acquire-raytheon-rtn-according-to-wsj-09-06-2019",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-06-10 05:08:00",
+        "gmt_time": "2019-06-09 21:08:00"
+    },
+    {
+        "id": 872956,
+        "updated_sequence": 1868300,
+        "published_at": {
+            "unix": 1560114240,
+            "text": "2019-06-09 22:04:00 +0100",
+            "iso_8601": "2019-06-09T21:04:00Z"
+        },
+        "updated_at": {
+            "unix": 1560114414,
+            "text": "2019-06-09 22:06:54 +0100",
+            "iso_8601": "2019-06-09T21:06:54Z"
+        },
+        "subject": "Early strength seen in MXN with USD/MXN down 1.8% following the announcement over the weekend that US and Mexico reached an agreement to indefinitely suspend tariffs, while CAD is also supported on the news but to a lesser extent",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "early-strength-seen-in-mxn-with-usd-mxn-down-1-8-following-the-announcement-over-the-weekend-that-us-and-mexico-reached-an-agreement-to-indefinitely-suspend-tariffs-while-cad-is-also-supported-on-the-news-but-to-a-lesser-extent-09-06-2019",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-06-10 05:04:00",
+        "gmt_time": "2019-06-09 21:04:00"
+    },
+    {
+        "id": 872737,
+        "updated_sequence": 1868294,
+        "published_at": {
+            "unix": 1560114000,
+            "text": "2019-06-09 22:00:00 +0100",
+            "iso_8601": "2019-06-09T21:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1560114000,
+            "text": "2019-06-09 22:00:00 +0100",
+            "iso_8601": "2019-06-09T21:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-06-06-2019",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-06-10 05:00:00",
+        "gmt_time": "2019-06-09 21:00:00"
+    }
+]

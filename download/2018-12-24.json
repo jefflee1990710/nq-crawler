@@ -1,0 +1,1464 @@
+[
+    {
+        "id": 689622,
+        "updated_sequence": 1113776,
+        "published_at": {
+            "unix": 1545688800,
+            "text": "2018-12-24 22:00:00 +0000",
+            "iso_8601": "2018-12-24T22:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1545688800,
+            "text": "2018-12-24 22:00:00 +0000",
+            "iso_8601": "2018-12-24T22:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-23-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-25 06:00:00",
+        "gmt_time": "2018-12-24 22:00:00"
+    },
+    {
+        "id": 689611,
+        "updated_sequence": 1113763,
+        "published_at": {
+            "unix": 1545674400,
+            "text": "2018-12-24 18:00:00 +0000",
+            "iso_8601": "2018-12-24T18:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1545674400,
+            "text": "2018-12-24 18:00:00 +0000",
+            "iso_8601": "2018-12-24T18:00:00Z"
+        },
+        "subject": "CHRISTMAS PERIOD OPENING HOURS  ",
+        "content": "<p><strong>Business as usual up to&nbsp;1845GMT Monday 24th December 2018</strong></p>\r\n\r\n<p><strong>Closed for business 25th, 26th, 27th, 28th December 2018 and 1st&nbsp;January 2019</strong></p>\r\n\r\n<p><strong>Normal service will resume at 0630GMT on Wednesday&nbsp;2nd&nbsp;of January 2019 for the beginning of the EU Session</strong></p>\r\n\r\n<p>Market closures and desk opening hours</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>24th December - Business as usual up to&nbsp;1845GMT Monday 24th December 2018</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Floor Trade</p>\r\n\r\n<p>1. CME/CBOT &ndash;FX and Interest Rates close at 1800GMT/1200CST, Equities Futures and Options close at 1815GMT/1215CST</p>\r\n\r\n<p>2. NYSE &ndash; Early close at 1800GMT</p>\r\n\r\n<p>Electronic Trade</p>\r\n\r\n<p>1. CME &ndash; Equity, interest rates, FX close 1815GMT/1215CST, Energy closes at 1845GMT/1245CST</p>\r\n\r\n<p>2. ICE &ndash; US Calendar: https://bit.ly/2KXWq6u, EU Calendar: https://bit.ly/2wLNLzH</p>\r\n\r\n<p>3. Eurex &ndash; Closed for trading in all derivatives</p>\r\n\r\n<p>4. Euronext Derivatives &ndash; Closes begin at 1255GMT/0655CST</p>\r\n\r\n<p>Cash Index:</p>\r\n\r\n<p>1. FTSE &ndash; Close 1230GMT/0630CST onwards</p>\r\n\r\n<p>2. Euronext Cash &ndash; Closes begin at 1305GMT/0705CST</p>\r\n\r\n<p>3. DAX - Closed</p>\r\n\r\n<p>4. IBEX 35 &ndash; Close 1300GMT/0700CST</p>\r\n\r\n<p>5. FTSE MIB - Close 1230GMT/0630CST onwards</p>\r\n\r\n<p>6. SMI &ndash; Closed</p>\r\n\r\n<p>7. Oslo Bors &ndash; Closed</p>\r\n\r\n<p>8. OMX 30 &ndash; Closed</p>\r\n\r\n<p>Asia-Pac</p>\r\n\r\n<p>Australia &ndash; Close at 0310GMT/2110CST</p>\r\n\r\n<p>Japan &ndash; Closed for Emperors Birthday</p>\r\n\r\n<p>Hong Kong &ndash; Regular Hours</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>25th December &ndash; Desk Closed</p>\r\n\r\n<p>Floor Trade&nbsp;</p>\r\n\r\n<p>1. CME/CBOT - Closed</p>\r\n\r\n<p>2. NYSE &ndash; Closed</p>\r\n\r\n<p>Electronic Trade</p>\r\n\r\n<p>1. CME Globex &ndash; Equity, interest rates, FX closed. Opens 2300GMT/1700CST</p>\r\n\r\n<p>2. ICE &ndash; Closed</p>\r\n\r\n<p>3. Eurex &ndash; Closed</p>\r\n\r\n<p>4. Euronext Derivatives - Closed</p>\r\n\r\n<p>Cash Index: -</p>\r\n\r\n<p>1. FTSE &ndash; Closed</p>\r\n\r\n<p>2. Euronext Cash &ndash; Closed</p>\r\n\r\n<p>3. DAX - Closed</p>\r\n\r\n<p>4. IBEX 35 - Closed</p>\r\n\r\n<p>5. FTSE MIB - Closed</p>\r\n\r\n<p>6. SMI &ndash; Closed</p>\r\n\r\n<p>7. Oslo Bors &ndash; Closed</p>\r\n\r\n<p>8. OMX 30 &ndash; Closed</p>\r\n\r\n<p>Asia-Pac</p>\r\n\r\n<p>Australia - Closed</p>\r\n\r\n<p>Japan &ndash; Regular Close</p>\r\n\r\n<p>Hong Kong - Closed</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>26th December (Boxing Day) &ndash; Desk Closed</p>\r\n\r\n<p>Floor Trade &nbsp;</p>\r\n\r\n<p>1. CME/CBOT &ndash; Regular hours</p>\r\n\r\n<p>2. NYSE &ndash; Regular hours</p>\r\n\r\n<p>Electronic Trade</p>\r\n\r\n<p>1. CME Globex &ndash; Equity, interest rates, FX closed. Regular close</p>\r\n\r\n<p>2. ICE &ndash; US Calendar: https://bit.ly/2KXWq6u, EU Calendar: https://bit.ly/2wLNLzH</p>\r\n\r\n<p>3. Eurex &ndash; Closed for trading and clearing (exercise, settlement and cash) in all derivatives</p>\r\n\r\n<p>4. Euronext Derivatives - Closed</p>\r\n\r\n<p>Cash Index: -</p>\r\n\r\n<p>1. FTSE &ndash; Closed</p>\r\n\r\n<p>2. Euronext Cash &ndash; Closed</p>\r\n\r\n<p>3. DAX - Closed</p>\r\n\r\n<p>4. IBEX 35 - Closed</p>\r\n\r\n<p>5. FTSE MIB - Closed</p>\r\n\r\n<p>6. SMI &ndash; Closed</p>\r\n\r\n<p>7. Oslo Bors &ndash; Closed</p>\r\n\r\n<p>8. OMX 30 &ndash; Closed</p>\r\n\r\n<p>Asia-Pac</p>\r\n\r\n<p>Australia - Closed</p>\r\n\r\n<p>Japan &ndash; Regular Close</p>\r\n\r\n<p>Hong Kong - Closed</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>27-28th December &ndash; Desk Closed</p>\r\n\r\n<p>Floor Trade&nbsp;</p>\r\n\r\n<p>1. CME/CBOT &ndash; Regular hours</p>\r\n\r\n<p>2. NYSE &ndash; Regular hours</p>\r\n\r\n<p>Electronic Trade</p>\r\n\r\n<p>1. CME Globex &ndash; Equities, Interest Rates, FX &ndash; Regular close</p>\r\n\r\n<p>2. ICE &ndash; Regular hours</p>\r\n\r\n<p>3. Eurex - Regular hours</p>\r\n\r\n<p>4. Euronext Derivatives - Regular hours</p>\r\n\r\n<p>Cash Index: -</p>\r\n\r\n<p>1. FTSE &ndash; Regular hours</p>\r\n\r\n<p>2. Euronext Cash &ndash; Regular Hours</p>\r\n\r\n<p>3. DAX &ndash; Regular hours</p>\r\n\r\n<p>4. IBEX 35 &ndash; Regular hours</p>\r\n\r\n<p>5. FTSE MIB &ndash; Regular hours</p>\r\n\r\n<p>6. SMI &ndash; Regular hours</p>\r\n\r\n<p>7. Oslo Bors &ndash; Regular hours</p>\r\n\r\n<p>8. OMX 30 - Regular hours</p>\r\n\r\n<p>Australia &ndash; Regular Close</p>\r\n\r\n<p>Japan &ndash; Regular Close</p>\r\n\r\n<p>Hong Kong &ndash; Regular Close</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>31st December (NYE)&ndash; Desk Close</p>\r\n\r\n<p>Floor Trade&nbsp;</p>\r\n\r\n<p>1. CME/CBOT &ndash; FX and Interest Rates close at 1800GMT/1200CST</p>\r\n\r\n<p>2. NYSE &ndash; Regular hours</p>\r\n\r\n<p>Electronic Trade</p>\r\n\r\n<p>1. CME Globex &ndash; Equities, Interest Rates, FX &ndash; Regular close</p>\r\n\r\n<p>2. ICE &ndash; 2. ICE &ndash; US Calendar: https://bit.ly/2KXWq6u, EU Calendar: https://bit.ly/2wLNLzH</p>\r\n\r\n<p>3. Eurex &ndash; Closed for trading in all derivatives</p>\r\n\r\n<p>4. Euronext Derivatives &ndash; Closes begin at 1255GMT/0655CST</p>\r\n\r\n<p>Cash Index: -</p>\r\n\r\n<p>1. FTSE &ndash; Close 1230GMT/0630CST onwards</p>\r\n\r\n<p>2. Euronext Cash &ndash; Closes begin at 1305GMT/0705CST</p>\r\n\r\n<p>3. DAX &ndash; Closed</p>\r\n\r\n<p>4. IBEX 35 &ndash; Close 1300GMT/0700CST</p>\r\n\r\n<p>5. FTSE MIB - Close 1230GMT/0630CST onwards</p>\r\n\r\n<p>6. SMI &ndash; Closed</p>\r\n\r\n<p>7. Oslo Bors &ndash; Closed</p>\r\n\r\n<p>8. OMX 30 &ndash; Closed</p>\r\n\r\n<p>Asia-Pac</p>\r\n\r\n<p>Australia &ndash; Close at 0310GMT/2110CST</p>\r\n\r\n<p>Japan - Closed</p>\r\n\r\n<p>Hong Kong &ndash; Regular Close</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>1st January (NYD) &ndash; Desk Closed</p>\r\n\r\n<p>Floor Trade&nbsp;</p>\r\n\r\n<p>1. CME/CBOT - Closed</p>\r\n\r\n<p>2. NYSE &ndash; Closed</p>\r\n\r\n<p>Electronic Trade</p>\r\n\r\n<p>1. CME Globex &ndash; Equities, Interest Rates, FX &ndash; Closed</p>\r\n\r\n<p>2. ICE &ndash; Closed</p>\r\n\r\n<p>3. Eurex &ndash; Closed</p>\r\n\r\n<p>4. Euronext Derivatives - Closed</p>\r\n\r\n<p>Cash Index: -</p>\r\n\r\n<p>1. FTSE &ndash; Closed</p>\r\n\r\n<p>2. Euronext Cash &ndash; Closed</p>\r\n\r\n<p>3. DAX &ndash; Closed</p>\r\n\r\n<p>4. IBEX 35 - Closed</p>\r\n\r\n<p>5. FTSE MIB - Closed</p>\r\n\r\n<p>6. SMI &ndash; Closed</p>\r\n\r\n<p>7. Oslo Bors &ndash; Closed</p>\r\n\r\n<p>8. OMX 30 &ndash; Closed</p>\r\n\r\n<p>Asia-Pac</p>\r\n\r\n<p>Australia - Closed</p>\r\n\r\n<p>Japan - Closed</p>\r\n\r\n<p>Hong Kong - Closed</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>2nd January (Wednesday) &ndash; Markets open. Desk will re-open at 0630GMT for the beginning of the European session &nbsp;</strong></p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "ransquawk",
+        "slug": "christmas-period-opening-hours-21-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-25 02:00:00",
+        "gmt_time": "2018-12-24 18:00:00"
+    },
+    {
+        "id": 689675,
+        "updated_sequence": 1113774,
+        "published_at": {
+            "unix": 1545674400,
+            "text": "2018-12-24 18:00:00 +0000",
+            "iso_8601": "2018-12-24T18:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1545674737,
+            "text": "2018-12-24 18:05:37 +0000",
+            "iso_8601": "2018-12-24T18:05:37Z"
+        },
+        "subject": "Dow Jones closes 651 points lower at 12795; S&P 500 closes 65 points lower at 2352; Nasdaq closes 140 points lower at 6193",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "dow-jones-closes-651-points-lower-at-12795-s-p-500-closes-65-points-lower-at-2352-nasdaq-closes-140-points-lower-at-6193-24-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-25 02:00:00",
+        "gmt_time": "2018-12-24 18:00:00"
+    },
+    {
+        "id": 689674,
+        "updated_sequence": 1113769,
+        "published_at": {
+            "unix": 1545674400,
+            "text": "2018-12-24 18:00:00 +0000",
+            "iso_8601": "2018-12-24T18:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1545674404,
+            "text": "2018-12-24 18:00:04 +0000",
+            "iso_8601": "2018-12-24T18:00:04Z"
+        },
+        "subject": "US MARKET WRAP: Stocks slide after Trump ramps-up attack on the Fed",
+        "content": "<p>Although trading conditions were thinned ahead of Christmas, the recent risk-off bias continued on Monday, driven by fears that US President Trump&#39;s interference in the independence of the Federal Reserve could be intensified (Trump reportedly mulled the firing of Fed Chair Powell after the FOMC lifted rates last week; Trump advisers have suggested, however, that the President lacks the legal authority to oust Powell). Government shutdown concerns was also said to inspire flows out of risk, and there was a further stirring of trader&#39;s worries with news that, following the recent stock slide, Treasury Secretary Mnuchin had been in touch with the largest US banks on the weekend, and they assured him capital levels were sufficient; the development possibly signals the level of concern that exists in the White House over equities recent weakness. After the US cash open, the e-mini S&amp;P plunged below 2,400, while the VIX rose to the highest since February. In the commodity complex, the WTI slide was unrelenting, with WTI crude futures fell to the lowest since July 2017. The USD continued to find sellers, helping the likes of GBP rise. The lack of liquidity was clearly evident when CNBC reported that investor David Tepper was buying stocks on Monday, sending ES sharply higher; however, these gains were faded courtesy of US President Trump renewing his attacks on the Fed, with the President arguing that the only problem the US economy has is the Fed. A weak auction of 2-year notes out of the US Treasury saw a tail of 1.9bps amid weak cover. There wasn&#39;t much else to provide a positive catalyst for stocks into the close, with all 11 sectors now negative on the month, quarter and year; additionally, the SPX is now flirting with bear territory.&nbsp;</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "us-market-wrap-stocks-slide-after-trump-ramps-up-attack-on-the-fed-24-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-25 02:00:00",
+        "gmt_time": "2018-12-24 18:00:00"
+    },
+    {
+        "id": 689672,
+        "updated_sequence": 1113761,
+        "published_at": {
+            "unix": 1545669180,
+            "text": "2018-12-24 16:33:00 +0000",
+            "iso_8601": "2018-12-24T16:33:00Z"
+        },
+        "updated_at": {
+            "unix": 1545669224,
+            "text": "2018-12-24 16:33:44 +0000",
+            "iso_8601": "2018-12-24T16:33:44Z"
+        },
+        "subject": "US sells USD 40bln of 2-year notes; tails 1.9bps",
+        "content": "<ul><li>High-yield: 2.619% (prev. 2.836%)</li>\r\n  <li>Bid/cover: 2.31x (prev. 2.65x)</li>\r\n  <li>Dealers: 47.18% (prev. 35.64%)</li>\r\n  <li>Direct: 7.85% (prev. 19.48% )</li>\r\n  <li>Indirect: 44.97% (prev. 44.88%)</li>\r\n</ul>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-sells-usd-40bln-of-2-year-notes-tails-1-9bps-24-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 21,
+            "name": "Fixed Income"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-25 00:33:00",
+        "gmt_time": "2018-12-24 16:33:00"
+    },
+    {
+        "id": 689671,
+        "updated_sequence": 1113758,
+        "published_at": {
+            "unix": 1545667080,
+            "text": "2018-12-24 15:58:00 +0000",
+            "iso_8601": "2018-12-24T15:58:00Z"
+        },
+        "updated_at": {
+            "unix": 1545667101,
+            "text": "2018-12-24 15:58:21 +0000",
+            "iso_8601": "2018-12-24T15:58:21Z"
+        },
+        "subject": "US regulators tell Treasury Secretary Mnuchin that there is nothing out of the ordinary in markets",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-regulators-tell-treasury-secretary-mnuchin-that-there-is-nothing-out-of-the-ordinary-in-markets-24-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-24 23:58:00",
+        "gmt_time": "2018-12-24 15:58:00"
+    },
+    {
+        "id": 689670,
+        "updated_sequence": 1113755,
+        "published_at": {
+            "unix": 1545666960,
+            "text": "2018-12-24 15:56:00 +0000",
+            "iso_8601": "2018-12-24T15:56:00Z"
+        },
+        "updated_at": {
+            "unix": 1545667025,
+            "text": "2018-12-24 15:57:05 +0000",
+            "iso_8601": "2018-12-24T15:57:05Z"
+        },
+        "subject": "US President Trump says the \"only problem our economy has is the Fed\"",
+        "content": "<p>&quot;The only problem our economy has is the Fed. They don&rsquo;t have a feel for the Market, they don&rsquo;t understand necessary Trade Wars or Strong Dollars or even Democrat Shutdowns over Borders. The Fed is like a powerful golfer who can&rsquo;t score because he has no touch - he can&rsquo;t putt!&quot;</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Twitter",
+        "slug": "us-president-trump-says-the-only-problem-our-economy-has-is-the-fed-24-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 18,
+            "name": "Fed"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-24 23:56:00",
+        "gmt_time": "2018-12-24 15:56:00"
+    },
+    {
+        "id": 689669,
+        "updated_sequence": 1113752,
+        "published_at": {
+            "unix": 1545661740,
+            "text": "2018-12-24 14:29:00 +0000",
+            "iso_8601": "2018-12-24T14:29:00Z"
+        },
+        "updated_at": {
+            "unix": 1545661781,
+            "text": "2018-12-24 14:29:41 +0000",
+            "iso_8601": "2018-12-24T14:29:41Z"
+        },
+        "subject": "Italy's Banco Carige (CRG IM) has discussed shareholder's rejection of EUR400mln cash call with the ECB, sources say",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "italy-s-banco-carige-crg-im-has-discussed-shareholder-s-rejection-of-eur400mln-cash-call-with-the-ecb-sources-say-24-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 33,
+            "name": "European Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-24 22:29:00",
+        "gmt_time": "2018-12-24 14:29:00"
+    },
+    {
+        "id": 689668,
+        "updated_sequence": 1113749,
+        "published_at": {
+            "unix": 1545660480,
+            "text": "2018-12-24 14:08:00 +0000",
+            "iso_8601": "2018-12-24T14:08:00Z"
+        },
+        "updated_at": {
+            "unix": 1545660581,
+            "text": "2018-12-24 14:09:41 +0000",
+            "iso_8601": "2018-12-24T14:09:41Z"
+        },
+        "subject": "RANsquawk Daily US Equity Opening News - 24th December 2018",
+        "content": "<p>To download the report, please click <a href=\"/research_sheets/20834/download\">here</a><br />If you would like to subscribe to receive the research sheets directly in your inbox, you can now do so under the <a href=\"/research_sheets\">Research Suite</a> section of the portal.<br />To subscribe simply check the box next to &quot;Email these reports&quot; under the desired category.</p>\r\n\r\n<ul><li><strong>Apple (AAPL) &ndash; Chinese co.s are urging employees to boycott Apple products. (Newswires)</strong></li>\r\n  <li><strong>Bank stocks (BAC, C, GS, JPM, MS, WFC) &ndash; US Treasury Secretary Steven Mnuchin spoke with top bank CEOs over the weekend</strong></li>\r\n  <li><strong>Tesla (TSLA) &ndash; The electric automaker has cut its Model 3 prices by up to 7.6% in China</strong></li>\r\n</ul>\r\n\r\n<p><strong>24th December 2018</strong></p>\r\n\r\n<p><strong>DJIA</strong></p>\r\n\r\n<ul><li>Apple (AAPL) &ndash; Chinese co.s are urging employees to boycott Apple products. (Newswires)</li>\r\n  <li>Exxon Mobil (XOM) &ndash; An Exxon-sponsored ship, that was exploring for oil in Guyanese waters, was intercepted by Venezuela&rsquo;s navy over a border dispute. (Newswires)</li>\r\n</ul>\r\n\r\n<p><strong>S&amp;P500</strong></p>\r\n\r\n<ul><li>Bank stocks (BAC, C, GS, JPM, MS, WFC) &ndash; US Treasury Secretary Steven Mnuchin spoke with top bank CEOs over the weekend to gain reassurances that there were not liquidity issues growing. (Newswires)</li>\r\n  <li>Big tech (FB, AMZN, T) &ndash; Tech co.s have been luring attorneys from the DoJ to switch sides and work for them as they face ever growing legal scrutiny for their operations. (WSJ)</li>\r\n  <li>CVS (CVS), Aetna (AET) &ndash; US District Judge Richard Leon has ordered that the two co.s remain separate while he demands more time to consider antitrust issues. (Newswires)</li>\r\n  <li>Kraft Heinz (KHC), Mondelez (MDLZ) &ndash; The two co.s have been shortlisted for the next round of Campbell Soup&rsquo;s (CPB) auction of its international business, where it could claim close to USD 3bln. (Newswires)</li>\r\n  <li>Lockheed Martin (LMT) &ndash; The aerospace/defence co. has been awarded a USD 3.38bln US Army contract for hased array tracking radars, as well as a USD 1.8bln contract for PAC-3 missiles. (Newswires)</li>\r\n  <li>Northrop Grumman (NOC) &ndash; The aerospace/defence co. has been awarded a USD 1.13bln contract from the US Air Force for the Lightening advanced targeting pod, expected to be completed by December 31st, 2023. (Newswires)</li>\r\n  <li>Retail stocks (FDX, UPS, COST, BBY, TGT, WMT) &ndash; Retailers have met analyst sales expectations this holiday season, ending the year on a high, as total US retail sales ex-auto rose by 5.2% since November. (WSJ)</li>\r\n  <li>Barron&rsquo;s writes Johnson &amp; Johnson (JNJ) has been oversold lately, but the stock was expensive in the first place. (Barron&rsquo;s)</li>\r\n  <li>Barron&rsquo;s writes Morgan Stanley (MS) is an attractive investment after a big sell off this year. (Barron&rsquo;s)</li>\r\n  <li>Barron&rsquo;s writes how Apple (AAPL) usually sells off after a new product fails to excite the market but then rebounds after investors realise the co. is financially fine. (Barron&rsquo;s)</li>\r\n  <li>Barron&rsquo;s writes tobacco stocks British American Tobacco (BTI) and Philip Morris (PM) are &ldquo;substantially undervalued&rdquo;. (Barron&rsquo;s)</li>\r\n</ul>\r\n\r\n<p><strong>NASDAQ</strong></p>\r\n\r\n<ul><li>Activision Blizzard (ATVI) &ndash; The video game developer has undertaken cost cutting measures. (Kotaku)</li>\r\n  <li>Amazon (AMZN) &ndash; The SEC is pursuing for the co. to shed more light of where internally its revenue is generated from. (WSJ)</li>\r\n  <li>Facebook (FB) &ndash; The co. was removed from Wedbush&rsquo;s Best Ideas list. (Newswires)</li>\r\n  <li>Tesla (TSLA) &ndash; The electric automaker has cut its Model 3 prices by up to 7.6% in China. CEO Elon Musk has said Tesla will be reimbursing customers who miss out on tax credits due to delivery delays. (Newswires)</li>\r\n</ul>\r\n\r\n<p><strong>OTHER NEWS</strong></p>\r\n\r\n<ul><li>Apollo Global (APO) &ndash; The buyout firm is looking to buy personal computer distributor Ingram Micro for a total value of USD 7.5bln. (WSJ)</li>\r\n  <li>Snap (SNAP) &ndash; CEO Evan Spiegel reportedly ignored feedback for redesign changes for its Snapchat app. (WSJ)</li>\r\n</ul>\r\n\r\n<p><strong>BROKER MOVES</strong></p>\r\n\r\n<p><strong>Downgrades</strong></p>\r\n\r\n<ul><li>RPM (RPM) DOWNGRADED TO UNDERWEIGHT FROM NEUTRAL AT JPMORGAN</li>\r\n  <li>BLACKBERRY (BB) DOWNGRADED TO SELL FROM BUY AT VERITAS</li>\r\n</ul>\r\n\r\n<p><strong>Initiations</strong></p>\r\n\r\n<ul><li>CIGNA (CI) RATED NEW BUY AT EDWARD JONES</li>\r\n</ul>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "ransquawk-daily-us-equity-opening-news-24th-december-2018-24-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-24 22:08:00",
+        "gmt_time": "2018-12-24 14:08:00"
+    },
+    {
+        "id": 689544,
+        "updated_sequence": 1113731,
+        "published_at": {
+            "unix": 1545656400,
+            "text": "2018-12-24 13:00:00 +0000",
+            "iso_8601": "2018-12-24T13:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1545656400,
+            "text": "2018-12-24 13:00:00 +0000",
+            "iso_8601": "2018-12-24T13:00:00Z"
+        },
+        "subject": "RANSQUAWK CHRISTMAS PERIOD OPENING HOURS",
+        "content": "<p>Business as usual up to&nbsp;1845GMT Monday 24th December 2018</p>\r\n\r\n<p>Closed for business 25th, 26th, 27th, 28th, 31st December 2018 and 1st&nbsp;January 2019</p>\r\n\r\n<p>Normal service will resume at 0630GMT on Wednesday&nbsp;2nd&nbsp;of January 2019 for the beginning of the EU Session</p>\r\n\r\n<p>Market closures and desk opening hours</p>\r\n\r\n<p>24th December - Business as usual up to&nbsp;1845GMT Monday 24th December 2018</p>\r\n\r\n<p>Floor Trade</p>\r\n\r\n<p>1. CME/CBOT &ndash;FX and Interest Rates close at 1800GMT/1200CST, Equities Futures and Options close at 1815GMT/1215CST</p>\r\n\r\n<p>2. NYSE &ndash; Early close at 1800GMT</p>\r\n\r\n<p>Electronic Trade</p>\r\n\r\n<p>1. CME &ndash; Equity, interest rates, FX close 1815GMT/1215CST, Energy closes at 1845GMT/1245CST</p>\r\n\r\n<p>2. ICE &ndash; US Calendar: https://bit.ly/2KXWq6u, EU Calendar: https://bit.ly/2wLNLzH</p>\r\n\r\n<p>3. Eurex &ndash; Closed for trading in all derivatives</p>\r\n\r\n<p>4. Euronext Derivatives &ndash; Closes begin at 1255GMT/0655CST</p>\r\n\r\n<p>Cash Index:</p>\r\n\r\n<p>1. FTSE &ndash; Close 1230GMT/0630CST onwards</p>\r\n\r\n<p>2. Euronext Cash &ndash; Closes begin at 1305GMT/0705CST</p>\r\n\r\n<p>3. DAX - Closed</p>\r\n\r\n<p>4. IBEX 35 &ndash; Close 1300GMT/0700CST</p>\r\n\r\n<p>5. FTSE MIB - Close 1230GMT/0630CST onwards</p>\r\n\r\n<p>6. SMI &ndash; Closed</p>\r\n\r\n<p>7. Oslo Bors &ndash; Closed</p>\r\n\r\n<p>8. OMX 30 &ndash; Closed</p>\r\n\r\n<p>Asia-Pac</p>\r\n\r\n<p>Australia &ndash; Close at 0310GMT/2110CST</p>\r\n\r\n<p>Japan &ndash; Closed for Emperors Birthday</p>\r\n\r\n<p>Hong Kong &ndash; Regular Hours</p>\r\n\r\n<p>25th December &ndash; Desk Closed</p>\r\n\r\n<p>Floor Trade&nbsp;</p>\r\n\r\n<p>1. CME/CBOT - Closed</p>\r\n\r\n<p>2. NYSE &ndash; Closed</p>\r\n\r\n<p>Electronic Trade</p>\r\n\r\n<p>1. CME Globex &ndash; Equity, interest rates, FX closed. Opens 2300GMT/1700CST</p>\r\n\r\n<p>2. ICE &ndash; Closed</p>\r\n\r\n<p>3. Eurex &ndash; Closed</p>\r\n\r\n<p>4. Euronext Derivatives - Closed</p>\r\n\r\n<p>Cash Index: -</p>\r\n\r\n<p>1. FTSE &ndash; Closed</p>\r\n\r\n<p>2. Euronext Cash &ndash; Closed</p>\r\n\r\n<p>3. DAX - Closed</p>\r\n\r\n<p>4. IBEX 35 - Closed</p>\r\n\r\n<p>5. FTSE MIB - Closed</p>\r\n\r\n<p>6. SMI &ndash; Closed</p>\r\n\r\n<p>7. Oslo Bors &ndash; Closed</p>\r\n\r\n<p>8. OMX 30 &ndash; Closed</p>\r\n\r\n<p>Asia-Pac</p>\r\n\r\n<p>Australia - Closed</p>\r\n\r\n<p>Japan &ndash; Regular Close</p>\r\n\r\n<p>Hong Kong - Closed</p>\r\n\r\n<p>26th December (Boxing Day) &ndash; Desk Closed</p>\r\n\r\n<p>Floor Trade &nbsp;</p>\r\n\r\n<p>1. CME/CBOT &ndash; Regular hours</p>\r\n\r\n<p>2. NYSE &ndash; Regular hours</p>\r\n\r\n<p>Electronic Trade</p>\r\n\r\n<p>1. CME Globex &ndash; Equity, interest rates, FX closed. Regular close</p>\r\n\r\n<p>2. ICE &ndash; US Calendar: https://bit.ly/2KXWq6u, EU Calendar: https://bit.ly/2wLNLzH</p>\r\n\r\n<p>3. Eurex &ndash; Closed for trading and clearing (exercise, settlement and cash) in all derivatives</p>\r\n\r\n<p>4. Euronext Derivatives - Closed</p>\r\n\r\n<p>Cash Index: -</p>\r\n\r\n<p>1. FTSE &ndash; Closed</p>\r\n\r\n<p>2. Euronext Cash &ndash; Closed</p>\r\n\r\n<p>3. DAX - Closed</p>\r\n\r\n<p>4. IBEX 35 - Closed</p>\r\n\r\n<p>5. FTSE MIB - Closed</p>\r\n\r\n<p>6. SMI &ndash; Closed</p>\r\n\r\n<p>7. Oslo Bors &ndash; Closed</p>\r\n\r\n<p>8. OMX 30 &ndash; Closed</p>\r\n\r\n<p>Asia-Pac</p>\r\n\r\n<p>Australia - Closed</p>\r\n\r\n<p>Japan &ndash; Regular Close</p>\r\n\r\n<p>Hong Kong - Closed</p>\r\n\r\n<p>27-28th December &ndash; Desk Closed</p>\r\n\r\n<p>Floor Trade&nbsp;</p>\r\n\r\n<p>1. CME/CBOT &ndash; Regular hours</p>\r\n\r\n<p>2. NYSE &ndash; Regular hours</p>\r\n\r\n<p>Electronic Trade</p>\r\n\r\n<p>1. CME Globex &ndash; Equities, Interest Rates, FX &ndash; Regular close</p>\r\n\r\n<p>2. ICE &ndash; Regular hours</p>\r\n\r\n<p>3. Eurex - Regular hours</p>\r\n\r\n<p>4. Euronext Derivatives - Regular hours</p>\r\n\r\n<p>Cash Index: -</p>\r\n\r\n<p>1. FTSE &ndash; Regular hours</p>\r\n\r\n<p>2. Euronext Cash &ndash; Regular hours</p>\r\n\r\n<p>3. DAX &ndash; Regular hours</p>\r\n\r\n<p>4. IBEX 35 &ndash; Regular hours</p>\r\n\r\n<p>5. FTSE MIB &ndash; Regular hours</p>\r\n\r\n<p>6. SMI &ndash; Regular hours</p>\r\n\r\n<p>7. Oslo Bors &ndash; Regular hours</p>\r\n\r\n<p>8. OMX 30 - Regular hours</p>\r\n\r\n<p>Australia &ndash; Regular Close</p>\r\n\r\n<p>Japan &ndash; Regular Close</p>\r\n\r\n<p>Hong Kong &ndash; Regular Close</p>\r\n\r\n<p>31st December (NYE)&ndash; Desk Close</p>\r\n\r\n<p>Floor Trade&nbsp;</p>\r\n\r\n<p>1. CME/CBOT &ndash; FX and Interest Rates close at 1800GMT/1200CST</p>\r\n\r\n<p>2. NYSE &ndash; Regular hours</p>\r\n\r\n<p>Electronic Trade</p>\r\n\r\n<p>1. CME Globex &ndash; Equities, Interest Rates, FX &ndash; Regular close</p>\r\n\r\n<p>2. ICE &ndash; 2. ICE &ndash; US Calendar: https://bit.ly/2KXWq6u, EU Calendar: https://bit.ly/2wLNLzH</p>\r\n\r\n<p>3. Eurex &ndash; Closed for trading in all derivatives</p>\r\n\r\n<p>4. Euronext Derivatives &ndash; Closes begin at 1255GMT/0655CST</p>\r\n\r\n<p>Cash Index: -</p>\r\n\r\n<p>1. FTSE &ndash; Close 1230GMT/0630CST onwards</p>\r\n\r\n<p>2. Euronext Cash &ndash; Closes begin at 1305GMT/0705CST</p>\r\n\r\n<p>3. DAX &ndash; Closed</p>\r\n\r\n<p>4. IBEX 35 &ndash; Close 1300GMT/0700CST</p>\r\n\r\n<p>5. FTSE MIB - Close 1230GMT/0630CST onwards</p>\r\n\r\n<p>6. SMI &ndash; Closed</p>\r\n\r\n<p>7. Oslo Bors &ndash; Closed</p>\r\n\r\n<p>8. OMX 30 &ndash; Closed</p>\r\n\r\n<p>Asia-Pac</p>\r\n\r\n<p>Australia &ndash; Close at 0310GMT/2110CST</p>\r\n\r\n<p>Japan - Closed</p>\r\n\r\n<p>Hong Kong &ndash; Regular Close</p>\r\n\r\n<p>1st January (NYD) &ndash; Desk Closed</p>\r\n\r\n<p>Floor Trade&nbsp;</p>\r\n\r\n<p>1. CME/CBOT - Closed</p>\r\n\r\n<p>2. NYSE &ndash; Closed</p>\r\n\r\n<p>Electronic Trade</p>\r\n\r\n<p>1. CME Globex &ndash; Equities, Interest Rates, FX &ndash; Closed</p>\r\n\r\n<p>2. ICE &ndash; Closed</p>\r\n\r\n<p>3. Eurex &ndash; Closed</p>\r\n\r\n<p>4. Euronext Derivatives - Closed</p>\r\n\r\n<p>Cash Index: -</p>\r\n\r\n<p>1. FTSE &ndash; Closed</p>\r\n\r\n<p>2. Euronext Cash &ndash; Closed</p>\r\n\r\n<p>3. DAX &ndash; Closed</p>\r\n\r\n<p>4. IBEX 35 - Closed</p>\r\n\r\n<p>5. FTSE MIB - Closed</p>\r\n\r\n<p>6. SMI &ndash; Closed</p>\r\n\r\n<p>7. Oslo Bors &ndash; Closed</p>\r\n\r\n<p>8. OMX 30 &ndash; Closed</p>\r\n\r\n<p>Asia-Pac</p>\r\n\r\n<p>Australia - Closed</p>\r\n\r\n<p>Japan - Closed</p>\r\n\r\n<p>Hong Kong - Closed</p>\r\n\r\n<p>2nd January (Wednesday) &ndash; Markets open. Desk will re-open at 0630GMT for the beginning of the European session &nbsp;</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "ransquawk-christmas-period-opening-hours-21-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-24 21:00:00",
+        "gmt_time": "2018-12-24 13:00:00"
+    },
+    {
+        "id": 689662,
+        "updated_sequence": 1113729,
+        "published_at": {
+            "unix": 1545652200,
+            "text": "2018-12-24 11:50:00 +0000",
+            "iso_8601": "2018-12-24T11:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1545652326,
+            "text": "2018-12-24 11:52:06 +0000",
+            "iso_8601": "2018-12-24T11:52:06Z"
+        },
+        "subject": "Elliott discloses 1.495% interest in Shire (SHP LN), and a 1.261% short position in Takeda (7875 JP)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "elliott-discloses-1-495-interest-in-shire-shp-ln-and-a-1-261-short-position-in-takeda-7875-jp-24-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 34,
+            "name": "Global Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-24 19:50:00",
+        "gmt_time": "2018-12-24 11:50:00"
+    },
+    {
+        "id": 689661,
+        "updated_sequence": 1113726,
+        "published_at": {
+            "unix": 1545651180,
+            "text": "2018-12-24 11:33:00 +0000",
+            "iso_8601": "2018-12-24T11:33:00Z"
+        },
+        "updated_at": {
+            "unix": 1545651220,
+            "text": "2018-12-24 11:33:40 +0000",
+            "iso_8601": "2018-12-24T11:33:40Z"
+        },
+        "subject": "RANsquawk Daily US Opening News - 24th December 2018",
+        "content": "<p>To download the report, please click <a href=\"/research_sheets/20833/download\">here</a><br />If you would like to subscribe to receive the research sheets directly in your inbox, you can now do so under the <a href=\"/research_sheets\">Research Suite</a> section of the portal.<br />To subscribe simply check the box next to &quot;Email these reports&quot; under the desired category.</p>\r\n\r\n<ul><li>Mixed performance for Asia-Pacific and European bourses amidst holiday thinned trade</li>\r\n  <li>US President Trump has reportedly privately discussed firing Fed Chair Powell over the latest Fed rate hike</li>\r\n  <li>Today&rsquo;s calendar sees a lack of tier 1 highlights. Note, some markets are closed and others are subject to early closures</li>\r\n</ul>\r\n\r\n<p>ASIA</p>\r\n\r\n<p>Asia-Pac bourses traded mostly higher in holiday-thinned liquidity following the downbeat lead from Wall St. on Friday, where the S&amp;P notched a weekly loss of 7%, Nasdaq closed in bear market and the Dow posted its worst week since the 2008 financial crisis. ASX 200 (+0.5%) and Shanghai Comp. (+0.4%) nursed opening losses with the former aided by IT and material names amid positive comments from China&rsquo;s MOFCOM over the weekend that US and China have &ldquo;made new progress&rdquo; on trade and IP issues. Meanwhile, trade optimism also led Mainland China higher as most sectors moved into the green with telecom, healthcare and tech leading the gains, however, upside was capped after the PBoC&rsquo;s liquidity efforts amounted to a net daily drain of CNY 140bln. Finally, Hang Seng (-0.4%) came off intra-day lows but ultimately underperformed after the Hong Kong Finance Chief stated there will be &ldquo;fewer sweeteners&rdquo; in the FY19/20 budget and as such, almost all sectors were in the red with hardware names leading the decline. Over in Japan, Nikkei 225 was closed as participants observe the Emperor&rsquo;s day public holiday.</p>\r\n\r\n<p>China&#39;s Commerce Ministry said China and the US &quot;made new progress&quot; on the issues of trade balance and intellectual property during a phone call between officials. (SCMP)</p>\r\n\r\n<p>Chinese Finance Ministry said tariffs on some import and export products will be adjusted from Jan 1st, 2019. China will levy temporary import tariffs on over 700 items but not levy export tariffs on 94 items including fertiliser and iron ore. China will further cut MFN tariffs on 298 IT products from July 2019 and will maintain &quot;relatively low&quot; import tariffs temporarily on some aircraft engines. (Newswires)</p>\r\n\r\n<p>Chinese Premier Li states that China will enhance the targeted RRR scheme to support private companies. (Newswires)</p>\r\n\r\n<p>Tsunamis linked to volcanic eruptions hit the coastal towns around Indonesia&#39;s Sunda Strait, killing at least 281 people and injuring over a thousand. (BBC/The Guardian)</p>\r\n\r\n<p>PBoC set CNY mid-point at 6.9006 (Prev. 6.8825). (Newswires)<br />PBoC injected CNY 20bln via 14-day reverse repos for a net daily drain of CNY 140bln.<br />&nbsp;</p>\r\n\r\n<p>UK/EU</p>\r\n\r\n<p>UK PM May&#39;s allies are plotting to keep her at No.10 for at least another two years amid growing confidence her Brexit deal will pass the meaningful vote in January. (The Times) Other reports state that UK PM May has curtailed her cabinet&rsquo;s Christmas break and has requested they return on Jan 2nd for discussions about a no-deal Brexit. (FT)</p>\r\n\r\n<p>ECB&#39;s Weidmann (Hawk) said he is worried about the implications of Italy&#39;s budget deal with the European Commission for future fiscal discipline in the Euro zone. (Welt Am Sonntag)</p>\r\n\r\n<p>US</p>\r\n\r\n<p>US President Trump has reportedly privately discussed firing Fed Chair Powell over the latest Fed rate hike against the backdrop of a global stocks rout; according to sources. Furthermore, US Treasury Secretary Mnuchin tweeted about Trump&#39;s disapproval with the latest hike, however he attempted to reassure investors by stating that he does not believe Trump has the right to fire the Fed Chair. It was then reported on WSJ that White House advisers are discussing arranging a meeting between President Trump and Fed Chair Powell in the coming weeks. (Newswires/Twitter/WSJ)</p>\r\n\r\n<p>The US government has been partially shut after Senate failed to pass a bill containing funding for US President Trump&#39;s border wall. A top White House official warned that it is &quot;very possible&quot; the shutdown will extend into the new year. Senate are to meet again on Dec 27th to try reach a deal. President Trump is also said to be willing to accept USD 2.6bln in wall funding; according to Fox News. In related news, White House Budget Director Mulvaney said border wall funding proposals are in the range of USD 1.6-5.0bln, he added that it is possible for the shutdown to continue into new Congress. (Newswires/Telegraph/Fox News)</p>\r\n\r\n<p>US President Trump appointed Deputy Defence Secretary Patrick Shanahan as acting Defence Secretary effective Jan 1st, following Jim Mattis&#39; resignation last week. (Twitter/BBC)</p>\r\n\r\n<p>US anti-ISIS envoy, Brett McGurk has resigned (effective Dec 31st) over President Trump&#39;s decision to pull troops from Syria. (BBC/Newswires)</p>\r\n\r\n<p>US Treasury Secretary Mnuchin has reportedly held calls with the head of the six large US banks (JP Morgan, Bank of America, Goldman Sachs, Morgan Stanley, Wells Fargo and Citigroup) to discuss the recent market turmoil. (CNBC)</p>\r\n\r\n<p>GEOPOLITICAL</p>\r\n\r\n<p>Russian Foreign Ministry said that Russia and Iran have agreed to continue expanding and protecting bilateral cooperation from US sanctions. (Newswires)</p>\r\n\r\n<p>US Secretary of State Pompeo said the US are &ldquo;counting on&rdquo; a second summit between US President Trump and North Korean leader Kim Jung Un; he added that there has been progress in denuclearisation. (NPR)</p>\r\n\r\n<p>Canadian Foreign Minister Freeland has called for the immediate release of the two Canadians detained in China. (Newswires)</p>\r\n\r\n<p>EQUITIES</p>\r\n\r\n<p>Major European Indices are in the red [FTSE 100 -0.6%; CAC 40 -1.0%] despite Asian bourses trading mostly higher and as several European markets are closed ahead of the festive season. Sectors are similarly in the red.</p>\r\n\r\n<p>In terms of notable movers JustEat (-2.5%) are in the red as shareholder rebellion gathers momentum following two of the Co&rsquo;s largest investors gave support to Cat Rock Capital, which have attacked the flawed metrics surrounding executive bonuses.</p>\r\n\r\n<p>FX</p>\r\n\r\n<p>AUD/NZD - The major beneficiaries of latest US-China trade developments, and reports about fresh progress on certain issues ahead of official negotiations set for early 2019, while Beijing has also announced a series of import tariffs to be implemented on January 1st at concessionary levels. Aud/Usd and Nzd/Usd have subsequently rebounded relatively firmly of recent and new ytd lows to 0.7050+ and towards 0.6750 respectively, with the former eyeing resistance around 0.7073 ahead of 0.7085-90 and Kiwi looking to breach its 50 DMA at 0.6741 convincingly, as the Aud/Nzd cross slips back under 1.0500.</p>\r\n\r\n<p>EUR/GBP - Also prospering at the Greenback&rsquo;s expense, as Eur/Usd climbs above a cloud base to retest 1.1400+ levels, while Cable is pivoting 1.2650 and Eur/Gbp hovers around 0.9000. A distinct lack of independent drivers as much of mainland Europe enjoys a full Xmas Eve holiday and UK markets are only open until midday or 12.30GMT, though weekend Brexit news appears marginally supportive for the Pound as PM May&rsquo;s allies are said to be more confident that Parliament will decide in favour of the draft withdrawal agreement.</p>\r\n\r\n<p>CAD/JPY - Both mildly firmer vs the Buck, with the Loonie deriving some traction from comparative stability in crude prices to pare worst losses from yet another new 2018 low just under 1.3600, while the Jpy is consolidating recent hefty gains within a tight range around 111.00 having tested, but not breaching the 200 DMA (circa 110.94).</p>\r\n\r\n<p>SEK/NOK - The Scandi Crowns continue to underperform, or hand back relative gains made on the back of more hawkish Riksbank and Norges Bank policy vs the ECB, partly on repositioning and also as the technical landscape turns more bearish. Indeed, Eur/Sek has rebounded further from chart support hit in wake of last week&rsquo;s Swedish rate hike, while Eur/Nok just tested resistance at 10.0000.</p>\r\n\r\n<p>FIXED INCOME</p>\r\n\r\n<p>Gilts are still going it alone and mustered enough strength if not quite bullish momentum to match and marginally build on last Friday&rsquo;s Liffe session high when trading up at 123.27 (+44 ticks on the day). However, turnover is still painfully meagre with under 15k lots traded on almost 2 &frac12; hours and this may explain why the 10 year bond waned only a few ticks above its previous intraday best. Meanwhile, US Treasury futures are hovering just below overnight peaks and the curve is flattening after some very minor long end underperformance at one stage, but again trading conditions are festively thin following a quiet Asian session with few if any Japanese desks in due to the Emperor&rsquo;s Birthday holiday. Ahead, just the US National Activity Index, which came in at 0.24 in October.</p>\r\n\r\n<p>COMMODITIES&nbsp;</p>\r\n\r\n<p>Brent (-0.1%) and WTI (-0.4%) prices have remained in a slim USD 1 range amidst holiday thinned conditions. Over the weekend, UAE Energy Minister Mazrouei stated that if a 1.2mln BPD production cut is insufficient, then an extraordinary meeting will be called where we will do what is necessary to balance the market. Mazrouei also added that a OPEC+ monitoring committee would meet late February or early March in Baku. Separately, ongoing concerns over oversupply were exacerbated by Friday&rsquo;s Baker Hughes rig count which showed the number of active oil rigs increased by 10.</p>\r\n\r\n<p>Gold has risen to over USD 1262/oz which is just under a 6-month high. The yellow metal is benefiting from US political uncertainty as a partial government shutdown has begun alongside continued dollar weakness. Separately, a subsidiary of China Minmetals Corp has begun the initial phase of a new battery raw materials project in Tangshan; with the project being part of China&rsquo;s push to safeguard new resources as demand for batteries continues to rise.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "ransquawk-daily-us-opening-news-24th-december-2018-24-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-24 19:33:00",
+        "gmt_time": "2018-12-24 11:33:00"
+    },
+    {
+        "id": 689660,
+        "updated_sequence": 1113723,
+        "published_at": {
+            "unix": 1545650040,
+            "text": "2018-12-24 11:14:00 +0000",
+            "iso_8601": "2018-12-24T11:14:00Z"
+        },
+        "updated_at": {
+            "unix": 1545650105,
+            "text": "2018-12-24 11:15:05 +0000",
+            "iso_8601": "2018-12-24T11:15:05Z"
+        },
+        "subject": "Chinese Premier Li states that China will enhance the targeted RRR scheme to support private companies ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "chinese-premier-li-states-that-china-will-enhance-the-targeted-rrr-scheme-to-support-private-companies-24-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-24 19:14:00",
+        "gmt_time": "2018-12-24 11:14:00"
+    },
+    {
+        "id": 689659,
+        "updated_sequence": 1113720,
+        "published_at": {
+            "unix": 1545647700,
+            "text": "2018-12-24 10:35:00 +0000",
+            "iso_8601": "2018-12-24T10:35:00Z"
+        },
+        "updated_at": {
+            "unix": 1545647744,
+            "text": "2018-12-24 10:35:44 +0000",
+            "iso_8601": "2018-12-24T10:35:44Z"
+        },
+        "subject": "RANsquawk EU Mid Session - 24th December 2018",
+        "content": "<p>To download the report, please click <a href=\"/research_sheets/20832/download\">here</a><br />If you would like to subscribe to receive the research sheets directly in your inbox, you can now do so under the <a href=\"/research_sheets\">Research Suite</a> section of the portal.<br />To subscribe simply check the box next to &quot;Email these reports&quot; under the desired category.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>EU MID-SESSION UPDATE: Gilts revel ahead of Xmas, but little festive cheer for EU equities.</p>\r\n\r\n<p>EQUITIES</p>\r\n\r\n<p>Major European Indices are in the red [FTSE 100 -0.6%; CAC 40 -1.0%] despite Asian bourses trading mostly higher and as several European markets are closed ahead of the festive season. Sectors are similarly in the red.</p>\r\n\r\n<p>In terms of notable movers JustEat (-2.5%) are in the red as shareholder rebellion gathers momentum following two of the Co&rsquo;s largest investors gave support to Cat Rock Capital, which have attacked the flawed metrics surrounding executive bonuses.</p>\r\n\r\n<p>FX</p>\r\n\r\n<p>AUD/NZD - The major beneficiaries of latest US-China trade developments, and reports about fresh progress on certain issues ahead of official negotiations set for early 2019, while Beijing has also announced a series of import tariffs to be implemented on January 1st at concessionary levels. Aud/Usd and Nzd/Usd have subsequently rebounded relatively firmly of recent and new ytd lows to 0.7050+ and towards 0.6750 respectively, with the former eyeing resistance around 0.7073 ahead of 0.7085-90 and Kiwi looking to breach its 50 DMA at 0.6741 convincingly, as the Aud/Nzd cross slips back under 1.0500.</p>\r\n\r\n<p>EUR/GBP - Also prospering at the Greenback&rsquo;s expense, as Eur/Usd climbs above a cloud base to retest 1.1400+ levels, while Cable is pivoting 1.2650 and Eur/Gbp hovers around 0.9000. A distinct lack of independent drivers as much of mainland Europe enjoys a full Xmas Eve holiday and UK markets are only open until midday or 12.30GMT, though weekend Brexit news appears marginally supportive for the Pound as PM May&rsquo;s allies are said to be more confident that Parliament will decide in favour of the draft withdrawal agreement.</p>\r\n\r\n<p>CAD/JPY - Both mildly firmer vs the Buck, with the Loonie deriving some traction from comparative stability in crude prices to pare worst losses from yet another new 2018 low just under 1.3600, while the Jpy is consolidating recent hefty gains within a tight range around 111.00 having tested, but not breaching the 200 DMA (circa 110.94).</p>\r\n\r\n<p>SEK/NOK - The Scandi Crowns continue to underperform, or hand back relative gains made on the back of more hawkish Riksbank and Norges Bank policy vs the ECB, partly on repositioning and also as the technical landscape turns more bearish. Indeed, Eur/Sek has rebounded further from chart support hit in wake of last week&rsquo;s Swedish rate hike, while Eur/Nok just tested resistance at 10.0000.</p>\r\n\r\n<p>FIXED INCOME</p>\r\n\r\n<p>Gilts are still going it alone and mustered enough strength if not quite bullish momentum to match and marginally build on last Friday&rsquo;s Liffe session high when trading up at 123.27 (+44 ticks on the day). However, turnover is still painfully meagre with under 15k lots traded on almost 2 &frac12; hours and this may explain why the 10 year bond waned only a few ticks above its previous intraday best. Meanwhile, US Treasury futures are hovering just below overnight peaks and the curve is flattening after some very minor long end underperformance at one stage, but again trading conditions are festively thin following a quiet Asian session with few if any Japanese desks in due to the Emperor&rsquo;s Birthday holiday. Ahead, just the US National Activity Index, which came in at 0.24 in October.</p>\r\n\r\n<p>COMMODITIES&nbsp;</p>\r\n\r\n<p>Brent (-0.1%) and WTI (-0.4%) prices have remained in a slim USD 1 range amidst holiday thinned conditions. Over the weekend, UAE Energy Minister Mazrouei stated that if a 1.2mln BPD production cut is insufficient, then an extraordinary meeting will be called where we will do what is necessary to balance the market. Mazrouei also added that a OPEC+ monitoring committee would meet late February or early March in Baku. Separately, ongoing concerns over oversupply were exacerbated by Friday&rsquo;s Baker Hughes rig count which showed the number of active oil rigs increased by 10.</p>\r\n\r\n<p>Gold has risen to over USD 1262/oz which is just under a 6-month high. The yellow metal is benefiting from US political uncertainty as a partial government shutdown has begun alongside continued dollar weakness. Separately, a subsidiary of China Minmetals Corp has begun the initial phase of a new battery raw materials project in Tangshan; with the project being part of China&rsquo;s push to safeguard new resources as demand for batteries continues to rise.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "ransquawk-eu-mid-session-24th-december-2018-24-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-24 18:35:00",
+        "gmt_time": "2018-12-24 10:35:00"
+    },
+    {
+        "id": 689658,
+        "updated_sequence": 1113717,
+        "published_at": {
+            "unix": 1545647400,
+            "text": "2018-12-24 10:30:00 +0000",
+            "iso_8601": "2018-12-24T10:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1545647486,
+            "text": "2018-12-24 10:31:26 +0000",
+            "iso_8601": "2018-12-24T10:31:26Z"
+        },
+        "subject": "Fixed Income: UK debt remains elevated, US Treasuries fractionally firmer",
+        "content": "<p>Gilts are still going it alone and mustered enough strength if not quite bullish momentum to match and marginally build on last Friday&rsquo;s Liffe session high when trading up at 123.27 (+44 ticks on the day). However, turnover is still painfully meagre with under 15k lots traded on almost 2 &frac12; hours and this may explain why the 10 year bond waned only a few ticks above its previous intraday best. Meanwhile, US Treasury futures are hovering just below overnight peaks and the curve is flattening after some very minor long end underperformance at one stage, but again trading conditions are festively thin following a quiet Asian session with few if any Japanese desks in due to the Emperor&rsquo;s Birthday holiday. Ahead, just the US National Activity Index, which came in at 0.24 in October.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "fixed-income-uk-debt-remains-elevated-us-treasuries-fractionally-firmer-24-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-24 18:30:00",
+        "gmt_time": "2018-12-24 10:30:00"
+    },
+    {
+        "id": 689657,
+        "updated_sequence": 1113714,
+        "published_at": {
+            "unix": 1545646440,
+            "text": "2018-12-24 10:14:00 +0000",
+            "iso_8601": "2018-12-24T10:14:00Z"
+        },
+        "updated_at": {
+            "unix": 1545646476,
+            "text": "2018-12-24 10:14:36 +0000",
+            "iso_8601": "2018-12-24T10:14:36Z"
+        },
+        "subject": "FX Morning Colour: Aussie and Kiwi spearhead broad G10 gains vs downbeat US Dollar",
+        "content": "<p>AUD/NZD &nbsp;</p>\r\n\r\n<p>The major beneficiaries of latest US-China trade developments, and reports about fresh progress on certain issues ahead of official negotiations set for early 2019, while Beijing has also announced a series of import tariffs to be implemented on January 1st at concessionary levels. Aud/Usd and Nzd/Usd have subsequently rebounded relatively firmly of recent and new ytd lows to 0.7050+ and towards 0.6750 respectively, with the former eyeing resistance around 0.7073 ahead of 0.7085-90 and Kiwi looking to breach its 50 DMA at 0.6741 convincingly, as the Aud/Nzd cross slips back under 1.0500.</p>\r\n\r\n<p>EUR/GBP</p>\r\n\r\n<p>Also prospering at the Greenback&rsquo;s expense, as Eur/Usd climbs above a cloud base to retest 1.1400+ levels, while Cable is pivoting 1.2650 and Eur/Gbp hovers around 0.9000. A distinct lack of independent drivers as much of mainland Europe enjoys a full Xmas Eve holiday and UK markets are only open until midday or 12.30GMT, though weekend Brexit news appears marginally supportive for the Pound as PM May&rsquo;s allies are said to be more confident that Parliament will decide in favour of the draft withdrawal agreement.</p>\r\n\r\n<p>CAD/JPY &nbsp;&nbsp;&nbsp;</p>\r\n\r\n<p>Both mildly firmer vs the Buck, with the Loonie deriving some traction from comparative stability in crude prices to pare worst losses from yet another new 2018 low just under 1.3600, while the Jpy is consolidating recent hefty gains within a tight range around 111.00 having tested, but not breaching the 200 DMA (circa 110.94).</p>\r\n\r\n<p>SEK/NOK</p>\r\n\r\n<p>The Scandi Crowns continue to underperform, or hand back relative gains made on the back of more hawkish Riksbank and Norges Bank policy vs the ECB, partly on repositioning and also as the technical landscape turns more bearish. Indeed, Eur/Sek has rebounded further from chart support hit in wake of last week&rsquo;s Swedish rate hike, while Eur/Nok just tested resistance at 10.0000.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "fx-morning-colour-aussie-and-kiwi-spearhead-broad-g10-gains-vs-downbeat-us-dollar-24-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-24 18:14:00",
+        "gmt_time": "2018-12-24 10:14:00"
+    },
+    {
+        "id": 689521,
+        "updated_sequence": 1113708,
+        "published_at": {
+            "unix": 1545645600,
+            "text": "2018-12-24 10:00:00 +0000",
+            "iso_8601": "2018-12-24T10:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1545645600,
+            "text": "2018-12-24 10:00:00 +0000",
+            "iso_8601": "2018-12-24T10:00:00Z"
+        },
+        "subject": "DESK CHRISTMAS PERIOD OPENING HOURS",
+        "content": "<p>Business as usual up to&nbsp;1845GMT Monday 24th December 2018</p>\r\n\r\n<p>Closed for business 25th, 26th, 27th, 28th, 31st December 2018 and 1st&nbsp;January 2019</p>\r\n\r\n<p>Normal service will resume at 0630GMT on Wednesday&nbsp;2nd&nbsp;of January 2019 for the beginning of the EU Session</p>\r\n\r\n<p>Market closures and desk opening hours</p>\r\n\r\n<p>24th December - Business as usual up to&nbsp;1845GMT Monday 24th December 2018</p>\r\n\r\n<p>Floor Trade</p>\r\n\r\n<p>1. CME/CBOT &ndash;FX and Interest Rates close at 1800GMT/1200CST, Equities Futures and Options close at 1815GMT/1215CST</p>\r\n\r\n<p>2. NYSE &ndash; Early close at 1800GMT</p>\r\n\r\n<p>Electronic Trade</p>\r\n\r\n<p>1. CME &ndash; Equity, interest rates, FX close 1815GMT/1215CST, Energy closes at 1845GMT/1245CST</p>\r\n\r\n<p>2. ICE &ndash; US Calendar: https://bit.ly/2KXWq6u, EU Calendar: https://bit.ly/2wLNLzH</p>\r\n\r\n<p>3. Eurex &ndash; Closed for trading in all derivatives</p>\r\n\r\n<p>4. Euronext Derivatives &ndash; Closes begin at 1255GMT/0655CST</p>\r\n\r\n<p>Cash Index:</p>\r\n\r\n<p>1. FTSE &ndash; Close 1230GMT/0630CST onwards</p>\r\n\r\n<p>2. Euronext Cash &ndash; Closes begin at 1305GMT/0705CST</p>\r\n\r\n<p>3. DAX - Closed</p>\r\n\r\n<p>4. IBEX 35 &ndash; Close 1300GMT/0700CST</p>\r\n\r\n<p>5. FTSE MIB - Close 1230GMT/0630CST onwards</p>\r\n\r\n<p>6. SMI &ndash; Closed</p>\r\n\r\n<p>7. Oslo Bors &ndash; Closed</p>\r\n\r\n<p>8. OMX 30 &ndash; Closed</p>\r\n\r\n<p>Asia-Pac</p>\r\n\r\n<p>Australia &ndash; Close at 0310GMT/2110CST</p>\r\n\r\n<p>Japan &ndash; Closed for Emperors Birthday</p>\r\n\r\n<p>Hong Kong &ndash; Regular Hours</p>\r\n\r\n<p>25th December &ndash; Desk Closed</p>\r\n\r\n<p>Floor Trade&nbsp;</p>\r\n\r\n<p>1. CME/CBOT - Closed</p>\r\n\r\n<p>2. NYSE &ndash; Closed</p>\r\n\r\n<p>Electronic Trade</p>\r\n\r\n<p>1. CME Globex &ndash; Equity, interest rates, FX closed. Opens 2300GMT/1700CST</p>\r\n\r\n<p>2. ICE &ndash; Closed</p>\r\n\r\n<p>3. Eurex &ndash; Closed</p>\r\n\r\n<p>4. Euronext Derivatives - Closed</p>\r\n\r\n<p>Cash Index: -</p>\r\n\r\n<p>1. FTSE &ndash; Closed</p>\r\n\r\n<p>2. Euronext Cash &ndash; Closed</p>\r\n\r\n<p>3. DAX - Closed</p>\r\n\r\n<p>4. IBEX 35 - Closed</p>\r\n\r\n<p>5. FTSE MIB - Closed</p>\r\n\r\n<p>6. SMI &ndash; Closed</p>\r\n\r\n<p>7. Oslo Bors &ndash; Closed</p>\r\n\r\n<p>8. OMX 30 &ndash; Closed</p>\r\n\r\n<p>Asia-Pac</p>\r\n\r\n<p>Australia - Closed</p>\r\n\r\n<p>Japan &ndash; Regular Close</p>\r\n\r\n<p>Hong Kong - Closed</p>\r\n\r\n<p>26th December (Boxing Day) &ndash; Desk Closed</p>\r\n\r\n<p>Floor Trade &nbsp;</p>\r\n\r\n<p>1. CME/CBOT &ndash; Regular hours</p>\r\n\r\n<p>2. NYSE &ndash; Regular hours</p>\r\n\r\n<p>Electronic Trade</p>\r\n\r\n<p>1. CME Globex &ndash; Equity, interest rates, FX closed. Regular close</p>\r\n\r\n<p>2. ICE &ndash; US Calendar: https://bit.ly/2KXWq6u, EU Calendar: https://bit.ly/2wLNLzH</p>\r\n\r\n<p>3. Eurex &ndash; Closed for trading and clearing (exercise, settlement and cash) in all derivatives</p>\r\n\r\n<p>4. Euronext Derivatives - Closed</p>\r\n\r\n<p>Cash Index: -</p>\r\n\r\n<p>1. FTSE &ndash; Closed</p>\r\n\r\n<p>2. Euronext Cash &ndash; Closed</p>\r\n\r\n<p>3. DAX - Closed</p>\r\n\r\n<p>4. IBEX 35 - Closed</p>\r\n\r\n<p>5. FTSE MIB - Closed</p>\r\n\r\n<p>6. SMI &ndash; Closed</p>\r\n\r\n<p>7. Oslo Bors &ndash; Closed</p>\r\n\r\n<p>8. OMX 30 &ndash; Closed</p>\r\n\r\n<p>Asia-Pac</p>\r\n\r\n<p>Australia - Closed</p>\r\n\r\n<p>Japan &ndash; Regular Close</p>\r\n\r\n<p>Hong Kong - Closed</p>\r\n\r\n<p>27-28th December &ndash; Desk Closed</p>\r\n\r\n<p>Floor Trade&nbsp;</p>\r\n\r\n<p>1. CME/CBOT &ndash; Regular hours</p>\r\n\r\n<p>2. NYSE &ndash; Regular hours</p>\r\n\r\n<p>Electronic Trade</p>\r\n\r\n<p>1. CME Globex &ndash; Equities, Interest Rates, FX &ndash; Regular close</p>\r\n\r\n<p>2. ICE &ndash; Regular hours</p>\r\n\r\n<p>3. Eurex - Regular hours</p>\r\n\r\n<p>4. Euronext Derivatives - Regular hours</p>\r\n\r\n<p>Cash Index: -</p>\r\n\r\n<p>1. FTSE &ndash; Regular hours</p>\r\n\r\n<p>2. Euronext Cash &ndash; Regular hours</p>\r\n\r\n<p>3. DAX &ndash; Regular hours</p>\r\n\r\n<p>4. IBEX 35 &ndash; Regular hours</p>\r\n\r\n<p>5. FTSE MIB &ndash; Regular hours</p>\r\n\r\n<p>6. SMI &ndash; Regular hours</p>\r\n\r\n<p>7. Oslo Bors &ndash; Regular hours</p>\r\n\r\n<p>8. OMX 30 - Regular hours</p>\r\n\r\n<p>Australia &ndash; Regular Close</p>\r\n\r\n<p>Japan &ndash; Regular Close</p>\r\n\r\n<p>Hong Kong &ndash; Regular Close</p>\r\n\r\n<p>31st December (NYE)&ndash; Desk Close</p>\r\n\r\n<p>Floor Trade&nbsp;</p>\r\n\r\n<p>1. CME/CBOT &ndash; FX and Interest Rates close at 1800GMT/1200CST</p>\r\n\r\n<p>2. NYSE &ndash; Regular hours</p>\r\n\r\n<p>Electronic Trade</p>\r\n\r\n<p>1. CME Globex &ndash; Equities, Interest Rates, FX &ndash; Regular close</p>\r\n\r\n<p>2. ICE &ndash; 2. ICE &ndash; US Calendar: https://bit.ly/2KXWq6u, EU Calendar: https://bit.ly/2wLNLzH</p>\r\n\r\n<p>3. Eurex &ndash; Closed for trading in all derivatives</p>\r\n\r\n<p>4. Euronext Derivatives &ndash; Closes begin at 1255GMT/0655CST</p>\r\n\r\n<p>Cash Index: -</p>\r\n\r\n<p>1. FTSE &ndash; Close 1230GMT/0630CST onwards</p>\r\n\r\n<p>2. Euronext Cash &ndash; Closes begin at 1305GMT/0705CST</p>\r\n\r\n<p>3. DAX &ndash; Closed</p>\r\n\r\n<p>4. IBEX 35 &ndash; Close 1300GMT/0700CST</p>\r\n\r\n<p>5. FTSE MIB - Close 1230GMT/0630CST onwards</p>\r\n\r\n<p>6. SMI &ndash; Closed</p>\r\n\r\n<p>7. Oslo Bors &ndash; Closed</p>\r\n\r\n<p>8. OMX 30 &ndash; Closed</p>\r\n\r\n<p>Asia-Pac</p>\r\n\r\n<p>Australia &ndash; Close at 0310GMT/2110CST</p>\r\n\r\n<p>Japan - Closed</p>\r\n\r\n<p>Hong Kong &ndash; Regular Close</p>\r\n\r\n<p>1st January (NYD) &ndash; Desk Closed</p>\r\n\r\n<p>Floor Trade&nbsp;</p>\r\n\r\n<p>1. CME/CBOT - Closed</p>\r\n\r\n<p>2. NYSE &ndash; Closed</p>\r\n\r\n<p>Electronic Trade</p>\r\n\r\n<p>1. CME Globex &ndash; Equities, Interest Rates, FX &ndash; Closed</p>\r\n\r\n<p>2. ICE &ndash; Closed</p>\r\n\r\n<p>3. Eurex &ndash; Closed</p>\r\n\r\n<p>4. Euronext Derivatives - Closed</p>\r\n\r\n<p>Cash Index: -</p>\r\n\r\n<p>1. FTSE &ndash; Closed</p>\r\n\r\n<p>2. Euronext Cash &ndash; Closed</p>\r\n\r\n<p>3. DAX &ndash; Closed</p>\r\n\r\n<p>4. IBEX 35 - Closed</p>\r\n\r\n<p>5. FTSE MIB - Closed</p>\r\n\r\n<p>6. SMI &ndash; Closed</p>\r\n\r\n<p>7. Oslo Bors &ndash; Closed</p>\r\n\r\n<p>8. OMX 30 &ndash; Closed</p>\r\n\r\n<p>Asia-Pac</p>\r\n\r\n<p>Australia - Closed</p>\r\n\r\n<p>Japan - Closed</p>\r\n\r\n<p>Hong Kong - Closed</p>\r\n\r\n<p>2nd January (Wednesday) &ndash; Markets open. Desk will re-open at 0630GMT for the beginning of the European session &nbsp;</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "desk-christmas-period-opening-hours-21-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-24 18:00:00",
+        "gmt_time": "2018-12-24 10:00:00"
+    },
+    {
+        "id": 689655,
+        "updated_sequence": 1113706,
+        "published_at": {
+            "unix": 1545642120,
+            "text": "2018-12-24 09:02:00 +0000",
+            "iso_8601": "2018-12-24T09:02:00Z"
+        },
+        "updated_at": {
+            "unix": 1545642202,
+            "text": "2018-12-24 09:03:22 +0000",
+            "iso_8601": "2018-12-24T09:03:22Z"
+        },
+        "subject": "Marathon Petroleum have reported a unit shutdown at their 245k bpd Robinson, Illinois refinery ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "marathon-petroleum-have-reported-a-unit-shutdown-at-their-245k-bpd-robinson-illinois-refinery-24-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 20,
+            "name": "Commodities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-24 17:02:00",
+        "gmt_time": "2018-12-24 09:02:00"
+    },
+    {
+        "id": 689654,
+        "updated_sequence": 1113703,
+        "published_at": {
+            "unix": 1545642000,
+            "text": "2018-12-24 09:00:00 +0000",
+            "iso_8601": "2018-12-24T09:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1545642090,
+            "text": "2018-12-24 09:01:30 +0000",
+            "iso_8601": "2018-12-24T09:01:30Z"
+        },
+        "subject": "China imported no soybeans from the US in November, according to US Customs ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "china-imported-no-soybeans-from-the-us-in-november-according-to-us-customs-24-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 20,
+            "name": "Commodities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-24 17:00:00",
+        "gmt_time": "2018-12-24 09:00:00"
+    },
+    {
+        "id": 689502,
+        "updated_sequence": 1113697,
+        "published_at": {
+            "unix": 1545642000,
+            "text": "2018-12-24 09:00:00 +0000",
+            "iso_8601": "2018-12-24T09:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1545642000,
+            "text": "2018-12-24 09:00:00 +0000",
+            "iso_8601": "2018-12-24T09:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE HAS NOW FINISHED, PLEASE REVERT BACK TO YOUR ORIGINAL CHANNEL FOR COVERAGE ON THE UK & EUROPEAN SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-has-now-finished-please-revert-back-to-your-original-channel-for-coverage-on-the-uk-european-session-21-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-24 17:00:00",
+        "gmt_time": "2018-12-24 09:00:00"
+    },
+    {
+        "id": 689652,
+        "updated_sequence": 1113695,
+        "published_at": {
+            "unix": 1545641700,
+            "text": "2018-12-24 08:55:00 +0000",
+            "iso_8601": "2018-12-24T08:55:00Z"
+        },
+        "updated_at": {
+            "unix": 1545641847,
+            "text": "2018-12-24 08:57:27 +0000",
+            "iso_8601": "2018-12-24T08:57:27Z"
+        },
+        "subject": "Chinese imports of crude oil from Saudi Arabia stand at 1.569mln bpd during November ",
+        "content": "<ul><li>Imports of crude oil from Russia&nbsp;stand at 1.593mln bpd</li>\r\n  <li>Imports of crude oil from Iran&nbsp;stand at 388,726&nbsp;bpd</li>\r\n  <li>Imports of crude oil from the US&nbsp;stand at 33,558&nbsp;bpd</li>\r\n</ul>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "chinese-imports-of-crude-oil-from-saudi-arabia-stand-at-1-569mln-bpd-during-november-24-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 20,
+            "name": "Commodities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-24 16:55:00",
+        "gmt_time": "2018-12-24 08:55:00"
+    },
+    {
+        "id": 689651,
+        "updated_sequence": 1113690,
+        "published_at": {
+            "unix": 1545641340,
+            "text": "2018-12-24 08:49:00 +0000",
+            "iso_8601": "2018-12-24T08:49:00Z"
+        },
+        "updated_at": {
+            "unix": 1545641442,
+            "text": "2018-12-24 08:50:42 +0000",
+            "iso_8601": "2018-12-24T08:50:42Z"
+        },
+        "subject": "Euronext (ENX FP) - Oslo Borse will evaluate Euronext's offer and will provide a recommendation for shareholders when the offer is presented ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "euronext-enx-fp-oslo-borse-will-evaluate-euronext-s-offer-and-will-provide-a-recommendation-for-shareholders-when-the-offer-is-presented-24-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 2,
+            "name": "CAC"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-24 16:49:00",
+        "gmt_time": "2018-12-24 08:49:00"
+    },
+    {
+        "id": 689650,
+        "updated_sequence": 1113687,
+        "published_at": {
+            "unix": 1545640320,
+            "text": "2018-12-24 08:32:00 +0000",
+            "iso_8601": "2018-12-24T08:32:00Z"
+        },
+        "updated_at": {
+            "unix": 1545640489,
+            "text": "2018-12-24 08:34:49 +0000",
+            "iso_8601": "2018-12-24T08:34:49Z"
+        },
+        "subject": "Gilts and Short Sterling futures firmer after somewhat mixed and muted start",
+        "content": "<p>A very slow and grinding bid, led by the long end of the curve has seen UK debt inch up into positive territory from a 122.76 opening print vs last Friday&rsquo;s 122.83 Liffe settlement, to 123.10 so far. However, trading volume is seasonally thin at just over 5k lots, with the 3 month STIR strip not doing that much better in terms of turnover even though contracts have also edged up above parity from a tick or so adrift earlier. From here, it already looks all set to remain lacklustre, at least until US market participants return to the fray, unless the FTSE really tumbles, with the 10 year benchmark bereft of any external influences given the Eurex closure. Technically, buyers will be eyeing nearest resistance at 123.21 (December 21 intraday high), while support comes in at 122.66.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "gilts-and-short-sterling-futures-firmer-after-somewhat-mixed-and-muted-start-24-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-24 16:32:00",
+        "gmt_time": "2018-12-24 08:32:00"
+    },
+    {
+        "id": 689649,
+        "updated_sequence": 1113684,
+        "published_at": {
+            "unix": 1545639120,
+            "text": "2018-12-24 08:12:00 +0000",
+            "iso_8601": "2018-12-24T08:12:00Z"
+        },
+        "updated_at": {
+            "unix": 1545639189,
+            "text": "2018-12-24 08:13:09 +0000",
+            "iso_8601": "2018-12-24T08:13:09Z"
+        },
+        "subject": "ECB says banks borrowed EUR 40mln at marginal rate & deposited EUR 613.9bln",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "ecb-says-banks-borrowed-eur-40mln-at-marginal-rate-deposited-eur-613-9bln-24-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 17,
+            "name": "ECB"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-24 16:12:00",
+        "gmt_time": "2018-12-24 08:12:00"
+    },
+    {
+        "id": 689648,
+        "updated_sequence": 1113677,
+        "published_at": {
+            "unix": 1545635100,
+            "text": "2018-12-24 07:05:00 +0000",
+            "iso_8601": "2018-12-24T07:05:00Z"
+        },
+        "updated_at": {
+            "unix": 1545635410,
+            "text": "2018-12-24 07:10:10 +0000",
+            "iso_8601": "2018-12-24T07:10:10Z"
+        },
+        "subject": "Major FX option expiries for the NY cut from today through to December 27",
+        "content": "<p>EUR/USD 1.1315 (197M), 1.1400 (180M), 1.1665, (857M)</p>\r\n\r\n<p>USD/JPY 111.50-60 (630M)</p>\r\n\r\n<p>EUR/GBP 0.90 (200M)</p>\r\n\r\n<p>USD/CAD 1.3465 (240M)</p>\r\n\r\n<p>NZD/USD 0.6800 (150M)</p>\r\n\r\n<p>Wed 26 = USD/JPY <strong>113.30 (1BLN)</strong></p>\r\n\r\n<p>Thurs 27 = <strong>EUR/USD 1.1300-25 (1.4BLN)</strong>, <strong>1.1395-00 (2.175BLN)</strong></p>\r\n\r\n<p>USD/JPY <strong>111.50 (2.3BLN)</strong></p>\r\n\r\n<p>USD/CAD 1.3270 (551M)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "DTCC",
+        "slug": "major-fx-option-expiries-for-the-ny-cut-from-today-through-to-december-27-24-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 22,
+            "name": "FX Flows"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-24 15:05:00",
+        "gmt_time": "2018-12-24 07:05:00"
+    },
+    {
+        "id": 689647,
+        "updated_sequence": 1113681,
+        "published_at": {
+            "unix": 1545634740,
+            "text": "2018-12-24 06:59:00 +0000",
+            "iso_8601": "2018-12-24T06:59:00Z"
+        },
+        "updated_at": {
+            "unix": 1545636545,
+            "text": "2018-12-24 07:29:05 +0000",
+            "iso_8601": "2018-12-24T07:29:05Z"
+        },
+        "subject": "Additional European equity stories post the release of the Daily European equity opening news",
+        "content": "<p>Euronext (ENX FP) &ndash; Co make a EUR 625mln offer for Oslo Bors VPS, Co have also secured support for offer form Oslo Bors Shareholders representing 49.6% of all outstanding shares. (Newswires)</p>\r\n\r\n<p>Anglo American (AAL LN) &ndash; Receipt of regulatory approval regarding step 3 license area of the Minas-Rio operation. 2019 production guidance for Minas-Rio increased to 18-20mln tonnes vs. Prev. 16-19mln tonnes; whilst unit cost guidance for 2019 is lowered to USD 28-31 per tonnes vs. Prev. USD 30-33 per tonne. (Newswires)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "additional-european-equity-stories-post-the-release-of-the-daily-european-equity-opening-news-24-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 33,
+            "name": "European Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-24 14:59:00",
+        "gmt_time": "2018-12-24 06:59:00"
+    },
+    {
+        "id": 689646,
+        "updated_sequence": 1113671,
+        "published_at": {
+            "unix": 1545634140,
+            "text": "2018-12-24 06:49:00 +0000",
+            "iso_8601": "2018-12-24T06:49:00Z"
+        },
+        "updated_at": {
+            "unix": 1545634226,
+            "text": "2018-12-24 06:50:26 +0000",
+            "iso_8601": "2018-12-24T06:50:26Z"
+        },
+        "subject": "DAILY EUROPEAN EQUITY OPENING NEWS",
+        "content": "<p>**EUROPEAN EQUITY COVERAGE WILL ONLY COVER COMPANIES IN THE STOXX 600 OR COMPANIES OF SYSTEMIC IMPORTANCE TO PARTICULAR SECTORS**</p>\r\n\r\n<p>24th December 2018</p>\r\n\r\n<p>The Daily European Equity Opening News is uploaded at 0700GMT/0100CST recapping all of the overnight equity news</p>\r\n\r\n<p>From 0700GMT/0100CST all equity news will be covered in real time over the audio and headline feed and the full audio rundown will be at 0715GMT/0115CST.</p>\r\n\r\n<p>There will be an additional audio rundown at 0750GMT/0150CST recapping any company news which has hit the wires since 0715GMT/0115CST ahead of the European equity open</p>\r\n\r\n<p>SEE RANSQUAWK BOARD FOR TODAY&rsquo;S MARKET/DESK CLOSURES</p>\r\n\r\n<p>ASIA</p>\r\n\r\n<p>Asia-Pac bourses traded mostly higher in holiday-thinned liquidity following the downbeat lead from Wall St. on Friday, where the S&amp;P notched a weekly loss of 7%, Nasdaq closed in bear market and the Dow posted its worst week since the 2008 financial crisis. ASX 200 (+0.5%) and Shanghai Comp. (+0.1%) nursed opening losses with the former aided by IT and material names amid positive comments from China&rsquo;s MOFCOM over the weekend that US and China have &ldquo;made new progress&rdquo; on trade and IP issues. Meanwhile, trade optimism also led Mainland China higher as most sectors moved into the green with telecom, healthcare and tech leading the gains, however, upside was capped after the PBoC&rsquo;s liquidity efforts amounted to a net daily drain of CNY 140bln. Finally, Hang Seng (-0.6%) came off intra-day lows but ultimately underperformed after the Hong Kong Finance Chief stated there will be &ldquo;fewer sweeteners&rdquo; in the FY19/20 budget and as such, almost all sectors were in the red with hardware names leading the decline. Over in Japan, Nikkei 225 was closed as participants observe the Emperor&rsquo;s day public holiday.</p>\r\n\r\n<p>FTSE</p>\r\n\r\n<p>GlaxoSmithKline (GSK LN) &ndash; CEO has rejected speculation that her decision for a joint-venture with Pfizer, spinning out the consumer goods division, was prompted by pressure from Chairman Philip Hampton and shareholders. (Times)</p>\r\n\r\n<p>UK Retail Names &ndash; According to regulatory filings 20% of the most heavily shorted LSE companies are retailers. With Marks &amp; Spencer (MKS LN), Kingfisher (KGF LN), Mothercare (MTC LN) and Superdry (SDRY LN) some of the Co&rsquo;s highlighted. (Times)</p>\r\n\r\n<p>Rio Tinto (RIO LN) &ndash; Co has completed sale of its entire interest in Indonesia&rsquo;s Grasberg Mine for USD 3.5bln; Co are to announce how sale proceeds will be allocated in FY 2018 results. Separately, Co&rsquo;s chief executive expects the pace of asset sales to slow next year, downplaying the prospects of any large acquisitions. (Newswires/FT)</p>\r\n\r\n<p>RBS (RBS LN) &ndash; Co have applied for a German banking licence to ensure it keeps European market access following Brexit. (FT)</p>\r\n\r\n<p>Just Eat (JE/ LN) &ndash; Shareholder rebellion against the Co is gathering momentum following two of it&rsquo;s largest investors, Capital Group and Fidelity adding their support to activist demands by Cat Rock Capital. Attacking the &lsquo;flawed metrics&rsquo; around top executive bonuses. (Telegraph)</p>\r\n\r\n<p>Whitbread (WTB LN) &ndash; Co. has announced clearance for their sale of Costa to Coca-Cola (KO) and a GBP 500mln buyback. (Newswires)</p>\r\n\r\n<p>DAX</p>\r\n\r\n<p>Auto Names &ndash; US Commerce Secretary Ross says that all auto tariff options are still on the table. (FT)</p>\r\n\r\n<p>Volkswagen (VOW3 GY) &ndash; Co have informed Germany&rsquo;s transport authority that around half a million cars recalled after the diesel scandal are potentially still equipped with illegal software which is designed to trick emissions tests. Co.&rsquo;s costs for the emission scandal could increase by a further EUR 8.5bln. (FT/Newswires)</p>\r\n\r\n<p>BMW (BMW GY) &ndash; Co are facing a criminal probe in South Korea following investigators concluding that fire hazards were concealed and recalls were delayed; with a USD 10mln fine imposed by Korea for the delayed recalls. (Newswires)</p>\r\n\r\n<p>Siemens (SIE GY) &ndash; Co. has been awarded a USD 850mln contract. (Newswires)</p>\r\n\r\n<p>BROKER MOVES</p>\r\n\r\n<p>CAC</p>\r\n\r\n<p>Renault (RNO FP) &ndash; Co&rsquo;s call for a shareholder meeting following the indictment of former chairman Ghosn was rejected by Nissan, according to the WSJ citing a 17th December letter by Nissan&rsquo;s CEO Saikawa. (Newswires)</p>\r\n\r\n<p>BROKER MOVES</p>\r\n\r\n<p>PAN EUROPE</p>\r\n\r\n<p>BROKER MOVES</p>\r\n\r\n<p>SMI</p>\r\n\r\n<p>OTHER SWISS COMPANIES</p>\r\n\r\n<p>BROKER MOVES</p>\r\n\r\n<p>SCANDINAVIA</p>\r\n\r\n<p>BROKER MOVES</p>\r\n\r\n<p>US</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "daily-european-equity-opening-news-24-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 33,
+            "name": "European Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-24 14:49:00",
+        "gmt_time": "2018-12-24 06:49:00"
+    },
+    {
+        "id": 689619,
+        "updated_sequence": 1113665,
+        "published_at": {
+            "unix": 1545633900,
+            "text": "2018-12-24 06:45:00 +0000",
+            "iso_8601": "2018-12-24T06:45:00Z"
+        },
+        "updated_at": {
+            "unix": 1545633900,
+            "text": "2018-12-24 06:45:00 +0000",
+            "iso_8601": "2018-12-24T06:45:00Z"
+        },
+        "subject": "RANSQUAWK CHRISTMAS PERIOD OPENING HOURS",
+        "content": "<p>Business as usual up to&nbsp;1845GMT Monday 24th December 2018</p>\r\n\r\n<p>Closed for business 25th, 26th, 27th, 28th, 31st December 2018 and 2nd January 2019</p>\r\n\r\n<p>Normal service will resume at 0630GMT on Wednesday&nbsp;2nd&nbsp;of January 2019 for the beginning of the EU Session</p>\r\n\r\n<p>Market closures and desk opening hours</p>\r\n\r\n<p>24th December - Business as usual up to&nbsp;1845GMT Monday 24th December 2018</p>\r\n\r\n<p>Floor Trade</p>\r\n\r\n<p>1. CME/CBOT &ndash;FX and Interest Rates close at 1800GMT/1200CST, Equities Futures and Options close at 1815GMT/1215CST</p>\r\n\r\n<p>2. NYSE &ndash; Early close at 1800GMT</p>\r\n\r\n<p>Electronic Trade</p>\r\n\r\n<p>1. CME &ndash; Equity, interest rates, FX close 1815GMT/1215CST, Energy closes at 1845GMT/1245CST</p>\r\n\r\n<p>2. ICE &ndash; US Calendar: https://bit.ly/2KXWq6u, EU Calendar: https://bit.ly/2wLNLzH</p>\r\n\r\n<p>3. Eurex &ndash; Closed for trading in all derivatives</p>\r\n\r\n<p>4. Euronext Derivatives &ndash; Closes begin at 1255GMT/0655CST</p>\r\n\r\n<p>Cash Index:</p>\r\n\r\n<p>1. FTSE &ndash; Close 1230GMT/0630CST onwards</p>\r\n\r\n<p>2. Euronext Cash &ndash; Closes begin at 1305GMT/0705CST</p>\r\n\r\n<p>3. DAX - Closed</p>\r\n\r\n<p>4. IBEX 35 &ndash; Close 1300GMT/0700CST</p>\r\n\r\n<p>5. FTSE MIB - Close 1230GMT/0630CST onwards</p>\r\n\r\n<p>6. SMI &ndash; Closed</p>\r\n\r\n<p>7. Oslo Bors &ndash; Closed</p>\r\n\r\n<p>8. OMX 30 &ndash; Closed</p>\r\n\r\n<p>Asia-Pac</p>\r\n\r\n<p>Australia &ndash; Close at 0310GMT/2110CST</p>\r\n\r\n<p>Japan &ndash; Closed for Emperors Birthday</p>\r\n\r\n<p>Hong Kong &ndash; Regular Hours</p>\r\n\r\n<p>25th December &ndash; Desk Closed</p>\r\n\r\n<p>Floor Trade&nbsp;</p>\r\n\r\n<p>1. CME/CBOT - Closed</p>\r\n\r\n<p>2. NYSE &ndash; Closed</p>\r\n\r\n<p>Electronic Trade</p>\r\n\r\n<p>1. CME Globex &ndash; Equity, interest rates, FX closed. Opens 2300GMT/1700CST</p>\r\n\r\n<p>2. ICE &ndash; Closed</p>\r\n\r\n<p>3. Eurex &ndash; Closed</p>\r\n\r\n<p>4. Euronext Derivatives - Closed</p>\r\n\r\n<p>Cash Index: -</p>\r\n\r\n<p>1. FTSE &ndash; Closed</p>\r\n\r\n<p>2. Euronext Cash &ndash; Closed</p>\r\n\r\n<p>3. DAX - Closed</p>\r\n\r\n<p>4. IBEX 35 - Closed</p>\r\n\r\n<p>5. FTSE MIB - Closed</p>\r\n\r\n<p>6. SMI &ndash; Closed</p>\r\n\r\n<p>7. Oslo Bors &ndash; Closed</p>\r\n\r\n<p>8. OMX 30 &ndash; Closed</p>\r\n\r\n<p>Asia-Pac</p>\r\n\r\n<p>Australia - Closed</p>\r\n\r\n<p>Japan &ndash; Regular Close</p>\r\n\r\n<p>Hong Kong - Closed</p>\r\n\r\n<p>26th December (Boxing Day) &ndash; Desk Closed</p>\r\n\r\n<p>Floor Trade &nbsp;</p>\r\n\r\n<p>1. CME/CBOT &ndash; Regular hours</p>\r\n\r\n<p>2. NYSE &ndash; Regular hours</p>\r\n\r\n<p>Electronic Trade</p>\r\n\r\n<p>1. CME Globex &ndash; Equity, interest rates, FX closed. Regular close</p>\r\n\r\n<p>2. ICE &ndash; US Calendar: https://bit.ly/2KXWq6u, EU Calendar: https://bit.ly/2wLNLzH</p>\r\n\r\n<p>3. Eurex &ndash; Closed for trading and clearing (exercise, settlement and cash) in all derivatives</p>\r\n\r\n<p>4. Euronext Derivatives - Closed</p>\r\n\r\n<p>Cash Index: -</p>\r\n\r\n<p>1. FTSE &ndash; Closed</p>\r\n\r\n<p>2. Euronext Cash &ndash; Closed</p>\r\n\r\n<p>3. DAX - Closed</p>\r\n\r\n<p>4. IBEX 35 - Closed</p>\r\n\r\n<p>5. FTSE MIB - Closed</p>\r\n\r\n<p>6. SMI &ndash; Closed</p>\r\n\r\n<p>7. Oslo Bors &ndash; Closed</p>\r\n\r\n<p>8. OMX 30 &ndash; Closed</p>\r\n\r\n<p>Asia-Pac</p>\r\n\r\n<p>Australia - Closed</p>\r\n\r\n<p>Japan &ndash; Regular Close</p>\r\n\r\n<p>Hong Kong - Closed</p>\r\n\r\n<p>27-28th December &ndash; Desk Closed</p>\r\n\r\n<p>Floor Trade&nbsp;</p>\r\n\r\n<p>1. CME/CBOT &ndash; Regular hours</p>\r\n\r\n<p>2. NYSE &ndash; Regular hours</p>\r\n\r\n<p>Electronic Trade</p>\r\n\r\n<p>1. CME Globex &ndash; Equities, Interest Rates, FX &ndash; Regular close</p>\r\n\r\n<p>2. ICE &ndash; Regular hours</p>\r\n\r\n<p>3. Eurex - Regular hours</p>\r\n\r\n<p>4. Euronext Derivatives - Regular hours</p>\r\n\r\n<p>Cash Index: -</p>\r\n\r\n<p>1. FTSE &ndash; Regular hours</p>\r\n\r\n<p>2. Euronext Cash &ndash; Regular hours</p>\r\n\r\n<p>3. DAX &ndash; Regular hours</p>\r\n\r\n<p>4. IBEX 35 &ndash; Regular hours</p>\r\n\r\n<p>5. FTSE MIB &ndash; Regular hours</p>\r\n\r\n<p>6. SMI &ndash; Regular hours</p>\r\n\r\n<p>7. Oslo Bors &ndash; Regular hours</p>\r\n\r\n<p>8. OMX 30 - Regular hours</p>\r\n\r\n<p>Australia &ndash; Regular Close</p>\r\n\r\n<p>Japan &ndash; Regular Close</p>\r\n\r\n<p>Hong Kong &ndash; Regular Close</p>\r\n\r\n<p>31st December (NYE)&ndash; Desk Close</p>\r\n\r\n<p>Floor Trade&nbsp;</p>\r\n\r\n<p>1. CME/CBOT &ndash; FX and Interest Rates close at 1800GMT/1200CST</p>\r\n\r\n<p>2. NYSE &ndash; Regular hours</p>\r\n\r\n<p>Electronic Trade</p>\r\n\r\n<p>1. CME Globex &ndash; Equities, Interest Rates, FX &ndash; Regular close</p>\r\n\r\n<p>2. ICE &ndash; 2. ICE &ndash; US Calendar: https://bit.ly/2KXWq6u, EU Calendar: https://bit.ly/2wLNLzH</p>\r\n\r\n<p>3. Eurex &ndash; Closed for trading in all derivatives</p>\r\n\r\n<p>4. Euronext Derivatives &ndash; Closes begin at 1255GMT/0655CST</p>\r\n\r\n<p>Cash Index: -</p>\r\n\r\n<p>1. FTSE &ndash; Close 1230GMT/0630CST onwards</p>\r\n\r\n<p>2. Euronext Cash &ndash; Closes begin at 1305GMT/0705CST</p>\r\n\r\n<p>3. DAX &ndash; Closed</p>\r\n\r\n<p>4. IBEX 35 &ndash; Close 1300GMT/0700CST</p>\r\n\r\n<p>5. FTSE MIB - Close 1230GMT/0630CST onwards</p>\r\n\r\n<p>6. SMI &ndash; Closed</p>\r\n\r\n<p>7. Oslo Bors &ndash; Closed</p>\r\n\r\n<p>8. OMX 30 &ndash; Closed</p>\r\n\r\n<p>Asia-Pac</p>\r\n\r\n<p>Australia &ndash; Close at 0310GMT/2110CST</p>\r\n\r\n<p>Japan - Closed</p>\r\n\r\n<p>Hong Kong &ndash; Regular Close</p>\r\n\r\n<p>1st January (NYD) &ndash; Desk Closed</p>\r\n\r\n<p>Floor Trade&nbsp;</p>\r\n\r\n<p>1. CME/CBOT - Closed</p>\r\n\r\n<p>2. NYSE &ndash; Closed</p>\r\n\r\n<p>Electronic Trade</p>\r\n\r\n<p>1. CME Globex &ndash; Equities, Interest Rates, FX &ndash; Closed</p>\r\n\r\n<p>2. ICE &ndash; Closed</p>\r\n\r\n<p>3. Eurex &ndash; Closed</p>\r\n\r\n<p>4. Euronext Derivatives - Closed</p>\r\n\r\n<p>Cash Index: -</p>\r\n\r\n<p>1. FTSE &ndash; Closed</p>\r\n\r\n<p>2. Euronext Cash &ndash; Closed</p>\r\n\r\n<p>3. DAX &ndash; Closed</p>\r\n\r\n<p>4. IBEX 35 - Closed</p>\r\n\r\n<p>5. FTSE MIB - Closed</p>\r\n\r\n<p>6. SMI &ndash; Closed</p>\r\n\r\n<p>7. Oslo Bors &ndash; Closed</p>\r\n\r\n<p>8. OMX 30 &ndash; Closed</p>\r\n\r\n<p>Asia-Pac</p>\r\n\r\n<p>Australia - Closed</p>\r\n\r\n<p>Japan - Closed</p>\r\n\r\n<p>Hong Kong - Closed</p>\r\n\r\n<p>2nd January (Wednesday) &ndash; Markets open. Desk will re-open at 0630GMT for the beginning of the European session &nbsp;</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "ransquawk-christmas-period-opening-hours-21_05pm_utc_21-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-24 14:45:00",
+        "gmt_time": "2018-12-24 06:45:00"
+    },
+    {
+        "id": 689644,
+        "updated_sequence": 1113661,
+        "published_at": {
+            "unix": 1545632580,
+            "text": "2018-12-24 06:23:00 +0000",
+            "iso_8601": "2018-12-24T06:23:00Z"
+        },
+        "updated_at": {
+            "unix": 1545632654,
+            "text": "2018-12-24 06:24:14 +0000",
+            "iso_8601": "2018-12-24T06:24:14Z"
+        },
+        "subject": "RANsquawk Daily European Opening News - 24th December 2018 ",
+        "content": "<p>To download the report, please click <a href=\"/research_sheets/20830/download\">here</a><br />If you would like to subscribe to receive the research sheets directly in your inbox, you can now do so under the <a href=\"/research_sheets\">Research Suite</a> section of the portal.<br />To subscribe simply check the box next to &quot;Email these reports&quot; under the desired category.</p>\r\n\r\n<ul><li>Asia-Pac bourses traded mostly higher in holiday-thinned liquidity following the downbeat lead from Wall St. on Friday</li>\r\n  <li>US President Trump has reportedly privately discussed firing Fed Chair Powell over the latest Fed rate hike</li>\r\n  <li>UK PM May&#39;s allies are plotting to keep her at No.10 for at least another two years amid growing confidence her Brexit deal will pass the meaningful vote in January</li>\r\n  <li>Today&rsquo;s calendar sees a lack of tier 1 highlights. Note, some markets are closed and others are subject to early closures</li>\r\n</ul>\r\n\r\n<p>ASIA-PAC</p>\r\n\r\n<p>Asia-Pac bourses traded mostly higher in holiday-thinned liquidity following the downbeat lead from Wall St. on Friday, where the S&amp;P notched a weekly loss of 7%, Nasdaq closed in bear market and the Dow posted its worst week since the 2008 financial crisis. ASX 200 (+0.5%) and Shanghai Comp. (+0.1%) nursed opening losses with the former aided by IT and material names amid positive comments from China&rsquo;s MOFCOM over the weekend that US and China have &ldquo;made new progress&rdquo; on trade and IP issues. Meanwhile, trade optimism also led Mainland China higher as most sectors moved into the green with telecom, healthcare and tech leading the gains, however, upside was capped after the PBoC&rsquo;s liquidity efforts amounted to a net daily drain of CNY 140bln. Finally, Hang Seng (-0.6%) came off intra-day lows but ultimately underperformed after the Hong Kong Finance Chief stated there will be &ldquo;fewer sweeteners&rdquo; in the FY19/20 budget and as such, almost all sectors were in the red with hardware names leading the decline. Over in Japan, Nikkei 225 was closed as participants observe the Emperor&rsquo;s day public holiday.</p>\r\n\r\n<p>China&#39;s Commerce Ministry said China and the US &quot;made new progress&quot; on the issues of trade balance and intellectual property during a phone call between officials. (SCMP)</p>\r\n\r\n<p>Chinese Finance Ministry said tariffs on some import and export products will be adjusted from Jan 1st, 2019. China will levy temporary import tariffs on over 700 items but not levy export tariffs on 94 items including fertiliser and iron ore. China will further cut MFN tariffs on 298 IT products from July 2019 and will maintain &quot;relatively low&quot; import tariffs temporarily on some aircraft engines. (Newswires)</p>\r\n\r\n<p>White House Trade Adviser Navarro said on Friday that a trade pact with China in 90 days is difficult. (Nikkei)</p>\r\n\r\n<p>Tsunamis linked to volcanic eruptions hit the coastal towns around Indonesia&#39;s Sunda Strait, killing at least 281 people and injuring over a thousand. (BBC/The Guardian)</p>\r\n\r\n<p>PBoC set CNY mid-point at 6.9006 (Prev. 6.8825). (Newswires)<br />PBoC injected CNY 20bln via 14-day reverse repos for a net daily drain of CNY 140bln.<br />&nbsp;</p>\r\n\r\n<p>UK/EU</p>\r\n\r\n<p>UK PM May&#39;s allies are plotting to keep her at No.10 for at least another two years amid growing confidence her Brexit deal will pass the meaningful vote in January. (The Times) Other reports state that UK PM May has curtailed her cabinet&rsquo;s Christmas break and has requested they return on Jan 2nd for discussions about a no-deal Brexit. (FT)</p>\r\n\r\n<p>ECB&#39;s Weidmann (Hawk) said he is worried about the implications of Italy&#39;s budget deal with the European Commission for future fiscal discipline in the Euro zone. (Welt Am Sonntag)</p>\r\n\r\n<p>FX</p>\r\n\r\n<p>In FX markets, DXY remained sub-97.000 and continued to ease and print fresh session lows ahead of the holiday-shortened week. GBP/USD gapped higher at the open and extended on gains after The Times reported that UK PM May&#39;s allies are confident that her Brexit deal will pass the meaningful vote in January, hence providing some optimism over the widely feared no-deal scenario. Meanwhile, USD/JPY opened sub-111.00 around its 200 DMA at 110.90 amid weekend reports that US President Trump has discussed firing Fed Chair Powell, however, Treasury Secretary Mnuchin attempted to calm markets by stating that he doesn&rsquo;t believe Trump has this right. USD/JPY has since traded choppy but ultimately reclaimed the 111.00 handle as risk sentiment across the region took a turn for the better. Elsewhere, the China-exposed antipodeans outperformed their G10 peers on the aforementioned positive trade comments from China&rsquo;s MOFCOM, with AUD/USD extending above 0.7050 ahead of resistance at 0.7085-90 while similarly, NZD/USD moved further north of 0.6700 and tested its 50 DMA to the upside at 0.6741. Finally, EUR/USD and USD/CAD also benefitted from the easing greenback as the former edged closer to the 1.1400 handle and the latter attempted to cover more ground below 1.3600.</p>\r\n\r\n<p>COMMODITIES</p>\r\n\r\n<p>WTI and Brent prices consolidated following Friday&rsquo;s decline as the risk sentiment across Asia improved amid positive US-Sino trade developments. Prices were also underpinned by comments from the UAE Energy Minister who stated that further production curbs may occur if the 1.2mln BPD OPEC+ cut is not enough, while he added that he believes the supply glut will be removed in Q1 next year. Elsewhere, most metals benefitted from the softer buck with gold revisiting Friday&rsquo;s levels above USD 1260/oz, meanwhile copper erased opening losses and conformed to the positive risk tone.</p>\r\n\r\n<p>UAE Energy Minister Mazrouei said if the 1.2mln BPD OPEC+ production cut is not enough, then OPEC may decide curb further production. He added that he believes the supply glut will be removed in Q1 2019. Mazrouei reiterated that OPEC&rsquo;s 800K BPD cut is to start in January and added that the cartels will have an extra meeting if the cut is not enough. (Newswires)</p>\r\n\r\n<p>Iraqi Oil Minister said they want to stem the decline in oil prices and there could be a supply shortage in Q3 2019. He added that OPEC wants to output cut deal to be for the year and Iraq shares Saudi&#39;s view that the deal will be extended. (Newswires)<br />&nbsp;</p>\r\n\r\n<p>GEOPOLITICAL</p>\r\n\r\n<p>Russian Foreign Ministry said that Russia and Iran have agreed to continue expanding and protecting bilateral cooperation from US sanctions. (Newswires)</p>\r\n\r\n<p>US Secretary of State Pompeo said the US are &ldquo;counting on&rdquo; a second summit between US President Trump and North Korean leader Kim Jung Un; he added that there has been progress in denuclearisation. (NPR)</p>\r\n\r\n<p>Canadian Foreign Minister Freeland has called for the immediate release of the two Canadians detained in China. (Newswires)</p>\r\n\r\n<p>US</p>\r\n\r\n<p>US T-Note futures were pretty much flat by settlement on Friday. There were some downticks after the Fed&rsquo;s Williams suggested that if the economic outlook deteriorated materially, the FOMC could consider its policy to keep the balance sheet unwind on autopilot. However, the Williams moves were faded, before T-Notes resumed modest up ticks, while equities resumed their slide. There is some focus on next week&rsquo;s auctions of 2s, 5s, 7s, with around USD 131bln of supply on tap, however, at the end of play, Treasuries were little changed, with most of the moves seeing the 2s sector, where yields were around 3bps lower.</p>\r\n\r\n<p>US President Trump has reportedly privately discussed firing Fed Chair Powell over the latest Fed rate hike against the backdrop of a global stocks rout; according to sources. Furthermore, US Treasury Secretary Mnuchin tweeted about Trump&#39;s disapproval with the latest hike, however he attempted to reassure investors by stating that he does not believe Trump has the right to fire the Fed Chair. It was then reported on WSJ that White House advisers are discussing arranging a meeting between President Trump and Fed Chair Powell in the coming weeks. (Newswires/Twitter/WSJ)</p>\r\n\r\n<p>The US government has been partially shut after Senate failed to pass a bill containing funding for US President Trump&#39;s border wall. A top White House official warned that it is &quot;very possible&quot; the shutdown will extend into the new year. Senate are to meet again on Dec 27th to try reach a deal. President Trump is also said to be willing to accept USD 2.6bln in wall funding; according to Fox News. In related news, White House Budget Director Mulvaney said border wall funding proposals are in the range of USD 1.6-5.0bln, he added that it is possible for the shutdown to continue into new Congress. (Newswires/Telegraph/Fox News)</p>\r\n\r\n<p>US President Trump appointed Deputy Defence Secretary Patrick Shanahan as acting Defence Secretary effective Jan 1st, following Jim Mattis&#39; resignation last week. (Twitter/BBC)</p>\r\n\r\n<p>US anti-ISIS envoy, Brett McGurk has resigned (effective Dec 31st) over President Trump&#39;s decision to pull troops from Syria. (BBC/Newswires)</p>\r\n\r\n<p>US Treasury Secretary Mnuchin has reportedly held calls with the head of the six large US banks (JP Morgan, Bank of America, Goldman Sachs, Morgan Stanley, Wells Fargo and Citigroup) to discuss the recent market turmoil. (CNBC)</p>\r\n\r\n<p>Fed&#39;s Mester (Hawk, Voter) said the US economy is doing quite well but global outlook has softened. (Newswires)</p>\r\n\r\n<p><br />&nbsp;</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "ransquawk-daily-european-opening-news-24th-december-2018-24-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-24 14:23:00",
+        "gmt_time": "2018-12-24 06:23:00"
+    },
+    {
+        "id": 689642,
+        "updated_sequence": 1113655,
+        "published_at": {
+            "unix": 1545631680,
+            "text": "2018-12-24 06:08:00 +0000",
+            "iso_8601": "2018-12-24T06:08:00Z"
+        },
+        "updated_at": {
+            "unix": 1545631828,
+            "text": "2018-12-24 06:10:28 +0000",
+            "iso_8601": "2018-12-24T06:10:28Z"
+        },
+        "subject": "ASIA-PAC MARKET UPDATE: Asian equities bounce off lows amid trade optimism",
+        "content": "<p>Asia-Pac bourses traded mostly higher in holiday-thinned liquidity following the downbeat lead from Wall St. on Friday, where the S&amp;P notched a weekly loss of 7%, Nasdaq closed in bear market and the Dow posted its worst week since the 2008 financial crisis. ASX 200 (+0.5%) and Shanghai Comp. (+0.1%) nursed opening losses with the former aided by IT and material names amid positive comments from China&rsquo;s MOFCOM over the weekend that US and China have &ldquo;made new progress&rdquo; on trade and IP issues. Meanwhile, trade optimism also led Mainland China higher as most sectors dipped into the green with telecom, healthcare and tech leading the gains, however, upside was capped after the PBoC&rsquo;s liquidity efforts amounted to a net daily drain of CNY 140bln. Finally, Hang Seng (-0.6%) came off intra-day lows but ultimately underperformed after the Hong Kong Finance Chief stated there will be &ldquo;fewer sweeteners&rdquo; in the FY19/20 budget and as such, almost all sectors were in the red with hardware names leading the decline. Over in Japan, Nikkei 225 was closed as participants observe the Emperor&rsquo;s day public holiday.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-market-update-asian-equities-bounce-off-lows-amid-trade-optimism-24-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-24 14:08:00",
+        "gmt_time": "2018-12-24 06:08:00"
+    },
+    {
+        "id": 689640,
+        "updated_sequence": 1113649,
+        "published_at": {
+            "unix": 1545628920,
+            "text": "2018-12-24 05:22:00 +0000",
+            "iso_8601": "2018-12-24T05:22:00Z"
+        },
+        "updated_at": {
+            "unix": 1545629005,
+            "text": "2018-12-24 05:23:25 +0000",
+            "iso_8601": "2018-12-24T05:23:25Z"
+        },
+        "subject": "US Commerce Secretary Ross says all auto tariff options are still on the table; according to FT",
+        "content": "<ul><li><a href=\"https://www.ft.com/content/e062a966-04a4-11e9-99df-6183d3002ee1\">Click here for the article</a></li>\r\n</ul>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "FT",
+        "slug": "us-commerce-secretary-ross-says-all-auto-tariff-options-are-still-on-the-table-according-to-ft-24-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-24 13:22:00",
+        "gmt_time": "2018-12-24 05:22:00"
+    },
+    {
+        "id": 689638,
+        "updated_sequence": 1113643,
+        "published_at": {
+            "unix": 1545627600,
+            "text": "2018-12-24 05:00:00 +0000",
+            "iso_8601": "2018-12-24T05:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1545627665,
+            "text": "2018-12-24 05:01:05 +0000",
+            "iso_8601": "2018-12-24T05:01:05Z"
+        },
+        "subject": "Singapore CPI Y/Y (Nov) 0.3% vs. Exp. 0.6% (Prev. 0.7%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "singapore-cpi-y-y-nov-0-3-vs-exp-0-6-prev-0-7-24-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-24 13:00:00",
+        "gmt_time": "2018-12-24 05:00:00"
+    },
+    {
+        "id": 689639,
+        "updated_sequence": 1113646,
+        "published_at": {
+            "unix": 1545627300,
+            "text": "2018-12-24 04:55:00 +0000",
+            "iso_8601": "2018-12-24T04:55:00Z"
+        },
+        "updated_at": {
+            "unix": 1545627820,
+            "text": "2018-12-24 05:03:40 +0000",
+            "iso_8601": "2018-12-24T05:03:40Z"
+        },
+        "subject": "US President Trump tweets \"President [Erdogan] of Turkey has very strongly informed me that he will eradicate whatever is left of ISIS in Syria....and he is a man who can do it plus, Turkey is right “next door.” Our troops are coming home!\"",
+        "content": "<ul><li><a href=\"https://twitter.com/realDonaldTrump/status/1077064829825966081\">Click here for the tweet</a></li>\r\n</ul>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Twitter",
+        "slug": "us-president-trump-tweets-president-erdogan-of-turkey-has-very-strongly-informed-me-that-he-will-eradicate-whatever-is-left-of-isis-in-syria-and-he-is-a-man-who-can-do-it-plus-turkey-is-right-next-door-our-troops-are-coming-home-24-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-24 12:55:00",
+        "gmt_time": "2018-12-24 04:55:00"
+    },
+    {
+        "id": 689637,
+        "updated_sequence": 1113640,
+        "published_at": {
+            "unix": 1545621720,
+            "text": "2018-12-24 03:22:00 +0000",
+            "iso_8601": "2018-12-24T03:22:00Z"
+        },
+        "updated_at": {
+            "unix": 1545621773,
+            "text": "2018-12-24 03:22:53 +0000",
+            "iso_8601": "2018-12-24T03:22:53Z"
+        },
+        "subject": "PRE-MARKET INDIA STOCK NEWS: India has cut tax rate on 20 items under national sales tax to support the middle class and import/export workers. (Nikkei)",
+        "content": "<p><strong>India</strong></p>\r\n\r\n<p>- India has cut tax rate on 20 items under national sales tax to support the middle class and import/export workers. (Nikkei)</p>\r\n\r\n<p><strong>Stocks</strong></p>\r\n\r\n<p>Infosys (INFO IS)<br />- Co. is likely to consider the proposal for a second share buyback of USD 1.6bln soon. (ET)</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Jet Airways (JETIN IS)<br />- Co. announced up to 30% discount on its domestic and international fares&nbsp;as part of a festive season sale offer. (ET)</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><br />Tata Motors (TTMT IS)<br />- Co. launched six new passenger vehicle dealerships in Rajasthan in a single day as part of its aggressive network expansion plans. (ET)</p>\r\n\r\n<p><br /><br />&nbsp;</p>\r\n\r\n<p>Unichem Laboratories (UL IS)<br />- Co. received ANDA approval from USFDA for Pramipexole Dihydrochloride tablets for the treatment of Parkinson&#39;s disease. (ET)</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>State Trading Corp (STC IS)<br />- Co. appointed Rooma Nagrath as CFO (ET)</p>\r\n\r\n<p><br />&nbsp;</p>\r\n\r\n<p>TCS (TCS IS)/Wipro (WPRO IS)<br />- RBI shortlisted six IT companies (including TCS and Wipro) for capturing details of all borrowers and defaulters. (ET)<br />&nbsp;</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "pre-market-india-stock-news-india-has-cut-tax-rate-on-20-items-under-national-sales-tax-to-support-the-middle-class-and-import-export-workers-nikkei-24-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-24 11:22:00",
+        "gmt_time": "2018-12-24 03:22:00"
+    },
+    {
+        "id": 689636,
+        "updated_sequence": 1113637,
+        "published_at": {
+            "unix": 1545619320,
+            "text": "2018-12-24 02:42:00 +0000",
+            "iso_8601": "2018-12-24T02:42:00Z"
+        },
+        "updated_at": {
+            "unix": 1545620303,
+            "text": "2018-12-24 02:58:23 +0000",
+            "iso_8601": "2018-12-24T02:58:23Z"
+        },
+        "subject": "Chinese Finance Ministry says tariffs on some import and export products will be adjusted from Jan 1st 2019",
+        "content": "<ul><li>Will levy temporary import&nbsp;tariffs on over 700 items</li>\r\n  <li>It will not levy export tariffs on 94 items including fertiliser and iron ore</li>\r\n  <li>Will further cut most favourable country tariffs on 298 IT products from July 2019</li>\r\n  <li>Will maintain &quot;relatively low&quot; import tariffs temporarily on some aircraft engines</li>\r\n</ul>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "chinese-finance-ministry-says-tariffs-on-some-import-and-export-products-will-be-adjusted-from-jan-1st-2019-24-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-24 10:42:00",
+        "gmt_time": "2018-12-24 02:42:00"
+    },
+    {
+        "id": 689635,
+        "updated_sequence": 1113623,
+        "published_at": {
+            "unix": 1545617160,
+            "text": "2018-12-24 02:06:00 +0000",
+            "iso_8601": "2018-12-24T02:06:00Z"
+        },
+        "updated_at": {
+            "unix": 1545617957,
+            "text": "2018-12-24 02:19:17 +0000",
+            "iso_8601": "2018-12-24T02:19:17Z"
+        },
+        "subject": "ASIA-PAC MID-SESSION UPDATE: Asia mostly higher on trade optimism ahead of Christmas market closures",
+        "content": "<p>Asia-Pac bourses trade mostly higher in holiday-thinned liquidity following the downbeat lead from Wall St. on Friday, where the S&amp;P notched a weekly loss of 7%, Nasdaq closed in bear market and the Dow posted its worst week since the 2008 financial crisis. ASX 200 (+0.4%) and Shanghai Comp. (+0.2%) nursed opening losses with the former aided by IT and material names amid positive comments from China&rsquo;s MOFCOM that US and China have made new progress on trade and IP issues. Meanwhile, trade optimism also led Mainland China higher as most sectors dipped into the green with telecom, healthcare and tech leading the gains, however, upside is capped after the PBoC&rsquo;s liquidity efforts amounted to a net daily drain of CNY 140bln. Finally, Hang Seng (-1.0%) underperforms after the HK Finance Chief Chan stated there will be &ldquo;fewer sweeteners&rdquo; in the FY19/20 budget and as such, almost all sectors are in the red with hardware names leading the decline. Nikkei 225 is closed as participants in Japan observe the Emperors day public holiday.</p>\r\n\r\n<p>In FX markets, DXY stays sub-97.000 and continues to print new lows of the day, though the index remains in a tight range ahead of this week&rsquo;s Christmas market closures. GBP/USD gapped higher at the open on reports by The Times that UK PM May&#39;s allies are confident that her Brexit deal will pass the meaningful vote in January, hence providing some optimism over the widely feared no-deal scenario. Meanwhile, USD/JPY opened sub-111.00 around its 200 DMA at 110.90 amid weekend reports that US President Trump has discussed firing Fed Chair Powell, however, Treasury Secretary Mnuchin attempted to calm markets by stating that he doesn&rsquo;t believe Trump has this right. &nbsp;Elsewhere, antipodeans outperform its G10 peers on the aforementioned positive trade comments from China&rsquo;s MOFCOM, in turn lifting the China-exposed currencies on optimism. As such, AUD/USD hovers around 0.7050 ahead of resistance at 0.7085-90 while to the downside, the pair&rsquo;s 2018 low stands at 0.7021. Similarly, NZD/USD is higher by around four-tenths of a percent and has extended on gains above 0.6700 while testing its 50 DMA to the upside at 0.6741.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-mid-session-update-asia-mostly-higher-on-trade-optimism-ahead-of-christmas-market-closures-24-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-24 10:06:00",
+        "gmt_time": "2018-12-24 02:06:00"
+    },
+    {
+        "id": 689633,
+        "updated_sequence": 1113614,
+        "published_at": {
+            "unix": 1545614100,
+            "text": "2018-12-24 01:15:00 +0000",
+            "iso_8601": "2018-12-24T01:15:00Z"
+        },
+        "updated_at": {
+            "unix": 1545614188,
+            "text": "2018-12-24 01:16:28 +0000",
+            "iso_8601": "2018-12-24T01:16:28Z"
+        },
+        "subject": "PBoC sets CNY mid-point at 6.9006 (Prev. 6.8825)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pboc-sets-cny-mid-point-at-6-9006-prev-6-8825-24-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-24 09:15:00",
+        "gmt_time": "2018-12-24 01:15:00"
+    },
+    {
+        "id": 689634,
+        "updated_sequence": 1113617,
+        "published_at": {
+            "unix": 1545614100,
+            "text": "2018-12-24 01:15:00 +0000",
+            "iso_8601": "2018-12-24T01:15:00Z"
+        },
+        "updated_at": {
+            "unix": 1545614328,
+            "text": "2018-12-24 01:18:48 +0000",
+            "iso_8601": "2018-12-24T01:18:48Z"
+        },
+        "subject": "PBoC injects CNY 20bln via 14-day reverse repos for a net daily drain of CNY 140bln",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pboc-injects-cny-20bln-via-14-day-reverse-repos-for-a-net-daily-drain-of-cny-140bln-24-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-24 09:15:00",
+        "gmt_time": "2018-12-24 01:15:00"
+    },
+    {
+        "id": 689632,
+        "updated_sequence": 1113611,
+        "published_at": {
+            "unix": 1545613440,
+            "text": "2018-12-24 01:04:00 +0000",
+            "iso_8601": "2018-12-24T01:04:00Z"
+        },
+        "updated_at": {
+            "unix": 1545613749,
+            "text": "2018-12-24 01:09:09 +0000",
+            "iso_8601": "2018-12-24T01:09:09Z"
+        },
+        "subject": "China's Commerce Ministry said China and the US \"made new progress\" on the issues of trade balance and intellectual property during a phone call between officials",
+        "content": "<ul><li><a href=\"https://www.scmp.com/economy/china-economy/article/2179293/china-says-new-progress-has-been-made-us-trade-war-talks\">Click here for the article&nbsp;</a></li>\r\n</ul>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "SCMP",
+        "slug": "china-s-commerce-ministry-said-china-and-the-us-made-new-progress-on-the-issues-of-trade-balance-and-intellectual-property-during-a-phone-call-between-officials-24-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-24 09:04:00",
+        "gmt_time": "2018-12-24 01:04:00"
+    },
+    {
+        "id": 689631,
+        "updated_sequence": 1113600,
+        "published_at": {
+            "unix": 1545611340,
+            "text": "2018-12-24 00:29:00 +0000",
+            "iso_8601": "2018-12-24T00:29:00Z"
+        },
+        "updated_at": {
+            "unix": 1545611400,
+            "text": "2018-12-24 00:30:00 +0000",
+            "iso_8601": "2018-12-24T00:30:00Z"
+        },
+        "subject": "Japan and South Korea are to discuss bilateral ties and North Korea",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japan-and-south-korea-are-to-discuss-bilateral-ties-and-north-korea-24-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-24 08:29:00",
+        "gmt_time": "2018-12-24 00:29:00"
+    },
+    {
+        "id": 689630,
+        "updated_sequence": 1113608,
+        "published_at": {
+            "unix": 1545610740,
+            "text": "2018-12-24 00:19:00 +0000",
+            "iso_8601": "2018-12-24T00:19:00Z"
+        },
+        "updated_at": {
+            "unix": 1545613712,
+            "text": "2018-12-24 01:08:32 +0000",
+            "iso_8601": "2018-12-24T01:08:32Z"
+        },
+        "subject": "PRE-MARKET CHINESE STOCK NEWS: - China's Commerce Ministry says China and the US \"made new progress\" on the issues of trade balance and intellectual property during a phone call between officials (SCMP)",
+        "content": "<p><strong>China</strong></p>\r\n\r\n<p>- China&#39;s Commerce Ministry says China and the US &quot;made new progress&quot; on the issues of trade balance and intellectual property during a phone call between officials (SCMP)</p>\r\n\r\n<p>- White House Trade Adviser Navarro said a trade pact with China in 90 days is difficult. (Nikkei)</p>\r\n\r\n<p>- Hong Kong Finance chief Chan wants that there will be &ldquo;fewer sweeteners&rdquo; in the FY19/20 budget; while adding that they are currently on track for a record surplus. (SCMP)</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>Stocks</strong><br />Greentown China (3900 HK)<br />- Co. are to issue USD 500mln in unlisted senior notes. (Newswires)</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Sino Land (83 HK)<br />- Co&rsquo;s 2018 projected sales are to now total HKD 14.7bln; according to local press. (Newswires)</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Huawei (HUAWEI CH)<br />- UK government is worried that Co. hasn&rsquo;t addressed exploitable software holes it found months ago. (Newswires)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "pre-market-chinese-stock-news-china-s-commerce-ministry-says-china-and-the-us-made-new-progress-on-the-issues-of-trade-balance-and-intellectual-property-during-a-phone-call-between-officials-scmp-24-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-24 08:19:00",
+        "gmt_time": "2018-12-24 00:19:00"
+    },
+    {
+        "id": 689629,
+        "updated_sequence": 1113594,
+        "published_at": {
+            "unix": 1545609960,
+            "text": "2018-12-24 00:06:00 +0000",
+            "iso_8601": "2018-12-24T00:06:00Z"
+        },
+        "updated_at": {
+            "unix": 1545610031,
+            "text": "2018-12-24 00:07:11 +0000",
+            "iso_8601": "2018-12-24T00:07:11Z"
+        },
+        "subject": "PRE-MARKET TAIWAN AND SINGAPORE STOCK NEWS: Taiwan domestic fuel prices are to fall to a 14-month low this week. (Focus Taiwan)",
+        "content": "<p><strong>Taiwan</strong></p>\r\n\r\n<p>- Taiwan raised tax allowance, allowing a cut to individual incomes tax. (Newswires)</p>\r\n\r\n<p>- Domestic fuel prices to fall to a 14-month low this week. (Focus Taiwan)</p>\r\n\r\n<p><strong>Data</strong><br />- Nov Unemployment rate 3.7% (Prev. 3.7%)</p>\r\n\r\n<p><strong>Stocks</strong></p>\r\n\r\n<p>Foxconn Technology (2354 TT)<br />- Co. is said to be planning a USD 9.0bln chip project in China. (Nikkei)</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>Singapore</strong></p>\r\n\r\n<p><strong>Stocks</strong></p>\r\n\r\n<p><br />Global Logistic Properties (GLP SG)<br />- Co. is said to be looking at marking a USD 5.0bln investment in Japan. (Nikkei)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "pre-market-taiwan-and-singapore-stock-news-taiwan-domestic-fuel-prices-are-to-fall-to-a-14-month-low-this-week-focus-taiwan-24-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-24 08:06:00",
+        "gmt_time": "2018-12-24 00:06:00"
+    },
+    {
+        "id": 689628,
+        "updated_sequence": 1113591,
+        "published_at": {
+            "unix": 1545609660,
+            "text": "2018-12-24 00:01:00 +0000",
+            "iso_8601": "2018-12-24T00:01:00Z"
+        },
+        "updated_at": {
+            "unix": 1545609834,
+            "text": "2018-12-24 00:03:54 +0000",
+            "iso_8601": "2018-12-24T00:03:54Z"
+        },
+        "subject": "Asian equities are subdued (ASX 200 -0.1%, KOSPI -0.5%) after the weak close on Wall St where the Nasdaq entered bear market and the Dow shed 400 points",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asian-equities-are-subdued-asx-200-0-1-kospi-0-5-after-the-weak-close-on-wall-st-where-the-nasdaq-entered-bear-market-and-the-dow-shed-400-points-24-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-24 08:01:00",
+        "gmt_time": "2018-12-24 00:01:00"
+    }
+]

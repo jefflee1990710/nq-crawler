@@ -1,0 +1,448 @@
+[
+    {
+        "id": 912622,
+        "updated_sequence": 2131558,
+        "published_at": {
+            "unix": 1583711400,
+            "text": "2020-03-08 23:50:00 +0000",
+            "iso_8601": "2020-03-08T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1583711639,
+            "text": "2020-03-08 23:53:59 +0000",
+            "iso_8601": "2020-03-08T23:53:59Z"
+        },
+        "subject": "Japanese Adjusted Current Account (JPY)(Jan) 1626.8B vs. Exp. 1664.1B (Prev. 1714.7B)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-adjusted-current-account-jpy-jan-1626-8b-vs-exp-1664-1b-prev-1714-7b-08-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-09 07:50:00",
+        "gmt_time": "2020-03-08 23:50:00"
+    },
+    {
+        "id": 912620,
+        "updated_sequence": 2131546,
+        "published_at": {
+            "unix": 1583711400,
+            "text": "2020-03-08 23:50:00 +0000",
+            "iso_8601": "2020-03-08T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1583711516,
+            "text": "2020-03-08 23:51:56 +0000",
+            "iso_8601": "2020-03-08T23:51:56Z"
+        },
+        "subject": "Japanese Bank Lending Excluding Trusts (Feb) Y/Y 2.2% (Prev. 2.0%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-bank-lending-excluding-trusts-feb-y-y-2-2-prev-2-0-08-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-09 07:50:00",
+        "gmt_time": "2020-03-08 23:50:00"
+    },
+    {
+        "id": 912620,
+        "updated_sequence": 2131546,
+        "published_at": {
+            "unix": 1583711400,
+            "text": "2020-03-08 23:50:00 +0000",
+            "iso_8601": "2020-03-08T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1583711516,
+            "text": "2020-03-08 23:51:56 +0000",
+            "iso_8601": "2020-03-08T23:51:56Z"
+        },
+        "subject": "Japanese Bank Lending Excluding Trusts (Feb) Y/Y 2.2% (Prev. 2.0%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-bank-lending-excluding-trusts-feb-y-y-2-2-prev-2-0-08-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-09 07:50:00",
+        "gmt_time": "2020-03-08 23:50:00"
+    },
+    {
+        "id": 912622,
+        "updated_sequence": 2131558,
+        "published_at": {
+            "unix": 1583711400,
+            "text": "2020-03-08 23:50:00 +0000",
+            "iso_8601": "2020-03-08T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1583711639,
+            "text": "2020-03-08 23:53:59 +0000",
+            "iso_8601": "2020-03-08T23:53:59Z"
+        },
+        "subject": "Japanese Adjusted Current Account (JPY)(Jan) 1626.8B vs. Exp. 1664.1B (Prev. 1714.7B)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-adjusted-current-account-jpy-jan-1626-8b-vs-exp-1664-1b-prev-1714-7b-08-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-09 07:50:00",
+        "gmt_time": "2020-03-08 23:50:00"
+    },
+    {
+        "id": 912621,
+        "updated_sequence": 2131555,
+        "published_at": {
+            "unix": 1583711400,
+            "text": "2020-03-08 23:50:00 +0000",
+            "iso_8601": "2020-03-08T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1583711606,
+            "text": "2020-03-08 23:53:26 +0000",
+            "iso_8601": "2020-03-08T23:53:26Z"
+        },
+        "subject": "Japanese Trade Balance BOP Basis (JPY)(Jan) -985.1B vs. Exp. -962.0B (Prev. 120.7B)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-trade-balance-bop-basis-jpy-jan-985-1b-vs-exp-962-0b-prev-120-7b-08-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-09 07:50:00",
+        "gmt_time": "2020-03-08 23:50:00"
+    },
+    {
+        "id": 912612,
+        "updated_sequence": 2131522,
+        "published_at": {
+            "unix": 1583710680,
+            "text": "2020-03-08 23:38:00 +0000",
+            "iso_8601": "2020-03-08T23:38:00Z"
+        },
+        "updated_at": {
+            "unix": 1583710766,
+            "text": "2020-03-08 23:39:26 +0000",
+            "iso_8601": "2020-03-08T23:39:26Z"
+        },
+        "subject": "PRE-MARKET JAPANESE AND SOUTH KOREAN STOCK NEWS:  Energy slumps; South Korea military noted that North Korea fired 3 unidentified projectiles off the east coast",
+        "content": "<p>JAPAN</p><p>Renewable Energy - Fukushima hydropower plant opened on Saturday which is a government backed project involving Toshiba (6502 JT), Tohoku Electric Power (9506 JT) and nat gas distributor Iwatani (8088 JT)</p><p>Other News - Japanese PM Abe said will offer interest free loans with no collateral to small and medium sized businesses impacted by coronavirus and will also support parents that have to take time off to look after their children. (Newswires)</p><p>&nbsp;</p><p>SOUTH KOREA</p><p>Samsung Electronics (005930 KS) - Fire reported at Co.’s Hwaesong chip plant although there is no impact to chip output, while it was reported to transfer some production from its Gumi plant to Vietnam. (Newswires/Newswires)</p><p>SK Telecom (017670 KS) - Co. to establish gaming JV with Singapore and Thailand telecoms firms. (Yonhap)</p><p>Coronavirus - South Korean coronavirus cases increased by an additional 179 cases to take the total to 7313. (Yonhap)</p><p>Geopolitics - South Korea military noted that North Korea fired 3 unidentified projectiles off the east coast. (Newswires)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-japanese-and-south-korean-stock-news-energy-slumps-south-korea-military-noted-that-north-korea-fired-3-unidentified-projectiles-off-the-east-coast-08-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-09 07:38:00",
+        "gmt_time": "2020-03-08 23:38:00"
+    },
+    {
+        "id": 912611,
+        "updated_sequence": 2131519,
+        "published_at": {
+            "unix": 1583709060,
+            "text": "2020-03-08 23:11:00 +0000",
+            "iso_8601": "2020-03-08T23:11:00Z"
+        },
+        "updated_at": {
+            "unix": 1583710551,
+            "text": "2020-03-08 23:35:51 +0000",
+            "iso_8601": "2020-03-08T23:35:51Z"
+        },
+        "subject": "South Korea military noted that North Korea fired 3 unidentified projectiles off the east coast",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "south-korea-military-noted-that-north-korea-fired-3-unidentified-projectiles-off-the-east-coast-08-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 23,
+            "name": "Geopolitical"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-09 07:11:00",
+        "gmt_time": "2020-03-08 23:11:00"
+    },
+    {
+        "id": 912610,
+        "updated_sequence": 2131514,
+        "published_at": {
+            "unix": 1583708160,
+            "text": "2020-03-08 22:56:00 +0000",
+            "iso_8601": "2020-03-08T22:56:00Z"
+        },
+        "updated_at": {
+            "unix": 1583708244,
+            "text": "2020-03-08 22:57:24 +0000",
+            "iso_8601": "2020-03-08T22:57:24Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIAN STOCK NEWS: Australian Government expected to launch AUD 10bln stimulus package which may be announced early this week",
+        "content": "<p>ANZ Bank (ANZ AT) - Co. is said to cut 230 jobs from private bank and planning units. (Newswires)</p><p>APA Group (APA AT) - Co. and CK Infrastructure (1038 HK) are reportedly final 2 bidders for the Gippsland Basin gas field. (Newswires)</p><p>Australian Mines (AUZ AT) - Co. begins production runs to supply batter grade nickel sulphate and cobalt sulphate crystals to potential offtake partners. (Newswires)</p><p>Seven West Media (SWM AT) - Co. offered to sell Big Bash League broadcasting rights to lower its debt pile. (SMH)</p><p>Yancoal Australia (YAL AT) - Co. CEO Schmidt resigned and David James Moult was appointed as his replacement. (Newswires)</p><p>Other News - Australian Government expected to launch AUD 10bln stimulus package which may be announced early this week to support the economy amid coronavirus outbreak, while Treasurer Frydenberg stated that focus of stimulus is protecting jobs and businesses. (Newswires)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-australian-stock-news-australian-government-expected-to-launch-aud-10bln-stimulus-package-which-may-be-announced-early-this-week-08-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-09 06:56:00",
+        "gmt_time": "2020-03-08 22:56:00"
+    },
+    {
+        "id": 912609,
+        "updated_sequence": 2131510,
+        "published_at": {
+            "unix": 1583707260,
+            "text": "2020-03-08 22:41:00 +0000",
+            "iso_8601": "2020-03-08T22:41:00Z"
+        },
+        "updated_at": {
+            "unix": 1583707295,
+            "text": "2020-03-08 22:41:35 +0000",
+            "iso_8601": "2020-03-08T22:41:35Z"
+        },
+        "subject": "North Korea fired at least 1 unidentified projectile, according to Yonhap",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Yonhap",
+        "slug": "north-korea-fired-at-least-1-unidentified-projectile-according-to-yonhap-08-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 23,
+            "name": "Geopolitical"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-09 06:41:00",
+        "gmt_time": "2020-03-08 22:41:00"
+    },
+    {
+        "id": 912608,
+        "updated_sequence": 2131507,
+        "published_at": {
+            "unix": 1583706900,
+            "text": "2020-03-08 22:35:00 +0000",
+            "iso_8601": "2020-03-08T22:35:00Z"
+        },
+        "updated_at": {
+            "unix": 1583707038,
+            "text": "2020-03-08 22:37:18 +0000",
+            "iso_8601": "2020-03-08T22:37:18Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASE CALENDAR IS AVAILABLE IN THE RESEARCH SECTION OF THE WEBSITE: Highlights include Japanese GDP, Current Account and Bank Lending",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "asian-daily-economic-release-calendar-is-available-in-the-research-section-of-the-website-highlights-include-japanese-gdp-current-account-and-bank-lending-08-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-09 06:35:00",
+        "gmt_time": "2020-03-08 22:35:00"
+    },
+    {
+        "id": 912607,
+        "updated_sequence": 2131504,
+        "published_at": {
+            "unix": 1583705940,
+            "text": "2020-03-08 22:19:00 +0000",
+            "iso_8601": "2020-03-08T22:19:00Z"
+        },
+        "updated_at": {
+            "unix": 1583706491,
+            "text": "2020-03-08 22:28:11 +0000",
+            "iso_8601": "2020-03-08T22:28:11Z"
+        },
+        "subject": "Saudi Arabia suspends entry of people from several countries including Kuwait, UAE, Egypt and Bahrain in which it suspends air and naval trips between the kingdom and those countries",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>Reports notes this is related to the containment of coronavirus.</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1583706491,
+            "text": "2020-03-08 22:28:11 +0000",
+            "iso_8601": "2020-03-08T22:28:11Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "saudi-arabia-suspends-entry-of-people-from-several-countries-including-kuwait-uae-egypt-and-bahrain-in-which-it-suspends-air-and-naval-trips-between-the-kingdom-and-those-countries-08-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-09 06:19:00",
+        "gmt_time": "2020-03-08 22:19:00"
+    },
+    {
+        "id": 912606,
+        "updated_sequence": 2131499,
+        "published_at": {
+            "unix": 1583704920,
+            "text": "2020-03-08 22:02:00 +0000",
+            "iso_8601": "2020-03-08T22:02:00Z"
+        },
+        "updated_at": {
+            "unix": 1583705353,
+            "text": "2020-03-08 22:09:13 +0000",
+            "iso_8601": "2020-03-08T22:09:13Z"
+        },
+        "subject": "Oil prices sink with Brent Crude futures down around 30% and WTI lower by 27% as it eyes USD 30/bbl after Saudi Arabia launched an oil price war following the breakdown of the OPEC+ agreement",
+        "content": "<ul><li>The oil collapse has spooked risk sentiment with US equity futures lower by about 4%, which has spurred a flight to quality with T-notes up 29 ticks, while USD/JPY has slipped firmly below &nbsp;the 105.00 handle and commodity linked currencies also suffer with USD/CAD up 1.2%.</li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "oil-prices-sink-with-brent-crude-futures-down-around-30-and-wti-lower-by-27-as-it-eyes-usd-30-bbl-after-saudi-arabia-launched-an-oil-price-war-following-the-breakdown-of-the-opec-agreement-08-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-09 06:02:00",
+        "gmt_time": "2020-03-08 22:02:00"
+    },
+    {
+        "id": 912605,
+        "updated_sequence": 2131493,
+        "published_at": {
+            "unix": 1583703600,
+            "text": "2020-03-08 21:40:00 +0000",
+            "iso_8601": "2020-03-08T21:40:00Z"
+        },
+        "updated_at": {
+            "unix": 1583704718,
+            "text": "2020-03-08 21:58:38 +0000",
+            "iso_8601": "2020-03-08T21:58:38Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS: Saudi Arabia launched an oil price war following breakdown of the output deal; Chinese trade data disappoints",
+        "content": "<p><strong>CORONAVIRUS UPDATE</strong></p><p>Italy’s COVID-19 confirmed cases rose to 7375 from Prev. 5883 and the total death toll in the country rose to 366 from Prev. 128, while the country has placed up to 16mln people under quarantine in which anyone living in Lombardy as well as 14 central and northern provinces, would need special permission to travel. (Newswires)</p><p>France’s coronavirus cases increased by 117 to a total of 1126 and the death toll rose by 3 to a total of 19, while it has banned all gatherings involving over 1000 people. (Newswires)</p><p>New York Mayor De Blasio said the city could have 100 coronavirus cases within 2 or 3 weeks and there could be hundreds of positive cases in the city at some point. (Newswires)</p><p>US granted exclusions from import tariffs for more than 100 medical items imported from China, including face masks, examination gloves and sanitizing wipes and the White House is reportedly looking at tax deferral for airline, travel, and cruise industries impacted by coronavirus. In related news, the State Department issued a statement related to the increased risk of COVID-19 infection on a cruise ship environment in which it stated that older adults and travellers with underlying health issues should avoid situations that put them at increased risk for more severe disease. This entails avoiding crowded places, avoiding non-essential travel such as long plane trips, and especially avoiding embarking on cruise ships. (WSJ/Washington Post/Newswires)</p><p>&nbsp;</p><p><strong>ASIA-PAC</strong></p><p>China Global Times suggested the US may not be able to stick to the trade deal amid worsening coronavirus outbreak which experts stated may dampen US economic activities and impact the supply of products for export to China to meet commitments under the phase one deal. (Global Times)</p><ul><li>Chinese Trade Balance YTD (USD)(Feb) -7.09B vs. Exp. 24.6B (Prev. 47.21B). (Newswires)</li><li>Chinese Exports YTD (USD)(Feb) Y/Y -17.2% vs. Exp. -14.0% (Prev. 7.9%)</li><li>Chinese Imports YTD (USD)(Feb) Y/Y -4.0% vs. Exp. -15.0% (Prev. 16.5%)</li></ul><p>&nbsp;</p><p><strong>UK/EU</strong></p><p>UK Chancellor Sunak has promised “targeted” measures to assist businesses and workers “get through to the other side” of an economic downturn and warned of a shock that could be caused by a coronavirus epidemic, while he stated this week’s Budget would include plans to give firms additional time to pay tax if staff were unable to work and shoppers stopped spending money money in the normal way. (Telegraph)</p><p>EU is considering mobilising existing financial tools and EIB funding to assist Eurozone nations deal with the coronavirus, while it is also said to consider targeting measures on waivers on state aid rules to assist sectors impacted by the coronavirus although work on potential measures is still very preliminary. (Newswires)</p><p>Fitch affirmed European Stability Mechanism at AAA, while it affirmed Luxembourg at AAA; Outlook Stable and affirmed Ukraine at B; Outlook Stable. (Newswires)&nbsp;</p><p>&nbsp;</p><p><strong>COMMODITIES&nbsp;</strong></p><p>Baker Hughes US Rig Count (6th March): Oil +4 at 682, nat gas -1 at 109 and total +3 at 793. (Newswires)</p><p>Saudi Arabia launched an oil price war to punish Russia following the breakdown of the oil deal in which the kingdom is to raise crude output to more than 10mln bpd next month and will offer deep discounts. (FT)</p><p>OPEC+ meeting finished without an agreement being reached and have also failed to agree on a roll-over of the existing output cut agreement, while it issued a statement which did not make any reference to production cuts and noted oil producers will continue consultations to stabilise the oil market. (Newswires)</p><p>OPEC+ JTC meeting will reportedly be held on March 18th, according to sources. In related news, OPEC countries are reportedly showing a willingness to walk away from its alliance with Russia according to delegates, while a delegate also stated that the June meeting is unlikely. (Newswires)</p><p>OPEC sources confirmed that Russia rejected the proposal for additional oil cuts and Russian Energy Minister Novak there will be no restrictions on oil output from April 1st but they have not decided to increase their output, while he added that the format of the ministerial monitoring committee will remain in place although he cannot give a date for the next meeting date as they need to watch the virus and behaviour of other countries. Furthermore, Novak was said to support an extension of the current deal for one more quarter (until June) and believed that a long-term cut to production will not have a market impact. (Newswires)</p><p>Iranian Oil Minister said OPEC and OPEC+ agreement is reachable before April. (Newswires)</p><p>&nbsp;</p><p><strong>US&nbsp;</strong></p><p>Fed's Williams (Voter, Neutral) said he thinks the world of very low neutral rates is likely to stay with us. (Newswires)</p><p>Fed's Rosengren (Non-Voter, Hawk) said the Fed should be allowed to purchase a broader range of securities and assets if the COVID-19 outbreak forces the Fed to launch a new round of asset purchases. (Newswires)</p><p>Fed's George (Non-Voter, Hawk) said the longer-run costs of balance sheet policies have not been fully taken into account and large scale asset purchases have contributed to elevated asset valuations, while she added the Fed's large balance sheet could tempt fiscal authorities to view the Fed as a funding source for its spending programmes. (Newswires)</p><p>NEC Director Kudlow said the Fed did a good job with their rate cut and if there is huge global demand then the Fed should supply more dollars, while he is concerned with deflationary signals. Kudlow also stated that the Trump administration is considering immediate fiscal stimulus which would be separate from the tax cut plan that is being constructed ahead of the November election. (Newswires)</p><p>US President Trump replaced Mick Mulvaney with Rep. Mark Meadows as White House Chief of Staff. (Newswires)</p><ul><li>US Non-Farm Payrolls (Feb) 273k vs. Exp. 175.0k (Prev. 225.0k, Rev. 273k); 2-month net revisions +85k (Prev. +7k). (Newswires)</li><li>US Unemployment Rate (Feb) 3.5% vs. Exp. 3.6% (Prev. 3.6%)</li><li>US Average Earnings (Feb) Y/Y 3.0% vs. Exp. 3.0% (Prev. 3.1%)</li><li>US Wholesale Sales MM (Jan) M/M 1.6% (Prev. -0.7%, Rev. -0.2%)</li><li>US Wholesale Inventories (Jan) M/M -0.4% vs. Exp. -0.2% (Prev. -0.2%)</li></ul><p>&nbsp;</p><p><strong>MARKET RECAP</strong></p><p>Equity markets tumbled lower again to end the week, although enjoyed a late session ramp, while the VIX reached levels not seen since 2009. The market’s attention has now drifted to the energy complex’s decline on Friday as the OPEC meeting failed to bear fruit, in addition to another rally in the TPLEX, both reflective in the Energy and Financials sectors leading the losses. A blockbuster NFP report failed to draw attention as COVID-19 rides in the front seat. Desks note that the cascade lower in oil prices and Treasury yields brings a whole new bearish factor for equity investors to consider. The lower energy prices, post-OPEC failing to reach an agreement for additional cuts or even an extension, brings strain to companies in the sector, particularly to the debt-laden shale names in the US. As E&amp;P names struggle further, credit lines begin to deteriorate, raising the risks of defaults and for wider effects on the credit markets. Furthermore, with yields tumbling lower and lower, banks come increasingly strained to turn profits, raising the risk of a contraction of credit available to the economy (Fed cuts should theoretically ease these pressures), which could pose wider risks to supply chains, keeping investors cautious on equities; the lower energy prices aren’t providing any favours either as bond investors lower their inflation expectations. SPX -1.7% at 2972, NDX -1.63% at 8530, DJI -0.98% at 25,865.</p><p>The TPLEX bull-flattened intensely on Friday, bringing the 30-year yield to unseen territory – where it currently lies within the Fed’s target range, while the rest of the curve sits beneath it. No one “reason” supported the price movement, but desks note ongoing haven flows amid the virus from real money buyers, flows from convexity buyers, and chunky short-covering from leveraged accounts, in addition to an unwinding of market hedges. Furthermore, investors are likely piling into duration ahead of the weekend, where participants again dare expose themselves to risk in the face of COVID-19 and an expected rise in US cases. The sharp decline in energy prices served as the cherry on the cake as investors begin pricing in lower inflation expectations and question the stability of the global economy, increasing the allure of the sovereign bond market. By settlement, yields had fallen 9bps in the 2-year yield, 19.5bps in the 10-year yield and a jaw-dropping 33bps in the 30-year yield. US T-note futures (H0) settled 1 point &amp; 9 ticks higher at 138-01+.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-asia-pac-opening-news-saudi-arabia-launched-an-oil-price-war-following-breakdown-of-the-output-deal-chinese-trade-data-disappoints-08-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-09 05:40:00",
+        "gmt_time": "2020-03-08 21:40:00"
+    }
+]

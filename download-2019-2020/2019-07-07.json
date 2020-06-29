@@ -1,0 +1,512 @@
+[
+    {
+        "id": 876891,
+        "updated_sequence": 1886921,
+        "published_at": {
+            "unix": 1562543400,
+            "text": "2019-07-08 00:50:00 +0100",
+            "iso_8601": "2019-07-07T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1562543526,
+            "text": "2019-07-08 00:52:06 +0100",
+            "iso_8601": "2019-07-07T23:52:06Z"
+        },
+        "subject": "Japanese Trade Balance BOP Basis (JPY)(May) -650.9B vs. Exp. -758.9B (Prev. -98.2B)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-trade-balance-bop-basis-jpy-may-650-9b-vs-exp-758-9b-prev-98-2b-07-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-08 07:50:00",
+        "gmt_time": "2019-07-07 23:50:00"
+    },
+    {
+        "id": 876892,
+        "updated_sequence": 1886924,
+        "published_at": {
+            "unix": 1562543400,
+            "text": "2019-07-08 00:50:00 +0100",
+            "iso_8601": "2019-07-07T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1562543579,
+            "text": "2019-07-08 00:52:59 +0100",
+            "iso_8601": "2019-07-07T23:52:59Z"
+        },
+        "subject": "Japanese Adjusted Current Account Balance (JPY)(May) 1310B vs. Exp. 1240B (Prev. 1600.1B)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-adjusted-current-account-balance-jpy-may-1310b-vs-exp-1240b-prev-1600-1b-07-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-08 07:50:00",
+        "gmt_time": "2019-07-07 23:50:00"
+    },
+    {
+        "id": 876886,
+        "updated_sequence": 1886905,
+        "published_at": {
+            "unix": 1562542260,
+            "text": "2019-07-08 00:31:00 +0100",
+            "iso_8601": "2019-07-07T23:31:00Z"
+        },
+        "updated_at": {
+            "unix": 1562542842,
+            "text": "2019-07-08 00:40:42 +0100",
+            "iso_8601": "2019-07-07T23:40:42Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIAN, JAPANESE AND SOUTH KOREAN STOCK NEWS: GBST Holdings (GBT AT) received further bids",
+        "content": "<p>AUSTRALIA</p><p>Automotive Holdings (AHG AT) - Emergent Cold and Lindsay Australia are said to have expressed interest in its refrigerated logistics business. (Newswires)</p><p>Coca-Cola Amatil (CCL AT) - Co. is seeking to acquire Nudie Juice Brand from Monde Nissin and T2 tea business from Unilever (ULVR LN) which is expected to be for sale soon. (Newswires)</p><p>GBST Holdings (GBT AT) - Co. is said to be hoping that SS&amp;C will raise its offer and match FNZ’s offer after the latter increased its offer to AUD 3.65/Shr from AUD 3.50/Shr, while it also received a unsolicited non-binding indicative proposal from Kiwi Holdco Cayco. (Newswires)</p><p>NRW Holdings (NWH AT) - Co. reported a fatal incident at its Baralaba North coal mine in Bowen Basin in which an operator was killed and operations have been halted. (Newswires) &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p><p>Scentre Group (SCG AT) - Co. and JCDecaux (DEC FP) agreed to a 10yr deal on building and managing a new network of roadside advertising boards at Westfield shopping malls across Australia and New Zealand. (AFR)</p><p>&nbsp;</p><p>JAPAN</p><p>JXTG Holdings (5020 JT) - South32 (S32 AT) is said to be interested in Co.’s Caserones project. (Newswires)</p><p>Nintendo (7974 JT) - Co. Switch Online paid subscribers topped 10mln from 9.8mln in April. (Newswires)</p><p>Seven &amp; I Holdings (3382 JT) - Co.’s new mobile payment system was hacked just 2 days after its launch. (Nikkei)</p><p>Sumitomo Corp (8053 JT) - Co. partnered with others for a 10% stake in Vietnam port operator Gemadept. (Newswires)</p><p>GPIF - Japan’s government pension fund reported FY net return of 1.5%. (Newswires)</p><p>Other News - Japan is expected to brief South Korea regarding export restrictions. (Newswires)</p><p>&nbsp;</p><p>SOUTH KOREA</p><p>Asiana Airlines (020560 KS) - Co. creditors will announce sale notice this month. (Newswires)</p><p>Hyundai Motor (005380 KS) - Co. and Kia Motors (000270 KS) reported US sales rose 2.7% Y/Y during H1. (Yonhap)</p><p>LG Electronics (066570 KS) - Co. Q2 oper. profit KRW 652.2bln vs. Exp. KRW 774.4bln, rev. KRW 15.6tln vs. Exp. KRW 15.7tln. (Newswires)</p><p>Samsung Electronics (005930 KS) - Co. VP travelled to Japan to meet with local business leaders and discuss Korea’s response to Japan’s export restrictions. (Newswires)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-australian-japanese-and-south-korean-stock-news-gbst-holdings-gbt-at-received-further-bids-07-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-08 07:31:00",
+        "gmt_time": "2019-07-07 23:31:00"
+    },
+    {
+        "id": 876885,
+        "updated_sequence": 1886898,
+        "published_at": {
+            "unix": 1562541780,
+            "text": "2019-07-08 00:23:00 +0100",
+            "iso_8601": "2019-07-07T23:23:00Z"
+        },
+        "updated_at": {
+            "unix": 1562541899,
+            "text": "2019-07-08 00:24:59 +0100",
+            "iso_8601": "2019-07-07T23:24:59Z"
+        },
+        "subject": "China think tank director says economic decoupling of US and China could be seen as strategic blackmail for the US to attempt to prevent China from growing stronger and sees decoupling as completely possible",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "SCMP",
+        "slug": "china-think-tank-director-says-economic-decoupling-of-us-and-china-could-be-seen-as-strategic-blackmail-for-the-us-to-attempt-to-prevent-china-from-growing-stronger-and-sees-decoupling-as-completely-possible-07-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-08 07:23:00",
+        "gmt_time": "2019-07-07 23:23:00"
+    },
+    {
+        "id": 876884,
+        "updated_sequence": 1886895,
+        "published_at": {
+            "unix": 1562541660,
+            "text": "2019-07-08 00:21:00 +0100",
+            "iso_8601": "2019-07-07T23:21:00Z"
+        },
+        "updated_at": {
+            "unix": 1562541762,
+            "text": "2019-07-08 00:22:42 +0100",
+            "iso_8601": "2019-07-07T23:22:42Z"
+        },
+        "subject": "Google (GOOG) and Dish Network (DISH) are in discussions regarding creating a 4th US wireless carrier",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "google-goog-and-dish-network-dish-are-in-discussions-regarding-creating-a-4th-us-wireless-carrier-07-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-08 07:21:00",
+        "gmt_time": "2019-07-07 23:21:00"
+    },
+    {
+        "id": 876883,
+        "updated_sequence": 1886892,
+        "published_at": {
+            "unix": 1562540460,
+            "text": "2019-07-08 00:01:00 +0100",
+            "iso_8601": "2019-07-07T23:01:00Z"
+        },
+        "updated_at": {
+            "unix": 1562540579,
+            "text": "2019-07-08 00:02:59 +0100",
+            "iso_8601": "2019-07-07T23:02:59Z"
+        },
+        "subject": "Ireland Consumer Confidence (Jun) 90.7 (Prev. 89.9)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "ireland-consumer-confidence-jun-90-7-prev-89-9-07-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 6,
+            "name": "EU Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-08 07:01:00",
+        "gmt_time": "2019-07-07 23:01:00"
+    },
+    {
+        "id": 876882,
+        "updated_sequence": 1886889,
+        "published_at": {
+            "unix": 1562540340,
+            "text": "2019-07-07 23:59:00 +0100",
+            "iso_8601": "2019-07-07T22:59:00Z"
+        },
+        "updated_at": {
+            "unix": 1562540431,
+            "text": "2019-07-08 00:00:31 +0100",
+            "iso_8601": "2019-07-07T23:00:31Z"
+        },
+        "subject": "Venezuela's Maduro government will meet with the opposition government in Norway for moderated talks",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "venezuela-s-maduro-government-will-meet-with-the-opposition-government-in-norway-for-moderated-talks-07-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-08 06:59:00",
+        "gmt_time": "2019-07-07 22:59:00"
+    },
+    {
+        "id": 876881,
+        "updated_sequence": 1887006,
+        "published_at": {
+            "unix": 1562539740,
+            "text": "2019-07-07 23:49:00 +0100",
+            "iso_8601": "2019-07-07T22:49:00Z"
+        },
+        "updated_at": {
+            "unix": 1562557806,
+            "text": "2019-07-08 04:50:06 +0100",
+            "iso_8601": "2019-07-08T03:50:06Z"
+        },
+        "subject": "Reports note that  a YouGov poll over the weekend showed UK PM candidate Boris Johnson with 74% of support vs. 26% for Jeremy Hunt, while Home Secretary Javid also backs Johnson as he is better placed to deliver what we need to do at this critical time",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "reports-note-that-a-yougov-poll-over-the-weekend-showed-uk-pm-candidate-boris-johnson-with-74-of-support-vs-26-for-jeremy-hunt-while-home-secretary-javid-also-backs-johnson-as-he-is-better-placed-to-deliver-what-we-need-to-do-at-this-cr-07-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 38,
+            "name": "Brexit"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-08 06:49:00",
+        "gmt_time": "2019-07-07 22:49:00"
+    },
+    {
+        "id": 876880,
+        "updated_sequence": 1886883,
+        "published_at": {
+            "unix": 1562537400,
+            "text": "2019-07-07 23:10:00 +0100",
+            "iso_8601": "2019-07-07T22:10:00Z"
+        },
+        "updated_at": {
+            "unix": 1562537456,
+            "text": "2019-07-07 23:10:56 +0100",
+            "iso_8601": "2019-07-07T22:10:56Z"
+        },
+        "subject": "Deutsche Bank (DBK GY) cuts 18000 jobs as part of USD 8.3bln overhaul",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "deutsche-bank-dbk-gy-cuts-18000-jobs-as-part-of-usd-8-3bln-overhaul-07-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 1,
+            "name": "DAX"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-08 06:10:00",
+        "gmt_time": "2019-07-07 22:10:00"
+    },
+    {
+        "id": 876879,
+        "updated_sequence": 1886878,
+        "published_at": {
+            "unix": 1562536860,
+            "text": "2019-07-07 23:01:00 +0100",
+            "iso_8601": "2019-07-07T22:01:00Z"
+        },
+        "updated_at": {
+            "unix": 1562536999,
+            "text": "2019-07-07 23:03:19 +0100",
+            "iso_8601": "2019-07-07T22:03:19Z"
+        },
+        "subject": "ECB's Villeroy says if and when needed, there must be no doubt about our determination and capacity to act, adds we look at markets but are data dependent and we cannot make miracles; it is up to political leaders to reduce uncertainty",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "ecb-s-villeroy-says-if-and-when-needed-there-must-be-no-doubt-about-our-determination-and-capacity-to-act-adds-we-look-at-markets-but-are-data-dependent-and-we-cannot-make-miracles-it-is-up-to-political-leaders-to-reduce-uncertainty-07-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 17,
+            "name": "ECB"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-08 06:01:00",
+        "gmt_time": "2019-07-07 22:01:00"
+    },
+    {
+        "id": 876878,
+        "updated_sequence": 1886871,
+        "published_at": {
+            "unix": 1562535600,
+            "text": "2019-07-07 22:40:00 +0100",
+            "iso_8601": "2019-07-07T21:40:00Z"
+        },
+        "updated_at": {
+            "unix": 1562535700,
+            "text": "2019-07-07 22:41:40 +0100",
+            "iso_8601": "2019-07-07T21:41:40Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASES CALENDAR NOW AVAILABLE IN THE RESEARCH SECTION: Highlights include Japanese Current Account and Machine Orders",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asian-daily-economic-releases-calendar-now-available-in-the-research-section-highlights-include-japanese-current-account-and-machine-orders-07-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-08 05:40:00",
+        "gmt_time": "2019-07-07 21:40:00"
+    },
+    {
+        "id": 876877,
+        "updated_sequence": 1886868,
+        "published_at": {
+            "unix": 1562535240,
+            "text": "2019-07-07 22:34:00 +0100",
+            "iso_8601": "2019-07-07T21:34:00Z"
+        },
+        "updated_at": {
+            "unix": 1562535399,
+            "text": "2019-07-07 22:36:39 +0100",
+            "iso_8601": "2019-07-07T21:36:39Z"
+        },
+        "subject": "Iran Oil Minister Zanganeh says hopeful that crude oil exports will improve, adds the price of oil is not Iran's main concern and that what matters is the amount we can export",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "State TV",
+        "slug": "iran-oil-minister-zanganeh-says-hopeful-that-crude-oil-exports-will-improve-adds-the-price-of-oil-is-not-iran-s-main-concern-and-that-what-matters-is-the-amount-we-can-export-07-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 20,
+            "name": "Commodities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-08 05:34:00",
+        "gmt_time": "2019-07-07 21:34:00"
+    },
+    {
+        "id": 876876,
+        "updated_sequence": 1886865,
+        "published_at": {
+            "unix": 1562535180,
+            "text": "2019-07-07 22:33:00 +0100",
+            "iso_8601": "2019-07-07T21:33:00Z"
+        },
+        "updated_at": {
+            "unix": 1562535285,
+            "text": "2019-07-07 22:34:45 +0100",
+            "iso_8601": "2019-07-07T21:34:45Z"
+        },
+        "subject": "African Continental Free Trade Agreement has been created",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "african-continental-free-trade-agreement-has-been-created-07-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-08 05:33:00",
+        "gmt_time": "2019-07-07 21:33:00"
+    },
+    {
+        "id": 876875,
+        "updated_sequence": 1886880,
+        "published_at": {
+            "unix": 1562535000,
+            "text": "2019-07-07 22:30:00 +0100",
+            "iso_8601": "2019-07-07T21:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1562537056,
+            "text": "2019-07-07 23:04:16 +0100",
+            "iso_8601": "2019-07-07T22:04:16Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p><strong>ASIA-PAC</strong></p><p>US NEC Director Kudlow said US and China are talking on the phone but face-to-face meetings are still on the table and that there is no timeline on a trade deal with China. (Newswires)</p><p>White House Trade Advisor Navarro said the China trade deal will take time and also reiterated call for the Fed to cut rates. (CNN)</p><p>China Global Times Editor tweeted that a reliable source told him that Pentagon's claim of 'Chinese missile launch from the man-made structures in the South China Sea' is misleading information and that some details were created intended to sow discord among regional countries. (Twitter)</p><p>SCMP columnist suggested to ignore the hype and that US President Trump and Chinese President Xi are no closer to an agreement. (SCMP)&nbsp;</p><p>&nbsp;</p><p><strong>UK/EU</strong></p><p>Britain could reportedly be facing a EUR 200bln EU bail-out bill unless it manages a clean Brexit, according to a group which represents numerous pre-Brexit campaigning organisations. (Telegraph)</p><p>BoE Governor Carney said it matters how a no deal Brexit would be managed and that it is always better to have a period of transition for major change, while he added that the BoE has tools to adjust policy in either direction if needed. (The Economist)</p><p>Greece’s centre-right New Democracy party won a landslide victory over incumbent Syriza party, which led to outgoing PM Tsipras to concede defeat to New Democracy leader Kyriakos Mitsotakis. (Guardian)</p><p>EU officials are reportedly considering BoE Governor Carney for the IMF Managing Director role. (Newswires)</p><p>&nbsp;</p><p><strong>FX</strong></p><p>Turkey Central Bank Governor Cetinkaya was removed from position and replaced by Deputy Governor Uysal in which President Erdogan cited a refusal to cut rates as the reason behind the dismissal. (Newswires)</p><ul><li>Canadian Employment Change (Jun) -2.2k vs. Exp. 10.0k (Prev. 27.7k). (Newswires)</li><li>Canadian Unemployment Rate (Jun) 5.5% vs. Exp. 5.5% (Prev. 5.4%)</li></ul><p>&nbsp;</p><p><strong>COMMODITIES</strong></p><p>Saudi Arabia produced 9.782mln BPD in June vs. 9.67mln BPD in May, according to sources. (Newswires)</p><p>&nbsp;</p><p><strong>GEOPOLITICS</strong></p><p>US President Trump said Iran better be careful and that it is doing a lot of bad things, while he added that Iran will never have a nuclear weapon. (Newswires)</p><p>US requested an emergency IAEA meeting over Iran. (Newswires)</p><p>Iran was reportedly to lift uranium enrichment to over 3.67% on Sunday, while an Iranian official confirmed they will scale back commitment to the 2015 nuclear deal and will keep reducing its commitments every 60 days unless signatories move to protect it from US sanctions and signal room for diplomacy. (Newswires/FARS)</p><p>&nbsp;</p><p><strong>US</strong></p><p>US President Trump suggested that the Fed does not have a clue and that the most difficult problem for the US is the Fed and not the nation’s competitors, while he separately commented that the Fed would lower rates if it knew what it was doing. Furthermore, Trump said that China is devaluing its currency and that the UK Ambassador to the US has not served the UK well. (Newswires)&nbsp;</p><p>Fed Monetary Policy Report repeated that it will act as appropriate to sustain the expansion and that soft inflation readings appear to reflect transitory influences. The report stated that data suggests a moderation in Q2 GDP due to weak business investment, which appears to have decelerated sharply in 2019, and a slowdown in global trade flows. Furthermore, it added US and global tariffs have been material to the slowdown in international trade and that asset valuation remains \"somewhat elevated”. (Newswires)</p><p>Fed Board nominee Shelton said the jobs report shows Trump agenda is working, while she added that she does not want the Fed to 'pull the rug' from under the market and that markets are not wrong in questioning the yield curve. Furthermore, Shelton echoed Trump comments on ECB looking to devalue the EUR and suggested that competitive devaluation is cheating not competing. (Newswires)</p><ul><li>US Non-Farm Payrolls (Jun) 224k vs. Exp. 160.0k (Prev. 75.0k, Rev. 72k); 2-month net revisions -11k (Prev. -75k)</li><li>US Unemployment Rate (Jun) 3.7% vs. Exp. 3.6% (Prev. 3.6%)</li><li>US Average Earnings (Jun) Y/Y 3.1% vs. Exp. 3.2% (Prev. 3.1%)</li></ul><p>&nbsp;</p><p><strong>MARKET RECAP</strong></p><p>Following the rise in rates on the back of the strong payrolls report, financials were the only sector which traded comfortably in the green for most of the session; on the flip side, capital intensive sectors such as utilities, industrials, and materials were lagers. Electronic Arts (EA) was an underperformer amid participants citing ongoing concerns for its once-praised video game Apex Legends. Semiconductors were under pressure throughout the day following Samsung posting guidance for a slowdown in Q2 as trade wars seep through to its business. The stronger dollar saw gold prices tumbling, which fed through to the miners such as Newmont (NEM), Barrick Gold (GOLD), and Kirkland Lake (KL). A slide in Chinese iron ore prices saw a dip in Freeport-McMoRan (FCX) and Nucor (NUE). SPX -0.2% at 2991, NDX -0.2% at 7841, DJI -0.2% at 26923,</p><p>US yields rose sharply after the June employment situation report surprised to the upside, and the internals of the report also provided encouragement that the labour market is in decent shape. Bear-flattening was the play after the data, and there was a significant paring back in the implied probabilities of a 50bps rate cut at the Fed’s July meeting – the probability has now fallen to just 0.5% from around 27% before the data, though the market is still completely priced for a 25bps cut; money markets now price 60bps of easing through the end of the year, compared to 75bps at the close of business on Thursday. Interestingly, Treasuries only marginally recovered from lows, despite equities paring back the NFP-induced slide. US T-note futures (U9) settled 25 ticks lower at 127-15.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-asia-pac-opening-news-07-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-08 05:30:00",
+        "gmt_time": "2019-07-07 21:30:00"
+    },
+    {
+        "id": 876724,
+        "updated_sequence": 1886856,
+        "published_at": {
+            "unix": 1562533200,
+            "text": "2019-07-07 22:00:00 +0100",
+            "iso_8601": "2019-07-07T21:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1562533200,
+            "text": "2019-07-07 22:00:00 +0100",
+            "iso_8601": "2019-07-07T21:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-04-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-08 05:00:00",
+        "gmt_time": "2019-07-07 21:00:00"
+    }
+]

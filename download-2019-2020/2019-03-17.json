@@ -1,0 +1,308 @@
+[
+    {
+        "id": 860131,
+        "updated_sequence": 1814554,
+        "published_at": {
+            "unix": 1552866600,
+            "text": "2019-03-17 23:50:00 +0000",
+            "iso_8601": "2019-03-17T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1552866742,
+            "text": "2019-03-17 23:52:22 +0000",
+            "iso_8601": "2019-03-17T23:52:22Z"
+        },
+        "subject": "Japanese Adj. Trade Balance Total Yen Feb 116.1B vs. Exp. 80.6B (Prev. -370.0B)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-adj-trade-balance-total-yen-feb-116-1b-vs-exp-80-6b-prev-370-0b-17-03-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-03-18 07:50:00",
+        "gmt_time": "2019-03-17 23:50:00"
+    },
+    {
+        "id": 860127,
+        "updated_sequence": 1814542,
+        "published_at": {
+            "unix": 1552865820,
+            "text": "2019-03-17 23:37:00 +0000",
+            "iso_8601": "2019-03-17T23:37:00Z"
+        },
+        "updated_at": {
+            "unix": 1552865924,
+            "text": "2019-03-17 23:38:44 +0000",
+            "iso_8601": "2019-03-17T23:38:44Z"
+        },
+        "subject": "PRE-MARKET JAPANESE AND SOUTH KOREAN STOCK NEWS: Takeda (4502 JT) plans to sell its Tachosil business valued about USD 500mln",
+        "content": "<p>JAPAN</p><p>Daihatsu Motor (7262 JT) - Co. Daihatsu Kyushu is expected to resume most operations today following a fire. (Newswires) J Front Retailing (3086 JT) - Co. Feb. department store sales rose 2% Y/Y. (Newswires)</p><p>Nissan (7201 JT) - Co. is considering scrapping Chairman Position. (Newswires)</p><p>Takeda (4502 JT) - Co. plans to sell its Tachosil business valued about USD 500mln. (Newswires)</p><p>Toyota (7203 JT) - Co. is to invest USD 749mln in 5 US plants to raise capacity and add hybrid SUV lines. (Newswires)</p><p>&nbsp;</p><p>SOUTH KOREA</p><p>Hyundai Motor (005380 KS) - Investor Elliot Management said the Co. needs to improve corporate governance. (Newswires) - Five overseas pension funds expressed support for Co.'s plans for payments of dividends at next week's shareholders meeting. (Yonhap)</p><p>Other News - South Korea Coast Guard seized a Chinese fishing boat for not complying with a stop order and suspected illegal fishing. (Yonhap)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-japanese-and-south-korean-stock-news-takeda-4502-jt-plans-to-sell-its-tachosil-business-valued-about-usd-500mln-17-03-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-03-18 07:37:00",
+        "gmt_time": "2019-03-17 23:37:00"
+    },
+    {
+        "id": 860126,
+        "updated_sequence": 1814537,
+        "published_at": {
+            "unix": 1552864440,
+            "text": "2019-03-17 23:14:00 +0000",
+            "iso_8601": "2019-03-17T23:14:00Z"
+        },
+        "updated_at": {
+            "unix": 1552864581,
+            "text": "2019-03-17 23:16:21 +0000",
+            "iso_8601": "2019-03-17T23:16:21Z"
+        },
+        "subject": "China issued specific rules regarding tax exemptions which seek to reduce the amount of individual income tax paid on incomes from abroad",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "china-issued-specific-rules-regarding-tax-exemptions-which-seek-to-reduce-the-amount-of-individual-income-tax-paid-on-incomes-from-abroad-17-03-2019",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-03-18 07:14:00",
+        "gmt_time": "2019-03-17 23:14:00"
+    },
+    {
+        "id": 860125,
+        "updated_sequence": 1814534,
+        "published_at": {
+            "unix": 1552864080,
+            "text": "2019-03-17 23:08:00 +0000",
+            "iso_8601": "2019-03-17T23:08:00Z"
+        },
+        "updated_at": {
+            "unix": 1552864191,
+            "text": "2019-03-17 23:09:51 +0000",
+            "iso_8601": "2019-03-17T23:09:51Z"
+        },
+        "subject": "McMillan (MMS AT) will consider position regarding proposed acquisition of Eclipx (ECX AT) following trading update",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "mcmillan-mms-at-will-consider-position-regarding-proposed-acquisition-of-eclipx-ecx-at-following-trading-update-17-03-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-03-18 07:08:00",
+        "gmt_time": "2019-03-17 23:08:00"
+    },
+    {
+        "id": 860124,
+        "updated_sequence": 1814531,
+        "published_at": {
+            "unix": 1552863660,
+            "text": "2019-03-17 23:01:00 +0000",
+            "iso_8601": "2019-03-17T23:01:00Z"
+        },
+        "updated_at": {
+            "unix": 1552863771,
+            "text": "2019-03-17 23:02:51 +0000",
+            "iso_8601": "2019-03-17T23:02:51Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASES CALENDAR NOW AVAILABLE IN THE RESEARCH SECTION: Highlights include Japanese Trade Balance, Exports, Imports and Industrial Production",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asian-daily-economic-releases-calendar-now-available-in-the-research-section-highlights-include-japanese-trade-balance-exports-imports-and-industrial-production-17-03-2019",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-03-18 07:01:00",
+        "gmt_time": "2019-03-17 23:01:00"
+    },
+    {
+        "id": 860123,
+        "updated_sequence": 1814528,
+        "published_at": {
+            "unix": 1552862940,
+            "text": "2019-03-17 22:49:00 +0000",
+            "iso_8601": "2019-03-17T22:49:00Z"
+        },
+        "updated_at": {
+            "unix": 1552863193,
+            "text": "2019-03-17 22:53:13 +0000",
+            "iso_8601": "2019-03-17T22:53:13Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIAN STOCK NEWS: CIMIC Group (CIM AT) Thiess unit receives AUD 1.7bln contract in Botswana",
+        "content": "<p>CIMIC Group (CIM AT) - Co. Thiess unit receives AUD 1.7bln contract in Botswana. (Newswires)</p><p>Commonwealth Bank of Australia (CBA AT) - Co. settled R&amp;D tax dispute with the ATO although no material impact is expected. (Newswires)</p><p>Fortescue Metals (FMG AT) - Co. gets environmental approval for iron ore project in Western Australia. (AFR)</p><p>Healthscope (HSO AT) - BGH Capital is said to have stopped work on Healthscope deal citing the price. (AFR)</p><p>IOOF Holdings (IFL AT) - Co. faces class action regarding failure to inform shareholders regarding fallout with APRA regarding alleged breach of superannuation laws. (Newswires)</p><p>Range Resources (RRS AT) - Co. seeks trading halt pending announcement related to debt restructuring and material acquisition. (Newswires)</p><p>Vocus Communications (VOC AT) - Co. is speculated to be considering a capital increase and/or acquisition. However, reports also noted that an acquisition was seen as less likely, while the Co. also stated it has no current intention to raise equity. (Newswires)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-australian-stock-news-cimic-group-cim-at-thiess-unit-receives-aud-1-7bln-contract-in-botswana-17-03-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-03-18 06:49:00",
+        "gmt_time": "2019-03-17 22:49:00"
+    },
+    {
+        "id": 860122,
+        "updated_sequence": 1814515,
+        "published_at": {
+            "unix": 1552860780,
+            "text": "2019-03-17 22:13:00 +0000",
+            "iso_8601": "2019-03-17T22:13:00Z"
+        },
+        "updated_at": {
+            "unix": 1552860888,
+            "text": "2019-03-17 22:14:48 +0000",
+            "iso_8601": "2019-03-17T22:14:48Z"
+        },
+        "subject": "Former UK Foreign Minister Johnson calls for a delay in the 3rd Brexit vote and says it is not too late to get a real change regarding backstop",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "former-uk-foreign-minister-johnson-calls-for-a-delay-in-the-3rd-brexit-vote-and-says-it-is-not-too-late-to-get-a-real-change-regarding-backstop-17-03-2019",
+        "hidden": false,
+        "section": {
+            "id": 38,
+            "name": "Brexit"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-03-18 06:13:00",
+        "gmt_time": "2019-03-17 22:13:00"
+    },
+    {
+        "id": 860121,
+        "updated_sequence": 1814523,
+        "published_at": {
+            "unix": 1552860600,
+            "text": "2019-03-17 22:10:00 +0000",
+            "iso_8601": "2019-03-17T22:10:00Z"
+        },
+        "updated_at": {
+            "unix": 1552862398,
+            "text": "2019-03-17 22:39:58 +0000",
+            "iso_8601": "2019-03-17T22:39:58Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p>ASIA-PAC</p><p>A summit between US President Donald Trump and Chinese counterpart Xi Jinping could be delayed to June according to sources who noted they will not be able to finalise an agreement by April. In related news, a source reportedly suggested that there was a divergence within the Trump administration regarding the deal with China. (SCMP/Twitter)</p><p>New Zealand Performance of Services (Feb) 53.8 (Prev. 56.3). (Newswires)</p><p>UK/EU</p><p>UK PM May warned that if MPs fail to back her Brexit deal at the third time of asking then Brussels might insist on a lengthy delay, potentially scuppering chances of leaving the European Union altogether. (The Guardian)</p><p>EU ambassadors have reportedly been told that there is nothing in Article 50 to prevent multiple extensions but if UK has not held European elections by 23 May, it will not be able to extend again beyond 1 July. Furthermore, it was also reported that the European Council cannot attach conditions to an extension of Article 50 according to Guardian’s Daniel Boffey. (Newswires/Twitter)</p><p>UK Brexit Minister Steve Barclay may resign in the approaching week if the deal doesn't pass at a third meaningful vote and PM May applies for a longer delay, according to The Sun's Tom Newton Dunn. (Twitter/The Sun)</p><p>DUP Deputy Leader Dodds commented on Friday that progress has been made but was not sufficient. Furthermore, there were separate reports over the weekend that the DUP is said to want a seat in trade negotiations with the EU in exchange for supporting PM May and that Senior DUP figures said that they held constructive Brexit talks with ministers, while sources close to the DUP also said that the regulatory alignment offer may have won over the DUP. (Newswires/Telegraph/Times)</p><p>S&amp;P raised Portugal sovereign rating from BBB- to BBB; Outlook Stable. (Newswires)</p><p>COMMODITIES</p><p>Baker Hughes Rig Count (15 Mar): total rigs -1 at 1026, oil rigs -1 at 833, gas rigs unchanged at 193. (Newswires)</p><p>Saudi’s February production stood at 10.09mln BPD vs. 10.24mln BPD in January, according to sources. (Newswires)</p><p>Russian Energy Minister Novak said that Russia has begun lowering oil output as part of the OPEC+ agreement. (Newswires)</p><p>IEA Monthly Report stated that forecast of global oil demand growth for 2019 at 1.4mln BPD has been supported by strong non-OECD consumption, while it noted that OPEC crude oil production in February dropped by 240k BPD, to 30.68mln BPD and that Global oil production fell by 340 K BPD in February as OPEC+ cuts deepened. (Newswires)</p><p>US Special Representative for Venezuela Abrams sees Venezuelan oil production beneath 1mln BPD in a \"month or two\". (Newswires)</p><p>GEOPOLITICS</p><p>US Treasury sanctioned six Russian individuals and eight entities concerning Ukraine. (Newswires)</p><p>Russian President Putin stated that Japan-Russia peace treaty talks need a short rest if Japan is unwilling to exit security cooperation pact with US concerning disputed islands. (Newswires)&nbsp;</p><p>US</p><p>US President Trump said he will veto Senate resolution to cancel his national emergency declaration over the border wall. (Newswires)</p><p>US Department of Commerce initiated anti-dumping duty and countervailing duty probes on imports of carbon and alloy steel threaded rod from China, India, Taiwan and Thailand. (Newswires)</p><p>US Industrial Production (Feb) M/M 0.1% vs. Exp. 0.4% (Prev. -0.6%, Rev. -0.4%) US Manufacturing Output (Feb) M/M -0.4% vs. Exp. 0.3% (Prev. -0.9%, Rev. -0.5%) US NY Fed Manufacturing (Mar) 3.7 vs. Exp. 10.0 (Prev. 8.8)</p><p>MARKET RECAP</p><p>Adobe (ADBE) dipped lower on Friday, despite beating top and bottom line estimates, after lowering next quarter’s guidance. Oracle (ORCL) nosedived on the open following some pessimistic guidance, but soon reversed the losses. Facebook (FB) was an underperformer on a long-time executive departure. Ulta Beauty (ULTA) and Broadcom (AVGO) both surged following strong earnings reports. Amazon (AMZN) opened higher after an upgrade at Keybanc, citing increased profitability. Zillow Group (ZG) suffered from a downgrade at Barclays, saying “the worst is yet to come”. Newell Brands (NWL) opened higher following the announcement of its CEO of 10 years retiring, with Wells Fargo analysts commenting bullishly/savagely, “It’s hard to see how things can get any worse.” Apple (AAPL) supported indices to end the week, where a court ruling ordered Qualcomm (QCOM) to pay Apple USD 1bln in rebate fines; Apple also went publicly on the offensive saying that Spotify (SPOT) “wants everything for free” after the music streaming service filed a lawsuit against it. SPX +0.49% at 2822, NDX +0.9% at 7307, DJI +0.6% at 25848.</p><p>Treasuries caught a bid on Friday, in a session influenced by both flows and macro themes, where against the grain, equities made healthy gains. The T-plex gained momentum going into the US equity open, with CTA short covering and real money and hedge fund buying kickstarting the rally, also supported by a gloomy outlook from the BoJ on top of North Korea woes, and was exacerbated by the both disappointing Empire Manufacturing survey and Manufacturing/IP data. Once equities opened in the green, Treasuries lost their tailwind as traders took their profits. The curve flattened going into settlement with the belly’s yields falling the most, where the 2s/10s flattened by 2bps. However, spreads in the belly to long-end still remain at their steepest levels in months. US T-note futures (M9) settled 8+ ticks at higher 122-31.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-asia-pac-opening-news-17-03-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-03-18 06:10:00",
+        "gmt_time": "2019-03-17 22:10:00"
+    },
+    {
+        "id": 859916,
+        "updated_sequence": 1814504,
+        "published_at": {
+            "unix": 1552860000,
+            "text": "2019-03-17 22:00:00 +0000",
+            "iso_8601": "2019-03-17T22:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1552860000,
+            "text": "2019-03-17 22:00:00 +0000",
+            "iso_8601": "2019-03-17T22:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-14-03-2019",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-03-18 06:00:00",
+        "gmt_time": "2019-03-17 22:00:00"
+    }
+]

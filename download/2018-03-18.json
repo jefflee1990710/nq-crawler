@@ -1,0 +1,614 @@
+[
+    {
+        "id": 613674,
+        "updated_sequence": 794117,
+        "published_at": {
+            "unix": 1521417000,
+            "text": "2018-03-18 23:50:00 +0000",
+            "iso_8601": "2018-03-18T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1521417077,
+            "text": "2018-03-18 23:51:17 +0000",
+            "iso_8601": "2018-03-18T23:51:17Z"
+        },
+        "subject": "Japanese Adjusted Trade Balance (JPY)(Feb) -201.5B vs. Exp. -91B (Prev. 373.3B)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-adjusted-trade-balance-jpy-feb-201-5b-vs-exp-91b-prev-373-3b-18-03-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-03-19 07:50:00",
+        "gmt_time": "2018-03-18 23:50:00"
+    },
+    {
+        "id": 613677,
+        "updated_sequence": 794135,
+        "published_at": {
+            "unix": 1521417000,
+            "text": "2018-03-18 23:50:00 +0000",
+            "iso_8601": "2018-03-18T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1521417640,
+            "text": "2018-03-19 00:00:40 +0000",
+            "iso_8601": "2018-03-19T00:00:40Z"
+        },
+        "subject": "BoJ Summary of Opinions for March 8th-9th meeting states that it is appropriate to pursue powerful monetary easing with persistence under the current guideline ",
+        "content": "<p>Says:<br />- With&nbsp;inflation rate increasing towards target&nbsp;and the potential growth rate rising going forward, the effects of monetary easing measures will be enhanced.<br />- If there is a heightened risk that achieving the price stability target will be delayed, additional monetary easing will be needed; however, fiscal policy is also required as there is not ample room for further monetary easing,&nbsp;<br />- Prolonged&nbsp;JPY appreciation and stock&nbsp;declines could restrain capex and consumption.</p>\r\n\r\n<p>Full link:&nbsp;<a href=\"https://www.boj.or.jp/en/mopo/mpmsche_minu/opinion_2018/opi180309.pdf\">https://www.boj.or.jp/en/mopo/mpmsche_minu/opinion_2018/opi180309.pdf</a></p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "boj-summary-of-opinions-for-march-8th-9th-meeting-states-that-it-is-appropriate-to-pursue-powerful-monetary-easing-with-persistence-under-the-current-guideline-18-03-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-03-19 07:50:00",
+        "gmt_time": "2018-03-18 23:50:00"
+    },
+    {
+        "id": 613676,
+        "updated_sequence": 794123,
+        "published_at": {
+            "unix": 1521417000,
+            "text": "2018-03-18 23:50:00 +0000",
+            "iso_8601": "2018-03-18T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1521417104,
+            "text": "2018-03-18 23:51:44 +0000",
+            "iso_8601": "2018-03-18T23:51:44Z"
+        },
+        "subject": "Japanese Imports (Feb) Y/Y 16.5% vs. Exp. 16.0% (Prev. 7.9%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-imports-feb-y-y-16-5-vs-exp-16-0-prev-7-9-18-03-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-03-19 07:50:00",
+        "gmt_time": "2018-03-18 23:50:00"
+    },
+    {
+        "id": 613675,
+        "updated_sequence": 794120,
+        "published_at": {
+            "unix": 1521417000,
+            "text": "2018-03-18 23:50:00 +0000",
+            "iso_8601": "2018-03-18T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1521417090,
+            "text": "2018-03-18 23:51:30 +0000",
+            "iso_8601": "2018-03-18T23:51:30Z"
+        },
+        "subject": "Japanese Exports (Feb) Y/Y 1.8% vs. Exp. 1.4% (Prev. 12.3%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-exports-feb-y-y-1-8-vs-exp-1-4-prev-12-3-18-03-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-03-19 07:50:00",
+        "gmt_time": "2018-03-18 23:50:00"
+    },
+    {
+        "id": 613673,
+        "updated_sequence": 794114,
+        "published_at": {
+            "unix": 1521417000,
+            "text": "2018-03-18 23:50:00 +0000",
+            "iso_8601": "2018-03-18T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1521417063,
+            "text": "2018-03-18 23:51:03 +0000",
+            "iso_8601": "2018-03-18T23:51:03Z"
+        },
+        "subject": "Japanese Trade Balance (JPY)(Feb) 3.4B vs. Exp. 89B (Prev. -944B)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-trade-balance-jpy-feb-3-4b-vs-exp-89b-prev-944b-18-03-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-03-19 07:50:00",
+        "gmt_time": "2018-03-18 23:50:00"
+    },
+    {
+        "id": 613672,
+        "updated_sequence": 794111,
+        "published_at": {
+            "unix": 1521416400,
+            "text": "2018-03-18 23:40:00 +0000",
+            "iso_8601": "2018-03-18T23:40:00Z"
+        },
+        "updated_at": {
+            "unix": 1521416460,
+            "text": "2018-03-18 23:41:00 +0000",
+            "iso_8601": "2018-03-18T23:41:00Z"
+        },
+        "subject": "BoJ Summary of Opinions from March 8th-9th meeting due in 10 mins",
+        "content": "<p>The BoJ are to release the Summary of Opinions from the March meeting, where the central bank kept monetary policy unchanged as expected, with NIRP held at -0.10% and the 10yr yield target maintained at around 0%.</p>\r\n\r\n<p>The policy decision on YCC was made by 8-1 vote with board member Kataoka the dissenter again, in which he reiterated that the BoJ should buy JGBs so yields on 10yr or longer drop further and that the BoJ should clarify it will ease further if domestic factors delay reaching price target.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "boj-summary-of-opinions-from-march-8th-9th-meeting-due-in-10-mins-18-03-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-03-19 07:40:00",
+        "gmt_time": "2018-03-18 23:40:00"
+    },
+    {
+        "id": 613671,
+        "updated_sequence": 794108,
+        "published_at": {
+            "unix": 1521415920,
+            "text": "2018-03-18 23:32:00 +0000",
+            "iso_8601": "2018-03-18T23:32:00Z"
+        },
+        "updated_at": {
+            "unix": 1521416203,
+            "text": "2018-03-18 23:36:43 +0000",
+            "iso_8601": "2018-03-18T23:36:43Z"
+        },
+        "subject": "PRE-MARKET JAPANESE AND SOUTH KOREAN STOCK NEWS: US officials are investigating 4 deaths in Hyundai-Kia cars due to air bag failure",
+        "content": "<p>JAPAN</p>\r\n\r\n<p>Amada (6113 JT)<br />- Co. issued a profit warning. (Newswires)</p>\r\n\r\n<p>ANA Holdings (9202 JT)<br />- Co. is reported to have decided to merge its 2 budget carriers by 2020 to improve competitiveness in the region. (Nikkei)</p>\r\n\r\n<p>Japan Tobacco (2914 JT)<br />- Co. is to acquire Russian tobacco products manufacturer Donskoy Tabak for USD 1.6bln. (Newswires)</p>\r\n\r\n<p>Kobe Steel (5406 JT)<br />- Co. plans to strengthen corporate governance in the wake of the recent quality cheating scandal. (Newswires)</p>\r\n\r\n<p>Other News<br />- Poll suggested that support for PM Abe&#39;s administration declined to 33% from 45% late last month. (Mainichi)</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>SOUTH KOREA</p>\r\n\r\n<p>Hyundai (005380 KS) and Kia Motors (000270 KS)<br />- US officials are investigating 4 deaths in Hyundai-Kia cars due to air bag failure, with reports stating the NHTSA are investigating problems which could affect 425K cars made from 2011-2015. (Newswires)</p>\r\n\r\n<p>Other News<br />- South Korea Trade Ministry stated that South Korea and US made some progress in the third round of negotiations to amend their FTA and will continue to discuss US tariffs. (Yonhap)<br />- Japanese PM Abe reportedly asked South Korean President Moon to help set up a meeting with North Korean Leader Kim. (Newswires)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-japanese-and-south-korean-stock-news-us-officials-are-investigating-4-deaths-in-hyundai-kia-cars-due-to-air-bag-failure-18-03-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-03-19 07:32:00",
+        "gmt_time": "2018-03-18 23:32:00"
+    },
+    {
+        "id": 613670,
+        "updated_sequence": 794102,
+        "published_at": {
+            "unix": 1521415080,
+            "text": "2018-03-18 23:18:00 +0000",
+            "iso_8601": "2018-03-18T23:18:00Z"
+        },
+        "updated_at": {
+            "unix": 1521415211,
+            "text": "2018-03-18 23:20:11 +0000",
+            "iso_8601": "2018-03-18T23:20:11Z"
+        },
+        "subject": "Beadell Resources (BDR AT) agreed deal to merge with Canadian firm Golden Harp Resources through Australian scheme of arrangement transaction in which the entity will apply for listing in Australia and Canada",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "beadell-resources-bdr-at-agreed-deal-to-merge-with-canadian-firm-golden-harp-resources-through-australian-scheme-of-arrangement-transaction-in-which-the-entity-will-apply-for-listing-in-australia-and-canada-18-03-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-03-19 07:18:00",
+        "gmt_time": "2018-03-18 23:18:00"
+    },
+    {
+        "id": 613669,
+        "updated_sequence": 794099,
+        "published_at": {
+            "unix": 1521414480,
+            "text": "2018-03-18 23:08:00 +0000",
+            "iso_8601": "2018-03-18T23:08:00Z"
+        },
+        "updated_at": {
+            "unix": 1521414703,
+            "text": "2018-03-18 23:11:43 +0000",
+            "iso_8601": "2018-03-18T23:11:43Z"
+        },
+        "subject": "NZIER says consensus forecasts for New Zealand growth were mostly revised higher from prior quarter with 2017/18 growth forecasts revised to 2.9% from 2.7% while 2019/20 and 2020/21 also saw stronger upward revisions; however 2018/19 was downgraded",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "nzier-says-consensus-forecasts-for-new-zealand-growth-were-mostly-revised-higher-from-prior-quarter-with-2017-18-growth-forecasts-revised-to-2-9-from-2-7-while-2019-20-and-2020-21-also-saw-stronger-upward-revisions-however-2018-19-was-dow-18-03-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-03-19 07:08:00",
+        "gmt_time": "2018-03-18 23:08:00"
+    },
+    {
+        "id": 613668,
+        "updated_sequence": 794096,
+        "published_at": {
+            "unix": 1521413640,
+            "text": "2018-03-18 22:54:00 +0000",
+            "iso_8601": "2018-03-18T22:54:00Z"
+        },
+        "updated_at": {
+            "unix": 1521413723,
+            "text": "2018-03-18 22:55:23 +0000",
+            "iso_8601": "2018-03-18T22:55:23Z"
+        },
+        "subject": "Trade bodies said to petition the US government to halt planned tariffs against China",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "trade-bodies-said-to-petition-the-us-government-to-halt-planned-tariffs-against-china-18-03-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-03-19 06:54:00",
+        "gmt_time": "2018-03-18 22:54:00"
+    },
+    {
+        "id": 613667,
+        "updated_sequence": 794093,
+        "published_at": {
+            "unix": 1521413460,
+            "text": "2018-03-18 22:51:00 +0000",
+            "iso_8601": "2018-03-18T22:51:00Z"
+        },
+        "updated_at": {
+            "unix": 1521413666,
+            "text": "2018-03-18 22:54:26 +0000",
+            "iso_8601": "2018-03-18T22:54:26Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIAN STOCK NEWS: Energy sector outperformed in US on Friday after crude prices rose over 1% to above USD 62.00/bbl",
+        "content": "<p>ANZ Bank (ANZ AT)<br />- Co. reported to suspend retail asset finance operations in Australia amid auto loan review. (Newswires)</p>\r\n\r\n<p>Newcrest Mining (NCM AT)<br />- Co. estimates initial capex for Wafi-Golpu project at around USD 2.8bln which is USD 200mln more than previously estimated. (Newswires)</p>\r\n\r\n<p>Rio Tinto (RIO AT)<br />- Co. reportedly hired adviser to explore Pacific Aluminium IPO. (Newswires)</p>\r\n\r\n<p>Wesfarmers (WES AT)<br />- Co. Managing Director stated that the Co. will have greater flexibility to undertake M&amp;A following the Coles spin-off. (The Australian)</p>\r\n\r\n<p>Energy<br />- WTI crude futures gained over 1% to above USD 62/bbl.</p>\r\n\r\n<p>Other News<br />- Macquarie analyst revised RBA forecast and now sees the central bank on hold for this year vs. Prev. forecasts of 2 hikes. (Newswires)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-australian-stock-news-energy-sector-outperformed-in-us-on-friday-after-crude-prices-rose-over-1-to-above-usd-62-00-bbl-18-03-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-03-19 06:51:00",
+        "gmt_time": "2018-03-18 22:51:00"
+    },
+    {
+        "id": 613666,
+        "updated_sequence": 794087,
+        "published_at": {
+            "unix": 1521412980,
+            "text": "2018-03-18 22:43:00 +0000",
+            "iso_8601": "2018-03-18T22:43:00Z"
+        },
+        "updated_at": {
+            "unix": 1521413083,
+            "text": "2018-03-18 22:44:43 +0000",
+            "iso_8601": "2018-03-18T22:44:43Z"
+        },
+        "subject": "Japanese PM Abe reportedly asked South Korean President Moon to help set up a meeting with North Korean Leader Kim",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Dong-A",
+        "slug": "japanese-pm-abe-reportedly-asked-south-korean-president-moon-to-help-set-up-a-meeting-with-north-korean-leader-kim-18-03-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-03-19 06:43:00",
+        "gmt_time": "2018-03-18 22:43:00"
+    },
+    {
+        "id": 613665,
+        "updated_sequence": 794084,
+        "published_at": {
+            "unix": 1521412380,
+            "text": "2018-03-18 22:33:00 +0000",
+            "iso_8601": "2018-03-18T22:33:00Z"
+        },
+        "updated_at": {
+            "unix": 1521412470,
+            "text": "2018-03-18 22:34:30 +0000",
+            "iso_8601": "2018-03-18T22:34:30Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASES CALENDAR NOW AVAILABLE IN THE RESEARCH SECTION: Highlights Include Japanese Trade Data and BoJ Summary of Opinions, Chinese Property Prices",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asian-daily-economic-releases-calendar-now-available-in-the-research-section-highlights-include-japanese-trade-data-and-boj-summary-of-opinions-chinese-property-prices-18-03-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-03-19 06:33:00",
+        "gmt_time": "2018-03-18 22:33:00"
+    },
+    {
+        "id": 613664,
+        "updated_sequence": 794081,
+        "published_at": {
+            "unix": 1521411480,
+            "text": "2018-03-18 22:18:00 +0000",
+            "iso_8601": "2018-03-18T22:18:00Z"
+        },
+        "updated_at": {
+            "unix": 1521411572,
+            "text": "2018-03-18 22:19:32 +0000",
+            "iso_8601": "2018-03-18T22:19:32Z"
+        },
+        "subject": "Mainichi poll suggests that support for PM Abe's administration declined to 33% from 45% late last month",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Mainichi",
+        "slug": "mainichi-poll-suggests-that-support-for-pm-abe-s-administration-declined-to-33-from-45-late-last-month-18-03-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-03-19 06:18:00",
+        "gmt_time": "2018-03-18 22:18:00"
+    },
+    {
+        "id": 613663,
+        "updated_sequence": 794078,
+        "published_at": {
+            "unix": 1521411300,
+            "text": "2018-03-18 22:15:00 +0000",
+            "iso_8601": "2018-03-18T22:15:00Z"
+        },
+        "updated_at": {
+            "unix": 1521411460,
+            "text": "2018-03-18 22:17:40 +0000",
+            "iso_8601": "2018-03-18T22:17:40Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p>ASIA-PAC</p>\r\n\r\n<p>China named PBoC Deputy Governor Yi Gang to be the next PBoC Governor, while reports added that the nomination is set to be approved today. (WSJ)</p>\r\n\r\n<p>New Zealand Services PMI (Feb) 55.0 (Prev. 55.8). (Newswires)<br />&nbsp;</p>\r\n\r\n<p>UK/EU</p>\r\n\r\n<p>The UK Brexit Select Committee is set to recommend that the UK should request an extension to the EU&#39;s Article 50 process beyond March 2019. (Newswires)</p>\r\n\r\n<p>Irish PM Varadkar said he thinks that they can get there on the Irish border issue. (Newswires)</p>\r\n\r\n<p>ECB&rsquo;s Weidmann said he thinks that good economy developments and inflation would permit a rapid end to bond purchases. (Newswires)</p>\r\n\r\n<p>ECB&rsquo;s Villeroy commented that the progress to inflation target was slower than anticipated. (Newswires)</p>\r\n\r\n<p>S&amp;P affirmed Austria at AA+; Outlook Stable and affirmed Denmark at AAA; Outlook Stable. (Newswires)<br /><br />Fitch affirmed Italy at BBB; Outlook Stable. (Newswires)<br />&nbsp;</p>\r\n\r\n<p>FX<a name=\"_Hlk503148913\"></a><a name=\"_Hlk503148890\"></a><a name=\"_Hlk503148850\"></a></p>\r\n\r\n<p><a name=\"_Hlk507704203\">USD: The greenback strengthened after strong industrial production data, which jumped 1.1% (expected 0.3%), the strongest gain since October. The USD caught a second wind after the University of Michigan sentiment which rose to its highest level in 14 years. Reports of a hawkish think tank report on the Fed also helped the USD push higher as it was said to suggest that the Fed will prepare markets for four rate hikes in 2018.</a></p>\r\n\r\n<p>EUR &amp; GBP: Eurozone inflation was revised lower to 1.1% from 1.2% but this saw no major moves in the market with the EUR maintaining a weakening trend throughout the day as markets continue to digest the recent dovish message from the ECB. Similar price action was observed in GBP/USD ahead of a big week ahead including BoE decision, inflation &amp; labour market data and the EU summit.</p>\r\n\r\n<p>CAD, AUD, NZD: Commodity currencies were hit again as markets expect the economies could be worst hit from an escalation in trade wars. AUD/USD slipped to a 10 day low after breaking below the 200DMA at 0.7804.</p>\r\n\r\n<p>JPY: The currency initially strengthen during Friday&rsquo;s European morning as USD/JPY broke back below 106.00. Strong US data lent support to the pair which reclaimed the 106.00 handle and then hovered around that level in the US afternoon.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>COMMODITIES</p>\r\n\r\n<p>US Baker Hughes Total Rig Count (15 Mar) 990 (Prev. 984). (Newswires)</p>\r\n\r\n<p>Russian Energy Minister Novak affirmed pledge to see OPEC production deal through to the end and reiterated that Russia is willing to extend cuts if necessary, while he added that Russia is open to discussing phase-out from the deal when appropriate. (Newswires)<br />&nbsp;</p>\r\n\r\n<p>GEOPOLITICAL</p>\r\n\r\n<p>White House said that US President Trump told South Korean President Moon that still on track to meet with North Korean Supreme Leader Kim by May. (Newswires)</p>\r\n\r\n<p>UK, France and Germany have proposed new EU sanctions on Iran to aim to keep US President Trump committed to the Iranian nuclear deal, while reports added that sanctions would target individuals involved in ballistic weapons activity and war in Syria. (Newswires)</p>\r\n\r\n<p><br />US</p>\r\n\r\n<p>White House said US President Trump is negotiating with individual countries regarding tariffs and will continue to negotiate on exemptions through next week, while there were also reports that US government is to accept tariff exclusion requests from today. In related news, the EU published tariff lists in response to US tariffs on aluminium and steel which was said to be for stakeholder consultations and could affect EUR&nbsp; 6.4bln in US exports. &nbsp;(Newswires)</p>\r\n\r\n<p><br />MARKET RECAP</p>\r\n\r\n<p>Equity indices traded mixed with the NASDAQ underperforming, weighed on by Broadcom after earnings on Thursday after market. The energy sector outperformed after crude futures settled higher by almost 2%. SPX 0.2% at 2751.84, DJI +0.3% at 24946.57, NDX -0.2% at 7019.95.</p>\r\n\r\n<p>Yields were higher across the curve after the relatively strong data saw a sell-off in bonds in relatively good volume. However, volume and flows dried out at the end of the day and Treasuries meandered into the close. 10-year T-note futures (June 2018) settled down 5 ticks at 120.11.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-asia-pac-opening-news-18-03-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-03-19 06:15:00",
+        "gmt_time": "2018-03-18 22:15:00"
+    },
+    {
+        "id": 613486,
+        "updated_sequence": 794070,
+        "published_at": {
+            "unix": 1521410400,
+            "text": "2018-03-18 22:00:00 +0000",
+            "iso_8601": "2018-03-18T22:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1521410400,
+            "text": "2018-03-18 22:00:00 +0000",
+            "iso_8601": "2018-03-18T22:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-15-03-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-03-19 06:00:00",
+        "gmt_time": "2018-03-18 22:00:00"
+    },
+    {
+        "id": 613661,
+        "updated_sequence": 794068,
+        "published_at": {
+            "unix": 1521378360,
+            "text": "2018-03-18 13:06:00 +0000",
+            "iso_8601": "2018-03-18T13:06:00Z"
+        },
+        "updated_at": {
+            "unix": 1521383481,
+            "text": "2018-03-18 14:31:21 +0000",
+            "iso_8601": "2018-03-18T14:31:21Z"
+        },
+        "subject": "Yi Gang set to be appointed new PBOC Governor, WSJ reports",
+        "content": "<ul><li>Yi Gang&#39;s appointment would be a promotion from the Deputy Governor position he currently holds. He was also chief of China&#39;s FX regulator SAFE for a period.</li>\r\n  <li>Pantheon Macroeconomics says the appointment would ensure policy continuity, but also has the greatest chance of preserving the relationship between the PBOC and the political establishment.</li>\r\n  <li>Click <a href=\"https://www.wsj.com/articles/yi-gang-picked-to-take-helm-of-peoples-bank-of-china-1521375330?mod=searchresults&amp;page=1&amp;pos=1\">here </a>to read article on WSJ.</li>\r\n</ul>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "yi-gang-set-to-be-appointed-new-pboc-governor-wsj-reports-18-03-2018",
+        "hidden": false,
+        "section": {
+            "id": 8,
+            "name": "Other Central Banks"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-03-18 21:06:00",
+        "gmt_time": "2018-03-18 13:06:00"
+    },
+    {
+        "id": 613660,
+        "updated_sequence": 794053,
+        "published_at": {
+            "unix": 1521370500,
+            "text": "2018-03-18 10:55:00 +0000",
+            "iso_8601": "2018-03-18T10:55:00Z"
+        },
+        "updated_at": {
+            "unix": 1521370712,
+            "text": "2018-03-18 10:58:32 +0000",
+            "iso_8601": "2018-03-18T10:58:32Z"
+        },
+        "subject": "Barclays Trade of the week: Short NZDUSD",
+        "content": "<ul><li>Target 0.7130, stop-loss at 0.7315 (spot reference: 0.7252).</li>\r\n  <li>Rationale: diverging monetary policy this week, with the Fed expected to strike a hawkish tone and the RBNZ expected to strike a dovish tone.</li>\r\n</ul>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Barclays",
+        "slug": "barclays-trade-of-the-week-short-nzdusd-18-03-2018",
+        "hidden": false,
+        "section": {
+            "id": 39,
+            "name": "Bank Research"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-03-18 18:55:00",
+        "gmt_time": "2018-03-18 10:55:00"
+    }
+]

@@ -1,0 +1,2870 @@
+[
+    {
+        "id": 609709,
+        "updated_sequence": 780547,
+        "published_at": {
+            "unix": 1518816600,
+            "text": "2018-02-16 21:30:00 +0000",
+            "iso_8601": "2018-02-16T21:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1518816600,
+            "text": "2018-02-16 21:30:00 +0000",
+            "iso_8601": "2018-02-16T21:30:00Z"
+        },
+        "subject": "AUDIO SERVICE HAS NOW CLOSED FOR THE WEEK. THE ASIA DESK WILL REOPEN ON SUNDAY AT 2200GMT, EUROPEAN SERVICE WILL RESUME ON MONDAY AT 0630GMT. HAVE A PLEASANT WEEKEND.",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "audio-service-has-now-closed-for-the-week-the-asia-desk-will-reopen-on-sunday-at-2200gmt-european-service-will-resume-on-monday-at-0630gmt-have-a-pleasant-weekend-19-01-2018",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-17 05:30:00",
+        "gmt_time": "2018-02-16 21:30:00"
+    },
+    {
+        "id": 610442,
+        "updated_sequence": 780551,
+        "published_at": {
+            "unix": 1518815700,
+            "text": "2018-02-16 21:15:00 +0000",
+            "iso_8601": "2018-02-16T21:15:00Z"
+        },
+        "updated_at": {
+            "unix": 1518816845,
+            "text": "2018-02-16 21:34:05 +0000",
+            "iso_8601": "2018-02-16T21:34:05Z"
+        },
+        "subject": "G10 Central Bank Weekly - 16 Feb 2018",
+        "content": "<p><strong>- FED: Has the latest CPI data materially altered the Fed&rsquo;s trajectory?<br />- ECB: Should the value of the EUR matter to the ECB?<br />- BOJ: Kuroda reappointed; New Deputy Governor keeps<br />- BOE: Moving towards standard policy setting tools<br />- BOC: Will Canadian inflation data see similar rise to US data?<br />- RBA: Noisy labour market data; RBA minutes eyed<br />- RBNZ: Steady inflation expectations<br />- NORGES BANK: Tilting towards tighter policy<br />- RIKSBANK: Mixed signals</strong></p>\r\n\r\n<p><a href=\"https://ransquawk.com/research_sheets/18623/download\"><strong>Click here to download full report as a PDF</strong></a></p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "g10-central-bank-weekly-16-feb-2018-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-17 05:15:00",
+        "gmt_time": "2018-02-16 21:15:00"
+    },
+    {
+        "id": 610440,
+        "updated_sequence": 780546,
+        "published_at": {
+            "unix": 1518815220,
+            "text": "2018-02-16 21:07:00 +0000",
+            "iso_8601": "2018-02-16T21:07:00Z"
+        },
+        "updated_at": {
+            "unix": 1518815262,
+            "text": "2018-02-16 21:07:42 +0000",
+            "iso_8601": "2018-02-16T21:07:42Z"
+        },
+        "subject": "Fitch affirms Lithuania at A-, outlook stable",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "fitch-affirms-lithuania-at-a-outlook-stable-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 24,
+            "name": "Rating Agency comments"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-17 05:07:00",
+        "gmt_time": "2018-02-16 21:07:00"
+    },
+    {
+        "id": 610439,
+        "updated_sequence": 780543,
+        "published_at": {
+            "unix": 1518815220,
+            "text": "2018-02-16 21:07:00 +0000",
+            "iso_8601": "2018-02-16T21:07:00Z"
+        },
+        "updated_at": {
+            "unix": 1518815230,
+            "text": "2018-02-16 21:07:10 +0000",
+            "iso_8601": "2018-02-16T21:07:10Z"
+        },
+        "subject": "S&P affirms Hungary at BBB-, outlook positive",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "s-p-affirms-hungary-at-bbb-outlook-positive-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 24,
+            "name": "Rating Agency comments"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-17 05:07:00",
+        "gmt_time": "2018-02-16 21:07:00"
+    },
+    {
+        "id": 610438,
+        "updated_sequence": 780540,
+        "published_at": {
+            "unix": 1518815160,
+            "text": "2018-02-16 21:06:00 +0000",
+            "iso_8601": "2018-02-16T21:06:00Z"
+        },
+        "updated_at": {
+            "unix": 1518815198,
+            "text": "2018-02-16 21:06:38 +0000",
+            "iso_8601": "2018-02-16T21:06:38Z"
+        },
+        "subject": "Fitch upgrades Greece to B (Prev. B-), Outlook positive",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "fitch-upgrades-greece-to-b-prev-b-outlook-positive-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 24,
+            "name": "Rating Agency comments"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-17 05:06:00",
+        "gmt_time": "2018-02-16 21:06:00"
+    },
+    {
+        "id": 610437,
+        "updated_sequence": 780537,
+        "published_at": {
+            "unix": 1518815040,
+            "text": "2018-02-16 21:04:00 +0000",
+            "iso_8601": "2018-02-16T21:04:00Z"
+        },
+        "updated_at": {
+            "unix": 1518815075,
+            "text": "2018-02-16 21:04:35 +0000",
+            "iso_8601": "2018-02-16T21:04:35Z"
+        },
+        "subject": "DBRS affirms Belgium at AA(High); stable trend",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "dbrs-affirms-belgium-at-aa-high-stable-trend-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 24,
+            "name": "Rating Agency comments"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-17 05:04:00",
+        "gmt_time": "2018-02-16 21:04:00"
+    },
+    {
+        "id": 610436,
+        "updated_sequence": 780534,
+        "published_at": {
+            "unix": 1518814980,
+            "text": "2018-02-16 21:03:00 +0000",
+            "iso_8601": "2018-02-16T21:03:00Z"
+        },
+        "updated_at": {
+            "unix": 1518815050,
+            "text": "2018-02-16 21:04:10 +0000",
+            "iso_8601": "2018-02-16T21:04:10Z"
+        },
+        "subject": "DBRS affirms Ireland at A(High); stable trend",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "dbrs-affirms-ireland-at-a-high-stable-trend-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 24,
+            "name": "Rating Agency comments"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-17 05:03:00",
+        "gmt_time": "2018-02-16 21:03:00"
+    },
+    {
+        "id": 610435,
+        "updated_sequence": 780531,
+        "published_at": {
+            "unix": 1518814800,
+            "text": "2018-02-16 21:00:00 +0000",
+            "iso_8601": "2018-02-16T21:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1518814933,
+            "text": "2018-02-16 21:02:13 +0000",
+            "iso_8601": "2018-02-16T21:02:13Z"
+        },
+        "subject": "US MARKET WRAP: Stocks shrug-off Mueller headlines, DXY snaps 4 negative days but ends week lower",
+        "content": "<p><strong>EQUITIES: SPX +0.1% at 2739, DJI +0.1% at 25281, NDX -0.1% at 6785</strong><br />Top sectors: Healthcare +0.9%, Telecoms +0.9%, Utilities +0.9%<br />Bottom sectors: Cons Disc -0.3%, Materials -0.1% Energy -0.1%</p>\r\n\r\n<p>SPX prints its sixth straight day of gains, as traders question whether the recent VIX-inspired sell-off can actually be considered anything close to &ldquo;market turmoil,&rdquo; though some traders still note that the ES is yet to fully pare back those losses, and reclaim the 2785 level. The risk tone was once again firm on Friday, until headlines hit stating that Special Counsel Mueller had indicted 13 Russians and three entities with regards to interference in the 2016 Presidential Election. At the time, stock indices were losing steam, with ES March&rsquo;18 contract struggling to negotiate the 2750 handle, and the news brought out the sellers. The indictments contained no allegations that an American citizen was knowingly involved in US election meddling, and after stocks skidded lower into negative territory, buyers emerged around the key 2725 level, and stocks once again found themselves in positive territory, though the social media names weighed on the Nasdaq, which finished red.&nbsp;</p>\r\n\r\n<p><strong>TREASURIES:&nbsp; US T-Note futures (March 2018) settle 4 ticks higher at 120-18+</strong></p>\r\n\r\n<p>The US Treasury complex was immune to headlines that Special Counsel Mueller had indicted 13 Russians and three entities for meddling in the 2016 US Presidential Election. The curve was slightly higher pre-market, though buyers emerged for a second day, with no specific news catalyst. Some had rationalised the moves by suggesting that US Treasuries were oversold in many places, from a technical perspective. Either way, the net impact was narrowing in major curve spreads (2s10s -c4bps, 2s30s -c3bps, hough 5s30s was up slightly)&nbsp;</p>\r\n\r\n<p><strong>FOREX: DXY ends the week 1.5% lower</strong></p>\r\n\r\n<p>Ahead of the long weekend, the USD snapped its run of four straight days of losses, ending the week with a positive day, but still looks set to close the week with a c1.5% loss. After this week&rsquo;s CPI and retail sales data, there hasn&rsquo;t been anything specific for FX traders to latch on to, and data and politics have generally played second fiddle to position adjusting. Many now are resuming the narrative of a weaker dollar based on expected twin deficits, trade protectionism, and other central banks playing catch-up to the US tightening cycle &ndash; helping their currencies appreciate &ndash; all amid a background of decent global growth. EUR gave up the 1.25 handle, GBP gave up 1.41, and JPY climbed back above 106 after falling to 105.50 overnight.&nbsp;</p>\r\n\r\n<p><strong>CRUDE: WTI futures settle 34 cents higher at $61.68 per barrel; Brent futures settle 51 cents higher at $64.84 per barrel</strong></p>\r\n\r\n<p>The crude complex was shaken in the early part of the week by bearish updates from the EIA, IEA as well as OPEC, whose forecasts all showed that global supply growth was set to outpace demand growth. However, at the end of the week &ndash; and looking with a wider lens &ndash; crude has generally looked-through the news, in part supported by comments from Saudi Arabia and Russia (Saudis set to trim production next month), but mainly taking its cue from &lsquo;recovering&rsquo; global risk sentiment and optimism about global growth prospects, as well as the USD weakness.&nbsp;</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RA",
+        "slug": "us-market-wrap-stocks-shrug-off-mueller-headlines-dxy-snaps-4-negative-days-but-ends-week-lower-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-17 05:00:00",
+        "gmt_time": "2018-02-16 21:00:00"
+    },
+    {
+        "id": 610420,
+        "updated_sequence": 780528,
+        "published_at": {
+            "unix": 1518811200,
+            "text": "2018-02-16 20:00:00 +0000",
+            "iso_8601": "2018-02-16T20:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1518811200,
+            "text": "2018-02-16 20:00:00 +0000",
+            "iso_8601": "2018-02-16T20:00:00Z"
+        },
+        "subject": "RANsquawk Week in Focus: 19th February – 23rd February 2018 - Now available in the Research Suite",
+        "content": "<ul><li>Minutes from the FOMC, ECB and RBA to take focus</li>\r\n  <li>Fed publishes Monetary Policy Report ahead of Powell&#39;s semi-annual testimony</li>\r\n</ul>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>To download the report, please click&nbsp;<a href=\"https://ransquawk.com/research_sheets/18621/download\">here</a></p>\r\n\r\n<p>If you would like to subscribe to receive the research sheets directly in your inbox, you can now do so under the&nbsp;<a href=\"https://ransquawk.com/research_sheets\">Research Suite</a>&nbsp;section of the portal.</p>\r\n\r\n<p>To subscribe simply check the box next to &ldquo;Email me these reports&rdquo; under the desired category.</p>\r\n\r\n<p>If you are seeing &quot;Loading Subscription Status&quot; instead of &quot;Email me these reports&quot; please try clearing you cache (CTRL+F5) and restarting your browser.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "ransquawk-week-in-focus-19th-february-23rd-february-2018-now-available-in-the-research-suite-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-17 04:00:00",
+        "gmt_time": "2018-02-16 20:00:00"
+    },
+    {
+        "id": 610434,
+        "updated_sequence": 780527,
+        "published_at": {
+            "unix": 1518810540,
+            "text": "2018-02-16 19:49:00 +0000",
+            "iso_8601": "2018-02-16T19:49:00Z"
+        },
+        "updated_at": {
+            "unix": 1518810607,
+            "text": "2018-02-16 19:50:07 +0000",
+            "iso_8601": "2018-02-16T19:50:07Z"
+        },
+        "subject": "Brent futures settle 51 cents higher at USD 64.84 per barrel",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "brent-futures-settle-51-cents-higher-at-usd-64-84-per-barrel-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 20,
+            "name": "Commodities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-17 03:49:00",
+        "gmt_time": "2018-02-16 19:49:00"
+    },
+    {
+        "id": 610433,
+        "updated_sequence": 780524,
+        "published_at": {
+            "unix": 1518809640,
+            "text": "2018-02-16 19:34:00 +0000",
+            "iso_8601": "2018-02-16T19:34:00Z"
+        },
+        "updated_at": {
+            "unix": 1518809700,
+            "text": "2018-02-16 19:35:00 +0000",
+            "iso_8601": "2018-02-16T19:35:00Z"
+        },
+        "subject": "WTI futures settle 34 cents higher at USD 61.68 per barrel",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "wti-futures-settle-34-cents-higher-at-usd-61-68-per-barrel-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 20,
+            "name": "Commodities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-17 03:34:00",
+        "gmt_time": "2018-02-16 19:34:00"
+    },
+    {
+        "id": 610432,
+        "updated_sequence": 780521,
+        "published_at": {
+            "unix": 1518806160,
+            "text": "2018-02-16 18:36:00 +0000",
+            "iso_8601": "2018-02-16T18:36:00Z"
+        },
+        "updated_at": {
+            "unix": 1518806217,
+            "text": "2018-02-16 18:36:57 +0000",
+            "iso_8601": "2018-02-16T18:36:57Z"
+        },
+        "subject": "US Deputy AG Rosenstein says there is no allegation in today's indictments that an American was knowingly involved in US election meddling",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-deputy-ag-rosenstein-says-there-is-no-allegation-in-today-s-indictments-that-an-american-was-knowingly-involved-in-us-election-meddling-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-17 02:36:00",
+        "gmt_time": "2018-02-16 18:36:00"
+    },
+    {
+        "id": 610428,
+        "updated_sequence": 780502,
+        "published_at": {
+            "unix": 1518803520,
+            "text": "2018-02-16 17:52:00 +0000",
+            "iso_8601": "2018-02-16T17:52:00Z"
+        },
+        "updated_at": {
+            "unix": 1518803661,
+            "text": "2018-02-16 17:54:21 +0000",
+            "iso_8601": "2018-02-16T17:54:21Z"
+        },
+        "subject": "US Special Counsel Mueller has indicted 13 Russian nationals and three entities over conspiracy to defraud the US",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-special-counsel-mueller-has-indicted-13-russian-nationals-and-three-entities-over-conspiracy-to-defraud-the-us-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-17 01:52:00",
+        "gmt_time": "2018-02-16 17:52:00"
+    },
+    {
+        "id": 610427,
+        "updated_sequence": 780496,
+        "published_at": {
+            "unix": 1518802620,
+            "text": "2018-02-16 17:37:00 +0000",
+            "iso_8601": "2018-02-16T17:37:00Z"
+        },
+        "updated_at": {
+            "unix": 1518802711,
+            "text": "2018-02-16 17:38:31 +0000",
+            "iso_8601": "2018-02-16T17:38:31Z"
+        },
+        "subject": "KLX (KLXI) is said to have been approached by Boeing (BA) last year, according to Dealreporter",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Dealreporter",
+        "slug": "klx-klxi-is-said-to-have-been-approached-by-boeing-ba-last-year-according-to-dealreporter-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-17 01:37:00",
+        "gmt_time": "2018-02-16 17:37:00"
+    },
+    {
+        "id": 610426,
+        "updated_sequence": 780493,
+        "published_at": {
+            "unix": 1518801360,
+            "text": "2018-02-16 17:16:00 +0000",
+            "iso_8601": "2018-02-16T17:16:00Z"
+        },
+        "updated_at": {
+            "unix": 1518801460,
+            "text": "2018-02-16 17:17:40 +0000",
+            "iso_8601": "2018-02-16T17:17:40Z"
+        },
+        "subject": "Brazil government said to consider the pension reform bill is dead",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "brazil-government-said-to-consider-the-pension-reform-bill-is-dead-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 34,
+            "name": "Global Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-17 01:16:00",
+        "gmt_time": "2018-02-16 17:16:00"
+    },
+    {
+        "id": 610378,
+        "updated_sequence": 780490,
+        "published_at": {
+            "unix": 1518800400,
+            "text": "2018-02-16 17:00:00 +0000",
+            "iso_8601": "2018-02-16T17:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1518800400,
+            "text": "2018-02-16 17:00:00 +0000",
+            "iso_8601": "2018-02-16T17:00:00Z"
+        },
+        "subject": "RANsquawk Weekly US Earnings Estimates: 19th February – 23rd February 2018 - Now available in the Research Suite",
+        "content": "<ul><li>Monday: Mosaic</li>\r\n  <li>Tuesday: Walmart, Home Depot, Medtronic, Duke Energy, Ctrip</li>\r\n  <li>Wednesday: Dish, Southern Co</li>\r\n  <li>Thursday: Newmont Mining, HP, Hewlett Packard Enterprise, Intuit</li>\r\n  <li>Friday: Berkshire Hathaway</li>\r\n</ul>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>To download the report, please click&nbsp;<a href=\"https://ransquawk.com/research_sheets/18617/download\">here</a></p>\r\n\r\n<p>If you would like to subscribe to receive the research sheets directly in your inbox, you can now do so under the&nbsp;<a href=\"https://ransquawk.com/research_sheets\">Research Suite</a>&nbsp;section of the portal.</p>\r\n\r\n<p>To subscribe simply check the box next to &ldquo;Email me these reports&rdquo; under the desired category.</p>\r\n\r\n<p>If you are seeing &quot;Loading Subscription Status&quot; instead of &quot;Email me these reports&quot; please try clearing you cache (CTRL+F5) and restarting your browser.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "ransquawk-weekly-us-earnings-estimates-19th-february-23rd-february-2018-now-available-in-the-research-suite-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-17 01:00:00",
+        "gmt_time": "2018-02-16 17:00:00"
+    },
+    {
+        "id": 610425,
+        "updated_sequence": 780489,
+        "published_at": {
+            "unix": 1518799920,
+            "text": "2018-02-16 16:52:00 +0000",
+            "iso_8601": "2018-02-16T16:52:00Z"
+        },
+        "updated_at": {
+            "unix": 1518799981,
+            "text": "2018-02-16 16:53:01 +0000",
+            "iso_8601": "2018-02-16T16:53:01Z"
+        },
+        "subject": "Update on reported tariffs the Department of Commerce are set to recommend",
+        "content": "<p>Aluminium: 7.7% tariff on all aluminium imports. 23.5% tariff on products from China, Russia, Venezuela and Vietnam</p>\r\n\r\n<p>Steel: 24% tariff on all steel imports. Tariff of at least 53% on steel imports from China, Brazil, Costa Rica, Egypt, India, Malaysia Korea, Russia, South Africa, Turkey and Vietnam</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Axios/CNBC",
+        "slug": "update-on-reported-tariffs-the-department-of-commerce-are-set-to-recommend-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-17 00:52:00",
+        "gmt_time": "2018-02-16 16:52:00"
+    },
+    {
+        "id": 610424,
+        "updated_sequence": 780486,
+        "published_at": {
+            "unix": 1518799440,
+            "text": "2018-02-16 16:44:00 +0000",
+            "iso_8601": "2018-02-16T16:44:00Z"
+        },
+        "updated_at": {
+            "unix": 1518799728,
+            "text": "2018-02-16 16:48:48 +0000",
+            "iso_8601": "2018-02-16T16:48:48Z"
+        },
+        "subject": "US Consumer Department recommendation on steel: Global tariffs 24% on all imports; according to sources",
+        "content": "<p>-Tariff of at least 53% from 12 countries including China</p>\r\n\r\n<p>-Quota of 63% on each of those countries&#39; 2017 imports to US</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-consumer-department-recommendation-on-steel-global-tariffs-24-on-all-imports-according-to-sources-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-17 00:44:00",
+        "gmt_time": "2018-02-16 16:44:00"
+    },
+    {
+        "id": 610423,
+        "updated_sequence": 780479,
+        "published_at": {
+            "unix": 1518799140,
+            "text": "2018-02-16 16:39:00 +0000",
+            "iso_8601": "2018-02-16T16:39:00Z"
+        },
+        "updated_at": {
+            "unix": 1518799218,
+            "text": "2018-02-16 16:40:18 +0000",
+            "iso_8601": "2018-02-16T16:40:18Z"
+        },
+        "subject": "Shell says there was a small fire during maintenance of its Pernis refinery in the Netherlands",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<p>- Of note, that refinery has a capacity of 404K bpd.&nbsp;</p>\r\n",
+        "analysis_updated_at": {
+            "unix": 1518799218,
+            "text": "2018-02-16 16:40:18 +0000",
+            "iso_8601": "2018-02-16T16:40:18Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "shell-says-there-was-a-small-fire-during-maintenance-of-its-pernis-refinery-in-the-netherlands-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 20,
+            "name": "Commodities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-17 00:39:00",
+        "gmt_time": "2018-02-16 16:39:00"
+    },
+    {
+        "id": 610422,
+        "updated_sequence": 780474,
+        "published_at": {
+            "unix": 1518798600,
+            "text": "2018-02-16 16:30:00 +0000",
+            "iso_8601": "2018-02-16T16:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1518798733,
+            "text": "2018-02-16 16:32:13 +0000",
+            "iso_8601": "2018-02-16T16:32:13Z"
+        },
+        "subject": "EUROPEAN PRELIMINARY CASH EQUITY CLOSE: EURO STOXX 50 (+1.1%), FTSE 100 (+0.8%), DAX (+0.9%), CAC (+1.2%), IBEX (+1.1%), FTSE MIB (+1.3%), SMI (+0.8%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "european-preliminary-cash-equity-close-euro-stoxx-50-1-1-ftse-100-0-8-dax-0-9-cac-1-2-ibex-1-1-ftse-mib-1-3-smi-0-8-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 33,
+            "name": "European Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-17 00:30:00",
+        "gmt_time": "2018-02-16 16:30:00"
+    },
+    {
+        "id": 610421,
+        "updated_sequence": 780484,
+        "published_at": {
+            "unix": 1518798300,
+            "text": "2018-02-16 16:25:00 +0000",
+            "iso_8601": "2018-02-16T16:25:00Z"
+        },
+        "updated_at": {
+            "unix": 1518799676,
+            "text": "2018-02-16 16:47:56 +0000",
+            "iso_8601": "2018-02-16T16:47:56Z"
+        },
+        "subject": "US Commerce Department mulling 7.7% aluminium tariff, to recommend 23.5% tariff on all aluminium products from China, Russia, Venezuela and Vietnam",
+        "content": "<p>-&nbsp;Import quote on all countries, 86.7% from of all their 2017 exports to the US</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-commerce-department-mulling-7-7-aluminium-tariff-to-recommend-23-5-tariff-on-all-aluminium-products-from-china-russia-venezuela-and-vietnam-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-17 00:25:00",
+        "gmt_time": "2018-02-16 16:25:00"
+    },
+    {
+        "id": 610419,
+        "updated_sequence": 780463,
+        "published_at": {
+            "unix": 1518797820,
+            "text": "2018-02-16 16:17:00 +0000",
+            "iso_8601": "2018-02-16T16:17:00Z"
+        },
+        "updated_at": {
+            "unix": 1518797906,
+            "text": "2018-02-16 16:18:26 +0000",
+            "iso_8601": "2018-02-16T16:18:26Z"
+        },
+        "subject": "Shandong Gold Mining and Zijin Mining Group in separate talks with Acacia Mining (ACAA LN) to form a joint venture for its Tanzania gold mines, according to sources",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "shandong-gold-mining-and-zijin-mining-group-in-separate-talks-with-acacia-mining-acaa-ln-to-form-a-joint-venture-for-its-tanzania-gold-mines-according-to-sources-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 35,
+            "name": "UK Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-17 00:17:00",
+        "gmt_time": "2018-02-16 16:17:00"
+    },
+    {
+        "id": 610418,
+        "updated_sequence": 780460,
+        "published_at": {
+            "unix": 1518797760,
+            "text": "2018-02-16 16:16:00 +0000",
+            "iso_8601": "2018-02-16T16:16:00Z"
+        },
+        "updated_at": {
+            "unix": 1518797835,
+            "text": "2018-02-16 16:17:15 +0000",
+            "iso_8601": "2018-02-16T16:17:15Z"
+        },
+        "subject": "NY Fed GDP Nowcasting Report (Q1): 3.1% (Prev. 3.3%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "ny-fed-gdp-nowcasting-report-q1-3-1-prev-3-3-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-17 00:16:00",
+        "gmt_time": "2018-02-16 16:16:00"
+    },
+    {
+        "id": 610417,
+        "updated_sequence": 780455,
+        "published_at": {
+            "unix": 1518797340,
+            "text": "2018-02-16 16:09:00 +0000",
+            "iso_8601": "2018-02-16T16:09:00Z"
+        },
+        "updated_at": {
+            "unix": 1518797405,
+            "text": "2018-02-16 16:10:05 +0000",
+            "iso_8601": "2018-02-16T16:10:05Z"
+        },
+        "subject": "Novartis (NOVN SW) - Co said to be mulling sale of US generic pills unit",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "novartis-novn-sw-co-said-to-be-mulling-sale-of-us-generic-pills-unit-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 33,
+            "name": "European Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-17 00:09:00",
+        "gmt_time": "2018-02-16 16:09:00"
+    },
+    {
+        "id": 610416,
+        "updated_sequence": 780450,
+        "published_at": {
+            "unix": 1518796260,
+            "text": "2018-02-16 15:51:00 +0000",
+            "iso_8601": "2018-02-16T15:51:00Z"
+        },
+        "updated_at": {
+            "unix": 1518796517,
+            "text": "2018-02-16 15:55:17 +0000",
+            "iso_8601": "2018-02-16T15:55:17Z"
+        },
+        "subject": "Wynn Resorts (WYNN) hearing takeover chatter that co. may be going private - unconfirmed",
+        "content": "",
+        "reaction_details": "<p>- In an immediate reaction shares jumped from USD 163.60 to USD 165.90</p>\r\n",
+        "reaction_updated_at": {
+            "unix": 1518796516,
+            "text": "2018-02-16 15:55:16 +0000",
+            "iso_8601": "2018-02-16T15:55:16Z"
+        },
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "wynn-resorts-wynn-hearing-takeover-chatter-that-co-may-be-going-private-unconfirmed-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": "'Newsquawk source' - Signifies information that has not been formally tested through traditional journalistic channels and therefore is to be treated as unsubstantiated. Any interpretation of this information is taken at the reader’s own risk and is a representation of the rumours within the market place and never generated by ourselves",
+        "rumour": true,
+        "hk_time": "2018-02-16 23:51:00",
+        "gmt_time": "2018-02-16 15:51:00"
+    },
+    {
+        "id": 610415,
+        "updated_sequence": 780457,
+        "published_at": {
+            "unix": 1518795840,
+            "text": "2018-02-16 15:44:00 +0000",
+            "iso_8601": "2018-02-16T15:44:00Z"
+        },
+        "updated_at": {
+            "unix": 1518797606,
+            "text": "2018-02-16 16:13:26 +0000",
+            "iso_8601": "2018-02-16T16:13:26Z"
+        },
+        "subject": "Deere & Co (DE) reports agricultural inventories equipment cycle has improved and was driven by conumers' need ",
+        "content": "<p>- Co. raises 2018 worldwide construction and forestry view to 80% from 69%</p>\r\n",
+        "reaction_details": "<p>- In a delayed reaction co.&#39;s shares rose from USD 167.50 to USD 172.50</p>\r\n",
+        "reaction_updated_at": {
+            "unix": 1518796560,
+            "text": "2018-02-16 15:56:00 +0000",
+            "iso_8601": "2018-02-16T15:56:00Z"
+        },
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "deere-co-de-reports-agricultural-inventories-equipment-cycle-has-improved-and-was-driven-by-conumers-need-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-16 23:44:00",
+        "gmt_time": "2018-02-16 15:44:00"
+    },
+    {
+        "id": 610414,
+        "updated_sequence": 780440,
+        "published_at": {
+            "unix": 1518795420,
+            "text": "2018-02-16 15:37:00 +0000",
+            "iso_8601": "2018-02-16T15:37:00Z"
+        },
+        "updated_at": {
+            "unix": 1518795625,
+            "text": "2018-02-16 15:40:25 +0000",
+            "iso_8601": "2018-02-16T15:40:25Z"
+        },
+        "subject": "Update: US Commerce Department to delay its steel and aluminum announcement to 12.00ET/17.00GMT",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "update-us-commerce-department-to-delay-its-steel-and-aluminum-announcement-to-12-00et-17-00gmt-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-16 23:37:00",
+        "gmt_time": "2018-02-16 15:37:00"
+    },
+    {
+        "id": 610413,
+        "updated_sequence": 780434,
+        "published_at": {
+            "unix": 1518795240,
+            "text": "2018-02-16 15:34:00 +0000",
+            "iso_8601": "2018-02-16T15:34:00Z"
+        },
+        "updated_at": {
+            "unix": 1518795300,
+            "text": "2018-02-16 15:35:00 +0000",
+            "iso_8601": "2018-02-16T15:35:00Z"
+        },
+        "subject": "FX Weekly Wrap: Dollar bears baited, but grizzly week for the Greenback overall",
+        "content": "<p>It&rsquo;s hard to pinpoint a catalyst, but technicals and positioning certainly played a role in the Usd revival at the end of a bleak week. The DXY found some traction around a key chart Fib at 88.250 and gradually gained recovery momentum to reclaim 89.000 and a bit more before fading again. It remains to be seen how specs are positioned, but a still heavily oversold Dollar may have seen shorts pare back. Regardless, Usd/Jpy did not claim another big figure scalp on the downside having tested 105.50 vs 109.00 approximately on Monday, but key will be a close above or below 106.50 from circa 106.25 currently. Eur/Usd is roughly 100 pips off its 1.2555 peak, but stops touted on a break of 1.2450 have not pushed the pair convincingly back below the 200 MMA (1.2453). Cable has pulled back further, but not below 1.4000 and Usd/Cad has topped out around 1.2550 despite weak Canadian data in the form of manufacturing sales. Usd/Chf has bounced relatively firmly above 0.9250 as Wall Street reclaimed early losses, while Aud/Usd and Nzd/Usd retreat from near 0.8000 and 0.7400+ highs with the latter not just capped by 0.8000 resistance, but also a key tech level just below (0.7992). In short, the buck may have found some traction ahead of the long US holiday weekend, but it is far too premature to call an end to the latest losing streak or any turnaround in fortunes.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "fx-weekly-wrap-dollar-bears-baited-but-grizzly-week-for-the-greenback-overall-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-16 23:34:00",
+        "gmt_time": "2018-02-16 15:34:00"
+    },
+    {
+        "id": 610405,
+        "updated_sequence": 780406,
+        "published_at": {
+            "unix": 1518792420,
+            "text": "2018-02-16 14:47:00 +0000",
+            "iso_8601": "2018-02-16T14:47:00Z"
+        },
+        "updated_at": {
+            "unix": 1518792512,
+            "text": "2018-02-16 14:48:32 +0000",
+            "iso_8601": "2018-02-16T14:48:32Z"
+        },
+        "subject": "Atlanta Fed GDPNow Q1 3.2% (Prev. 3.2%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "atlanta-fed-gdpnow-q1-3-2-prev-3-2-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 18,
+            "name": "Fed"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-16 22:47:00",
+        "gmt_time": "2018-02-16 14:47:00"
+    },
+    {
+        "id": 610404,
+        "updated_sequence": 780403,
+        "published_at": {
+            "unix": 1518790320,
+            "text": "2018-02-16 14:12:00 +0000",
+            "iso_8601": "2018-02-16T14:12:00Z"
+        },
+        "updated_at": {
+            "unix": 1518790377,
+            "text": "2018-02-16 14:12:57 +0000",
+            "iso_8601": "2018-02-16T14:12:57Z"
+        },
+        "subject": "DEBT UPDATE: core bonds continue to claw back losses",
+        "content": "<p>Firmer than expected US data has not deflected fixed from rebounding further, but the Usd is gaining more recovery momentum or at least continue to consolidate after its latest slide in the FX markets. Bunds and Gilts have now been as high as 158.50 and 121.30 respectively (+60 and +71 ticks from previous Eurex and Liffe closes), with the former now within (easier) striking distance of the next &lsquo;bullish&rsquo; technical objective at 158.65. UST futures are all above par, but with the flatter bias remaining, while the Greenback has managed to recoup more lost ground and unwind more of its underperformance vs G10 and other rivals &ndash; DXY not far from 89.000 vs circa 88.250 at worst.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "ransquawk",
+        "slug": "debt-update-core-bonds-continue-to-claw-back-losses-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-16 22:12:00",
+        "gmt_time": "2018-02-16 14:12:00"
+    },
+    {
+        "id": 610403,
+        "updated_sequence": 780400,
+        "published_at": {
+            "unix": 1518790080,
+            "text": "2018-02-16 14:08:00 +0000",
+            "iso_8601": "2018-02-16T14:08:00Z"
+        },
+        "updated_at": {
+            "unix": 1518790107,
+            "text": "2018-02-16 14:08:27 +0000",
+            "iso_8601": "2018-02-16T14:08:27Z"
+        },
+        "subject": "US Commerce Secretary Ross will not announce Trump’s decisions on the steel and aluminium report ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-commerce-secretary-ross-will-not-announce-trump-s-decisions-on-the-steel-and-aluminium-report-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 37,
+            "name": "Metals News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-16 22:08:00",
+        "gmt_time": "2018-02-16 14:08:00"
+    },
+    {
+        "id": 610402,
+        "updated_sequence": 780397,
+        "published_at": {
+            "unix": 1518789900,
+            "text": "2018-02-16 14:05:00 +0000",
+            "iso_8601": "2018-02-16T14:05:00Z"
+        },
+        "updated_at": {
+            "unix": 1518789930,
+            "text": "2018-02-16 14:05:30 +0000",
+            "iso_8601": "2018-02-16T14:05:30Z"
+        },
+        "subject": "Additional US equities stories post-the release of the Daily US Equity Opening News",
+        "content": "<p>Boeing (BA) - The jet manufacturer says its 377 MAX 9 has received certification from the Federal Aviation Administration. (Newswires)</p>\r\n\r\n<p>Kraft Heinz (KHC) - Its CEO stated the M&amp;A view&nbsp;is unchanged, it is looking for brands that can travel internationally and notes it is fair to say that valuations have become more attractive than two months ago. (Newswires)</p>\r\n\r\n<p>Newell Brands (NWL) &ndash; The co. said it will take the best interest of its investors in a response to Starboard. (Newswires)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "additional-us-equities-stories-post-the-release-of-the-daily-us-equity-opening-news-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-16 22:05:00",
+        "gmt_time": "2018-02-16 14:05:00"
+    },
+    {
+        "id": 610401,
+        "updated_sequence": 780391,
+        "published_at": {
+            "unix": 1518788760,
+            "text": "2018-02-16 13:46:00 +0000",
+            "iso_8601": "2018-02-16T13:46:00Z"
+        },
+        "updated_at": {
+            "unix": 1518788815,
+            "text": "2018-02-16 13:46:55 +0000",
+            "iso_8601": "2018-02-16T13:46:55Z"
+        },
+        "subject": "UK says talks with EU will take place next week regarding the implementation period",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "uk-says-talks-with-eu-will-take-place-next-week-regarding-the-implementation-period-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 38,
+            "name": "Brexit"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-16 21:46:00",
+        "gmt_time": "2018-02-16 13:46:00"
+    },
+    {
+        "id": 610400,
+        "updated_sequence": 780388,
+        "published_at": {
+            "unix": 1518788640,
+            "text": "2018-02-16 13:44:00 +0000",
+            "iso_8601": "2018-02-16T13:44:00Z"
+        },
+        "updated_at": {
+            "unix": 1518788793,
+            "text": "2018-02-16 13:46:33 +0000",
+            "iso_8601": "2018-02-16T13:46:33Z"
+        },
+        "subject": "DAILY US EQUITY OPENING NEWS -  Qualcomm (QCOM) / Broadcom (AVGO) – Qualcomm announced it has rejected Broadcom’s offer of USD 82/shr",
+        "content": "<p><strong>16<sup>th</sup> February 2018</strong></p>\r\n\r\n<p><strong>EARNINGS</strong></p>\r\n\r\n<p>Ameren (AEE) Q4 Adj. EPS USD 0.39 vs Exp. USD 0.36, revenue USD 1.40bln vs Exp. USD 1.60bln. (Newswires)</p>\r\n\r\n<p>American Axle (AXL) Q4 Adj. EPS USD 0.89 vs Exp. USD 0.76, revenue USD 1.73bln vs Exp. USD 1.69bln. (Newswires)</p>\r\n\r\n<p>Andeavor (ANDV) Q4 EPS USD 1.16 vs. Exp. USD 1.12, revenue USD 10.65bln vs. Exp. USD 10.80bln (Newswires)</p>\r\n\r\n<p>Arista Networks (ANET) Q4 EPS USD 1.71 vs. Exp. USD 1.41, revenue USD 467.9mln vs. Exp. USD 458.7mln. (Newswires)</p>\r\n\r\n<p>Campbell Soup (CPB) Q2 Adj. EPS 1.00 vs Exp. USD 0.81, revenue USD 2.18bln vs Exp. USD 2.16bln. (Newswires)</p>\r\n\r\n<p>CBS Corp (CBS) Q4 Adj. EPS USD 1.20 vs. Exp. USD 1.15, revenue USD 3.9bln vs. Exp. USD 3.7bln. (Newswires)</p>\r\n\r\n<p>Coca-Cola Co (KO) Q4 EPS USD 0.39 vs. Exp. USD 0.38, revenue USD 7.50bln vs. Exp. USD 7.36bln. (Newswires)</p>\r\n\r\n<p>Consolidated Edison (ED) Q4 Adj. EPS USD 0.80 vs Exp. USD 0.77, revenue USD 2.96bln vs Exp. USD 2.8bln. (Newswires)</p>\r\n\r\n<p>Deere &amp; Co (DE) Q1 Adj. EPS USD 1.31vs. Exp. USD 1.20, revenue USD 6.91bln vs. Exp. USD 6.42bln Q4 net worldwide equipment operation sales up 27%. (Newswires)</p>\r\n\r\n<p>Digital Realty Trust Inc (DLR) Q4 FFO/shr USD 1.55 vs. Exp. USD 1.51, revenue USD 731.4mln vs. Exp. USD 729.9mln. (Newswires)</p>\r\n\r\n<p>DTE Energy Co (DTE) Q4 EPS USD 1.26 vs. Exp. USD 1.19. (Newswires)</p>\r\n\r\n<p>Flowserve Corp (FLS) Q4 EPS USD 0.50 vs. Exp. USD 0.51, revenue USD 1.03bln vs. Exp. USD 1.03bln (Newswires)</p>\r\n\r\n<p>Granite Construction (GVA) Q4 EPS USD 0.81 vs Exp. USD 0.65, revenue 801.3mln vs Exp. USD 753.9mln. (Newswires)</p>\r\n\r\n<p>Iron Mountain Inc (IRM) Q4 Revenue USD 0.99bln vs. Exp. USD 0.96bln. (Newswires)</p>\r\n\r\n<p>JM Smucker (SJM) Q3 Adj. EPS 2.50 vs Exp. USD 2.13, revenue USD 1.9bln vs Exp. USD 1.89bln. (Newswires)</p>\r\n\r\n<p>Kimco Realty Corp (KIM) Q4 EPS USD 0.17 vs. Exp. USD 0.15, revenue USD 0.31bln vs. Exp. USD 0.30bln (Newswires)</p>\r\n\r\n<p>Kraft Heinz (KHC) Q4 Adj. EPS USD 0.90 vs. Exp. USD 0.95, revenue USD 6.88bln vs. Exp. USD 6.91bln. (Newswires)</p>\r\n\r\n<p>LogMeIn (LOGM) Q4 EPS USD 1.20 vs Exp. USD 1.17, revenue USD 279.92mln vs Exp. USD 277.19mln. Alphabet (GOOG) announced a plan to acquire the co.&rsquo;s Xively unit. &nbsp;(Newswires)</p>\r\n\r\n<p>Newell Brands (NWL) Q4 normalised EPS 0.68 vs Exp. USD 0.67, revenue USD 3.7bln vs Exp. USD 3.69bln. (Newswires)</p>\r\n\r\n<p>Shake Shack (SHAK) Q4 Adj. EPS USD 0.10 vs Exp. USD 0.06, revenue USD 96.1mln vs Exp. USD 92.87mln. (Newswires)</p>\r\n\r\n<p>Sleep Number (SNBR) Q4 EPS USD 0.39 vs Exp. USD 0.19, revenue USD 363.3mln vs Exp. USD 331.7mln. (Newswires)</p>\r\n\r\n<p>SS&amp;C (SSNC) Q4 Adj. EPS USD 0.54 vs Exp. USD 0.53, revenue USD 438.4mln vs Exp. USD 433.32mln. (Newswires)</p>\r\n\r\n<p>TrueCar (TRUE) Q4 EPS USD 0.05 vs Exp. USD 0.00, revenue USD 83.1mln vs Exp. USD 81.8mln. (Newswires)</p>\r\n\r\n<p>VF Corp (VFC) Q4 Adj. EPS USD 1.01 vs. Exp. USD 1.02, revenue USD 3.65bln vs. Exp. USD 3.66bln. (Newswires)</p>\r\n\r\n<p>Wabco (WBC) Q4 performance EPS USD 2.00 vs Exp. USD 1.80, revenue USD 934.1mln vs Exp. USD 3.71bln. (Newswires)</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>DJIA</strong></p>\r\n\r\n<p>Apple (AAPL) &ndash; Samsung is looking for new customers for its Organic Light Emitting Dioide panels, as Apple has cut its iPhone X production due to weak demand. (Newswires)</p>\r\n\r\n<p>Boeing (BA) &ndash; The jet manufacturer&rsquo;s CEO has stated the deal with Embraer (ERJ) is getting closer, and notes that by 2020, the co. is looking to produce one plane every 20 hours. (CNBC)</p>\r\n\r\n<p>General Electric (GE) &ndash; The tech giant announced it has reached an agreement to sell parts of its overseas lighting business. (Newswires)</p>\r\n\r\n<p>Wal-Mart (WMT) &ndash; The retail giant is in talks to purchase more than a 40% stake in India&rsquo;s Flipkart, the stake is competing with Amazon (AMZN) who own a large stake. (Newswires)</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>S&amp;P500</strong></p>\r\n\r\n<p>Praxair (PX) &ndash; The European Commission opened an in-depth investigation into the Linde-Praxair proposed merger worth USD 85bln, stating worries regarding reduced competition. The Commission has until July 4<sup>th</sup>, 2018 to make its decision. (Newswires)</p>\r\n\r\n<p>Thomson Reuters (TRI) &ndash; The co. CEO has raised concerns regarding the deal with Blackstone (BX). (WSJ)</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>NASDAQ 100</strong></p>\r\n\r\n<p>Amazon (AMZN) / Alphabet (GOOG) / Twitter (TWTR) / Fox (FOXA) &ndash; The tech names are considering bids for streaming rights to the NFL. (Newswires)</p>\r\n\r\n<p>Kraft Heinz (KHC) &ndash; In its earnings update, the food manufacturer noted it delivered over USD 1.7bln of cumulative cost savings by the end of last year. (Newswires)</p>\r\n\r\n<p>Microsoft (MSFT) &ndash; The tech giant said it fixed a security flaw in Skype when it released the 8<sup>th</sup> version, however the vulnerability is still present in Skype versions 7.40 and lower. (The Register)</p>\r\n\r\n<p>Tesla (TSLA) / Consolidated Edison (ED) &ndash; Following the success of Tesla&rsquo;s power pack battery, Consolidated Edison has partnered with Tesla to provide a series of power pack installations. (Newswires)</p>\r\n\r\n<p>Wynn Resorts (WYNN) &ndash; The co. reported that ex-CEO Steve Wynn, who resigned earlier this month after being accused of sexual misconduct, was not entitled to any further compensation or payment. (Newswires)</p>\r\n\r\n<p>Qualcomm (QCOM) / Broadcom (AVGO) &ndash; Qualcomm announced it has rejected Broadcom&rsquo;s offer of USD 82/shr. but noted the meeting was constructive. (Newswires)</p>\r\n\r\n<p>NXP Semiconductors (NXPI) &ndash; Elliott Advisors reaffirms its opinion that NXP is worth USD 135/shr. (Newswires)</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>OTHER NEWS</strong></p>\r\n\r\n<p>Avis Budget (CAR) &ndash; SRS Investment Management, the co.&rsquo;s largest investor who holds a 14.7% stake in voting shares, and a further 15% in derivatives, is looking to add more of their representatives to the board. (WSJ)</p>\r\n\r\n<p>Jack in The Box (JACK) &ndash; JANA Partners announced it has taken a 7.3% stake in the co. (Newswires)</p>\r\n\r\n<p>Tutor Perini (TPC) &ndash; The co. announced its USD 1.41bln Newark Airport Terminal project has been approved by the Port Authority of New York and New Jersey. (Newswires)</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>BROKER MOVES</strong></p>\r\n\r\n<p><strong>Upgrades</strong></p>\r\n\r\n<p>ACORDA THERAPEUTICS (ACOR) UPGRADED TO OVERWEIGHT FROM NEUTRAL AT PIPER JAFFRAY</p>\r\n\r\n<p>ALARM.COM (ALRM) UPGRADED TO OUTPERFORM FROM IN-LINE AT IMPERIAL CAPITAL</p>\r\n\r\n<p>ALLISON TRANSMISSION (ALSN) UPGRADED TO BUY FROM HOLD AT STIFEL</p>\r\n\r\n<p>AVIANCA (AVH) UPGRADED TO NEUTRAL FROM SELL AT UBS</p>\r\n\r\n<p>BLUE APRON (APRN) UPGRADED TO NEUTRAL FROM SELL AT NORTHCOAST</p>\r\n\r\n<p>CALAMP (CAMP) UPGRADED TO OVERWEIGHT FROM EQUAL-WEIGHT AT FIRST ANALYSIS</p>\r\n\r\n<p>CALITHERA (CALA) BIOSCIENCES UPGRADED TO BUY FROM NEUTRAL AT CITI</p>\r\n\r\n<p>COWEN GROUP (COWN) UPGRADED TO BUY FROM NEUTRAL AT NOMURA INSTINET</p>\r\n\r\n<p>DBV TECHNOLOGIES (DBVT) UPGRADED TO BUY FROM HOLD AT PORTZAMPARC</p>\r\n\r\n<p>ENCANA (ECA) UPGRADED TO BUY ON VALUATION AT SOCIETE GENERALE</p>\r\n\r\n<p>ENCANA (ECA) UPGRADED TO OUTPERFORM FROM SECTOR PERFORM AT SCOTIABANK</p>\r\n\r\n<p>EQUITY COMMONWEALTH (EQC) UPGRADED TO BUY FROM HOLD AT STIFEL</p>\r\n\r\n<p>FORTIS (FTS) UPGRADED TO OUTPERFORMER ON VALUATION AT CIBC</p>\r\n\r\n<p>HUNTINGTON INGALLS (HII) UPGRADED TO OUTPERFORM FROM NEUTRAL AT CREDIT SUISSE</p>\r\n\r\n<p>INTERPUBLIC GROUP (IPG) UPGRADED TO NEUTRAL FROM UNDERPERFORM AT MACQUARIE</p>\r\n\r\n<p>KEMPER (KMPR) UPGRADED TO OUTPERFORM FROM MARKET PERFORM AT WILLIAM BLAIR</p>\r\n\r\n<p>MAXWELL (MXWL) UPGRADED TO OUTPERFORM FROM PERFORM AT OPPENHEIMER</p>\r\n\r\n<p>MULESOFT (MULE) UPGRADED TO OVERWEIGHT FROM NEUTRAL AT JPMORGAN</p>\r\n\r\n<p>OMNICOM (OMC) UPGRADED TO NEUTRAL FROM UNDERPERFORM AT MACQUARIE</p>\r\n\r\n<p>OMNICOM (OMC) UPGRADED TO OUTPERFORM FROM MARKET PERFORM AT BMO CAPITAL</p>\r\n\r\n<p>PINNACLE FINANCIAL (PNFP) UPGRADED TO OUTPERFORM FROM MARKET PERFORM AT KEEFE BRUYETTE</p>\r\n\r\n<p>SUN LIFE FINANCIAL (SLF) UPGRADED TO OUTPERFORM FROM MARKET PERFORM AT BMO CAPITAL</p>\r\n\r\n<p>TRINITY INDUSTRIES (TRN) UPGRADED TO OUTPERFORM FROM MARKET PERFORM AT WELLS FARGO</p>\r\n\r\n<p>VOLARIS (VLRS) UPGRADED TO BUY FROM NEUTRAL AT UBS</p>\r\n\r\n<p>WASTE MANAGEMENT (WM) UPGRADED TO OUTPERFORM FROM MARKET PERFORM AT RAYMOND JAMES</p>\r\n\r\n<p>WENDY&#39;S (WEN) UPGRADED TO BUY FROM NEUTRAL AT GUGGENHEIM</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>Downgrades</strong></p>\r\n\r\n<p>A. SCHULMAN (SHLM) DOWNGRADED TO NEUTRAL FROM BUY AT LONGBOW</p>\r\n\r\n<p>AGNICO EAGLE (AEM) DOWNGRADED TO SECTOR PERFORM FROM OUTPERFORM AT NATIONAL BANK</p>\r\n\r\n<p>AIRGAIN (AIRG) DOWNGRADED TO NEUTRAL FROM BUY AT B. RILEY FBR</p>\r\n\r\n<p>ALLISON TRANSMISSION (ALSN) DOWNGRADED TO SECTOR PERFORM AT RBC CAPITAL</p>\r\n\r\n<p>ALLISON TRANSMISSION (ALSN) DOWNGRADED TO UNDERWEIGHT FROM NEUTRAL AT JPMORGAN</p>\r\n\r\n<p>AMBER ROAD (AMBR) DOWNGRADED TO HOLD FROM BUY AT CANACCORD</p>\r\n\r\n<p>ARES MANAGEMENT (ARES) DOWNGRADED TO MARKET PERFORM FROM OUTPERFORM AT WELLS FARGO</p>\r\n\r\n<p>BIOGEN (BIIB) DOWNGRADED TO HOLD FROM BUY AT ARGUS</p>\r\n\r\n<p>BIO-RAD (BIO) DOWNGRADED TO NEUTRAL FROM BUY AT CL KING</p>\r\n\r\n<p>CANADIAN NATIONAL (CNI) DOWNGRADED TO HOLD FROM BUY AT ARGUS</p>\r\n\r\n<p>DR PEPPER SNAPPLE (DPS) DOWNGRADED TO HOLD FROM BUY AT JEFFERIES</p>\r\n\r\n<p>KIMCO REALTY (KIM) DOWNGRADED TO NEUTRAL FROM BUY AT BOFA/MERRILL</p>\r\n\r\n<p>OIL STATES (OIS) DOWNGRADED TO IN LINE FROM OUTPERFORM AT EVERCORE ISI</p>\r\n\r\n<p>OMNICOM (OMC) DOWNGRADED TO SECTOR PERFORM FROM OUTPERFORM AT RBC CAPITAL</p>\r\n\r\n<p>PACIRA (PCRX) DOWNGRADED TO HOLD FROM BUY AT NEEDHAM</p>\r\n\r\n<p>PARKER DRILLING (PKD) DOWNGRADED TO IN LINE FROM OUTPERFORM AT EVERCORE ISI</p>\r\n\r\n<p>PBF ENERGY (PBF) DOWNGRADED TO MARKET PERFORM FROM OUTPERFORM AT COWEN</p>\r\n\r\n<p>QUMU (QUMU) DOWNGRADED TO HOLD FROM BUY AT CRAIG-HALLUM</p>\r\n\r\n<p>SAPIENS (SPNS) DOWNGRADED TO EQUAL WEIGHT FROM OVERWEIGHT AT BARCLAYS</p>\r\n\r\n<p>WESTPAC BANKING (WBK) DOWNGRADED TO EQUAL WEIGHT FROM OVERWEIGHT AT MORGAN STANLEY</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>Initiations</strong></p>\r\n\r\n<p>ACER THERAPEUTICS (ACER) INITIATED WITH AN OUTPERFORM AT WILLIAM BLAIR</p>\r\n\r\n<p>AERIE PHARMACEUTICALS (AERI) ASSUMED WITH A BUY AT H.C. WAINWRIGHT</p>\r\n\r\n<p>AZUL (AZUL) INITIATED WITH A BUY AT UBS</p>\r\n\r\n<p>CASEY&#39;S GENERAL STORES (CASY) INITIATED WITH A BUY AT GABELLI</p>\r\n\r\n<p>CENTENNIAL RESOURCE DEVELOPMENT (CDEV) INITIATED WITH AN OUTPERFORM AT RBC CAPITAL</p>\r\n\r\n<p>DECIPHERA (DCPH) INITIATED WITH A BUY AT B. RILEY FBR</p>\r\n\r\n<p>EAGLE MATERIALS (EXP) COVERAGE TRANSFERRED WITH A BUY AT STIFEL</p>\r\n\r\n<p>FIDUS (FDUS) INVESTMENT INITIATED WITH A BUY AT LADENBURG</p>\r\n\r\n<p>H&amp;E EQUIPMENT (HEES) INITIATED WITH A BUY AT STIFEL</p>\r\n\r\n<p>HOME GROUP (HOME) INITIATED WITH A BUY AT BUCKINGHAM</p>\r\n\r\n<p>ONE STOP SYSTEMS (OSS) INITIATED WITH A BUY AT BENCHMARK</p>\r\n\r\n<p>PAGSEGURO DIGITAL (PAGS) INITIATED WITH A NEUTRAL AT SUSQUEHANNA</p>\r\n\r\n<p>PENNYMAC FINANCIAL (PFSI) INITIATED WITH AN OUTPERFORM AT WEDBUSH</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>Ex-Dividends</strong></p>\r\n\r\n<p>Alaska Air Group Inc (ALK)- USD 0.32&nbsp;</p>\r\n\r\n<p>Allison Transmission Holdings Inc (ALSN)- USD 0.15&nbsp;</p>\r\n\r\n<p>AmerisourceBergen Corp (ABC)- USD 0.38&nbsp;</p>\r\n\r\n<p>Archer Daniels Midland Co (ADM)- USD 0.34&nbsp;</p>\r\n\r\n<p>Buckeye Partners LP (BPL)- USD 1.26&nbsp;</p>\r\n\r\n<p>Carlisle Companies Inc (CSL)- USD 0.37&nbsp;</p>\r\n\r\n<p>Carlyle Group LP (CG)- USD 0.33&nbsp;</p>\r\n\r\n<p>Celanese Corp (CE)- USD 0.46&nbsp;</p>\r\n\r\n<p>Enable Midstream Partners LP (ENBL)- USD 0.32&nbsp;</p>\r\n\r\n<p>HanesBrands Inc (HBI)- USD 0.15&nbsp;</p>\r\n\r\n<p>KKR &amp; Co LP (KKR)- USD 0.17&nbsp;</p>\r\n\r\n<p>Moody&#39;s Corp (MCO)- USD 0.44&nbsp;</p>\r\n\r\n<p>Murphy Oil Corp (MUR)- USD 0.25&nbsp;</p>\r\n\r\n<p>Nordson Corp (NDSN)- USD 0.30&nbsp;</p>\r\n\r\n<p>PacWest Bancorp (PACW)- USD 0.50&nbsp;</p>\r\n\r\n<p>Phillips 66 (PSX)- USD 0.70&nbsp;</p>\r\n\r\n<p>Regency Centers Corp (REG)- USD 0.56&nbsp;</p>\r\n\r\n<p>Rockwell Automation Inc (ROK)- USD 0.84&nbsp;</p>\r\n\r\n<p>Southern Co (SO)- USD 0.58&nbsp;</p>\r\n\r\n<p>Spectra Energy Partners LP (SEP)- USD 0.74&nbsp;</p>\r\n\r\n<p>Spectrum Brands Holdings Inc (SPB)- USD 0.42&nbsp;</p>\r\n\r\n<p>United Parcel Service Inc (UPS)- USD 0.91</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "daily-us-equity-opening-news-qualcomm-qcom-broadcom-avgo-qualcomm-announced-it-has-rejected-broadcom-s-offer-of-usd-82-shr-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-16 21:44:00",
+        "gmt_time": "2018-02-16 13:44:00"
+    },
+    {
+        "id": 610390,
+        "updated_sequence": 780358,
+        "published_at": {
+            "unix": 1518786480,
+            "text": "2018-02-16 13:08:00 +0000",
+            "iso_8601": "2018-02-16T13:08:00Z"
+        },
+        "updated_at": {
+            "unix": 1518786542,
+            "text": "2018-02-16 13:09:02 +0000",
+            "iso_8601": "2018-02-16T13:09:02Z"
+        },
+        "subject": "Scotiabank FX Daily: USD On The Offensive Following Fresh Lows Vs. EUR, JPY",
+        "content": "<p>&middot; USD staging an impressive recovery from start of European session.<br />&middot; CAD quiet, consolidating around 40dma; mfg. sales may be overshadowed.<br />&middot; EUR retreats from fresh multi-year high above 1.2550; ECB&rsquo;s Coeure neutral.<br />&middot; GBP underperforming on retail sales disappointment; PM May meeting Merkel.<br />&middot; JPY showing signs of turn from fresh multi-year high; Kuroda nom. for reappt.<br />&middot; AUD entering NA session flat as RBA Gov. Lowe flags caution on wages.<br />&middot; MXN continues to threaten 200 day MA resistance.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Scotiabank",
+        "slug": "scotiabank-fx-daily-usd-on-the-offensive-following-fresh-lows-vs-eur-jpy-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-16 21:08:00",
+        "gmt_time": "2018-02-16 13:08:00"
+    },
+    {
+        "id": 610389,
+        "updated_sequence": 780355,
+        "published_at": {
+            "unix": 1518786240,
+            "text": "2018-02-16 13:04:00 +0000",
+            "iso_8601": "2018-02-16T13:04:00Z"
+        },
+        "updated_at": {
+            "unix": 1518786286,
+            "text": "2018-02-16 13:04:46 +0000",
+            "iso_8601": "2018-02-16T13:04:46Z"
+        },
+        "subject": "Qualcomm (QCOM) announced it has rejected Broadcom’s (AVGO) offer of USD 82/shr",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "qualcomm-qcom-announced-it-has-rejected-broadcom-s-avgo-offer-of-usd-82-shr-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-16 21:04:00",
+        "gmt_time": "2018-02-16 13:04:00"
+    },
+    {
+        "id": 610388,
+        "updated_sequence": 780352,
+        "published_at": {
+            "unix": 1518782760,
+            "text": "2018-02-16 12:06:00 +0000",
+            "iso_8601": "2018-02-16T12:06:00Z"
+        },
+        "updated_at": {
+            "unix": 1518783095,
+            "text": "2018-02-16 12:11:35 +0000",
+            "iso_8601": "2018-02-16T12:11:35Z"
+        },
+        "subject": "Kraft Heinz (KHC) Q4 Adj. EPS USD 0.90 vs. Exp. USD 0.95, revenue USD 6.88bln vs. Exp. USD 6.91bln ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "kraft-heinz-khc-q4-adj-eps-usd-0-90-vs-exp-usd-0-95-revenue-usd-6-88bln-vs-exp-usd-6-91bln-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-16 20:06:00",
+        "gmt_time": "2018-02-16 12:06:00"
+    },
+    {
+        "id": 610387,
+        "updated_sequence": 780349,
+        "published_at": {
+            "unix": 1518782100,
+            "text": "2018-02-16 11:55:00 +0000",
+            "iso_8601": "2018-02-16T11:55:00Z"
+        },
+        "updated_at": {
+            "unix": 1518782463,
+            "text": "2018-02-16 12:01:03 +0000",
+            "iso_8601": "2018-02-16T12:01:03Z"
+        },
+        "subject": "Coca-Cola Co (KO) Q4 EPS USD 0.39 vs. Exp. USD 0.38, revenue USD 7.50bln vs. Exp. USD 7.36bln",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "coca-cola-co-ko-q4-eps-usd-0-39-vs-exp-usd-0-38-revenue-usd-7-50bln-vs-exp-usd-7-36bln-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-16 19:55:00",
+        "gmt_time": "2018-02-16 11:55:00"
+    },
+    {
+        "id": 610386,
+        "updated_sequence": 780346,
+        "published_at": {
+            "unix": 1518782040,
+            "text": "2018-02-16 11:54:00 +0000",
+            "iso_8601": "2018-02-16T11:54:00Z"
+        },
+        "updated_at": {
+            "unix": 1518782427,
+            "text": "2018-02-16 12:00:27 +0000",
+            "iso_8601": "2018-02-16T12:00:27Z"
+        },
+        "subject": "VF Corp (VFC) Q4 Adj. EPS USD 1.01 vs. Exp. USD 1.02, revenue USD 3.65bln vs. Exp. USD 3.66bln",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "vf-corp-vfc-q4-adj-eps-usd-1-01-vs-exp-usd-1-02-revenue-usd-3-65bln-vs-exp-usd-3-66bln-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-16 19:54:00",
+        "gmt_time": "2018-02-16 11:54:00"
+    },
+    {
+        "id": 610385,
+        "updated_sequence": 780343,
+        "published_at": {
+            "unix": 1518781440,
+            "text": "2018-02-16 11:44:00 +0000",
+            "iso_8601": "2018-02-16T11:44:00Z"
+        },
+        "updated_at": {
+            "unix": 1518781560,
+            "text": "2018-02-16 11:46:00 +0000",
+            "iso_8601": "2018-02-16T11:46:00Z"
+        },
+        "subject": "Option expiries of note for today's 10.00am NY cut (1500GMT)",
+        "content": "<p>EUR/USD: 1.2300 (2.29BLN), 1.2305 (600M),&nbsp;1.2350 (1.4BLN), 1.2400 (1BLN) 1.2415-20 (1.2BLN),&nbsp;&nbsp;1.2425 (1.3BLN), 1.2450-65 (1BLN), 1.2500 (2BLN) 1.2515-25 (916M), 1.2550 (1BLN), 1.2570 (350M) &nbsp; &nbsp; &nbsp; &nbsp; EUR/SEK: 9.80 (1BLN).&nbsp;&nbsp;USD/CHF: 0.9375 (720M), 0.9400 (210M) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br />GBP/USD: 1.3800-05 (515M), 1.4000 (378M), 1.4100 (419M). EUR/GBP: 0.8860 (369M)&nbsp;<br />AUD/USD: 0.7850 (3.8BLN), 0.7950 (2BLN). 0.8050 (1BLN) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br />NZD/USD: 0.7200 (450M).&nbsp;USD/CAD: 1.2470-75 (458M), 1.2500 (381M), 1.2600 (44<br />USD/JPY: 107.00 (1BLN).&nbsp;EUR/JPY: 133.00 (325M). AUD/JPY: 85.00 (231M) &nbsp; &nbsp; &nbsp;&nbsp;<br />&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br />&nbsp;</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "option-expiries-of-note-for-today-s-10-00am-ny-cut-1500gmt-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 22,
+            "name": "FX Flows"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-16 19:44:00",
+        "gmt_time": "2018-02-16 11:44:00"
+    },
+    {
+        "id": 610384,
+        "updated_sequence": 780337,
+        "published_at": {
+            "unix": 1518779520,
+            "text": "2018-02-16 11:12:00 +0000",
+            "iso_8601": "2018-02-16T11:12:00Z"
+        },
+        "updated_at": {
+            "unix": 1518779593,
+            "text": "2018-02-16 11:13:13 +0000",
+            "iso_8601": "2018-02-16T11:13:13Z"
+        },
+        "subject": "Deere & Co (DE) Q1 Adj. EPS USD 1.31vs. Exp. USD 1.20, revenue USD 6.91bln vs. Exp. USD 6.42bln",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "deere-co-de-q1-adj-eps-usd-1-31vs-exp-usd-1-20-revenue-usd-6-91bln-vs-exp-usd-6-42bln-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-16 19:12:00",
+        "gmt_time": "2018-02-16 11:12:00"
+    },
+    {
+        "id": 610383,
+        "updated_sequence": 780334,
+        "published_at": {
+            "unix": 1518778560,
+            "text": "2018-02-16 10:56:00 +0000",
+            "iso_8601": "2018-02-16T10:56:00Z"
+        },
+        "updated_at": {
+            "unix": 1518778633,
+            "text": "2018-02-16 10:57:13 +0000",
+            "iso_8601": "2018-02-16T10:57:13Z"
+        },
+        "subject": "DAILY US OPENING NEWS:  European equities (Eurostoxx 50 +0.9%) trade higher across the board after what was another firm close on Wall Street",
+        "content": "<p><strong>16<sup>th</sup> December 2017</strong></p>\r\n\r\n<ul><li><strong>European equities (Eurostoxx 50 +0.9%) trade higher across the board after what was another firm close on Wall Street</strong></li>\r\n  <li><strong>In FX markets, the Jpy&rsquo;s flight continues to compound the Dollar&rsquo;s plight amongst G10 majors</strong></li>\r\n  <li><strong>Looking ahead, highlights include US building permits, housing starts, Uni. Of Michigan</strong></li>\r\n</ul>\r\n\r\n<p><strong>ASIA</strong></p>\r\n\r\n<p>Stock markets were quiet in Asia with most the region away for Lunar New Year holiday, while the few bourses which were open seemed to have joined in on the celebratory tone and initially took impetus from a 5th consecutive win streak on Wall St. As such, <strong>ASX 200 (-0.1%)</strong> was positive for most the day with earnings in focus, although upside was capped and later reversed amid profit taking in mining-related sectors. <strong>Nikkei 225 (+1.2%)</strong> continued to defy the recent JPY strength and outperformed as participants widely anticipated the Japanese government nominations for Kuroda to serve a 2nd term and 2 more doves for the Deputy Governor roles, while markets in <strong>China, Hong Kong, Taiwan and Singapore</strong> were among the mass holiday closures. Finally, 10yr JGBs were higher as Japanese yields retreated across the curve and which also followed the gains in USTs during the prior session, while the enhanced liquidity auction for longer-dated bonds failed to impact prices with the results broadly inline with the prior.</p>\r\n\r\n<p><a name=\"_Hlk506540479\">Japan submitted nomination for BoJ Governor Kuroda to stay on for another term, while it also nominated reflationist academic Wakatabe and BoJ&rsquo;s Amamiya as Deputy Governors. </a>(Newswires)</p>\r\n\r\n<p><strong>EU/UK/US</strong></p>\r\n\r\n<p>White House urged the House to advance the Goodlatte immigration proposal after 4 bills were defeated in the Senate. (Newswires)</p>\r\n\r\n<p>Former Trump campaign adviser Gates is said to be nearing a plea deal with Special Counsel Mueller with negotiations having taken around a month already. (Newswires)</p>\r\n\r\n<p>The UK&rsquo;s IOD has put forward a bespoke Brexit solution which it believes will protect manufacturers from customs chaos but also allow the UK to strike independent trade deals. (Telegraph)</p>\r\n\r\n<p>UK Retail Sales MM (Jan) 0.1% vs. Exp. 0.5% (Prev. -1.5%, Rev. 1.5%)</p>\r\n\r\n<p>UK Retail Sales YY (Jan) 1.6% vs. Exp. 2.6% (Prev. 1.4%, Rev. 1.5%)</p>\r\n\r\n<p>UK Retail Sales Ex-Fuel MM (Jan) 0.1% vs. Exp. 0.6% (Prev. -1.6%, Rev. -1.5%)</p>\r\n\r\n<p>UK Retail Sales Ex-Fuel YY (Jan) 1.5% vs. Exp. 2.5% (Prev. 1.3%)</p>\r\n\r\n<p><strong>CENTAL BANKS </strong></p>\r\n\r\n<p>ECB&rsquo;s Coeure says interest rates will not rise before bond buying ends; also stating that policy makers are unanimous. Policy language to be discussed in early 2018. (Newswires)</p>\r\n\r\n<p><strong>EQUITIES</strong></p>\r\n\r\n<p>European equities <strong>(Eurostoxx 50 +0.9%)</strong> trade higher across the board after what was another firm close on <strong>Wall Street (S&amp;P 500 +1.2%)</strong>. All ten sectors trade in positive territory with outperformance in utility names following stellar earnings from <strong>EDF (+6.2%),</strong> subsequently dragging other names in the space higher. Elsewhere, energy names are performing well as prices remain supported by the softer USD. This morning&rsquo;s equity newsflow has been largely dominated by a busy slate of earnings from the likes of <strong>Renault (+3.1%), Eni (+1.5%), Allianz (-0.7%) </strong>and<strong> Vivendi (-5.8%) </strong>which have provided a bulk of the focus for traders thus far.</p>\r\n\r\n<p><strong>FX</strong></p>\r\n\r\n<p>The <strong>Jpy&rsquo;s</strong> flight continues to compound the Dollar&rsquo;s plight amongst G10 majors, but the Greenback remains a broader loser as EM currencies and commodities also prosper amidst the latest <strong>Usd</strong> sell-off. The <strong>DXY</strong> only just held above major Fib support at 88.250 overnight as <strong>Usd</strong>/<strong>Jpy</strong> selling eased up ahead of 105.50. However, only mild verbal acknowledgment of the largely one-way tide from Japanese officials, and no mention of intervention inspired a tame or token rebound to around 106.00 before the slide resumed. The <strong>Aud</strong> and <strong>Nzd</strong> are now looking at 0.8000 and 0.7450 vs their US counterpart, while the <strong>Eur</strong> has eclipsed its previous 2018 peak to trade just above 1.2550 and a few pips over the 1.2551 100 MMA having surpassed the 200 version (1.2453) on the way. Stops are said to waiting on a break of 1.2570, ahead of the next upside tech target at 1.2598, but a decent 1.2550 option expiry (1 bn) may keep the pair in check. <strong>Cable</strong> has now advanced through 1.4100 and almost hit 1.4144, with price action relatively contained following this morning&rsquo;s below-expectation UK retail sales release. <strong>Usd</strong>/<strong>Chf</strong> is seriously testing the 0.9200 handle, with 0.9175 in sight.&nbsp;&nbsp;&nbsp;</p>\r\n\r\n<p>Japan&#39;s Chief Govt. spokesman said the FX market has shown one-sided moves recently. He added no need to change government stance on FX however no comments were added on whether appropriate measures include FX intervention. (Newswires)</p>\r\n\r\n<p><strong>FIXED INCOME</strong></p>\r\n\r\n<p><strong>Gilts</strong> and <strong>Bunds</strong> squeezing higher again as more short positions are pared or liquidated ahead of the long US holiday weekend, and with buyers getting extra incentive from sub-forecast UK retail sales. The core 10 year bonds have now been up to 121.01 and 158.20 respectively, +42 and +32 ticks on the day, with some also pointing to bullish chart impulses amidst several gaps being filled in the process. On that note, the Eurex benchmark will now be eyeing Wednesday&rsquo;s session best at 158.38, while its UK peer needs to make a clean break above 121.00 before challenging the next tech resistance levels. Turning to <strong>US</strong> <strong>Treasuries</strong>, the curve flattening theme is still prevalent as the short end continues to underperform on the hawkish Fed rate hike vibe following latest data showing an acceleration in wages, factory gate and consumer prices.</p>\r\n\r\n<p><strong>COMMODITIES </strong></p>\r\n\r\n<p>In the commodities complex, <strong>WTI</strong> and <strong>Brent</strong> crude futures continue to benefit from the softer USD with prices eyeing USD 62.00bbl and USD 65.00bbl to the upside respectively despite forecasts for a continuation of surging US production and a slew of markets currently shut in Asia; Baker Hughes set to take focus in the latter stages of the session. In metals markets, <strong>gold</strong> is on course for its largest percentage rise in two years as the softer USD and buying ahead of the Chinese Lunar New year dictated a bulk of the price action. Elsewhere, <strong>copper</strong> has also benefited from the aforementioned currency swings and global manufacturing picture with prices on track for their largest gain in over a year.&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "daily-us-opening-news-european-equities-eurostoxx-50-0-9-trade-higher-across-the-board-after-what-was-another-firm-close-on-wall-street-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-16 18:56:00",
+        "gmt_time": "2018-02-16 10:56:00"
+    },
+    {
+        "id": 610382,
+        "updated_sequence": 780331,
+        "published_at": {
+            "unix": 1518777720,
+            "text": "2018-02-16 10:42:00 +0000",
+            "iso_8601": "2018-02-16T10:42:00Z"
+        },
+        "updated_at": {
+            "unix": 1518777801,
+            "text": "2018-02-16 10:43:21 +0000",
+            "iso_8601": "2018-02-16T10:43:21Z"
+        },
+        "subject": "Vale (VALE) reports Q4 Iron-ore production at 93.4mln tons",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "vale-vale-reports-q4-iron-ore-production-at-93-4mln-tons-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 37,
+            "name": "Metals News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-16 18:42:00",
+        "gmt_time": "2018-02-16 10:42:00"
+    },
+    {
+        "id": 610381,
+        "updated_sequence": 780328,
+        "published_at": {
+            "unix": 1518777540,
+            "text": "2018-02-16 10:39:00 +0000",
+            "iso_8601": "2018-02-16T10:39:00Z"
+        },
+        "updated_at": {
+            "unix": 1518777618,
+            "text": "2018-02-16 10:40:18 +0000",
+            "iso_8601": "2018-02-16T10:40:18Z"
+        },
+        "subject": "FX LATEST: some relative Usd strength",
+        "content": "<p>Market contacts note a bit of nibbling in the DXY helping to nudge the Index back over 88.400 (just), and this has filtered through the basket as G10 pairings adjust accordingly. Arguably, Cable prompted the partial Dollar recovery having pulled back from best levels just ahead of the UK retail sales release, and now after to around 1.4080 vs circa 1.4145 at one stage. Eur/Usd is having a look at 1.2500 again, and Usd/Jpy is picking off more offers said to be layered just above 106.00. The looming long US holiday weekend does offer the Greenback some further respite on short covering grounds, but it remains to be seen whether it can stop the rot and regain its early February recovery momentum or if the end-2017 into January bear trend has returned with a vengeance. &nbsp;&nbsp;&nbsp;&nbsp;</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "fx-latest-some-relative-usd-strength-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-16 18:39:00",
+        "gmt_time": "2018-02-16 10:39:00"
+    },
+    {
+        "id": 610380,
+        "updated_sequence": 780325,
+        "published_at": {
+            "unix": 1518776580,
+            "text": "2018-02-16 10:23:00 +0000",
+            "iso_8601": "2018-02-16T10:23:00Z"
+        },
+        "updated_at": {
+            "unix": 1518776968,
+            "text": "2018-02-16 10:29:28 +0000",
+            "iso_8601": "2018-02-16T10:29:28Z"
+        },
+        "subject": "ECB's Coeure said to discuss policy language in early 2018",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "ecb-s-coeure-said-to-discuss-policy-language-in-early-2018-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 17,
+            "name": "ECB"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-16 18:23:00",
+        "gmt_time": "2018-02-16 10:23:00"
+    },
+    {
+        "id": 610379,
+        "updated_sequence": 780322,
+        "published_at": {
+            "unix": 1518776520,
+            "text": "2018-02-16 10:22:00 +0000",
+            "iso_8601": "2018-02-16T10:22:00Z"
+        },
+        "updated_at": {
+            "unix": 1518776565,
+            "text": "2018-02-16 10:22:45 +0000",
+            "iso_8601": "2018-02-16T10:22:45Z"
+        },
+        "subject": "ECB’s Coeure says interest rates will not rise before bond buying ends; also stating that policy makers are unanimous",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "ecb-s-coeure-says-interest-rates-will-not-rise-before-bond-buying-ends-also-stating-that-policy-makers-are-unanimous-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 17,
+            "name": "ECB"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-16 18:22:00",
+        "gmt_time": "2018-02-16 10:22:00"
+    },
+    {
+        "id": 610377,
+        "updated_sequence": 780316,
+        "published_at": {
+            "unix": 1518775200,
+            "text": "2018-02-16 10:00:00 +0000",
+            "iso_8601": "2018-02-16T10:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1518775266,
+            "text": "2018-02-16 10:01:06 +0000",
+            "iso_8601": "2018-02-16T10:01:06Z"
+        },
+        "subject": "Volkswagen (VOW3 GY) January group deliveries up 10.1% to 898.7K vehicles",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "volkswagen-vow3-gy-january-group-deliveries-up-10-1-to-898-7k-vehicles-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 1,
+            "name": "DAX"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-16 18:00:00",
+        "gmt_time": "2018-02-16 10:00:00"
+    },
+    {
+        "id": 610376,
+        "updated_sequence": 780313,
+        "published_at": {
+            "unix": 1518774900,
+            "text": "2018-02-16 09:55:00 +0000",
+            "iso_8601": "2018-02-16T09:55:00Z"
+        },
+        "updated_at": {
+            "unix": 1518775014,
+            "text": "2018-02-16 09:56:54 +0000",
+            "iso_8601": "2018-02-16T09:56:54Z"
+        },
+        "subject": "EU MID-SESSION UPDATE: USD remains the driving force in FX. EU bourses higher in a busy morning of earnings. UK retail sales disappoint",
+        "content": "<p>European equities (Eurostoxx 50 +0.9%) trade higher across the board after what was another firm close on Wall Street (S&amp;P 500 +1.2%). All ten sectors trade in positive territory with outperformance in utility names following stellar earnings from EDF (+6.2%), subsequently dragging other names in the space higher. Elsewhere, energy names are performing well as prices remain supported by the softer USD. This morning&rsquo;s equity newsflow has been largely dominated by a busy slate of earnings from the likes of Renault (+3.1%), Eni (+1.5%), Allianz (-0.7%) and Vivendi (-5.8%) which have provided a bulk of the focus for traders thus far.</p>\r\n\r\n<p>The Jpy&rsquo;s flight continues to compound the Dollar&rsquo;s plight amongst G10 majors, but the Greenback remains a broader loser as EM currencies and commodities also prosper amidst the latest Usd sell-off. The DXY only just held above major Fib support at 88.250 overnight as Usd/Jpy selling eased up ahead of 105.50. However, only mild verbal acknowledgment of the largely one-way tide from Japanese officials, and no mention of intervention inspired a tame or token rebound to around 106.00 before the slide resumed. The Aud and Nzd are now looking at 0.8000 and 0.7450 vs their US counterpart, while the Eur has eclipsed its previous 2018 peak to trade just above 1.2550 and a few pips over the 1.2551 100 MMA having surpassed the 200 version (1.2453) on the way. Stops are said to waiting on a break of 1.2570, ahead of the next upside tech target at 1.2598, but a decent 1.2550 option expiry (1 bn) may keep the pair in check. Cable has now advanced through 1.4100 and almost hit 1.4144, with price action relatively contained following this morning&rsquo;s below-expectation UK retail sales release. Usd/Chf is seriously testing the 0.9200 handle, with 0.9175 in sight.&nbsp;&nbsp;&nbsp;&nbsp;</p>\r\n\r\n<p>Gilts and Bunds squeezing higher again as more short positions are pared or liquidated ahead of the long US holiday weekend, and with buyers getting extra incentive from sub-forecast UK retail sales. The core 10 year bonds have now been up to 120.99 and 158.18 respectively, +40 and +30 ticks on the day, with some also pointing to bullish chart impulses amidst several gaps being filled in the process. On that note, the Eurex benchmark will now be eyeing Wednesday&rsquo;s session best at 158.38, while its UK peer clearly has 121.00 to overcome before challenging levels above the round number. Turning to US Treasuries, the curve flattening theme is still prevalent as the short end continues to underperform on the hawkish Fed rate hike vibe following latest data showing an acceleration in wages, factory gate and consumer prices.</p>\r\n\r\n<p>In the commodities complex, WTI and Brent crude futures continue to benefit from the softer USD with prices eyeing USD 62.00bbl and USD 65.00bbl to the upside respectively despite forecasts for a continuation of surging US production and a slew of markets currently shut in Asia; Baker Hughes set to take focus in the latter stages of the session. In metals markets, gold is on course for its largest percentage rise in two years as the softer USD and buying ahead of the Chinese Lunar New year dictated a bulk of the price action. Elsewhere, copper has also benefited from the aforementioned currency swings and global manufacturing picture with prices on track for their largest gain in over a year. &nbsp;</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "eu-mid-session-update-usd-remains-the-driving-force-in-fx-eu-bourses-higher-in-a-busy-morning-of-earnings-uk-retail-sales-disappoint-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-16 17:55:00",
+        "gmt_time": "2018-02-16 09:55:00"
+    },
+    {
+        "id": 610375,
+        "updated_sequence": 780310,
+        "published_at": {
+            "unix": 1518774540,
+            "text": "2018-02-16 09:49:00 +0000",
+            "iso_8601": "2018-02-16T09:49:00Z"
+        },
+        "updated_at": {
+            "unix": 1518774605,
+            "text": "2018-02-16 09:50:05 +0000",
+            "iso_8601": "2018-02-16T09:50:05Z"
+        },
+        "subject": "Fixed Income: core bonds underpinned by underwhelming UK data",
+        "content": "<p>Gilts and Bunds squeezing higher again as more short positions are pared or liquidated ahead of the long US holiday weekend, and with buyers getting extra incentive from sub-forecast UK retail sales. The core 10 year bonds have now been up to 120.99 and 158.18 respectively, +40 and +30 ticks on the day, with some also pointing to bullish chart impulses amidst several gaps being filled in the process. On that note, the Eurex benchmark will now be eyeing Wednesday&rsquo;s session best at 158.38, while its UK peer clearly has 121.00 to overcome before challenging levels above the round number. Turning to US Treasuries, the curve flattening theme is still prevalent as the short end continues to underperform on the hawkish Fed rate hike vibe following latest data showing an acceleration in wages, factory gate and consumer prices.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "fixed-income-core-bonds-underpinned-by-underwhelming-uk-data-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-16 17:49:00",
+        "gmt_time": "2018-02-16 09:49:00"
+    },
+    {
+        "id": 610370,
+        "updated_sequence": 780295,
+        "published_at": {
+            "unix": 1518773100,
+            "text": "2018-02-16 09:25:00 +0000",
+            "iso_8601": "2018-02-16T09:25:00Z"
+        },
+        "updated_at": {
+            "unix": 1518773178,
+            "text": "2018-02-16 09:26:18 +0000",
+            "iso_8601": "2018-02-16T09:26:18Z"
+        },
+        "subject": "FX Morning Colour: DXY on the brink, as Usd/Jpy eyes next big figure break",
+        "content": "<p>The Jpy&rsquo;s flight continues to compound the Dollar&rsquo;s plight amongst G10 majors, but the Greenback remains a broader loser as EM currencies and commodities also prosper amidst the latest Usd sell-off. The DXY only just held above major Fib support at 88.250 overnight as Usd/Jpy selling eased up ahead of 105.50. However, only mild verbal acknowledgment of the largely one-way tide from Japanese officials, and no mention of intervention inspired a tame or token rebound to around 106.00 before the slide resumed. The Aud and Nzd are now looking at 0.8000 and 0.7450 vs their US counterpart, while the Eur has eclipsed its previous 2018 peak to trade just above 1.2550 and a few pips over the 1.2551 100 MMA having surpassed the 200 version (1.2453) on the way. Stops are said to waiting on a break of 1.2570, ahead of the next upside tech target at 1.2598, but a decent 1.2550 option expiry (1 bn) may keep the pair in check. Cable has now advanced through 1.4100 and almost hit 1.4144, but is now looking towards UK retail sales data for some independent, non-Dollar, direction and also faces interim trend-line resistance around 1.4166. Usd/Chf is seriously testing the 0.9200 handle, with 0.9175 in sight. &nbsp;&nbsp;&nbsp;&nbsp;</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "fx-morning-colour-dxy-on-the-brink-as-usd-jpy-eyes-next-big-figure-break-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-16 17:25:00",
+        "gmt_time": "2018-02-16 09:25:00"
+    },
+    {
+        "id": 610370,
+        "updated_sequence": 780295,
+        "published_at": {
+            "unix": 1518773100,
+            "text": "2018-02-16 09:25:00 +0000",
+            "iso_8601": "2018-02-16T09:25:00Z"
+        },
+        "updated_at": {
+            "unix": 1518773178,
+            "text": "2018-02-16 09:26:18 +0000",
+            "iso_8601": "2018-02-16T09:26:18Z"
+        },
+        "subject": "FX Morning Colour: DXY on the brink, as Usd/Jpy eyes next big figure break",
+        "content": "<p>The Jpy&rsquo;s flight continues to compound the Dollar&rsquo;s plight amongst G10 majors, but the Greenback remains a broader loser as EM currencies and commodities also prosper amidst the latest Usd sell-off. The DXY only just held above major Fib support at 88.250 overnight as Usd/Jpy selling eased up ahead of 105.50. However, only mild verbal acknowledgment of the largely one-way tide from Japanese officials, and no mention of intervention inspired a tame or token rebound to around 106.00 before the slide resumed. The Aud and Nzd are now looking at 0.8000 and 0.7450 vs their US counterpart, while the Eur has eclipsed its previous 2018 peak to trade just above 1.2550 and a few pips over the 1.2551 100 MMA having surpassed the 200 version (1.2453) on the way. Stops are said to waiting on a break of 1.2570, ahead of the next upside tech target at 1.2598, but a decent 1.2550 option expiry (1 bn) may keep the pair in check. Cable has now advanced through 1.4100 and almost hit 1.4144, but is now looking towards UK retail sales data for some independent, non-Dollar, direction and also faces interim trend-line resistance around 1.4166. Usd/Chf is seriously testing the 0.9200 handle, with 0.9175 in sight. &nbsp;&nbsp;&nbsp;&nbsp;</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "fx-morning-colour-dxy-on-the-brink-as-usd-jpy-eyes-next-big-figure-break-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-16 17:25:00",
+        "gmt_time": "2018-02-16 09:25:00"
+    },
+    {
+        "id": 610232,
+        "updated_sequence": 780291,
+        "published_at": {
+            "unix": 1518771600,
+            "text": "2018-02-16 09:00:00 +0000",
+            "iso_8601": "2018-02-16T09:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1518771600,
+            "text": "2018-02-16 09:00:00 +0000",
+            "iso_8601": "2018-02-16T09:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE HAS NOW FINISHED, PLEASE REVERT BACK TO YOUR ORIGINAL CHANNEL FOR COVERAGE ON THE UK & EUROPEAN SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-has-now-finished-please-revert-back-to-your-original-channel-for-coverage-on-the-uk-european-session-02-01-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-16 17:00:00",
+        "gmt_time": "2018-02-16 09:00:00"
+    },
+    {
+        "id": 610368,
+        "updated_sequence": 780290,
+        "published_at": {
+            "unix": 1518769860,
+            "text": "2018-02-16 08:31:00 +0000",
+            "iso_8601": "2018-02-16T08:31:00Z"
+        },
+        "updated_at": {
+            "unix": 1518769957,
+            "text": "2018-02-16 08:32:37 +0000",
+            "iso_8601": "2018-02-16T08:32:37Z"
+        },
+        "subject": "Gilts and Short Sterling futures: some short covering ahead of UK retail sales data   ",
+        "content": "<p>UK debt deriving support from a firmer rebound in Bunds (up to 157.97, +8 ticks vs -23 ticks at worst) and some corrective price action after a flat start to Friday&rsquo;s Liffe session and fleeting dip to 120.57 vs yesterday&rsquo;s 120.59 close. The 10 year benchmark climbed to 120.77 before losing momentum and looks set for some sideways consolidation ahead of the ONS retail sales data given the consensus for a decent rebound after December&rsquo;s very weak consumption report (albeit heavily skewed by seasonal factors and on-line promotions). Indeed, the 3 month strip is treading more cautiously just 1 tick either side of parity in paltry volume.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "gilts-and-short-sterling-futures-some-short-covering-ahead-of-uk-retail-sales-data-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-16 16:31:00",
+        "gmt_time": "2018-02-16 08:31:00"
+    },
+    {
+        "id": 610367,
+        "updated_sequence": 780287,
+        "published_at": {
+            "unix": 1518768600,
+            "text": "2018-02-16 08:10:00 +0000",
+            "iso_8601": "2018-02-16T08:10:00Z"
+        },
+        "updated_at": {
+            "unix": 1518768653,
+            "text": "2018-02-16 08:10:53 +0000",
+            "iso_8601": "2018-02-16T08:10:53Z"
+        },
+        "subject": "ECB says banks borrowed EUR 53mln at marginal rate & deposited EUR 687.2bln",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "ecb-says-banks-borrowed-eur-53mln-at-marginal-rate-deposited-eur-687-2bln-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 17,
+            "name": "ECB"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-16 16:10:00",
+        "gmt_time": "2018-02-16 08:10:00"
+    },
+    {
+        "id": 610366,
+        "updated_sequence": 780284,
+        "published_at": {
+            "unix": 1518768300,
+            "text": "2018-02-16 08:05:00 +0000",
+            "iso_8601": "2018-02-16T08:05:00Z"
+        },
+        "updated_at": {
+            "unix": 1518768348,
+            "text": "2018-02-16 08:05:48 +0000",
+            "iso_8601": "2018-02-16T08:05:48Z"
+        },
+        "subject": "Morning EU Movers: EDF (EDF FP) + 4.4%, Renault (RNO FP) +4.2%, Segro (SGRO LN) +3.2%, ENI (ENI SM) +2%, Danone (BN FP) +1%, Vivendi (VIV FP) -3.8%, SAAB (SSAB SS) -6%",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "morning-eu-movers-edf-edf-fp-4-4-renault-rno-fp-4-2-segro-sgro-ln-3-2-eni-eni-sm-2-danone-bn-fp-1-vivendi-viv-fp-3-8-saab-ssab-ss-6-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 28,
+            "name": "EUROSTOXX"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-16 16:05:00",
+        "gmt_time": "2018-02-16 08:05:00"
+    },
+    {
+        "id": 610365,
+        "updated_sequence": 780275,
+        "published_at": {
+            "unix": 1518766800,
+            "text": "2018-02-16 07:40:00 +0000",
+            "iso_8601": "2018-02-16T07:40:00Z"
+        },
+        "updated_at": {
+            "unix": 1518766880,
+            "text": "2018-02-16 07:41:20 +0000",
+            "iso_8601": "2018-02-16T07:41:20Z"
+        },
+        "subject": "Bunds: downtrend resumes after mild recovery late yesterday",
+        "content": "<p>Thursday&rsquo;s short covering rebound amidst further yield curve flattening has stalled, again, with the 10 year German debt future unable to recapture the 158.00 level or maintain a rebound above tech resistance levels around the big figure before ending the Eurex session at 157.88. Hence, the overall bear trend remains intact and Bunds have retreated to 157.66 so far awaiting more direction and opportunities to sell. As usual German wholesale prices did not really impact despite a significant beat vs expectations in m/m terms and the data slate is blank ahead, but ECB&rsquo;s Coeure may provide some impetus ahead of several US releases in the pm session. However, core EU debt continues to take its main cues from US Treasury counterparts that have paused just before the next key levels in futures, and perhaps more importantly in yields, ie 10 year just shy of 2.95% on course for 3%?</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "bunds-downtrend-resumes-after-mild-recovery-late-yesterday-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-16 15:40:00",
+        "gmt_time": "2018-02-16 07:40:00"
+    },
+    {
+        "id": 610364,
+        "updated_sequence": 780266,
+        "published_at": {
+            "unix": 1518765060,
+            "text": "2018-02-16 07:11:00 +0000",
+            "iso_8601": "2018-02-16T07:11:00Z"
+        },
+        "updated_at": {
+            "unix": 1518765497,
+            "text": "2018-02-16 07:18:17 +0000",
+            "iso_8601": "2018-02-16T07:18:17Z"
+        },
+        "subject": "Japan's Chief Govt. spokesman said the FX market has shown one-sided moves recently ",
+        "content": "<p>- He added no need to change government stance on FX</p>\r\n\r\n<p>- No comments were added on whether appropriate measures include FX intervention&nbsp;</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japan-s-chief-govt-spokesman-said-the-fx-market-has-shown-one-sided-moves-recently-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-16 15:11:00",
+        "gmt_time": "2018-02-16 07:11:00"
+    },
+    {
+        "id": 610361,
+        "updated_sequence": 780281,
+        "published_at": {
+            "unix": 1518764160,
+            "text": "2018-02-16 06:56:00 +0000",
+            "iso_8601": "2018-02-16T06:56:00Z"
+        },
+        "updated_at": {
+            "unix": 1518767663,
+            "text": "2018-02-16 07:54:23 +0000",
+            "iso_8601": "2018-02-16T07:54:23Z"
+        },
+        "subject": "Additional European equity stories post the release of the Daily European equity opening news",
+        "content": "<p>Cellnex Telecom (CLNX SM) &ndash; FY 2017 EBITDA EUR 355mln vs. Exp. EUR 353.4mln, revenue EUR 792mln vs. Prev. Y/Y EUR 707mln and FY 2017 net EUR 33mln vs. Exp. EUR 45.7mln. (Newswires)</p>\r\n\r\n<p>Segro (SGRO LN) &ndash; Co reports pre-tax profit GBP 976.3mln vs Prev. GBP 426.4mln. FY EPRA NAV per share +16.3% to GBP 5.56 vs. Prev. GBP 4.78. FY adj. EPS +5.9% to GBP 0.2 vs. Prev. GBP 0.19. (Newswires)</p>\r\n\r\n<p>Balfour Beatty (BBY LN) &ndash; Co. joint venture awarded a USD 1.95bln contract. (Newswires)</p>\r\n\r\n<p>Nibe Industrier (NIBEB SS) &ndash; FY17 sales +23.9% to SEK 19.009bln vs. Prev. SEK 15.348bln. &nbsp;2017 profits after net financial items +16.6% to SEK 2.182bln vs. Prev. 1.871bln. Co. says proposed dividend of SEK 1.05/shr vs. Prev. SEK 0.88/shr. (Newswires)</p>\r\n\r\n<p>Volkswagen (VOW3 GY) &ndash; CEO says media report on the replacement of Audi head Stadler are false. (Newswires)</p>\r\n\r\n<p>INDITEX (ITX SM) UPGRADED TO BUY FROM HOLD AT DZ BANK</p>\r\n\r\n<p>CREDIT SUISSE (CSGN SW) UPGRADED TO BUY FROM HOLD AT DZ BANK</p>\r\n\r\n<p>SHIRE (SHP LN) UPGRADED TO BUY FROM HOLD AT DZ BANK</p>\r\n\r\n<p>STANDARD LIFE ABERDEEN (SLA LN) UPGRADED TO OUTPERFORM FROM MARKET PERFORM AT BERNSTEIN</p>\r\n\r\n<p>SKY (SKY LN) DOWNGRADED TO&nbsp;SECTOR PERFORM FROM OUTPERFORM AT RBC</p>\r\n\r\n<p>ZURICH INSURANCE (ZURN SW) UPGRADED TO HOLD FROM SELL AT BANKHAUS LAMPE</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "additional-european-equity-stories-post-the-release-of-the-daily-european-equity-opening-news-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 33,
+            "name": "European Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-16 14:56:00",
+        "gmt_time": "2018-02-16 06:56:00"
+    },
+    {
+        "id": 610360,
+        "updated_sequence": 780255,
+        "published_at": {
+            "unix": 1518763800,
+            "text": "2018-02-16 06:50:00 +0000",
+            "iso_8601": "2018-02-16T06:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1518764752,
+            "text": "2018-02-16 07:05:52 +0000",
+            "iso_8601": "2018-02-16T07:05:52Z"
+        },
+        "subject": "DAILY EUROPEAN EQUITY OPENING NEWS: Highlights include earnings from Allianz, Renault, EDF, Air France and Danone",
+        "content": "<p><strong>**EUROPEAN EQUITY COVERAGE WILL ONLY COVER COMPANIES IN THE STOXX 600 OR COMPANIES OF SYSTEMIC IMPORTANCE TO PARTICULAR SECTORS**</strong></p>\r\n\r\n<p><strong>16<sup>th</sup> February 2018</strong></p>\r\n\r\n<p><strong>The Daily European Equity Opening News is uploaded at 0700GMT/0100CST recapping all of the overnight equity news</strong></p>\r\n\r\n<p><strong>From 0700GMT/0100CST all equity news will be covered in real time over the audio and headline feed and the full audio rundown will be at 0715GMT/0115CST. </strong></p>\r\n\r\n<p><strong>There will be an additional audio rundown at 0750GMT/0150CST recapping any company news which has hit the wires since 0715GMT/0115CST ahead of the European equity open</strong></p>\r\n\r\n<p><strong>ASIA</strong></p>\r\n\r\n<p>Stock markets were quiet in Asia with most the region away for Lunar New Year holiday, while the few bourses which were open seemed to have joined in on the celebratory tone and initially took impetus from a 5th consecutive win streak on Wall St. As such, ASX 200 (-0.1%) was positive for most the day with earnings in focus, although upside was capped and later reversed amid profit taking in mining-related sectors. Nikkei 225 (+1.3%) continued to defy the recent JPY strength and outperformed as participants widely anticipated the Japanese government nominations for Kuroda to serve a 2nd term and 2 more doves for the Deputy Governor roles, while markets in China, Hong Kong, Taiwan and Singapore were among the mass holiday closures.</p>\r\n\r\n<p><strong>FTSE</strong></p>\r\n\r\n<p><strong>Vodafone (VOD LN)</strong> &ndash; Co. CEO expects merger with Idea Cellular (IDEA IS) to save substantially more than the previously estimated USD 10bln. (Newswires)</p>\r\n\r\n<p><strong>Booker (BOK LN) / Tesco (TSCO LN) &ndash; </strong>The Institutional Shareholder Services advisory firm has suggested Booker&rsquo;s investors to oppose the planned merger with Tesco, as concerns about the financial value of the deal emerged. (Newswires)</p>\r\n\r\n<p>BROKER MOVES</p>\r\n\r\n<p><strong>DAX</strong></p>\r\n\r\n<p><strong>Allianz (ALV GY)</strong> - &nbsp;Q4 net EUR 1.52bln vs. Exp. EUR 1.43bln, operating profit EUR 2.76bln vs. Prev. EUR 3bln, FY operating profit +0.4% to EUR 11.1bln, total revenues +3% to EUR 126.1bln and proposes a 5% dividend increase. (Newswires)</p>\r\n\r\n<p><strong>Deutsche Bank (DBK GY)</strong> &ndash; HNA have further reduced their stake in the Co. 8.88% from 9.2%. (FT)</p>\r\n\r\n<p>OTHER GERMAN COMPANIES</p>\r\n\r\n<p>BROKER MOVES</p>\r\n\r\n<p><strong>CAC</strong></p>\r\n\r\n<p><strong>Renault (RNO FP) &ndash; </strong>2017 revenue +14.7% to EUR 58.77bln vs Exp. EUR 59.25bln. Operating profit +17.4% to EUR 3.854bln vs. Exp. EUR 3.65bln. 2017 net income +49.6% to EUR 5.114bln. Co. intends to keep Carlos Ghosn as CEO. (FT)</p>\r\n\r\n<p><strong>Vivendi (VIV FP)</strong> &ndash; FY adj. net EUR 1.31bln vs. Prev. EUR 755mln, EBITA EUR 987mln vs. Prev. EUR 724mln and revenue EUR 12.4bln vs. Prev. EUR 10.8bln. (Newswires)</p>\r\n\r\n<p><strong>EDF (EDF FP)</strong> &ndash; FY 2017 adj. Net EUR 2.80bln vs. Exp. EUR 1.9bln, EBITDA EUR 13.7bln vs. Exp. EUR 13.7bln and revenue fell 2% to EUR 70bln. (Newswires)</p>\r\n\r\n<p><strong>Air France (AF FP) </strong>&ndash; 2017 Revenues EUR 25.78bln vs. Exp. EUR 25.86bln. 2017 operating results EUR 1.488bln vs. Exp. EUR 1.53bln. 2017 net loss EUR 274mln due to EUR 1.4bln charge to de-risk two pension plans. Q1 unit revenues expected to be positive against last year. (Newswires)</p>\r\n\r\n<p><strong>Danone (BN FP)</strong> &ndash; FY 2017 operating profit EUR 3.54bln vs. Exp. EUR 3.53bln, revenue EUR 24.7bln vs. Exp. EUR 24.7bln and FY 2017 net EUR 2.45bln vs. Prev. EUR 1.72bln. Raises dividend by 11.8%. (Newswires)</p>\r\n\r\n<p>OTHER FRENCH COMPANIES</p>\r\n\r\n<p><strong>Bollore (BOL FP) &ndash;</strong> FY revenue EUR 18.3bln vs Prev. EUR 10.1bln. (Newswires)</p>\r\n\r\n<p><strong>Eutelsat (ETL FP)</strong> &ndash; H1 net EUR 156.5mln vs. Prev. EUR 192.2mln, revenue EUR 697mln vs. Prev. EUR 755mln. (Newswires)</p>\r\n\r\n<p><strong>Faurecia (EO FP)</strong> &ndash; FY17 net profits EUR 714.5mln vs. Prev. EUR 532.5mln Y/Y. Operating profits EUR 1.17bln vs. Exp. EUR 1.14bln. Revenue EUR 16.9bln vs. Prev. EUR 15.6bln Y/Y. Co. raises dividend by 22% to EUR 1.10/shr. Co. affirms 2018 net cash flow guidance EUR 500mln and EPS EUR 5. Guides initial FY18 sales +7% Y/Y. (Newswires)</p>\r\n\r\n<p>BROKER MOVES</p>\r\n\r\n<p><strong>AIRBUS (AIR FP) </strong>UPGRADED TO HOLD FROM SELL AT LANDESBANK BADEN-WURTTEMBERG</p>\r\n\r\n<p><strong>PAN-EUROPE</strong></p>\r\n\r\n<p><strong>Vopak (VPK NA)</strong> &ndash; FY17 net profit EUR 287.4mln vs. Prev. EUR 326.1mln Y/Y. Adj. EBITDA EUR 763.2mln vs. Prev. EUR 822.3mln Y/Y. Revenue EUR 1.35bl1bln vs. Prev. EUR 1.35bln Y/Y. (Newswires)</p>\r\n\r\n<p><strong>Altice (ATC NA)</strong> &ndash; Portugal&rsquo;s competition authority reported on Thursday to launch an investigation into the acquisition by Dutch-based Altice of Media Capital who owns the TVI tv channel. (Newswires)</p>\r\n\r\n<p><strong>Telecom Italia (TIT IM)</strong> &ndash; Co. are looking for binding offers for Persidera this weekend. (Newswires)</p>\r\n\r\n<p><strong>ENI (ENI IM)</strong> &ndash; Q4 adj. net EUR 975mln vs. Exp. EUR 577mln and adj. operating profit EUR 2bln vs. Exp. EUR 1.93bln. (Newswires)</p>\r\n\r\n<p><strong>Telecom Italia (TIT IM)</strong> &ndash; The Italian antitrust authority reported on Thursday to be investigating Italy&rsquo;s TIM, Vodafone, Fastweb and Wind Tre on fear of anti-competitive billing practices. (Newswires)</p>\r\n\r\n<p><strong>Mediaset (MS IM)</strong> &ndash; Vivendi&rsquo;s CEO reported on Thursday to be hopeful in finding an agreement with the Co. (Newswires)</p>\r\n\r\n<p>BROKER MOVES</p>\r\n\r\n<p><strong>ENEL IM (ENEL IM)</strong> UPGRADED TO BUY FROM HOLD AT LANDESBANK BADEN-WURTTEMBERG</p>\r\n\r\n<p><strong>SMI</strong></p>\r\n\r\n<p><strong>Roche (ROG SW) &ndash;</strong> The co. is to acquire Flatiron Health for USD 1.9bln. (Newswires)</p>\r\n\r\n<p>OTHER SWISS COMPANIES</p>\r\n\r\n<p><strong>Schindler Holdings (SCHN SW)</strong> &ndash; FY17 net profits CHF 884mln vs. Prev. CHF 823mln Y/Y. EBIT CHF 1.19bln vs. Prev. CHF 1.13bln Y/Y. Revenue CHF 10.18bln vs. Exp. CHF 10.15bln. Orders CHF 10.9bln vs. Prev. CHF 10.4bln. Guides initial FY18 revenue +3% to +5%. Co. appoints Urs Scheideggers as CFO effective 1<sup>st</sup> Aprill. &nbsp;(Newswires)</p>\r\n\r\n<p>BROKER MOVES</p>\r\n\r\n<p><strong>CLARIANT (CLN SW)</strong> DOWNGRADED TO UNDERPERFORM FROM NEUTRAL AT CREDIT SUISSE</p>\r\n\r\n<p><strong>SCANDINAVIA</strong></p>\r\n\r\n<p><strong>Norsk Hydro (NHY NO)</strong> &ndash; Q4 underlying EBIT NOK 3.555bln vs. Exp. NOK 3.79bln. Co. proposes 2017 dividend NOK 1.75/shr vs. Exp. NOK 1.48/shr. (Newswires)</p>\r\n\r\n<p><strong>SAAB (SSAB SS)</strong> &ndash; Q4 revenue SEK 9.82bln vs. Exp. SEK 9.79bln, operating profit SEK 882mln vs. Prev. SEK 960mln, Q4 EPS SEL 4.81 vs. Prev. SEK 5.82. (Newswires)</p>\r\n\r\n<p>BROKER MOVES</p>\r\n\r\n<p><strong>US</strong></p>\r\n\r\n<p><strong>EQUITIES: SPX +1.21% at 2731 , DJI +1.23% at 25200, NDX +1.8% at 6795</strong></p>\r\n\r\n<p>Top performers: Utilities +1.75%, Tech +1.72%, Industrials +1.23%</p>\r\n\r\n<p>Bottom performers: Energy -0.50%, Financials +0.47%, Cons Cyclicals +0.52%</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>The emini extended gains for a fifth day, continuing to pare-back losses incurred after the volatility-induced slide. The March contract rose to highs above 2725, after breaking through the 2720 resistance level (now turned support). Grinding out gains is proving tough work, and the contract remains around 5% off highs near 2785. Traders continued to cite the healthy landscape of corporate America (solid earnings, fiscal reform boost, etc), and decent prospects for global growth as the driver. In terms of sectors, tech and industrials were leading; Apple was higher after Berkshire Hathaway made the company its top investment, while Cisco&rsquo;s results released on Wednesday were received well. Energy was the laggard, after crude softness in early trade. The VIX, meanwhile remains under the 20 handle.</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "daily-european-equity-opening-news-highlights-include-earnings-from-allianz-renault-edf-air-france-and-danone-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 33,
+            "name": "European Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-16 14:50:00",
+        "gmt_time": "2018-02-16 06:50:00"
+    },
+    {
+        "id": 610359,
+        "updated_sequence": 780239,
+        "published_at": {
+            "unix": 1518762240,
+            "text": "2018-02-16 06:24:00 +0000",
+            "iso_8601": "2018-02-16T06:24:00Z"
+        },
+        "updated_at": {
+            "unix": 1518762512,
+            "text": "2018-02-16 06:28:32 +0000",
+            "iso_8601": "2018-02-16T06:28:32Z"
+        },
+        "subject": "DAILY EUROPEAN OPENING NEWS: Stock markets were quiet in Asia with most the region away for Lunar New Year holiday. Nikkei outperformed post-BoJ appointments",
+        "content": "<ul><li><strong>Stock markets were quiet in Asia with most the region away for Lunar New Year holiday. Nikkei outperformed post-BoJ appointments</strong></li>\r\n  <li><strong>In FX, the greenback gave further ground to its major counterparts</strong></li>\r\n  <li><strong>Looking ahead, highlights include UK retail sales, US building permits, housing starts Uni. Of Michigan</strong></li>\r\n</ul>\r\n\r\n<p><strong>ASIA</strong></p>\r\n\r\n<p><strong>Stock markets were quiet in Asia with most the region away for Lunar New Year holiday</strong>, while the few bourses which were open seemed to have joined in on the celebratory tone and initially took impetus from a 5th consecutive win streak on Wall St. As such, <strong>ASX 200 (-0.1%)</strong> was positive for most the day with earnings in focus, although upside was capped and later reversed amid profit taking in mining-related sectors. <strong>Nikkei 225 (+1.3%)</strong> continued to defy the recent JPY strength and outperformed as participants widely anticipated the Japanese government nominations for Kuroda to serve a 2nd term and 2 more doves for the Deputy Governor roles, while markets in <strong>China, Hong Kong, Taiwan </strong>and<strong> Singapore</strong> were among the mass holiday closures. Finally, 10yr JGBs were higher as Japanese yields retreated across the curve and which also followed the gains in USTs during the prior session, while the enhanced liquidity auction for longer-dated bonds failed to impact prices with the results broadly inline with the prior.</p>\r\n\r\n<p>Japan submitted nomination for BoJ Governor Kuroda to stay on for another term, while it also nominated reflationist academic Wakatabe and BoJ&rsquo;s Amamiya as Deputy Governors. (Newswires)</p>\r\n\r\n<p><br /><strong>UK/EU</strong></p>\r\n\r\n<p>UK government is reportedly prepared to lay out its post-Brexit vision for the financial services sector. (Newswires)</p>\r\n\r\n<p>The UK&rsquo;s IOD has put forward a bespoke Brexit solution which it believes will protect manufacturers from customs chaos but also allow the UK to strike independent trade deals. (Telegraph)</p>\r\n\r\n<p>Norwegian Central Bank Governor Olsen said may hike interest rates this year and that the NOK exchange rate puts limits on how far rates can deviate from other countries. (Newswires)<br />&nbsp;</p>\r\n\r\n<p><strong>FX</strong></p>\r\n\r\n<p><strong><a name=\"_Hlk503148913\"></a><a name=\"_Hlk503148890\"></a><a name=\"_Hlk503148850\">FX markets were initially uneventful amid the holiday-quietened conditions, until the greenback gave further ground to its major counterparts in which </a>EUR/USD and GBP/USD gained a firmer footing at the 1.2500 and 1.4100 handles respectively. Elsewhere. USD/JPY ignored Kuroda&rsquo;s nomination for a 2<sup>nd</sup> term as this was widely expected, and instead saw a fall-out from the USD-weakness as stops were triggered on a break below the 106.00 level for the first time since 2016, which also pressured JPY-crosses in tandem.<br /><br />COMMODITIES</strong></p>\r\n\r\n<p>Commodities saw mild gains overnight as the weakness in the greenback continued to underpin prices, with WTI crude futures edging closer towards a retest of the USD 62/bbl level where it encountered resistance last week. Elsewhere, gold is on course for its best weekly performance since 2016 due to the softer USD and firmer US inflation, while copper also saw marginal upside amid the heightened global risk appetite despite the absence of its largest consumer China.</p>\r\n\r\n<p>White House Legislative Director Short said there is no support for a gas tax hike in Congress. (Newswires)</p>\r\n\r\n<p><br /><strong>US</strong></p>\r\n\r\n<p>The surge higher in yields paused on Thursday, with buyers emerging as 10-year yields rose above 2.90% (2.94% was the HOD). Today&rsquo;s data slate (PPI, industrial production, Philly Fed, weekly jobless claims) had little influence on price action, with the narrative still fixed on inflationary pressures following the January payrolls data which signalled wages were firming, and January&rsquo;s CPI data released this week, that surprised to the upside; yesterday&rsquo;s retail sales missed was being explained away as a blip following retail inventories being drawn down strongly, leaving retailers with little need to slash prices in January sales, perhaps explaining the weakness in the January retail sales data. The US Treasury auctioned new 30-year tips, tailing by 1.4bps, though indirect participation was encouraging. The US Treasury announced it will next week auction $28bln in 2s, $35bln in 5s, and $29bln in 7s, as well as $15bln of 2y FRNs. At settlement, The Treasuries were little changed on the day, with most of the action focussed in the long end, where yields fell by just shy of 3bps. T-Note Futures settle 4 ticks higher at 120-14+.</p>\r\n\r\n<p>US Treasury announcement: USD 51bln in 3-month bills, USD 45bln in 6 month bills, USD 28bln 2yr Notes, USD 35bln 5yr Notes, USD 29bln 7yr Notes, USD 15bln 2yr FRN. (Newswires)</p>\r\n\r\n<p>US Treasury Secretary Mnuchin said he is cautiously hopeful that NAFTA will be renegotiated and that the US priority is to renegotiate the deal. In related news, White House confirmed US President Trump will meet Mexico President Pena Nieto, while there were also comments from Mexican NAFTA negotiator who noted 6 to 10 chapters are ready to close but there is still a lot of work to do on autos. (Newswires)</p>\r\n\r\n<p>White House urged the House to advance the Goodlatte immigration proposal after 4 bills were defeated in the Senate. (Newswires)</p>\r\n\r\n<p>Former Trump campaign adviser Gates is said to be nearing a plea deal with Special Counsel Mueller with negotiations having taken around a month already. (Newswires)]</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "ransquawk",
+        "slug": "daily-european-opening-news-stock-markets-were-quiet-in-asia-with-most-the-region-away-for-lunar-new-year-holiday-nikkei-outperformed-post-boj-appointments-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-16 14:24:00",
+        "gmt_time": "2018-02-16 06:24:00"
+    },
+    {
+        "id": 610358,
+        "updated_sequence": 780234,
+        "published_at": {
+            "unix": 1518761040,
+            "text": "2018-02-16 06:04:00 +0000",
+            "iso_8601": "2018-02-16T06:04:00Z"
+        },
+        "updated_at": {
+            "unix": 1518761172,
+            "text": "2018-02-16 06:06:12 +0000",
+            "iso_8601": "2018-02-16T06:06:12Z"
+        },
+        "subject": "Japan MoF, FSA and BoJ are to hold a meeting at 1600 local time (0700GMT) regarding international markets",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japan-mof-fsa-and-boj-are-to-hold-a-meeting-at-1600-local-time-0700gmt-regarding-international-markets-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-16 14:04:00",
+        "gmt_time": "2018-02-16 06:04:00"
+    },
+    {
+        "id": 610357,
+        "updated_sequence": 780231,
+        "published_at": {
+            "unix": 1518760800,
+            "text": "2018-02-16 06:00:00 +0000",
+            "iso_8601": "2018-02-16T06:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1518760883,
+            "text": "2018-02-16 06:01:23 +0000",
+            "iso_8601": "2018-02-16T06:01:23Z"
+        },
+        "subject": "Nikkei 225 closes higher by 1.2% at 21,720",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "nikkei-225-closes-higher-by-1-2-at-21-720-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-16 14:00:00",
+        "gmt_time": "2018-02-16 06:00:00"
+    },
+    {
+        "id": 610356,
+        "updated_sequence": 780228,
+        "published_at": {
+            "unix": 1518760440,
+            "text": "2018-02-16 05:54:00 +0000",
+            "iso_8601": "2018-02-16T05:54:00Z"
+        },
+        "updated_at": {
+            "unix": 1518760554,
+            "text": "2018-02-16 05:55:54 +0000",
+            "iso_8601": "2018-02-16T05:55:54Z"
+        },
+        "subject": "Vodafone (VOD LN) CEO expects merger with Idea Cellular (IDEA IS) to save substantially more than the previously estimated USD 10bln",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "vodafone-vod-ln-ceo-expects-merger-with-idea-cellular-idea-is-to-save-substantially-more-than-the-previously-estimated-usd-10bln-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-16 13:54:00",
+        "gmt_time": "2018-02-16 05:54:00"
+    },
+    {
+        "id": 610355,
+        "updated_sequence": 780225,
+        "published_at": {
+            "unix": 1518760140,
+            "text": "2018-02-16 05:49:00 +0000",
+            "iso_8601": "2018-02-16T05:49:00Z"
+        },
+        "updated_at": {
+            "unix": 1518760400,
+            "text": "2018-02-16 05:53:20 +0000",
+            "iso_8601": "2018-02-16T05:53:20Z"
+        },
+        "subject": "ASIA-PAC MARKET WRAP: Asia quiet with most the region on holiday, USD gave up further ground and USD/JPY slipped below the 106.00 handle",
+        "content": "<p>Stock markets were quiet in Asia with most the region away for Lunar New Year holiday, while the few bourses which were open seemed to have joined in on the celebratory tone and initially took impetus from a 5th consecutive win streak on Wall St. As such, ASX 200 (-0.1%) was positive for most the day with earnings in focus, although upside was capped and later reversed amid profit taking in mining-related sectors. Nikkei 225 (+1.3%) continued to defy the recent JPY strength and outperformed as participants widely anticipated the Japanese government nominations for Kuroda to serve a 2nd term and 2 more doves for the Deputy Governor roles, while markets in China, Hong Kong, Taiwan and Singapore were among the mass holiday closures. Finally, 10yr JGBs were higher as Japanese yields retreated across the curve and which also followed the gains in USTs during the prior session, while the enhanced liquidity auction for longer-dated bonds failed to impact prices with the results broadly inline with the prior.</p>\r\n\r\n<p>FX markets were initially uneventful amid the holiday-quietened conditions, until the greenback gave further ground to its major counterparts in which EUR/USD and GBP/USD gained a firmer footing at the 1.2500 and 1.4100 handles respectively. Elsewhere. USD/JPY ignored Kuroda&rsquo;s nomination for a 2<sup>nd</sup> term as this was widely expected, and instead saw a fall-out from the USD-weakness as stops were triggered on a break below the 106.00 level for the first time since 2016, which also pressured JPY-crosses in tandem.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-market-wrap-asia-quiet-with-most-the-region-on-holiday-usd-gave-up-further-ground-and-usd-jpy-slipped-below-the-106-00-handle-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-16 13:49:00",
+        "gmt_time": "2018-02-16 05:49:00"
+    },
+    {
+        "id": 610354,
+        "updated_sequence": 780222,
+        "published_at": {
+            "unix": 1518758880,
+            "text": "2018-02-16 05:28:00 +0000",
+            "iso_8601": "2018-02-16T05:28:00Z"
+        },
+        "updated_at": {
+            "unix": 1518759047,
+            "text": "2018-02-16 05:30:47 +0000",
+            "iso_8601": "2018-02-16T05:30:47Z"
+        },
+        "subject": "Moody's says Australian Prudential Regulation Authority's proposed changes to capital framework are credit positive for the nation's banks",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "moody-s-says-australian-prudential-regulation-authority-s-proposed-changes-to-capital-framework-are-credit-positive-for-the-nation-s-banks-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-16 13:28:00",
+        "gmt_time": "2018-02-16 05:28:00"
+    },
+    {
+        "id": 610353,
+        "updated_sequence": 780219,
+        "published_at": {
+            "unix": 1518758220,
+            "text": "2018-02-16 05:17:00 +0000",
+            "iso_8601": "2018-02-16T05:17:00Z"
+        },
+        "updated_at": {
+            "unix": 1518758377,
+            "text": "2018-02-16 05:19:37 +0000",
+            "iso_8601": "2018-02-16T05:19:37Z"
+        },
+        "subject": "UK government is reportedly prepared to lay out its post-Brexit vision for the financial services sector",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "uk-government-is-reportedly-prepared-to-lay-out-its-post-brexit-vision-for-the-financial-services-sector-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-16 13:17:00",
+        "gmt_time": "2018-02-16 05:17:00"
+    },
+    {
+        "id": 610352,
+        "updated_sequence": 780216,
+        "published_at": {
+            "unix": 1518757200,
+            "text": "2018-02-16 05:00:00 +0000",
+            "iso_8601": "2018-02-16T05:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1518757307,
+            "text": "2018-02-16 05:01:47 +0000",
+            "iso_8601": "2018-02-16T05:01:47Z"
+        },
+        "subject": "ASX 200 preliminary close is down 0.1% at 5905.00",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "asx-200-preliminary-close-is-down-0-1-at-5905-00-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-16 13:00:00",
+        "gmt_time": "2018-02-16 05:00:00"
+    },
+    {
+        "id": 610351,
+        "updated_sequence": 780213,
+        "published_at": {
+            "unix": 1518756780,
+            "text": "2018-02-16 04:53:00 +0000",
+            "iso_8601": "2018-02-16T04:53:00Z"
+        },
+        "updated_at": {
+            "unix": 1518756865,
+            "text": "2018-02-16 04:54:25 +0000",
+            "iso_8601": "2018-02-16T04:54:25Z"
+        },
+        "subject": "Brazil government orders military intervention in Rio de Janeiro in which security forces were sent into a slum to restore order after 5 days of violence",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "brazil-government-orders-military-intervention-in-rio-de-janeiro-in-which-security-forces-were-sent-into-a-slum-to-restore-order-after-5-days-of-violence-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-16 12:53:00",
+        "gmt_time": "2018-02-16 04:53:00"
+    },
+    {
+        "id": 610350,
+        "updated_sequence": 780210,
+        "published_at": {
+            "unix": 1518754200,
+            "text": "2018-02-16 04:10:00 +0000",
+            "iso_8601": "2018-02-16T04:10:00Z"
+        },
+        "updated_at": {
+            "unix": 1518754323,
+            "text": "2018-02-16 04:12:03 +0000",
+            "iso_8601": "2018-02-16T04:12:03Z"
+        },
+        "subject": "USD woes continue with USD/JPY tripping through stops on breakdown through the 106.00 level for the 1st time since November 2016, while JPY-cross also dampened in tandem ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "usd-woes-continue-with-usd-jpy-tripping-through-stops-on-breakdown-through-the-106-00-level-for-the-1st-time-since-november-2016-while-jpy-cross-also-dampened-in-tandem-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-16 12:10:00",
+        "gmt_time": "2018-02-16 04:10:00"
+    },
+    {
+        "id": 610349,
+        "updated_sequence": 780207,
+        "published_at": {
+            "unix": 1518752700,
+            "text": "2018-02-16 03:45:00 +0000",
+            "iso_8601": "2018-02-16T03:45:00Z"
+        },
+        "updated_at": {
+            "unix": 1518752902,
+            "text": "2018-02-16 03:48:22 +0000",
+            "iso_8601": "2018-02-16T03:48:22Z"
+        },
+        "subject": "Japan sells JPY 398.2bln in 20yr, 30yr and 40yr JGBs in enhanced liquidity auction; b/c 2.80 vs. Prev. 2.82",
+        "content": "<p>- Highest accepted spread 0.006% vs. Prev. 0.006%<br />- Allotment of bids at highest spread 66.3730% vs. Prev. 81.6766%<br />- Average accepted spread 0.007% vs. Prev. 0.007%</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japan-sells-jpy-398-2bln-in-20yr-30yr-and-40yr-jgbs-in-enhanced-liquidity-auction-b-c-2-80-vs-prev-2-82-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-16 11:45:00",
+        "gmt_time": "2018-02-16 03:45:00"
+    },
+    {
+        "id": 610348,
+        "updated_sequence": 780201,
+        "published_at": {
+            "unix": 1518751440,
+            "text": "2018-02-16 03:24:00 +0000",
+            "iso_8601": "2018-02-16T03:24:00Z"
+        },
+        "updated_at": {
+            "unix": 1518751581,
+            "text": "2018-02-16 03:26:21 +0000",
+            "iso_8601": "2018-02-16T03:26:21Z"
+        },
+        "subject": "PRE-MARKET INDIAN STOCK NEWS: RBI directed Punjab National Bank to pay the entire amount owed to counterparty banks in the alleged INR 113.9bln fraud",
+        "content": "<p>Fortis Healthcare (FORTIS IS)<br />- India&rsquo;s top court has paved the way for the sale of Co. shares which was pledged to lenders by former board members Malvinder and Shivinder Singh. (ET)</p>\r\n\r\n<p>Punjab National Bank (PNB IS)<br />- Co. notified BSE about fraud equal to INR 113.9bln, while RBI directed Punjab National Bank to pay the entire amount owed to counterparty banks in the alleged fraud. (Newswires)</p>\r\n\r\n<p>Union Bank of India (UNBK IS)<br />- Co. estimates outstanding exposure to Punjab National Bank (PNB IS) issue of about USD 300mln and is confident it will receive payment. (Newswires)</p>\r\n\r\n<p>Financials<br />- RBI said it stands prepared to inject additional cash into the banking system if required ahead of March-end to aid lenders in managing liquidity heading into end of quarter and fiscal year. (Moneycontrol)</p>\r\n\r\n<p>Data Recap<br />- India Trade Balance (USD)(Jan) -16.3B vs. Exp. -13.0B (Prev. -14.9B). (Newswires)<br />- India Exports (Jan) Y/Y 9.1% (Prev. 12.4%)<br />- India Imports (Jan) Y/Y 26.1% (Prev. 21.1%)<br />&nbsp;</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-indian-stock-news-rbi-directed-punjab-national-bank-to-pay-the-entire-amount-owed-to-counterparty-banks-in-the-alleged-inr-113-9bln-fraud-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-16 11:24:00",
+        "gmt_time": "2018-02-16 03:24:00"
+    },
+    {
+        "id": 610347,
+        "updated_sequence": 780198,
+        "published_at": {
+            "unix": 1518750180,
+            "text": "2018-02-16 03:03:00 +0000",
+            "iso_8601": "2018-02-16T03:03:00Z"
+        },
+        "updated_at": {
+            "unix": 1518750299,
+            "text": "2018-02-16 03:04:59 +0000",
+            "iso_8601": "2018-02-16T03:04:59Z"
+        },
+        "subject": "White House urges House to advance Goodlatte immigration proposal after 4 bills were defeated in Senate",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "white-house-urges-house-to-advance-goodlatte-immigration-proposal-after-4-bills-were-defeated-in-senate-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-16 11:03:00",
+        "gmt_time": "2018-02-16 03:03:00"
+    },
+    {
+        "id": 610346,
+        "updated_sequence": 780195,
+        "published_at": {
+            "unix": 1518748680,
+            "text": "2018-02-16 02:38:00 +0000",
+            "iso_8601": "2018-02-16T02:38:00Z"
+        },
+        "updated_at": {
+            "unix": 1518748772,
+            "text": "2018-02-16 02:39:32 +0000",
+            "iso_8601": "2018-02-16T02:39:32Z"
+        },
+        "subject": "ASIA-PAC MID SESSION UPDATE: Asia celebrates Lunar New Year",
+        "content": "<p>Trade is exceptionally quiet in Asia with most the region away for Lunar New Year holiday, while the few bourses which are open seem to have joined in on the celebratory tone and take impetus from a 5<sup>th</sup> consecutive win streak on Wall St. As such, ASX 200 (+0.1%) is positive with earnings remaining in focus, although upside is capped amid profit taking in mining-related sectors. Elsewhere, Nikkei 225 (+1.1%) continues to defy the recent JPY strength and outperforms as participants widely anticipated the Japanese government nominations for Kuroda to serve a 2<sup>nd</sup> term, as well as BoJ&rsquo;s Amamiya and reflationist academic Wakatabe for the Deputy Governor positions.</p>\r\n\r\n<p>FX markets are uneventful amid the holiday-quietened conditions, although the greenback gave further ground to its major counterparts with EUR/USD and GBP/USD trading at the 1.2500 and 1.4100 handles respectively. Elsewhere, AUD/USD is flat after it largely ignored comments from RBA Governor Lowe who reiterated that the most likely next move in rates is up but he doesn&#39;t see a strong case for a near-term policy adjustment, while the Japanese government nominations for the BoJ including a 2<sup>nd</sup> term for Governor Kuroda failed to spur a reaction as this was widely expected.</p>\r\n\r\n<p>Finally, 10yr JGBs are higher as Japanese yields retreat across the curve and which also follows the gains in USTs during the prior session, while focus now shifts to the enhanced liquidity auction for longer-dated Japanese bonds later.</p>\r\n\r\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-mid-session-update-asia-celebrates-lunar-new-year-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-16 10:38:00",
+        "gmt_time": "2018-02-16 02:38:00"
+    },
+    {
+        "id": 610345,
+        "updated_sequence": 780192,
+        "published_at": {
+            "unix": 1518746640,
+            "text": "2018-02-16 02:04:00 +0000",
+            "iso_8601": "2018-02-16T02:04:00Z"
+        },
+        "updated_at": {
+            "unix": 1518746740,
+            "text": "2018-02-16 02:05:40 +0000",
+            "iso_8601": "2018-02-16T02:05:40Z"
+        },
+        "subject": "Japan submits nomination for BoJ Governor Kuroda for another term, while it also submits nominations for Wakatabe and Amamiya as Deputy Governors",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japan-submits-nomination-for-boj-governor-kuroda-for-another-term-while-it-also-submits-nominations-for-wakatabe-and-amamiya-as-deputy-governors-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-16 10:04:00",
+        "gmt_time": "2018-02-16 02:04:00"
+    },
+    {
+        "id": 610344,
+        "updated_sequence": 780189,
+        "published_at": {
+            "unix": 1518746400,
+            "text": "2018-02-16 02:00:00 +0000",
+            "iso_8601": "2018-02-16T02:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1518746647,
+            "text": "2018-02-16 02:04:07 +0000",
+            "iso_8601": "2018-02-16T02:04:07Z"
+        },
+        "subject": "New Zealand Non-Resident Bond Holdings (Jan) 60.0% (Prev. 61.1%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "new-zealand-non-resident-bond-holdings-jan-60-0-prev-61-1-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-16 10:00:00",
+        "gmt_time": "2018-02-16 02:00:00"
+    },
+    {
+        "id": 610342,
+        "updated_sequence": 780183,
+        "published_at": {
+            "unix": 1518744000,
+            "text": "2018-02-16 01:20:00 +0000",
+            "iso_8601": "2018-02-16T01:20:00Z"
+        },
+        "updated_at": {
+            "unix": 1518744809,
+            "text": "2018-02-16 01:33:29 +0000",
+            "iso_8601": "2018-02-16T01:33:29Z"
+        },
+        "subject": "BoJ Governor Kuroda says Japan's economy is expanding moderately but growth in prices remain low",
+        "content": "<p>Says:<br />- BoJ must maintain powerful; easing and that Japan is not yet in a position where BoJ can offer plan on how and when to exit ultra-loose policy.<br />- When time for exit arrives, BoJ will communicate its tensions in an appropriate manner&nbsp;to avoid market turbulence..</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "boj-governor-kuroda-says-japan-s-economy-is-expanding-moderately-but-growth-in-prices-remain-low-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-16 09:20:00",
+        "gmt_time": "2018-02-16 01:20:00"
+    },
+    {
+        "id": 610341,
+        "updated_sequence": 780175,
+        "published_at": {
+            "unix": 1518743700,
+            "text": "2018-02-16 01:15:00 +0000",
+            "iso_8601": "2018-02-16T01:15:00Z"
+        },
+        "updated_at": {
+            "unix": 1518743770,
+            "text": "2018-02-16 01:16:10 +0000",
+            "iso_8601": "2018-02-16T01:16:10Z"
+        },
+        "subject": "HNA (521 HK) is said to reduce stake in Deutsche Bank (DBK GY) to 8.8% from 9.2%, according to FT",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "hna-521-hk-is-said-to-reduce-stake-in-deutsche-bank-dbk-gy-to-8-8-from-9-2-according-to-ft-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-16 09:15:00",
+        "gmt_time": "2018-02-16 01:15:00"
+    },
+    {
+        "id": 610340,
+        "updated_sequence": 780172,
+        "published_at": {
+            "unix": 1518742500,
+            "text": "2018-02-16 00:55:00 +0000",
+            "iso_8601": "2018-02-16T00:55:00Z"
+        },
+        "updated_at": {
+            "unix": 1518742583,
+            "text": "2018-02-16 00:56:23 +0000",
+            "iso_8601": "2018-02-16T00:56:23Z"
+        },
+        "subject": "RBA Governor Lowe says on a trade weighted index basis. AUD is manageable, adds would prefer a lower AUD than higher but 'we are where we are'",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "rba-governor-lowe-says-on-a-trade-weighted-index-basis-aud-is-manageable-adds-would-prefer-a-lower-aud-than-higher-but-we-are-where-we-are-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-16 08:55:00",
+        "gmt_time": "2018-02-16 00:55:00"
+    },
+    {
+        "id": 610339,
+        "updated_sequence": 780169,
+        "published_at": {
+            "unix": 1518741180,
+            "text": "2018-02-16 00:33:00 +0000",
+            "iso_8601": "2018-02-16T00:33:00Z"
+        },
+        "updated_at": {
+            "unix": 1518741501,
+            "text": "2018-02-16 00:38:21 +0000",
+            "iso_8601": "2018-02-16T00:38:21Z"
+        },
+        "subject": "Former Trump campaign adviser Gates is said to be nearing a plea deal with Special Counsel Mueller with negotiations having taken around a month already",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "former-trump-campaign-adviser-gates-is-said-to-be-nearing-a-plea-deal-with-special-counsel-mueller-with-negotiations-having-taken-around-a-month-already-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-16 08:33:00",
+        "gmt_time": "2018-02-16 00:33:00"
+    },
+    {
+        "id": 610337,
+        "updated_sequence": 780163,
+        "published_at": {
+            "unix": 1518740640,
+            "text": "2018-02-16 00:24:00 +0000",
+            "iso_8601": "2018-02-16T00:24:00Z"
+        },
+        "updated_at": {
+            "unix": 1518740743,
+            "text": "2018-02-16 00:25:43 +0000",
+            "iso_8601": "2018-02-16T00:25:43Z"
+        },
+        "subject": "HNA (521 HK) is said to sell midtown Manhattan office building ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "hna-521-hk-is-said-to-sell-midtown-manhattan-office-building-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-16 08:24:00",
+        "gmt_time": "2018-02-16 00:24:00"
+    },
+    {
+        "id": 610336,
+        "updated_sequence": 780160,
+        "published_at": {
+            "unix": 1518740400,
+            "text": "2018-02-16 00:20:00 +0000",
+            "iso_8601": "2018-02-16T00:20:00Z"
+        },
+        "updated_at": {
+            "unix": 1518740450,
+            "text": "2018-02-16 00:20:50 +0000",
+            "iso_8601": "2018-02-16T00:20:50Z"
+        },
+        "subject": "Reminder: Taiwan, Singapore, China and Hong Kong are all shut today",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "reminder-taiwan-singapore-china-and-hong-kong-are-all-shut-today-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-16 08:20:00",
+        "gmt_time": "2018-02-16 00:20:00"
+    },
+    {
+        "id": 610335,
+        "updated_sequence": 780157,
+        "published_at": {
+            "unix": 1518739320,
+            "text": "2018-02-16 00:02:00 +0000",
+            "iso_8601": "2018-02-16T00:02:00Z"
+        },
+        "updated_at": {
+            "unix": 1518739526,
+            "text": "2018-02-16 00:05:26 +0000",
+            "iso_8601": "2018-02-16T00:05:26Z"
+        },
+        "subject": "Asia stock markets begin positive after a 5th consecutive win streak on Wall St, although gains are mild in Asia amid mass closures with most the region away for Lunar New Year",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-stock-markets-begin-positive-after-a-5th-consecutive-win-streak-on-wall-st-although-gains-are-mild-in-asia-amid-mass-closures-with-most-the-region-away-for-lunar-new-year-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-16 08:02:00",
+        "gmt_time": "2018-02-16 00:02:00"
+    },
+    {
+        "id": 610338,
+        "updated_sequence": 780166,
+        "published_at": {
+            "unix": 1518739200,
+            "text": "2018-02-16 00:00:00 +0000",
+            "iso_8601": "2018-02-16T00:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1518741156,
+            "text": "2018-02-16 00:32:36 +0000",
+            "iso_8601": "2018-02-16T00:32:36Z"
+        },
+        "subject": "Australia sells AUD 400mln 2021 bonds b/c 5.0, avg. yield 2.2960%",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "australia-sells-aud-400mln-2021-bonds-b-c-5-0-avg-yield-2-2960-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-16 08:00:00",
+        "gmt_time": "2018-02-16 00:00:00"
+    },
+    {
+        "id": 610334,
+        "updated_sequence": 780151,
+        "published_at": {
+            "unix": 1518739200,
+            "text": "2018-02-16 00:00:00 +0000",
+            "iso_8601": "2018-02-16T00:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1518739233,
+            "text": "2018-02-16 00:00:33 +0000",
+            "iso_8601": "2018-02-16T00:00:33Z"
+        },
+        "subject": "S&P affirms Venezuela long-term foreign currency rating at SD",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "s-p-affirms-venezuela-long-term-foreign-currency-rating-at-sd-16-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-16 08:00:00",
+        "gmt_time": "2018-02-16 00:00:00"
+    }
+]

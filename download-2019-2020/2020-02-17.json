@@ -1,0 +1,3226 @@
+[
+    {
+        "id": 909170,
+        "updated_sequence": 2112882,
+        "published_at": {
+            "unix": 1581983700,
+            "text": "2020-02-17 23:55:00 +0000",
+            "iso_8601": "2020-02-17T23:55:00Z"
+        },
+        "updated_at": {
+            "unix": 1581997506,
+            "text": "2020-02-18 03:45:06 +0000",
+            "iso_8601": "2020-02-18T03:45:06Z"
+        },
+        "subject": "China reports additional 1868 coronavirus cases and 98 additional deaths in the Mainland as of February 17, vs. 2048 additional cases and 105 deaths on February 16; Total cases at 72436 (Prev. 70548) and death toll at 1789 (Prev. 1770); discharged 1701 ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>The data provided shows a daily slowing in the rate of cases and deaths in the Mainland and the Hubei province</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1581983940,
+            "text": "2020-02-17 23:59:00 +0000",
+            "iso_8601": "2020-02-17T23:59:00Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "china-reports-additional-1868-coronavirus-cases-and-98-additional-deaths-in-the-mainland-as-of-february-17-vs-2048-additional-cases-and-105-deaths-on-february-16-total-cases-at-72436-prev-70548-and-death-toll-at-1789-prev-1770-disc-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-18 07:55:00",
+        "gmt_time": "2020-02-17 23:55:00"
+    },
+    {
+        "id": 909170,
+        "updated_sequence": 2112882,
+        "published_at": {
+            "unix": 1581983700,
+            "text": "2020-02-17 23:55:00 +0000",
+            "iso_8601": "2020-02-17T23:55:00Z"
+        },
+        "updated_at": {
+            "unix": 1581997506,
+            "text": "2020-02-18 03:45:06 +0000",
+            "iso_8601": "2020-02-18T03:45:06Z"
+        },
+        "subject": "China reports additional 1868 coronavirus cases and 98 additional deaths in the Mainland as of February 17, vs. 2048 additional cases and 105 deaths on February 16; Total cases at 72436 (Prev. 70548) and death toll at 1789 (Prev. 1770); discharged 1701 ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>The data provided shows a daily slowing in the rate of cases and deaths in the Mainland and the Hubei province</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1581983940,
+            "text": "2020-02-17 23:59:00 +0000",
+            "iso_8601": "2020-02-17T23:59:00Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "china-reports-additional-1868-coronavirus-cases-and-98-additional-deaths-in-the-mainland-as-of-february-17-vs-2048-additional-cases-and-105-deaths-on-february-16-total-cases-at-72436-prev-70548-and-death-toll-at-1789-prev-1770-disc-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-18 07:55:00",
+        "gmt_time": "2020-02-17 23:55:00"
+    },
+    {
+        "id": 909169,
+        "updated_sequence": 2112797,
+        "published_at": {
+            "unix": 1581983340,
+            "text": "2020-02-17 23:49:00 +0000",
+            "iso_8601": "2020-02-17T23:49:00Z"
+        },
+        "updated_at": {
+            "unix": 1581983559,
+            "text": "2020-02-17 23:52:39 +0000",
+            "iso_8601": "2020-02-17T23:52:39Z"
+        },
+        "subject": "Japanese Fiannce Minister Aso states that fundamentals that support domestic demand remain firm, closely monitoring effects of the virus outbreak to ensure fiscal measures are needed",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-fiannce-minister-aso-states-that-fundamentals-that-support-domestic-demand-remain-firm-closely-monitoring-effects-of-the-virus-outbreak-to-ensure-fiscal-measures-are-needed-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-18 07:49:00",
+        "gmt_time": "2020-02-17 23:49:00"
+    },
+    {
+        "id": 909168,
+        "updated_sequence": 2112792,
+        "published_at": {
+            "unix": 1581982020,
+            "text": "2020-02-17 23:27:00 +0000",
+            "iso_8601": "2020-02-17T23:27:00Z"
+        },
+        "updated_at": {
+            "unix": 1581982144,
+            "text": "2020-02-17 23:29:04 +0000",
+            "iso_8601": "2020-02-17T23:29:04Z"
+        },
+        "subject": "PRE-MARKET JAPANESE AND SOUTH KOREAN STOCK NEWS: market. Government is also expected to announce measures to support exporters, and is not planning to cut GDP growth forecasts, according to local media. (Newswires)",
+        "content": "<p><strong>JAPAN</strong></p><p>Tech stocks - Apple (AAPL) issued a profit warning in which it does not expect to meet revenue guidance for the March quarter citing the coronavirus outbreak. Co. is experiencing a slower return to normal conditions than had anticipated and notes of slower demand in products in China alongside iPhone supply constraints. Co. said it will provide more information during its next earnings call in April and said the Co. is fundamentally strong and any disruptions to business is temporary. (Apple/Newswires) NOTE: Apple has a 7.5% weighting in the DJIA, 4.8% in S&amp;P 500 and 11.64% in NASDAQ 100</p><p>Mitsubishi (8306 JT) – EU clears Co. cooperation JV with Wallenius Wilhelsen. (Newswires)&nbsp;</p><p>Chubu Electric Power (9502 JT) – Co. will promote Kigo Hayashi to President, according to Nikkei (Nikkei)</p><p><strong>SOUTH KOREA</strong></p><p>Kumho Tire (073240 KS) – Q4 net loss KRW 49.1bln vs. Prev. loss KRW 182.7bln. Revenue KRW 2.3tln vs. Prev. KRW 2.56tln. (Newswires)</p><p>Other News</p><p>- South Korean Government is expected to this week release additional measures to stabilise the property market. Government is also expected to announce measures to support exporters, government is not planning to cut GDP growth forecasts, according to local media. (Newswires)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "pre-market-japanese-and-south-korean-stock-news-market-government-is-also-expected-to-announce-measures-to-support-exporters-and-is-not-planning-to-cut-gdp-growth-forecasts-according-to-local-media-newswires-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-18 07:27:00",
+        "gmt_time": "2020-02-17 23:27:00"
+    },
+    {
+        "id": 909167,
+        "updated_sequence": 2112788,
+        "published_at": {
+            "unix": 1581980580,
+            "text": "2020-02-17 23:03:00 +0000",
+            "iso_8601": "2020-02-17T23:03:00Z"
+        },
+        "updated_at": {
+            "unix": 1581981021,
+            "text": "2020-02-17 23:10:21 +0000",
+            "iso_8601": "2020-02-17T23:10:21Z"
+        },
+        "subject": "MARKET UPDATE: Major US equity futures open with losses following Apple's (AAPL) profit warning; Nasdaq Mar’20: -40pts, DJ Mar’20: -40pts, E-Mini S&P Mar’20: -3.5pts",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<p>REMINDER: Apple weightings in major bourses:</p><ul><li>NASDAQ 100: ~11.6%</li><li>DJIA: ~7.5%</li><li>S&amp;P500: ~4.8%</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1581980820,
+            "text": "2020-02-17 23:07:00 +0000",
+            "iso_8601": "2020-02-17T23:07:00Z"
+        },
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "market-update-major-us-equity-futures-open-with-losses-following-apple-s-aapl-profit-warning-nasdaq-mar-20-40pts-dj-mar-20-40pts-e-mini-s-p-mar-20-3-5pts-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-18 07:03:00",
+        "gmt_time": "2020-02-17 23:03:00"
+    },
+    {
+        "id": 909159,
+        "updated_sequence": 2112781,
+        "published_at": {
+            "unix": 1581980400,
+            "text": "2020-02-17 23:00:00 +0000",
+            "iso_8601": "2020-02-17T23:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1581980400,
+            "text": "2020-02-17 23:00:00 +0000",
+            "iso_8601": "2020-02-17T23:00:00Z"
+        },
+        "subject": "PRIMER: RBA MINUTES RELEASED AT 18:30CST/00:30GMT/08:30HKT ",
+        "content": "<p><strong>To recap, the RBA left its Cash Rate unchanged at 0.75% on the 4th February as expected and retained its easing bias, albeit desks said the statement was less dovish than anticipated. </strong>The Board left its 2020 and 2021 growth forecasts unchanged at 2.75% and 3.00% respectively <strong>and stated that \"it is too early to determine how long-lasting the impact [of the coronavirus] will be.\"</strong> The RBA also tweaked its view of global growth, which is now \"expected to be a little stronger this year and next than it was last year\" (versus December's \"outlook for the global economy remains reasonable\"), which can be seen as a surprising modest lift in confidence around the world economy given the current recent market developments, Westpac says. The jobless rate forecast was lowered to 5.1% from 5.25%, and the Central Bank still sees it sub-5.00% in 2021. Meanwhile, Westpac also finds it interesting that the statement does not repeat the description \"gentle turning point\" although the arguments pointing to an improving growth outlook. Interestingly, the previous line that the Board \"continues to monitor developments, including in the labour market\" has been tweaked to \"the Board will continue to monitor developments carefully, including in the labour market\", which Westpac says may suggest that the Board being more uncertain about future developments, and therefore wanting to emphasise its strong duty of care<strong>. On a more macro front, the RBA noted that bushfires and coronavirus will temporarily weigh on growth although it is too early to determine how long-lasting impact from coronavirus will be, participants expected a bleaker assessment of the impacts on the domestic economy. </strong>In the minutes, participants will likely be more focused on sophisticated assessment of the potential impacts from the Australian bushfires and the virus outbreak discussed at the meeting, alongside more meat on the bone regarding the less dovish-than-anticipated domestic growth forecasts.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "primer-rba-minutes-released-at-18-30cst-00-30gmt-08-30hkt-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 12,
+            "name": "RBA"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-18 07:00:00",
+        "gmt_time": "2020-02-17 23:00:00"
+    },
+    {
+        "id": 909166,
+        "updated_sequence": 2112854,
+        "published_at": {
+            "unix": 1581979980,
+            "text": "2020-02-17 22:53:00 +0000",
+            "iso_8601": "2020-02-17T22:53:00Z"
+        },
+        "updated_at": {
+            "unix": 1581990106,
+            "text": "2020-02-18 01:41:46 +0000",
+            "iso_8601": "2020-02-18T01:41:46Z"
+        },
+        "subject": "China's Hubei province reports 1807 new coronavirus cases and 93 additional deaths as of February 17th vs. 1933 additional cases and 100 additional deaths on February 16th; Virus death toll rises to 1800 vs. Prev. 1770",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "china-s-hubei-province-reports-1807-new-coronavirus-cases-and-93-additional-deaths-as-of-february-17th-vs-1933-additional-cases-and-100-additional-deaths-on-february-16th-virus-death-toll-rises-to-1800-vs-prev-1770-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-18 06:53:00",
+        "gmt_time": "2020-02-17 22:53:00"
+    },
+    {
+        "id": 909165,
+        "updated_sequence": 2112774,
+        "published_at": {
+            "unix": 1581978600,
+            "text": "2020-02-17 22:30:00 +0000",
+            "iso_8601": "2020-02-17T22:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1581978691,
+            "text": "2020-02-17 22:31:31 +0000",
+            "iso_8601": "2020-02-17T22:31:31Z"
+        },
+        "subject": "Australia ANZ Roy Morgan Weekly Consumer Confidence Index (Feb 16) 109.1 (Prev. 107.8) ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "australia-anz-roy-morgan-weekly-consumer-confidence-index-feb-16-109-1-prev-107-8-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-18 06:30:00",
+        "gmt_time": "2020-02-17 22:30:00"
+    },
+    {
+        "id": 909164,
+        "updated_sequence": 2112771,
+        "published_at": {
+            "unix": 1581977820,
+            "text": "2020-02-17 22:17:00 +0000",
+            "iso_8601": "2020-02-17T22:17:00Z"
+        },
+        "updated_at": {
+            "unix": 1581977919,
+            "text": "2020-02-17 22:18:39 +0000",
+            "iso_8601": "2020-02-17T22:18:39Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIAN STOCK NEWS: ASX poised for a flat start with earnings likely to dictate state of play. (The Australian)",
+        "content": "<p>BHP (BHP AT/ BHP LN) - H1 adj. EBITDA USD 12.08bln vs. Exp. USD 11.70bln, underlying profit USD 5.19bln vs. Exp. USD 5.10bln. H1 interim dividend USD 0.63/shr, anticipates net demand loss in near term due to virus outbreak. (Newswires)</p><p>Cochlear (COCH AT) – H1 underlying net AUD 132.7mln vs. Prev. AUD 132.1mln. revenue AUD 755.7mln vs. Prev. AUD 712mln. (Newswires)</p><p>Coles Group (COL AT) – H1 Net AUD 498mln bs. Prev. AUD 489mln. EBIT AUD 725mln vs. Prev. AUD 733mln. (Newswires)</p><p>Sims Metal Management (SIM AT) – H1 Underlying net loss AUD 34.7mln vs. Prev. profit AUD 76.7mln. EBIT AUD -23.7mln vs. Prev. AUD +109.6mln. (Newswires)</p><p>Ansell (ANN AT) – H1 net AUD 65.8mln vs. Prev. AUD 63.6mln. Revenue AUD 753.3mln vs. Prev. AUD 725.3mln. (Newswires)</p><p>APA Group (APA AT) – H1 net AUD 175.0mln, EBTIDA AUD 842.2mln. (Newswires)</p><p>Reckon (RKN AT) – FY net AUD 8.1mln vs. Prev. AUD 7.7mln. EBTIDA AUD 30.6mln vs. Prev. AUD 29.2mln. (Newswires)&nbsp;</p><p>Meridian (MEZ AT) – Jan retail sales volumes +25.1% YY (Newswires)</p><p>Woolworths limited (WOW AT) – Reports note that several PE groups have approached the Co. about Endavour group. (Newswires)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "pre-market-australian-stock-news-asx-poised-for-a-flat-start-with-earnings-likely-to-dictate-state-of-play-the-australian-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-18 06:17:00",
+        "gmt_time": "2020-02-17 22:17:00"
+    },
+    {
+        "id": 909163,
+        "updated_sequence": 2112768,
+        "published_at": {
+            "unix": 1581976800,
+            "text": "2020-02-17 22:00:00 +0000",
+            "iso_8601": "2020-02-17T22:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1581976800,
+            "text": "2020-02-17 22:00:00 +0000",
+            "iso_8601": "2020-02-17T22:00:00Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p><strong>CORONAVIRUS UPDATE</strong></p><p>China Global Times reported the number of patients infected with Coronavirus will likely peak during the second half of February in southern China; nationwide, the peak is seen in in April, according to the central government’s top medical advisor. (Newswires)</p><p>US State Department official stated the incubation period for the coronavirus ranges from 2 to 14 days, with a median of 5-6 days. (Newswires)</p><p>CDC has listed 467 people in 42 states in the US under investigation for the novel coronavirus. Of them, 15 have tested positive, 392 negative, and 60 are still pending, (CNN)</p><p>WHO Chief Tedros said it is too early to tell if this trend of fewer new coronavirus cases in China will continue, adding \"every scenario is still on the table.\" Tedros reiterated the data from China appears to show a decline in new cases but notes it must be interpreted very cautiously as trends can change as new populations are affected. (Newswires)</p><p><strong>Apple (AAPL)</strong> issued a profit warning in which it does not expect to meet revenue guidance for the March quarter citing the coronavirus outbreak. Co. is experiencing a slower return to normal conditions than had anticipated and notes of slower demand in products in China alongside iPhone supply constraints. Co. said it will provide more information during its next earnings call in April and said the Co. is fundamentally strong and any disruptions to business is temporary. (Apple/Newswires) <i>NOTE: Apple has a 7.5% weighting in the <strong>DJIA</strong>, 4.8% in <strong>S&amp;P 500</strong> and 11.64% in <strong>NASDAQ 100</strong></i></p><p><strong>ASIA-PAC</strong></p><p>US President Trump's administration is weighing new trade restrictions on China that would limit the use of American chip-making equipment, as it seeks to cut off Chinese access to key semiconductor technology, according to people familiar with the matter. (Newswires)</p><p>Macau Secretary for Economy and Finance says that casinos can reopen on Thursday, following a two-week suspension. (Newswires)</p><p><strong>UK/EU</strong></p><p>Brexit Adviser Frost to said the central vision for the UK is to be able to set its own laws, to think that we might accept EU supervision on level playing field is wrong and that the UK would not extend transition period beyond 2020, according to a draft. Frost added that tying UK to EU rules would undermine public backing for UK Government at home and UK expects open and fair competition based on FTA with EU. Frost also said the EU must endorse relationship of equals if it wants sustainable relationship with the UK. (Newswires)</p><p>UK PM Johnson spokesman said we are not seeking anything special in trade talks with the EU, want something similar to other deals. (Newswires)</p><p>Number 10 Adviser Andrew Sabisky has resigned after a string of controversial posts were uncovered. (Sky News)</p><p>Eurogroup head Centeno expects the economic impact from the coronavirus to be temporary. (Newswires)</p><p>Bundesbank Monthly Report: no fundamental changes in the German economy in Q1, warns that the coronavirus could impact the export sector</p><p><strong>FX</strong></p><p>Moody's says the South African economy remains stuck in a low gear. Moody’s expects South African economy will grow 0.7% in 2020 and 0.9% in 2021 (Newswires) <i>Of note, the South African budget is due to be announced on February 26th.&nbsp;</i></p><p><strong>COMMODITIES</strong></p><p>Russian Energy Minister Novak held a discussion with the Iranian Oil Minister on OPEC+ cooperation, according to the Russian Energy Ministry. (Newswires)</p><p><strong>US&nbsp;</strong></p><p>US markets were shut due to the observation of President’s Day Holiday. (Newswires)</p><p>&nbsp;</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "daily-asia-pac-opening-news-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-18 06:00:00",
+        "gmt_time": "2020-02-17 22:00:00"
+    },
+    {
+        "id": 909160,
+        "updated_sequence": 2112767,
+        "published_at": {
+            "unix": 1581976800,
+            "text": "2020-02-17 22:00:00 +0000",
+            "iso_8601": "2020-02-17T22:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1581976800,
+            "text": "2020-02-17 22:00:00 +0000",
+            "iso_8601": "2020-02-17T22:00:00Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASE CALENDAR IS AVAILABLE IN THE RESEARCH SECTION OF THE WEBSITE: Highlights include RBA Minutes",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "asian-daily-economic-release-calendar-is-available-in-the-research-section-of-the-website-highlights-include-rba-minutes-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-18 06:00:00",
+        "gmt_time": "2020-02-17 22:00:00"
+    },
+    {
+        "id": 909162,
+        "updated_sequence": 2112757,
+        "published_at": {
+            "unix": 1581974700,
+            "text": "2020-02-17 21:25:00 +0000",
+            "iso_8601": "2020-02-17T21:25:00Z"
+        },
+        "updated_at": {
+            "unix": 1581975206,
+            "text": "2020-02-17 21:33:26 +0000",
+            "iso_8601": "2020-02-17T21:33:26Z"
+        },
+        "subject": "BHP (BHP AT/ BHP LN) - H1 adj. EBITDA USD 12.08bln vs. Exp. USD 11.70bln , underlying profit USD 5.19bln vs. Exp. USD 5.10bln. H1 interim dividend USD 0.63/shr, anticipates net demand loss in near term due to virus outbreak",
+        "content": "<ul><li>Capital and exploration guidance remain unchanged</li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "bhp-bhp-at-bhp-ln-h1-adj-ebitda-usd-12-08bln-vs-exp-usd-11-70bln-underlying-profit-usd-5-19bln-vs-exp-usd-5-10bln-h1-interim-dividend-usd-0-63-shr-anticipates-net-demand-loss-in-near-term-due-to-virus-outbreak-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 34,
+            "name": "Global Equities"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-18 05:25:00",
+        "gmt_time": "2020-02-17 21:25:00"
+    },
+    {
+        "id": 909161,
+        "updated_sequence": 2112764,
+        "published_at": {
+            "unix": 1581973260,
+            "text": "2020-02-17 21:01:00 +0000",
+            "iso_8601": "2020-02-17T21:01:00Z"
+        },
+        "updated_at": {
+            "unix": 1581976169,
+            "text": "2020-02-17 21:49:29 +0000",
+            "iso_8601": "2020-02-17T21:49:29Z"
+        },
+        "subject": "Apple (AAPL) - Co. does not expect to meet revenue guidance for March quarter citing coronavirus, Co. is experiencing a slower return to normal conditions than had anticipated; notes slower demand in products in China alongside iPhone supply constraints",
+        "content": "<p>TWO MAIN FACTORS CITED</p><ul><li>The first is that worldwide iPhone supply will be temporarily constrained.</li><li>The second is that demand for our products within China has been affected.</li></ul><p>\"The situation is evolving, and we will provide more information during our next earnings call in April.\"&nbsp;</p><p>\"Apple is fundamentally strong, and this disruption to our business is only temporary.\"</p><ul><li><a href=\"https://www.apple.com/newsroom/2020/02/investor-update-on-quarterly-guidance/\">Link to full release</a></li></ul>",
+        "reaction_details": "<ul><li>Modest safe-haven flows are seen in the JPY in which USD/JPY fell from 109.92 to 109.84</li></ul>",
+        "reaction_updated_at": {
+            "unix": 1581973920,
+            "text": "2020-02-17 21:12:00 +0000",
+            "iso_8601": "2020-02-17T21:12:00Z"
+        },
+        "analysis_details": "<ul><li>NOTE: Apple has a 7.5% weighting in the <strong>DJIA</strong>, 4.8% in <strong>S&amp;P 500</strong> and 11.64% in <strong>NASDAQ 100</strong></li></ul>",
+        "analysis_updated_at": {
+            "unix": 1581973800,
+            "text": "2020-02-17 21:10:00 +0000",
+            "iso_8601": "2020-02-17T21:10:00Z"
+        },
+        "push_notify": true,
+        "source": "Newsquawk",
+        "slug": "apple-aapl-co-does-not-expect-to-meet-revenue-guidance-for-march-quarter-citing-coronavirus-co-is-experiencing-a-slower-return-to-normal-conditions-than-had-anticipated-notes-slower-demand-in-products-in-china-alongside-iphone-supply-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-18 05:01:00",
+        "gmt_time": "2020-02-17 21:01:00"
+    },
+    {
+        "id": 909114,
+        "updated_sequence": 2112717,
+        "published_at": {
+            "unix": 1581966000,
+            "text": "2020-02-17 19:00:00 +0000",
+            "iso_8601": "2020-02-17T19:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1581967113,
+            "text": "2020-02-17 19:18:33 +0000",
+            "iso_8601": "2020-02-17T19:18:33Z"
+        },
+        "subject": "US PRESIDENT'S DAY HOLIDAY DESK SCHEDULE - Desk remains open for the Brexit Adviser Frost speech at 18:45 GMT / 13:45 ET",
+        "content": "<p><strong>Desk will open for EU coverage as usual at 0630GMT/0030CST on Monday 17th February. The desk will shut at 1800GMT/1200CST and re-open the same day for the beginning of Asia-Pac coverage at 2200GMT/1600CST** &nbsp;</strong></p><p>UPDATE: Desk remains open for the Brexit Adviser Frost speech at 18:45 GMT / 13:45 ET</p><p>Market Closures:</p><ul><li>CME Electronic Equity, Interest Rate, Energy &amp; Metals – Trading Halt between 1200CST/1800GMT and 1700CST/2300GMT</li><li>CME Chicago Pit Trade – Closed</li><li>NYSE – Closed</li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "us-president-s-day-holiday-desk-schedule-desk-remains-open-for-the-brexit-adviser-frost-speech-at-18-45-gmt-13-45-et-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-18 03:00:00",
+        "gmt_time": "2020-02-17 19:00:00"
+    },
+    {
+        "id": 909158,
+        "updated_sequence": 2112713,
+        "published_at": {
+            "unix": 1581965340,
+            "text": "2020-02-17 18:49:00 +0000",
+            "iso_8601": "2020-02-17T18:49:00Z"
+        },
+        "updated_at": {
+            "unix": 1581965435,
+            "text": "2020-02-17 18:50:35 +0000",
+            "iso_8601": "2020-02-17T18:50:35Z"
+        },
+        "subject": "US state department official stated the incubation period for the coronavirus ranges from 2 to 14 days, with a median of 5-6 days",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-state-department-official-stated-the-incubation-period-for-the-coronavirus-ranges-from-2-to-14-days-with-a-median-of-5-6-days-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-18 02:49:00",
+        "gmt_time": "2020-02-17 18:49:00"
+    },
+    {
+        "id": 909157,
+        "updated_sequence": 2112715,
+        "published_at": {
+            "unix": 1581965100,
+            "text": "2020-02-17 18:45:00 +0000",
+            "iso_8601": "2020-02-17T18:45:00Z"
+        },
+        "updated_at": {
+            "unix": 1581965615,
+            "text": "2020-02-17 18:53:35 +0000",
+            "iso_8601": "2020-02-17T18:53:35Z"
+        },
+        "subject": "Brexit Adviser Frost to say central vision for UK to be able to set own laws, to think that we might accept EU supervision on level playing field is wrong and that the UK would not extend transition period beyond 2020, according to a draft",
+        "content": "<ul><li>Tying UK to EU rules would undermine public backing for UK Government at home</li><li>UK expects open and fair competition based on FTA with EU</li><li>EU must endorse relationship of equals if it wants sustainable relationship with the UK</li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>A lot of these comments had been expected and hinted it at by other officials previously, and from other news publications</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1581965280,
+            "text": "2020-02-17 18:48:00 +0000",
+            "iso_8601": "2020-02-17T18:48:00Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "brexit-adviser-frost-to-say-central-vision-for-uk-to-be-able-to-set-own-laws-to-think-that-we-might-accept-eu-supervision-on-level-playing-field-is-wrong-and-that-the-uk-would-not-extend-transition-period-beyond-2020-according-to-a-draft-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 38,
+            "name": "Brexit"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-18 02:45:00",
+        "gmt_time": "2020-02-17 18:45:00"
+    },
+    {
+        "id": 909156,
+        "updated_sequence": 2112703,
+        "published_at": {
+            "unix": 1581964500,
+            "text": "2020-02-17 18:35:00 +0000",
+            "iso_8601": "2020-02-17T18:35:00Z"
+        },
+        "updated_at": {
+            "unix": 1581964562,
+            "text": "2020-02-17 18:36:02 +0000",
+            "iso_8601": "2020-02-17T18:36:02Z"
+        },
+        "subject": "Automaker Geely told Global Times it anticipates full production to resume from Feb 25th and that prodcution partially resumed on February 10th",
+        "content": "<p><a href=\"https://twitter.com/GlobalTimesBiz/status/1229474090039136258\">Click here for link</a></p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Global Times",
+        "slug": "automaker-geely-told-global-times-it-anticipates-full-production-to-resume-from-feb-25th-and-that-prodcution-partially-resumed-on-february-10th-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 34,
+            "name": "Global Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-18 02:35:00",
+        "gmt_time": "2020-02-17 18:35:00"
+    },
+    {
+        "id": 909155,
+        "updated_sequence": 2112700,
+        "published_at": {
+            "unix": 1581962520,
+            "text": "2020-02-17 18:02:00 +0000",
+            "iso_8601": "2020-02-17T18:02:00Z"
+        },
+        "updated_at": {
+            "unix": 1581962917,
+            "text": "2020-02-17 18:08:37 +0000",
+            "iso_8601": "2020-02-17T18:08:37Z"
+        },
+        "subject": "Deutsche Boerse (DB1 GY) achieved 10% net profit growth in 2019 as planned, net revenue up 6% Y/Y to EUR 2.9bln, adj. net profit in Q4 19 +5% to EUR 242mln, 2020 outlook: secular growth in net revenue of at least 5%",
+        "content": "<ul><li>Adj. net profit expected to rise to EUR 1.20bln</li><li>Q4 EPS EUR 1.16</li><li>Consolidated net profit EUR 213.2mln</li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "deutsche-boerse-db1-gy-achieved-10-net-profit-growth-in-2019-as-planned-net-revenue-up-6-y-y-to-eur-2-9bln-adj-net-profit-in-q4-19-5-to-eur-242mln-2020-outlook-secular-growth-in-net-revenue-of-at-least-5-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 1,
+            "name": "DAX"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-18 02:02:00",
+        "gmt_time": "2020-02-17 18:02:00"
+    },
+    {
+        "id": 909154,
+        "updated_sequence": 2112691,
+        "published_at": {
+            "unix": 1581961800,
+            "text": "2020-02-17 17:50:00 +0000",
+            "iso_8601": "2020-02-17T17:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1581961900,
+            "text": "2020-02-17 17:51:40 +0000",
+            "iso_8601": "2020-02-17T17:51:40Z"
+        },
+        "subject": "A fire which started this morning near the citgo refinery in Corpus Christi, Texas is reportedly now under control",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "a-fire-which-started-this-morning-near-the-citgo-refinery-in-corpus-christi-texas-is-reportedly-now-under-control-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 20,
+            "name": "Commodities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-18 01:50:00",
+        "gmt_time": "2020-02-17 17:50:00"
+    },
+    {
+        "id": 909153,
+        "updated_sequence": 2112687,
+        "published_at": {
+            "unix": 1581960540,
+            "text": "2020-02-17 17:29:00 +0000",
+            "iso_8601": "2020-02-17T17:29:00Z"
+        },
+        "updated_at": {
+            "unix": 1581961644,
+            "text": "2020-02-17 17:47:24 +0000",
+            "iso_8601": "2020-02-17T17:47:24Z"
+        },
+        "subject": "(Early) Market Wrap: China adds liquidity, supporting sentiment; Key UK Brexit speech eyed at 18:45 GMT",
+        "content": "<p><strong>* MARKET WRAP: </strong>The PBOC's liquidity offerings have supported market sentiment amid Coronavirus fallout. US players have been away for President's Day, and will return on Tuesday. Ranges were generally tight, although the GBP is under pressure ahead of an address by Brexit &nbsp;Advisor Frost (due at 1845) who is expected to outline the UK's goals in trade negotiations. ZAR is also under pressure ahead of the budget on 26th February after Moody's downgraded its growth view.</p><p><strong>* CORONAVIRUS: </strong>China's coronavirus death toll reaches 1765, according to the Chinese government, AFP reported (on Friday, China’s total coronavirus cases was at 66492 and death toll at 1523). Meanwhile, Hubei province reported 1933 new coronavirus cases and 100 additional deaths as of February 16th, with total of 58182 cases and 1696 deaths in the province, according to the local health commissioner (this is compared to 2420 new coronavirus cases and 139 additional deaths as of February 14th). The head of Wuhan Leishenshan Hospital reportedly said that the turning point of the epidemic has been reached, and the number of new outbreaks is declining. China Global Times reports the number of patients infected with Coronavirus will likely peak during the second half of February in southern China; nationwide, the peak is seen in in April, according to the central government’s top medical advisor. WHO Chief Tedros reiterated that the data from China appears to show a decline in new cases, but notes it must be interpreted very cautiously as trends can change as new populations are effected. Tedros also said was too early to tell if this trend of fewer new coronavirus cases in China will continue, adding \"every scenario is still on the table\". Meanwhile, the US CDC has listed 467 people in 42 states in the US under investigation for the novel coronavirus; of them, 15 have tested positive, 392 negative, and 60 are still pending, CNN reported.</p><p><strong>* PBOC: </strong>China's central bank lowered the rate on its medium-term funding operations by 10bps, taking it to 3.15%, and injected 100bln CNY of funds via 7-day repo operations. Analysts are expecting the PBOC to further lower its LPR rate on Thursday. Separately, over the weekend, finance minister Liu Kun stated that the government would be rolling out further tax cuts to help businesses. Meanwhile, Moody’s downgraded its 2020 GDP growth forecast for China to 5.2% on Monday.</p><p><strong>* TRADE: </strong>Overnight, it was reported that China was said to be mulling making some US agricultural purchases by late February early March to show its Phase One trade deal commitment to the US, although no final decision has been made, according to sources. Chinese Diplomat Wang Yi said China is focused on implementing Phase One trade deal with the US; as Phase One is implemented, China will consider starting Phase Two. US President Trump's administration is weighing new trade restrictions on China that would limit the use of American chip-making equipment, as it seeks to cut off Chinese access to key semiconductor technology, according to people familiar with the matter, cited by the WSJ. Additionally, the US government is considering whether to stop General Electric (GE) from continuing to supply engines for a new Chinese passenger jet, sources quoted by Reuters reported.</p><p><strong>* CRUDE: </strong>Crude prices have a slight upside bias, though trading conditions are thin as US participants are away for President's Day. There is still no indication from Russia on whether it plans to back proposals to deepen output supply curbs; the Russian Energy Minister Novak held a discussion with his Iranian counterpart, according to the Russian Energy Ministry, though no other key details were provided.</p><p><strong>* EUR: </strong>New lows for the EUR after the Bundesbank warned that German exporters were likely to suffer due to the outbreak of the coronavirus. The single-currency bounced off lows last seen in April 2017, around 1.0821. The EUR has been sold recently due to fears the recent outbreak of coronavirus will provide another negative for the German economy, since China is a key export market. Additionally, traders have been selling EUR for carry. A few desks have suggested that rallies are to be sold into.</p><p><strong>* JPY: </strong>A grim GDP report, and easing demand for havens saw USDJPY come within a whisker of 110.00. Japan's economy contracted by 6.3% in Q4, the largest fall in five years, with the recently implemented sales tax hike weighed on consumer and business spending. Capital Economics said the sharp drop in output after October's sales tax hike supports the argument that Japan's economy will shrink this year, however, with capacity shortages still tight and underlying inflation holding up, CapEco still expects the BOJ to keep monetary policy settings unchanged.</p><p><strong>* GBP: </strong>The Prime Minister's Brexit advisor Frost will deliver a key address at 1845 UK time, where he will outline the UK's trade goals. Over the weekend, the French Foreign Minister said negotiations would see the UK and EU try and \"rip each other apart\", adding that it would be difficult for the UK to strike a trade deal with the EU by the end of the year. On the fundamental front, there is quite a bit on the data docket; on Tuesday, UK labour market data will be released ahead of inflation data on Wednesday, and retail sales on Thursday; Friday brings the prelim PMI data for Feb.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "early-market-wrap-china-adds-liquidity-supporting-sentiment-key-uk-brexit-speech-eyed-at-18-45-gmt-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-18 01:29:00",
+        "gmt_time": "2020-02-17 17:29:00"
+    },
+    {
+        "id": 909152,
+        "updated_sequence": 2112682,
+        "published_at": {
+            "unix": 1581959820,
+            "text": "2020-02-17 17:17:00 +0000",
+            "iso_8601": "2020-02-17T17:17:00Z"
+        },
+        "updated_at": {
+            "unix": 1581959884,
+            "text": "2020-02-17 17:18:04 +0000",
+            "iso_8601": "2020-02-17T17:18:04Z"
+        },
+        "subject": "Exxon Mobil (XOM) Beaumont refinery (366k BPD) reported a compressor trip which resulted in flaring",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "exxon-mobil-xom-beaumont-refinery-366k-bpd-reported-a-compressor-trip-which-resulted-in-flaring-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 20,
+            "name": "Commodities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-18 01:17:00",
+        "gmt_time": "2020-02-17 17:17:00"
+    },
+    {
+        "id": 909151,
+        "updated_sequence": 2112679,
+        "published_at": {
+            "unix": 1581959340,
+            "text": "2020-02-17 17:09:00 +0000",
+            "iso_8601": "2020-02-17T17:09:00Z"
+        },
+        "updated_at": {
+            "unix": 1581959370,
+            "text": "2020-02-17 17:09:30 +0000",
+            "iso_8601": "2020-02-17T17:09:30Z"
+        },
+        "subject": "China Global Times reports the number of patients infected with Coronavirus will likely peak during the second half of February in southern China; nationwide, the peak is seen in in April, according to the central government’s top medical advisor",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Global Times",
+        "slug": "china-global-times-reports-the-number-of-patients-infected-with-coronavirus-will-likely-peak-during-the-second-half-of-february-in-southern-china-nationwide-the-peak-is-seen-in-in-april-according-to-the-central-government-s-top-medical-ad-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-18 01:09:00",
+        "gmt_time": "2020-02-17 17:09:00"
+    },
+    {
+        "id": 909150,
+        "updated_sequence": 2112676,
+        "published_at": {
+            "unix": 1581958680,
+            "text": "2020-02-17 16:58:00 +0000",
+            "iso_8601": "2020-02-17T16:58:00Z"
+        },
+        "updated_at": {
+            "unix": 1581958751,
+            "text": "2020-02-17 16:59:11 +0000",
+            "iso_8601": "2020-02-17T16:59:11Z"
+        },
+        "subject": "CDC has listed 467 people in 42 states in the US under investigation for the novel coronavirus. Of them, 15 have tested positive, 392 negative, and 60 are still pending, reports CNN",
+        "content": "<p>This doesn’t include those evacuated from the Diamond Princess cruise ship.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "CNN",
+        "slug": "cdc-has-listed-467-people-in-42-states-in-the-us-under-investigation-for-the-novel-coronavirus-of-them-15-have-tested-positive-392-negative-and-60-are-still-pending-reports-cnn-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-18 00:58:00",
+        "gmt_time": "2020-02-17 16:58:00"
+    },
+    {
+        "id": 909149,
+        "updated_sequence": 2112673,
+        "published_at": {
+            "unix": 1581957000,
+            "text": "2020-02-17 16:30:00 +0000",
+            "iso_8601": "2020-02-17T16:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1581957688,
+            "text": "2020-02-17 16:41:28 +0000",
+            "iso_8601": "2020-02-17T16:41:28Z"
+        },
+        "subject": "European stocks prelim cash closes: Stoxx50 +0.4% at 3521.78, Dax +0.3% at 13783.89, FTSE 100 +0.3% at 7433.25, Cac 40 +0.3% at 6085.95, IBEX +0.7% at 10022.2, FTSE MIB +1% at 25120.54, SMI +0.4% at 11168.45.",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "european-stocks-prelim-cash-closes-stoxx50-0-4-at-3521-78-dax-0-3-at-13783-89-ftse-100-0-3-at-7433-25-cac-40-0-3-at-6085-95-ibex-0-7-at-10022-2-ftse-mib-1-at-25120-54-smi-0-4-at-11168-45-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 33,
+            "name": "European Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-18 00:30:00",
+        "gmt_time": "2020-02-17 16:30:00"
+    },
+    {
+        "id": 909148,
+        "updated_sequence": 2112668,
+        "published_at": {
+            "unix": 1581955200,
+            "text": "2020-02-17 16:00:00 +0000",
+            "iso_8601": "2020-02-17T16:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1581955315,
+            "text": "2020-02-17 16:01:55 +0000",
+            "iso_8601": "2020-02-17T16:01:55Z"
+        },
+        "subject": "Daily FX Wrap: Pound pressured pre-Brexit speech, Euro on edge before Eurogroup",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<p><strong>GBP</strong></p><p>Sterling has slipped to the bottom of the major ranks ahead of a speech from Britain’s chief Brexit negotiator Frost at 18.45GMT that pundits are suggesting he will use as a platform to blame Brussels for undermining prospects of reaching a deal due to the EU’s insistence that the UK sticks to bloc rules. Instead, he will call for agreements akin to those in existence with Canada, Japan and South Korea, and for the EU’s part the FT reports that there is no sign of backing off from level playing field requirements. Cable has slipped further towards 1.3000 from just over 1.3050 at best, while Eur/Gbp remains elevated within a circa 0.8300-35 range and just above option expiry interest in 675 mn between the big figure and 0.8310.</p><p><strong>CAD/AUD/EUR&nbsp;</strong></p><p>All marginally firmer against the Greenback, as the Loonie just eclipses the Aussie for best G10 currency and remains closer to the upper end of a 1.3255-25 band eyeing virtually concurrent MA levels in the form of the 200 and 21 day markers (1.3018 and 1.3017 respectively). Note, Canadian securities data largely shrugged aside. However, Aud/Usd is still ruling the roost down under, albeit off best levels and drifting closer to 0.6700 after failing to clear resistance around 0.6730, with the Aud/Nzd cross hovering around 1.0450. Similarly, the Euro is nearer to the base of 1.0822-50 parameters after a rather cautious Buba monthly report flagging meek Q1 growth and export contagion from China’s nCoV, which could prompt some fiscal pledges from the Eurogroup at the end of today’s meeting.</p><p><strong>USD</strong></p><p>Although the Dollar remains mixed vs most counterparts, the <strong>DXY </strong>has notched a new intraday high at 99.184 from 99.041 at the low, though still shy of the 99.241 post-weekend peak that almost matched the 8 October 2019 high (99.249) protecting last year’s pinnacle (99.667). The index has ticked back up by virtue of the more pronounced Pound losses and gains pared elsewhere as noted above, but volumes remain below par due to the US Presidents’ Day holiday.</p><p><strong>CHF/NZD/JPY&nbsp;</strong></p><p>The other marginal laggards and modestly weaker against the Buck, as Usd/Chf trades above 0.9800, Nzd/Usd meanders at the lower end of 0.6450-21 extremes and Usd/Jpy straddles 109.80 after confirmation that the Japanese economy contracted more than anticipated in Q1.</p><p><strong>EM</strong></p><p>The Zar retracement from last week’s highs has intensified after Moody’s downgraded SA GDP forecasts to compound jitters ahead of CPI data and the key Budget next week, with the Rand now closer to 15.0000 again vs 14.8530 or so at one stage and around 14.7333 on February 12. Conversely, the Rub continues to derive underlying support from tax payment demand and the Cnh/Cny via the ongoing plateauing in China’s coronavirus contamination count and death toll as the number of people cured and leaving hospital rises. &nbsp;&nbsp;</p>",
+        "analysis_updated_at": {
+            "unix": 1581955260,
+            "text": "2020-02-17 16:01:00 +0000",
+            "iso_8601": "2020-02-17T16:01:00Z"
+        },
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "daily-fx-wrap-pound-pressured-pre-brexit-speech-euro-on-edge-before-eurogroup-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-18 00:00:00",
+        "gmt_time": "2020-02-17 16:00:00"
+    },
+    {
+        "id": 909147,
+        "updated_sequence": 2112663,
+        "published_at": {
+            "unix": 1581954480,
+            "text": "2020-02-17 15:48:00 +0000",
+            "iso_8601": "2020-02-17T15:48:00Z"
+        },
+        "updated_at": {
+            "unix": 1581955076,
+            "text": "2020-02-17 15:57:56 +0000",
+            "iso_8601": "2020-02-17T15:57:56Z"
+        },
+        "subject": "WHO Chief Tedros says it is too early to tell if this trend of fewer new coronavirus cases in China will continue, adding \"every scenario is still on the table\"",
+        "content": "<ul><li>Dr Mike Ryan says we are currently not observing efficient community transmission outside of China</li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "who-chief-tedros-says-it-is-too-early-to-tell-if-this-trend-of-fewer-new-coronavirus-cases-in-china-will-continue-adding-every-scenario-is-still-on-the-table-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 23:48:00",
+        "gmt_time": "2020-02-17 15:48:00"
+    },
+    {
+        "id": 909146,
+        "updated_sequence": 2112658,
+        "published_at": {
+            "unix": 1581954240,
+            "text": "2020-02-17 15:44:00 +0000",
+            "iso_8601": "2020-02-17T15:44:00Z"
+        },
+        "updated_at": {
+            "unix": 1581954338,
+            "text": "2020-02-17 15:45:38 +0000",
+            "iso_8601": "2020-02-17T15:45:38Z"
+        },
+        "subject": "WHO Chief Tedros reiterates the data from China appears to show a decline in new cases, but notes it must be interpreted very cautiously as trends can change as new populations are effected",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "who-chief-tedros-reiterates-the-data-from-china-appears-to-show-a-decline-in-new-cases-but-notes-it-must-be-interpreted-very-cautiously-as-trends-can-change-as-new-populations-are-effected-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 23:44:00",
+        "gmt_time": "2020-02-17 15:44:00"
+    },
+    {
+        "id": 909145,
+        "updated_sequence": 2112655,
+        "published_at": {
+            "unix": 1581954180,
+            "text": "2020-02-17 15:43:00 +0000",
+            "iso_8601": "2020-02-17T15:43:00Z"
+        },
+        "updated_at": {
+            "unix": 1581954295,
+            "text": "2020-02-17 15:44:55 +0000",
+            "iso_8601": "2020-02-17T15:44:55Z"
+        },
+        "subject": "Emergency crews are on site of a gas line rupture which involves a fire at Buddy Lawrence & IH37 NB in Corpus Christi, Texas",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "emergency-crews-are-on-site-of-a-gas-line-rupture-which-involves-a-fire-at-buddy-lawrence-ih37-nb-in-corpus-christi-texas-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 20,
+            "name": "Commodities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 23:43:00",
+        "gmt_time": "2020-02-17 15:43:00"
+    },
+    {
+        "id": 909144,
+        "updated_sequence": 2112652,
+        "published_at": {
+            "unix": 1581953400,
+            "text": "2020-02-17 15:30:00 +0000",
+            "iso_8601": "2020-02-17T15:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1581953477,
+            "text": "2020-02-17 15:31:17 +0000",
+            "iso_8601": "2020-02-17T15:31:17Z"
+        },
+        "subject": "Russia's Central Bank expects Q1 economic growth at 2.0-2.5%",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "russia-s-central-bank-expects-q1-economic-growth-at-2-0-2-5-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 8,
+            "name": "Other Central Banks"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 23:30:00",
+        "gmt_time": "2020-02-17 15:30:00"
+    },
+    {
+        "id": 909143,
+        "updated_sequence": 2112649,
+        "published_at": {
+            "unix": 1581953220,
+            "text": "2020-02-17 15:27:00 +0000",
+            "iso_8601": "2020-02-17T15:27:00Z"
+        },
+        "updated_at": {
+            "unix": 1581953286,
+            "text": "2020-02-17 15:28:06 +0000",
+            "iso_8601": "2020-02-17T15:28:06Z"
+        },
+        "subject": "EU Indusrty Chief Breton told Facebook (FB) CEO that the EU will decide by year end how to regulate online platforms",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "eu-indusrty-chief-breton-told-facebook-fb-ceo-that-the-eu-will-decide-by-year-end-how-to-regulate-online-platforms-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 23:27:00",
+        "gmt_time": "2020-02-17 15:27:00"
+    },
+    {
+        "id": 909142,
+        "updated_sequence": 2112646,
+        "published_at": {
+            "unix": 1581950760,
+            "text": "2020-02-17 14:46:00 +0000",
+            "iso_8601": "2020-02-17T14:46:00Z"
+        },
+        "updated_at": {
+            "unix": 1581950929,
+            "text": "2020-02-17 14:48:49 +0000",
+            "iso_8601": "2020-02-17T14:48:49Z"
+        },
+        "subject": "ECB APP: PSPP EUR 4.43bln vs. Prev. EUR 3.41bln, CBPP3 EUR 1.289bln vs. Prev. EUR 1.128mln, CSPP EUR 1.997bln vs. Prev. EUR 1.442bln, ABPP EUR 73mln vs. Prev. EUR 248mln",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "ecb-app-pspp-eur-4-43bln-vs-prev-eur-3-41bln-cbpp3-eur-1-289bln-vs-prev-eur-1-128mln-cspp-eur-1-997bln-vs-prev-eur-1-442bln-abpp-eur-73mln-vs-prev-eur-248mln-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 17,
+            "name": "ECB"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 22:46:00",
+        "gmt_time": "2020-02-17 14:46:00"
+    },
+    {
+        "id": 909141,
+        "updated_sequence": 2112643,
+        "published_at": {
+            "unix": 1581949560,
+            "text": "2020-02-17 14:26:00 +0000",
+            "iso_8601": "2020-02-17T14:26:00Z"
+        },
+        "updated_at": {
+            "unix": 1581950108,
+            "text": "2020-02-17 14:35:08 +0000",
+            "iso_8601": "2020-02-17T14:35:08Z"
+        },
+        "subject": "Kone (KNEBV FH) announced it has decided to withdraw from discussions surrounding its acquisiton of Thyssenkrupp's (TKA GY) elevator uni",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "kone-knebv-fh-announced-it-has-decided-to-withdraw-from-discussions-surrounding-its-acquisiton-of-thyssenkrupp-s-tka-gy-elevator-uni-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 33,
+            "name": "European Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 22:26:00",
+        "gmt_time": "2020-02-17 14:26:00"
+    },
+    {
+        "id": 909140,
+        "updated_sequence": 2112638,
+        "published_at": {
+            "unix": 1581948360,
+            "text": "2020-02-17 14:06:00 +0000",
+            "iso_8601": "2020-02-17T14:06:00Z"
+        },
+        "updated_at": {
+            "unix": 1581948661,
+            "text": "2020-02-17 14:11:01 +0000",
+            "iso_8601": "2020-02-17T14:11:01Z"
+        },
+        "subject": "Thyssenkrupp (TKA GY) note that they are making \"good progress\" in work ahead of the sale of their elevator unit",
+        "content": "<ul><li>Says the goal is to strike an agreement quickly, based on majoirty rule.</li><li>More concrete bids have been submitted by remaining bidders and bids are at a high level.</li><li>If a deal cannot be reached with a bidder, the unit could be IPO'd; something which could be possible from early summer.</li><li>Co. are to give priority to two consortiums; 1) Blackstone, Carlyle and the Canadian Pension Plan Investment Board, 2) Advent and Cinven.&nbsp;</li></ul>",
+        "reaction_details": "<ul><li>In an immediate reaction TKA GY shares rose from EUR 11.19 to EUR 11.30 before scaling back gains.</li></ul>",
+        "reaction_updated_at": {
+            "unix": 1581948480,
+            "text": "2020-02-17 14:08:00 +0000",
+            "iso_8601": "2020-02-17T14:08:00Z"
+        },
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "thyssenkrupp-tka-gy-note-that-they-are-making-good-progress-in-work-ahead-of-the-sale-of-their-elevator-unit-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 33,
+            "name": "European Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 22:06:00",
+        "gmt_time": "2020-02-17 14:06:00"
+    },
+    {
+        "id": 909139,
+        "updated_sequence": 2112629,
+        "published_at": {
+            "unix": 1581947340,
+            "text": "2020-02-17 13:49:00 +0000",
+            "iso_8601": "2020-02-17T13:49:00Z"
+        },
+        "updated_at": {
+            "unix": 1581947444,
+            "text": "2020-02-17 13:50:44 +0000",
+            "iso_8601": "2020-02-17T13:50:44Z"
+        },
+        "subject": "Eurogroup head Centeno expects the economimc impact from the coronavirus to be temporary",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "eurogroup-head-centeno-expects-the-economimc-impact-from-the-coronavirus-to-be-temporary-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 21:49:00",
+        "gmt_time": "2020-02-17 13:49:00"
+    },
+    {
+        "id": 909138,
+        "updated_sequence": 2112626,
+        "published_at": {
+            "unix": 1581947040,
+            "text": "2020-02-17 13:44:00 +0000",
+            "iso_8601": "2020-02-17T13:44:00Z"
+        },
+        "updated_at": {
+            "unix": 1581947233,
+            "text": "2020-02-17 13:47:13 +0000",
+            "iso_8601": "2020-02-17T13:47:13Z"
+        },
+        "subject": "Italian government is yet to respond to Atlantia's (ATL IM) proposal to reduce its holding in its motorway unit as it deems the offer to be insufficent, according to sources",
+        "content": "<ul><li>Government would prefer the Co. commits to a new road tariff mechanism and larger investments in order to start discussions over the concession</li></ul>",
+        "reaction_details": "<p>ATL IM modestly falls&nbsp;from EUR 22.92 to EUR 22.84</p>",
+        "reaction_updated_at": {
+            "unix": 1581947160,
+            "text": "2020-02-17 13:46:00 +0000",
+            "iso_8601": "2020-02-17T13:46:00Z"
+        },
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "italian-government-is-yet-to-respond-to-atlantia-s-atl-im-proposal-to-reduce-its-holding-in-its-motorway-unit-as-it-deems-the-offer-to-be-insufficent-according-to-sources-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 33,
+            "name": "European Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 21:44:00",
+        "gmt_time": "2020-02-17 13:44:00"
+    },
+    {
+        "id": 909137,
+        "updated_sequence": 2112619,
+        "published_at": {
+            "unix": 1581946500,
+            "text": "2020-02-17 13:35:00 +0000",
+            "iso_8601": "2020-02-17T13:35:00Z"
+        },
+        "updated_at": {
+            "unix": 1581946578,
+            "text": "2020-02-17 13:36:18 +0000",
+            "iso_8601": "2020-02-17T13:36:18Z"
+        },
+        "subject": "Mediaset's (MS IM) appeal against a precautionary suspension of its Italian and Spanish units merger, has been rejected by a Spanish court, according to sources",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "mediaset-s-ms-im-appeal-against-a-precautionary-suspension-of-its-italian-and-spanish-units-merger-has-been-rejected-by-a-spanish-court-according-to-sources-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 33,
+            "name": "European Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 21:35:00",
+        "gmt_time": "2020-02-17 13:35:00"
+    },
+    {
+        "id": 909134,
+        "updated_sequence": 2112610,
+        "published_at": {
+            "unix": 1581945060,
+            "text": "2020-02-17 13:11:00 +0000",
+            "iso_8601": "2020-02-17T13:11:00Z"
+        },
+        "updated_at": {
+            "unix": 1581945194,
+            "text": "2020-02-17 13:13:14 +0000",
+            "iso_8601": "2020-02-17T13:13:14Z"
+        },
+        "subject": "Moody's says the South African economy remains stuck in a low gear",
+        "content": "<ul><li>Expects South African economy will grow 0.7% in 2020 and 0.9% in 2021</li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>Of note, the South African budget is due to be announced on February 26th.&nbsp;</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1581945194,
+            "text": "2020-02-17 13:13:14 +0000",
+            "iso_8601": "2020-02-17T13:13:14Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "moody-s-says-the-south-african-economy-remains-stuck-in-a-low-gear-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 24,
+            "name": "Rating Agency comments"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 21:11:00",
+        "gmt_time": "2020-02-17 13:11:00"
+    },
+    {
+        "id": 909132,
+        "updated_sequence": 2112602,
+        "published_at": {
+            "unix": 1581942780,
+            "text": "2020-02-17 12:33:00 +0000",
+            "iso_8601": "2020-02-17T12:33:00Z"
+        },
+        "updated_at": {
+            "unix": 1581942970,
+            "text": "2020-02-17 12:36:10 +0000",
+            "iso_8601": "2020-02-17T12:36:10Z"
+        },
+        "subject": "US President Trump's administration is weighing new trade restrictions on China that would limit the use of American chip-making equipment, as it seeks to cut off Chinese access to key semiconductor technology, according to people familiar with the matter",
+        "content": "<p><a href=\"https://www.wsj.com/articles/u-s-weighs-new-move-to-limit-chinas-access-to-chip-technology-11581942688?mod=newsviewer_click\">Click here for link</a></p>",
+        "reaction_details": "<ul><li>Limited downside was seen in E-Mini futures (H0), which fell from 3389.75 to 3386.75 in wake of the reports</li></ul>",
+        "reaction_updated_at": {
+            "unix": 1581942970,
+            "text": "2020-02-17 12:36:10 +0000",
+            "iso_8601": "2020-02-17T12:36:10Z"
+        },
+        "analysis_details": "<p>The latest report is in-fitting with reports on Friday. (<a href=\"https://newsquawk.com/headlines/gop-senator-rick-scott-proposed-a-bill-to-restrict-us-sales-to-huawei-cutting-the-minimum-requirement-of-us-made-parts-from-25-to-10-in-its-prodcuts-of-note-for-semicondcutors-sox-qcom-intc-amd-etc-14-02-2020\">Click here</a>)&nbsp;</p>",
+        "analysis_updated_at": {
+            "unix": 1581942900,
+            "text": "2020-02-17 12:35:00 +0000",
+            "iso_8601": "2020-02-17T12:35:00Z"
+        },
+        "push_notify": false,
+        "source": "WSJ",
+        "slug": "us-president-trump-s-administration-is-weighing-new-trade-restrictions-on-china-that-would-limit-the-use-of-american-chip-making-equipment-as-it-seeks-to-cut-off-chinese-access-to-key-semiconductor-technology-according-to-people-familiar-w-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 20:33:00",
+        "gmt_time": "2020-02-17 12:33:00"
+    },
+    {
+        "id": 909131,
+        "updated_sequence": 2112596,
+        "published_at": {
+            "unix": 1581940920,
+            "text": "2020-02-17 12:02:00 +0000",
+            "iso_8601": "2020-02-17T12:02:00Z"
+        },
+        "updated_at": {
+            "unix": 1581940962,
+            "text": "2020-02-17 12:02:42 +0000",
+            "iso_8601": "2020-02-17T12:02:42Z"
+        },
+        "subject": "WTO their good trade indicator shows world merchandise trade growth is most likely to remain weak for the early 2020 period",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "wto-their-good-trade-indicator-shows-world-merchandise-trade-growth-is-most-likely-to-remain-weak-for-the-early-2020-period-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 20:02:00",
+        "gmt_time": "2020-02-17 12:02:00"
+    },
+    {
+        "id": 909130,
+        "updated_sequence": 2112593,
+        "published_at": {
+            "unix": 1581940860,
+            "text": "2020-02-17 12:01:00 +0000",
+            "iso_8601": "2020-02-17T12:01:00Z"
+        },
+        "updated_at": {
+            "unix": 1581940919,
+            "text": "2020-02-17 12:01:59 +0000",
+            "iso_8601": "2020-02-17T12:01:59Z"
+        },
+        "subject": "Saudi Crude Exports 7.370mln BPD, U/C MM in December, Jodi Data",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "saudi-crude-exports-7-370mln-bpd-u-c-mm-in-december-jodi-data-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 20,
+            "name": "Commodities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 20:01:00",
+        "gmt_time": "2020-02-17 12:01:00"
+    },
+    {
+        "id": 909129,
+        "updated_sequence": 2112590,
+        "published_at": {
+            "unix": 1581940380,
+            "text": "2020-02-17 11:53:00 +0000",
+            "iso_8601": "2020-02-17T11:53:00Z"
+        },
+        "updated_at": {
+            "unix": 1581940414,
+            "text": "2020-02-17 11:53:34 +0000",
+            "iso_8601": "2020-02-17T11:53:34Z"
+        },
+        "subject": "China Banking Sector: total liabilities +7.71% YY as of 2019-end, regulator",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "china-banking-sector-total-liabilities-7-71-yy-as-of-2019-end-regulator-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 19:53:00",
+        "gmt_time": "2020-02-17 11:53:00"
+    },
+    {
+        "id": 909128,
+        "updated_sequence": 2112587,
+        "published_at": {
+            "unix": 1581938400,
+            "text": "2020-02-17 11:20:00 +0000",
+            "iso_8601": "2020-02-17T11:20:00Z"
+        },
+        "updated_at": {
+            "unix": 1581938527,
+            "text": "2020-02-17 11:22:07 +0000",
+            "iso_8601": "2020-02-17T11:22:07Z"
+        },
+        "subject": "Newsquawk EU Mid Session: Rangebound trade ahead of Eurogroup meeting & US holiday - 17th February 2020",
+        "content": "<p>To download the report, please click <a href=\"/research_sheets/23881/download\">here</a> If you would like to subscribe to receive the research sheets directly in your inbox, you can now do so under the <a href=\"/research_sheets\">Research Suite</a> section of the portal. To subscribe simply check the box next to \"Email these reports\" under the desired category.</p><p><strong>EQUITIES</strong></p><p>European bourses (Eurostoxx 50 +0.2%) have kicked the week off on a relatively tentative footing following a mixed Asia-Pac session and ahead of market closures Stateside for the Presidents’ Day holiday (full details available via the Newsquawk calendar). Newsflow from a broader macro perspective has been relatively limited during EU hours thus far, as participants eye UK Brexit negotiator Frost’s speech at 1845GMT (expected to provide greater clarity on the UK’s negotiating position) and the Eurogroup meeting in Brussels, with some in the market looking for signs of an agreement leaning in favour of more growth-friendly policies. Sectoral performance in Europe is mixed thus far with some modest outperformance in energy names, in-fitting with last week’s late pick-up in crude prices, whilst Consumer Discretionary names are also seen higher. In terms of stock specifics, Faurecia (+5.4%) sits near the top of the Stoxx 600 post-earnings, subsequently, providing some support to auto-peers including Valeo (+5.5%) and Continental (+3.8%). Elsewhere, Alstom (+2.9%) shares have been supported after coming to a preliminary agreement with Bombardier to purchase their train business for over USD 7bln, whilst HSBC (+1.1%) slightly outperforms the FTSE 100 (+0.3%) benchmark after reports of a huge overhaul to its operations alongside its earnings report tomorrow. To the downside, Tullow Oil (-4.0%) lags its peers after abandoning an offshore well in Peru, whilst troubled NMC Health (U/C) have endured further losses after a boardroom shake up triggered the departure of its founder and chairman.</p><p><strong>FX</strong></p><p><strong>USD - </strong>Typically tight ranges and rather aimless trade due to the long US weekend to mark Presidents’ Day, but the Greenback is mildly softer vs most major counterparts and mixed in relation to EM currencies. Indeed, the DXY has eased back from best levels within a 99.153-041 band after fading just a fraction shy of the next upside technical objective (99.249) standing between 99.500 and the 2019 peak set at the start of Q1 (99.667) though still ‘comfortably’ above the nearest chart support through 99.000 (98.885 Fib retracement level).</p><p><strong>AUD - </strong>The marginal G10 outperformer, as Aud/Usd hovers near the top of a 0.6733-13 range and gleans some support from a firmer YUAN on encouraging news from China on the virus front via a slowdown in the number of people infected and fewer fatalities vs a rise in patients cured and discharged. Usd/Cnh has pulled back from 7.0000 again in response and is testing bids around 6.8000 after the PBoC set the Usd/Cny midpoint fix at 6.9795 and injected Cny 200bn 1 year funds at a cheaper 3.15% from 3.25% at the last MLF.</p><p><strong>CAD/EUR/NZD/CHF - </strong>All benefiting from the waning Buck, as the Loonie probes the base of a 1.3255-25 corridor ahead of 2nd tier Canadian securities data and not far from almost aligning 200 and 21 DMAs (1.3218 and 1.3217 respectively). Meanwhile, the Euro has pared losses between 1.0822-50 parameters in the run up to speeches from ECB chief economist Lane and the Eurogroup meeting, with the Kiwi meandering from 0.6450 to 0.6427 after NZ PM Arden pitched growth this year in the region of 2-2.5% based on temporary contagion from the Chinese health outbreak. Elsewhere, the Franc is narrowly mixed vs the Dollar and Euro just under 0.9800 and over 1.0650 respectively as weekly Swiss sight deposits reveal increases in total and domestic bank balances.</p><p><strong>JPY/GBP </strong>- The Yen is just keeping its head afloat of 110.00 amidst modest risk appetite and following much worse than expected Japanese Q1 GDP overnight that was flagged by the BoJ last week, while the Pound is on the backfoot across the board awaiting a keynote Brexit address from chief negotiator Frost at 18.45GMT that is seen highlighting strains between the UK and EU on post-transition rules an regulations. Cable has retreated through 1.3050 and Eur/Gbp is holding above 0.8300, with some 675 mn option expiries rolling off between the round number and 0.8310.</p><p><strong>SCANDI - </strong>The Norwegian Crown is underperforming its Swedish peer in wake of a narrower trade surplus and Eur/Nok bouncing ahead of the psychological 10.0000 mark, while the Commission predicts that last year’s wage deals will add around 1.1% to manufacturing salaries in 2020 and 0.8-1.4% in other sectors. It also forecasts headline CPI around 1.5% and core circa 2%.</p><p><strong>EM - </strong>Some divergence among regional currencies, as the Rouble benefits from export demand for tax payments, but Rand trades defensively after last week’s solid gains into SA inflation data later this week and the all important budget on February 26.</p><p><strong>FIXED INCOME</strong></p><p>Turnover is still relatively lacklustre, but <strong>core bonds</strong> seem to have benefited from a similar lethargic tone in equities and reluctance to push the bullish boundaries too far without back up from Wall Street, while also taking a leaf from the more pronounced Eurozone periphery pick-up. Indeed, the rebound in <strong>Bunds</strong> had just enough momentum to push the core 10 year future just above parity at 174.52, while <strong>Gilts </strong>cut their arrears to 10 ticks from -41 ticks at the very early Liffe low and <strong>USTs</strong> are straddling the unchanged line, with the curve incrementally flatter.</p><p><strong>COMMODITIES</strong></p><p><strong>WTI and Brent </strong>are unchanged at present in a relatively directionless/rangebound session thus far, with tests of the USD 52.00/bbl and USD 57.00/bbl marks to the downside representing the current session lows. For reference, such price action was short-lived and is still someway off recent lows. Crude specific newsflow has been light, as we continue to await a response from Russian Energy Minister Novak on the JTC recommendations; with his only pertinent comments this morning thus far being that he discussed OPEC+ cooperation with the Iranian oil minister. Overnight reports citing delegates noted that OPEC+ is considering cancelling plans for a earlier meeting and are to keep the March 5-6th dates instead; on this, ING posit that if the oil markets continues to consolidate around current price levels than OPEC+ may see little reason to rush into making a decision. Turning to metals where <strong>spot gold</strong> is marginally softer at present, in what has also been a largely rangebound session. Focus for the safe haven will also be on the Middle-East following weekend remarks via a Iranian-backed Shia military leader that a countdown has begun with reference to attacks in Iraq on US forces. <strong>Base metals</strong> are stronger this morning garnering strength from the PBoC’s overnight support measures.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "newsquawk-eu-mid-session-rangebound-trade-ahead-of-eurogroup-meeting-us-holiday-17th-february-2020-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 19:20:00",
+        "gmt_time": "2020-02-17 11:20:00"
+    },
+    {
+        "id": 909127,
+        "updated_sequence": 2112584,
+        "published_at": {
+            "unix": 1581938220,
+            "text": "2020-02-17 11:17:00 +0000",
+            "iso_8601": "2020-02-17T11:17:00Z"
+        },
+        "updated_at": {
+            "unix": 1581938287,
+            "text": "2020-02-17 11:18:07 +0000",
+            "iso_8601": "2020-02-17T11:18:07Z"
+        },
+        "subject": "UK PM Johnson spekesman says we are not seeking anything special in trade talks with the EU, want something similar to other deals",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>Ahead of UK Chief Brexit Advisor Frost's speech at 18:45GMT</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1581938287,
+            "text": "2020-02-17 11:18:07 +0000",
+            "iso_8601": "2020-02-17T11:18:07Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "uk-pm-johnson-spekesman-says-we-are-not-seeking-anything-special-in-trade-talks-with-the-eu-want-something-similar-to-other-deals-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 38,
+            "name": "Brexit"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 19:17:00",
+        "gmt_time": "2020-02-17 11:17:00"
+    },
+    {
+        "id": 909126,
+        "updated_sequence": 2112581,
+        "published_at": {
+            "unix": 1581937980,
+            "text": "2020-02-17 11:13:00 +0000",
+            "iso_8601": "2020-02-17T11:13:00Z"
+        },
+        "updated_at": {
+            "unix": 1581938037,
+            "text": "2020-02-17 11:13:57 +0000",
+            "iso_8601": "2020-02-17T11:13:57Z"
+        },
+        "subject": "Fixed Income: debt remains somewhat divergent and lacking conviction",
+        "content": "<p>Turnover is still relatively lacklustre, but core bonds seem to have benefited from a similar lethargic tone in equities and reluctance to push the bullish boundaries too far without back up from Wall Street, while also taking a leaf from the more pronounced Eurozone periphery pick-up. Indeed, the rebound in Bunds had just enough momentum to push the core 10 year future just above parity at 174.52, while Gilts cut their arrears to 10 ticks from -41 ticks at the very early Liffe low and USTs are straddling the unchanged line, with the curve incrementally flatter.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "newsquawk",
+        "slug": "fixed-income-debt-remains-somewhat-divergent-and-lacking-conviction-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 19:13:00",
+        "gmt_time": "2020-02-17 11:13:00"
+    },
+    {
+        "id": 909125,
+        "updated_sequence": 2112578,
+        "published_at": {
+            "unix": 1581937860,
+            "text": "2020-02-17 11:11:00 +0000",
+            "iso_8601": "2020-02-17T11:11:00Z"
+        },
+        "updated_at": {
+            "unix": 1581937920,
+            "text": "2020-02-17 11:12:00 +0000",
+            "iso_8601": "2020-02-17T11:12:00Z"
+        },
+        "subject": "China's Premier Li says that Epidemic controls have shown a active and improving trend, State Media",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "china-s-premier-li-says-that-epidemic-controls-have-shown-a-active-and-improving-trend-state-media-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 19:11:00",
+        "gmt_time": "2020-02-17 11:11:00"
+    },
+    {
+        "id": 909124,
+        "updated_sequence": 2112575,
+        "published_at": {
+            "unix": 1581937320,
+            "text": "2020-02-17 11:02:00 +0000",
+            "iso_8601": "2020-02-17T11:02:00Z"
+        },
+        "updated_at": {
+            "unix": 1581937419,
+            "text": "2020-02-17 11:03:39 +0000",
+            "iso_8601": "2020-02-17T11:03:39Z"
+        },
+        "subject": "Bundesbank Monthly Report: no fundamental changes in the German economy in Q1, warns that the coronavirus could impact the export sector",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "bundesbank-monthly-report-no-fundamental-changes-in-the-german-economy-in-q1-warns-that-the-coronavirus-could-impact-the-export-sector-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 19:02:00",
+        "gmt_time": "2020-02-17 11:02:00"
+    },
+    {
+        "id": 909123,
+        "updated_sequence": 2112571,
+        "published_at": {
+            "unix": 1581936780,
+            "text": "2020-02-17 10:53:00 +0000",
+            "iso_8601": "2020-02-17T10:53:00Z"
+        },
+        "updated_at": {
+            "unix": 1581936854,
+            "text": "2020-02-17 10:54:14 +0000",
+            "iso_8601": "2020-02-17T10:54:14Z"
+        },
+        "subject": "FX Morning Colour: Dollar drifts in muted US holiday Monday trade",
+        "content": "<p><strong>USD</strong></p><p>Typically tight ranges and rather aimless trade due to the long US weekend to mark Presidents’ Day, but the Greenback is mildly softer vs most major counterparts and mixed in relation to EM currencies. Indeed, the <strong>DXY </strong>has eased back from best levels within a 99.153-041 band after fading just a fraction shy of the next upside technical objective (99.249) standing between 99.500 and the 2019 peak set at the start of Q1 (99.667) though still ‘comfortably’ above the nearest chart support through 99.000 (98.885 Fib retracement level).</p><p><strong>AUD</strong></p><p>The marginal G10 outperformer, as Aud/Usd hovers near the top of a 0.6733-13 range and gleans some support from a firmer <strong>YUAN </strong>on encouraging news from China on the virus front via a slowdown in the number of people infected and fewer fatalities vs a rise in patients cured and discharged. Usd/Cnh has pulled back from 7.0000 again in response and is testing bids around 6.8000 after the PBoC set the Usd/Cny midpoint fix at 6.9795 and injected Cny 200bn 1 year funds at a cheaper 3.15% from 3.25% at the last MLF.</p><p><strong>CAD/EUR/NZD/CHF</strong></p><p>All benefiting from the waning Buck, as the Loonie probes the base of a 1.3255-25 corridor ahead of 2nd tier Canadian securities data and not far from almost aligning 200 and 21 DMAs (1.3218 and 1.3217 respectively). Meanwhile, the Euro has pared losses between 1.0822-50 parameters in the run up to speeches from ECB chief economist Lane and the Eurogroup meeting, with the Kiwi meandering from 0.6450 to 0.6427 after NZ PM Arden pitched growth this year in the region of 2-2.5% based on temporary contagion from the Chinese health outbreak. Elsewhere, the Franc is narrowly mixed vs the Dollar and Euro just under 0.9800 and over 1.0650 respectively as weekly Swiss sight deposits reveal increases in total and domestic bank balances.</p><p><strong>JPY/GBP</strong></p><p>The Yen is just keeping its head afloat of 110.00 amidst modest risk appetite and following much worse than expected Japanese Q1 GDP overnight that was flagged by the BoJ last week, while the Pound is on the backfoot across the board awaiting a keynote Brexit address from chief negotiator Frost at 18.45GMT that is seen highlighting strains between the UK and EU on post-transition rules an regulations. Cable has retreated through 1.3050 and Eur/Gbp is holding above 0.8300, with some 675 mn option expiries rolling off between the round number and 0.8310.&nbsp;</p><p><strong>SCANDI&nbsp;</strong></p><p>The Norwegian Crown is underperforming its Swedish peer in wake of a narrower trade surplus and Eur/Nok bouncing ahead of the psychological 10.0000 mark, while the Commission predicts that last year’s wage deals will add around 1.1% to manufacturing salaries in 2020 and 0.8-1.4% in other sectors. It also forecasts headline CPI around 1.5% and core circa 2%.</p><p><strong>EM&nbsp;</strong></p><p>Some divergence among regional currencies, as the Rouble benefits from export demand for tax payments, but Rand trades defensively after last week’s solid gains into SA inflation data later this week and the all important budget on February 26.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "newsquawk",
+        "slug": "fx-morning-colour-dollar-drifts-in-muted-us-holiday-monday-trade-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 18:53:00",
+        "gmt_time": "2020-02-17 10:53:00"
+    },
+    {
+        "id": 909122,
+        "updated_sequence": 2112568,
+        "published_at": {
+            "unix": 1581936480,
+            "text": "2020-02-17 10:48:00 +0000",
+            "iso_8601": "2020-02-17T10:48:00Z"
+        },
+        "updated_at": {
+            "unix": 1581936577,
+            "text": "2020-02-17 10:49:37 +0000",
+            "iso_8601": "2020-02-17T10:49:37Z"
+        },
+        "subject": "Tokyo Marathon (1st March) has been cancelled due to the coronavirus, AFP",
+        "content": "<ul><li><a href=\"https://twitter.com/AFP/status/1229356211511943169\">Link to Tweet</a></li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Twitter",
+        "slug": "tokyo-marathon-1st-march-has-been-cancelled-due-to-the-coronavirus-afp-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 18:48:00",
+        "gmt_time": "2020-02-17 10:48:00"
+    },
+    {
+        "id": 909121,
+        "updated_sequence": 2112563,
+        "published_at": {
+            "unix": 1581934260,
+            "text": "2020-02-17 10:11:00 +0000",
+            "iso_8601": "2020-02-17T10:11:00Z"
+        },
+        "updated_at": {
+            "unix": 1581934378,
+            "text": "2020-02-17 10:12:58 +0000",
+            "iso_8601": "2020-02-17T10:12:58Z"
+        },
+        "subject": "Vodafone (VOD LN)/Telecom Italia (TIT IM) - Co's have submitted concessions to address EU antitrust concerns regarding the tower deal, according to EU Commission",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>Follows on from reports last week that such concessions would be necessary in order to attain approval for their towers merger&nbsp;</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1581934378,
+            "text": "2020-02-17 10:12:58 +0000",
+            "iso_8601": "2020-02-17T10:12:58Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "vodafone-vod-ln-telecom-italia-tit-im-co-s-have-submitted-concessions-to-address-eu-antitrust-concerns-regarding-the-tower-deal-according-to-eu-commission-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 33,
+            "name": "European Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 18:11:00",
+        "gmt_time": "2020-02-17 10:11:00"
+    },
+    {
+        "id": 909120,
+        "updated_sequence": 2112560,
+        "published_at": {
+            "unix": 1581933600,
+            "text": "2020-02-17 10:00:00 +0000",
+            "iso_8601": "2020-02-17T10:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1581933661,
+            "text": "2020-02-17 10:01:01 +0000",
+            "iso_8601": "2020-02-17T10:01:01Z"
+        },
+        "subject": "Russian Energy Minister Novak held a discussion with the Iranian Oil Minister on OPEC+ cooperation, according to the Russian Energy Ministry ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "russian-energy-minister-novak-held-a-discussion-with-the-iranian-oil-minister-on-opec-cooperation-according-to-the-russian-energy-ministry-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 20,
+            "name": "Commodities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 18:00:00",
+        "gmt_time": "2020-02-17 10:00:00"
+    },
+    {
+        "id": 909119,
+        "updated_sequence": 2112557,
+        "published_at": {
+            "unix": 1581932460,
+            "text": "2020-02-17 09:41:00 +0000",
+            "iso_8601": "2020-02-17T09:41:00Z"
+        },
+        "updated_at": {
+            "unix": 1581932526,
+            "text": "2020-02-17 09:42:06 +0000",
+            "iso_8601": "2020-02-17T09:42:06Z"
+        },
+        "subject": "WIrecard (WDI GY) have denied reports suggesting that the Co. has suspended legal proceedings against the FT; process is ongoing",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "wirecard-wdi-gy-have-denied-reports-suggesting-that-the-co-has-suspended-legal-proceedings-against-the-ft-process-is-ongoing-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 1,
+            "name": "DAX"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 17:41:00",
+        "gmt_time": "2020-02-17 09:41:00"
+    },
+    {
+        "id": 909119,
+        "updated_sequence": 2112557,
+        "published_at": {
+            "unix": 1581932460,
+            "text": "2020-02-17 09:41:00 +0000",
+            "iso_8601": "2020-02-17T09:41:00Z"
+        },
+        "updated_at": {
+            "unix": 1581932526,
+            "text": "2020-02-17 09:42:06 +0000",
+            "iso_8601": "2020-02-17T09:42:06Z"
+        },
+        "subject": "WIrecard (WDI GY) have denied reports suggesting that the Co. has suspended legal proceedings against the FT; process is ongoing",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "wirecard-wdi-gy-have-denied-reports-suggesting-that-the-co-has-suspended-legal-proceedings-against-the-ft-process-is-ongoing-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 1,
+            "name": "DAX"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 17:41:00",
+        "gmt_time": "2020-02-17 09:41:00"
+    },
+    {
+        "id": 909118,
+        "updated_sequence": 2112554,
+        "published_at": {
+            "unix": 1581931680,
+            "text": "2020-02-17 09:28:00 +0000",
+            "iso_8601": "2020-02-17T09:28:00Z"
+        },
+        "updated_at": {
+            "unix": 1581931767,
+            "text": "2020-02-17 09:29:27 +0000",
+            "iso_8601": "2020-02-17T09:29:27Z"
+        },
+        "subject": "Macau Secretarty for Economy and Finance says that casinos can reopen on Thursday, following a two week suspension ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "macau-secretarty-for-economy-and-finance-says-that-casinos-can-reopen-on-thursday-following-a-two-week-suspension-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 17:28:00",
+        "gmt_time": "2020-02-17 09:28:00"
+    },
+    {
+        "id": 909117,
+        "updated_sequence": 2112547,
+        "published_at": {
+            "unix": 1581931080,
+            "text": "2020-02-17 09:18:00 +0000",
+            "iso_8601": "2020-02-17T09:18:00Z"
+        },
+        "updated_at": {
+            "unix": 1581931267,
+            "text": "2020-02-17 09:21:07 +0000",
+            "iso_8601": "2020-02-17T09:21:07Z"
+        },
+        "subject": "UBS FX Spot Ideas 17th February 2020",
+        "content": "<ul><li>EUR/USD - buy dips 1.0825-35, stop below 1.0815, target 1.0870</li><li>USD/JPY - &nbsp;Sell rally 109.95-110.10, stop above 110.30 target 109.65</li><li>EUR/JPY - &nbsp;buy dips 118.90-119.00, stop below 118.70, target 119.60</li><li>EUR/CHF - Play range&nbsp;1.0630 - 1.0670</li><li>USD/CHF - Sell rally 0.9825-35, stop above 0.9855, target 0.9785</li><li>GBP/USD - Sell rally 1.3070-85, stop above 1.3105, target 1.3015</li><li>EUR/GBP - Play range 0.8290 - 0.8340</li><li>AUD/USD - Play range 0.6710 - 0.6750</li><li>NZD/USD - Play range 0.6420 - 0.6460</li><li>USD/CAD - Sell rally 1.3255-65, stop above 1.3275, target 1.3200</li><li>EUR/SEK - Play range 10.48 - 10.54</li><li>EUR/NOK - Buy dips 9.98-10.00, stop below 9.96, target 10.05</li><li>XAU?USD &nbsp;- Buy at 1578, stop loss at 1574, take profit at 1588</li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "UBS",
+        "slug": "ubs-fx-spot-ideas-17th-february-2020-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 39,
+            "name": "Bank Research"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 17:18:00",
+        "gmt_time": "2020-02-17 09:18:00"
+    },
+    {
+        "id": 909115,
+        "updated_sequence": 2112541,
+        "published_at": {
+            "unix": 1581930060,
+            "text": "2020-02-17 09:01:00 +0000",
+            "iso_8601": "2020-02-17T09:01:00Z"
+        },
+        "updated_at": {
+            "unix": 1581930443,
+            "text": "2020-02-17 09:07:23 +0000",
+            "iso_8601": "2020-02-17T09:07:23Z"
+        },
+        "subject": "2019 wage deals will add 1.1% to wage grwoth this year in manufacturing, with other sectors seeing growth of 0.8-1.4%, according to the Norweigian Commission",
+        "content": "<ul><li>Forecasts 2020 headline inflation of circa 1.5%, core around 2.5%.&nbsp;</li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "2019-wage-deals-will-add-1-1-to-wage-grwoth-this-year-in-manufacturing-with-other-sectors-seeing-growth-of-0-8-1-4-according-to-the-norweigian-commission-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 17:01:00",
+        "gmt_time": "2020-02-17 09:01:00"
+    },
+    {
+        "id": 909113,
+        "updated_sequence": 2112531,
+        "published_at": {
+            "unix": 1581930000,
+            "text": "2020-02-17 09:00:00 +0000",
+            "iso_8601": "2020-02-17T09:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1581930104,
+            "text": "2020-02-17 09:01:44 +0000",
+            "iso_8601": "2020-02-17T09:01:44Z"
+        },
+        "subject": "Swiss Sight Deposits week ending 14th February: Total, CHF 590.132bln vs. Prev. CHF 589.629bln; Domestic Banks, CHF 504.156bln vs. Prev. CHF 502.968bln",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "swiss-sight-deposits-week-ending-14th-february-total-chf-590-132bln-vs-prev-chf-589-629bln-domestic-banks-chf-504-156bln-vs-prev-chf-502-968bln-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 5,
+            "name": "Swiss Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 17:00:00",
+        "gmt_time": "2020-02-17 09:00:00"
+    },
+    {
+        "id": 909116,
+        "updated_sequence": 2112544,
+        "published_at": {
+            "unix": 1581930000,
+            "text": "2020-02-17 09:00:00 +0000",
+            "iso_8601": "2020-02-17T09:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1581930482,
+            "text": "2020-02-17 09:08:02 +0000",
+            "iso_8601": "2020-02-17T09:08:02Z"
+        },
+        "subject": "Gilts paring some losses after gap down, Short Sterling futures likewise",
+        "content": "<p>In many ways the week starts for UK markets on Tuesday when labour and wage data start a run of potentially key/pivotal macro releases culminating in preliminary PMIs on Friday, but debt and STIR contracts are tracking moves elsewhere in the interim. The 10 year benchmark resumed Liffe at 133.35 and dipped to 133.31 before finding underlying bids ahead of last week’s mtd low (133.22) and has subsequently bounced alongside Bunds (to 174.48 vs 174.08 at one stage) and US Treasuries (at 131-05 compared to 130-26+ earlier) as EU stocks ease from best levels to trade at 133.58 from their 133.72 previous close. Similarly, the 3 month strip is off worst levels within flat to -3 tick parameters in relatively thin US Presidents’ Day trading conditions.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "newsquawk",
+        "slug": "gilts-paring-some-losses-after-gap-down-short-sterling-futures-likewise-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 17:00:00",
+        "gmt_time": "2020-02-17 09:00:00"
+    },
+    {
+        "id": 909112,
+        "updated_sequence": 2112528,
+        "published_at": {
+            "unix": 1581929160,
+            "text": "2020-02-17 08:46:00 +0000",
+            "iso_8601": "2020-02-17T08:46:00Z"
+        },
+        "updated_at": {
+            "unix": 1581929277,
+            "text": "2020-02-17 08:47:57 +0000",
+            "iso_8601": "2020-02-17T08:47:57Z"
+        },
+        "subject": "A further 99 people aboard the cruise ship outside of Yokohama, Japan have been diagnosed with coronavirus, according to jiji News",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>Overnight, Japan reported 70 additional coronavirus cases on Diamond Princess cruise ship, taking the total to 355 - largest outside China.</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1581929277,
+            "text": "2020-02-17 08:47:57 +0000",
+            "iso_8601": "2020-02-17T08:47:57Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "a-further-99-people-aboard-the-cruise-ship-outside-of-yokohama-japan-have-been-diagnosed-with-coronavirus-according-to-jiji-news-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 16:46:00",
+        "gmt_time": "2020-02-17 08:46:00"
+    },
+    {
+        "id": 909111,
+        "updated_sequence": 2112523,
+        "published_at": {
+            "unix": 1581928620,
+            "text": "2020-02-17 08:37:00 +0000",
+            "iso_8601": "2020-02-17T08:37:00Z"
+        },
+        "updated_at": {
+            "unix": 1581928714,
+            "text": "2020-02-17 08:38:34 +0000",
+            "iso_8601": "2020-02-17T08:38:34Z"
+        },
+        "subject": "Cathay Pacific (293 HK) H1 results are to be significantly lower YY, due to the post Chinese NY redumption delay impacting their markets",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "cathay-pacific-293-hk-h1-results-are-to-be-significantly-lower-yy-due-to-the-post-chinese-ny-redumption-delay-impacting-their-markets-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 16:37:00",
+        "gmt_time": "2020-02-17 08:37:00"
+    },
+    {
+        "id": 909110,
+        "updated_sequence": 2112520,
+        "published_at": {
+            "unix": 1581928380,
+            "text": "2020-02-17 08:33:00 +0000",
+            "iso_8601": "2020-02-17T08:33:00Z"
+        },
+        "updated_at": {
+            "unix": 1581928530,
+            "text": "2020-02-17 08:35:30 +0000",
+            "iso_8601": "2020-02-17T08:35:30Z"
+        },
+        "subject": "UBS on EU earnings season",
+        "content": "<ul><li>Net beats by no. of co.'s have fallen from 5% a week ago to 2%</li><li>A net 11% of companies have beaten on revenues which is roughly in line with the long-run average</li><li>Diversified Financials, Software, Media and Leisure have had the most net beats on earnings</li><li>Misses at a sector level have come from Household Products, Consumer Durables and Telecoms</li><li>Switzerland, the UK and Italy have seen some of the highest net earnings beats with the misses mainly in the Scandinavian countries</li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "UBS",
+        "slug": "ubs-on-eu-earnings-season-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 39,
+            "name": "Bank Research"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 16:33:00",
+        "gmt_time": "2020-02-17 08:33:00"
+    },
+    {
+        "id": 909109,
+        "updated_sequence": 2112517,
+        "published_at": {
+            "unix": 1581927180,
+            "text": "2020-02-17 08:13:00 +0000",
+            "iso_8601": "2020-02-17T08:13:00Z"
+        },
+        "updated_at": {
+            "unix": 1581927261,
+            "text": "2020-02-17 08:14:21 +0000",
+            "iso_8601": "2020-02-17T08:14:21Z"
+        },
+        "subject": "ENI (ENI IM) - Co. announce the discovery of new oil offshore Mexico, prelim estimates see this containing 200-300mln barrles of oil",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "eni-eni-im-co-announce-the-discovery-of-new-oil-offshore-mexico-prelim-estimates-see-this-containing-200-300mln-barrles-of-oil-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 33,
+            "name": "European Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 16:13:00",
+        "gmt_time": "2020-02-17 08:13:00"
+    },
+    {
+        "id": 909108,
+        "updated_sequence": 2112514,
+        "published_at": {
+            "unix": 1581926940,
+            "text": "2020-02-17 08:09:00 +0000",
+            "iso_8601": "2020-02-17T08:09:00Z"
+        },
+        "updated_at": {
+            "unix": 1581927206,
+            "text": "2020-02-17 08:13:26 +0000",
+            "iso_8601": "2020-02-17T08:13:26Z"
+        },
+        "subject": "Bunds: another drift within recent ranges amidst light US holiday volumes",
+        "content": "<p>An even more low key start to the week that usual given Presidents’ Day and a particularly barren slate with only Eurozone construction output scheduled ahead of a couple of appearances from ECB chief economist Lane in the pm. However, risk sentiment has been buoyed to an extent by latest Chinese coronavirus updates and PBoC/Government efforts to counter the economic impact via credit, liquidity and fiscal measures to the detriment of safe haven assets. Hence, the 10 year German debt future and bond peers are on the back foot and retesting support ahead of 174.00 vs last Friday’s 174.48 close having opened at 174.36 and briefly bouncing to 174.38. Note also, some talk in the markets suggesting that today’s Eurogroup meeting could reveal more about plans to supplement monetary policy via increased budget spending.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "newsquawk",
+        "slug": "bunds-another-drift-within-recent-ranges-amidst-light-us-holiday-volumes-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 16:09:00",
+        "gmt_time": "2020-02-17 08:09:00"
+    },
+    {
+        "id": 909107,
+        "updated_sequence": 2112511,
+        "published_at": {
+            "unix": 1581926880,
+            "text": "2020-02-17 08:08:00 +0000",
+            "iso_8601": "2020-02-17T08:08:00Z"
+        },
+        "updated_at": {
+            "unix": 1581926946,
+            "text": "2020-02-17 08:09:06 +0000",
+            "iso_8601": "2020-02-17T08:09:06Z"
+        },
+        "subject": "China's National Health Commission Offical says that the coronavirus is both preventable and treatable ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "china-s-national-health-commission-offical-says-that-the-coronavirus-is-both-preventable-and-treatable-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 16:08:00",
+        "gmt_time": "2020-02-17 08:08:00"
+    },
+    {
+        "id": 909106,
+        "updated_sequence": 2112508,
+        "published_at": {
+            "unix": 1581926640,
+            "text": "2020-02-17 08:04:00 +0000",
+            "iso_8601": "2020-02-17T08:04:00Z"
+        },
+        "updated_at": {
+            "unix": 1581926649,
+            "text": "2020-02-17 08:04:09 +0000",
+            "iso_8601": "2020-02-17T08:04:09Z"
+        },
+        "subject": "European Equity Movers this Morning: Faurecia (EO FP) +6.0%; ProSiebenSat.1 (PSM GY) +1.7%; Alstom (ALO FP) +0.1%; Tullow (TLW LN) -5.1%; Meggit (MGGT LN) -1.6%; NMC (NMC LN) -1.3%; BASF (BAS GY) -1.0%; Airbus (AIR FP) -0.9%",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": true,
+        "source": "Newsquawk",
+        "slug": "european-equity-movers-this-morning-faurecia-eo-fp-6-0-prosiebensat-1-psm-gy-1-7-alstom-alo-fp-0-1-tullow-tlw-ln-5-1-meggit-mggt-ln-1-6-nmc-nmc-ln-1-3-basf-bas-gy-1-0-airbus-air-fp-0-9-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 33,
+            "name": "European Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 16:04:00",
+        "gmt_time": "2020-02-17 08:04:00"
+    },
+    {
+        "id": 909104,
+        "updated_sequence": 2112496,
+        "published_at": {
+            "unix": 1581924840,
+            "text": "2020-02-17 07:34:00 +0000",
+            "iso_8601": "2020-02-17T07:34:00Z"
+        },
+        "updated_at": {
+            "unix": 1581924957,
+            "text": "2020-02-17 07:35:57 +0000",
+            "iso_8601": "2020-02-17T07:35:57Z"
+        },
+        "subject": "Scant FX option expiries for today's NY cut",
+        "content": "<p>EUR/USD: 1.0825-30 (230M)</p><p>EUR/GBP: 0.8300-10 (675M)</p><p>AUD/JPY: 73.60 (240M), 74.75 (440M)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "DTCC",
+        "slug": "scant-fx-option-expiries-for-today-s-ny-cut-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 22,
+            "name": "FX Flows"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 15:34:00",
+        "gmt_time": "2020-02-17 07:34:00"
+    },
+    {
+        "id": 909103,
+        "updated_sequence": 2112487,
+        "published_at": {
+            "unix": 1581923760,
+            "text": "2020-02-17 07:16:00 +0000",
+            "iso_8601": "2020-02-17T07:16:00Z"
+        },
+        "updated_at": {
+            "unix": 1581923876,
+            "text": "2020-02-17 07:17:56 +0000",
+            "iso_8601": "2020-02-17T07:17:56Z"
+        },
+        "subject": "Beijing Autoshow organisers state they will be delaying the event due to the coronavirus, was scheduled to occur April 21st-30th ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "beijing-autoshow-organisers-state-they-will-be-delaying-the-event-due-to-the-coronavirus-was-scheduled-to-occur-april-21st-30th-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 15:16:00",
+        "gmt_time": "2020-02-17 07:16:00"
+    },
+    {
+        "id": 909102,
+        "updated_sequence": 2112551,
+        "published_at": {
+            "unix": 1581922860,
+            "text": "2020-02-17 07:01:00 +0000",
+            "iso_8601": "2020-02-17T07:01:00Z"
+        },
+        "updated_at": {
+            "unix": 1581931582,
+            "text": "2020-02-17 09:26:22 +0000",
+            "iso_8601": "2020-02-17T09:26:22Z"
+        },
+        "subject": "China's National Peoples Congress is reportedly proposed postponing their annual meeting, and are to review the delay of the annual session in March., Xinhua",
+        "content": "<ul><li>As well as the People's Political Consulate Conference</li><li>Is to be discussed on February 24th</li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>Global Times, citing a Beijing Economist, notes the potential delay indicted the coronavirus is being fully assessed and Officials may adjust some targets accordingly&nbsp;</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1581931582,
+            "text": "2020-02-17 09:26:22 +0000",
+            "iso_8601": "2020-02-17T09:26:22Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "china-s-national-peoples-congress-is-reportedly-proposed-postponing-their-annual-meeting-and-are-to-review-the-delay-of-the-annual-session-in-march-xinhua-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 15:01:00",
+        "gmt_time": "2020-02-17 07:01:00"
+    },
+    {
+        "id": 909101,
+        "updated_sequence": 2112502,
+        "published_at": {
+            "unix": 1581922800,
+            "text": "2020-02-17 07:00:00 +0000",
+            "iso_8601": "2020-02-17T07:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1581926163,
+            "text": "2020-02-17 07:56:03 +0000",
+            "iso_8601": "2020-02-17T07:56:03Z"
+        },
+        "subject": "Additional European Equities post release of the Daily European Equity Opening News",
+        "content": "<p><strong>Alstom (ALO FP) - </strong>Confirm they are in discussion with Bombadier on their train unti, but no final decision has been made. (Newswires)</p><p><strong>Deutsche Bank (DBK GY)</strong> – Co. is reportedly seeing a significant departure of contractor employees, in areas which are critical to compliance requirements. Follows on from the Co. demanding that such workers take a 25% pay-cut in the UK due to legal changes. (FT)</p><p><strong>Bayer (BAYN GY)/BASF (BAS GY) – </strong>Jury has ruled against the Co’s in a crop-damage case via the Dicamba herbicide, Co’s have been fined USD 265mln. Subsequently, Bayer state they disagree with this decision and will be appealing it. (WSJ) <i>Shares in Cos are 1.1% lower in the pre-market</i></p><p><strong>Bayer (BAYN GY) – </strong>Co. has ended their digital farming agreement following on from privacy concerns. (FT)</p><p><strong>Housing Names </strong>– British property market is, according to Rightmove, in the midst of a boom with prices increasing over GBP 2.5k in the prev. month and agreed sales are +12% YY. (Guardian)</p><p><strong>HSBC (HSBA LN) - </strong>Stephen Bird, who was seen as the leading candidate to replace CEO Flint, has reportedly ruled himself out. (Times)&nbsp;</p><p><strong>Intu (INTU LN) – </strong>Co. is reportedly considering increasing the payouts for top-executives. (FT)</p><p><strong>NMC Health (NMC LN) – </strong>Basaddiq and Shetty (Founder and Chairman) have resigned as directors with immediate effect as of Feb 16th, as has Chief Investment Officer Buttikhi. (Newswires)</p><p><strong>ProSiebenSat.1 (PSM GY) - </strong>Bertelsmann has stated that the Co. should be allowed to merge with RTL. (Newswires)</p><p><strong>Rio Tinto (RIO LN) – </strong>Co. is involved in a legal dispute with a former employee who alleges that they were aware of problems at Mongolian copper projects prior to investors being made aware of this. (FT)</p><p><strong>ThyssenKrupp (TKA GY) – </strong>Co. may be forced into giving away all/part of their factor building division in order to focus on their steel unit. (FT)</p><p><strong>Tullow Oil (TLW LN) - </strong>Marina-1 well update: has reached total depth, not encountered any significatn hydrocarbons; well is to be plugged and abandoned. (Newswires)</p><p><strong>William Hill (WMH LN) – </strong>Adrian Marsh has been appointed as the next CFO, Marsh is currently the CFO of <strong>DS Smith (SMDS LN)</strong>. (Newswires)</p><p><strong>ASHTEAD (AHT LN)</strong> REITERATED WITH OVERWEIGHT AT JP MORGAN</p><p><strong>JUST EAT (JE/ LN)</strong> REITERATED WITH OVERWEIGHT AT JP MORGAN</p><p><strong>LEGRAND (LR FP) </strong>UPGRADED TO BUY FROM HOLD AT KEPLER CHEUVREUX</p><p><strong>ROCHE (ROG SW) </strong>UPGRADED TO BUY FROM NEUTRAL AT CITIGROUP</p><p><strong>NOKIAN TYRES (TYRES FH) </strong>DOWNGRADED TO SELL FROM HOLD AT DNB MARKETS</p><p><strong>ILIAD (ILD FP) </strong>REITERATED WITH OVERWEIGHT AT JP MORGAN</p><p><strong>ENDESA (ELE SM)</strong> UPGRADED TO SECTOR PERFORM FROM UNDERPERFORM AT RBC</p><p>&nbsp;</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "additional-european-equities-post-release-of-the-daily-european-equity-opening-news-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 33,
+            "name": "European Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 15:00:00",
+        "gmt_time": "2020-02-17 07:00:00"
+    },
+    {
+        "id": 909099,
+        "updated_sequence": 2112489,
+        "published_at": {
+            "unix": 1581922080,
+            "text": "2020-02-17 06:48:00 +0000",
+            "iso_8601": "2020-02-17T06:48:00Z"
+        },
+        "updated_at": {
+            "unix": 1581923938,
+            "text": "2020-02-17 07:18:58 +0000",
+            "iso_8601": "2020-02-17T07:18:58Z"
+        },
+        "subject": "Daily European Equity Opening News",
+        "content": "<p><strong>**EUROPEAN EQUITY COVERAGE WILL ONLY COVER COMPANIES IN THE STOXX 600 OR COMPANIES OF SYSTEMIC IMPORTANCE TO PARTICULAR SECTORS**</strong></p><p>17th February 2020</p><p>The Daily European Equity Opening News is uploaded at 0700GMT/0100CST recapping all of the &nbsp;&nbsp;overnight equity news</p><p><strong>From 0700GMT/0100CST all equity news will be covered in real time over the audio and headline feed and the full audio rundown will be at 0715GMT/0115CST.</strong></p><p><strong>There will be an additional audio rundown at 0750GMT/0150CST recapping any company news which has hit the wires since 0715GMT/0115CST ahead of the European equity open</strong></p><p><strong>ASIA</strong></p><p>Asia-Pac stocks traded mixed following Wall Street’s flat close on Friday whereby major bourses recovered following reports that the White House is considering tax incentives for people in the US to purchase stocks. ASX 200 (-0.1%) pulled back from near-record highs with the index’s heaviest weighted financial sector leading the losses. Nikkei 225 (-0.7%) underperformed the region but climbed off lows after opening with steep losses following a deeper-than-expected contraction in Japanese Q4 GDP, on a QQ and an annualised basis, with the breakdown also showing that manufacturing contracted by 5.9% on a quarterly basis. As such, a slew of the index’s manufacturing names plumbed the depths, whilst Nissan shares added pressure after its alliance partner Renault slashed their dividend on Friday. Hang Seng (+0.6%) and Shanghai Comp. (+1.6%) remained resilient with the former following suit from the latter extending on opening gains amid further support from Chinese authorities, including touted MLF operations, reductions to corporate taxed and cuts to unnecessary government expenses.</p><p><strong>FTSE 100</strong></p><p><strong>Anglo American (AAL LN) – </strong>CEO has stated that that it will now be difficult to acquire buyers who are prepared to pay top amounts for thermal coal, due to other names exiting this commodity, according to press reports. (Newswires)</p><p><strong>HSBC (HSBA LN) – Co. is reportedly to announce a restructuring alongside their earnings (Feb 18th), which would be their 3rd overall within a decade</strong>; additionally, there is some speculation that as current CEO Quinn has yet to be confirmed as permanent he may be replaced. Potential restructuring measures include senior management changes, business withdrawal and global job cuts; as well as write-downs of billions of USD and a reduction in exposure to certain countries e.g. Greece. (SCMP/Newswires)</p><p><strong>Shell (RDSA LN) -</strong> Co. has put its support behind a Chinese-backed energy storage venture building in what is claimed to be Europe’s largest battery, in Wiltshire. (Times)</p><p><strong>Tesco (TSCO LN) -</strong> The CMA has requested the power to fine supermarkets for locking rivals out of nearby stores after Tesco broke the rules but escaped with minor punishment. (Telegraph)<i> Follows on from Friday’s comments via the CMA on this</i></p><p>OTHER UK COMPANIES</p><p>BROKER MOVES</p><p><strong>MEGGITT (MGGT LN)</strong> DOWNGRADED TO NEUTRAL FROM BUY AT CITI</p><p><strong>DAX</strong></p><p><strong>Bayer (BAYN GY)/BASF (BAS GY) – </strong>Jury has ruled against the Co’s in a crop-damage case via the Dicamba herbicide, Co’s have been fined USD 265mln. (WSJ) <i>Shares in Cos are 1.1% lower in the pre-market</i></p><p><strong>Deutsche Telekom (DTE GY) – </strong>New York State has removed its opposition to the Sprint (S) and T-Mobile (TMUS) merger, will not be appealing the judge’s decision. (Newswires) <i>For reference, Deutsche Telekom owns 63% of T-Mobile.</i></p><p><strong>Wirecard (WDI GY) – </strong>Handelsblatt article post Wirecard earnings: Should further allegations arise in 2020 or the ongoing KPMG review (which analysts cited note are the markets primary valuing focus for the Co.) face criticism then the Co. is vulnerable; additionally, concerns remain around governance, Wealth Manager. Finance Professor notes that the Co. may become a medium-term takeover target, which would involve a management change, in the scenario that their price does not increase significantly. Separately, Co. and Wirecube have obtained Austrian supermarket chain Billa as a customer. (Handelsblatt/Newswires)</p><p>OTHER GERMAN COMPANIES</p><p>&nbsp;</p><p>BROKER MOVES</p><p><strong>THYSSENKRUPP (TKA GY) </strong>UPGRADED TO EQUAL WEIGHT FROM UNDERWEIGHT AT BARCLAYS</p><p><strong>CAC</strong></p><p><strong>Airbus (AIR FP) – </strong>Head of the Co’s Defence unit has stated he will begin discussions with labour representatives regarding job cuts, afterwhich discussion will progress to the national level. Due to problems relating to their A400M military transporter. (Newswires)</p><p><strong>Alstom (ALO FP) – </strong>Co. has reportedly come to a preliminary agreement with Bombardier to purchase their train business for over USD 7bln. (WSJ)</p><p><strong>Credit Agricole (ACA FP) – </strong>Assurances generated over EUR 37.0bln of written premiums for FY19, +10%. (Newswires)</p><p><strong>EDF (EDF FP) -</strong> Co. is set to submit a formal planning application to construct a GBP 16bln nuclear power plant in Suffolk, UK within the coming weeks. (Telegraph)</p><p><strong>Safran (SAF FP) – </strong>US President Trump is reportedly considering halting deliveries of jet engines which are produced in a JV between the Co. and <strong>General Electric (GE)</strong>; specifically, preventing them from exporting LEAP 1C engines to China. (WSJ)</p><p>OTHER FRENCH COMPANIES</p><p><strong>Faurecia (EO FP) -</strong> FY 2019 revenue EUR 17.8bln vs. Prev. EUR 17.5bln, operating profit EUR 1.28bln vs. Prev. EUR 1.27bln and net EUR 590mln vs. Prev. EUR 701mln. CEO says 2020 will be another challenging year. (Newswires)</p><p><strong>Icade (ICAD FP) -</strong> FY 2019 gross rental income EUR 269.5mln vs. Prev. EUR 241mln and net EUR 89.3mln vs. Prev. EUR 64.8mln. (Newswires)</p><p>BROKER MOVES</p><p><strong>VINCI (DG FP) </strong>UPGRADED TO HOLD FROM BUY AT SOCIETE GENERALE</p><p><strong>PAN EUROPE&nbsp;</strong></p><p><strong>Aircraft Names – The Trump Administration said it would increase tariffs on EU aircrafts beginning March 18th on planes from France, Germany, Spain, and the UK, which will be subject to 15% tariffs vs. Prev. 10% that took effect in October. </strong>USTR noted that it remains open to a negotiated settlement.<strong> </strong>Prior duties will remain on certain other European products such as Scotch and French wine at 25%. (WSJ)</p><p><strong>European Co’s – </strong>Financial Reporting Council has reportedly begun discussions with key audio firms regarding potential delays to the signing off of client accounts, regarding Co’s with substantial operations in China, as the coronavirus has implemented travel restrictions but Chinese data protection requires auditing to be done within the country. (Sky News)</p><p><strong>Tenaris (TEN IM) – </strong>Board of Directors has given full support to the Chairman, CEO as well as other directors. Separately, Italian court has decided to bring a case regarding alleged improper payments to a Brazilian subsidiary to trial. (Newswires)</p><p>BROKER MOVES</p><p><strong>SMI</strong></p><p><strong>Credit Suisse (CSGN SW) –</strong> Co. is yet to make a decision on whether to approve the final bonus of former CEO Thiam. (SonntagsZeitung)</p><p>OTHER SWISS COMPANIES</p><p>BROKER MOVES</p><p><strong>NOVARTIS (NOVN SW</strong>) DOWNGRADED TO NEUTRAL FROM BUY AT CITI</p><p><strong>SCANDINAVIA</strong></p><p>BROKER MOVES</p><p><strong>US</strong></p><p>CLOSING LEVELS: SPX +0.16% at 3379, DJIA -0.09% at 29,398, NDX +0.29% at 9,624. SECTORS: Cons Disc -0.17%, Cons Stpl +0.28%, Energy -0.81%, Financials +0.08%, Health +0.13%, Industrials -0.06%, Materials +0.06%, Real Estate +1.11%, Technology +0.49%, Communication Svs +0.1%, Utilities +0.65%.</p><p><strong>Boeing (BA) – </strong>Have, reportedly, presented their preliminary recommendation to the FAA due to the 737 Max wiring concerns, according to sources. (Newswires)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "daily-european-equity-opening-news-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 33,
+            "name": "European Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 14:48:00",
+        "gmt_time": "2020-02-17 06:48:00"
+    },
+    {
+        "id": 909098,
+        "updated_sequence": 2112462,
+        "published_at": {
+            "unix": 1581920520,
+            "text": "2020-02-17 06:22:00 +0000",
+            "iso_8601": "2020-02-17T06:22:00Z"
+        },
+        "updated_at": {
+            "unix": 1581920559,
+            "text": "2020-02-17 06:22:39 +0000",
+            "iso_8601": "2020-02-17T06:22:39Z"
+        },
+        "subject": "Newsquawk Daily European Opening News - 17th February 2020",
+        "content": "<p>To download the report, please click <a href=\"/research_sheets/23879/download\">here</a> If you would like to subscribe to receive the research sheets directly in your inbox, you can now do so under the <a href=\"/research_sheets\">Research Suite</a> section of the portal. To subscribe simply check the box next to \"Email these reports\" under the desired category.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>APAC stocks traded mixed: China was buoyed by the PBoC, Nikkei 225 lagged on dismal domestic GDP</strong></p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Total Mainland coronavirus cases are now at 70548 and death toll at 1770, whilst 1425 were discharged from hospital on Sunday</strong></p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>China cuts its 1yr MLF by 10bps to 3.15%, 1ppts below the 1yr LPR which is to be announced on Thursday</strong></p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>The Trump Administration said it would increase tariffs on EU aircrafts to 15% from 10% beginning March 18th</strong></p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>OPEC+ is mulling cancelling plans for an emergency earlier meeting, keeping the March 5-6 dates instead, according to delegates</strong></p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>In FX, DXY trimmed some of Friday’s gains, EUR and GBP traded flat, AUD, CNH and CNY outperformed</strong></p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Looking ahead, highlights include ECB’s Lane</strong></p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Note: US President’s Day Holiday – Desk will open as usual for APAC coverage on Sunday 16th, but will close at 18:00GMT/12:00CST on Monday 17th before re-opening for APAC coverage at 22:00GMT/16:00CST</strong></p><p>CORONAVIRUS UPDATE</p><p><strong>China's Hubei province reported 1933 new coronavirus cases and 100 additional deaths as of February 16th</strong> vs. Prev. 2420 additional cases and 139 deaths on February 14th. Furthermore, China reported 105 new deaths in the mainland from coronavirus on Feb 16th vs. 142 on Feb 15th, with mainland cases rising by 2048 on Feb 16th vs. 2009 on Feb 15th. <strong>Total Mainland coronavirus cases are now at 70548 and death toll at 1770 vs. 1523 on February 14th. Global Times noted that 1425 were discharged from hospital on Sunday, bringing the total “cured and discharged” across China to 10844. (Newswires/Global Times)</strong></p><p>China will further implement measures this year to reduce corporate taxes and cut unnecessary government expenses to cushion the burden of the virus outbreak, according to Chinese Finance Minister Liu Kun. (Newswires)</p><p>Chinese Diplomat Wang Yi said the nCoV epidemic is overall under control; some countries overreacted to the outbreak. (Newswires) China Global Times tweeted \"Chinese experts said that there may be a surge on nCoV confirmed recently as more cities outside Wuhan in Hubei include clinically diagnosed cases and medical staff may face more pressure.\". (Twitter)</p><p>Chinese President Xi reportedly issued orders to contain the virus outbreak 13 days before the public was warned of its severity, contradicting reports which date the President’s earliest involvement almost two weeks later, according to the official Communist party magazine cited by FT. (FT)</p><p>NEC Director Kudlow said that the virus outbreak could impact US GDP by two-to-three tenths of a percent in Q1. (Newswires)</p><p>Japan reported 70 additional coronavirus cases on Diamond Princess cruise ship, taking the total to 355 - largest outside China. (Newswires)</p><p>Moody's cut China 2020 GDP growth forecast to 5.2% (Prev. 5.8%) and affirms 2021 forecast at 5.7%, citing coronavirus outbreak. (Newswires)</p><p>ASIA-PAC</p><p>Asia-Pac stocks traded mixed following Wall Street’s flat close on Friday whereby major bourses recovered following reports that the White House is considering tax incentives for people in the US to purchase stocks. ASX 200 (-0.1%) pulled back from near-record highs with the index’s heaviest weighted financial sector leading the losses. Nikkei 225 (-0.7%) underperformed the region but climbed off lows after opening with steep losses following a deeper-than-expected contraction in Japanese Q4 GDP, on a QQ and an annualised basis, with the breakdown also showing that manufacturing contracted by 5.9% on a quarterly basis. As such, a slew of the index’s manufacturing names plumbed the depths, whilst Nissan shares added pressure after its alliance partner Renault slashed their dividend on Friday. Hang Seng (+0.6%) and Shanghai Comp. (+1.6%) remained resilient with the former following suit from the latter extending on opening gains amid further support from Chinese authorities, including touted MLF operations, reductions to corporate taxed and cuts to unnecessary government expenses.</p><p>China is said to be mulling making some US agricultural purchases by late February early March to show its Phase One trade deal commitment to the US, although no final decision has been made, according to sources. (Newswires) China has decided to further allow imports of poultry from the US following a series of risk assessments. Chinese officials and analysts have maintained that China will fulfil its Phase One commitment once the epidemic is over and has so far refrained from invoking a force majeure clause in the agreement to consult with US officials. (Global Times) Chinese Diplomat Wang Yi said China is focused on implementing Phase One trade deal with the US; as Phase One is implemented, China will consider starting Phase Two. (Newswires)</p><p>The Trump Administration is reportedly considering a proposal to halt deliveries of jet engines for a new airliner being developed in China amid fears of reverse engineering, according to sources. (WSJ)</p><p>PBoC injected CNY 200bln via 1yr MLF at 3.15% vs. Prev. 3.25%, according to a statement (Newswires) <i>Note the 1yr MLF is now 1ppt below the January 1yr LPR, with the February setting due on Thursday.</i> PBoC injected CNY 100bln via 7-day reverse repo and drained a net CNY 900bln on the day. (Newswires) PBoC set USD/CNY midpoint at 6.9795 vs. Exp. 6.9796 (Prev. 6.9843)</p><p>Japanese GDP QQ (Q4) -1.6% vs. Exp. -0.9% (Prev. 0.4%, Rev. 0.1%) - Sharpest decline since Q2 2014; Manufacturing -5.9% QQ, Services +2.2% QQ Japanese GDP Deflator 1.3% vs. Exp. 1.1% (Prev. 0.6%) Japanese GDP QQ Private Consumptions Prelim (Q4) -2.9% vs. Exp. -2.0% (Prev. 0.5%) <i>N.B. Consumption was impacted by pullback in demand following sales tax hike, warm winter and typhoons, impact from sales tax hike was less than the prior 2014 tax hike.</i></p><p>BoJ Governor Kuroda said that monetary policy steps will need to be considered if the virus outbreak has a large impact on the Japanese economy, will consider additional easing steps without hesitation. Meanwhile, Japanese Economy Minister Nishimura said the government will swiftly implement emergency steps to counter coronavirus using funds from budget reserves and will take all necessary steps flexibly. (Newswires)</p><p>GOP Senator Rick Scott proposed a bill to restrict US sales to Huawei, cutting the minimum requirement of US made parts from 25% to 10% in its products. (The Hill)</p><p>UK/EU</p><p><strong>The Trump Administration said it would increase tariffs on EU aircrafts beginning March 18th on planes from France, Germany, Spain, and the UK, which will be subject to 15% tariffs vs. Prev. 10% that took effect in October. USTR noted that it remains open to a negotiated settlement. </strong>Prior duties will remain on certain other European products such as Scotch and French wine at 25%.<strong> (WSJ)</strong></p><p><strong>UK Chancellor Sunak is preparing to loosen the UK's fiscal rules in the budget under pressure from No. 10, according to FT.</strong> Officials note that an option for flexibility could be a “balanced budget” target on a rolling 5yr basis, and a target range of +/- 1% could be introduced. Officials also said that no new framework had been formally discussed with the Chancellor. (FT) <strong>UK Transport Secretary Shapps stated that the Government’s budget may be delayed following the resignation of former Chancellor Javid. (BBC)</strong><i><strong> </strong>Further delays could stop the Office for Budget Responsibility from publishing two forecasts in the financial year.</i></p><p><strong>UK Chief Brexit Negotiator Frost's speech today is expected to note the chances of a deal with the EU are being undermined by Brussels view that the UK should stick to EU rules.</strong> Frost will call on the EU to offer the UK a deal similar to those struck by Canada, Japan and South Korea. Meanwhile, reports note that the EU is yet to reach a full accord on their language of a mandate but are not showing any intentions of backing away from level playing field requirements. (FT) <strong>French Foreign Minister Le Drian has warned that the EU and the UK face bitter negotiations over their future relationship in the coming months as the two sides remain far apart on a range of issues</strong>. Le Drian said it will be tough for the UK to reach a free trade deal by year-end and Brussels will defend its interests when talks begin next month. (FT/BBC)</p><p>UK Government is in talks with the China Railway Construction Corporation which claimed that it can build the HS2 line in five years at a much lower cost. (Sky News)</p><p>Italian PM Conte has denied speculation that he was looking to put together a new coalition. (Newswires)</p><p>UK Rightmove House Prices (Feb) M/M 0.8% (Prev. 2.3%). (Newswires)</p><p>S&amp;P affirmed Sweden at AAA; outlook “Stable.” (Newswires) S&amp;P affirmed Hungary at BBB; outlook revised to “Positive” from “Stable.” (Newswires) Fitch affirmed Hungary at BBB; outlook “Stable.” (Newswires) <strong>FX</strong></p><p>In FX, <strong>DXY</strong> trimmed some of Friday’s gains but retained a 99.00+ status ahead of the US President’s Day Holiday. <strong>EUR/USD</strong> and <strong>GBP/USD</strong> remained relatively flat with the former below 1.0850 and the latter on either side of 1.3050, after the latter found some support around its 200 WMA at 1.3033, while some traders highlighted <strong>EUR</strong>/<strong>GBP</strong> options at strikes 0.8300-10 potentially acting as a magnet in the cross. Elsewhere, <strong>USD/JPY</strong> and <strong>JPY-crosses </strong>traded within a tight intraday band amid the cautious risk sentiment in the market, with former having found mild support at its 10 DMA ~109.70 – with further support seen around 109.50 which coincides with the 21 DMA and the Feb 7th low. <strong>JPY</strong> was little swayed by Japan reporting a deeper than forecast GDP contraction, which showed the largest QQ decline since Q2 2014, although the uptick in GDP deflator – used as an inflation indicator – could provide the BoJ with some solace. Elsewhere, <strong>Antipodeans</strong> remained choppy and initially moved in tandem with the risk sentiment, with <strong>AUD/USD</strong> receding in early trade after touching mild resistance at 0.6730, whilst levels to the downside include Thursday’s 0.6707 low and last week’s base at 0.6657. Meanwhile, <strong>NZD/USD</strong> was suppressed as a downbeat GDP assessment by NZ PM Arden took <strong>AUD/NZD</strong> above the psychological 1.0450. Finally, <strong>CNH</strong> and <strong>CNY</strong> encountered mild strength in which both pairs fell below 6.9800 vs. the Greenback amid the overall optimism in Chinese markets coupled with China’s moves to keep the Phase One trade deal with the US intact.</p><p>New Zealand PM Arden said 2020 GDP growth is expected to be between 2.0-2.5% with temporary impacts from the coronavirus outbreak. (Newswires)</p><p>COMMODITIES</p><p><strong>WTI</strong> and <strong>Brent</strong> futures were pressured in early APAC trade due to the ongoing narrative surrounding the coronavirus outbreak and with further downside bias added to the complex by reports that OPEC+ is mulling cancelling plans for an early meeting while keeping the original March 5/6th dates in place. Front-month futures saw accelerated selling following breaks below key psychological levels, although the moves were fleeting/short-lived as sentiment picked back up following China’s stimulus injections – prices head into the European session flat/modestly positive. Elsewhere, <strong>spot gold</strong> held onto a bulk of Friday’s gains with prices north of 1580/oz throughout the session, with the metal’s 21DMA seen around the 1570/oz area. Finally, <strong>copper</strong> prices rebounded with a vengeance amid the simulative measures from China, with prices briefly topping USD 2.63/lb during APAC trade (vs. low USD 2.60/lb).</p><p><strong>OPEC delegates suggested OPEC+ is mulling cancelling plans for an emergency earlier meeting, keeping the March 5-6 dates instead. (Newswires)</strong></p><p>Baker Hughes (14th Feb): Oil -2 at 678, NatGas -1 at 110, total at 790, unchanged. (Newswires)</p><p>GEOPOLITICS</p><p>&nbsp;</p><p>The Leader of one of the main Iranian-backed Shia militia groups, Harakat Hezbollah, has declared that a “countdown has begun” regarding attacks on US forces in Iraq. (Twitter)</p><p>&nbsp;</p><p>Rockets have dropped near the US Embassy in Iraq, according to officials – no injuries were reported. (Newswires)</p><p>Yemen Houthi Military spokesperson said they have downed a tornado warplane, belonging to \"enemy forces\" in Al-Jawf, Saudi Arabia. (Newswires)</p><p>&nbsp;</p><p>Iranian President Rouhani said that Iran will never yield to US pressure for talks. (Newswires)</p><p>&nbsp;</p><p>US&nbsp;</p><p><strong>US T-NOTE FUTURES (H20) SETTLED 7 TICKS HIGHER AT 130-31+: </strong>The TPLEX bull flattened on Friday as participants took a more risk-averse stance ahead of the weekend. The bid gained traction from early European trade, with the 10-year yield finding its lows at 1.573%, remaining nearby till settlement. After a few sessions of T-Note selling, the bid is likely partly due to some position squaring, mediocre data, as well as traders looking to cut their risk exposure over the weekend, where the known unknown is whether the nCoV will escalate further, pressing more fears of pandemic rather than the current epidemic. Additionally, following the duration-heavy supply from the Treasury in the past few sessions, the selling pressure (exacerbated by dealer hedging) will have subsided. By settlement, the whole curve was flatter, seeing the 2s10s narrow by 1.5bps, leaving the 10-year yield at 1.59%. One desk highlights that the 10-year yield has now settled higher for the third straight weekly close, nodding to an easing of concerns.</p><p><strong>White House is reportedly considering incentives to encourage stock buying, according to CNBC citing sources. (CNBC)</strong></p><p><strong>Fed’s Mester (Voter, Hawk)</strong> said monetary policy is in a good place, reiterated Fed's guidance that unless there is a material change to the outlook, policy will remain the same. Mester also added that she is not a fan of negative rates. Mester said she does not believe the expansion is tiring and is positive on the US consumer, seen signs of manufacturing stabilising. On the domestic economy, she noted that inflation is low but believes it will hit the 2% target at year-end of early next year. She said coronavirus is a risk for growth but has not marked down her 2020 forecast because of the coronavirus. Mester reiterated that the overnight operations and treasury bill purchases are not QE. (Newswires)</p><p><strong>Fed's Kashkari (Voter, Dove)</strong> said there is still slack in the labour market. (Newswires)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "newsquawk-daily-european-opening-news-17th-february-2020-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 14:22:00",
+        "gmt_time": "2020-02-17 06:22:00"
+    },
+    {
+        "id": 909097,
+        "updated_sequence": 2112459,
+        "published_at": {
+            "unix": 1581920220,
+            "text": "2020-02-17 06:17:00 +0000",
+            "iso_8601": "2020-02-17T06:17:00Z"
+        },
+        "updated_at": {
+            "unix": 1581920298,
+            "text": "2020-02-17 06:18:18 +0000",
+            "iso_8601": "2020-02-17T06:18:18Z"
+        },
+        "subject": "ASIA-PAC MARKET WRAP: China outpaces as PBoC offers further stimulus, Nikkei lags on dismal domestic data",
+        "content": "<p>Asia-Pac stocks traded mixed following Wall Street’s flat close on Friday whereby major bourses recovered following reports that the White House is considering tax incentives for people in the US to purchase stocks. ASX 200 (-0.1%) pulled back from near-record highs with the index’s heaviest weighted financial sector leading the losses. Nikkei 225 (-0.7%) underperformed the region but climbed off lows after opening with steep losses following a deeper-than-expected contraction in Japanese Q4 GDP, on a QQ and an annualised basis, with the breakdown also showing that manufacturing contracted by 5.9% on a quarterly basis. As such, a slew of the index’s manufacturing names plumbed the depths, whilst Nissan shares added pressure after its alliance partner Renault slashed their dividend on Friday. Elsewhere, Hang Seng (+0.6%) and Shanghai Comp. (+1.6%) remained resilient with the former following suit from the latter extending on opening gains amid further support from Chinese authorities to counter coronavirus effects, including touted MLF operations, reductions to corporate taxed and cuts to unnecessary government expenses.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "asia-pac-market-wrap-china-outpaces-as-pboc-offers-further-stimulus-nikkei-lags-on-dismal-domestic-data-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 14:17:00",
+        "gmt_time": "2020-02-17 06:17:00"
+    },
+    {
+        "id": 909096,
+        "updated_sequence": 2112456,
+        "published_at": {
+            "unix": 1581915540,
+            "text": "2020-02-17 04:59:00 +0000",
+            "iso_8601": "2020-02-17T04:59:00Z"
+        },
+        "updated_at": {
+            "unix": 1581915726,
+            "text": "2020-02-17 05:02:06 +0000",
+            "iso_8601": "2020-02-17T05:02:06Z"
+        },
+        "subject": "BoJ Governor Kuroda says that monetary policy steps will need to be considered if the virus outbreak has a large impact on the Japanese economy, will consider additional easing steps without hesitation",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>Earlier, Japanese Q4 GDP QQ fell by the most since Q2 2014, albeit more-so on the back of the sales tax hike and effects from the typhoon</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1581915660,
+            "text": "2020-02-17 05:01:00 +0000",
+            "iso_8601": "2020-02-17T05:01:00Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "boj-governor-kuroda-says-that-monetary-policy-steps-will-need-to-be-considered-if-the-virus-outbreak-has-a-large-impact-on-the-japanese-economy-will-consider-additional-easing-steps-without-hesitation-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 14,
+            "name": "BoJ"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 12:59:00",
+        "gmt_time": "2020-02-17 04:59:00"
+    },
+    {
+        "id": 909090,
+        "updated_sequence": 2112436,
+        "published_at": {
+            "unix": 1581911580,
+            "text": "2020-02-17 03:53:00 +0000",
+            "iso_8601": "2020-02-17T03:53:00Z"
+        },
+        "updated_at": {
+            "unix": 1581911639,
+            "text": "2020-02-17 03:53:59 +0000",
+            "iso_8601": "2020-02-17T03:53:59Z"
+        },
+        "subject": "Nintendo (7974 JT) - Co. is likely to suffer from global Ninetendo Switch shortages amid the coronavirus outbreak",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "nintendo-7974-jt-co-is-likely-to-suffer-from-global-ninetendo-switch-shortages-amid-the-coronavirus-outbreak-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 11:53:00",
+        "gmt_time": "2020-02-17 03:53:00"
+    },
+    {
+        "id": 909089,
+        "updated_sequence": 2112433,
+        "published_at": {
+            "unix": 1581909420,
+            "text": "2020-02-17 03:17:00 +0000",
+            "iso_8601": "2020-02-17T03:17:00Z"
+        },
+        "updated_at": {
+            "unix": 1581909478,
+            "text": "2020-02-17 03:17:58 +0000",
+            "iso_8601": "2020-02-17T03:17:58Z"
+        },
+        "subject": "PRE-MARKET INDIA STOCK NEWS:Tata Steel (TATA IS) – Co. is expecting its capex to touch INR 20bln, sources said. (ET)",
+        "content": "<p>Steel Authority India (SAIL IS) – Q3 net loss INR 4.3bln vs. Prev. profit INR 6.2bln, revenue INR 165.4bln vs. Prev. INR 158.4bln. (Newswires)</p><p>Reliance Power (RPWR IS) – Q3 net INR 493.9mln vs. Prev. INR 1.16bln, revenue INR 16.7bln vs. Prev. INR 20.5bln. (Newswires)</p><p>Glenmark Pharma (GNP IS) – Q3 net INR 1.9bln vs. Exp. INR 2.0bln, revenue INR 27.4bln vs. Prev. INR 25.6bln. (Newswires)</p><p>ONGC India Oil and Natural Gas (ONGC IS) – Q3 net INR 41.5bln vs. Exp. INR 54.3bln, revenue INR 237.1bln vs. Exp. INR 241.4bln. (Newswires)</p><p>Vodafone Idea (IDEA IS) – Co. is said to be assessing AGRs dues and will pay this within the next few days. (ET)</p><p>Tata Steel (TATA IS) – Co. is expecting its capex to touch INR 20bln, sources said. (ET)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "pre-market-india-stock-news-tata-steel-tata-is-co-is-expecting-its-capex-to-touch-inr-20bln-sources-said-et-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 11:17:00",
+        "gmt_time": "2020-02-17 03:17:00"
+    },
+    {
+        "id": 909088,
+        "updated_sequence": 2112430,
+        "published_at": {
+            "unix": 1581909000,
+            "text": "2020-02-17 03:10:00 +0000",
+            "iso_8601": "2020-02-17T03:10:00Z"
+        },
+        "updated_at": {
+            "unix": 1581909095,
+            "text": "2020-02-17 03:11:35 +0000",
+            "iso_8601": "2020-02-17T03:11:35Z"
+        },
+        "subject": "New Zealand PM Arden says 2020 GDP growth is expected to be between 2.0-2.5% with temporary impacts from the coronavirus outbreak",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>The comments surrounding the virus outbreak are largely in-line with the RBNZ's assessment&nbsp;</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1581909095,
+            "text": "2020-02-17 03:11:35 +0000",
+            "iso_8601": "2020-02-17T03:11:35Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "new-zealand-pm-arden-says-2020-gdp-growth-is-expected-to-be-between-2-0-2-5-with-temporary-impacts-from-the-coronavirus-outbreak-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 11:10:00",
+        "gmt_time": "2020-02-17 03:10:00"
+    },
+    {
+        "id": 909087,
+        "updated_sequence": 2112427,
+        "published_at": {
+            "unix": 1581908160,
+            "text": "2020-02-17 02:56:00 +0000",
+            "iso_8601": "2020-02-17T02:56:00Z"
+        },
+        "updated_at": {
+            "unix": 1581908228,
+            "text": "2020-02-17 02:57:08 +0000",
+            "iso_8601": "2020-02-17T02:57:08Z"
+        },
+        "subject": "China has approved imports of all poultry and poultry products from the US, according to the Agriculture Ministry",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>This follows reports that China has decided to further allow imports of poultry from the US following a series of risk assessments. Chinese officials and analysts have maintained that China fulfil its Phase One commitment once the epidemic is over and has so far refrained from invoking a force majeure clause in the agreement to consult with US officials. (Global Times)&nbsp;</li><li>Chinese Diplomat Wang Yi said China is focused on implementing Phase One trade deal with the US; as Phase One is implemented, China will consider starting Phase Two. (Newswires)</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1581908228,
+            "text": "2020-02-17 02:57:08 +0000",
+            "iso_8601": "2020-02-17T02:57:08Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "china-has-approved-imports-of-all-poultry-and-poultry-products-from-the-us-according-to-the-agriculture-ministry-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 10:56:00",
+        "gmt_time": "2020-02-17 02:56:00"
+    },
+    {
+        "id": 909085,
+        "updated_sequence": 2112421,
+        "published_at": {
+            "unix": 1581907140,
+            "text": "2020-02-17 02:39:00 +0000",
+            "iso_8601": "2020-02-17T02:39:00Z"
+        },
+        "updated_at": {
+            "unix": 1581907304,
+            "text": "2020-02-17 02:41:44 +0000",
+            "iso_8601": "2020-02-17T02:41:44Z"
+        },
+        "subject": "NEWSQUAWK US PRESIDENT'S DAY HOLIDAY DESK SCHEDULE",
+        "content": "<p><strong>*Newsquawk will open for EU coverage as usual at 0630GMT/0030CST on Monday 17th February. The desk will shut at 1800GMT/1200CST and re-open the same day for the beginning of Asia-Pac coverage at 2200GMT/1600CST**</strong></p><p>Market Closures</p><p>CME Electronic Equity, Interest Rate, Energy &amp; Metals – Trading Halt between 1200CST/1800GMT and 1700CST/2300GMT</p><p>CME Chicago Pit Trade – Closed</p><p>NYSE – Closed</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "newsquawk-us-president-s-day-holiday-desk-schedule-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 10:39:00",
+        "gmt_time": "2020-02-17 02:39:00"
+    },
+    {
+        "id": 909086,
+        "updated_sequence": 2112424,
+        "published_at": {
+            "unix": 1581906960,
+            "text": "2020-02-17 02:36:00 +0000",
+            "iso_8601": "2020-02-17T02:36:00Z"
+        },
+        "updated_at": {
+            "unix": 1581907725,
+            "text": "2020-02-17 02:48:45 +0000",
+            "iso_8601": "2020-02-17T02:48:45Z"
+        },
+        "subject": "Thailand 2020 GDP growth forecast cut to 1.5-2.5% vs. Prev. 2.7-3.7%, according to the planning agency",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "thailand-2020-gdp-growth-forecast-cut-to-1-5-2-5-vs-prev-2-7-3-7-according-to-the-planning-agency-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 10:36:00",
+        "gmt_time": "2020-02-17 02:36:00"
+    },
+    {
+        "id": 909083,
+        "updated_sequence": 2112418,
+        "published_at": {
+            "unix": 1581904620,
+            "text": "2020-02-17 01:57:00 +0000",
+            "iso_8601": "2020-02-17T01:57:00Z"
+        },
+        "updated_at": {
+            "unix": 1581906129,
+            "text": "2020-02-17 02:22:09 +0000",
+            "iso_8601": "2020-02-17T02:22:09Z"
+        },
+        "subject": "ASIA-PAC MID-SESSION UPDATE: Chinese markets supported by PBoC but Nikkei dented on deeper domestic contraction",
+        "content": "<p>Asia-Pac stocks trade mixed following Wall Street’s flat close on Friday whereby major bourses recovered following reports that the White House is considering tax incentives for people in the US to purchase stocks.&nbsp;ASX 200 (-0.1%) pulls back from near-record highs with the index’s heaviest weighted financial sector leading the losses. Nikkei 225 (-0.9%) underperforms the region but trades off lows after opening with steep losses following a deeper-than-expected contraction in Q4 GDP, on a QQ and an annualised basis, with the breakdown also showing that manufacturing contracted by 5.9% on a quarterly basis. As such, a slew of the index’s manufacturing names plumbed the depths, whilst Nissan shares added pressure after its alliance partner Renault slashed their dividend on Friday. Elsewhere, Hang Seng (+0.7%) and Shanghai Comp. (+1.0%) remain resilient with the former following suit from the latter extending on opening gains amid further support from Chinese authorities to counter coronavirus effects, including touted MLF operations, reductions to corporate taxed and cuts to unnecessary government expenses.</p><p>In FX, DXY trims some of Friday’s gains but retain a 99.00+ status ahead of the US President’s Day Holiday. EUR/USD and GBP/USD remain relatively flat with the former below 1.0850 and the latter trading on either side of 1.3050, after the latter found some support around its 200 WMA at 1.3033, whilst others highlight EUR/GBP options at strikes 0.8300-10 potentially acting as a magnet in the cross. Elsewhere, USD/JPY and JPY crosses trade within a tight intraday band amid the cautious risk sentiment in the market, with former having found mild support at its 10 DMA ~109.70 – with further support seen around 109.50 which coincides with the 21 DMA and the Feb 7th low. JPY was little swayed by Japan reporting a deeper than forecast GDP contraction which showed the largest QQ decline since Q2 2014, although the uptick in GDP deflator – used as an inflation indicator – could provide the BoJ with some solace. Elsewhere, Antipodeans remain choppy and move largely in tandem to the risk sentiment, with AUD/USD receding after touching mild resistance at 0.6730, whilst levels to the downside include Thursday’s 0.6707 low and last week’s base at 0.6657.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "asia-pac-mid-session-update-chinese-markets-supported-by-pboc-but-nikkei-dented-on-deeper-domestic-contraction-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 09:57:00",
+        "gmt_time": "2020-02-17 01:57:00"
+    },
+    {
+        "id": 909082,
+        "updated_sequence": 2112401,
+        "published_at": {
+            "unix": 1581903960,
+            "text": "2020-02-17 01:46:00 +0000",
+            "iso_8601": "2020-02-17T01:46:00Z"
+        },
+        "updated_at": {
+            "unix": 1581904663,
+            "text": "2020-02-17 01:57:43 +0000",
+            "iso_8601": "2020-02-17T01:57:43Z"
+        },
+        "subject": "PBoC injects CNY 200bln via 1yr MLF at 3.15% vs. Prev. 3.25%, according to a statement",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>This is 1ppt below the January 1yr LRP, with the February setting due on February 20th</li><li>The MLF operations confirm earlier reports</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1581904200,
+            "text": "2020-02-17 01:50:00 +0000",
+            "iso_8601": "2020-02-17T01:50:00Z"
+        },
+        "push_notify": true,
+        "source": "Newswires",
+        "slug": "pboc-injects-cny-200bln-via-1yr-mlf-at-3-15-vs-prev-3-25-according-to-a-statement-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 09:46:00",
+        "gmt_time": "2020-02-17 01:46:00"
+    },
+    {
+        "id": 909081,
+        "updated_sequence": 2112410,
+        "published_at": {
+            "unix": 1581903780,
+            "text": "2020-02-17 01:43:00 +0000",
+            "iso_8601": "2020-02-17T01:43:00Z"
+        },
+        "updated_at": {
+            "unix": 1581905896,
+            "text": "2020-02-17 02:18:16 +0000",
+            "iso_8601": "2020-02-17T02:18:16Z"
+        },
+        "subject": "Moody's cuts China 2020 GDP growth forecast to 5.2% (Prev. 5.8%) and affirms 2021 forecast at 5.7%, citing coronavirus outbreak",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>On Feb 7th, Fitch said it estimates China's 2020 GDP growth to decline from a baseline of 5.9% to a range of 5.2-5.7%, contigent on the speed in which the coronavirus is contained</li><li>S&amp;P expects China GDP rebound to begin in Q3 and all lost output to be recovered by end-2021, sees coronavirus to trim global economic growth by 0.3 ppts this year</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1581905760,
+            "text": "2020-02-17 02:16:00 +0000",
+            "iso_8601": "2020-02-17T02:16:00Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "moody-s-cuts-china-2020-gdp-growth-forecast-to-5-2-prev-5-8-and-affirms-2021-forecast-at-5-7-citing-coronavirus-outbreak-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 09:43:00",
+        "gmt_time": "2020-02-17 01:43:00"
+    },
+    {
+        "id": 909079,
+        "updated_sequence": 2112379,
+        "published_at": {
+            "unix": 1581902220,
+            "text": "2020-02-17 01:17:00 +0000",
+            "iso_8601": "2020-02-17T01:17:00Z"
+        },
+        "updated_at": {
+            "unix": 1581902316,
+            "text": "2020-02-17 01:18:36 +0000",
+            "iso_8601": "2020-02-17T01:18:36Z"
+        },
+        "subject": "PBoC injects CNY 100bln via 7-day reverse repo; drains a net CNY 900bln on the day",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pboc-injects-cny-100bln-via-7-day-reverse-repo-drains-a-net-cny-900bln-on-the-day-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 15,
+            "name": "PBoC"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 09:17:00",
+        "gmt_time": "2020-02-17 01:17:00"
+    },
+    {
+        "id": 909078,
+        "updated_sequence": 2112376,
+        "published_at": {
+            "unix": 1581902100,
+            "text": "2020-02-17 01:15:00 +0000",
+            "iso_8601": "2020-02-17T01:15:00Z"
+        },
+        "updated_at": {
+            "unix": 1581902194,
+            "text": "2020-02-17 01:16:34 +0000",
+            "iso_8601": "2020-02-17T01:16:34Z"
+        },
+        "subject": "PBoC sets USD/CNY midpoint at 6.9795 vs. Exp. 6.9796 (Prev. 6.9843)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pboc-sets-usd-cny-midpoint-at-6-9795-vs-exp-6-9796-prev-6-9843-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 15,
+            "name": "PBoC"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 09:15:00",
+        "gmt_time": "2020-02-17 01:15:00"
+    },
+    {
+        "id": 909077,
+        "updated_sequence": 2112373,
+        "published_at": {
+            "unix": 1581901620,
+            "text": "2020-02-17 01:07:00 +0000",
+            "iso_8601": "2020-02-17T01:07:00Z"
+        },
+        "updated_at": {
+            "unix": 1581901805,
+            "text": "2020-02-17 01:10:05 +0000",
+            "iso_8601": "2020-02-17T01:10:05Z"
+        },
+        "subject": "PBoC is said to conduct MLF operations today, according to reports",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>This would come amid a raft of supportive measures by the PBoC to cushion losses in financial markets</li><li>There were speculations that MLF operations &nbsp;will be conducted this week</li><li>Note: PBoC will be announcing their latest LPR on 20th Feb with expectations for a cut</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1581901680,
+            "text": "2020-02-17 01:08:00 +0000",
+            "iso_8601": "2020-02-17T01:08:00Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pboc-is-said-to-conduct-mlf-operations-today-according-to-reports-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 15,
+            "name": "PBoC"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 09:07:00",
+        "gmt_time": "2020-02-17 01:07:00"
+    },
+    {
+        "id": 909076,
+        "updated_sequence": 2112363,
+        "published_at": {
+            "unix": 1581900840,
+            "text": "2020-02-17 00:54:00 +0000",
+            "iso_8601": "2020-02-17T00:54:00Z"
+        },
+        "updated_at": {
+            "unix": 1581901001,
+            "text": "2020-02-17 00:56:41 +0000",
+            "iso_8601": "2020-02-17T00:56:41Z"
+        },
+        "subject": "PRE-MARKET CHINESE STOCK NEWS: China will further implement measures this year to reduce corporate taxes and cut some government expenses to cushion the burden of the virus outbreak, according to Chinese Finance Minister Liu Kun. (Newswires)",
+        "content": "<p><strong>CHINA</strong></p><p>Huawei (HUAWEI CH) – US Pentagon has reportedly dropped opposition to possible rule making it more difficult for US chipmakers to send shipments to Huawei from oversea facilities. (Newswires)</p><p>Alibaba (9988 HK) – Co. warns that the virus outbreak is having a broad impact on Chinese economy. (Newswires)</p><p>Hengdeli Holdings (3389 HK) – Co. guides FY net loss at no less that CNY 330bln vs. Prev. CNY +68.7mln YY. (Newswires)</p><p>Anta Sports Products (2020 HK) – Co. says H1 will be somewhat affected by the virus outbreak but expects to return to normal in H2. (Newswires)</p><p>Shenzhen MTC (002429 CH) – Prelim FY19 net +157.2% YY to CNY 1.1bln. (Newswires)</p><p>OTHER NEWS</p><p>- China's Hubei province reported 1933 new coronavirus cases and 100 additional deaths as of February 16th vs. Prev. 2420 additional cases and 139 deaths on February 14th. Furthermore, total Mainland coronavirus cases are now at 70548 and death toll at 1770 vs. 1523 on February 14th. (Newswires)</p><p>- China Global Times tweeted \"Chinese experts said that there may be a surge on nCoV confirmed recently as more cities outside Wuhan in Hubei include clinically diagnosed cases and medical staff may face more pressure.\". (Twitter)</p><p>- US President Trump on the coronavirus reiterated that \"China is very capable and that they will get to it\". (CNBC)</p><p>- Chinese Diplomat Wang Yi said the nCoV epidemic is overall under control; some countries overreacted to the outbreak. (Newswires)</p><p>- WHO's Tedros said he anticipates that a full team of WHO-led experts will arrive in China this weekend to help probe the coronavirus. (Newswires)</p><p>- China has decided to further allow imports of poultry from the US following a series of risk assessments. Chinese officials and analysts have maintained that fulfil its Phase One commitment once the epidemic is over and has so far refrained from invoking a force majeure clause in the agreement to consult with US officials. (Global Times)</p><p>- Chinese Diplomat Wang Yi said China is focused on implementing Phase One trade deal with the US; as Phase One is implemented, China will consider starting Phase Two. (Newswires)</p><p>- China will further implement measures this year to reduce corporate taxes and cut some government expenses to cushion the burden of the virus outbreak, according to Chinese Finance Minister Liu Kun. (Newswires)</p><p>- PBoC said that Chinese banks will tolerate higher levels of problem loans to support those during the virus outbreak. (Newswires)</p><p>- China's Premier Li said that they are striving to achieve both economic and social development targets for 2020, State TV. (Newswires)</p><p>- GOP Senator Rick Scott proposed a bill to restrict US sales to Huawei, cutting the minimum requirement of US made parts from 25% to 10% in its products. (The Hill)</p><p>- China's auto sales are likely to fall in excess in H120 due to the coronavirus, could be as low as 5% for the period should the virus be under control prior to April, according to the Industry Association. (Newswires)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "pre-market-chinese-stock-news-china-will-further-implement-measures-this-year-to-reduce-corporate-taxes-and-cut-some-government-expenses-to-cushion-the-burden-of-the-virus-outbreak-according-to-chinese-finance-minister-liu-kun-newswires-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 08:54:00",
+        "gmt_time": "2020-02-17 00:54:00"
+    },
+    {
+        "id": 909075,
+        "updated_sequence": 2112358,
+        "published_at": {
+            "unix": 1581900600,
+            "text": "2020-02-17 00:50:00 +0000",
+            "iso_8601": "2020-02-17T00:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1581900803,
+            "text": "2020-02-17 00:53:23 +0000",
+            "iso_8601": "2020-02-17T00:53:23Z"
+        },
+        "subject": "China reports 105 new deaths in the mainland from coronavirus on Feb 16th vs. 142 on Feb 15th, with mainland cases rising by 2048 on Feb 16th vs. 2009 on Feb 15th - Total cases in Mainland China at 70548, death toll at 1770",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "china-reports-105-new-deaths-in-the-mainland-from-coronavirus-on-feb-16th-vs-142-on-feb-15th-with-mainland-cases-rising-by-2048-on-feb-16th-vs-2009-on-feb-15th-total-cases-in-mainland-china-at-70548-death-toll-at-1770-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 08:50:00",
+        "gmt_time": "2020-02-17 00:50:00"
+    },
+    {
+        "id": 909074,
+        "updated_sequence": 2112348,
+        "published_at": {
+            "unix": 1581899340,
+            "text": "2020-02-17 00:29:00 +0000",
+            "iso_8601": "2020-02-17T00:29:00Z"
+        },
+        "updated_at": {
+            "unix": 1581899515,
+            "text": "2020-02-17 00:31:55 +0000",
+            "iso_8601": "2020-02-17T00:31:55Z"
+        },
+        "subject": "PRE-MARKET TAIWAN AND SINGAPORE STOCK NEWS: Singapore downgrades GDP growth forecast to range of -0.5 to 1.5% amid the outbreak of coronavirus",
+        "content": "<p><strong>TAIWAN</strong></p><p>China Steel Corp (2002 TT) – Co. reported a third consecutive month of losses whilst revenues hit the lowest in over three years. Co. incurred pre-tax losses of TWD 1.26bln. (Taipei Times)</p><p>Other News</p><p>- Central Epidemic Command Center has announced two new cases of coronavirus cases in Taiwan, one of whom died over the weekend. (Taipei Times)</p><p><strong>SINGAPORE</strong></p><p>Other News</p><p>- Singapore downgrades GDP growth forecast to range of -0.5 to 1.5% amid the outbreak of coronavirus. (Newswires)</p><p>- Singapore Central Bank says monetary policy and inflation forecasts remain unchanged. (Newswires)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "pre-market-taiwan-and-singapore-stock-news-singapore-downgrades-gdp-growth-forecast-to-range-of-0-5-to-1-5-amid-the-outbreak-of-coronavirus-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 08:29:00",
+        "gmt_time": "2020-02-17 00:29:00"
+    },
+    {
+        "id": 909073,
+        "updated_sequence": 2112381,
+        "published_at": {
+            "unix": 1581899100,
+            "text": "2020-02-17 00:25:00 +0000",
+            "iso_8601": "2020-02-17T00:25:00Z"
+        },
+        "updated_at": {
+            "unix": 1581902826,
+            "text": "2020-02-17 01:27:06 +0000",
+            "iso_8601": "2020-02-17T01:27:06Z"
+        },
+        "subject": "Japanese Economy Minister Nishimura says the government will swiftly implement emergency steps to counter coronavirus using funds from budget reserves and will take all steps necessary flexibly",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>These comments come amid the deeper than forecast contraction in Japanese Q4 GDP</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1581899280,
+            "text": "2020-02-17 00:28:00 +0000",
+            "iso_8601": "2020-02-17T00:28:00Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-economy-minister-nishimura-says-the-government-will-swiftly-implement-emergency-steps-to-counter-coronavirus-using-funds-from-budget-reserves-and-will-take-all-steps-necessary-flexibly-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 08:25:00",
+        "gmt_time": "2020-02-17 00:25:00"
+    },
+    {
+        "id": 909072,
+        "updated_sequence": 2112340,
+        "published_at": {
+            "unix": 1581898860,
+            "text": "2020-02-17 00:21:00 +0000",
+            "iso_8601": "2020-02-17T00:21:00Z"
+        },
+        "updated_at": {
+            "unix": 1581899126,
+            "text": "2020-02-17 00:25:26 +0000",
+            "iso_8601": "2020-02-17T00:25:26Z"
+        },
+        "subject": "PBoC expected to set the USD/CNY midpoint at 6.9796 ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>Friday's setting stood at 6.9843</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1581899125,
+            "text": "2020-02-17 00:25:25 +0000",
+            "iso_8601": "2020-02-17T00:25:25Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pboc-expected-to-set-the-usd-cny-midpoint-at-6-9796-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 15,
+            "name": "PBoC"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 08:21:00",
+        "gmt_time": "2020-02-17 00:21:00"
+    },
+    {
+        "id": 909067,
+        "updated_sequence": 2112321,
+        "published_at": {
+            "unix": 1581898320,
+            "text": "2020-02-17 00:12:00 +0000",
+            "iso_8601": "2020-02-17T00:12:00Z"
+        },
+        "updated_at": {
+            "unix": 1581898621,
+            "text": "2020-02-17 00:17:01 +0000",
+            "iso_8601": "2020-02-17T00:17:01Z"
+        },
+        "subject": "Singapore downgrades GDP growth forecast to range of -0.5% to 1.5% amid the outbreak of coronavirus; Singapore Central Bank says monetary policy and inflation forecasts remain unchanged",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "singapore-downgrades-gdp-growth-forecast-to-range-of-0-5-to-1-5-amid-the-outbreak-of-coronavirus-singapore-central-bank-says-monetary-policy-and-inflation-forecasts-remain-unchanged-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 08:12:00",
+        "gmt_time": "2020-02-17 00:12:00"
+    },
+    {
+        "id": 909065,
+        "updated_sequence": 2112309,
+        "published_at": {
+            "unix": 1581897660,
+            "text": "2020-02-17 00:01:00 +0000",
+            "iso_8601": "2020-02-17T00:01:00Z"
+        },
+        "updated_at": {
+            "unix": 1581897774,
+            "text": "2020-02-17 00:02:54 +0000",
+            "iso_8601": "2020-02-17T00:02:54Z"
+        },
+        "subject": "Asia-Pac stocks open mostly lower with Nikkei 225 underperforming following a deeper GDP contraction than expected; Nikkei 225 -1.0%, KOSPI -0.1% and ASX200 -0.3%",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "asia-pac-stocks-open-mostly-lower-with-nikkei-225-underperforming-following-a-deeper-gdp-contraction-than-expected-nikkei-225-1-0-kospi-0-1-and-asx200-0-3-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 08:01:00",
+        "gmt_time": "2020-02-17 00:01:00"
+    },
+    {
+        "id": 909066,
+        "updated_sequence": 2112316,
+        "published_at": {
+            "unix": 1581897660,
+            "text": "2020-02-17 00:01:00 +0000",
+            "iso_8601": "2020-02-17T00:01:00Z"
+        },
+        "updated_at": {
+            "unix": 1581898100,
+            "text": "2020-02-17 00:08:20 +0000",
+            "iso_8601": "2020-02-17T00:08:20Z"
+        },
+        "subject": "UK Rightmove House Prices (Feb) M/M 0.8% (Prev. 2.3%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "uk-rightmove-house-prices-feb-m-m-0-8-prev-2-3-17-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 29,
+            "name": "UK Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 08:01:00",
+        "gmt_time": "2020-02-17 00:01:00"
+    }
+]

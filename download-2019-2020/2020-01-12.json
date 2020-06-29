@@ -1,0 +1,426 @@
+[
+    {
+        "id": 903523,
+        "updated_sequence": 2068786,
+        "published_at": {
+            "unix": 1578873300,
+            "text": "2020-01-12 23:55:00 +0000",
+            "iso_8601": "2020-01-12T23:55:00Z"
+        },
+        "updated_at": {
+            "unix": 1578873367,
+            "text": "2020-01-12 23:56:07 +0000",
+            "iso_8601": "2020-01-12T23:56:07Z"
+        },
+        "subject": "South Korea January 1st-10th Exports rose 5.3% Y/Y and Imports rose 5.7% Y/Y",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "south-korea-january-1st-10th-exports-rose-5-3-y-y-and-imports-rose-5-7-y-y-12-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-13 07:55:00",
+        "gmt_time": "2020-01-12 23:55:00"
+    },
+    {
+        "id": 903522,
+        "updated_sequence": 2068783,
+        "published_at": {
+            "unix": 1578872820,
+            "text": "2020-01-12 23:47:00 +0000",
+            "iso_8601": "2020-01-12T23:47:00Z"
+        },
+        "updated_at": {
+            "unix": 1578873024,
+            "text": "2020-01-12 23:50:24 +0000",
+            "iso_8601": "2020-01-12T23:50:24Z"
+        },
+        "subject": "US President Trump tweets \"National Security Adviser suggested today that sanctions & protests have Iran “choked off”, will force them to negotiate. Actually, I couldn’t care less if they negotiate....\"",
+        "content": "<p>Says:&nbsp;</p><p>....Will be totally up to them but, no nuclear weapons and “don’t kill your protesters.”</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Twitter",
+        "slug": "us-president-trump-tweets-national-security-adviser-suggested-today-that-sanctions-protests-have-iran-choked-off-will-force-them-to-negotiate-actually-i-couldn-t-care-less-if-they-negotiate-12-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 23,
+            "name": "Geopolitical"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-13 07:47:00",
+        "gmt_time": "2020-01-12 23:47:00"
+    },
+    {
+        "id": 903521,
+        "updated_sequence": 2068778,
+        "published_at": {
+            "unix": 1578872460,
+            "text": "2020-01-12 23:41:00 +0000",
+            "iso_8601": "2020-01-12T23:41:00Z"
+        },
+        "updated_at": {
+            "unix": 1578872615,
+            "text": "2020-01-12 23:43:35 +0000",
+            "iso_8601": "2020-01-12T23:43:35Z"
+        },
+        "subject": "PRE-MARKET SOUTH KOREAN STOCK NEWS: Hyundai Heavy (009540 KS) - Daewoo Shipbuilding (042660 KS) deal EU review deadline has been extended to June 9th; Japan is closed for Coming of Age Day",
+        "content": "<p>JAPAN (Closed)</p><p>Lawson (2651 JT) - Co. 9-month net JPY 26.0bln vs. Prev. JPY 25.3bln Y/Y. (Newswires)</p><p>Nissan (7201 JT) - Co. executives are reportedly stepping up their contingency plans for a potential split from Renault (RNO FP). (FT) SoftBank (9984 JT) – Co.’s pressured Vision Fund Chief Misra will not be stepping down form the fund and is increasingly confident Saudi and Abu Dhabi pension funds will commit to the 2nd Vison Fund soon. In other news, Co.-backed Oyo cut 1800 jobs in India. (Fox/Nikkei)</p><p>&nbsp;</p><p>SOUTH KOREA</p><p>Hyundai Heavy (009540 KS) - EU review deadline regarding Co. merger deal with Daewoo Shipbuilding (042660 KS) has been extended to June 9th. (Newswires)</p><p>Other News - White House National Security Adviser O'Brien said the Trump administration has reached out to North Korea to ask them to resume diplomacy, while there were separate reports over the weekend from North Korea state media that the country will not trade its nuclear weapons for lifting sanctions. (Axios/KCNA)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-south-korean-stock-news-hyundai-heavy-009540-ks-daewoo-shipbuilding-042660-ks-deal-eu-review-deadline-has-been-extended-to-june-9th-japan-is-closed-for-coming-of-age-day-12-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-13 07:41:00",
+        "gmt_time": "2020-01-12 23:41:00"
+    },
+    {
+        "id": 903520,
+        "updated_sequence": 2068775,
+        "published_at": {
+            "unix": 1578871140,
+            "text": "2020-01-12 23:19:00 +0000",
+            "iso_8601": "2020-01-12T23:19:00Z"
+        },
+        "updated_at": {
+            "unix": 1578871349,
+            "text": "2020-01-12 23:22:29 +0000",
+            "iso_8601": "2020-01-12T23:22:29Z"
+        },
+        "subject": "Libya's GNA PM Al-Sarraj says will sign ceasefire with Haftar's LNA out of a position of strength and that Libya will continue on path to democracy",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>This follows reports over the weekend in which the sides agreed to a ceasefire but then blamed each other on breaking the ceasefire hours after.</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1578871349,
+            "text": "2020-01-12 23:22:29 +0000",
+            "iso_8601": "2020-01-12T23:22:29Z"
+        },
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "libya-s-gna-pm-al-sarraj-says-will-sign-ceasefire-with-haftar-s-lna-out-of-a-position-of-strength-and-that-libya-will-continue-on-path-to-democracy-12-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 23,
+            "name": "Geopolitical"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-13 07:19:00",
+        "gmt_time": "2020-01-12 23:19:00"
+    },
+    {
+        "id": 903519,
+        "updated_sequence": 2068770,
+        "published_at": {
+            "unix": 1578870720,
+            "text": "2020-01-12 23:12:00 +0000",
+            "iso_8601": "2020-01-12T23:12:00Z"
+        },
+        "updated_at": {
+            "unix": 1578870809,
+            "text": "2020-01-12 23:13:29 +0000",
+            "iso_8601": "2020-01-12T23:13:29Z"
+        },
+        "subject": "S&P says Australian bushfires currently pose no threat to the ratings on its states and sovereign",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "s-p-says-australian-bushfires-currently-pose-no-threat-to-the-ratings-on-its-states-and-sovereign-12-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 24,
+            "name": "Rating Agency comments"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-13 07:12:00",
+        "gmt_time": "2020-01-12 23:12:00"
+    },
+    {
+        "id": 903518,
+        "updated_sequence": 2068765,
+        "published_at": {
+            "unix": 1578870240,
+            "text": "2020-01-12 23:04:00 +0000",
+            "iso_8601": "2020-01-12T23:04:00Z"
+        },
+        "updated_at": {
+            "unix": 1578870522,
+            "text": "2020-01-12 23:08:42 +0000",
+            "iso_8601": "2020-01-12T23:08:42Z"
+        },
+        "subject": "White House National Security Adviser O'Brien said US President Trump is still poised to reduce troops in Afghanistan even if they cannot reach a deal with the Taliban this year",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>As a reminder, US President Trump had previously announced that he resumed talks with the Taliban to end the 18-year conflict during a surprise visit to troops in the country &nbsp;for Thanksgiving.</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1578870522,
+            "text": "2020-01-12 23:08:42 +0000",
+            "iso_8601": "2020-01-12T23:08:42Z"
+        },
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "white-house-national-security-adviser-o-brien-said-us-president-trump-is-still-poised-to-reduce-troops-in-afghanistan-even-if-they-cannot-reach-a-deal-with-the-taliban-this-year-12-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 23,
+            "name": "Geopolitical"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-13 07:04:00",
+        "gmt_time": "2020-01-12 23:04:00"
+    },
+    {
+        "id": 903517,
+        "updated_sequence": 2068760,
+        "published_at": {
+            "unix": 1578869640,
+            "text": "2020-01-12 22:54:00 +0000",
+            "iso_8601": "2020-01-12T22:54:00Z"
+        },
+        "updated_at": {
+            "unix": 1578869732,
+            "text": "2020-01-12 22:55:32 +0000",
+            "iso_8601": "2020-01-12T22:55:32Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIAN STOCK NEWS: NAB (NAB AT) is believed to be nearing the sale of its MLC wealth unit",
+        "content": "<p>Base Resources (BSE AT) - Co. raises its FY20 output guidance for rutile, ilmenite and zircon. (Newswires)</p><p>BHP (BHP AT) - Co. is said to be at loggerheads with Fortescue (FMG AT) regarding port access deals which threatens to derail USD 350mln housing buyback at the country’s largest mining port. (The Australian)</p><p>NAB (NAB AT) - Co. is believed to be nearing the sale of its MLC wealth unit. (Newswires)</p><p>Qantas (QAN AT) - Co. unit Jetstar and TWU union have set meeting for January 29th with the moratorium on industrial action seen as a sign of good faith. (Newswires)</p><p>Resolute Mining (RSG AT) - Co. reports FY19 gold output 384.7k ounces vs. guidance of 400k ounces at AISC USD 1090/oz vs. guidance USD 1020/oz. (Newswires)</p><p>Slater &amp; Gordon (SGH AT) - Co. is said to be seeking a logical tie-up with Shine Lawyers. (Newswires)</p><p>Other News - Westpac estimates bushfire losses at AUD 5bln and total impact to domestic GDP of 0.2%-0.5%. (Newswires)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-australian-stock-news-nab-nab-at-is-believed-to-be-nearing-the-sale-of-its-mlc-wealth-unit-12-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-13 06:54:00",
+        "gmt_time": "2020-01-12 22:54:00"
+    },
+    {
+        "id": 903516,
+        "updated_sequence": 2068757,
+        "published_at": {
+            "unix": 1578868800,
+            "text": "2020-01-12 22:40:00 +0000",
+            "iso_8601": "2020-01-12T22:40:00Z"
+        },
+        "updated_at": {
+            "unix": 1578868979,
+            "text": "2020-01-12 22:42:59 +0000",
+            "iso_8601": "2020-01-12T22:42:59Z"
+        },
+        "subject": "White House National Security Adviser O'Brien said the Trump administration has reached out to North Korea to ask them to resume diplomacy, according to Axios",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>This follows reports over the weekend from North Korea state media that the country will not trade its nuclear weapons for lifting sanctions.&nbsp;</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1578868979,
+            "text": "2020-01-12 22:42:59 +0000",
+            "iso_8601": "2020-01-12T22:42:59Z"
+        },
+        "push_notify": false,
+        "source": "Axios",
+        "slug": "white-house-national-security-adviser-o-brien-said-the-trump-administration-has-reached-out-to-north-korea-to-ask-them-to-resume-diplomacy-according-to-axios-12-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 23,
+            "name": "Geopolitical"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-13 06:40:00",
+        "gmt_time": "2020-01-12 22:40:00"
+    },
+    {
+        "id": 903515,
+        "updated_sequence": 2068752,
+        "published_at": {
+            "unix": 1578868500,
+            "text": "2020-01-12 22:35:00 +0000",
+            "iso_8601": "2020-01-12T22:35:00Z"
+        },
+        "updated_at": {
+            "unix": 1578868591,
+            "text": "2020-01-12 22:36:31 +0000",
+            "iso_8601": "2020-01-12T22:36:31Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASE CALENDAR IS AVAILABLE IN THE RESEARCH SECTION OF THE WEBSITE: Highlights include Australian Consumer Inflation Guage, Japan Holiday",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "asian-daily-economic-release-calendar-is-available-in-the-research-section-of-the-website-highlights-include-australian-consumer-inflation-guage-japan-holiday-12-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-13 06:35:00",
+        "gmt_time": "2020-01-12 22:35:00"
+    },
+    {
+        "id": 903514,
+        "updated_sequence": 2068767,
+        "published_at": {
+            "unix": 1578868320,
+            "text": "2020-01-12 22:32:00 +0000",
+            "iso_8601": "2020-01-12T22:32:00Z"
+        },
+        "updated_at": {
+            "unix": 1578870598,
+            "text": "2020-01-12 23:09:58 +0000",
+            "iso_8601": "2020-01-12T23:09:58Z"
+        },
+        "subject": "China Global Times tweets that China GDP growth for 2019 is estimated at 6.1% and Q4 growth likely remained at 6.0% inline with Q3 citing an expert",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>This would be inline with China's official growth target for 2019 of between 6.0%-6.5%.</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1578868440,
+            "text": "2020-01-12 22:34:00 +0000",
+            "iso_8601": "2020-01-12T22:34:00Z"
+        },
+        "push_notify": false,
+        "source": "Twitter",
+        "slug": "china-global-times-tweets-that-china-gdp-growth-for-2019-is-estimated-at-6-1-and-q4-growth-likely-remained-at-6-0-inline-with-q3-citing-an-expert-12-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-13 06:32:00",
+        "gmt_time": "2020-01-12 22:32:00"
+    },
+    {
+        "id": 903513,
+        "updated_sequence": 2068744,
+        "published_at": {
+            "unix": 1578866460,
+            "text": "2020-01-12 22:01:00 +0000",
+            "iso_8601": "2020-01-12T22:01:00Z"
+        },
+        "updated_at": {
+            "unix": 1578867553,
+            "text": "2020-01-12 22:19:13 +0000",
+            "iso_8601": "2020-01-12T22:19:13Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p><strong>ASIA-PAC</strong></p><p>NEC Director Kudlow confirmed the US-China Phase One deal has been translated and authenticated. Kudlow added everything is in place and the factsheet will be released on Wednesday, while he also suggested that Phase One could equate to 40% or 50% of the entire deal and that capacity is to add half a point of growth for this year in the event the Phase One deal goes ahead. (Newswires)</p><p>US Treasury Secretary Mnuchin stated that China’s commitments in Phase 1 deal were not changed during the lengthy translation process and reiterated that it will be released following the signing this week. (Newswires)</p><p>Chinese President Xi rejected proposals for a bilateral summit with US President Trump after the APEC summit in Chile was cancelled in November, according to reports citing sources. (SCMP)</p><p>China Global Times Editor said the US military shouldn't start a new task force to expand efforts to counter China, as it will be targeted back by China. (Twitter)</p><ul><li>Indian Industrial Production (Nov) Y/Y 1.8% vs. Exp. -0.6% (Prev. -3.8%)&nbsp;</li></ul><p>&nbsp;</p><p><strong>UK/EU</strong></p><p>BoE's Tenreyro said her inclination is to a cut in rates in the event that downside risks were to emerge, while she added that risks are tilted to the downside and that more stimulus may be needed in the event that growth fails to recover. (Newswires)</p><p>BoE’s Vlieghe said he is prepared to lower rates if the data doesn’t get better. Furthermore, Vlieghe thinks it has been a close call and wouldn’t take much to swing it one way or the other, while he suggested the upcoming few meetings are live. (Newswires)</p><p>NEC Director Kudlow responded that 'as far as the eye can see this is fair enough, but it remains a Presidential affair' when asked is it fair to say that no action will be taken on European auto tariffs as none has been taken thus far, while he added the US remains in constant negotiation with the EU. (Newswires)</p><p>&nbsp;</p><p><strong>FX</strong></p><ul><li>Canadian Employment Change (Dec) 35.2k vs. Exp. 25.0k (Prev. -71.2k). (Newswires)</li><li>Canadian Unemployment Rate (Dec) 5.6% vs. Exp. 5.8% (Prev. 5.9%)&nbsp;</li></ul><p>&nbsp;</p><p><strong>COMMODITIES</strong></p><p>Baker Hughes Rig Count (Jan 10th) Oil -11 at 659, Natgas -4 at 119, total at 781. (Newswires)</p><p>Kinder Morgan natural gas pipeline declared a force majeure after it found a leak on the Louisiana #1 pipeline in segment 25, Jefferson County, Texas. (Newswires)</p><p>&nbsp;</p><p><strong>GEOPOLITICS</strong></p><p>Iran admitted that it accidentally shot down the Ukraine passenger jet in which it alleged that the airliner took the flying posture and altitude of an enemy target, while protesters held a rally in Tehran demanding the Supreme Leader quits due to the mistake. (Newswires)</p><p>US Treasury Secretary Mnuchin confirmed additional sanctions on Iran focusing on individuals and on steel and iron manufacturers, while he stated that President Trump was clear economic sanctions will continue against Iran until they adhere to the US requests. Furthermore, the US was said to have threatened sanctions if China continues to purchase Iranian oil. (Newswires)</p><p>Washington Post reported that on the day Iranian General Soleimani was killed, there was a separate failed attempt to kill another Iranian senior military official in Yemen. (Washington Post)</p><p>4 Iraqi soldiers were reportedly wounded following a rocket attack on a base in Iraq. (Newswires)</p><p>US Navy said a Russian ship \"aggressively\" approached a US Navy destroyer in the North Arabian Sea but added the Russian ship ultimately changed course, while the Russian Defence Ministry denied that one of its ships aggressively approached a US Navy ship and alleged that the US ship crossed the Russian ship's path and acted unprofessionally. (Newswires)</p><p>&nbsp;</p><p><strong>US</strong></p><p>Fed’s Kashkari (voter, dove) said the December jobs report suggests that the economy is slowing and that he would support a rate cut if jobs growth continues to weaken, inflation stays low and inflation expectations slip. Furthermore, Kashkari added that he sees rates on hold for the foreseeable future and sees the next move as a cut rather than a hike. (Newswires)</p><ul><li>US Non-Farm Payrolls (Dec) 145k vs. Exp. 164.0k (Prev. 266.0k, Rev. 256k); 2-month net revisions -14k (Prev. +41k). (Newswires)</li><li>US Unemployment Rate (Dec) 3.5% vs. Exp. 3.5% (Prev. 3.5%)</li><li>US Average Earnings (Dec) Y/Y 2.9% vs. Exp. 3.1% (Prev. 3.1%)</li><li>US Wholesale Sales (Nov) M/M 0.5% vs. Exp. 0.2% (Prev. -0.7%, Rev. -0.9%)</li></ul><p>&nbsp;</p><p><strong>MARKET RECAP</strong></p><p>Financials (XLF) underperformed on the back of lower yields, which supported the Real Estate sector (XLRE), Industrials (XLI) and Consumer Discretionary (XLY) were also worst hit, with the disappointing jobs report weighing on sentiment, whilst the defensive Utilities (XLU) and Health Care (XLV) outperformed. GrubHub (GRUB) reversed recent gains as it refuted reports that it was considering a sale. Intuitive Surgical (ISRG) traded in the green after providing preliminary Q4 revenue above expectations. Nvidia (NVDA) was a top performer after a “top pick” mention at Citi. Skyworks (SWKS) and Qorvo (QRVO) fared better following Mizuho upgrading both stocks to Buy on optimism for the 5G handset outlook. Lumentum (LITE) suffered on a downgrade at Raymond James to Outperform from Strong Buy on valuation. SYNNEX (SNX) surged after a strong earnings report and announcing its plans to split into two separately traded public companies. KB Home (KBH) bucked the real estate strength and took a haircut after disappointing revenue. L Brands (LB) strength continued for a second session as more analysts warmed to the notion that strategic action could be imminent, with the weak holiday sales serving as a tipping point. Nektar Therapeutics (NKTR) surged on an extended collaboration with Bristol-Myers (BMY). Luckin Coffee (LK) traded lower after it raised the number of shares offered in its secondary offering that also priced. SPX -0.29% at 3265, NDX -0.26% at 8997, Dow -0.46% at 28823.</p><p>The curve bull-flattened on Friday, with yields in the front of the curve on slightly lower, while 30s had fallen by almost 5bps. The employment situation report was mildly disappointing, with the headline missing expectations, and the pace of wage growth easing to under 3.0% Y/Y, bringing buying interest. A Raymond James strategist said that for the bond market, this was a positive number, especially when it comes to wage inflation; \"the subtle drop in the number of hours worked,\" he said, \"and the lower-than-expected average hourly earnings number is good for fixed income. While today's data may not result in a big move down in rates, it certainly doesn’t support a big move higher either”. US T-note futures (H20) settled 6 ticks higher at 129-02+.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "daily-asia-pac-opening-news-12-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-13 06:01:00",
+        "gmt_time": "2020-01-12 22:01:00"
+    },
+    {
+        "id": 903319,
+        "updated_sequence": 2068734,
+        "published_at": {
+            "unix": 1578866400,
+            "text": "2020-01-12 22:00:00 +0000",
+            "iso_8601": "2020-01-12T22:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1578866400,
+            "text": "2020-01-12 22:00:00 +0000",
+            "iso_8601": "2020-01-12T22:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-09-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-13 06:00:00",
+        "gmt_time": "2020-01-12 22:00:00"
+    }
+]

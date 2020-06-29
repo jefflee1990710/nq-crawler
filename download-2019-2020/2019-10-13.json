@@ -1,0 +1,342 @@
+[
+    {
+        "id": 891068,
+        "updated_sequence": 1966840,
+        "published_at": {
+            "unix": 1571010000,
+            "text": "2019-10-14 00:40:00 +0100",
+            "iso_8601": "2019-10-13T23:40:00Z"
+        },
+        "updated_at": {
+            "unix": 1571010444,
+            "text": "2019-10-14 00:47:24 +0100",
+            "iso_8601": "2019-10-13T23:47:24Z"
+        },
+        "subject": "PRE-MARKET SOUTH KOREA STOCK NEWS: Japan is shut for Health-Sports Day",
+        "content": "<p>JAPAN – Closed</p><p>Itochu (8001 JT) - Co. is to invest almost USD 100mln in China EV start up Singulato. (Newswires)</p><p>SoftBank (9984 JT) - Co. is said to be examining taking control of WeWork in a potential financing package. (Newswires)</p><p>Suruga Bank (8358 JT) - BoJ stated the Co. submitted false reports in 2014 and 2018. (Newswires)</p><p>&nbsp;</p><p>SOUTH KOREA</p><p>COWAY (021240 KS) - Netmarble are looking into acquiring a KRW 1.83tln stake in Woongjin Coway. (Newswires)</p><p>Hyundai Motor (005380 KS) - Co. and Kia Motors (000270 KS) have entered a settlement agreement in US with owners of certain vehicles containing GDI engines in which it will reflect around KRW 600bln of settlements for Q3 results. (Newswires)</p><p>Shipping - South Korean shippers are mulling partnering in an attempt to win large LNG shipping orders from Qatar. (Yonhap)</p><p>Other News - State-run think tank Korea Development Institute called for BoK to maintain aggressive monetary policy easing to help fight increased downside risks and low inflation. (Yonhap)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-south-korea-stock-news-japan-is-shut-for-health-sports-day-13-10-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-10-14 07:40:00",
+        "gmt_time": "2019-10-13 23:40:00"
+    },
+    {
+        "id": 891067,
+        "updated_sequence": 1966842,
+        "published_at": {
+            "unix": 1571008620,
+            "text": "2019-10-14 00:17:00 +0100",
+            "iso_8601": "2019-10-13T23:17:00Z"
+        },
+        "updated_at": {
+            "unix": 1571010850,
+            "text": "2019-10-14 00:54:10 +0100",
+            "iso_8601": "2019-10-13T23:54:10Z"
+        },
+        "subject": "Preview: MAS is expected to ease its FX-based policy in announcement due at 0100BST/1900CDT/0800HKT",
+        "content": "<p>The Monetary Authority of Singapore is expected to adjust policy at its semi-annual policy announcement today by reducing the appreciation rate or slope of the SGD Nominal Effective Exchange Rate in which majority of analysts predict the MAS will reduce the slope of the policy band to 0.5% from 1.0%, while a few anticipate the MAS to completely remove its appreciation bias.</p><p>As a guide, the MAS utilizes the exchange rate as its main policy tool in which it could tweak policy through either the mid-point, slope or width of the currency band. For example, the MAS could alter the mid-point of its SGD NEER band which if lowered, would effectively be easing policy by weakening the SGD against a basket of currencies. The central bank could also alter the slope of the trading band to adjust the path of the currency, which it did during the past 2 consecutive meetings in which it tightened policy by slightly increasing the slope of the currency band. Furthermore, the central bank could also widen the width of the trading band which would be seen as a neutral measure but would allow the currency more room to fluctuate.As a guide, the MAS utilizes the exchange rate as its main policy tool in which it could tweak policy through either the mid-point, slope or width of the currency band. For example, the MAS could alter the mid-point of its SGD NEER band which if lowered, would effectively be easing policy by weakening the SGD against a basket of currencies. The central bank could also alter the slope of the trading band to adjust the path of the currency, which it did during the past 2 consecutive meetings in which it tightened policy by slightly increasing the slope of the currency band. Furthermore, the central bank could also widen the width of the trading band which would be seen as a neutral measure but would allow the currency more room to fluctuate.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "preview-mas-is-expected-to-ease-its-fx-based-policy-in-announcement-due-at-0100bst-1900cdt-0800hkt-13-10-2019",
+        "hidden": false,
+        "section": {
+            "id": 8,
+            "name": "Other Central Banks"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-10-14 07:17:00",
+        "gmt_time": "2019-10-13 23:17:00"
+    },
+    {
+        "id": 891066,
+        "updated_sequence": 1966830,
+        "published_at": {
+            "unix": 1571006340,
+            "text": "2019-10-13 23:39:00 +0100",
+            "iso_8601": "2019-10-13T22:39:00Z"
+        },
+        "updated_at": {
+            "unix": 1571007153,
+            "text": "2019-10-13 23:52:33 +0100",
+            "iso_8601": "2019-10-13T22:52:33Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIAN STOCK NEWS: Australian Treasurer Frydenberg officially requested ACCC to investigate the banking industry and its refusal to fully pass on interest rate cuts to borrowers",
+        "content": "<p>Blackham Resources (BLK AT) - Co. Q3 gold output 17.6k ounces vs. Prev. 12.0k ounces Y/Y at AISC AUD 1519/oz vs. Prev. AUD 2376/oz Y/Y. (Newswires)</p><p>FlexiGroup (FXL AT) - Co. is examining a potential sale of Australia and New Zealand equipment leasing operations. (Newswires)</p><p>Independence Group (IGO AT) - Co. signed farm in and JV agreement with Apollo Consolidated related to the Louisa Project. (Newswires)</p><p>Karoon Gas (KAR AT) - Co. is thought to have cancelled plans for a capital raise. (AFR)</p><p>Praemium (PPS AT) - Co. reports September funds under administration at AUD 20.0bln vs. Prev. AUD 16.1bln. (Newswires)</p><p>Santos (STO AT) - Co. will acquire ConocoPhilips’ Northern Australia assets for USD 1.39bln. (Newswires)</p><p>WAM Capital (WAM AT) - Co. made a takeover offer for Keybridge Capital. (Newswires)</p><p>Financials - Australian Treasurer Frydenberg officially requested ACCC to investigate the banking industry and its refusal to fully pass on interest rate cuts to borrowers. (Newswires)</p><p>Other News - ACCC launches inquiry regarding affordability of basic NBN products in which it will examine wholesale prices paid be retail service providers. (Newswires)</p><p>&nbsp;</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-australian-stock-news-australian-treasurer-frydenberg-officially-requested-accc-to-investigate-the-banking-industry-and-its-refusal-to-fully-pass-on-interest-rate-cuts-to-borrowers-13-10-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-10-14 06:39:00",
+        "gmt_time": "2019-10-13 22:39:00"
+    },
+    {
+        "id": 891065,
+        "updated_sequence": 1966823,
+        "published_at": {
+            "unix": 1571005380,
+            "text": "2019-10-13 23:23:00 +0100",
+            "iso_8601": "2019-10-13T22:23:00Z"
+        },
+        "updated_at": {
+            "unix": 1571005420,
+            "text": "2019-10-13 23:23:40 +0100",
+            "iso_8601": "2019-10-13T22:23:40Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASES CALENDAR NOW AVAILABLE IN THE RESEARCH SECTION: Highlights include Singapore GDP and MAS Policy Announcement, Chinese Trade Balance, Exports and Imports",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asian-daily-economic-releases-calendar-now-available-in-the-research-section-highlights-include-singapore-gdp-and-mas-policy-announcement-chinese-trade-balance-exports-and-imports-13-10-2019",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-10-14 06:23:00",
+        "gmt_time": "2019-10-13 22:23:00"
+    },
+    {
+        "id": 891064,
+        "updated_sequence": 1966818,
+        "published_at": {
+            "unix": 1571003340,
+            "text": "2019-10-13 22:49:00 +0100",
+            "iso_8601": "2019-10-13T21:49:00Z"
+        },
+        "updated_at": {
+            "unix": 1571003528,
+            "text": "2019-10-13 22:52:08 +0100",
+            "iso_8601": "2019-10-13T21:52:08Z"
+        },
+        "subject": "US President Trump tweets that his deal with China is that they will immediately start buying large amounts of US agricultural products and not wait till deal is signed over next 3 or 4 weeks, while he notes that China has already started the purchases",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Twitter",
+        "slug": "us-president-trump-tweets-that-his-deal-with-china-is-that-they-will-immediately-start-buying-large-amounts-of-us-agricultural-products-and-not-wait-till-deal-is-signed-over-next-3-or-4-weeks-while-he-notes-that-china-has-already-started-th-13-10-2019",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-10-14 05:49:00",
+        "gmt_time": "2019-10-13 21:49:00"
+    },
+    {
+        "id": 891063,
+        "updated_sequence": 1966820,
+        "published_at": {
+            "unix": 1571002920,
+            "text": "2019-10-13 22:42:00 +0100",
+            "iso_8601": "2019-10-13T21:42:00Z"
+        },
+        "updated_at": {
+            "unix": 1571004397,
+            "text": "2019-10-13 23:06:37 +0100",
+            "iso_8601": "2019-10-13T22:06:37Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p><strong>TRADE</strong></p><p>US President Trump announced the US reached a substantial Phase 1 deal with China on IP, financial services and large agricultural purchases. The deal will take up to 5 weeks to get written in which China has agreed to make between USD 40bln-50bln of agricultural purchases and the sides also agreed on currency and foreign exchange issues. Trump also stated we are working on enforcement currently and are close to ending the trade war, while he suggested some IP aspects will be agreed in Phase 2 which will begin when Phase 1 is signed and that doing it in phases is better as this is such a big deal. (Newswires)</p><p>US Treasury Secretary Mnuchin said the US will not implement October 15th tariffs and will be evaluating whether to rescind the currency manipulation designation on China. Mnuchin also noted that there is almost a complete agreement on financial service and a fundamental understanding on the key issues but added there is more work to do and that China Vice Premier Liu has to go back and do more work in China. (Newswires)</p><p>USTR LIghthizer said we are not dealing with Huawei in this agreement and that President Trump has not made a decision on the December tariffs as of yet, just the October 15th tariffs. Furthermore, Lighthizer said we will have an elaborate consultation process for enforcement and on the final details on what will happen if there is not a resolution. (Newswires)</p><p>US White House released the letter to US President Trump from Chinese President Xi which stated it is important we address each other’s concerns properly and make positive headway in other areas as well, while he called for working together to manage the differences on the basis of mutual respect. (Newswires)</p><p>Chinese Vice Premier Liu He said we have made substantial progress and will continue to make efforts. In related news, it was also reported that China largely finalised an unreliable entities list and that its publication was dependent upon progress between US China, according to sources. (Newswires)</p><p>&nbsp;</p><p><strong>ASIA-PAC</strong></p><p>US President Trump said we discussed Hong Kong and suggested that things have died down, while he believes things will take care of themselves over there. (Newswires)</p><p>US Secretary of State Pompeo claimed China is detaining and abusing more than 1mln Uighur Muslims in camps in the Xinjiang region. (Newswires)</p><p>Chinese President Xi warned that anyone attempting to divide China in any part of the country will end in crushed bodies and shattered bones, while he added that any external forces backing such attempts will be deemed as pipe-dreaming. (Newswires)</p><ul><li>Indian Industrial Output (Aug) Y/Y -1.1% vs. Exp. 1.8% (Prev. 4.3%, Rev. 4.6%). (Newswires)&nbsp;</li><li>Indian Manufacturing Output (Aug) Y/Y -1.2% (Prev. 4.2%, Rev. 4.5%)&nbsp;</li></ul><p>&nbsp;</p><p><strong>UK/EU</strong></p><p>UK PM Johnson said he had a good discussion with the Irish PM, while he added it does not mean it is a done deal but we are working to get an agreement. (Newswires)</p><p>BoE’s Ramsden said he sees less of a case for further monetary policy accommodation in the event of another Brexit extension. Ramsden also suggested that company wage costs are picking up quite significantly which will drive domestic inflation pressure, while he added spare capacity might not have opened up much despite weakness in underlying growth. (Telegraph)</p><p>DUP stated that anything that traps NI in the EU, whether that is the single market or the customs union, will not have the DUP's support. There were also comments from DUP's deputy Dodds who rejected the proposed \"double customs\" Brexit solution in which he stated that it cannot work and that “Northern Ireland must stay in a full UK customs union, full stop”. (Newswires)</p><p>EU Chief Brexit negotiator Barnier was said to have received the green light from the EU27 for there to be tunnel negotiations, while he reportedly told the EU27 that the UK accepted that a solution to replace the backstop cannot form a customs border on the island of Ireland. Furthermore, Barnier said he had a constructive meeting with UK Brexit Secretary Barclay and the sides are working towards a deal, while he added if there is a will, there is a way. (Newswires/Guardian)</p><p>EU Council President Tusk suggested on Friday that hope for a Brexit deal maybe a little bit bigger and more tangible than a couple of days ago but added you can never be sure in politics. (Newswires)</p><p>EU diplomats said potential solution would keep Northern Ireland in the UK customs union, whilst preserving the unity of customs and regulatory checks on the Irish Sea.&nbsp; In separate news, an EU source said the chances of a deal at the upcoming EU summit were 50-50, while a senior EU official said \"there will be no Brexit on 31st October\" if a Brexit agreement is reached as it is highly likely an A50 extension will be needed (even if just to ratify). (Newswires/Sunday Times/BuzzFeed)</p><p>&nbsp;</p><p><strong>FX</strong></p><p>Russia is examining currency settlements in EUR and RUB for its vast energy exports in an attempt to circumvent the USD and insulate Moscow from the US-led global financial system. (FT)&nbsp;</p><p>&nbsp;</p><p><strong>COMMODITIES&nbsp;</strong></p><p>Baker Hughes (October 11): US oil rigs +2 at 712, US nat gas rigs -1 at 143, total US rigs +1 at 856. (Newswires)</p><p>US will send 1800 additional troops to Saudi Arabia after last month’s Aramco attack. (Newswires)</p><p>&nbsp;</p><p><strong>GEOPOLITICS</strong></p><p>US Special Forces were reportedly caught up in Turkish shelling against the Kurds by mistake according to sources. However, there were other reports that US forces said Turkey deliberately launched artillery rounds near them in Syria. (Newsweek/Washington Post)</p><p>Syria's Kurds said Syrian government forces agreed Sunday to help them fend off Turkey's invasion which is a major shift in alliances which also followed reports that US President Trump ordered all US troops to withdraw from the northern border area. (Haaretz)</p><p>US Treasury Secretary Mnuchin said President Trump is signing an executive order allowing \"very significant\" primary and secondary tariffs on Turkey but is not going ahead with tariffs as of yet, while he added that financial institutions have been put on notice. (Newswires)&nbsp;</p><p>&nbsp;</p><p><strong>US</strong></p><p>US President Trump said the Fed should cut rates despite the deal and added this is more important than the Federal Reserve. (Newswires)</p><p>Fed's Kaplan (non-voter) said trade uncertainties are having a big effect in the US and a larger effect in other economies, while he warned the US is not immune from trade wars. (Newswires)</p><p>Fed is to begin Treasury Bill purchases at around USD 60bln per month in addition to current purchases, which is to start on October 15th and occur until at least Q2 2020. However, it was also reported that this was purely technical measures and not a monetary policy stance change. (Newswires)&nbsp;</p><p>&nbsp;</p><p><strong>MARKET RECAP</strong></p><p>Apple (AAPL) made new all-time highs on positive risk sentiment; trade sensitive stocks outperformed in general. Fastenal (FAST) rallied after beating on both top and bottom lines. Match (MTCH) traded red as IAC (IAC) proposed a full separation of MTCH from its remaining businesses, IAC was in the black. Newmont Gold (NEM) underperformed as gold prices sold-off on a positive risk appetite. Uber (UBER) firmed amid acquiring a majority ownership in Cornershop, a move into online grocery deliveries in South America. General Motors (GM) traded higher as it urged the UAW to agree to around the clock bargaining to resolve the strike. GM also proposed a new offer to UAW on Oct. 7th where it would increase compensation through wages and lump sum payments, and for temporary workers the offer also would create a clear path to permanent employment plus a ratification bonus. Walmart (WMT) announced its Chief Executive in the US, Greg Foran, will depart the company early next year and is to be replaced by the head of its Sam’s club chain unit, John Furner. A couple of stories for Boeing (BA): the International Air Safety Panel has faulted the FAA review of Boeing’s 737 MAX Jet safety system that was later tied to the two crashes that killed 346 people. Elsewhere, United Airlines (UAL) joined others in delaying the return of the 737 MAX jet to January from December. Roku (ROKU) made gains following an upgrade at RBC, Square (SQ) also benefitting from an upgrade at Susquehanna. S&amp;P 500 1.1% at 2970, NASDAQ-100 1.3% at 7844, Dow Jones 1.2% at 26817.</p><p>Yields were up across the curve by between around 7-10bps on optimism that a partial trade deal between US and China has removed some near-term risk facing the global economy. Additionally, in Europe, there are also hopes of a Brexit breakthrough on the cards; in both stories, however, analysts are cautious (the thin China trade deal, as reported, still has a number of outstanding issues, including intellectual property, market access, industrial subsidies, tech transfers; while the Brexit issues of the Stormont lock and the customs border still appear to be issues). The Fed announced it would enter the market to buy bills, seeing the curve steepen, though reiterated it was not QE, and was not part of its monetary policy. At settlement, major curve spreads were mixed, with 2s5s and 2s10s wider by around 2bps, though 2s30s, 5s10s, 5s30s, 10s30s have narrowed. US T-note futures (Z9) settled 26+ ticks at 129-28.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-asia-pac-opening-news-13-10-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-10-14 05:42:00",
+        "gmt_time": "2019-10-13 21:42:00"
+    },
+    {
+        "id": 891062,
+        "updated_sequence": 1966808,
+        "published_at": {
+            "unix": 1571002200,
+            "text": "2019-10-13 22:30:00 +0100",
+            "iso_8601": "2019-10-13T21:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1571002266,
+            "text": "2019-10-13 22:31:06 +0100",
+            "iso_8601": "2019-10-13T21:31:06Z"
+        },
+        "subject": "New Zealand Performance of Services Index (Sep) 54.4 (Prev. 54.6)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "new-zealand-performance-of-services-index-sep-54-4-prev-54-6-13-10-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-10-14 05:30:00",
+        "gmt_time": "2019-10-13 21:30:00"
+    },
+    {
+        "id": 891061,
+        "updated_sequence": 1966805,
+        "published_at": {
+            "unix": 1571001060,
+            "text": "2019-10-13 22:11:00 +0100",
+            "iso_8601": "2019-10-13T21:11:00Z"
+        },
+        "updated_at": {
+            "unix": 1571001871,
+            "text": "2019-10-13 22:24:31 +0100",
+            "iso_8601": "2019-10-13T21:24:31Z"
+        },
+        "subject": "Brussels is reportedly demanding further Brexit concessions from UK which has prompted warnings that a deal based on further compromise would be rejected by Parliament",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Telegraph ",
+        "slug": "brussels-is-reportedly-demanding-further-brexit-concessions-from-uk-which-has-prompted-warnings-that-a-deal-based-on-further-compromise-would-be-rejected-by-parliament-13-10-2019",
+        "hidden": false,
+        "section": {
+            "id": 38,
+            "name": "Brexit"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-10-14 05:11:00",
+        "gmt_time": "2019-10-13 21:11:00"
+    },
+    {
+        "id": 891060,
+        "updated_sequence": 1966800,
+        "published_at": {
+            "unix": 1571000520,
+            "text": "2019-10-13 22:02:00 +0100",
+            "iso_8601": "2019-10-13T21:02:00Z"
+        },
+        "updated_at": {
+            "unix": 1571000719,
+            "text": "2019-10-13 22:05:19 +0100",
+            "iso_8601": "2019-10-13T21:05:19Z"
+        },
+        "subject": "EU made a last-ditch plea to the US to refrain from implementing tariffs related to Airbus (AIR FP) subsidies in which it warned of the impact they could have to both sides, while it reiterated its call for a solution",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "eu-made-a-last-ditch-plea-to-the-us-to-refrain-from-implementing-tariffs-related-to-airbus-air-fp-subsidies-in-which-it-warned-of-the-impact-they-could-have-to-both-sides-while-it-reiterated-its-call-for-a-solution-13-10-2019",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-10-14 05:02:00",
+        "gmt_time": "2019-10-13 21:02:00"
+    },
+    {
+        "id": 890855,
+        "updated_sequence": 1966794,
+        "published_at": {
+            "unix": 1571000400,
+            "text": "2019-10-13 22:00:00 +0100",
+            "iso_8601": "2019-10-13T21:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1571000400,
+            "text": "2019-10-13 22:00:00 +0100",
+            "iso_8601": "2019-10-13T21:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "<p><a href=\"https://asia.nikkei.com/Business/Companies/Nintendo-to-move-Switch-output-to-Vietnam-as-China-tariffs-loom\">Via Nikkei</a></p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-10-10-2019",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-10-14 05:00:00",
+        "gmt_time": "2019-10-13 21:00:00"
+    }
+]

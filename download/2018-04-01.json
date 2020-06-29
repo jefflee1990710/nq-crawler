@@ -1,0 +1,240 @@
+[
+    {
+        "id": 615098,
+        "updated_sequence": 800318,
+        "published_at": {
+            "unix": 1522627140,
+            "text": "2018-04-02 00:59:00 +0100",
+            "iso_8601": "2018-04-01T23:59:00Z"
+        },
+        "updated_at": {
+            "unix": 1522627201,
+            "text": "2018-04-02 01:00:01 +0100",
+            "iso_8601": "2018-04-02T00:00:01Z"
+        },
+        "subject": "BoJ official says some firms said they were cautious due to firm JPY",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "boj-official-says-some-firms-said-they-were-cautious-due-to-firm-jpy-02-04-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-04-02 07:59:00",
+        "gmt_time": "2018-04-01 23:59:00"
+    },
+    {
+        "id": 615087,
+        "updated_sequence": 800613,
+        "published_at": {
+            "unix": 1522625280,
+            "text": "2018-04-02 00:28:00 +0100",
+            "iso_8601": "2018-04-01T23:28:00Z"
+        },
+        "updated_at": {
+            "unix": 1522711878,
+            "text": "2018-04-03 00:31:18 +0100",
+            "iso_8601": "2018-04-02T23:31:18Z"
+        },
+        "subject": "PRE-MARKET JAPANESE AND SOUTH KOREAN STOCK NEWS: Australia is closed for holiday; Nissan (7201 JT) and Renault (RNO FP) said to be in discussions regarding a merger",
+        "content": "<p>AUSTRALIA</p>\r\n\r\n<p>Virgin Australia (VAH AT)<br />- Co. reportedly faces uncertainty as shareholder Etihad is said to considering exiting its stake. (The Australian)</p>\r\n\r\n<p>Wesfarmers (WES AT)<br />- Co. is said to have hired Lazard to search for buyers of Co.&rsquo;s Homebase chain in UK. (The Australian)</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>JAPAN</p>\r\n\r\n<p>Japan Display (6740 JT)<br />- Co. dropped plans to raise its stake in affiliate Joled, while it also sold its idled Nomi plant to largest shareholder INCJ. (Newswires)<br />- Co. also plans to raise around JPY 55bln via third-party share allocations and asset sales to fund the supply of screens to Apple. (Nikkei)</p>\r\n\r\n<p>Nissan (7201 JT)<br />- Co. and Renault (RNO FP) are said to be in discussions regarding a merger with Chairman of both Co.&rsquo;s Ghosn said to be steering the negotiations, according to sources. (Todayonline) However, there were also comments from an executive who was said to be opposed to a merger and stated that no way can the Japanese automaker accept a merger with Renault. (Nikkei)</p>\r\n\r\n<p>Toshiba (6502 JT)<br />- Co. sale of chip unit goes into overtime after the Co. failed to complete the sale by March target, with some also concerned that ongoing trade tensions may prompt Chinese regulators to block the deal. (Nikkei)</p>\r\n\r\n<p>Entertainment / Gambling related<br />- Japan&rsquo;s ruling parties are said to have agreed upon 3 casino resorts. (Newswires)</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>SOUTH KOREA</p>\r\n\r\n<p>Kumho Tire (073240 KS)<br />- Union has agreed to the sale of Co. to China&rsquo;s Doublestar. (Newswires)</p>\r\n\r\n<p>Posco (005490 KS)<br />- Co. is to examine lowering amount of profit from steel by half and seek to replace it with profit from biopharma and lithium operations. (Newswires)</p>\r\n\r\n<p>Other News<br />- US and South Korea began scaled down annual military exercises, while there was no reported response from North Korea to the drills. (Newswires)<br />- South Korean President Moon said to have had a telephone conversation with a Chinese special envoy in which he asked that China resume sending groups of tourists to the country. (Newswires)</p>\r\n\r\n<p>Data Recap<br />- South Korean Trade Balance (USD)(Mar) 6.9B (Prev. 3.2B). (Newswires)<br />- South Korean Exports (Mar) Y/Y 6.1% vs. Exp. 0.4% (Prev. 3.9%)<br />- South Korean Imports (Mar) Y/Y 5.0% vs. Exp. 13.1% (Prev. 14.9%)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-japanese-and-south-korean-stock-news-australia-is-closed-for-holiday-nissan-7201-jt-and-renault-rno-fp-said-to-be-in-discussions-regarding-a-merger-01-04-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-04-02 07:28:00",
+        "gmt_time": "2018-04-01 23:28:00"
+    },
+    {
+        "id": 615086,
+        "updated_sequence": 800280,
+        "published_at": {
+            "unix": 1522624560,
+            "text": "2018-04-02 00:16:00 +0100",
+            "iso_8601": "2018-04-01T23:16:00Z"
+        },
+        "updated_at": {
+            "unix": 1522624789,
+            "text": "2018-04-02 00:19:49 +0100",
+            "iso_8601": "2018-04-01T23:19:49Z"
+        },
+        "subject": "China Mofcom says trade dispute should be resolved through dialogue and hopes US pulls back from action which violate WTO rules ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "china-mofcom-says-trade-dispute-should-be-resolved-through-dialogue-and-hopes-us-pulls-back-from-action-which-violate-wto-rules-01-04-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-04-02 07:16:00",
+        "gmt_time": "2018-04-01 23:16:00"
+    },
+    {
+        "id": 615085,
+        "updated_sequence": 800274,
+        "published_at": {
+            "unix": 1522619100,
+            "text": "2018-04-01 22:45:00 +0100",
+            "iso_8601": "2018-04-01T21:45:00Z"
+        },
+        "updated_at": {
+            "unix": 1522619290,
+            "text": "2018-04-01 22:48:10 +0100",
+            "iso_8601": "2018-04-01T21:48:10Z"
+        },
+        "subject": "UPDATED RANSQUAWK SERVICE SCHEDULE FOR EASTER MONDAY",
+        "content": "<p>The Asia-Pac Service will run until Monday 2nd April at 0500BST at which point the service will be halted for 8 hours due to the closure of EU and UK markets. The service will then resume at 1300BST for the beginning of the US session with US markets subject to a regular open.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "updated-ransquawk-service-schedule-for-easter-monday-01-04-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-04-02 05:45:00",
+        "gmt_time": "2018-04-01 21:45:00"
+    },
+    {
+        "id": 615084,
+        "updated_sequence": 800267,
+        "published_at": {
+            "unix": 1522618920,
+            "text": "2018-04-01 22:42:00 +0100",
+            "iso_8601": "2018-04-01T21:42:00Z"
+        },
+        "updated_at": {
+            "unix": 1522619015,
+            "text": "2018-04-01 22:43:35 +0100",
+            "iso_8601": "2018-04-01T21:43:35Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASES CALENDAR NOW AVAILABLE IN THE RESEARCH SECTION: Highlights Include BoJ Tankan Survey and Chinese Caixin Manufacturing PMI",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asian-daily-economic-releases-calendar-now-available-in-the-research-section-highlights-include-boj-tankan-survey-and-chinese-caixin-manufacturing-pmi-01-04-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-04-02 05:42:00",
+        "gmt_time": "2018-04-01 21:42:00"
+    },
+    {
+        "id": 615083,
+        "updated_sequence": 800277,
+        "published_at": {
+            "unix": 1522618200,
+            "text": "2018-04-01 22:30:00 +0100",
+            "iso_8601": "2018-04-01T21:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1522619768,
+            "text": "2018-04-01 22:56:08 +0100",
+            "iso_8601": "2018-04-01T21:56:08Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS:  Chinese Official PMIs beat expectations, China imposes tariffs on US food products in response to steel and aluminium tariffs ",
+        "content": "<p>ASIA-PAC</p>\r\n\r\n<p>Chinese Manufacturing PMI (Mar) 51.5 vs. Exp. 50.7 (Prev. 50.3). (Newswires)<br />Chinese Non-Manufacturing PMI (Mar) 54.6 vs. Exp. 54.5 (Prev. 54.4)<br />Chinese Composite PMI (Mar) 54.0 (Prev. 52.9)</p>\r\n\r\n<p>Macau Gaming Revenue for March rose 22.2% Y/Y to MOP 25.9B vs. Exp. 16.6% increase. (Newswires)</p>\r\n\r\n<p>South Korean Trade Balance (USD)(Mar) 6.9B (Prev. 3.2B). (Newswires)<br />South Korean Exports (Mar) Y/Y 6.1% vs. Exp. 0.4% (Prev. 3.9%)<br />South Korean Imports (Mar) Y/Y 5.0% vs. Exp. 13.1% (Prev. 14.9%)</p>\r\n\r\n<p><br />UK/EU</p>\r\n\r\n<p><a name=\"_Hlk507704203\"></a><a name=\"_Hlk503148913\"></a><a name=\"_Hlk503148890\"></a><a name=\"_Hlk503148850\">UK PM May is said to be planning a customs partnership as a solution for Northern Ireland in which the UK would collect tariffs and conduct import checks for the EU, although trade experts were said to be pessimistic on the proposed scheme as they viewed it as challenging and would take years to put in place. (FT)</a></p>\r\n\r\n<p>German Chancellor Merkel ally and European parliament&rsquo;s Brexit steering group member Elmar Brok suggested the transition period could be prolonged if UK needs more time to prepare for its exit. (Independent)</p>\r\n\r\n<p>Japan stated that a trade agreement with EU is more important than a trade deal with the UK. (Independent)</p>\r\n\r\n<p>Chartered Institute of Procurement and Supply data suggested that over 20% of manufacturing firms are planning job reductions to manage with the higher costs related to the Brexit. (Guardian) &nbsp;<br />&nbsp;</p>\r\n\r\n<p>COMMODITIES</p>\r\n\r\n<p>Bahrain discovered its largest oil field since 1932 which the government anticipates would dwarf the country&rsquo;s current reserves. (NYT)<br />&nbsp;</p>\r\n\r\n<p>GEOPOLITICAL</p>\r\n\r\n<p>US and South Korea began scaled down annual military exercises, while there was no reported response from North Korea to the drills. (Newswires)</p>\r\n\r\n<p><br />US</p>\r\n\r\n<p>China imposed tariffs of between 15% and 25% on imports of 128 different products from the US including pork, nuts, wine and fruits as a response to the US tariffs on steel and aluminium. (Newswires/Twitter)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-asia-pac-opening-news-chinese-official-pmis-beat-expectations-china-imposes-tariffs-on-us-food-products-in-response-to-steel-and-aluminium-tariffs-01-04-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-04-02 05:30:00",
+        "gmt_time": "2018-04-01 21:30:00"
+    },
+    {
+        "id": 615076,
+        "updated_sequence": 800258,
+        "published_at": {
+            "unix": 1522616400,
+            "text": "2018-04-01 22:00:00 +0100",
+            "iso_8601": "2018-04-01T21:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1522616400,
+            "text": "2018-04-01 22:00:00 +0100",
+            "iso_8601": "2018-04-01T21:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-29-03-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-04-02 05:00:00",
+        "gmt_time": "2018-04-01 21:00:00"
+    }
+]

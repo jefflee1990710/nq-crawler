@@ -1,0 +1,274 @@
+[
+    {
+        "id": 897454,
+        "updated_sequence": 2006457,
+        "published_at": {
+            "unix": 1574639820,
+            "text": "2019-11-24 23:57:00 +0000",
+            "iso_8601": "2019-11-24T23:57:00Z"
+        },
+        "updated_at": {
+            "unix": 1574639845,
+            "text": "2019-11-24 23:57:25 +0000",
+            "iso_8601": "2019-11-24T23:57:25Z"
+        },
+        "subject": "Goldman Sachs raises South Korean stocks to overweight",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "goldman-sachs-raises-south-korean-stocks-to-overweight-24-11-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-11-25 07:57:00",
+        "gmt_time": "2019-11-24 23:57:00"
+    },
+    {
+        "id": 897453,
+        "updated_sequence": 2006454,
+        "published_at": {
+            "unix": 1574638380,
+            "text": "2019-11-24 23:33:00 +0000",
+            "iso_8601": "2019-11-24T23:33:00Z"
+        },
+        "updated_at": {
+            "unix": 1574638757,
+            "text": "2019-11-24 23:39:17 +0000",
+            "iso_8601": "2019-11-24T23:39:17Z"
+        },
+        "subject": "PRE-MARKET JAPANESE AND SOUTH KOREAN STOCK NEWS: Kirin Holdings (2503 JT) plans to sell Australia dairy unit to Mengniu for JPY 45.6bln",
+        "content": "<p>JAPAN</p><p>Kirin Holdings (2503 JT) - Co. plans to sell Australia dairy unit to Mengniu Dairy (2319 HK) for JPY 45.6bln. (Nikkei)</p><p>SoftBank (9984 JT) - WeWork’s Japan unit is one of the 2 markets where the Co. is profitable and which SoftBank plans to utilize to assist the Co.’s turnaround. (Newswires)</p><p>Unizo Holdings (3258 JT) - Co. will continue discussions with Blackstone on tender offer, while it is also in discussions with 4 additional foreign funds and 2 domestic companies. (Newswires)</p><p>JGBs - Japan is said to be mulling raising its 40-year bond issuances for FY20. (Newswires)</p><p>Geopolitics - South Korea will reportedly tell Japan it will not end the GSOMIA intelligence sharing pact, while there were separate comments from Japanese Trade Minister Motegi that there is no change to export restrictions on materials for South Korea and that it will not immediately reinstate the country back on its white list. (Newswires)</p><p>Other News - Japanese Monthly Economic Report maintained its overall assessment that the domestic economy is recovering at a moderate pace despite weak exports. (Newswires)</p><p>&nbsp;</p><p>SOUTH KOREA</p><p>LG Electronics (066570 KS) - Co.’s OLED 8K TV has been picked as one of the major inventions for this year in Time magazine. (Yonhap)</p><p>Geopolitics - North Korea Vice Foreign Minister says US will be held responsible if the opportunity for diplomacy over Korean peninsula disappears. (Newswires)</p><p>Other News - South Korea Vice Finance Minister Kim said they will take steps to stabilize financial and FX markets if required, while Kim added they see limited impact from the Hong Kong situation. (Newswires)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-japanese-and-south-korean-stock-news-kirin-holdings-2503-jt-plans-to-sell-australia-dairy-unit-to-mengniu-for-jpy-45-6bln-24-11-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-11-25 07:33:00",
+        "gmt_time": "2019-11-24 23:33:00"
+    },
+    {
+        "id": 897452,
+        "updated_sequence": 2006449,
+        "published_at": {
+            "unix": 1574636640,
+            "text": "2019-11-24 23:04:00 +0000",
+            "iso_8601": "2019-11-24T23:04:00Z"
+        },
+        "updated_at": {
+            "unix": 1574636893,
+            "text": "2019-11-24 23:08:13 +0000",
+            "iso_8601": "2019-11-24T23:08:13Z"
+        },
+        "subject": "US equity futures begin the week with mild gains after China released fresh guidelines to increase penalties on IP theft and as protesters eased tensions in Hong Kong for elections where pro-Democracy candidates are seen to have notched a significant win",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "us-equity-futures-begin-the-week-with-mild-gains-after-china-released-fresh-guidelines-to-increase-penalties-on-ip-theft-and-as-protesters-eased-tensions-in-hong-kong-for-elections-where-pro-democracy-candidates-are-seen-to-have-notched-a-si-24-11-2019",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-11-25 07:04:00",
+        "gmt_time": "2019-11-24 23:04:00"
+    },
+    {
+        "id": 897451,
+        "updated_sequence": 2006446,
+        "published_at": {
+            "unix": 1574636580,
+            "text": "2019-11-24 23:03:00 +0000",
+            "iso_8601": "2019-11-24T23:03:00Z"
+        },
+        "updated_at": {
+            "unix": 1574636638,
+            "text": "2019-11-24 23:03:58 +0000",
+            "iso_8601": "2019-11-24T23:03:58Z"
+        },
+        "subject": "Carl Icahn is thought to be seeking control Occidental Petroleum (OXY) board",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "carl-icahn-is-thought-to-be-seeking-control-occidental-petroleum-oxy-board-24-11-2019",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-11-25 07:03:00",
+        "gmt_time": "2019-11-24 23:03:00"
+    },
+    {
+        "id": 897450,
+        "updated_sequence": 2006443,
+        "published_at": {
+            "unix": 1574635860,
+            "text": "2019-11-24 22:51:00 +0000",
+            "iso_8601": "2019-11-24T22:51:00Z"
+        },
+        "updated_at": {
+            "unix": 1574636186,
+            "text": "2019-11-24 22:56:26 +0000",
+            "iso_8601": "2019-11-24T22:56:26Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIAN STOCK NEWS: Westpac chairman Maxsted put CEO Hartzer on notice that he could be fired if the AUSTRAC scandal continues to destabilise the reputation of the bank",
+        "content": "<p>Bank of Queensland (BOQ AT) - Co. announces AUD 275mln capital raise. (Newswires)</p><p>Caltex Australia (CTX AT) - Co. is planning to IPO 49% of 250 core convenience retail freehold sites expected in H1 FY20. (Newswires)</p><p>CIMIC (CIM AT) - Co. CPB Contractors unit named preferred contractor for Perth Metronet project. (Newswires)</p><p>Galaxy Resources (GXY AT) - Co. CEO said may sell its product from Sal de Vida in Argentina at a 25%-30% discount to the benchmark price. (Newswires)</p><p>Liquefied Natural Gas Ltd (LNG AT) - Co. announced the Magnolia EPC contract has been extended. (Newswires)</p><p>Nufarm (NUF AT) - Co. guides Q1 EBITDA significantly lower Y/Y and notes difficult start to FY20. (Newswires)</p><p>Resolute Mining (RSG AT) - Co. is to develop hybrid modular power station with Aggreko. (Newswires)</p><p>Saracen Mineral Holdings (SAR AT) - Co. announces super pit purchase is now unconditional and is to close on November 29th. (Newswires)</p><p>Sigma Pharmaceuticals (SIG AT) - Co. signs first line agreement with My Chemist/Chemist Warehouse Group for FMCG products. (Newswires)</p><p>Silver Lake Resources (SLR AT) - Co. guides FY20 sales 215k-230k ounces at average AISC AUD 1375-1450/oz. (Newswires)</p><p>Telstra (TLS AT) and New Corp (NWS AT) - Foxtel successfully locked in USD 1.1bln of debt refinancing. (The Australian)</p><p>Westpac (WBC AT) - Westpac chairman Maxsted put CEO Hartzer on notice that he could be fired if the AUSTRAC scandal continues to destabilise the reputation of the bank. (AFR)</p><p>Other News - Australian authorities reportedly believe China attempted to plant its candidate in federal Parliament, while there were also comments from Treasurer Frydenberg that he was disturbed by alleged efforts of China to infiltrate politics in Australia, Hong Kong and Taiwan. (Newswires/SMH)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-australian-stock-news-westpac-chairman-maxsted-put-ceo-hartzer-on-notice-that-he-could-be-fired-if-the-austrac-scandal-continues-to-destabilise-the-reputation-of-the-bank-24-11-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-11-25 06:51:00",
+        "gmt_time": "2019-11-24 22:51:00"
+    },
+    {
+        "id": 897449,
+        "updated_sequence": 2006438,
+        "published_at": {
+            "unix": 1574634180,
+            "text": "2019-11-24 22:23:00 +0000",
+            "iso_8601": "2019-11-24T22:23:00Z"
+        },
+        "updated_at": {
+            "unix": 1574634330,
+            "text": "2019-11-24 22:25:30 +0000",
+            "iso_8601": "2019-11-24T22:25:30Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASES CALENDAR NOW AVAILABLE IN THE RESEARCH SECTION: Highlights include Japanese Leading and Coincident Index, Singapore CPI",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asian-daily-economic-releases-calendar-now-available-in-the-research-section-highlights-include-japanese-leading-and-coincident-index-singapore-cpi-24-11-2019",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-11-25 06:23:00",
+        "gmt_time": "2019-11-24 22:23:00"
+    },
+    {
+        "id": 897260,
+        "updated_sequence": 2006425,
+        "published_at": {
+            "unix": 1574632800,
+            "text": "2019-11-24 22:00:00 +0000",
+            "iso_8601": "2019-11-24T22:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1574632800,
+            "text": "2019-11-24 22:00:00 +0000",
+            "iso_8601": "2019-11-24T22:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-21-11-2019",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-11-25 06:00:00",
+        "gmt_time": "2019-11-24 22:00:00"
+    },
+    {
+        "id": 897448,
+        "updated_sequence": 2006521,
+        "published_at": {
+            "unix": 1574632800,
+            "text": "2019-11-24 22:00:00 +0000",
+            "iso_8601": "2019-11-24T22:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1574649838,
+            "text": "2019-11-25 02:43:58 +0000",
+            "iso_8601": "2019-11-25T02:43:58Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p><strong>ASIA-PAC</strong></p><p>US President Trump said the China trade deal is coming along very well, while he later commented that an announcement will come \"very soon\" regarding the Hong Kong bill. (Newswires)</p><p>US President Trump said a trade deal with China is potentially very close and reportedly told China President Xi that this \"cannot be an even deal\", while he reiterated China wants to make a deal more than US and that China has not made huge agricultural purchases. US President Trump said Hong Kong democracy is a complicating factor and responded the US have to stand with Hong Kong but he is also standing with President Xi and that he wants them to work it out, when asked if he will sign the Hong Kong bill. Furthermore, Trump claimed that the only reason why troops are not going into Hong Kong is because of the US-China trade talks.</p><p>Chinese President Xi said US and China should strengthen communication on strategic issues to avoid misjudgement and that the two nations should push bilateral relations on the right path of development. (Newswires)</p><p>US National Security Adviser O’Brien said an initial trade agreement with China is still possible before year-end although he added that US President Trump will not turn a blind eye to what is happening in Hong Kong or the South China Sea. (Newswires)</p><p>Senior White House Official said the Dec. 15th additional 15% tariffs are currently scheduled to go into effect on Chinese imports but added that things could change with potential good will &amp; a presidential decision if there is a phase one trade deal. (Fox)</p><p>FCC voted 5-0 to ban US rural carrier customers from using US government funds to purchase Huawei and ZTE equipment and services. In related news, Huawei is said to believe the FCC order is unlawful as FCC singled out China tech giant based on national security but provides no evidence that Huawei poses a security risk according to CNBC's Yoon. (Newswires/Twitter)</p><p>China is to increase penalties related to IP theft and will examine lowering the threshold for violators according to fresh government guidelines, while reports noted that the promise was vague and local governments will have the responsibility of implementing the changes. (Newswires)</p><p>China's Global Times tweeted that China wants to work for a phase-one trade deal with the US on the basis of mutual respect and equality, while it added that some tariffs rollback is an important condition for a deal. (Newswires)</p><p>Hong Kong high court suspended the mask ban ruling for 7 days. In other news, Pro-democracy candidates reportedly had a significant early lead following a record turnout in Hong Kong District Council elections and it was also reported that protests were quiet and protesters decided to ease tensions heading into the election to avoid the risk of a cancellation. (Newswires)</p><p>&nbsp;</p><p><strong>UK/EU</strong></p><p>Datapraxis analysis on YouGov survey projects UK Conservative party is set for a majority win with 349 seats. (Mirror)</p><p>Opinium UK election poll showed Conservatives at 47% (+3), Labour 28% (Unch.), Lib Dems 12% (-2) and Brexit Party 3% (-3) taken November 20th-22nd. (Guardian)</p><p>Panelbase UK election poll: Conservatives 42% (-1), Labour 32% (+2). (Newswires)</p><p>UK PM Johnson launched the Conservative party manifesto in which he pledged to deliver Brexit by January 31 and spend GBP 100bln of infrastructure spending. (Politico)</p><p>UK opposition Labour Party leader Corbyn said he would stay neutral in a 2nd Brexit referendum in an attempt to rally support and carry out the will of the people. (Newswires)</p><p>ECB President Lagarde said monetary policy could achieve its goal faster and with fewer side effects if other policies were supporting growth along it and that monetary policy will continue to support the economy as well as respond to future risks in-line with our price stability mandate. Lagarde added we will continuously monitor side effects of policies and that monetary policy will undergo a strategic review due to begin in the near future. (Newswires)</p><p>Fitch affirmed Austria at 'AA+'; Outlook Positive and affirmed Portugal at 'BBB', Outlook Positive. (Newswires)</p><ul><li>UK Flash Manufacturing PMI (Nov) 48.3 vs. Exp. 49 (Prev. 49.6)</li><li>UK Flash Services PMI (Nov) 48.6 vs. Exp. 50 (Prev. 50)</li><li>UK Flash Composite PMI (Nov) 48.5 (Prev. 50)</li><li>German Markit Manufacturing PMI (Nov P) 43.8 vs. Exp. 42.9 (Prev. 42.1)</li><li>German Markit Services PMI (Nov P) 51.3 vs. Exp. 52 (Prev. 51.6)</li><li>German Markit Composite PMI (Nov P) 49.2 vs. Exp. 49.4 (Prev. 48.9)</li></ul><p>&nbsp;</p><p><strong>FX</strong></p><p>Canadian Retail Sales (Sep) M/M -0.1% vs. Exp. -0.1% (Prev. -0.1%, Rev. 0.1%). (Newswires) Canadian Retail Sales Ex-Autos (Sep) M/M 0.2% vs. Exp. 0.1% (Prev. -0.2%)&nbsp;</p><p>&nbsp;</p><p><strong>COMMODITIES</strong></p><p>Baker Hughes Rig Count (22 Nov): Oil rigs -3 at 671, natgas rigs unchanged at 129, total rigs -3 at 803. (Newswires)</p><p>&nbsp;</p><p><strong>GEOPOLITICS</strong></p><p>US have imposed sanctions on Iran's Information Minister Azari-Jahromi. (Newswires)</p><p>&nbsp;</p><p><strong>US</strong></p><ul><li>US Markit Manufacturing PMI (Nov P) 52.2 vs. Exp. 51.5 (Prev. 51.3). (Newswires)</li><li>US Markit Services PMI (Nov P) 51.6 vs. Exp. 51 (Prev. 50.6)</li><li>US Markit Composite PMI (Nov P) 51.9 (Prev. 50.9)</li></ul><p>&nbsp;</p><p><strong>MARKET RECAP</strong></p><p>Of note for Semiconductors, RBC highlighted comments from Micron’s (MU) CEO, who spoke on the DRAM market noting “What’s happening now is that the demand growth is actually greater than the supply growth. As a result, the supply and demand balance is starting to improve.” The CEO added “There is still excessive inventory in the DRAM industry and producers, but the inventory is coming down fast”. Tesla (TSLA) fell over 5% after it revealed its electric pickup truck with a starting price of USD 39,900. The truck was made from stainless steel, massive tires and armoured glass windows, resembling an armoured truck. The pricing is lower than initially thought, but the report notes its design could limit sales. CEO Musk announced other versions will be priced at USD 49,900 and USD 69,900 with the latter offering a range of more than 500 miles. Microsoft (MSFT) were granted a license from the US to export mass-market software to Huawei. Yum! Brands Inc (YUM) authorised a USD 2bln share repurchase programme through to the end of June 2021. Universal Display (OLED) were hit on a downgrade from Cowen. Elsewhere, US President Trump says his administration will come up with an age for e-cigarette purchases. On drugmakers, President Trump said he intends to fight high drug prices, and his administration will soon release a plan to allow states to import prescription drugs. L Brands (LB) reportedly mulling strategic alternatives, The Deal reported. S&amp;P 500 0.2% at 3110, NASDAQ-100 0.1% at 8272, Dow Jones 0.4% at 27874.</p><p>The T-Plex is lower for the second consecutive week; today's losses was inspired by upside in the equity complex, with hints from US President Trump that a trade deal with China is \"potentially very close\". The data slate was also supportive, with a better than expected US Markit PMI, while University of Michigan consumer sentiment data was revised higher, boding well CB gauge of consumer confidence, released next week. Volumes were light, and at settlement, the curve was mixed, with the 2s through 7s higher yields, 10s roughly unchanged, while 30s yields were slightly lower; major curve spreads, however, narrowed by around 1-2bps. US T-note futures (Z9) settled 1 tick lower at 129-14+.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-asia-pac-opening-news-24-11-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-11-25 06:00:00",
+        "gmt_time": "2019-11-24 22:00:00"
+    }
+]

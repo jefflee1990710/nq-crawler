@@ -1,0 +1,546 @@
+[
+    {
+        "id": 884650,
+        "updated_sequence": 1919454,
+        "published_at": {
+            "unix": 1567382280,
+            "text": "2019-09-02 00:58:00 +0100",
+            "iso_8601": "2019-09-01T23:58:00Z"
+        },
+        "updated_at": {
+            "unix": 1567382386,
+            "text": "2019-09-02 00:59:46 +0100",
+            "iso_8601": "2019-09-01T23:59:46Z"
+        },
+        "subject": "Toshiba (6502 JT) completes exit from US LNG business and will book a JPY 90bln charge in FY20 related to the exit",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "toshiba-6502-jt-completes-exit-from-us-lng-business-and-will-book-a-jpy-90bln-charge-in-fy20-related-to-the-exit-01-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-02 07:58:00",
+        "gmt_time": "2019-09-01 23:58:00"
+    },
+    {
+        "id": 884646,
+        "updated_sequence": 1919441,
+        "published_at": {
+            "unix": 1567381800,
+            "text": "2019-09-02 00:50:00 +0100",
+            "iso_8601": "2019-09-01T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1567381897,
+            "text": "2019-09-02 00:51:37 +0100",
+            "iso_8601": "2019-09-01T23:51:37Z"
+        },
+        "subject": "Japanese Capital Spending (Q2) 1.9% vs. Exp. 1.7% (Prev. 6.1%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-capital-spending-q2-1-9-vs-exp-1-7-prev-6-1-01-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-02 07:50:00",
+        "gmt_time": "2019-09-01 23:50:00"
+    },
+    {
+        "id": 884649,
+        "updated_sequence": 1919450,
+        "published_at": {
+            "unix": 1567381800,
+            "text": "2019-09-02 00:50:00 +0100",
+            "iso_8601": "2019-09-01T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1567381926,
+            "text": "2019-09-02 00:52:06 +0100",
+            "iso_8601": "2019-09-01T23:52:06Z"
+        },
+        "subject": "Japanese Company Sales (Q2) Y/Y 0.4% (Prev. 3.0%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-company-sales-q2-y-y-0-4-prev-3-0-01-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-02 07:50:00",
+        "gmt_time": "2019-09-01 23:50:00"
+    },
+    {
+        "id": 884648,
+        "updated_sequence": 1919447,
+        "published_at": {
+            "unix": 1567381800,
+            "text": "2019-09-02 00:50:00 +0100",
+            "iso_8601": "2019-09-01T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1567381911,
+            "text": "2019-09-02 00:51:51 +0100",
+            "iso_8601": "2019-09-01T23:51:51Z"
+        },
+        "subject": "Japanese Company Profits (Q2) Y/Y -12.0% (Prev. 10.3%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-company-profits-q2-y-y-12-0-prev-10-3-01-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-02 07:50:00",
+        "gmt_time": "2019-09-01 23:50:00"
+    },
+    {
+        "id": 884647,
+        "updated_sequence": 1919444,
+        "published_at": {
+            "unix": 1567381800,
+            "text": "2019-09-02 00:50:00 +0100",
+            "iso_8601": "2019-09-01T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1567381899,
+            "text": "2019-09-02 00:51:39 +0100",
+            "iso_8601": "2019-09-01T23:51:39Z"
+        },
+        "subject": "Japanese Capital Spending Ex. Software (Q2)\t1.5% vs. Exp. 2.4% (Prev. 6.9%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-capital-spending-ex-software-q2-1-5-vs-exp-2-4-prev-6-9-01-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-02 07:50:00",
+        "gmt_time": "2019-09-01 23:50:00"
+    },
+    {
+        "id": 884644,
+        "updated_sequence": 1919433,
+        "published_at": {
+            "unix": 1567381020,
+            "text": "2019-09-02 00:37:00 +0100",
+            "iso_8601": "2019-09-01T23:37:00Z"
+        },
+        "updated_at": {
+            "unix": 1567381458,
+            "text": "2019-09-02 00:44:18 +0100",
+            "iso_8601": "2019-09-01T23:44:18Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIA, JAPANESE AND SOUTH KOREAN STOCK NEWS: CIMIC and CPB unit receives projects with a total value of more than AUD 500mln, Telstra updates guidance",
+        "content": "<p>AUSTRALIA</p><p>Abacus Property (ABP AT) - Co. and Charter Hall (CHC AT) will acquire Auirel. (Newswires)</p><p>Bank of Queensland (BOQ AT) - Co. interim CEO Anthony Rose is to step down and George Frazis is named as next CEO, while the Co. also sells its debtor finance business. (Newswires)</p><p>Brambles (BXB AT) - Co. announces AUD 1.65bln share buyback and AUD 0.19/shr special dividend. (Newswires)</p><p>CIMIC (CIM AT) - Co. receives AUD 195mln road transport project from Victorian Government, while unit CPB Contractors wins AUD 323mln Western Sydney Airport project (Newswires)</p><p>Incitec Pivot (IPL AT) - Co. revises FY19 EBIT to AUD 285mln-295mln from AUD 370mln-415mln, announces it is commencing strategic review on Fertilisers Asia Pacific business to assess options including potential sales, demerger, retaining business and continuing to invest for growth. (Newswires)</p><p>Telstra (TLS AT) - Co. guides FY20 underlying EBITDA of AUD 7.4bln-7.9bln (Prev. AUD 7.3bln-7.8bln), rev. AUD 25.3bln-27.3bln (Prev. AUD 25.7bln-27.7bln), while it no longer sees FY20 to be year of peak NBN headwinds and expects it to occur for FY21. (Newswires)&nbsp;</p><p>JAPAN</p><p>Toshiba (6502 JT) - Toshiba Memory is to buy SSD business from Lite-On Technology (2301 TT) for USD 165mln. (Newswires)</p><p>Other News - Japan is mulling tax break on tender offers paid in shares. (Newswires)</p><p>Bond purchases - BoJ announced its bond buying intentions for September in which it reduced its intended purchase amount of 5yr-10yr JGBs to JPY 250bln-550bln from JPY 300bln-600bln on 4 occasions for the month. (Newswires)</p><p>&nbsp;</p><p>SOUTH KOREA</p><p>Other news South Korea is expected to put into effect its decision to remove Japan's trusted trade partner status this month. (Yonhap)</p><p>South Korea President Moon is said to be pushing for an early handover of the 26 US military bases in South Korea. (Newswires)</p><p>Geopolitics - US Treasury Department issued fresh sanctions on 2 individuals, 3 entities and a vessel related to North Korea infractions. (Newswires)</p><p>Data Recap&nbsp;</p><ul><li>South Korea Trade Balance (USD)(Aug ) 1.7B (Prev. 2.4B). (Newswires)</li><li>South Korea Exports (Aug) -13.6% vs. Exp. -13.6% (Prev. -11.0%)</li><li>South Korea Imports (Aug) -4.2% vs. Exp. -4.0% (Prev. -2.7%)</li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-australia-japanese-and-south-korean-stock-news-cimic-and-cpb-unit-receives-projects-with-a-total-value-of-more-than-aud-500mln-telstra-updates-guidance-01-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-02 07:37:00",
+        "gmt_time": "2019-09-01 23:37:00"
+    },
+    {
+        "id": 884643,
+        "updated_sequence": 1919426,
+        "published_at": {
+            "unix": 1567378860,
+            "text": "2019-09-02 00:01:00 +0100",
+            "iso_8601": "2019-09-01T23:01:00Z"
+        },
+        "updated_at": {
+            "unix": 1567378974,
+            "text": "2019-09-02 00:02:54 +0100",
+            "iso_8601": "2019-09-01T23:02:54Z"
+        },
+        "subject": "EU chief negotiator Barnier says he is not optimistic about averting a no-deal scenario in opinion piece",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Telegraph ",
+        "slug": "eu-chief-negotiator-barnier-says-he-is-not-optimistic-about-averting-a-no-deal-scenario-in-opinion-piece-01-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 38,
+            "name": "Brexit"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-02 07:01:00",
+        "gmt_time": "2019-09-01 23:01:00"
+    },
+    {
+        "id": 884642,
+        "updated_sequence": 1919423,
+        "published_at": {
+            "unix": 1567378800,
+            "text": "2019-09-02 00:00:00 +0100",
+            "iso_8601": "2019-09-01T23:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1567378865,
+            "text": "2019-09-02 00:01:05 +0100",
+            "iso_8601": "2019-09-01T23:01:05Z"
+        },
+        "subject": "Australian CBA Manufacturing PMI (Aug F) 50.9 (Prev. 51.3)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "australian-cba-manufacturing-pmi-aug-f-50-9-prev-51-3-01-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-02 07:00:00",
+        "gmt_time": "2019-09-01 23:00:00"
+    },
+    {
+        "id": 884637,
+        "updated_sequence": 1919408,
+        "published_at": {
+            "unix": 1567377660,
+            "text": "2019-09-01 23:41:00 +0100",
+            "iso_8601": "2019-09-01T22:41:00Z"
+        },
+        "updated_at": {
+            "unix": 1567377726,
+            "text": "2019-09-01 23:42:06 +0100",
+            "iso_8601": "2019-09-01T22:42:06Z"
+        },
+        "subject": "Boeing (BA) 737 MAX could be grounded into December amid new delays, according to WSJ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "WSJ",
+        "slug": "boeing-ba-737-max-could-be-grounded-into-december-amid-new-delays-according-to-wsj-01-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-02 06:41:00",
+        "gmt_time": "2019-09-01 22:41:00"
+    },
+    {
+        "id": 884636,
+        "updated_sequence": 1919403,
+        "published_at": {
+            "unix": 1567377120,
+            "text": "2019-09-01 23:32:00 +0100",
+            "iso_8601": "2019-09-01T22:32:00Z"
+        },
+        "updated_at": {
+            "unix": 1567377212,
+            "text": "2019-09-01 23:33:32 +0100",
+            "iso_8601": "2019-09-01T22:33:32Z"
+        },
+        "subject": "UK PM Johnson reportedly issued ultimatum to former Chancellor Hammond and other Tory rebels that they would be expelled from the party if they join forces with Labour leader Corbyn to halt a no-deal Brexit",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Telegraph ",
+        "slug": "uk-pm-johnson-reportedly-issued-ultimatum-to-former-chancellor-hammond-and-other-tory-rebels-that-they-would-be-expelled-from-the-party-if-they-join-forces-with-labour-leader-corbyn-to-halt-a-no-deal-brexit-01-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 38,
+            "name": "Brexit"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-02 06:32:00",
+        "gmt_time": "2019-09-01 22:32:00"
+    },
+    {
+        "id": 884634,
+        "updated_sequence": 1919397,
+        "published_at": {
+            "unix": 1567376820,
+            "text": "2019-09-01 23:27:00 +0100",
+            "iso_8601": "2019-09-01T22:27:00Z"
+        },
+        "updated_at": {
+            "unix": 1567376889,
+            "text": "2019-09-01 23:28:09 +0100",
+            "iso_8601": "2019-09-01T22:28:09Z"
+        },
+        "subject": "MTR (66 HK) suspends some rail services amid protests",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "mtr-66-hk-suspends-some-rail-services-amid-protests-01-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-02 06:27:00",
+        "gmt_time": "2019-09-01 22:27:00"
+    },
+    {
+        "id": 884633,
+        "updated_sequence": 1919405,
+        "published_at": {
+            "unix": 1567376640,
+            "text": "2019-09-01 23:24:00 +0100",
+            "iso_8601": "2019-09-01T22:24:00Z"
+        },
+        "updated_at": {
+            "unix": 1567377276,
+            "text": "2019-09-01 23:34:36 +0100",
+            "iso_8601": "2019-09-01T22:34:36Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASES CALENDAR NOW AVAILABLE IN THE RESEARCH SECTION: Highlights include New Zealand Terms of Trade Index, Australia Inflation Gauge and Company Profits, Chinese Caixin Manufacturing PMI; US, Canada and India are closed",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asian-daily-economic-releases-calendar-now-available-in-the-research-section-highlights-include-new-zealand-terms-of-trade-index-australia-inflation-gauge-and-company-profits-chinese-caixin-manufacturing-pmi-us-canada-and-india-are-clos-01-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-02 06:24:00",
+        "gmt_time": "2019-09-01 22:24:00"
+    },
+    {
+        "id": 884632,
+        "updated_sequence": 1919391,
+        "published_at": {
+            "unix": 1567375440,
+            "text": "2019-09-01 23:04:00 +0100",
+            "iso_8601": "2019-09-01T22:04:00Z"
+        },
+        "updated_at": {
+            "unix": 1567375567,
+            "text": "2019-09-01 23:06:07 +0100",
+            "iso_8601": "2019-09-01T22:06:07Z"
+        },
+        "subject": "S&P futures are lower by around 1% shortly after the reopen of electronic trade after the fresh round of US-China tariffs took effect and following the disappointing Chinese Manufacturing PMI data over the weekend",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "s-p-futures-are-lower-by-around-1-shortly-after-the-reopen-of-electronic-trade-after-the-fresh-round-of-us-china-tariffs-took-effect-and-following-the-disappointing-chinese-manufacturing-pmi-data-over-the-weekend-01-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-02 06:04:00",
+        "gmt_time": "2019-09-01 22:04:00"
+    },
+    {
+        "id": 884631,
+        "updated_sequence": 1919388,
+        "published_at": {
+            "unix": 1567375200,
+            "text": "2019-09-01 23:00:00 +0100",
+            "iso_8601": "2019-09-01T22:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1567375328,
+            "text": "2019-09-01 23:02:08 +0100",
+            "iso_8601": "2019-09-01T22:02:08Z"
+        },
+        "subject": "German Chancellor Merkel's CDU/CSU coalition retains control in Saxony and Brandenburg regional elections although lost seats to the far-right which made significant gains in both",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "german-chancellor-merkel-s-cdu-csu-coalition-retains-control-in-saxony-and-brandenburg-regional-elections-although-lost-seats-to-the-far-right-which-made-significant-gains-in-both-01-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-02 06:00:00",
+        "gmt_time": "2019-09-01 22:00:00"
+    },
+    {
+        "id": 884630,
+        "updated_sequence": 1919435,
+        "published_at": {
+            "unix": 1567374780,
+            "text": "2019-09-01 22:53:00 +0100",
+            "iso_8601": "2019-09-01T21:53:00Z"
+        },
+        "updated_at": {
+            "unix": 1567381497,
+            "text": "2019-09-02 00:44:57 +0100",
+            "iso_8601": "2019-09-01T23:44:57Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p><strong>ASIA-PAC</strong></p><p>The new 15% US tariffs on USD 112bln of Chinese goods went into effect, while China Customs Tariff Commission of the State Council also clarified the first round of tariff increase on USD 75bln of US goods took effect. (Newswires)</p><p>There were initial source reports that China’s central government rejected Hong Kong Chief Executive Carrie Lam's proposal to withdraw the extradition bill and ordered her not to yield to any of the protesters' other demands. However, China Global Times Editor later tweeted that this was fake news and aims to sow discord between Beijing and HKSAR government. (Newswires/Twitter)</p><p>Hong Kong activists Joshua Wong and Agnes Chow were released. (Newswires)</p><ul><li>Chinese Manufacturing PMI (Aug) 49.5 vs. Exp. 49.7 (Prev. 49.7). (Newswires)</li><li>Chinese Non-Manufacturing PMI (Aug) 53.8 vs. Exp. 53.6 (Prev. 53.7)</li><li>Chinese Composite PMI (Aug) 53.0 (Prev. 53.1)</li></ul><p>&nbsp;</p><ul><li>South Korea Trade Balance (USD)(Aug ) 1.7B (Prev. 2.4B). (Newswires)</li><li>South Korea Exports (Aug) -13.6% vs. Exp. -13.6% (Prev. -11.0%)</li><li>South Korea Imports (Aug) -4.2% vs. Exp. -4.0% (Prev. -2.7%)</li></ul><p>&nbsp;</p><p><strong>UK/EU</strong></p><p>UK PM Johnson said there is movement under the keel in EU negotiations and as such it is vital that the EU does not think that this may be blocked in parliament, while he added that we have greatly strengthened our position on the EU by preparing for a no deal Brexit, according to ITV's Brand. (Twitter)</p><p>A Scottish Judge rejected a bid for an interim block on UK PM Johnson's decision to suspend parliament ahead of the full hearing set for this Tuesday. (BBC)</p><p>EU Council President Tusk said the main problem with Brexit is the internal situation in Britain. (Newswires)</p><p>Italian 5SM Leader Di Maio said his party’s backing for new government depends on its programme being accepted and that taxes need cutting to lift salaries. Di Maio added the VAT hike must be stopped and number of parliamentarians must be reduced, while Italy’s 5SM party lawmakers stated a solution will be found on forming a government. (Newswires)</p><p>Fitch affirmed Switzerland at 'AAA'; Outlook Stable and affirmed Norway at 'AAA'; Outlook Stable. (Newswires)</p><ul><li>EU HICP Flash (Aug) Y/Y 1.0% vs. Exp. 1.0% (Prev. 1.0%). (Newswires)</li></ul><p>&nbsp;</p><p><strong>FX</strong></p><ul><li>Canadian GDP Annualized (Q2) 3.7% vs. Exp. 3.0% (Prev. 0.4%, Rev. 0.5%). (Newswires)</li></ul><p>&nbsp;</p><p><strong>COMMODITIES</strong></p><p>Baker Hughes oil rig count -12 at 742 and natgas unchanged at 162, while total -12 at 904; Oil drillers cut rigs for the 8th week in 9. (Newswires)</p><p>US June crude production fell 33k BPD to 12.082mln BPD (Prev. 12.115mln bpd), according to EIA. (Newswires)</p><p>Russian Energy Minister Novak said Russia's oil cuts in August will be slightly below the levels agreed with OPEC+ but is aiming for full compliance with the deal&nbsp; in-spite of the slight output increase in August, while he added that OPEC+ are to discuss the deal and market situation at monitoring committee on September 12th. (Newswires)&nbsp;</p><p>&nbsp;</p><p><strong>GEOPOLITICS</strong></p><p>Iran has reportedly gone further beyond the nuclear deals limit on stock of enriched uranium as expected with its enriched uranium at 4.5% vs. 3.67% nuclear deal limit, according to an IAEA report. (Newswires)</p><p>The previously seized Iranian tanker which was previously known as Grace 1 is preparing to offload its oil to Syria-bound ships which reports noted could undermine European efforts to broker US-Iran talks. (WSJ)</p><p>US State Department said it is monitoring reports of military buildup near the administrative boundary line of the Russian-occupied Georgian region of South Ossetia. (Newswires)&nbsp;</p><p>&nbsp;</p><p><strong>US</strong></p><p>US President Trump commented on EUR depreciating vs. USD, which he stated gives European exporters an advantage and reiterated his criticism on the Fed for inaction. (Newswires)</p><ul><li>US Personal Income (Jul) M/M 0.1% vs. Exp. 0.3% (Prev. 0.4%, Rev. 0.5%). (Newswires)</li><li>US Consumption (Jul) M/M 0.6% vs. Exp. 0.5% (Prev. 0.3%)</li><li>US Core PCE Price Index (Jul) M/M 0.2% vs. Exp. 0.2% (Prev. 0.2%)</li><li>US Core PCE Price Index (Jul) Y/Y 1.6% vs. Exp. 1.6% (Prev. 1.6%)</li></ul><p>&nbsp;</p><p><strong>MARKET RECAP</strong></p><p>Tesla (TSLA) outperformed on the announcement China had given the automaker tariff exemptions. Ulta Beauty (ULTA) dived lower on the open after a poor earnings report and pessimistic guidance, citing headwinds in the US cosmetic sector. Dell (DELL) wooed investors with a large beat on EPS, in addition to raised guidance. Campbell Soup (CPB) simmered higher after beating top- and bottom-line estimates. DuPont (DD) traded at the top end of the S&amp;P, benefitting from an upgrade at BNP Paribas. Cooper Companies’ (COO) miss on revenue and lower guidance sent the stock lower. Boeing (BA) were higher on the day helping the DJI outperform other indices. The stock price was rather choppy, however, amid reports from the FAA that the panel analysing the 737 MAX certification is taking additional time. Gains were also capped on the name as United Airlines (UAL) delayed its return of the infamous Boeing jet back to December 19th. S&amp;P 500 +0.1% at 2926, NASDAQ-100 -0.2% at 7691, Dow Jones 0.2% at 26403.</p><p>The T-Note traded sideways to end the week, with volumes notedly light ahead of the long weekend in the US. Strong data, namely US consumer spending, PCE, and Canadian GDP, did little to induce outflows ahead of a busy data schedule next week, and of course the panned step up of US-China tariffs; however, the largest drop in the forward-looking University of Michigan survey didn’t exactly rock the boat either. At settlement yields were slightly lower between 1-2bps with the curve itself slightly steeper. US T-note (U9) futures settled 3+ ticks higher at 131.01+.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-asia-pac-opening-news-01-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-02 05:53:00",
+        "gmt_time": "2019-09-01 21:53:00"
+    },
+    {
+        "id": 884346,
+        "updated_sequence": 1919377,
+        "published_at": {
+            "unix": 1567371600,
+            "text": "2019-09-01 22:00:00 +0100",
+            "iso_8601": "2019-09-01T21:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1567371600,
+            "text": "2019-09-01 22:00:00 +0100",
+            "iso_8601": "2019-09-01T21:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "<p><a href=\"https://asia.nikkei.com/Business/Companies/Nintendo-to-move-Switch-output-to-Vietnam-as-China-tariffs-loom\">Via Nikkei</a></p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-29-08-2019",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-02 05:00:00",
+        "gmt_time": "2019-09-01 21:00:00"
+    }
+]

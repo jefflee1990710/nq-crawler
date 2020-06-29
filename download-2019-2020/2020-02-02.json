@@ -1,0 +1,448 @@
+[
+    {
+        "id": 906717,
+        "updated_sequence": 2096355,
+        "published_at": {
+            "unix": 1580687400,
+            "text": "2020-02-02 23:50:00 +0000",
+            "iso_8601": "2020-02-02T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1580687609,
+            "text": "2020-02-02 23:53:29 +0000",
+            "iso_8601": "2020-02-02T23:53:29Z"
+        },
+        "subject": "China Daily briefing notes 17205 coronavirus cases and death toll at 361",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>As a reminder, China had reported a total of 11791 coronavirus cases and deaths at 259 as of January 31st,&nbsp;</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1580687609,
+            "text": "2020-02-02 23:53:29 +0000",
+            "iso_8601": "2020-02-02T23:53:29Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "china-daily-briefing-notes-17205-coronavirus-cases-and-death-toll-at-361-02-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-03 07:50:00",
+        "gmt_time": "2020-02-02 23:50:00"
+    },
+    {
+        "id": 906716,
+        "updated_sequence": 2096350,
+        "published_at": {
+            "unix": 1580686920,
+            "text": "2020-02-02 23:42:00 +0000",
+            "iso_8601": "2020-02-02T23:42:00Z"
+        },
+        "updated_at": {
+            "unix": 1580687154,
+            "text": "2020-02-02 23:45:54 +0000",
+            "iso_8601": "2020-02-02T23:45:54Z"
+        },
+        "subject": "PRE-MARKET JAPANESE AND SOUTH KOREAN STOCK NEWS: Corporate Earnings",
+        "content": "<p>JAPAN</p><p>Hitachi (6502 JT) - Co. 9-month net JPY 55.2bln vs. Prev. JPY 82.6bln Y/Y, Co. is to offer JPY 8k/shr for Hitachi High-Technologies. (Newswires)</p><p>Japan Airlines (9201 JT) - Co. 9-month net JPY 76.3bln vs. Prev. JPY 106.6bln Y/Y. (Newswires)</p><p>Kansai Electric Power (9503 JT) - Co. 9-month net JPY 135.9bln vs. Prev. JPY 84.7bln Y/Y. (Newswires)</p><p>KDDI (9433 JT) - Co. 9-month net JPY 530bln vs. Prev. JPY 505.8bln Y/Y. (Newswires)</p><p>Kyushu Electric Power (9508 JT) - Co. 9-month net JPY 1.42bln vs. Prev. JPY 26.7bln Y/Y. (Newswires)</p><p>Mitsubishi Motors (7211 JT) - Co. 9-month net loss JPY 11.8bln vs. Prev. profit JPY 69.2bln Y/Y. (Newswires)</p><p>Nissan (7201 JT) - Co. is said to have drafted contingency plans which means pulling out of Europe and doubling down on the UK in the event of a hard Brexit, although the Co. has denied there is a contingency plan. (Newswires)</p><p>Resona (8308 JT) - Co. 9-month net JPY 106.3bln vs. Prev. JPY 141.1bln Y/Y. (Newswires)</p><p>SoftBank (9984 JT) - WeWork is to appoint Sandeep Mathrani as CEO. (Newswires)</p><p>Sumitomo Chemical (4005 JT) - Co. 9-month net JPY 37.6bln vs. Prev. JPY 89.0bln Y/Y. (Newswires)</p><p>Sumitomo Heavy (6302 JT) - Co. 9-month net JPY 22.9bln vs. Prev. JPY 31.1bln Y/Y. (Newswires)</p><p>TDK (6762 JT) - Co. 9-month net JPY 74.4bln vs. Prev. JPY 63.5bln Y/Y. (Newswires)</p><p>Toyota Tsusho (8015 JT) - Co. 9-month net JPY 116.6bln vs. Prev. JPY 109.8bln Y/Y. (Newswires)</p><p>Yamaha Corp (7951 JT) - Co. unit Yamaha Music will make tender offer for Jeugia. (Newswires)</p><p>&nbsp;</p><p>SOUTH KOREA</p><p>GS Engineering &amp; Construction (006360 KS) - Co. Q4 net KRW 3.6bln vs. Prev. KRW 96.2bln Y/Y. (Newswires)</p><p>Hyundai Motor (005380 KS) - Co. Beijing plant is to halt operation through to February 9th. (Newswires)</p><p>LG Chem (051910 KS) - Co. FY net KRW 376.1bln vs. Prev. KRW 1.52tln Y/Y, rev. KRW 28.6tln vs. Prev. KRW 28.2tln Y/Y, will exit its glass substrate business. (Newswires)</p><p>Samsung Card (029780 KS) - Co. Q4 net KRW 61.4bln vs. Prev. KRW 70.2bln Y/Y. (Newswires)</p><p>Samsung Engineering (028050 KS) - Co. Q4 net KRW 47.2bln vs. Prev. loss KRW 14.5bln Y/Y. (Newswires)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-japanese-and-south-korean-stock-news-corporate-earnings-02-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-03 07:42:00",
+        "gmt_time": "2020-02-02 23:42:00"
+    },
+    {
+        "id": 906715,
+        "updated_sequence": 2096343,
+        "published_at": {
+            "unix": 1580684580,
+            "text": "2020-02-02 23:03:00 +0000",
+            "iso_8601": "2020-02-02T23:03:00Z"
+        },
+        "updated_at": {
+            "unix": 1580684654,
+            "text": "2020-02-02 23:04:14 +0000",
+            "iso_8601": "2020-02-02T23:04:14Z"
+        },
+        "subject": "IFO says Germany ran world's largest current account surplus for 4th consecutive year in 2019",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "ifo-says-germany-ran-world-s-largest-current-account-surplus-for-4th-consecutive-year-in-2019-02-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-03 07:03:00",
+        "gmt_time": "2020-02-02 23:03:00"
+    },
+    {
+        "id": 906714,
+        "updated_sequence": 2096340,
+        "published_at": {
+            "unix": 1580684400,
+            "text": "2020-02-02 23:00:00 +0000",
+            "iso_8601": "2020-02-02T23:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1580684568,
+            "text": "2020-02-02 23:02:48 +0000",
+            "iso_8601": "2020-02-02T23:02:48Z"
+        },
+        "subject": "Australian CoreLogic House PX (Jan) M/M 0.9% (Prev. 1.2%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "australian-corelogic-house-px-jan-m-m-0-9-prev-1-2-02-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-03 07:00:00",
+        "gmt_time": "2020-02-02 23:00:00"
+    },
+    {
+        "id": 906713,
+        "updated_sequence": 2096337,
+        "published_at": {
+            "unix": 1580684340,
+            "text": "2020-02-02 22:59:00 +0000",
+            "iso_8601": "2020-02-02T22:59:00Z"
+        },
+        "updated_at": {
+            "unix": 1580684503,
+            "text": "2020-02-02 23:01:43 +0000",
+            "iso_8601": "2020-02-02T23:01:43Z"
+        },
+        "subject": "IOOF (IFL AT) completes acquisition of ANZ Bank's (ANZ AT) pensions and investment index",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "ioof-ifl-at-completes-acquisition-of-anz-bank-s-anz-at-pensions-and-investment-index-02-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-03 06:59:00",
+        "gmt_time": "2020-02-02 22:59:00"
+    },
+    {
+        "id": 906712,
+        "updated_sequence": 2096345,
+        "published_at": {
+            "unix": 1580683860,
+            "text": "2020-02-02 22:51:00 +0000",
+            "iso_8601": "2020-02-02T22:51:00Z"
+        },
+        "updated_at": {
+            "unix": 1580684994,
+            "text": "2020-02-02 23:09:54 +0000",
+            "iso_8601": "2020-02-02T23:09:54Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIAN STOCK NEWS: EG is thought to be continuing to examine whether to launch a rival takeover bid for Caltex (CTX AT)",
+        "content": "<p>AMP Capital (AMP AT) - Co. appoints acting CFO Georgeson as permanent CFO. (Newswires)</p><p>Austal (ASB AT) - Co. is to bid for US Navy support contract. (Newswires)</p><p>Caltex (CTX AT) - EG is thought to be continuing to examine whether to launch a rival takeover bid for Caltex (CTX AT). (The Australian)</p><p>FlexiGroup (FXL AT) - Co. H1 cash net AUD 34.5mln vs. Prev. AUD 31.9mln Y/Y, Co. secures 4-year strategic partnership agreement with Flight Centre Travel. (Newswires)</p><p>Mesoblast (MSB AT) - Co. submits biologics licence applications to US FDA for Ryoncil. (Newswires)</p><p>Oil Search (OSH AT) - Co. expansion is said to be in doubts after PNG PM dropped gas project discussions. (The Australian)</p><p>Worley Parsons (WOR AT) - Co. appointed Chris Ashton as CEO following retirement of Andre Wood effective February 24th. (Newswires)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-australian-stock-news-eg-is-thought-to-be-continuing-to-examine-whether-to-launch-a-rival-takeover-bid-for-caltex-ctx-at-02-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-03 06:51:00",
+        "gmt_time": "2020-02-02 22:51:00"
+    },
+    {
+        "id": 906711,
+        "updated_sequence": 2096331,
+        "published_at": {
+            "unix": 1580683440,
+            "text": "2020-02-02 22:44:00 +0000",
+            "iso_8601": "2020-02-02T22:44:00Z"
+        },
+        "updated_at": {
+            "unix": 1580683535,
+            "text": "2020-02-02 22:45:35 +0000",
+            "iso_8601": "2020-02-02T22:45:35Z"
+        },
+        "subject": "China oil demand is seen to have plunged 20% due to the coronavirus lockdown",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "china-oil-demand-is-seen-to-have-plunged-20-due-to-the-coronavirus-lockdown-02-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 20,
+            "name": "Commodities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-03 06:44:00",
+        "gmt_time": "2020-02-02 22:44:00"
+    },
+    {
+        "id": 906710,
+        "updated_sequence": 2096328,
+        "published_at": {
+            "unix": 1580682900,
+            "text": "2020-02-02 22:35:00 +0000",
+            "iso_8601": "2020-02-02T22:35:00Z"
+        },
+        "updated_at": {
+            "unix": 1580683122,
+            "text": "2020-02-02 22:38:42 +0000",
+            "iso_8601": "2020-02-02T22:38:42Z"
+        },
+        "subject": "The Sun's Tom Newton Dunn tweets \"Is Boris Johnson already breaking with the (non-legally binding) terms of the Political Declaration he agreed with the EU on level playing field?\"",
+        "content": "<p>Link to tweet here <a href=\"https://twitter.com/tnewtondunn/status/1224098455833972738\">https://twitter.com/tnewtondunn/status/1224098455833972738</a></p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Twitter",
+        "slug": "the-sun-s-tom-newton-dunn-tweets-is-boris-johnson-already-breaking-with-the-non-legally-binding-terms-of-the-political-declaration-he-agreed-with-the-eu-on-level-playing-field-02-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 38,
+            "name": "Brexit"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-03 06:35:00",
+        "gmt_time": "2020-02-02 22:35:00"
+    },
+    {
+        "id": 906709,
+        "updated_sequence": 2096323,
+        "published_at": {
+            "unix": 1580682840,
+            "text": "2020-02-02 22:34:00 +0000",
+            "iso_8601": "2020-02-02T22:34:00Z"
+        },
+        "updated_at": {
+            "unix": 1580682925,
+            "text": "2020-02-02 22:35:25 +0000",
+            "iso_8601": "2020-02-02T22:35:25Z"
+        },
+        "subject": "UK PM Johnson is to say there is \"no need\" to accept various EU rules in trade deal, according to AFP",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "AFP",
+        "slug": "uk-pm-johnson-is-to-say-there-is-no-need-to-accept-various-eu-rules-in-trade-deal-according-to-afp-02-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 38,
+            "name": "Brexit"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-03 06:34:00",
+        "gmt_time": "2020-02-02 22:34:00"
+    },
+    {
+        "id": 906708,
+        "updated_sequence": 2096320,
+        "published_at": {
+            "unix": 1580682540,
+            "text": "2020-02-02 22:29:00 +0000",
+            "iso_8601": "2020-02-02T22:29:00Z"
+        },
+        "updated_at": {
+            "unix": 1580682665,
+            "text": "2020-02-02 22:31:05 +0000",
+            "iso_8601": "2020-02-02T22:31:05Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASE CALENDAR IS AVAILABLE IN THE RESEARCH SECTION OF THE WEBSITE: Highlights include Australian Building Approvals, Chinese Industrial Profits, Caixin Manufacturing PMI and markets reopen from Lunar New Year, ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "asian-daily-economic-release-calendar-is-available-in-the-research-section-of-the-website-highlights-include-australian-building-approvals-chinese-industrial-profits-caixin-manufacturing-pmi-and-markets-reopen-from-lunar-new-year-02-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-03 06:29:00",
+        "gmt_time": "2020-02-02 22:29:00"
+    },
+    {
+        "id": 906706,
+        "updated_sequence": 2096315,
+        "published_at": {
+            "unix": 1580681520,
+            "text": "2020-02-02 22:12:00 +0000",
+            "iso_8601": "2020-02-02T22:12:00Z"
+        },
+        "updated_at": {
+            "unix": 1580681670,
+            "text": "2020-02-02 22:14:30 +0000",
+            "iso_8601": "2020-02-02T22:14:30Z"
+        },
+        "subject": "China Hubei province reports 2103 new cases of coronavirus and 56 new deaths as of February 2nd, which puts death toll in Hubei at 350",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "china-hubei-province-reports-2103-new-cases-of-coronavirus-and-56-new-deaths-as-of-february-2nd-which-puts-death-toll-in-hubei-at-350-02-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-03 06:12:00",
+        "gmt_time": "2020-02-02 22:12:00"
+    },
+    {
+        "id": 906705,
+        "updated_sequence": 2096317,
+        "published_at": {
+            "unix": 1580680800,
+            "text": "2020-02-02 22:00:00 +0000",
+            "iso_8601": "2020-02-02T22:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1580682120,
+            "text": "2020-02-02 22:22:00 +0000",
+            "iso_8601": "2020-02-02T22:22:00Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p><strong>ASIA-PAC</strong></p><p>China reported a total of 11791 coronavirus cases and deaths at 259 as of January 31st, while Hubei province reported 1921 new cases and 45 deaths on Saturday. (Newswires)</p><p>US Health Secretary Azar declared the coronavirus as a public health emergency in the US and noted those who return from the Hubei province to the US will be held in quarantine for 14 days, while the US will deny entry to the country for any foreign nationals who pose a risk of transmitting the virus, unless they are immediate family of US citizens and permanent residents. (Newswires)</p><p>CDC Director emphasised the risk of coronavirus to the US public is low, while it was reported over the weekend that the 8th US case of coronavirus was confirmed in Massachusetts. In related news, UK Chief Medical Officer confirmed two cases of coronavirus in the UK and Philippines reported the first coronavirus death outside of China who was a Chinese national that travelled from Wuhan. (Newswires)</p><p>Beijing's City Government said that Co's in the Chinese capital are now to resume work on February 10th. In related news, it was suggested that coronavirus infections in Wuhan may total up to 75,800 according to a study assuming air and transport travel in China as based on 2019 figures. (Newswires)</p><p>China has reportedly taken steps to limit short-selling activities as the country’s financial markets are set to reopen, with sources noting that the CSRC issued a verbal directive to brokerages including Citic Securities Co. and China International Capital Corp. to bar their clients from short-selling today. In other news, PBoC is reportedly to inject CNY 1.2tln through reverse repos and banks were reportedly instructed to increase lending and not call in loans to companies in regions affected by the coronavirus, while MOFCOM will help pay 50% of interest for PBOC’s relending scheme to key enterprises for up to 1 year. (Newswires)</p><p>Panama Canal authority said that vessels arriving in the waters that have travelled through countries with confirmed coronavirus cases must announce this beforehand. (Newswires)</p><p>Indian Overall 2019 GDP Annual Estimate Y/Y 6.1% (Prev. 7.0%). (Newswires)</p><p>Indian Finance Minister Sitharaman unveiled a multi-billion dollar package for farm and infrastructure spending in the budget on Saturday, while she revised fiscal deficit target of 3.8% for the current fiscal year and 3.5% for the next which were largely in line with expectations. However, reports noted that the stimulus measures fell short of what the market hoped for and stocks slumped during a special trading session. (Newswires)</p><p>&nbsp;</p><p><strong>UK/EU</strong></p><p>UK will begin free trade negotiations immediately after Brexit and is aiming to have 80% of trade covered by FTA's within 3 years. (Newswires)</p><p>DUP’s Foster said it is difficult to see how there will not be new checks between Britain and Northern Ireland. (Newswires)</p><p>London Metropolitan Police shot dead an attacker in South London who stabbed 2 people and who was wearing a hoax device strapped to his body, while the incident is being treated as ‘terror-related’. (Newswires)</p><ul><li>EU GDP Flash Prelim QQ (Q4) 0.1% vs. Exp. 0.2% (Prev. 0.2%)</li><li>EU GDP Flash Prelim YY (Q4) 1.0% vs. Exp. 1.1% (Prev. 1.2%)</li><li>EU HICP Flash YY (Jan) 1.4% vs. Exp. 1.4% (Prev. 1.3%)&nbsp;</li></ul><p>&nbsp;</p><p><strong>FX</strong></p><p>Canadian GDP MM (Nov) 0.1% vs. Exp. 0.0% (Prev. -0.1%). (Newswires)</p><p>S&amp;P affirmed Turkey’s Foreign and Local Currency Ratings; Outlook Stable. (Newswires)</p><p>&nbsp;</p><p><strong>COMMODITIES</strong></p><p>Baker Hughes oil rigs -1 at 675 and Natgas -3 at 112, while total -4 at 790. (Newswires)</p><p>Russian Energy Minister Novak said Russia is ready to take the OPEC+ meeting in February and that there are serious discussions with Saudi Arabia regarding possibly lower demand for oil due to the coronavirus. Novak also stated that OPEC+ countries need several more days to monitor the situation with coronavirus and that the timing change of the March meeting is because of the virus, while he added they will act if needed to rebalance the oil market and if there is a fall in oil demand. (Newswires)</p><p>OPEC+ joint committee is reportedly to meet on February 4th-5th in Vienna to review the impact of the coronavirus on oil demand. (Newswires)</p><p>OPEC survey stated that OPEC compliance is seen at 133% in January vs. Prev. 158% in December and output seen falling 640k BPD M/M to 28.35mln BPD on Libya unrest, Ecuador exit and supply curb deal. (Newswires)</p><p>US crude oil production (Nov) +203k BPD to 12.879mln BPD and US oil production (Oct.) revised +21k BPD to 12.676mln BPD, while US crude oil exports (Nov.) -3.023mln BPD, according to EIA. (Newswires)</p><p>&nbsp;</p><p><strong>GEOPOLITICS</strong></p><p>Yemen's Houthi spokesman stated 26 rockets targetted airports in Saudi Arabia, including Jizan, Abha, Najran, Khamees Mesheet and Saudi Aramco in recent attacks. (Newswires)</p><p>&nbsp;</p><p><strong>US</strong></p><p>Fed Vice Chair Clarida (voter) said policy is appropriate and that the US economy is in a good place with solid growth, while he also stated that inflation is stable and believes it will get back to 2%. Furthermore, Clarida suggested that it takes time for the Fed's 2019 rate cuts to feed through into the economy and that it is not the Fed's job 'to move up or down with asset prices'. (Newswires)</p><p>US President Trump will reportedly urge congress at the State of the Union Address to lower the cost of health care including prescription drugs. (Newswires)</p><p>US Senate Leaders McConnell and Schumer agreed on President Trump's impeachment vote to take place on Wednesday, while the Senate voted against calling new witnesses in the Trump impeachment trial through 49-51 vote. (Newswires)</p><ul><li>US Chicago PMI (Jan) 42.9 vs. Exp. 48.8 (Prev. 48.9, Rev. 48.2). (Newswires)</li><li>US Core PCE Price Index MM (Dec) 0.2% vs. Exp. 0.1% (Prev. 0.1%)</li><li>US Core PCE Price Index YY (Dec) 1.6% vs. Exp. 1.6% (Prev. 1.6%, Rev. 1.5%)</li><li>US Personal Income MM (Dec) 0.2% vs. Exp. 0.3% (Prev. 0.5%, Rev. 0.4%)</li><li>US Consumption, Adjusted MM (Dec) 0.3% vs. Exp. 0.3% (Prev. 0.4%)</li></ul><p>&nbsp;</p><p><strong>MARKET RECAP</strong></p><p>Weak economic data and continued jitters over the coronavirus were cited for the risk-off trade on Friday. The desk is also monitoring how the virus will impact the flow of trade through major shipping routes (see below). The data slate didn’t inspire any great confidence, particularly the Chicago Fed, which printed beneath all expectations, although analysts do cite some idiosyncratic factors why it was not consistent with the better tone seen in other regional surveys (see below). Fed’s Clarida made an appearance in the afternoon, though stuck to the script. Equities were red (S&amp;P 500 flat for the year), though the NDX fared better after decent earnings from AMZN. Yields were lower across the Treasury curve, which bull-flattened; most of the action was in the front part of the curve. In FX, the USD saw downside on month-end rebalancing factors, with JPY and GBP notably benefiting. XAU added about 12 bucks. SPX -1.8% at 3225, NDX -1.6% at 8992, DJI -2.1% at 28,255.</p><p>Treasuries have rallied this week, with yields on 2s, 5s, 10s plunging by around 17bps, and 30s falling by around 13bps - crucially slipping sub-2.00% briefly on Friday, as fears over the impact of the Coronavirus persist. The shape of the curve is mixed on a weekly view, with 2s5s and 2s10s narrowing, the former inverting this week. 2s30s widened by around 4bps, as has 10s30s, while 5s30s is around 5bps wider. At settlement, 30s had managed to keep their head above 2.00%, but there is now fresh attention on the 10-year yield, which is within a whisker of the 1.50% handle. Meanwhile, the EFFR on Thursday rose to 1.60% following the Fed's hike to the IOER rate, helping to guide it towards the midpoint of the FFR's target range. Next week, bond traders will be focussing on the Treasuries quarterly refunding announcement, and in particular, details around the announced 20-year issuance. US T-note futures settled 11 ticks higher at 131-21.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-asia-pac-opening-news-02-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-03 06:00:00",
+        "gmt_time": "2020-02-02 22:00:00"
+    },
+    {
+        "id": 906707,
+        "updated_sequence": 2096313,
+        "published_at": {
+            "unix": 1580680800,
+            "text": "2020-02-02 22:00:00 +0000",
+            "iso_8601": "2020-02-02T22:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1580681643,
+            "text": "2020-02-02 22:14:03 +0000",
+            "iso_8601": "2020-02-02T22:14:03Z"
+        },
+        "subject": "Australian CBA Manufacturing PMI (Jan F) 49.6 (Prev. 49.1)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "australian-cba-manufacturing-pmi-jan-f-49-6-prev-49-1-02-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-03 06:00:00",
+        "gmt_time": "2020-02-02 22:00:00"
+    }
+]

@@ -1,0 +1,3282 @@
+[
+    {
+        "id": 672526,
+        "updated_sequence": 1043478,
+        "published_at": {
+            "unix": 1536018600,
+            "text": "2018-09-04 00:50:00 +0100",
+            "iso_8601": "2018-09-03T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1536018687,
+            "text": "2018-09-04 00:51:27 +0100",
+            "iso_8601": "2018-09-03T23:51:27Z"
+        },
+        "subject": "Japanese Monetary Base End of Period (JPY)(Aug)\t502.0T (Prev. 503.0T)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-monetary-base-end-of-period-jpy-aug-502-0t-prev-503-0t-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-04 07:50:00",
+        "gmt_time": "2018-09-03 23:50:00"
+    },
+    {
+        "id": 672525,
+        "updated_sequence": 1043481,
+        "published_at": {
+            "unix": 1536018600,
+            "text": "2018-09-04 00:50:00 +0100",
+            "iso_8601": "2018-09-03T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1536018711,
+            "text": "2018-09-04 00:51:51 +0100",
+            "iso_8601": "2018-09-03T23:51:51Z"
+        },
+        "subject": "Japanese Monetary Base (Aug) Y/Y 6.9% (Prev. 7.0%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-monetary-base-aug-y-y-6-9-prev-7-0-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-04 07:50:00",
+        "gmt_time": "2018-09-03 23:50:00"
+    },
+    {
+        "id": 672524,
+        "updated_sequence": 1043472,
+        "published_at": {
+            "unix": 1536018540,
+            "text": "2018-09-04 00:49:00 +0100",
+            "iso_8601": "2018-09-03T23:49:00Z"
+        },
+        "updated_at": {
+            "unix": 1536018604,
+            "text": "2018-09-04 00:50:04 +0100",
+            "iso_8601": "2018-09-03T23:50:04Z"
+        },
+        "subject": "Nufarm (NUF AT) says Brazilian court overturned prior ruling that halted sales of products which contained glyphosate",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "nufarm-nuf-at-says-brazilian-court-overturned-prior-ruling-that-halted-sales-of-products-which-contained-glyphosate-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-04 07:49:00",
+        "gmt_time": "2018-09-03 23:49:00"
+    },
+    {
+        "id": 672523,
+        "updated_sequence": 1043469,
+        "published_at": {
+            "unix": 1536018480,
+            "text": "2018-09-04 00:48:00 +0100",
+            "iso_8601": "2018-09-03T23:48:00Z"
+        },
+        "updated_at": {
+            "unix": 1536018539,
+            "text": "2018-09-04 00:48:59 +0100",
+            "iso_8601": "2018-09-03T23:48:59Z"
+        },
+        "subject": "South Korea is said to persuade North Korean leader Kim to pledge denuclearization steps, according to South Korean press",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "south-korea-is-said-to-persuade-north-korean-leader-kim-to-pledge-denuclearization-steps-according-to-south-korean-press-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-04 07:48:00",
+        "gmt_time": "2018-09-03 23:48:00"
+    },
+    {
+        "id": 672522,
+        "updated_sequence": 1043466,
+        "published_at": {
+            "unix": 1536017460,
+            "text": "2018-09-04 00:31:00 +0100",
+            "iso_8601": "2018-09-03T23:31:00Z"
+        },
+        "updated_at": {
+            "unix": 1536017556,
+            "text": "2018-09-04 00:32:36 +0100",
+            "iso_8601": "2018-09-03T23:32:36Z"
+        },
+        "subject": "Hong Kong may mull further curbs on purchasing homes",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "hong-kong-may-mull-further-curbs-on-purchasing-homes-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-04 07:31:00",
+        "gmt_time": "2018-09-03 23:31:00"
+    },
+    {
+        "id": 672521,
+        "updated_sequence": 1043463,
+        "published_at": {
+            "unix": 1536017400,
+            "text": "2018-09-04 00:30:00 +0100",
+            "iso_8601": "2018-09-03T23:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1536017494,
+            "text": "2018-09-04 00:31:34 +0100",
+            "iso_8601": "2018-09-03T23:31:34Z"
+        },
+        "subject": "Australian ANZ Roy Morgan Consumer Confidence (Sep 2) W/W 117.7 (Prev. 116.5)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "australian-anz-roy-morgan-consumer-confidence-sep-2-w-w-117-7-prev-116-5-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-04 07:30:00",
+        "gmt_time": "2018-09-03 23:30:00"
+    },
+    {
+        "id": 672520,
+        "updated_sequence": 1043460,
+        "published_at": {
+            "unix": 1536017340,
+            "text": "2018-09-04 00:29:00 +0100",
+            "iso_8601": "2018-09-03T23:29:00Z"
+        },
+        "updated_at": {
+            "unix": 1536017385,
+            "text": "2018-09-04 00:29:45 +0100",
+            "iso_8601": "2018-09-03T23:29:45Z"
+        },
+        "subject": "UK Chancellor Hammond could reportedly unveil the budget as soon as next month",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Times",
+        "slug": "uk-chancellor-hammond-could-reportedly-unveil-the-budget-as-soon-as-next-month-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-04 07:29:00",
+        "gmt_time": "2018-09-03 23:29:00"
+    },
+    {
+        "id": 672519,
+        "updated_sequence": 1043457,
+        "published_at": {
+            "unix": 1536016320,
+            "text": "2018-09-04 00:12:00 +0100",
+            "iso_8601": "2018-09-03T23:12:00Z"
+        },
+        "updated_at": {
+            "unix": 1536016892,
+            "text": "2018-09-04 00:21:32 +0100",
+            "iso_8601": "2018-09-03T23:21:32Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIAN, JAPANESE & SOUTH KOREAN STOCK NEWS: Canadian pension fund OMERS is reportedly mulling a bid to acquire Investa Office Fund (IOF AT)",
+        "content": "<p>AUSTRALIA</p>\r\n\r\n<p>CBA (CBA AT)<br />- Co. is reportedly seeking to acquire a majority of the potentially lucrative new e-transfer platform Property Exchange Australia or PEXA. (SMH)</p>\r\n\r\n<p>Investa Office Fund (IOF AT)<br />- Canadian pension fund OMERS is reportedly mulling a bid to acquire Investa Office Fund (IOF AT). (Newswires)</p>\r\n\r\n<p>Mirvac Group (MGR AT)<br />- Co. purchased property in Melbourne for AUD 122mln. (Newswires)</p>\r\n\r\n<p>News Corp (NWS AT)<br />- Co. Foxtel JV with Telstra (TLS AT) is&nbsp;to raise its basic service monthly subscription price by 11.5% to AUD 29.00. (AFR)</p>\r\n\r\n<p>Suncorp (SUN AT)<br />- Co. announces execution of share sale deed related to previously announced deal to sell Australian life insurance unit to Tal Dai-Ichi Life Australia. (Newswires)</p>\r\n\r\n<p>Energy<br />- WTI crude future rose 0.4% to above USD 70.00/bbl. (Newswires)</p>\r\n\r\n<p><br />JAPAN</p>\r\n\r\n<p>NEC Corp (6701 JT)<br />- Co. is speculated to report H1 oper. profit increased 10% Y/Y to around JPY 8bln. (Newswires)</p>\r\n\r\n<p>Pigeon Corp (7956 JT)<br />- Co. H1 net JPY 8.11bln vs. Prev. JPY 6.49bln Y/Y. (Newswires)</p>\r\n\r\n<p>Shin-Etsu Chemical (4063 JT)<br />- Co. is to invest JPY 110bln to raise its silicone output by 50% by end-2020. (Newswires)</p>\r\n\r\n<p>Suruga Bank (8358 JT)<br />- Co. is said to have lent around JPY 50bln to firms associated with its founding family. (Newswires)</p>\r\n\r\n<p>Financials<br />- Japan FSA is said to mull investigation into regional banks&#39; real estate loans. (Newswires)</p>\r\n\r\n<p>Other News<br />- Japanese PM Abe says will conduct an overhaul of the social security system in 3 years. (Newswires)</p>\r\n\r\n<p><br />SOUTH KOREA<br /><br />Hyundai Motor (005380 KS)<br />- Co. August car sales rose 9.2% Y/Y to 384.4k units. (Newswires)<br /><br />Kia Motors (000270 KS)<br />- Co. August car sales fell 0.2% Y/Y to 223.6k units. (Newswires)</p>\r\n\r\n<p>Shinhan Financial Group (055550 KS)<br />- Co. is in final phases of negotiations to acquire a controlling stake in Orange Life which was formerly known as ING Life Insurance. (Yonhap) &nbsp;</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-australian-japanese-south-korean-stock-news-canadian-pension-fund-omers-is-reportedly-mulling-a-bid-to-acquire-investa-office-fund-iof-at-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-04 07:12:00",
+        "gmt_time": "2018-09-03 23:12:00"
+    },
+    {
+        "id": 672518,
+        "updated_sequence": 1043449,
+        "published_at": {
+            "unix": 1536015900,
+            "text": "2018-09-04 00:05:00 +0100",
+            "iso_8601": "2018-09-03T23:05:00Z"
+        },
+        "updated_at": {
+            "unix": 1536016013,
+            "text": "2018-09-04 00:06:53 +0100",
+            "iso_8601": "2018-09-03T23:06:53Z"
+        },
+        "subject": "UK Barclaycard Consumer Spending in Aug rose 4.5% Y/Y (Prev. 5.0%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "uk-barclaycard-consumer-spending-in-aug-rose-4-5-y-y-prev-5-0-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-04 07:05:00",
+        "gmt_time": "2018-09-03 23:05:00"
+    },
+    {
+        "id": 672512,
+        "updated_sequence": 1043431,
+        "published_at": {
+            "unix": 1536014220,
+            "text": "2018-09-03 23:37:00 +0100",
+            "iso_8601": "2018-09-03T22:37:00Z"
+        },
+        "updated_at": {
+            "unix": 1536014315,
+            "text": "2018-09-03 23:38:35 +0100",
+            "iso_8601": "2018-09-03T22:38:35Z"
+        },
+        "subject": " Barclays upped its Brent crude price target to USD 75/bbl for 2020 and to USD 80/bbl for 2025",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "barclays-upped-its-brent-crude-price-target-to-usd-75-bbl-for-2020-and-to-usd-80-bbl-for-2025-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-04 06:37:00",
+        "gmt_time": "2018-09-03 22:37:00"
+    },
+    {
+        "id": 672511,
+        "updated_sequence": 1043428,
+        "published_at": {
+            "unix": 1536013980,
+            "text": "2018-09-03 23:33:00 +0100",
+            "iso_8601": "2018-09-03T22:33:00Z"
+        },
+        "updated_at": {
+            "unix": 1536014199,
+            "text": "2018-09-03 23:36:39 +0100",
+            "iso_8601": "2018-09-03T22:36:39Z"
+        },
+        "subject": "US President Trump warns Syrian President Assad to not recklessly strike the Idlib province in Syria, while Trump also says that Iran and Russia would be making a grave humanitarian error and that hundreds of thousands could be killed if they attack Idlib",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-president-trump-warns-syrian-president-assad-to-not-recklessly-strike-the-idlib-province-in-syria-while-trump-also-says-that-iran-and-russia-would-be-making-a-grave-humanitarian-error-and-that-hundreds-of-thousands-could-be-killed-if-the-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-04 06:33:00",
+        "gmt_time": "2018-09-03 22:33:00"
+    },
+    {
+        "id": 672510,
+        "updated_sequence": 1043425,
+        "published_at": {
+            "unix": 1536013500,
+            "text": "2018-09-03 23:25:00 +0100",
+            "iso_8601": "2018-09-03T22:25:00Z"
+        },
+        "updated_at": {
+            "unix": 1536013598,
+            "text": "2018-09-03 23:26:38 +0100",
+            "iso_8601": "2018-09-03T22:26:38Z"
+        },
+        "subject": "China is said to make revisions to repayment rules related to local government bonds",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "china-is-said-to-make-revisions-to-repayment-rules-related-to-local-government-bonds-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-04 06:25:00",
+        "gmt_time": "2018-09-03 22:25:00"
+    },
+    {
+        "id": 672509,
+        "updated_sequence": 1043422,
+        "published_at": {
+            "unix": 1536013500,
+            "text": "2018-09-03 23:25:00 +0100",
+            "iso_8601": "2018-09-03T22:25:00Z"
+        },
+        "updated_at": {
+            "unix": 1536013544,
+            "text": "2018-09-03 23:25:44 +0100",
+            "iso_8601": "2018-09-03T22:25:44Z"
+        },
+        "subject": "Japan FSA is said to mull investigation into regional banks' real estate loans",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japan-fsa-is-said-to-mull-investigation-into-regional-banks-real-estate-loans-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-04 06:25:00",
+        "gmt_time": "2018-09-03 22:25:00"
+    },
+    {
+        "id": 672508,
+        "updated_sequence": 1043419,
+        "published_at": {
+            "unix": 1536011940,
+            "text": "2018-09-03 22:59:00 +0100",
+            "iso_8601": "2018-09-03T21:59:00Z"
+        },
+        "updated_at": {
+            "unix": 1536012030,
+            "text": "2018-09-03 23:00:30 +0100",
+            "iso_8601": "2018-09-03T22:00:30Z"
+        },
+        "subject": "OMERS is reportedly to mull bid for Investa Office Fund (IOF AT)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "omers-is-reportedly-to-mull-bid-for-investa-office-fund-iof-at-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-04 05:59:00",
+        "gmt_time": "2018-09-03 21:59:00"
+    },
+    {
+        "id": 672507,
+        "updated_sequence": 1043416,
+        "published_at": {
+            "unix": 1536011460,
+            "text": "2018-09-03 22:51:00 +0100",
+            "iso_8601": "2018-09-03T21:51:00Z"
+        },
+        "updated_at": {
+            "unix": 1536011498,
+            "text": "2018-09-03 22:51:38 +0100",
+            "iso_8601": "2018-09-03T21:51:38Z"
+        },
+        "subject": "New Zealand Commission are to not consider deregulation of mobile roaming",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "new-zealand-commission-are-to-not-consider-deregulation-of-mobile-roaming-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-04 05:51:00",
+        "gmt_time": "2018-09-03 21:51:00"
+    },
+    {
+        "id": 672506,
+        "updated_sequence": 1043410,
+        "published_at": {
+            "unix": 1536009900,
+            "text": "2018-09-03 22:25:00 +0100",
+            "iso_8601": "2018-09-03T21:25:00Z"
+        },
+        "updated_at": {
+            "unix": 1536010054,
+            "text": "2018-09-03 22:27:34 +0100",
+            "iso_8601": "2018-09-03T21:27:34Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASES CALENDAR NOW AVAILABLE IN THE RESEARCH SECTION: Highlights Include South Korean GDP & CPI, Australian Current Account Balance & Net Exports of GDP, RBA Rate Decision",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "asian-daily-economic-releases-calendar-now-available-in-the-research-section-highlights-include-south-korean-gdp-cpi-australian-current-account-balance-net-exports-of-gdp-rba-rate-decision-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-04 05:25:00",
+        "gmt_time": "2018-09-03 21:25:00"
+    },
+    {
+        "id": 672505,
+        "updated_sequence": 1043413,
+        "published_at": {
+            "unix": 1536009300,
+            "text": "2018-09-03 22:15:00 +0100",
+            "iso_8601": "2018-09-03T21:15:00Z"
+        },
+        "updated_at": {
+            "unix": 1536010320,
+            "text": "2018-09-03 22:32:00 +0100",
+            "iso_8601": "2018-09-03T21:32:00Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p>UK</p>\r\n\r\n<p>UK PM May spokesman said the Chequers proposals are the only credible and negotiable plans for Brexit. (Newswires)</p>\r\n\r\n<p>UK Treasury was reported to have opened talks with BoE Governor Carney about extending his term, while there were later comments from a PM May spokesman that BoE Governor Carney said he intends to step down in 2019. (Newswires)</p>\r\n\r\n<p>UK Markit/CIPS Manufacturing PMI (Aug) 52.8 vs. Exp. 53.8 (Prev. 54.0, Rev. 53.8). (Newswires)<br />&nbsp;</p>\r\n\r\n<p>EU</p>\r\n\r\n<p>Italian Deputy PM Salvini said widening bond spreads are due to speculators and Italy&#39;s government reforms will provide all the answers. (Deutsche Well)</p>\r\n\r\n<p>EU Markit Manufacturing Final PMI (Aug) 54.6 vs. Exp. 54.6 (Prev. 54.6). (Newswires)</p>\r\n\r\n<p><br />FX</p>\r\n\r\n<p>Argentina&rsquo;s President Macri said Argentina is to tax exports to boost revenues to last until December 2020 and that they might reach an agreement with IMF in days. Macri added the country cannot spend more money than it has and that he is aware of export tax being bad but notes this is an emergency. (Newswires)</p>\r\n\r\n<p><br />US</p>\r\n\r\n<p>Outgoing Mexican President Pena Nieto stated that they didn&rsquo;t accept quotas or restrictions in the deal with US and that they will participate in trilateral discussions with NAFTA partners, while he added it is important for Canada to remain in NAFTA. (Newswires)</p>\r\n\r\n<p><br />MARKET RECAP</p>\r\n\r\n<p>US markets were closed for Labor Day.</p>\r\n\r\n<p>European equities traded mixed in which UK&rsquo;s FTSE 100 outperformed (+1.0%) with the aid of currency effects amid weekend reports that EU&rsquo;s Chief Negotiator Barnier strongly opposes UK PM May&rsquo;s Brexit trade proposals, while softer-than-expected UK manufacturing PMI saw GBP move another leg lower which provided further support to the index. Energy names outperformed in-line with the recent price action in the complex, while consumer discretionary stocks lagged weighed on by German auto names amid reports an increase in US auto import tariff would cost German carmakers EUR 7bln per annum in revenues. In terms of individual movers, SBM Offshore shares spiked higher by 11.3% at the open after the Co. reached a final settlement on Saturday with MPF over alleged improper sales practices.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-asia-pac-opening-news-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-04 05:15:00",
+        "gmt_time": "2018-09-03 21:15:00"
+    },
+    {
+        "id": 672349,
+        "updated_sequence": 1043398,
+        "published_at": {
+            "unix": 1536008400,
+            "text": "2018-09-03 22:00:00 +0100",
+            "iso_8601": "2018-09-03T21:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1536008400,
+            "text": "2018-09-03 22:00:00 +0100",
+            "iso_8601": "2018-09-03T21:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-02-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-04 05:00:00",
+        "gmt_time": "2018-09-03 21:00:00"
+    },
+    {
+        "id": 672160,
+        "updated_sequence": 1043397,
+        "published_at": {
+            "unix": 1536008400,
+            "text": "2018-09-03 22:00:00 +0100",
+            "iso_8601": "2018-09-03T21:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1536008400,
+            "text": "2018-09-03 22:00:00 +0100",
+            "iso_8601": "2018-09-03T21:00:00Z"
+        },
+        "subject": "US SERVICE IS NOW CLOSED, PLEASE SWITCH OVER TO THE ASIA CHANNEL",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-service-is-now-closed-please-switch-over-to-the-asia-channel-30-08-2018",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-04 05:00:00",
+        "gmt_time": "2018-09-03 21:00:00"
+    },
+    {
+        "id": 672501,
+        "updated_sequence": 1043391,
+        "published_at": {
+            "unix": 1535994000,
+            "text": "2018-09-03 18:00:00 +0100",
+            "iso_8601": "2018-09-03T17:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1535992805,
+            "text": "2018-09-03 17:40:05 +0100",
+            "iso_8601": "2018-09-03T16:40:05Z"
+        },
+        "subject": "NOTE: Due to the US market holiday, coverage will be limited until Tuesday's APAC opening",
+        "content": "<p>**Labor Day market closures and desk opening times**&nbsp;</p>\r\n\r\n<p>**The desk will open as usual at 2200BST/1600CDT on Sunday 2rd September and run until 1800BST/1200CDT on Monday 3rd September, upon which the desk will close and then re-open at 2200BST/1600CDT the same day due to US market closures**</p>\r\n\r\n<p>NYSE &ndash; Closed</p>\r\n\r\n<p>CME Electronic Equity, Interest Rate, FX, Energy, Metals</p>\r\n\r\n<p>Monday: Trading halt (pre-open) 1800BST/1200CDT and then re-open at 2300BST/1700BST</p>\r\n\r\n<p>Europe/UK and Asia open as normal</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "note-due-to-the-us-market-holiday-coverage-will-be-limited-until-tuesday-s-apac-opening-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-04 01:00:00",
+        "gmt_time": "2018-09-03 17:00:00"
+    },
+    {
+        "id": 672500,
+        "updated_sequence": 1043385,
+        "published_at": {
+            "unix": 1535991840,
+            "text": "2018-09-03 17:24:00 +0100",
+            "iso_8601": "2018-09-03T16:24:00Z"
+        },
+        "updated_at": {
+            "unix": 1535991927,
+            "text": "2018-09-03 17:25:27 +0100",
+            "iso_8601": "2018-09-03T16:25:27Z"
+        },
+        "subject": "Italy's Salvini says widening bond spreads are due to speculators, and Italy's government reforms will provide all of the answers, according to DW interview",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "italy-s-salvini-says-widening-bond-spreads-are-due-to-speculators-and-italy-s-government-reforms-will-provide-all-of-the-answers-according-to-dw-interview-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-04 00:24:00",
+        "gmt_time": "2018-09-03 16:24:00"
+    },
+    {
+        "id": 672499,
+        "updated_sequence": 1043382,
+        "published_at": {
+            "unix": 1535989320,
+            "text": "2018-09-03 16:42:00 +0100",
+            "iso_8601": "2018-09-03T15:42:00Z"
+        },
+        "updated_at": {
+            "unix": 1535989390,
+            "text": "2018-09-03 16:43:10 +0100",
+            "iso_8601": "2018-09-03T15:43:10Z"
+        },
+        "subject": "UBS Macro Sales says don't buy GBP yet, ignore stretched positioning, risk/reward remains to be short GBP",
+        "content": "<ul><li>Says there are two issues for sterling: what are the chances of a successful coup vs PM May, and when/what are the chances of a &#39;no deal&#39;? While they are linked, they operate on d</li>\r\n</ul>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "UBS",
+        "slug": "ubs-macro-sales-says-don-t-buy-gbp-yet-ignore-stretched-positioning-risk-reward-remains-to-be-short-gbp-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 39,
+            "name": "Bank Research"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 23:42:00",
+        "gmt_time": "2018-09-03 15:42:00"
+    },
+    {
+        "id": 672498,
+        "updated_sequence": 1043379,
+        "published_at": {
+            "unix": 1535988660,
+            "text": "2018-09-03 16:31:00 +0100",
+            "iso_8601": "2018-09-03T15:31:00Z"
+        },
+        "updated_at": {
+            "unix": 1535989077,
+            "text": "2018-09-03 16:37:57 +0100",
+            "iso_8601": "2018-09-03T15:37:57Z"
+        },
+        "subject": "EUROPEAN PRELIMINARY CASH EQUITY CLOSE: EURO STOXX 50 (+0.06%), FTSE 100 (+0.96%), DAX (-0.2%), CAC (+0.12%), IBEX (-0.16%), FTSE MIB (+0.6%), SMI (+0.33%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "european-preliminary-cash-equity-close-euro-stoxx-50-0-06-ftse-100-0-96-dax-0-2-cac-0-12-ibex-0-16-ftse-mib-0-6-smi-0-33-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 33,
+            "name": "European Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 23:31:00",
+        "gmt_time": "2018-09-03 15:31:00"
+    },
+    {
+        "id": 672498,
+        "updated_sequence": 1043379,
+        "published_at": {
+            "unix": 1535988660,
+            "text": "2018-09-03 16:31:00 +0100",
+            "iso_8601": "2018-09-03T15:31:00Z"
+        },
+        "updated_at": {
+            "unix": 1535989077,
+            "text": "2018-09-03 16:37:57 +0100",
+            "iso_8601": "2018-09-03T15:37:57Z"
+        },
+        "subject": "EUROPEAN PRELIMINARY CASH EQUITY CLOSE: EURO STOXX 50 (+0.06%), FTSE 100 (+0.96%), DAX (-0.2%), CAC (+0.12%), IBEX (-0.16%), FTSE MIB (+0.6%), SMI (+0.33%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "european-preliminary-cash-equity-close-euro-stoxx-50-0-06-ftse-100-0-96-dax-0-2-cac-0-12-ibex-0-16-ftse-mib-0-6-smi-0-33-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 33,
+            "name": "European Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 23:31:00",
+        "gmt_time": "2018-09-03 15:31:00"
+    },
+    {
+        "id": 672497,
+        "updated_sequence": 1043374,
+        "published_at": {
+            "unix": 1535985060,
+            "text": "2018-09-03 15:31:00 +0100",
+            "iso_8601": "2018-09-03T14:31:00Z"
+        },
+        "updated_at": {
+            "unix": 1535985087,
+            "text": "2018-09-03 15:31:27 +0100",
+            "iso_8601": "2018-09-03T14:31:27Z"
+        },
+        "subject": "Italian Economy Minister is pushing government to keep deficit below 2% of GDP in 2019",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "italian-economy-minister-is-pushing-government-to-keep-deficit-below-2-of-gdp-in-2019-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 22:31:00",
+        "gmt_time": "2018-09-03 14:31:00"
+    },
+    {
+        "id": 672495,
+        "updated_sequence": 1043368,
+        "published_at": {
+            "unix": 1535983920,
+            "text": "2018-09-03 15:12:00 +0100",
+            "iso_8601": "2018-09-03T14:12:00Z"
+        },
+        "updated_at": {
+            "unix": 1535984164,
+            "text": "2018-09-03 15:16:04 +0100",
+            "iso_8601": "2018-09-03T14:16:04Z"
+        },
+        "subject": "Daily FX-Wrap: Sterling pounded, ARS up ahead of IMF talks; big week for USD",
+        "content": "<p><strong>* EMFX: </strong>ING notes the complex could come under pressure this week, as US traders return from the Labor Day holiday. On this week&#39;s docket: Will Argentina get an expedited IMF deal on Tuesday? After the consultation period expires on Thursday, will US President Trump decide to impose 25% tariffs on a further $200bln of Chinese imports? On Friday, the latest Employment Situation Report will be published, and ING argues that the conditions seem to be in place for another week of USD strength versus EMFX.&nbsp;</p>\r\n\r\n<p><strong>* TRY: </strong>But with that said, TRY saw strength on Monday - shrugging-off surging inflation - after the central bank said it would adjust its monetary stance at its policy meeting next week, adding that recent developments surrounding the inflation outlook pose significant risks to price stability. The Turkish finmin also weighed in, pledging to step in to support banks if the sell-off in the Lira necessitates such support.&nbsp;</p>\r\n\r\n<p><strong>* ARS: </strong>Ahead of talks with the IMF on Tuesday to negotiate an early disbursement of funds, Argentine policymakers have signalled an intent to sing from the IMF&#39;s hymnn sheet, President Macri said Argentina will tax exports to boost revenues, adding that the country cannot spend more money than it has. The finmin was also on the wires, and argued that the peso was oversold considering the country&#39;s fundamentals. Nvertheless, the right noises were being made, and the ARS bucked the trend in EMFX, to trade stronger against the buck.</p>\r\n\r\n<p><strong>* GBP: </strong>Brexit headline risk is showing its face once again, and GBP 1m implied vols hit highest in almost six months, as sterling slid after the weekend&#39;s op-ed penned by UK PM May in the Telegraph ruling out a second Brexit referendum, while elsewhere, the Times reported that Tory rebels are planning to derail May&#39;s &#39;Chequers plan&#39;, and the FT reported that former Brexit minister Davis would vote against the plan, raising the prospect of a Parliamentary defeat for PM May. The Chequers plan was also attacked from the EU front, with the bloc&#39;s chief negotiator Barnier telling German press that the proposal was not workable and that the UK should make more compromises. RBC&#39;s analysts noted stressed that the process towards an agreement between the UK and the EU is poorly understood and that the &#39;no deal&#39; option is the default option. The bank continues to see more risks of this scenario gaining in prominence and being further priced into markets. On the data front, a weak manufacturing PMI added to the downside, with some analysts concerned that the export component slipped below 50 for the first time in two years; survey compiler Markit said &quot;although there were some reports of softer growth of new work from the domestic market, the main drag was the trend in new export orders.&quot;</p>\r\n\r\n<p><strong>* CAD: </strong>The Loonie saw downside in quiet, thin trade, despite markets being shut for Labor Day, with US President Trump&#39;s weekend NAFTA comments that &quot;there is no political necessity to keep Canada in the new NAFTA deal. If we don&rsquo;t make a fair deal for the US after decades of abuse, Canada will be out&quot;. Negotiations are set to resume on Wednesday, but Trump has already notified Congress of his intention to sign a deal with Mexico within 90 days, regardless of whether a deal with Canada has been reached, or not.&nbsp;<br />boc</p>\r\n\r\n<p><strong>* AUD: </strong>Overnight retail sales data were flat, but in sync with a weaker tone of incoming data; within the retail sales data the gap between small retailers and their larger (and listed) counterparts narrowed after the former was up and the latter fell; but combined with the business inventories data (though Q2 company profits were up), and Corelogic house prices falling, some desks cut their GDP tracking estimates (UBS cut its view by 0.1ppts). The Aussie had a offered tone, but bounced off multi-year lows 0.7145-0.7165 in European trade after positive news on the EM front (Turkey&#39;s central bank pledging to adjust its monetary stance, amid some constructive comments from fiscal authorities), which drove a bout of USD weakness. Overnight, the RBA is expected to stand pat on rates, which could be one of the more boring central bank updates this week, though focus will be on comments relating to the RBA&#39;s hiking trajectory. UBS said that given how far Aussie has come, short-term moves will be a function of positioning. &quot;Aussie is down 2.5% in the last four trading sessions and should take a breather at some stage, the market has still not reversed long AUD/NZD cross positions which opens for a final stab towards 1.0750-80, a near term-break of 1.0940-50 now requires re-evaluation.&quot; UBS says a potential move lower in the cross, should open up for a test of AUDUSD towards 0.7100-20 but that&#39;s where the buck may stop in the short-term, before taking a breather.&nbsp;<br />&nbsp;</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "daily-fx-wrap-sterling-pounded-ars-up-ahead-of-imf-talks-big-week-for-usd-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 22:12:00",
+        "gmt_time": "2018-09-03 14:12:00"
+    },
+    {
+        "id": 672494,
+        "updated_sequence": 1043365,
+        "published_at": {
+            "unix": 1535982780,
+            "text": "2018-09-03 14:53:00 +0100",
+            "iso_8601": "2018-09-03T13:53:00Z"
+        },
+        "updated_at": {
+            "unix": 1535982868,
+            "text": "2018-09-03 14:54:28 +0100",
+            "iso_8601": "2018-09-03T13:54:28Z"
+        },
+        "subject": "Eni Spox says activities in Libya running as normal ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "eni-spox-says-activities-in-libya-running-as-normal-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 23,
+            "name": "Geopolitical"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 21:53:00",
+        "gmt_time": "2018-09-03 13:53:00"
+    },
+    {
+        "id": 672489,
+        "updated_sequence": 1043346,
+        "published_at": {
+            "unix": 1535982120,
+            "text": "2018-09-03 14:42:00 +0100",
+            "iso_8601": "2018-09-03T13:42:00Z"
+        },
+        "updated_at": {
+            "unix": 1535982223,
+            "text": "2018-09-03 14:43:43 +0100",
+            "iso_8601": "2018-09-03T13:43:43Z"
+        },
+        "subject": "Qatar cuts long land crude price to USD 74/bbl (Prev. USD 75.25 in July) and cuts marine to USD 72.90 (Prev. USD 73.55 in July) ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "qatar-cuts-long-land-crude-price-to-usd-74-bbl-prev-usd-75-25-in-july-and-cuts-marine-to-usd-72-90-prev-usd-73-55-in-july-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 20,
+            "name": "Commodities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 21:42:00",
+        "gmt_time": "2018-09-03 13:42:00"
+    },
+    {
+        "id": 672493,
+        "updated_sequence": 1043360,
+        "published_at": {
+            "unix": 1535982120,
+            "text": "2018-09-03 14:42:00 +0100",
+            "iso_8601": "2018-09-03T13:42:00Z"
+        },
+        "updated_at": {
+            "unix": 1535982457,
+            "text": "2018-09-03 14:47:37 +0100",
+            "iso_8601": "2018-09-03T13:47:37Z"
+        },
+        "subject": "ECB's Asset Backed Securities (ABS) 0.252B (Prev. 0.216B)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "ecb-s-asset-backed-securities-abs-0-252b-prev-0-216b-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 17,
+            "name": "ECB"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 21:42:00",
+        "gmt_time": "2018-09-03 13:42:00"
+    },
+    {
+        "id": 672488,
+        "updated_sequence": 1043362,
+        "published_at": {
+            "unix": 1535981160,
+            "text": "2018-09-03 14:26:00 +0100",
+            "iso_8601": "2018-09-03T13:26:00Z"
+        },
+        "updated_at": {
+            "unix": 1535982594,
+            "text": "2018-09-03 14:49:54 +0100",
+            "iso_8601": "2018-09-03T13:49:54Z"
+        },
+        "subject": "Argentine's Dujovne says the new budget goal is to result in USD 6bln in savings and aims for a primary budget surplus of 1% of GDP in 2020, aims for a primary budget deficit of 2.6% of GDP in 2018",
+        "content": "<ul><li>He says the peso is oversold considering fundamentals and&nbsp;will be discussing disbursement with IMF tomorrow</li>\r\n</ul>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "argentine-s-dujovne-says-the-new-budget-goal-is-to-result-in-usd-6bln-in-savings-and-aims-for-a-primary-budget-surplus-of-1-of-gdp-in-2020-aims-for-a-primary-budget-deficit-of-2-6-of-gdp-in-2018-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 21:26:00",
+        "gmt_time": "2018-09-03 13:26:00"
+    },
+    {
+        "id": 672484,
+        "updated_sequence": 1043343,
+        "published_at": {
+            "unix": 1535978940,
+            "text": "2018-09-03 13:49:00 +0100",
+            "iso_8601": "2018-09-03T12:49:00Z"
+        },
+        "updated_at": {
+            "unix": 1535981493,
+            "text": "2018-09-03 14:31:33 +0100",
+            "iso_8601": "2018-09-03T13:31:33Z"
+        },
+        "subject": "Argentina’s President Macri says Argentina to tax exports to boost revenues to last until December 2020, he says might reach an agreement with IMF in days and adds the country cannot spend more money than it has ",
+        "content": "<ul><li>He says he is aware of export tax being bad but notes this is an emergency</li>\r\n  <li>He adds investors have started doubting Argentina&rsquo;s ability</li>\r\n  <li>He says to reduce number of ministers to less than half of current total</li>\r\n</ul>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "argentina-s-president-macri-says-argentina-to-tax-exports-to-boost-revenues-to-last-until-december-2020-he-says-might-reach-an-agreement-with-imf-in-days-and-adds-the-country-cannot-spend-more-money-than-it-has-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 20:49:00",
+        "gmt_time": "2018-09-03 12:49:00"
+    },
+    {
+        "id": 672483,
+        "updated_sequence": 1043315,
+        "published_at": {
+            "unix": 1535976000,
+            "text": "2018-09-03 13:00:00 +0100",
+            "iso_8601": "2018-09-03T12:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1535976030,
+            "text": "2018-09-03 13:00:30 +0100",
+            "iso_8601": "2018-09-03T12:00:30Z"
+        },
+        "subject": "Fixed and FX latest: typically laboured US holiday trade",
+        "content": "<p>It&rsquo;s tempting to almost call time on debt and currency markets in terms of session ranges and trends, but of course that may be premature given the absence of US participants and thinner turnover which could exacerbate price moves if anything did happen to trigger some action. For now, Gilts are still outperforming near the top of the Liffe range (122.54-19) vs Bunds a handful of ticks underwater and meandering between 163.32-04 Eurex parameters, and US Treasuries marginally steeper in paltry volumes. Meanwhile, the DXY is holding just above 95.000 with the Pound still underperforming vs Aud heading the G10 and EMs still under pressure, but off lows after announcements from Turkey and Argentina about more intervention, monetary and fiscal respectively.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "fixed-and-fx-latest-typically-laboured-us-holiday-trade-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 20:00:00",
+        "gmt_time": "2018-09-03 12:00:00"
+    },
+    {
+        "id": 672481,
+        "updated_sequence": 1043309,
+        "published_at": {
+            "unix": 1535971920,
+            "text": "2018-09-03 11:52:00 +0100",
+            "iso_8601": "2018-09-03T10:52:00Z"
+        },
+        "updated_at": {
+            "unix": 1535973666,
+            "text": "2018-09-03 12:21:06 +0100",
+            "iso_8601": "2018-09-03T11:21:06Z"
+        },
+        "subject": "Argentina President Macri is scheduled to speak on Monday, and is expected to announce plans to raise revenues and cut spending",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<p>This comes ahead of Tuesday&#39;s fresh round of talks with the IMF, where Argentina is hoping to speed up disbursement of funds</p>\r\n",
+        "analysis_updated_at": {
+            "unix": 1535972040,
+            "text": "2018-09-03 11:54:00 +0100",
+            "iso_8601": "2018-09-03T10:54:00Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "argentina-president-macri-is-scheduled-to-speak-on-monday-and-is-expected-to-announce-plans-to-raise-revenues-and-cut-spending-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 18:52:00",
+        "gmt_time": "2018-09-03 10:52:00"
+    },
+    {
+        "id": 672480,
+        "updated_sequence": 1043304,
+        "published_at": {
+            "unix": 1535970120,
+            "text": "2018-09-03 11:22:00 +0100",
+            "iso_8601": "2018-09-03T10:22:00Z"
+        },
+        "updated_at": {
+            "unix": 1535970414,
+            "text": "2018-09-03 11:26:54 +0100",
+            "iso_8601": "2018-09-03T10:26:54Z"
+        },
+        "subject": "UK PM May spokesman says the Chequers proposals are the only credible and negotiable plans for Brexit",
+        "content": "<ul><li>The spokesman adds that BoE Governor Carney said he intends to step down in 2019</li>\r\n</ul>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>This follows weekend reports which stated EU&#39;s Chief Negotiator Barnier strongly opposes UK PM May&#39;s Chequers Brexit trade proposals, while he commented that EU and UK do not need more time to reach an agreement and that political decisions are required</li>\r\n</ul>\r\n",
+        "analysis_updated_at": {
+            "unix": 1535970360,
+            "text": "2018-09-03 11:26:00 +0100",
+            "iso_8601": "2018-09-03T10:26:00Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "uk-pm-may-spokesman-says-the-chequers-proposals-are-the-only-credible-and-negotiable-plans-for-brexit-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 38,
+            "name": "Brexit"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 18:22:00",
+        "gmt_time": "2018-09-03 10:22:00"
+    },
+    {
+        "id": 672453,
+        "updated_sequence": 1043296,
+        "published_at": {
+            "unix": 1535969400,
+            "text": "2018-09-03 11:10:00 +0100",
+            "iso_8601": "2018-09-03T10:10:00Z"
+        },
+        "updated_at": {
+            "unix": 1535969437,
+            "text": "2018-09-03 11:10:37 +0100",
+            "iso_8601": "2018-09-03T10:10:37Z"
+        },
+        "subject": "LABOR DAY SCHEDULE - DESK SCHEDULE ",
+        "content": "<p><strong>**Labor Day market closures and desk opening times**&nbsp;</strong></p>\r\n\r\n<p>**The desk will open as usual at 2200BST/1600CDT on Sunday 2rd September and run until 1800BST/1200CDT on Monday 3rd September, upon which the desk will close and then re-open at 2200BST/1600CDT the same day due to US market closures**</p>\r\n\r\n<p>NYSE &ndash; Closed</p>\r\n\r\n<p>CME Electronic Equity, Interest Rate, FX, Energy, Metals</p>\r\n\r\n<p>Monday: Trading halt (pre-open) 1800BST/1200CDT and then re-open at 2300BST/1700BST</p>\r\n\r\n<p>Europe/UK and Asia open as normal</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "labor-day-schedule-desk-schedule-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 18:10:00",
+        "gmt_time": "2018-09-03 10:10:00"
+    },
+    {
+        "id": 672479,
+        "updated_sequence": 1043294,
+        "published_at": {
+            "unix": 1535968620,
+            "text": "2018-09-03 10:57:00 +0100",
+            "iso_8601": "2018-09-03T09:57:00Z"
+        },
+        "updated_at": {
+            "unix": 1535968686,
+            "text": "2018-09-03 10:58:06 +0100",
+            "iso_8601": "2018-09-03T09:58:06Z"
+        },
+        "subject": "RANsquawk EU Mid Session: UK’s FTSE flies past peers on dampened GBP. US traders away on Labor Day. - 3rd September 2018",
+        "content": "<p>To download the report, please click <a href=\"/research_sheets/19998/download\">here</a><br />If you would like to subscribe to receive the research sheets directly in your inbox, you can now do so under the <a href=\"/research_sheets\">Research Suite</a> section of the portal.<br />To subscribe simply check the box next to &quot;Email these reports&quot; under the desired category.</p>\r\n\r\n<p><strong>EQUITIES</strong></p>\r\n\r\n<p>European equities trade mostly mixed (Eurostoxx 50 -0.1%) with UK&rsquo;s FTSE 100 outperforming (+0.8%) with the aid of currency effects amid weekend reports that EU&rsquo;s Chief Negotiator Barnier strongly opposes UK PM May&rsquo;s Brexit trade proposals. Softer-than-expected UK manufacturing PMI gave the GBP another leg lower, providing further support to the index.</p>\r\n\r\n<p>Energy names outperform, in-line with the recent price action in the complex, while consumer discretionary names lag, weighed on by German auto names amid reports an increase in US auto import tariff would cost German carmakers EUR 7bln per annum in revenues. In terms of individual movers, SBM Offshore shares spiked higher by 11.3% at the open after the Co. reached a final settlement on Saturday with MPF over alleged improper sales practices.</p>\r\n\r\n<p><strong>FX</strong></p>\r\n\r\n<p>GBP - Already weak after a damning assessment of the Chequers White Paper by EU&rsquo;s Barmier, the Pound has been further undermined by a weak UK manufacturing PMI, with Cable back below 1.2900 and prone to a further retreat towards technical support around 1.2852, while Eur/Gbp rebounds to just over 0.9000, ahead of chart resistance circa 0.9030-35 and the late August near 12 month peak just shy of 0.9100.</p>\r\n\r\n<p>AUD - Conversely, Aud/Usd has reclaimed 0.7200+ status (albeit marginally) and 1.0900 vs the NZD on the back of less risk averse sentiment overall and a broadly softer Greenback in thin US Labor Day holiday trade. Note, the Aud was weaker overnight amidst mixed Aussie data in the form of a retail sales miss vs higher Q2 company profits, while the Kiwi is straddling 0.6600 vs its US peer.</p>\r\n\r\n<p>EUR/JPY/CAD/CHF - All narrowly mixed vs the Usd with the single currency pivoting 1.1600 and not really moving on somewhat divergent Eurozone manufacturing PMIs, while Usd/Jpy is equally constrained either side of 111.00 and the Loonie around 1.3050 having fallen on NAFTA disappointment (no deal on Friday between Canada and the US, with talks to resume Wednesday when the BoC meets). For choice, the Franc is lagging circa 0.9700 vs the Usd after a drop in Swiss retail sales and despite a decent pick up in the manufacturing PMI.</p>\r\n\r\n<p>DXY - Dawdling within tight 95.000-230 trading parameters, and largely dependent on indirect impulses/drivers given the aforementioned US market holiday until a scheduled speech from Fed&rsquo;s Evans that may provide some independent impetus.</p>\r\n\r\n<p>EM - The Try has been especially volatile around Turkish inflation data that saw CPI accelerate further and prompt a swift CBRT response flagging a policy adjustment at next Thursday&rsquo;s meeting and pledge to use all tools available to restore price stability. The Lira rebounded from 6.7300 lows vs the Usd to 6.5075, but has lost some recovery momentum even though the Finance Minister seemed to &lsquo;approve&rsquo; of the Central Bank&rsquo;s tightening signal, awaiting to see how much official rates are hiked.</p>\r\n\r\n<p><strong>FIXED INCOME</strong></p>\r\n\r\n<p>Fresh Liffe intraday peaks for the 10 year debt future and a little more outperformance vs core bond peers on a weaker than forecast manufacturing PMI that has also lifted UK STIR contracts 1-2 ticks further above previous closes. Gilts just topped out at 122.53 (+20 ticks vs -14 ticks at one stage) vs Bunds only 5 ticks ahead at a marginal new Eurex high of 163.32. Elsewhere, US Treasuries remain underwater and the curve is steeper, but a decent 10k lot clip was bought in the Dec 10 year future at 120-06+ recently.</p>\r\n\r\n<p><strong>COMMODITIES</strong></p>\r\n\r\n<p>WTI and Brent trade in the green, nursing some overnight losses, with the former eyeing USD 70/bbl to the upside amid comments from a few oil officials. The Nigerian Energy Minister stated he is comfortable with oil prices around the mid-70s, while an Omani oil official noted some OPEC+ states have trouble reaching their own output quotas, while adding oil prices may rise to USD 90/bbl due to a lack of investments leading to shortfalls. Elsewhere, gold benefits from a domino effect caused by the Turkish Central Bank, whose comments sparked some TRY strength, in turn weighing on the USD.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "ransquawk-eu-mid-session-uk-s-ftse-flies-past-peers-on-dampened-gbp-us-traders-away-on-labor-day-3rd-september-2018-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 17:57:00",
+        "gmt_time": "2018-09-03 09:57:00"
+    },
+    {
+        "id": 672478,
+        "updated_sequence": 1043291,
+        "published_at": {
+            "unix": 1535968320,
+            "text": "2018-09-03 10:52:00 +0100",
+            "iso_8601": "2018-09-03T09:52:00Z"
+        },
+        "updated_at": {
+            "unix": 1535968486,
+            "text": "2018-09-03 10:54:46 +0100",
+            "iso_8601": "2018-09-03T09:54:46Z"
+        },
+        "subject": "Citi trade recommendation - buy Aud/Jpy at 79.75, target 82.00 and 78.75 stop ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Citi",
+        "slug": "citi-trade-recommendation-buy-aud-jpy-at-79-75-target-82-00-and-78-75-stop-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 17:52:00",
+        "gmt_time": "2018-09-03 09:52:00"
+    },
+    {
+        "id": 672477,
+        "updated_sequence": 1043288,
+        "published_at": {
+            "unix": 1535968020,
+            "text": "2018-09-03 10:47:00 +0100",
+            "iso_8601": "2018-09-03T09:47:00Z"
+        },
+        "updated_at": {
+            "unix": 1535968059,
+            "text": "2018-09-03 10:47:39 +0100",
+            "iso_8601": "2018-09-03T09:47:39Z"
+        },
+        "subject": "FX Morning Colour: Pound hit by Barnier and UK PMI, Lira helped by CBRT and Turkish CPI",
+        "content": "<p>GBP</p>\r\n\r\n<p>Already weak after a damning assessment of the Chequers White Paper by EU&rsquo;s Barmier, the Pound has been further undermined by a weak UK manufacturing PMI, with Cable back below 1.2900 and prone to a further retreat towards technical support around 1.2852, while Eur/Gbp rebounds to just over 0.9000, ahead of chart resistance circa 0.9030-35 and the late August near 12 month peak just shy of 0.9100.</p>\r\n\r\n<p>AUD</p>\r\n\r\n<p>Conversely, Aud/Usd has reclaimed 0.7200+ status (albeit marginally) and 1.0900 vs the NZD on the back of less risk averse sentiment overall and a broadly softer Greenback in thin US Labor Day holiday trade. Note, the Aud was weaker overnight amidst mixed Aussie data in the form of a retail sales miss vs higher Q2 company profits, while the Kiwi is straddling 0.6600 vs its US peer.</p>\r\n\r\n<p>EUR/JPY/CAD/CHF</p>\r\n\r\n<p>All narrowly mixed vs the Usd with the single currency pivoting 1.1600 and not really moving on somewhat divergent Eurozone manufacturing PMIs, while Usd/Jpy is equally constrained either side of 111.00 and the Loonie around 1.3050 having fallen on NAFTA disappointment (no deal on Friday between Canada and the US, with talks to resume Wednesday when the BoC meets). For choice, the Franc is lagging circa 0.9700 vs the Usd after a drop in Swiss retail sales and despite a decent pick up in the manufacturing PMI.</p>\r\n\r\n<p>DXY</p>\r\n\r\n<p>Dawdling within tight 95.000-230 trading parameters, and largely dependent on indirect impulses/drivers given the aforementioned US market holiday until a scheduled speech from Fed&rsquo;s Evans that may provide some independent impetus.</p>\r\n\r\n<p>EM</p>\r\n\r\n<p>The Try has been especially volatile around Turkish inflation data that saw CPI accelerate further and prompt a swift CBRT response flagging a policy adjustment at next Thursday&rsquo;s meeting and pledge to use all tools available to restore price stability. The Lira rebounded from 6.7300 lows vs the Usd to 6.5075, but has lost some recovery momentum even though the Finance Minister seemed to &lsquo;approve&rsquo; of the Central Bank&rsquo;s tightening signal, awaiting to see how much official rates are hiked.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "fx-morning-colour-pound-hit-by-barnier-and-uk-pmi-lira-helped-by-cbrt-and-turkish-cpi-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 17:47:00",
+        "gmt_time": "2018-09-03 09:47:00"
+    },
+    {
+        "id": 672476,
+        "updated_sequence": 1043285,
+        "published_at": {
+            "unix": 1535967120,
+            "text": "2018-09-03 10:32:00 +0100",
+            "iso_8601": "2018-09-03T09:32:00Z"
+        },
+        "updated_at": {
+            "unix": 1535967131,
+            "text": "2018-09-03 10:32:11 +0100",
+            "iso_8601": "2018-09-03T09:32:11Z"
+        },
+        "subject": "Russian Finance Ministry sees no impact on oil production in Russia from tax reforms",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "russian-finance-ministry-sees-no-impact-on-oil-production-in-russia-from-tax-reforms-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 20,
+            "name": "Commodities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 17:32:00",
+        "gmt_time": "2018-09-03 09:32:00"
+    },
+    {
+        "id": 672263,
+        "updated_sequence": 1043273,
+        "published_at": {
+            "unix": 1535965200,
+            "text": "2018-09-03 10:00:00 +0100",
+            "iso_8601": "2018-09-03T09:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1535965200,
+            "text": "2018-09-03 10:00:00 +0100",
+            "iso_8601": "2018-09-03T09:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE HAS NOW FINISHED, PLEASE REVERT BACK TO YOUR ORIGINAL CHANNEL FOR COVERAGE ON THE UK & EUROPEAN SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-has-now-finished-please-revert-back-to-your-original-channel-for-coverage-on-the-uk-european-session-31-08-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 17:00:00",
+        "gmt_time": "2018-09-03 09:00:00"
+    },
+    {
+        "id": 672472,
+        "updated_sequence": 1043271,
+        "published_at": {
+            "unix": 1535964480,
+            "text": "2018-09-03 09:48:00 +0100",
+            "iso_8601": "2018-09-03T08:48:00Z"
+        },
+        "updated_at": {
+            "unix": 1535964587,
+            "text": "2018-09-03 09:49:47 +0100",
+            "iso_8601": "2018-09-03T08:49:47Z"
+        },
+        "subject": "Further to the recent FT report, the BBC reports that the UK treasury have opened talks with BoE Governor Carney about extending his term",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>This comes ahead of his appearance at the TSC tomorrow, whereby his position will likely be a source of questioning.&nbsp;</li>\r\n</ul>\r\n",
+        "analysis_updated_at": {
+            "unix": 1535964587,
+            "text": "2018-09-03 09:49:47 +0100",
+            "iso_8601": "2018-09-03T08:49:47Z"
+        },
+        "push_notify": false,
+        "source": "BBC",
+        "slug": "further-to-the-recent-ft-report-the-bbc-reports-that-the-uk-treasury-have-opened-talks-with-boe-governor-carney-about-extending-his-term-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 16,
+            "name": "BoE"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 16:48:00",
+        "gmt_time": "2018-09-03 08:48:00"
+    },
+    {
+        "id": 672471,
+        "updated_sequence": 1043268,
+        "published_at": {
+            "unix": 1535964240,
+            "text": "2018-09-03 09:44:00 +0100",
+            "iso_8601": "2018-09-03T08:44:00Z"
+        },
+        "updated_at": {
+            "unix": 1535964334,
+            "text": "2018-09-03 09:45:34 +0100",
+            "iso_8601": "2018-09-03T08:45:34Z"
+        },
+        "subject": "EU DEBT UPDATE: Gilts rebound further post-UK PMI miss",
+        "content": "<p>Fresh Liffe intraday peaks for the 10 year debt future and a little more outperformance vs core bond peers on a weaker than forecast manufacturing PMI that has also lifted UK STIR contracts 1-2 ticks further above previous closes. Gilts just topped out at 122.47&nbsp;(+14&nbsp;ticks vs -14 ticks at one stage) vs Bunds only 5 ticks ahead at a marginal new Eurex high of 163.32. Elsewhere, US Treasuries remain underwater and the curve is steeper, but a decent 10k lot clip was bought in the Dec 10 year future at 120-06+ recently.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "eu-debt-update-gilts-rebound-further-post-uk-pmi-miss-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 16:44:00",
+        "gmt_time": "2018-09-03 08:44:00"
+    },
+    {
+        "id": 672469,
+        "updated_sequence": 1043259,
+        "published_at": {
+            "unix": 1535963100,
+            "text": "2018-09-03 09:25:00 +0100",
+            "iso_8601": "2018-09-03T08:25:00Z"
+        },
+        "updated_at": {
+            "unix": 1535963136,
+            "text": "2018-09-03 09:25:36 +0100",
+            "iso_8601": "2018-09-03T08:25:36Z"
+        },
+        "subject": "RANsquawk Central Banks - PREVIEW: RBA Policy Announcement due Tuesday 4th September at 0530BST/2330CDT/1230HKT",
+        "content": "<p>To download the report, please click <a href=\"/research_sheets/19997/download\">here</a><br />If you would like to subscribe to receive the research sheets directly in your inbox, you can now do so under the <a href=\"/research_sheets\">Research Suite</a> section of the portal.<br />To subscribe simply check the box next to &quot;Email these reports&quot; under the desired category.</p>\r\n\r\n<ul><li>Expectations are one-sided for the central bank to keep the Cash Rate Target unchanged at the record low 1.50%</li>\r\n  <li>Recent rhetoric from officials also suggests an unlikelihood for rate changes anytime soon</li>\r\n  <li>The data releases since the last meeting have been mixed</li>\r\n</ul>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "ransquawk-central-banks-preview-rba-policy-announcement-due-tuesday-4th-september-at-0530bst-2330cdt-1230hkt-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 8,
+            "name": "Other Central Banks"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 16:25:00",
+        "gmt_time": "2018-09-03 08:25:00"
+    },
+    {
+        "id": 672468,
+        "updated_sequence": 1043256,
+        "published_at": {
+            "unix": 1535961720,
+            "text": "2018-09-03 09:02:00 +0100",
+            "iso_8601": "2018-09-03T08:02:00Z"
+        },
+        "updated_at": {
+            "unix": 1535962259,
+            "text": "2018-09-03 09:10:59 +0100",
+            "iso_8601": "2018-09-03T08:10:59Z"
+        },
+        "subject": "Russian Energy Minister Novak states that the nation will maintain oil production this month at the same levels seen in July and August",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>Production is approximately 11.2mln BPD</li>\r\n</ul>\r\n",
+        "analysis_updated_at": {
+            "unix": 1535962259,
+            "text": "2018-09-03 09:10:59 +0100",
+            "iso_8601": "2018-09-03T08:10:59Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "russian-energy-minister-novak-states-that-the-nation-will-maintain-oil-production-this-month-at-the-same-levels-seen-in-july-and-august-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 20,
+            "name": "Commodities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 16:02:00",
+        "gmt_time": "2018-09-03 08:02:00"
+    },
+    {
+        "id": 672463,
+        "updated_sequence": 1043238,
+        "published_at": {
+            "unix": 1535959980,
+            "text": "2018-09-03 08:33:00 +0100",
+            "iso_8601": "2018-09-03T07:33:00Z"
+        },
+        "updated_at": {
+            "unix": 1535960125,
+            "text": "2018-09-03 08:35:25 +0100",
+            "iso_8601": "2018-09-03T07:35:25Z"
+        },
+        "subject": "Turkish Central Bank says monetary policy stance is to be adjusted in Sept 13th meeting",
+        "content": "<p>Says:&nbsp;</p>\r\n\r\n<ul><li>Recent developments surrounding the inflation outlook poses a significant risk to price stability.&nbsp;</li>\r\n</ul>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "turkish-central-bank-says-monetary-policy-stance-is-to-be-adjusted-in-sept-13th-meeting-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 8,
+            "name": "Other Central Banks"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 15:33:00",
+        "gmt_time": "2018-09-03 07:33:00"
+    },
+    {
+        "id": 672460,
+        "updated_sequence": 1043226,
+        "published_at": {
+            "unix": 1535959260,
+            "text": "2018-09-03 08:21:00 +0100",
+            "iso_8601": "2018-09-03T07:21:00Z"
+        },
+        "updated_at": {
+            "unix": 1535959307,
+            "text": "2018-09-03 08:21:47 +0100",
+            "iso_8601": "2018-09-03T07:21:47Z"
+        },
+        "subject": "UK debt and STIR futures: mixed start to Monday’s session",
+        "content": "<p>Gilts are tracking weakness in core bond counterparts on their return to Liffe between 122.31-20 vs last Friday&rsquo;s 122.33 settlement, albeit holding up a bit better than Bund that have marginally extended to the downside for a 23 tick loss on the day at worst and fresh 163.04 Eurex low. Similarly, the Short Sterling strip is underpinned mostly a tick above parity with latest Brexit headlines highlighting little or no progress at all on the key and remaining sticking points between the UK and EU in contrast to recent more positive/cohesive vibes from both sides. Ahead, August&rsquo;s manufacturing PMI could stoke some independent trade direction. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "uk-debt-and-stir-futures-mixed-start-to-monday-s-session-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 15:21:00",
+        "gmt_time": "2018-09-03 07:21:00"
+    },
+    {
+        "id": 672455,
+        "updated_sequence": 1043211,
+        "published_at": {
+            "unix": 1535958660,
+            "text": "2018-09-03 08:11:00 +0100",
+            "iso_8601": "2018-09-03T07:11:00Z"
+        },
+        "updated_at": {
+            "unix": 1535958706,
+            "text": "2018-09-03 08:11:46 +0100",
+            "iso_8601": "2018-09-03T07:11:46Z"
+        },
+        "subject": "ECB says banks borrowed EUR 30mln at marginal rate & deposited EUR 668.783bln",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "ecb-says-banks-borrowed-eur-30mln-at-marginal-rate-deposited-eur-668-783bln-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 17,
+            "name": "ECB"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 15:11:00",
+        "gmt_time": "2018-09-03 07:11:00"
+    },
+    {
+        "id": 672454,
+        "updated_sequence": 1043208,
+        "published_at": {
+            "unix": 1535958540,
+            "text": "2018-09-03 08:09:00 +0100",
+            "iso_8601": "2018-09-03T07:09:00Z"
+        },
+        "updated_at": {
+            "unix": 1535958583,
+            "text": "2018-09-03 08:09:43 +0100",
+            "iso_8601": "2018-09-03T07:09:43Z"
+        },
+        "subject": "Morning EU Movers: Casino (CO FP) +2.5%, Investec (INVP LN) +1.9%, Melrose (MRO LN) +1.8%, WPP (WPP LN), LVMH (MC FP) -1.2%",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "morning-eu-movers-casino-co-fp-2-5-investec-invp-ln-1-9-melrose-mro-ln-1-8-wpp-wpp-ln-lvmh-mc-fp-1-2-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 33,
+            "name": "European Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 15:09:00",
+        "gmt_time": "2018-09-03 07:09:00"
+    },
+    {
+        "id": 672445,
+        "updated_sequence": 1043178,
+        "published_at": {
+            "unix": 1535957640,
+            "text": "2018-09-03 07:54:00 +0100",
+            "iso_8601": "2018-09-03T06:54:00Z"
+        },
+        "updated_at": {
+            "unix": 1535957696,
+            "text": "2018-09-03 07:54:56 +0100",
+            "iso_8601": "2018-09-03T06:54:56Z"
+        },
+        "subject": "Bunds: backing off in thin US holiday volumes",
+        "content": "<p>An arguably even more low key start to Monday&rsquo;s Eurex session given trading conditions adversely impacted by the absence of US cash markets for Labor Day, but the 10 year German benchmark has eased back from its previous close of 163.27 within a 163.20-11 early range, eyeing a somewhat lacklustre response from BTPs to Fitch&rsquo;s Italian ratings affirmation that was tainted by an outlook downgrade to negative from stable. Ahead, Eurozone manufacturing PMIs and more ECB commentary from Mersch, then Weidmann after hours may provide further impetus, while post-month end asset/portfolio repositioning will be accompanied by more position rolling for the upcoming roll from Sep18 to Dec18 futures as the front month.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "bunds-backing-off-in-thin-us-holiday-volumes-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 14:54:00",
+        "gmt_time": "2018-09-03 06:54:00"
+    },
+    {
+        "id": 672444,
+        "updated_sequence": 1043173,
+        "published_at": {
+            "unix": 1535957280,
+            "text": "2018-09-03 07:48:00 +0100",
+            "iso_8601": "2018-09-03T06:48:00Z"
+        },
+        "updated_at": {
+            "unix": 1535957387,
+            "text": "2018-09-03 07:49:47 +0100",
+            "iso_8601": "2018-09-03T06:49:47Z"
+        },
+        "subject": "Barclays trade recommendation - long Usd/Cad (market ref circa 1.3050), targeting 1.3200 and stop at 1.2970",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Barclays",
+        "slug": "barclays-trade-recommendation-long-usd-cad-market-ref-circa-1-3050-targeting-1-3200-and-stop-at-1-2970-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 14:48:00",
+        "gmt_time": "2018-09-03 06:48:00"
+    },
+    {
+        "id": 672441,
+        "updated_sequence": 1043175,
+        "published_at": {
+            "unix": 1535956620,
+            "text": "2018-09-03 07:37:00 +0100",
+            "iso_8601": "2018-09-03T06:37:00Z"
+        },
+        "updated_at": {
+            "unix": 1535957628,
+            "text": "2018-09-03 07:53:48 +0100",
+            "iso_8601": "2018-09-03T06:53:48Z"
+        },
+        "subject": "Additional European equity stories post the release of the Daily European equity opening news",
+        "content": "<p>Vedanta (VED LN) &ndash; The recommended cash offer by Volcan Investments for Vedanta has become unconditional in all respects, offer is being extended and will remain open for acceptances until further notice. Co. reaffirms its 2018 profitability and deleveraging objectives. (Newswires)</p>\r\n\r\n<p>Casino (CO FP) -&nbsp; Co. has amended H1 presentation, adding details on cash holdings. Cash position of Casino Finance at the end of June stood at EUR 801mln vs. Prev. EUR 586mln. (Newswires)</p>\r\n\r\n<p>BT (BT/A LN) - Former 02 chief executive Dunne has emerged as a candidate for the new BT CEO. (Telegraph)</p>\r\n\r\n<p>WPP (WPP LN) &ndash; Mark Read has been confirmed as the new CEO. (Newswires)</p>\r\n\r\n<p>RBS (RBS LN) - Co. is planning to hold an&nbsp;extraordinary general meeting (EGM) to gain investor support for a share buyback aimed at reducing the government&#39;s stake. (Times)</p>\r\n\r\n<p>WHITBREAD (WTB LN) UPGRADED TO ADD FROM REDUCE AT ALPHAVALUE</p>\r\n\r\n<p>VESTAS (VWC DC)&nbsp;DOWNGRADED TO HOLD FROM BUY AT DNB MARKETS</p>\r\n\r\n<p>LVMH (MC FP) DOWNGRADED TO HOLD FROM BUY AT SOCGEN</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "additional-european-equity-stories-post-the-release-of-the-daily-european-equity-opening-news-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 33,
+            "name": "European Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 14:37:00",
+        "gmt_time": "2018-09-03 06:37:00"
+    },
+    {
+        "id": 672440,
+        "updated_sequence": 1043138,
+        "published_at": {
+            "unix": 1535954940,
+            "text": "2018-09-03 07:09:00 +0100",
+            "iso_8601": "2018-09-03T06:09:00Z"
+        },
+        "updated_at": {
+            "unix": 1535954990,
+            "text": "2018-09-03 07:09:50 +0100",
+            "iso_8601": "2018-09-03T06:09:50Z"
+        },
+        "subject": "Omani Oil Official says oil prices to stay between USD 70-80/bbl for the rest of the year ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "omani-oil-official-says-oil-prices-to-stay-between-usd-70-80-bbl-for-the-rest-of-the-year-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 20,
+            "name": "Commodities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 14:09:00",
+        "gmt_time": "2018-09-03 06:09:00"
+    },
+    {
+        "id": 672439,
+        "updated_sequence": 1043143,
+        "published_at": {
+            "unix": 1535954040,
+            "text": "2018-09-03 06:54:00 +0100",
+            "iso_8601": "2018-09-03T05:54:00Z"
+        },
+        "updated_at": {
+            "unix": 1535955464,
+            "text": "2018-09-03 07:17:44 +0100",
+            "iso_8601": "2018-09-03T06:17:44Z"
+        },
+        "subject": "DAILY EUROPEAN EQUITY OPENING NEWS",
+        "content": "<p><strong>**EUROPEAN EQUITY COVERAGE WILL ONLY COVER COMPANIES IN THE STOXX 600 OR COMPANIES OF SYSTEMIC IMPORTANCE TO PARTICULAR SECTORS**</strong></p>\r\n\r\n<p><strong>3rd September 2018</strong></p>\r\n\r\n<p><strong>The Daily European Equity Opening News is uploaded at 0700BST/0100CDT recapping all of the overnight equity news</strong></p>\r\n\r\n<p><strong>From 0700BST/0100CDT all equity news will be covered in real time over the audio and headline feed and the full audio rundown will be at 0715BST/0115CDT.</strong></p>\r\n\r\n<p><strong>There will be an additional audio rundown at 0750BST/0150CDT recapping any company news which has hit the wires since 0715BST/0115CDT ahead of the European equity open</strong></p>\r\n\r\n<p><strong>ASIA</strong></p>\r\n\r\n<p>Asian equity markets traded mostly lower with the region cautious heading into an event-packed week and as trade-related concerns clouded over risk sentiment. This followed a lack of breakthrough in last week&rsquo;s NAFTA related talks between US and Canada with President Trump suggesting a willingness to go ahead without Canada, while fresh tariff concerns also lingered with the public comment period for the proposed US tariffs on a further USD 200bln of Chinese goods is set to expire by Thursday. This weighed on Nikkei 225 (-0.6%), Hang Seng (-0.9%) and Shanghai Comp. (-0.9%), with underperformance seen in China following disappointing Caixin Manufacturing PMI data, while the ASX 200 (Unch.) bucked the trend and remained afloat on mixed data which showed solid growth in Company Profits and as the local currency depreciated to its weakest since January 2017.</p>\r\n\r\n<p><strong>FTSE</strong></p>\r\n\r\n<p>FTSE Companies &ndash; The next quarterly FTSE shuffle will be confirmed on Wednesday 5th September, changes will take effect on the 24th September. The Times sees Rightmove (RMV LN) likely dropping out of the FTSE 100, while Royal Mail (RMG LN) and Direct Line Insurance (DLG LN) are also seen as vulnerable. The Times adds the next most likely to be promoted are Investec (INVP LN) and &nbsp;JD Sports (JD/ LN). Conversely, the FT reports the FTSE 100 is expected to remain unchanged in its quarterly reshuffle for the first time in over ten years. (The Times/FT)</p>\r\n\r\n<p>WPP (WPP LN) &ndash; Co. is understood to be in talks with new CEO Mark Read in regards to a pay package worth around GBP 7mln, if he is able to improve the Co.&rsquo;s performance. (The Guardian)</p>\r\n\r\n<p>Smurfit Kappa (SKG LN) &ndash; Ireland has protested against the seizure of paper mills from Co. by Venezuela. Smurfit Kappa has has vowed to protected the interest of shareholders and secure the release of Co. employees detained by the Venezuelan government. (FT)</p>\r\n\r\n<p>OTHER UK COMPANIES</p>\r\n\r\n<p>Metro Bank (MTRO LN)/ Banco de Sabadell (SAB SM) &ndash; Metro Bank and Banco de Sabadell&rsquo;s TSB are looking to campaign against tough regulations for smaller banks. (The Telegraph)</p>\r\n\r\n<p>BROKER MOVES</p>\r\n\r\n<p><strong>DAX</strong></p>\r\n\r\n<p>Volkswagen (VOW3 GY) &ndash; Co. engineers have told investigators that certain petrol engines in VW, Porsche and Audi can be used to manipulate emission tests. (Bild am Sonntag)</p>\r\n\r\n<p>BMW (BMW GY) &ndash; 6.3mln BMW vehicles in Germany will need software upgrades in the wake of the diesel scandal. This is a million more than previously expected. Elsewhere, Co. are reportedly set to pay EUR 10mln in fines for the diesel scandal and face no other charges. (Bild am Sonntag/Newswires)</p>\r\n\r\n<p>German auto names &ndash; The German Ministry has calculated an increase in US auto import tariff would cost German carmakers EUR 7bln per annum in revenues. (Newswires)</p>\r\n\r\n<p>ThyssenKrupp (TKA GY) &ndash; Reports suggest that candidates approached for the Chairman position have reportedly rejected the offer. (Newswires)</p>\r\n\r\n<p>OTHER GERMAN COMPANIES</p>\r\n\r\n<p><strong>CAC</strong></p>\r\n\r\n<p>Sanofi (SAN FP) - Cablivi (caplacizumab) approved in Europe for adults with acquired thrombotic thrombocytopenic purpura (attp), a rare blood-clotting disorder. (Newswires)</p>\r\n\r\n<p>OTHER FRENCH COMPANIES</p>\r\n\r\n<p>BROKER MOVES</p>\r\n\r\n<p>SCANDINAVIA</p>\r\n\r\n<p>BROKER MOVES</p>\r\n\r\n<p><strong>SMI</strong></p>\r\n\r\n<p>Novartis (NOVN SW) &ndash; Chairman said the Co. plans to streamline global production to increase its operating profit margin despite falling drug prices in the US. (Newswires)</p>\r\n\r\n<p>UBS (UBSG SW) &ndash; Co. said it is launching an FX pricing and trading engine in Singapore. (Newswires)</p>\r\n\r\n<p>OTHER SWISS COMPANIES</p>\r\n\r\n<p>SWISS LIFE (SLHN SW) UPGRADED TO NEUTRAL FROM UNDERWEIGHT AT JP MORGAN CHASE</p>\r\n\r\n<p><strong>PAN EUROPE</strong></p>\r\n\r\n<p><strong>US</strong></p>\r\n\r\n<p>SPX 0.0% at 2901, NDX +0.2% at 7655, DJI -0.1% at 25959. SECTORS: Energy -0.7%, Materials -0.2%, Industrials +0.1%, Cons Discretionary +0.4%, Cons Staples +0.0%, Healthcare 0.0%, Financials -0.1%, Tech +0.1%, Telecoms -0.4%, Utilities -0.5%.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-european-equity-opening-news-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 33,
+            "name": "European Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": "'Newsquawk source' - Signifies information that has not been formally tested through traditional journalistic channels and therefore is to be treated as unsubstantiated. Any interpretation of this information is taken at the reader’s own risk and is a representation of the rumours within the market place and never generated by ourselves",
+        "rumour": true,
+        "hk_time": "2018-09-03 13:54:00",
+        "gmt_time": "2018-09-03 05:54:00"
+    },
+    {
+        "id": 672438,
+        "updated_sequence": 1043129,
+        "published_at": {
+            "unix": 1535953560,
+            "text": "2018-09-03 06:46:00 +0100",
+            "iso_8601": "2018-09-03T05:46:00Z"
+        },
+        "updated_at": {
+            "unix": 1535953677,
+            "text": "2018-09-03 06:47:57 +0100",
+            "iso_8601": "2018-09-03T05:47:57Z"
+        },
+        "subject": "Nigerian Oil Minister says he is comfortable with oil prices around the mid-USD 70/bbl level",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "nigerian-oil-minister-says-he-is-comfortable-with-oil-prices-around-the-mid-usd-70-bbl-level-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 20,
+            "name": "Commodities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 13:46:00",
+        "gmt_time": "2018-09-03 05:46:00"
+    },
+    {
+        "id": 672437,
+        "updated_sequence": 1043132,
+        "published_at": {
+            "unix": 1535953440,
+            "text": "2018-09-03 06:44:00 +0100",
+            "iso_8601": "2018-09-03T05:44:00Z"
+        },
+        "updated_at": {
+            "unix": 1535953763,
+            "text": "2018-09-03 06:49:23 +0100",
+            "iso_8601": "2018-09-03T05:49:23Z"
+        },
+        "subject": "Omani Oil Official says some OPEC+ states had problems reaching own output quotas; adding the shortfalls are linked to a lack of investments which may results in oil prices rising to USD 90/bbl ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "omani-oil-official-says-some-opec-states-had-problems-reaching-own-output-quotas-adding-the-shortfalls-are-linked-to-a-lack-of-investments-which-may-results-in-oil-prices-rising-to-usd-90-bbl-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 20,
+            "name": "Commodities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 13:44:00",
+        "gmt_time": "2018-09-03 05:44:00"
+    },
+    {
+        "id": 672436,
+        "updated_sequence": 1043123,
+        "published_at": {
+            "unix": 1535952360,
+            "text": "2018-09-03 06:26:00 +0100",
+            "iso_8601": "2018-09-03T05:26:00Z"
+        },
+        "updated_at": {
+            "unix": 1535952429,
+            "text": "2018-09-03 06:27:09 +0100",
+            "iso_8601": "2018-09-03T05:27:09Z"
+        },
+        "subject": "RANsquawk Daily European Opening News - 3rd September 2018 ",
+        "content": "<p>To download the report, please click <a href=\"/research_sheets/19995/download\">here</a><br />If you would like to subscribe to receive the research sheets directly in your inbox, you can now do so under the <a href=\"/research_sheets\">Research Suite</a> section of the portal.<br />To subscribe simply check the box next to &quot;Email these reports&quot; under the desired category.</p>\r\n\r\n<ul><li>Asian equity markets traded mostly lower with the region cautious heading into an event-packed week</li>\r\n  <li>This followed a lack of breakthrough in last week&rsquo;s NAFTA related talks between US and Canada. Additionally, the public comment period for the proposed US tariffs on a further USD 200bln of Chinese goods is set to expire by Thursday</li>\r\n  <li>GBP/USD was pressured and briefly fell below the 1.2900 handle on Brexit-related discord with EU&rsquo;s Barnier said to strongly oppose UK PM May&#39;s Chequers trade proposals</li>\r\n  <li>Looking ahead, highlights include EZ mfg PMIs, ECB&rsquo;s Mersch, Fed&rsquo;s Evans, US markets are closed for the Labor Day Holiday</li>\r\n</ul>\r\n\r\n<p>ASIA</p>\r\n\r\n<p>Asian equity markets traded mostly lower with the region cautious heading into an event-packed week and as trade-related concerns clouded over risk sentiment. This followed a lack of breakthrough in last week&rsquo;s NAFTA related talks between US and Canada with President Trump suggesting a willingness to go ahead without Canada, while fresh tariff concerns also lingered with the public comment period for the proposed US tariffs on a further USD 200bln of Chinese goods is set to expire by Thursday. This weighed on Nikkei 225 (-0.6%), Hang Seng (-0.9%) and Shanghai Comp. (-0.9%), with underperformance seen in China following disappointing Caixin Manufacturing PMI data, while the ASX 200 (Unch.) bucked the trend and remained afloat on mixed data which showed solid growth in Company Profits and as the local currency depreciated to its weakest since January 2017. Finally, 10yr JGBs were lower in a continuation of the selling pressure in the aftermath of the BoJ&rsquo;s purchasing announcement for September, in which it plans to reduce the amount of times it buys 1-3yr, 3-5yr and 5-10yr JGBs to just 5 occasions this month vs. Prev. 6.</p>\r\n\r\n<p>Chinese Caixin Manufacturing PMI Final (Aug) 50.6 vs. Exp. 50.7 (Prev. 50.8). (Newswires)</p>\r\n\r\n<p><br />China Communist Party journal stated China may experience short-term pain from trade dispute with US including negative impact to financial stability but reiterated that there will be no change to the stable growth trend. (Newswires)</p>\r\n\r\n<p><br />PBoC skipped open market operations for a net neutral daily position. (Newswires)</p>\r\n\r\n<p>PBoC sets CNY mid-point at 6.8347 (Prev. 6.8246)<br />&nbsp;</p>\r\n\r\n<p>UK/EU</p>\r\n\r\n<p>EU chief Brexit negotiator Barnier stated he strongly opposes UK PM May&#39;s Chequers Brexit trade proposals, while reports noted that negotiators will re-engage again this week. In addition, Barnier also commented that EU and UK do not need more time to reach an agreement and that political decisions are required. (Guardian)</p>\r\n\r\n<p>UK PM May said she will refuse compromises on her Brexit plan that are not in the national interest and that she is confident the government can broker a good deal for Britain, while she added she will not succumb to those calling for a second referendum. PM May added that progress has been made in negotiations following the Chequers agreement and that the government has also been preparing for the event of a no-deal Brexit. (Sunday Telegraph)</p>\r\n\r\n<p>UK cabinet ministers reportedly have reassured Remain advocates in the Conservative Party that PM May&#39;s Chequers plan is not set in stone and could still be altered to retain the support from Remainers. (The Times) The Times also reports, that UK PM May&rsquo;s Brexit plan was hanging by a thread last night as 20 Conservative MPs made a joint public commitment to scupper her proposals, some MPs have formed the Stand Up 4 Brexit group, a grassroots campaign that commits supporters to ripping up the EU negotiations to date. (Times) Furthermore, former Brexit Secretary Davis has announced his decision to vote against UK PM May&rsquo;s Brexit plan, thus raising prospects of a Parliamentary defeat for May. (FT)</p>\r\n\r\n<p>Former UK Foreign Minister Johnson has savaged UK PM May&#39;s Brexit plans, saying they would leave the UK with &quot;diddly squat&quot; after the negotiations and hand the EU &quot;victory&quot;. (BBC)</p>\r\n\r\n<p><br />UK International Trade Secretary Liam Fox has refused to back Chancellor Philip Hammond&#39;s warning that a &quot;no-deal&quot; Brexit could damage the economy. (BBC)</p>\r\n\r\n<p><br />ECB&#39;s de Guindos said economic growth in the Euro area remains solid and broad-based, while he noted risks surrounding growth outlook are balanced but uncertainties remain. De Guindos added that underlying inflation expected to pick-up before the end of summer and that uncertainty around the path of inflation has diminished. (Newswires)</p>\r\n\r\n<p>Fitch affirmed Italy at &#39;BBB&#39;; Outlook revised from Stable to Negative, while Fitch affirmed Hungary at &#39;BBB-&#39;; Outlook Positive. (Newswires)<br />&nbsp;</p>\r\n\r\n<p>FX</p>\r\n\r\n<p>In FX markets, the greenback was quiet amid the Labor Day weekend in US and Canada which kept the DXY steady above the 95.00 level, while CAD weakened following Trump&rsquo;s Twitter tirade in which he threatened to leave Canada out of the agreement and with Barclays also recommending long USD/CAD for its trade of the week. Elsewhere, GBP/USD was pressured and briefly fell below the 1.2900 handle on Brexit-related discord with EU&rsquo;s Barnier said to strongly oppose UK PM May&#39;s Chequers trade proposals, while antipodeans were also softer with AUD/USD at its lowest since January 2017 in a continuation of the downtrend in the currency and after Retail Sales fell short of estimates.</p>\r\n\r\n<p>Australian Retail Sales MM Jul 0.0% vs. Exp. 0.3% (Prev. 0.4%). (Newswires)<br />Australian Gross Company Profits Q2 2.0% vs. Exp. 1.3% (Prev. 5.9%)<br />Australian Company Profits Pre-Tax Q2 9.6% (Prev. -16.0%)<br />Australian Business Inventories Q2 0.6% vs. Exp. 0.3% (Prev. 0.7%, Rev. 0.8%)</p>\r\n\r\n<p><br />COMMODITIES</p>\r\n\r\n<p>Commodities were weaker overnight amid the risk averse tone due to ongoing trade-related concerns which saw WTI crude futures retreat further below the USD 70/bbl level, while gold prices were also softer after having failed to hold above USD 1200/oz. Elsewhere, copper extended on Friday&rsquo;s losses amid the subdued tone across the complex and amid underperformance in its largest buyer China.&nbsp;</p>\r\n\r\n<p>Baker Hughes Rig Count (31 Aug) Oil rigs +2 to 862, Gas rigs +2 to 184, total rigs +4 to 1048. (Newswires)</p>\r\n\r\n<p><br />US</p>\r\n\r\n<p>US President Trump tweeted over the weekend that a trilateral NAFTA deal with Canada is unnecessary and warned that Canada must accept new terms or US will terminate the agreement and revert to pre-NAFTA. (Twitter)</p>\r\n\r\n<p>US and Canada NAFTA talks concluded on Friday without a breakthrough and are set to resume on Wednesday, while reports also noted that President Trump will notify Congress to proceed with a Mexico-only trade deal that will replace NAFTA. There were also comments from USTR Lighthizer that President Trump will sign a deal with Mexico, and Canada if it is willing, while he added that talks with Canada were constructive and made progress. (Newswires)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "ransquawk-daily-european-opening-news-3rd-september-2018-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 13:26:00",
+        "gmt_time": "2018-09-03 05:26:00"
+    },
+    {
+        "id": 672435,
+        "updated_sequence": 1043117,
+        "published_at": {
+            "unix": 1535950860,
+            "text": "2018-09-03 06:01:00 +0100",
+            "iso_8601": "2018-09-03T05:01:00Z"
+        },
+        "updated_at": {
+            "unix": 1535950955,
+            "text": "2018-09-03 06:02:35 +0100",
+            "iso_8601": "2018-09-03T05:02:35Z"
+        },
+        "subject": "Posco (005490 KS) plans KRW 45tln spending over next half-decade",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "posco-005490-ks-plans-krw-45tln-spending-over-next-half-decade-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 13:01:00",
+        "gmt_time": "2018-09-03 05:01:00"
+    },
+    {
+        "id": 672434,
+        "updated_sequence": 1043114,
+        "published_at": {
+            "unix": 1535950800,
+            "text": "2018-09-03 06:00:00 +0100",
+            "iso_8601": "2018-09-03T05:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1535950909,
+            "text": "2018-09-03 06:01:49 +0100",
+            "iso_8601": "2018-09-03T05:01:49Z"
+        },
+        "subject": "Japanese Vehicle Sales (Aug) Y/Y -0.2% (Prev. 1.2%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-vehicle-sales-aug-y-y-0-2-prev-1-2-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 13:00:00",
+        "gmt_time": "2018-09-03 05:00:00"
+    },
+    {
+        "id": 672433,
+        "updated_sequence": 1043111,
+        "published_at": {
+            "unix": 1535950800,
+            "text": "2018-09-03 06:00:00 +0100",
+            "iso_8601": "2018-09-03T05:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1535950892,
+            "text": "2018-09-03 06:01:32 +0100",
+            "iso_8601": "2018-09-03T05:01:32Z"
+        },
+        "subject": "Ireland Manufacturing PMI (Aug) 57.5 (Prev. 56.3)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "ireland-manufacturing-pmi-aug-57-5-prev-56-3-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 13:00:00",
+        "gmt_time": "2018-09-03 05:00:00"
+    },
+    {
+        "id": 672430,
+        "updated_sequence": 1043102,
+        "published_at": {
+            "unix": 1535950440,
+            "text": "2018-09-03 05:54:00 +0100",
+            "iso_8601": "2018-09-03T04:54:00Z"
+        },
+        "updated_at": {
+            "unix": 1535950630,
+            "text": "2018-09-03 05:57:10 +0100",
+            "iso_8601": "2018-09-03T04:57:10Z"
+        },
+        "subject": "ASIA-PAC MARKET WRAP: Asia begins the month cautious after the lack of breakthrough in US-Canada trade talks and ahead potential fresh tariffs on China",
+        "content": "<p>Asia equity markets traded mostly lower with the region cautious heading into an event-packed week and as trade-related concerns clouded over risk sentiment. This followed a lack of breakthrough in last week&rsquo;s NAFTA related talks between US and Canada with President Trump suggesting a willingness to go ahead without Canada, while fresh tariff concerns also lingered with the public comment period for the proposed US tariffs on a further USD 200bln of Chinese good set to expire by Thursday. This weighed on Nikkei 225 (-0.6%), Hang Seng (-0.9%) and Shanghai Comp. (-0.9%), with underperformance seen in China following disappointing Caixin Manufacturing PMI data, while the ASX 200 (Unch.) bucked the trend and remained afloat on mixed data which showed solid growth in Company Profits and as the local currency depreciated to its weakest since January 2017. Finally, 10yr JGBs were lower in a continuation of the selling pressure in the aftermath of the BoJ&rsquo;s purchasing announcement for September, in which it plans to reduce the amount of times it buys 1-3yr, 3-5yr and 5-10yr JGBs to just 5 occasions this month vs. Prev. 6.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-market-wrap-asia-begins-the-month-cautious-after-the-lack-of-breakthrough-in-us-canada-trade-talks-and-ahead-potential-fresh-tariffs-on-china-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 12:54:00",
+        "gmt_time": "2018-09-03 04:54:00"
+    },
+    {
+        "id": 672429,
+        "updated_sequence": 1043099,
+        "published_at": {
+            "unix": 1535949600,
+            "text": "2018-09-03 05:40:00 +0100",
+            "iso_8601": "2018-09-03T04:40:00Z"
+        },
+        "updated_at": {
+            "unix": 1535949646,
+            "text": "2018-09-03 05:40:46 +0100",
+            "iso_8601": "2018-09-03T04:40:46Z"
+        },
+        "subject": "Japanese PM Abe says retaliatory tariffs do not create anything",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-pm-abe-says-retaliatory-tariffs-do-not-create-anything-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 12:40:00",
+        "gmt_time": "2018-09-03 04:40:00"
+    },
+    {
+        "id": 672428,
+        "updated_sequence": 1043096,
+        "published_at": {
+            "unix": 1535949480,
+            "text": "2018-09-03 05:38:00 +0100",
+            "iso_8601": "2018-09-03T04:38:00Z"
+        },
+        "updated_at": {
+            "unix": 1535949565,
+            "text": "2018-09-03 05:39:25 +0100",
+            "iso_8601": "2018-09-03T04:39:25Z"
+        },
+        "subject": "S&P says Argentina rating may be reduced deeper into junk status amid currency plunge",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "s-p-says-argentina-rating-may-be-reduced-deeper-into-junk-status-amid-currency-plunge-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 12:38:00",
+        "gmt_time": "2018-09-03 04:38:00"
+    },
+    {
+        "id": 672427,
+        "updated_sequence": 1043093,
+        "published_at": {
+            "unix": 1535948400,
+            "text": "2018-09-03 05:20:00 +0100",
+            "iso_8601": "2018-09-03T04:20:00Z"
+        },
+        "updated_at": {
+            "unix": 1535948491,
+            "text": "2018-09-03 05:21:31 +0100",
+            "iso_8601": "2018-09-03T04:21:31Z"
+        },
+        "subject": "South Korean President Moon is said to have floated the concept of a 4-way summit between US, China, South Korea and North Korea",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "south-korean-president-moon-is-said-to-have-floated-the-concept-of-a-4-way-summit-between-us-china-south-korea-and-north-korea-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 12:20:00",
+        "gmt_time": "2018-09-03 04:20:00"
+    },
+    {
+        "id": 672425,
+        "updated_sequence": 1043087,
+        "published_at": {
+            "unix": 1535947860,
+            "text": "2018-09-03 05:11:00 +0100",
+            "iso_8601": "2018-09-03T04:11:00Z"
+        },
+        "updated_at": {
+            "unix": 1535947885,
+            "text": "2018-09-03 05:11:25 +0100",
+            "iso_8601": "2018-09-03T04:11:25Z"
+        },
+        "subject": "Thailand Commerce Ministry forecasts exports to grow 9% this year",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "thailand-commerce-ministry-forecasts-exports-to-grow-9-this-year-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 12:11:00",
+        "gmt_time": "2018-09-03 04:11:00"
+    },
+    {
+        "id": 672426,
+        "updated_sequence": 1043090,
+        "published_at": {
+            "unix": 1535947800,
+            "text": "2018-09-03 05:10:00 +0100",
+            "iso_8601": "2018-09-03T04:10:00Z"
+        },
+        "updated_at": {
+            "unix": 1535947941,
+            "text": "2018-09-03 05:12:21 +0100",
+            "iso_8601": "2018-09-03T04:12:21Z"
+        },
+        "subject": "Qatar is reportedly planing investment of billions of dollars in Germany",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "qatar-is-reportedly-planing-investment-of-billions-of-dollars-in-germany-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 12:10:00",
+        "gmt_time": "2018-09-03 04:10:00"
+    },
+    {
+        "id": 672421,
+        "updated_sequence": 1043075,
+        "published_at": {
+            "unix": 1535946660,
+            "text": "2018-09-03 04:51:00 +0100",
+            "iso_8601": "2018-09-03T03:51:00Z"
+        },
+        "updated_at": {
+            "unix": 1535946728,
+            "text": "2018-09-03 04:52:08 +0100",
+            "iso_8601": "2018-09-03T03:52:08Z"
+        },
+        "subject": "Moody's says Hong Kong banking system outlook is stable and supported by steady economic growth",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "moody-s-says-hong-kong-banking-system-outlook-is-stable-and-supported-by-steady-economic-growth-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 11:51:00",
+        "gmt_time": "2018-09-03 03:51:00"
+    },
+    {
+        "id": 672419,
+        "updated_sequence": 1043069,
+        "published_at": {
+            "unix": 1535946000,
+            "text": "2018-09-03 04:40:00 +0100",
+            "iso_8601": "2018-09-03T03:40:00Z"
+        },
+        "updated_at": {
+            "unix": 1535946018,
+            "text": "2018-09-03 04:40:18 +0100",
+            "iso_8601": "2018-09-03T03:40:18Z"
+        },
+        "subject": "Thailand\tCPI (Aug) Y/Y 1.6% vs. Exp.\t1.5% (Prev. 1.5%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "thailand-cpi-aug-y-y-1-6-vs-exp-1-5-prev-1-5-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 11:40:00",
+        "gmt_time": "2018-09-03 03:40:00"
+    },
+    {
+        "id": 672420,
+        "updated_sequence": 1043072,
+        "published_at": {
+            "unix": 1535946000,
+            "text": "2018-09-03 04:40:00 +0100",
+            "iso_8601": "2018-09-03T03:40:00Z"
+        },
+        "updated_at": {
+            "unix": 1535946045,
+            "text": "2018-09-03 04:40:45 +0100",
+            "iso_8601": "2018-09-03T03:40:45Z"
+        },
+        "subject": "Thailand CPI Core (Aug) Y/Y 0.8% vs. Exp. 0.8% (Prev. 0.8%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "thailand-cpi-core-aug-y-y-0-8-vs-exp-0-8-prev-0-8-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 11:40:00",
+        "gmt_time": "2018-09-03 03:40:00"
+    },
+    {
+        "id": 672418,
+        "updated_sequence": 1043066,
+        "published_at": {
+            "unix": 1535945700,
+            "text": "2018-09-03 04:35:00 +0100",
+            "iso_8601": "2018-09-03T03:35:00Z"
+        },
+        "updated_at": {
+            "unix": 1535945870,
+            "text": "2018-09-03 04:37:50 +0100",
+            "iso_8601": "2018-09-03T03:37:50Z"
+        },
+        "subject": "Japan sells JPY 598.6bln in 10yr, 20yr and 30yr JGBs in enhanced liquidity auction; b/c 2.93 vs. Prev. 3.11",
+        "content": "<p>- Highest accepted spread 0.014% vs. Prev. 0.002%<br />- Allotment of bids at highest spread 26.5367% vs. Prev. 90.3215%<br />- Average accepted spread 0.012% vs. Prev. 0.003%</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japan-sells-jpy-598-6bln-in-10yr-20yr-and-30yr-jgbs-in-enhanced-liquidity-auction-b-c-2-93-vs-prev-3-11-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 11:35:00",
+        "gmt_time": "2018-09-03 03:35:00"
+    },
+    {
+        "id": 672417,
+        "updated_sequence": 1043060,
+        "published_at": {
+            "unix": 1535945220,
+            "text": "2018-09-03 04:27:00 +0100",
+            "iso_8601": "2018-09-03T03:27:00Z"
+        },
+        "updated_at": {
+            "unix": 1535945276,
+            "text": "2018-09-03 04:27:56 +0100",
+            "iso_8601": "2018-09-03T03:27:56Z"
+        },
+        "subject": "PRE-MARKET INDIA STOCK NEWS: Q1 GDP topped estimates at 8.2% vs. Exp. 7.6%",
+        "content": "<p>Coal India (COAL IS)<br />- Co. August output rose 3.2% Y/Y to 38.8mln tons. (ET)</p>\r\n\r\n<p>Jaiprakash Power Ventures (JPVL IS)<br />- Co. board approved proposal to nearly double authorised share capital to INR 200.5bln from INR 100.5bln. (ET)</p>\r\n\r\n<p>Mahindra &amp; Mahindra (MM IS)<br />- Co. August sales increased 14% Y/Y to over 48.3k units. (Newswires)</p>\r\n\r\n<p>Maruti Suzuki (MSIL IS)<br />- Co. August sales declined 3.4% Y/Y. (ET)</p>\r\n\r\n<p>Punjab National Bank (PNB IS)<br />- Co. is seeking to offload its stake in the National Stock Exchange. (ET)</p>\r\n\r\n<p>Tata Motors (TTMT IS)<br />- Co. August sales increased 27% Y/Y to over 58.2k units. (Newswires)</p>\r\n\r\n<p>Wipro (WPRO IS)<br />- Co. signed a deal valued at USD 1.6bln which was the largest contract it has ever received. (ET)</p>\r\n\r\n<p>Data Recap<br />- India GDP (Q1) Y/Y 8.2% vs. Exp. 7.6% (Prev. 7.7%). (Newswires)<br />- India GVA (Q1) Y/Y 8.0% vs. Exp. 7.5% (Prev. 7.6%)<br />- India Eight Infrastructure Industries (Jul) Y/Y 6.6% (Prev. 7.6%)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-india-stock-news-q1-gdp-topped-estimates-at-8-2-vs-exp-7-6-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 11:27:00",
+        "gmt_time": "2018-09-03 03:27:00"
+    },
+    {
+        "id": 672416,
+        "updated_sequence": 1043057,
+        "published_at": {
+            "unix": 1535944380,
+            "text": "2018-09-03 04:13:00 +0100",
+            "iso_8601": "2018-09-03T03:13:00Z"
+        },
+        "updated_at": {
+            "unix": 1535944418,
+            "text": "2018-09-03 04:13:38 +0100",
+            "iso_8601": "2018-09-03T03:13:38Z"
+        },
+        "subject": "China is reportedly expected to hike prices of retail fuel from tomorrow",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "china-is-reportedly-expected-to-hike-prices-of-retail-fuel-from-tomorrow-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 11:13:00",
+        "gmt_time": "2018-09-03 03:13:00"
+    },
+    {
+        "id": 672415,
+        "updated_sequence": 1043054,
+        "published_at": {
+            "unix": 1535943300,
+            "text": "2018-09-03 03:55:00 +0100",
+            "iso_8601": "2018-09-03T02:55:00Z"
+        },
+        "updated_at": {
+            "unix": 1535943358,
+            "text": "2018-09-03 03:55:58 +0100",
+            "iso_8601": "2018-09-03T02:55:58Z"
+        },
+        "subject": "Indonesia Central Bank says it is intervening again in FX and bond markets",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "indonesia-central-bank-says-it-is-intervening-again-in-fx-and-bond-markets-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 10:55:00",
+        "gmt_time": "2018-09-03 02:55:00"
+    },
+    {
+        "id": 672414,
+        "updated_sequence": 1043051,
+        "published_at": {
+            "unix": 1535942100,
+            "text": "2018-09-03 03:35:00 +0100",
+            "iso_8601": "2018-09-03T02:35:00Z"
+        },
+        "updated_at": {
+            "unix": 1535942494,
+            "text": "2018-09-03 03:41:34 +0100",
+            "iso_8601": "2018-09-03T02:41:34Z"
+        },
+        "subject": "ASIA-PAC MID-SESSION UPDATE: Asia begins the month cautious due to the lack of breakthrough in US-Canada trade talks and potential fresh tariffs on China",
+        "content": "<p>Asia equity markets trade mostly lower with the region cautious heading into an event-packed week and as trade-related concerns cloud over risk sentiment. This follows a lack of breakthrough in last week&rsquo;s NAFTA related talks between US and Canada with President Trump suggesting a willingness to go ahead without Canada, while fresh tariff concerns also linger with the public comment period for the proposed US tariffs on a further USD 200bln of Chinese good set to expire before Thursday. This has weighed on Nikkei 225 (-0.4%), Hang Seng (-0.9%) and Shanghai Comp. (-0.9%), with underperformance seen in China following disappointing Caixin Manufacturing PMI data, while the ASX 200 (Unch.) bucks the trend with the index remaining afloat on mixed data which showed solid growth in Company Profits and with the local currency depreciating to its weakest since January 2017.</p>\r\n\r\n<p>In FX markets, the greenback is quiet with North American participants away amid the Labor Day weekend in US and Canada which has kept the DXY steady above the 95.00 level, while CAD weakened following Trump&rsquo;s Twitter tirade in which he threatened to leave Canada out of the agreement and with Barclays also recommending long USD/CAD for its trade of the week. Elsewhere, GBP/USD was pressured and briefly fell below the 1.2900 handle on Brexit-related discord with EU&rsquo;s Barnier said to strongly oppose UK PM May&#39;s Chequers trade proposals, while antipodeans are also softer with AUD/USD at its lowest since January 2017 in a continuation of the recent selling pressure and after Retail Sales fell short of estimates.</p>\r\n\r\n<p>Finally, 10yr JGBs are lower with demand dampened ahead of an enhanced-liquidity auction for longer-dated bonds later and in a continuation of the selling pressure in the aftermath of the BoJ&rsquo;s purchasing announcement for September in which it plans to reduce the amount of times it buys 1-3yr, 3-5yr and 5-10yr JGBs to just 5 occasions this month vs. Prev. 6.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-mid-session-update-asia-begins-the-month-cautious-due-to-the-lack-of-breakthrough-in-us-canada-trade-talks-and-potential-fresh-tariffs-on-china-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 10:35:00",
+        "gmt_time": "2018-09-03 02:35:00"
+    },
+    {
+        "id": 672414,
+        "updated_sequence": 1043051,
+        "published_at": {
+            "unix": 1535942100,
+            "text": "2018-09-03 03:35:00 +0100",
+            "iso_8601": "2018-09-03T02:35:00Z"
+        },
+        "updated_at": {
+            "unix": 1535942494,
+            "text": "2018-09-03 03:41:34 +0100",
+            "iso_8601": "2018-09-03T02:41:34Z"
+        },
+        "subject": "ASIA-PAC MID-SESSION UPDATE: Asia begins the month cautious due to the lack of breakthrough in US-Canada trade talks and potential fresh tariffs on China",
+        "content": "<p>Asia equity markets trade mostly lower with the region cautious heading into an event-packed week and as trade-related concerns cloud over risk sentiment. This follows a lack of breakthrough in last week&rsquo;s NAFTA related talks between US and Canada with President Trump suggesting a willingness to go ahead without Canada, while fresh tariff concerns also linger with the public comment period for the proposed US tariffs on a further USD 200bln of Chinese good set to expire before Thursday. This has weighed on Nikkei 225 (-0.4%), Hang Seng (-0.9%) and Shanghai Comp. (-0.9%), with underperformance seen in China following disappointing Caixin Manufacturing PMI data, while the ASX 200 (Unch.) bucks the trend with the index remaining afloat on mixed data which showed solid growth in Company Profits and with the local currency depreciating to its weakest since January 2017.</p>\r\n\r\n<p>In FX markets, the greenback is quiet with North American participants away amid the Labor Day weekend in US and Canada which has kept the DXY steady above the 95.00 level, while CAD weakened following Trump&rsquo;s Twitter tirade in which he threatened to leave Canada out of the agreement and with Barclays also recommending long USD/CAD for its trade of the week. Elsewhere, GBP/USD was pressured and briefly fell below the 1.2900 handle on Brexit-related discord with EU&rsquo;s Barnier said to strongly oppose UK PM May&#39;s Chequers trade proposals, while antipodeans are also softer with AUD/USD at its lowest since January 2017 in a continuation of the recent selling pressure and after Retail Sales fell short of estimates.</p>\r\n\r\n<p>Finally, 10yr JGBs are lower with demand dampened ahead of an enhanced-liquidity auction for longer-dated bonds later and in a continuation of the selling pressure in the aftermath of the BoJ&rsquo;s purchasing announcement for September in which it plans to reduce the amount of times it buys 1-3yr, 3-5yr and 5-10yr JGBs to just 5 occasions this month vs. Prev. 6.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-mid-session-update-asia-begins-the-month-cautious-due-to-the-lack-of-breakthrough-in-us-canada-trade-talks-and-potential-fresh-tariffs-on-china-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 10:35:00",
+        "gmt_time": "2018-09-03 02:35:00"
+    },
+    {
+        "id": 672413,
+        "updated_sequence": 1043046,
+        "published_at": {
+            "unix": 1535940180,
+            "text": "2018-09-03 03:03:00 +0100",
+            "iso_8601": "2018-09-03T02:03:00Z"
+        },
+        "updated_at": {
+            "unix": 1535940368,
+            "text": "2018-09-03 03:06:08 +0100",
+            "iso_8601": "2018-09-03T02:06:08Z"
+        },
+        "subject": "UK cabinet ministers reportedly have reassured Remain advocates in the Conservative Party that PM May's Chequers plan is not set in stone and could still be altered to retain the support from Remainers, according to The Times",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Times",
+        "slug": "uk-cabinet-ministers-reportedly-have-reassured-remain-advocates-in-the-conservative-party-that-pm-may-s-chequers-plan-is-not-set-in-stone-and-could-still-be-altered-to-retain-the-support-from-remainers-according-to-the-times-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 10:03:00",
+        "gmt_time": "2018-09-03 02:03:00"
+    },
+    {
+        "id": 672409,
+        "updated_sequence": 1043034,
+        "published_at": {
+            "unix": 1535939160,
+            "text": "2018-09-03 02:46:00 +0100",
+            "iso_8601": "2018-09-03T01:46:00Z"
+        },
+        "updated_at": {
+            "unix": 1535939493,
+            "text": "2018-09-03 02:51:33 +0100",
+            "iso_8601": "2018-09-03T01:51:33Z"
+        },
+        "subject": "PBoC Deputy Governor says they will provide foreign institutional investors a friendlier and more convenient investment environment in China's bond market",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pboc-deputy-governor-says-they-will-provide-foreign-institutional-investors-a-friendlier-and-more-convenient-investment-environment-in-china-s-bond-market-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 09:46:00",
+        "gmt_time": "2018-09-03 01:46:00"
+    },
+    {
+        "id": 672407,
+        "updated_sequence": 1043028,
+        "published_at": {
+            "unix": 1535938920,
+            "text": "2018-09-03 02:42:00 +0100",
+            "iso_8601": "2018-09-03T01:42:00Z"
+        },
+        "updated_at": {
+            "unix": 1535938970,
+            "text": "2018-09-03 02:42:50 +0100",
+            "iso_8601": "2018-09-03T01:42:50Z"
+        },
+        "subject": "PBoC will support overseas rating agencies to enter the domestic bond market",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pboc-will-support-overseas-rating-agencies-to-enter-the-domestic-bond-market-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 09:42:00",
+        "gmt_time": "2018-09-03 01:42:00"
+    },
+    {
+        "id": 672406,
+        "updated_sequence": 1043025,
+        "published_at": {
+            "unix": 1535938620,
+            "text": "2018-09-03 02:37:00 +0100",
+            "iso_8601": "2018-09-03T01:37:00Z"
+        },
+        "updated_at": {
+            "unix": 1535938681,
+            "text": "2018-09-03 02:38:01 +0100",
+            "iso_8601": "2018-09-03T01:38:01Z"
+        },
+        "subject": "China finds dumping concerning N-Butanol imports from Taiwan and US",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "china-finds-dumping-concerning-n-butanol-imports-from-taiwan-and-us-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 09:37:00",
+        "gmt_time": "2018-09-03 01:37:00"
+    },
+    {
+        "id": 672400,
+        "updated_sequence": 1043004,
+        "published_at": {
+            "unix": 1535937720,
+            "text": "2018-09-03 02:22:00 +0100",
+            "iso_8601": "2018-09-03T01:22:00Z"
+        },
+        "updated_at": {
+            "unix": 1535937777,
+            "text": "2018-09-03 02:22:57 +0100",
+            "iso_8601": "2018-09-03T01:22:57Z"
+        },
+        "subject": "Suzuki (7269 JT) is said to invest INR 90bln on new Indian factory ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "suzuki-7269-jt-is-said-to-invest-inr-90bln-on-new-indian-factory-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 09:22:00",
+        "gmt_time": "2018-09-03 01:22:00"
+    },
+    {
+        "id": 672399,
+        "updated_sequence": 1043001,
+        "published_at": {
+            "unix": 1535937300,
+            "text": "2018-09-03 02:15:00 +0100",
+            "iso_8601": "2018-09-03T01:15:00Z"
+        },
+        "updated_at": {
+            "unix": 1535937370,
+            "text": "2018-09-03 02:16:10 +0100",
+            "iso_8601": "2018-09-03T01:16:10Z"
+        },
+        "subject": "PBoC sets CNY mid-point at 6.8347 (Prev. 6.8246)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pboc-sets-cny-mid-point-at-6-8347-prev-6-8246-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 09:15:00",
+        "gmt_time": "2018-09-03 01:15:00"
+    },
+    {
+        "id": 672398,
+        "updated_sequence": 1042998,
+        "published_at": {
+            "unix": 1535937120,
+            "text": "2018-09-03 02:12:00 +0100",
+            "iso_8601": "2018-09-03T01:12:00Z"
+        },
+        "updated_at": {
+            "unix": 1535937170,
+            "text": "2018-09-03 02:12:50 +0100",
+            "iso_8601": "2018-09-03T01:12:50Z"
+        },
+        "subject": "PBoC skips open market operations for a net neutral daily position",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pboc-skips-open-market-operations-for-a-net-neutral-daily-position-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 09:12:00",
+        "gmt_time": "2018-09-03 01:12:00"
+    },
+    {
+        "id": 672396,
+        "updated_sequence": 1042992,
+        "published_at": {
+            "unix": 1535936940,
+            "text": "2018-09-03 02:09:00 +0100",
+            "iso_8601": "2018-09-03T01:09:00Z"
+        },
+        "updated_at": {
+            "unix": 1535936984,
+            "text": "2018-09-03 02:09:44 +0100",
+            "iso_8601": "2018-09-03T01:09:44Z"
+        },
+        "subject": "Fitch affirms Indonesia at BBB; Outlook Stable",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "fitch-affirms-indonesia-at-bbb-outlook-stable-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 09:09:00",
+        "gmt_time": "2018-09-03 01:09:00"
+    },
+    {
+        "id": 672395,
+        "updated_sequence": 1042989,
+        "published_at": {
+            "unix": 1535936520,
+            "text": "2018-09-03 02:02:00 +0100",
+            "iso_8601": "2018-09-03T01:02:00Z"
+        },
+        "updated_at": {
+            "unix": 1535936629,
+            "text": "2018-09-03 02:03:49 +0100",
+            "iso_8601": "2018-09-03T01:03:49Z"
+        },
+        "subject": "PRE-MARKET CHINESE  STOCK NEWS: China Aoyuan Property Group (3883 HK) August contract sales rose 158% Y/Y; Macau gaming revenue in August rose 17.1% Y/Y; Caixin Manufacturing PMI due shortly after the open",
+        "content": "<p>China Aoyuan Property Group (3883 HK)<br />- Co. August contract sales rose 158% Y/Y to CNY 6.9bln. (Newswires)</p>\r\n\r\n<p>Country Garden Holdings (2007 HK)<br />- Malaysia is said to propose a 30% quota in the Forest City project for Malaysians. (Newswires)</p>\r\n\r\n<p>HNA Group (521 HK)<br />- Co. reported H1 net CNY 1.3bln, while it also reduced its debt by nearly 11%. (Newswires)<br />- Co. is reportedly open to sale of its stake in Virgin Australia and are said to have received expressions of interest for its near-20% stake in the airliner. (The Australian)</p>\r\n\r\n<p>HSBC (5 HK)<br />- Co. is to increase HKD deposit rates on 3-month, 6-month and 18-month new fund deposits. (Newswires)</p>\r\n\r\n<p>i-Cable Communications (1097 HK)<br />- Co. unit enters MOU with China Mobile HK concerning commercial arrangements for 2 decades. (Newswires)</p>\r\n\r\n<p>Casino Names<br />- Macau gaming revenue in August rose 17.1% Y/Y to MOP 26.6bln. (Newswires)</p>\r\n\r\n<p>Other News<br />- China passed law related to e-commerce framework on Friday which will take effect from 2019. (Newswires)<br />- JD.com founder and CEO Liu was arrested and later released in US after a sexual abuse complaint. (FT)</p>\r\n\r\n<p>Data Recap<br />- Hong Kong Budget Balance (HKD)(Jul) -18.0B (Prev. -8.3B). (Newswires)<br />- Hong Kong Money Supply M2 (Jul) Y/Y 4.5% (Prev. 6.2%)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-chinese-stock-news-china-aoyuan-property-group-3883-hk-august-contract-sales-rose-158-y-y-macau-gaming-revenue-in-august-rose-17-1-y-y-caixin-manufacturing-pmi-due-shortly-after-the-open-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 09:02:00",
+        "gmt_time": "2018-09-03 01:02:00"
+    },
+    {
+        "id": 672394,
+        "updated_sequence": 1042986,
+        "published_at": {
+            "unix": 1535936400,
+            "text": "2018-09-03 02:00:00 +0100",
+            "iso_8601": "2018-09-03T01:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1535936510,
+            "text": "2018-09-03 02:01:50 +0100",
+            "iso_8601": "2018-09-03T01:01:50Z"
+        },
+        "subject": "Australian TD Securities Inflation (Aug) Y/Y 2.1% (Prev. 2.0%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "australian-td-securities-inflation-aug-y-y-2-1-prev-2-0-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 09:00:00",
+        "gmt_time": "2018-09-03 01:00:00"
+    },
+    {
+        "id": 672393,
+        "updated_sequence": 1042983,
+        "published_at": {
+            "unix": 1535936400,
+            "text": "2018-09-03 02:00:00 +0100",
+            "iso_8601": "2018-09-03T01:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1535936487,
+            "text": "2018-09-03 02:01:27 +0100",
+            "iso_8601": "2018-09-03T01:01:27Z"
+        },
+        "subject": "Australian TD Securities Inflation (Aug) M/M 0.1% (Prev. 0.1%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "australian-td-securities-inflation-aug-m-m-0-1-prev-0-1-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 09:00:00",
+        "gmt_time": "2018-09-03 01:00:00"
+    },
+    {
+        "id": 672392,
+        "updated_sequence": 1042980,
+        "published_at": {
+            "unix": 1535936160,
+            "text": "2018-09-03 01:56:00 +0100",
+            "iso_8601": "2018-09-03T00:56:00Z"
+        },
+        "updated_at": {
+            "unix": 1535936241,
+            "text": "2018-09-03 01:57:21 +0100",
+            "iso_8601": "2018-09-03T00:57:21Z"
+        },
+        "subject": "Australian PM Morrison says he is open to ordering an inquiry into energy sector pricing ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "australian-pm-morrison-says-he-is-open-to-ordering-an-inquiry-into-energy-sector-pricing-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 08:56:00",
+        "gmt_time": "2018-09-03 00:56:00"
+    },
+    {
+        "id": 672391,
+        "updated_sequence": 1042974,
+        "published_at": {
+            "unix": 1535934960,
+            "text": "2018-09-03 01:36:00 +0100",
+            "iso_8601": "2018-09-03T00:36:00Z"
+        },
+        "updated_at": {
+            "unix": 1535935023,
+            "text": "2018-09-03 01:37:03 +0100",
+            "iso_8601": "2018-09-03T00:37:03Z"
+        },
+        "subject": "PRE-MARKET TAIWAN AND SINGAPORE NEWS: Light news flow",
+        "content": "<p>TAIWAN</p>\r\n\r\n<p>Tech<br />- Market Intelligence and Consulting Institute expects wafer foundry production in Taiwan to grow by between 8%-10% Y/Y for 2019 vs. forecasts of 6.4% growth this year. (Taipei Times)</p>\r\n\r\n<p>Other News<br />- Taiwan is seen to announce continuous trading measures, according to reports. (Newswires)</p>\r\n\r\n<p>SINGAPORE</p>\r\n\r\n<p>Developers<br />- Development charge rates for redeveloping land rose for commercial and industrial sites, as well as for sites earmarked for non-landed private homes, hotels and hospitals. (Straits Times)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-taiwan-and-singapore-news-light-news-flow-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 08:36:00",
+        "gmt_time": "2018-09-03 00:36:00"
+    },
+    {
+        "id": 672387,
+        "updated_sequence": 1042962,
+        "published_at": {
+            "unix": 1535934600,
+            "text": "2018-09-03 01:30:00 +0100",
+            "iso_8601": "2018-09-03T00:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1535934660,
+            "text": "2018-09-03 01:31:00 +0100",
+            "iso_8601": "2018-09-03T00:31:00Z"
+        },
+        "subject": "Taiwan Nikkei Manufacturing PMI (Aug) 53.0 (Prev. 53.1)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "taiwan-nikkei-manufacturing-pmi-aug-53-0-prev-53-1-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 08:30:00",
+        "gmt_time": "2018-09-03 00:30:00"
+    },
+    {
+        "id": 672390,
+        "updated_sequence": 1042971,
+        "published_at": {
+            "unix": 1535934600,
+            "text": "2018-09-03 01:30:00 +0100",
+            "iso_8601": "2018-09-03T00:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1535934778,
+            "text": "2018-09-03 01:32:58 +0100",
+            "iso_8601": "2018-09-03T00:32:58Z"
+        },
+        "subject": "Malaysia Nikkei Manufacturing PMI (Aug) 51.2 (Prev. 49.7)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "malaysia-nikkei-manufacturing-pmi-aug-51-2-prev-49-7-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 08:30:00",
+        "gmt_time": "2018-09-03 00:30:00"
+    },
+    {
+        "id": 672389,
+        "updated_sequence": 1042968,
+        "published_at": {
+            "unix": 1535934600,
+            "text": "2018-09-03 01:30:00 +0100",
+            "iso_8601": "2018-09-03T00:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1535934745,
+            "text": "2018-09-03 01:32:25 +0100",
+            "iso_8601": "2018-09-03T00:32:25Z"
+        },
+        "subject": "Philippines Nikkei Manufacturing PMI (Aug) 51.9 (Prev. 50.9)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "philippines-nikkei-manufacturing-pmi-aug-51-9-prev-50-9-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 08:30:00",
+        "gmt_time": "2018-09-03 00:30:00"
+    },
+    {
+        "id": 672388,
+        "updated_sequence": 1042965,
+        "published_at": {
+            "unix": 1535934600,
+            "text": "2018-09-03 01:30:00 +0100",
+            "iso_8601": "2018-09-03T00:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1535934711,
+            "text": "2018-09-03 01:31:51 +0100",
+            "iso_8601": "2018-09-03T00:31:51Z"
+        },
+        "subject": "Thailand Nikkei Manufacturing PMI (Aug) 49.9 (Prev. 50.1)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "thailand-nikkei-manufacturing-pmi-aug-49-9-prev-50-1-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 08:30:00",
+        "gmt_time": "2018-09-03 00:30:00"
+    },
+    {
+        "id": 672386,
+        "updated_sequence": 1042959,
+        "published_at": {
+            "unix": 1535934600,
+            "text": "2018-09-03 01:30:00 +0100",
+            "iso_8601": "2018-09-03T00:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1535934644,
+            "text": "2018-09-03 01:30:44 +0100",
+            "iso_8601": "2018-09-03T00:30:44Z"
+        },
+        "subject": "Japanese Nikkei Manufacturing PMI (Aug F) 52.5 vs. Exp. 52.5 (Prev. 52.5)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-nikkei-manufacturing-pmi-aug-f-52-5-vs-exp-52-5-prev-52-5-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 08:30:00",
+        "gmt_time": "2018-09-03 00:30:00"
+    },
+    {
+        "id": 672383,
+        "updated_sequence": 1042977,
+        "published_at": {
+            "unix": 1535934480,
+            "text": "2018-09-03 01:28:00 +0100",
+            "iso_8601": "2018-09-03T00:28:00Z"
+        },
+        "updated_at": {
+            "unix": 1535935480,
+            "text": "2018-09-03 01:44:40 +0100",
+            "iso_8601": "2018-09-03T00:44:40Z"
+        },
+        "subject": "HSBC (5 HK) to increase HKD deposit rates on 3-month, 6-month and 18-month new fund deposits",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "hsbc-5-hk-to-increase-hkd-deposit-rates-on-3-month-6-month-and-18-month-new-fund-deposits-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 08:28:00",
+        "gmt_time": "2018-09-03 00:28:00"
+    },
+    {
+        "id": 672382,
+        "updated_sequence": 1042947,
+        "published_at": {
+            "unix": 1535933400,
+            "text": "2018-09-03 01:10:00 +0100",
+            "iso_8601": "2018-09-03T00:10:00Z"
+        },
+        "updated_at": {
+            "unix": 1535933446,
+            "text": "2018-09-03 01:10:46 +0100",
+            "iso_8601": "2018-09-03T00:10:46Z"
+        },
+        "subject": "China is said to mull revision to law that would permit dual-class share issuances",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "china-is-said-to-mull-revision-to-law-that-would-permit-dual-class-share-issuances-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 08:10:00",
+        "gmt_time": "2018-09-03 00:10:00"
+    },
+    {
+        "id": 672381,
+        "updated_sequence": 1042944,
+        "published_at": {
+            "unix": 1535932920,
+            "text": "2018-09-03 01:02:00 +0100",
+            "iso_8601": "2018-09-03T00:02:00Z"
+        },
+        "updated_at": {
+            "unix": 1535933060,
+            "text": "2018-09-03 01:04:20 +0100",
+            "iso_8601": "2018-09-03T00:04:20Z"
+        },
+        "subject": "Asia equity markets begin the new trading month mixed following the lacklustre finish on Friday, with the region indecisive amid ongoing trade concerns and ahead of this week's key risk events",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-equity-markets-begin-the-new-trading-month-mixed-following-the-lacklustre-finish-on-friday-with-the-region-indecisive-amid-ongoing-trade-concerns-and-ahead-of-this-week-s-key-risk-events-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 08:02:00",
+        "gmt_time": "2018-09-03 00:02:00"
+    },
+    {
+        "id": 672380,
+        "updated_sequence": 1042941,
+        "published_at": {
+            "unix": 1535932800,
+            "text": "2018-09-03 01:00:00 +0100",
+            "iso_8601": "2018-09-03T00:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1535932810,
+            "text": "2018-09-03 01:00:10 +0100",
+            "iso_8601": "2018-09-03T00:00:10Z"
+        },
+        "subject": "Australian CoreLogic House Px (Aug) M/M -0.4% (Prev. -0.6%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "australian-corelogic-house-px-aug-m-m-0-4-prev-0-6-03-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-03 08:00:00",
+        "gmt_time": "2018-09-03 00:00:00"
+    }
+]

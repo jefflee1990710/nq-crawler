@@ -1,0 +1,414 @@
+[
+    {
+        "id": 857795,
+        "updated_sequence": 1804959,
+        "published_at": {
+            "unix": 1551657000,
+            "text": "2019-03-03 23:50:00 +0000",
+            "iso_8601": "2019-03-03T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1551657049,
+            "text": "2019-03-03 23:50:49 +0000",
+            "iso_8601": "2019-03-03T23:50:49Z"
+        },
+        "subject": "Japan Monetary Base Y/Y 4.6% vs. Exp. 4.5% (Prev. 4.7%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japan-monetary-base-y-y-4-6-vs-exp-4-5-prev-4-7-03-03-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-03-04 07:50:00",
+        "gmt_time": "2019-03-03 23:50:00"
+    },
+    {
+        "id": 857796,
+        "updated_sequence": 1804962,
+        "published_at": {
+            "unix": 1551656940,
+            "text": "2019-03-03 23:49:00 +0000",
+            "iso_8601": "2019-03-03T23:49:00Z"
+        },
+        "updated_at": {
+            "unix": 1551657097,
+            "text": "2019-03-03 23:51:37 +0000",
+            "iso_8601": "2019-03-03T23:51:37Z"
+        },
+        "subject": "Australia ANZ Job Advertisements M/M -0.9% (Prev. -1.7%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "australia-anz-job-advertisements-m-m-0-9-prev-1-7-03-03-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-03-04 07:49:00",
+        "gmt_time": "2019-03-03 23:49:00"
+    },
+    {
+        "id": 857793,
+        "updated_sequence": 1804953,
+        "published_at": {
+            "unix": 1551656280,
+            "text": "2019-03-03 23:38:00 +0000",
+            "iso_8601": "2019-03-03T23:38:00Z"
+        },
+        "updated_at": {
+            "unix": 1551656788,
+            "text": "2019-03-03 23:46:28 +0000",
+            "iso_8601": "2019-03-03T23:46:28Z"
+        },
+        "subject": "US and South Korea are to launch a new combined exercise this week to replace their Spring-time \"Key Resolve\" drills; according to Yonhap",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>This follows reports that US and South Korea are to end their large, annual military drills to back diplomacy for the North Korea denuclarisation</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1551656787,
+            "text": "2019-03-03 23:46:27 +0000",
+            "iso_8601": "2019-03-03T23:46:27Z"
+        },
+        "push_notify": false,
+        "source": "Yonhap",
+        "slug": "us-and-south-korea-are-to-launch-a-new-combined-exercise-this-week-to-replace-their-spring-time-key-resolve-drills-according-to-yonhap-03-03-2019",
+        "hidden": false,
+        "section": {
+            "id": 23,
+            "name": "Geopolitical"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-03-04 07:38:00",
+        "gmt_time": "2019-03-03 23:38:00"
+    },
+    {
+        "id": 857792,
+        "updated_sequence": 1804950,
+        "published_at": {
+            "unix": 1551655980,
+            "text": "2019-03-03 23:33:00 +0000",
+            "iso_8601": "2019-03-03T23:33:00Z"
+        },
+        "updated_at": {
+            "unix": 1551656322,
+            "text": "2019-03-03 23:38:42 +0000",
+            "iso_8601": "2019-03-03T23:38:42Z"
+        },
+        "subject": "Details of UK import duties for foreign goods has reportedly been delayed again and may now come after PM May's vote on her Brexit deal expected on March 12th; according to sources cited by The Sun",
+        "content": "<ul><li>Insiders said the details of the tariff plan had been agreed by Cabinet Ministers with duties likely on beef, lamb, car parts and ceramics.</li><li>No.10 is said to be worried about upsetting Brussels by revealing its plans with negotiations over the Irish backstop at such a delicate stage</li><li><a href=\"https://www.thesun.co.uk/news/brexit/8552909/fresh-delay-on-no-deal-tariffs/\">Click here for the article</a></li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "The Sun",
+        "slug": "details-of-uk-import-duties-for-foreign-goods-has-reportedly-been-delayed-again-and-may-now-come-after-pm-may-s-vote-on-her-brexit-deal-expected-on-march-12th-according-to-sources-cited-by-the-sun-03-03-2019",
+        "hidden": false,
+        "section": {
+            "id": 38,
+            "name": "Brexit"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-03-04 07:33:00",
+        "gmt_time": "2019-03-03 23:33:00"
+    },
+    {
+        "id": 857791,
+        "updated_sequence": 1804941,
+        "published_at": {
+            "unix": 1551655380,
+            "text": "2019-03-03 23:23:00 +0000",
+            "iso_8601": "2019-03-03T23:23:00Z"
+        },
+        "updated_at": {
+            "unix": 1551655519,
+            "text": "2019-03-03 23:25:19 +0000",
+            "iso_8601": "2019-03-03T23:25:19Z"
+        },
+        "subject": "PRE-MARKET JAPAN AND SOUTH KOREA STOCK NEWS: US and South Korea are to scarp large annual military exercises ",
+        "content": "<p><strong>JAPAN</strong></p><p>Kawasaki Heavy (7012 JT) - Co. is reportedly considering LNG carriers at the newly completed dock in Northeast China. (Nikkei)</p><p>Subaru (7270 JT - America vehicle sales +3.8% Y/Y at 47.2K units. (Newswires)</p><p>Mazda (7261 JT) - February North America sales -7.3% Y/Y at 23.8K units. (Newswires)</p><p>Takeda (4502 JT) - Lupus Therapeutics has partnered with Co. on Phase I trial. (Newswires)</p><p>Daiichi Sankyo (4568 JT) - Co. said to be considering sale of OTC medicine business. (Newswires)</p><p>Sony Corp (6758 JT) - Co. repurchased JPY 48.5bln in shares. (Newswires)</p><p>NTT (9432 JT) - Co. has submitted business operation plan for approval. (Newswires)</p><p>Nexon (3659 JT) - Tencent, MBK and Kakao are said to be shortlisted for a stake in the Co. (Newswires)</p><p>&nbsp;</p><p><strong>SOUTH KOREA</strong></p><p>STOCKS</p><p>LG Electronics (066570 KS) - Co. are reportedly planning to sell water treatment unit. (Newswires)</p><p>Kia Motors (000270 KS) - Reports North American Sales +6.7% to 43.4K units. (Newswires)</p><p>LG Chem (051910 KS) - Co. are to reportedly build a second battery plant in Europe. (Yonhap)</p><p>Auto names - South Korea’s Automobile Manufacturers Association says Eco-friendly cars sales increased 26% last year and account for 8.2% of all passenger car market. (Yonhap)</p><p>&nbsp;</p><p>BROKER MOVES</p><p>NAVER (035420 KS) UPGRADED TO BUY FROM NEUTRAL AT NUMORA</p><p>&nbsp;</p><p>OTHER NEWS</p><p>- US to scrap large, annual military exercises with South Korea, NBC reported. (NBC)</p><p>- South Korea Finance Minister said the country will act to stabilise markets if needed, but the government sees limited impact from the Trump-Kim summit. (Newswires)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-japan-and-south-korea-stock-news-us-and-south-korea-are-to-scarp-large-annual-military-exercises-03-03-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-03-04 07:23:00",
+        "gmt_time": "2019-03-03 23:23:00"
+    },
+    {
+        "id": 857790,
+        "updated_sequence": 1804938,
+        "published_at": {
+            "unix": 1551653880,
+            "text": "2019-03-03 22:58:00 +0000",
+            "iso_8601": "2019-03-03T22:58:00Z"
+        },
+        "updated_at": {
+            "unix": 1551653989,
+            "text": "2019-03-03 22:59:49 +0000",
+            "iso_8601": "2019-03-03T22:59:49Z"
+        },
+        "subject": "US House Judiciary Committee plans to request documents from more than 60 associates of President Trump this week as part of a House investigation into obstruction of justice, corruption and abuse of power",
+        "content": "<ul><li><a href=\"http://as part of a House investigation into obstruction of justice, corruption and abuse of power.\">Click here for the article&nbsp;</a></li>\r\n</ul>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "WSJ",
+        "slug": "us-house-judiciary-committee-plans-to-request-documents-from-more-than-60-associates-of-president-trump-this-week-as-part-of-a-house-investigation-into-obstruction-of-justice-corruption-and-abuse-of-power-03-03-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-03-04 06:58:00",
+        "gmt_time": "2019-03-03 22:58:00"
+    },
+    {
+        "id": 857790,
+        "updated_sequence": 1804938,
+        "published_at": {
+            "unix": 1551653880,
+            "text": "2019-03-03 22:58:00 +0000",
+            "iso_8601": "2019-03-03T22:58:00Z"
+        },
+        "updated_at": {
+            "unix": 1551653989,
+            "text": "2019-03-03 22:59:49 +0000",
+            "iso_8601": "2019-03-03T22:59:49Z"
+        },
+        "subject": "US House Judiciary Committee plans to request documents from more than 60 associates of President Trump this week as part of a House investigation into obstruction of justice, corruption and abuse of power",
+        "content": "<ul><li><a href=\"http://as part of a House investigation into obstruction of justice, corruption and abuse of power.\">Click here for the article&nbsp;</a></li>\r\n</ul>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "WSJ",
+        "slug": "us-house-judiciary-committee-plans-to-request-documents-from-more-than-60-associates-of-president-trump-this-week-as-part-of-a-house-investigation-into-obstruction-of-justice-corruption-and-abuse-of-power-03-03-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-03-04 06:58:00",
+        "gmt_time": "2019-03-03 22:58:00"
+    },
+    {
+        "id": 857789,
+        "updated_sequence": 1804935,
+        "published_at": {
+            "unix": 1551652440,
+            "text": "2019-03-03 22:34:00 +0000",
+            "iso_8601": "2019-03-03T22:34:00Z"
+        },
+        "updated_at": {
+            "unix": 1551652838,
+            "text": "2019-03-03 22:40:38 +0000",
+            "iso_8601": "2019-03-03T22:40:38Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIA STOCK NEWS: ASX 200 is poised to rise following the Wall Street tech rally on Friday. (AFR)",
+        "content": "<p>OIL</p><p>- Crude prices ended last week in the red after a slew of disappointing economic data in a market that has been reluctant to rally. WTI (J9) FUTURES SETTLED USD 1.42 LOWER AT USD 55.80/BBL; BRENT (J9) FUTURES SETTLED USD 1.24 LOWER AT USD 65.07/BBL. (RANsquawk)</p><p>&nbsp;</p><p>STOCKS</p><p>Metcash (MTS AT) -Co. reports YTD total food sales marginally higher Y/Y. (Newswires)</p><p>G8 Education (GEM AT) - Co. CEO expects the Co. to open 15-20 new centres annually without negatively impacting existing centres. (Newswires)</p><p>Terracom (TER AT) - H1 revenue AUD 171.9mln vs. Prev. AUD 45.2mln. (Newswires)</p><p>Healius (HLS AT) - Jangho is unlikely to launch a revised offer in the near term for the Co. Furthermore, the Co. is expected to conduct AUD 1.5-2.0bln capital raise. (AFR)</p><p>GBST Holdings (GBT AT) - There are speculations of a potential merger with Bravura, there are no facts that a deal is even in early stages at the moment. (AFR)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-australia-stock-news-asx-200-is-poised-to-rise-following-the-wall-street-tech-rally-on-friday-afr-03-03-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-03-04 06:34:00",
+        "gmt_time": "2019-03-03 22:34:00"
+    },
+    {
+        "id": 857788,
+        "updated_sequence": 1804943,
+        "published_at": {
+            "unix": 1551651600,
+            "text": "2019-03-03 22:20:00 +0000",
+            "iso_8601": "2019-03-03T22:20:00Z"
+        },
+        "updated_at": {
+            "unix": 1551655839,
+            "text": "2019-03-03 23:30:39 +0000",
+            "iso_8601": "2019-03-03T23:30:39Z"
+        },
+        "subject": "Barclays Trade Recommendation: Long TRY/JPY at 20.74 [currently 20.81], target 21.10 (mid-Feb high) and stop 20.59 ",
+        "content": "<ul><li>&nbsp;A hawkish CBT tone should benefit the TRY&nbsp;</li><li>&nbsp;TRY looks compelling from a vol-adjusted carry perspective</li><li>&nbsp;TRY/JPY is also one of the best performers during low &amp; declining volatility periods&nbsp;</li><li>&nbsp;JPY technical weakness in USDJPY highlighted</li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "barclays-trade-recommendation-long-try-jpy-at-20-74-currently-20-81-target-21-10-mid-feb-high-and-stop-20-59-03-03-2019",
+        "hidden": false,
+        "section": {
+            "id": 22,
+            "name": "FX Flows"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-03-04 06:20:00",
+        "gmt_time": "2019-03-03 22:20:00"
+    },
+    {
+        "id": 857558,
+        "updated_sequence": 1804922,
+        "published_at": {
+            "unix": 1551650400,
+            "text": "2019-03-03 22:00:00 +0000",
+            "iso_8601": "2019-03-03T22:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1551650400,
+            "text": "2019-03-03 22:00:00 +0000",
+            "iso_8601": "2019-03-03T22:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-28-02-2019",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-03-04 06:00:00",
+        "gmt_time": "2019-03-03 22:00:00"
+    },
+    {
+        "id": 857786,
+        "updated_sequence": 1804920,
+        "published_at": {
+            "unix": 1551649860,
+            "text": "2019-03-03 21:51:00 +0000",
+            "iso_8601": "2019-03-03T21:51:00Z"
+        },
+        "updated_at": {
+            "unix": 1551650049,
+            "text": "2019-03-03 21:54:09 +0000",
+            "iso_8601": "2019-03-03T21:54:09Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASES CALENDAR NOW AVAILABLE IN THE RESEARCH SECTION: Highlights include Australian MI Inflation Gauge, Building Approvals, Company Gross Operating Profits, India away on holiday",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asian-daily-economic-releases-calendar-now-available-in-the-research-section-highlights-include-australian-mi-inflation-gauge-building-approvals-company-gross-operating-profits-india-away-on-holiday-03-03-2019",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-03-04 05:51:00",
+        "gmt_time": "2019-03-03 21:51:00"
+    },
+    {
+        "id": 857785,
+        "updated_sequence": 1804917,
+        "published_at": {
+            "unix": 1551649740,
+            "text": "2019-03-03 21:49:00 +0000",
+            "iso_8601": "2019-03-03T21:49:00Z"
+        },
+        "updated_at": {
+            "unix": 1551649865,
+            "text": "2019-03-03 21:51:05 +0000",
+            "iso_8601": "2019-03-03T21:51:05Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p><strong>4th March 2019</strong></p><p><strong>ASIA</strong></p><p>US and China are reportedly at the final stages of completing a trade deal as Beijing offered to lower tariffs and other restrictions (on US agricultural, chemical, autos, and other products) whilst US is considering removing most, if not all, sanctions levied against Chinese products. A formal agreement could be reached at a Trump-Xi summit around March 27th; according to sources familiar with the plans. (WSJ)</p><p>US President Trump has asked China to immediately remove all tariffs on US agricultural products as US-China are “moving along nicely” in trade talks. (Twitter)</p><p>NEC Director Kudlow said tremendous progress has been made on China trade talks; tariff strategy has helped in trade talks. (Newswires)</p><p>China is \"utterly dissatisfied and firmly opposes\" Canadian decision to allow Huawei CFO extradition case to go ahead, Chinese embassy in Canada said. Furthermore, Huawei CFO Meng Wanzhou has sued the Canadian government, police and border officials, claiming her legal rights were violated. Elsewhere, the UK could cap the use of Huawei equipment following the UK government’s review of the company; according to FT citing sources (Newswires/WSJ/FT)</p><p><strong>US</strong></p><p>US President Trump reiterated that the US Dollar is too strong, stating that it is prohibitive for business and referred to Fed Chair Powell as “a gentleman who likes raising interest rates”. (Newswires)</p><p>Fed's Bostic (Non-voter, Dove) said Fed is in the range of neutral, though still might be slightly below; reiterates 'wait and see' approach. (Newswires)</p><p>US Senator Bernie Sanders has launched his 2020 presidential bid. (BBC)</p><p>&nbsp;</p><p>-DATA RECAP</p><p>US ISM Manufacturing PMI Feb 54.2 vs. Exp. 55.5 (Prev. 56.6) (Newswires)</p><p>Canadian GDP QQ Annualized Q4 0.4% vs. Exp. 1.2% (Prev. 2.0%) (Newswires)</p><p><strong>UK</strong></p><p>1922 Committee Chairman Sir Graham Brady shifted his stance and said he is ready to drop his opposition for PM May’s deal if she can secure assurances for the Norther Irish backstop. (The Independent/ The Guardian)</p><p>EU’s Chief Negotiator Barnier told Die Welt that the EU is ready to give the UK further guarantees that the Northern Irish backstop is temporary. However, Barnier reportedly told EU ambassadors that he is having to repeatedly rebut UK demands for a temporary backstop, but he is working on a legal add-on to help PM May. Furthermore, he said that there was now not enough time for the EU to ratify the Brexit Withdrawal Agreement, even if the deal passes through the UK House of Commons and PM May will have to delay Brexit. Barnier also suggested that Parliamentary arithmetic may be moving towards PM May’s favour. (Die Welt/ The Guardian/The Independent)</p><p>UK Attorney General Cox has reportedly ditched attempts to secure a hard time limit or a unilateral exit mechanism from the Irish backstop. He is said to be focusing on securing an enhanced \"arbitration mechanism\" that allows the UK or the EU to provide formal notice that the backstop should come to an end. (The Telegraph)</p><p>UK PM May told European Council President Tusk that Brexit may have to be delayed even if MP's support her deal; according to Buzzfeed. (Buzzfeed)</p><p>Number 10 insiders said they do not think the meaningful vote will be held this week; Mirror's Political Editor Crerar. (Twitter)</p><p>Eight pro-Brexit lawyers want to examine any agreement Attorney General Cox has reached with the EU over the Northern Irish backstop, to make sure it is temporary before they support PM May’s Brexit deal. (BBC)</p><p>The ERG group have drawn up “three tests” the government must meet to secure their support for PM May’s deal. (The Times)</p><p>The Independent Group is taking steps to become a fully-fledged political party that can rival the Conservative and Labour parties at the next general elections amid rumours that more defectors could soon going the newly formed party. (The Guardian)</p><p>Labour Deputy Leader Tom Watson is reportedly set to pull together 50 or more disaffected colleagues to form the third largest group in the Commons in a move to dwarf The Independent Group.&nbsp; (The Times)</p><p>Many senior MPs believe that PM May’s premiership could end in November as the one-year grace period for a Tory no-confidence vote expires. (The Times)</p><p>The Spanish government has approved unilateral contingency measures to protect the rights of Britons in Spain in a no-deal Brexit scenario. (The Guardian)</p><p>UK Transport Secretary Grayling has been accused by Tory council bosses of “a giant con” regarding plans for a third Heathrow runway. (The Times)</p><p>BoE’s Carney stated that the UK business investment decline is huge, and that it is virtually essential to have a transition period. (Newswires)</p><p>&nbsp;</p><p>-DATA RECAP</p><p>UK Markit/CIPS Manufacturing PMI (Feb) 52.0 vs. Exp. 52.0 (Prev. 52.8, Revision 52.6) (Newswires)</p><p>&nbsp;</p><p><strong>EU</strong></p><p>Bank of Italy official stated that EU's bank bail-in rules are 'practically inapplicable', and as such they risk undermining confidence and generating instability. (Newswires)</p><p><strong>COMMODITIES</strong></p><p>Libya's NOC stated that El Sharara 300K BPD oilfield is still unsafe; BBC Monitoring Service; Libya's NOC said it is technically ready to lift the force majeure at the oilfield but is prevented by security issues. (Newswires)</p><p>Baker Hughes (March 1): oil rigs -10 at 843, gas rigs +1 at 195, total rigs -9 at 1038. (Newswires)</p><p><strong>GEOPOLITICS</strong></p><p>US to scrap large, annual military exercises with South Korea, NBC reports. (Newswires)</p><p>White House Adviser stated that US President Trump agrees with the Warmbier family and holds North Korea responsible for his death, adding that Trump does not believe North Korean Leader Kim was aware of the treatment at the time. (Newswires)</p><p>Pakistan have released the downed Indian pilot in which Pakistani President Khan said was a gesture of peace. (Newswires)</p><p>Indian and Pakistani armies have reportedly exchanged fire in around 8 different locations along the line of control, and Pakistan has reportedly delayed the captured Indian pilots release; according to BNL Live. (BNL)</p><p>Pakistan Army Chief says that the country will \"surely respond to any aggression in self-defence\". (Newswires)</p><p><strong>EM</strong></p><p>S&amp;P affirmed Mexico at “BBB+”; outlook revised lower to Negative from Stable, citing concerns about lower economic growth and the new government’s energy policy. (Newswires/FT)</p><p><strong>MARKET RECAP</strong></p><p>Gap (GPS) made double digit gains on Friday on its earnings report where it announced the plans to split the company into two publicly traded stocks, alongside other cost cutting measures. Tesla (TSLA) opened lower after CEO Musk announced the co. would unlikely be profitable in Q1 and lowering its price on its pinnacle Model 3 vehicle. Foot Locker (FL) surged on the open by beating top and bottom line estimates and reporting 9.7% comparable sales; supplier Nike (NKE) also followed suit. Marriott International (MAR) opened lower following a disappointing revenue figure and lowering its guidance. eBay (EBAY) made gains after initiating strategic measures in tandem with activist investors Elliot and Starboard. Caesars (CZR) was an outperformer on the announcement of three new board members supported by investor Carl Icahn. Amazon (AMZN) announced plans to launch a new low cost grocery chain, supermarket stocks (WMT, KR, TGT,COST) dipped on the news. * SPX +0.7% at 2804, NDX +0.8% at 7151, DJI +0.4% at 26029.</p><p>T-Note were sold, and benchmark 10-year Treasury yields rose around 5bps on the day, taking it to the key 2.75%. Much of the afternoon was categorised by rangebound price action, but in later trade the complex caught another wave of selling; many would have expected the T-Note to be bought after a bout of weak data out of the US, however, there may be a few factors explaining both the USD’s upside as well as the T-Note’s downside: firstly, the Fed is going nowhere anytime soon, with policy data-dependent and the central bank in wait and see mode, rates or the buck are not likely to garner much influence from monpol in absence of a new directional cue; second, as we have pointed out previously, a low FX vol environment (combined with rising stocks) can be a good backdrop for carry strategies (favouring the USD); and third, traders note that next week’s macro docket may see dovish updates from the ECB, possibly RBA and possibly even the BOC, which may end up favouring USD. * US T-Note futures (H9) settled 10 ticks lower at 121-14.</p><p>&nbsp;</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "daily-asia-pac-opening-news-03-03-2019",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-03-04 05:49:00",
+        "gmt_time": "2019-03-03 21:49:00"
+    }
+]

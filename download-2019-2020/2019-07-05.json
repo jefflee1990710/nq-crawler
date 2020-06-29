@@ -1,0 +1,3094 @@
+[
+    {
+        "id": 876035,
+        "updated_sequence": 1886842,
+        "published_at": {
+            "unix": 1562358600,
+            "text": "2019-07-05 21:30:00 +0100",
+            "iso_8601": "2019-07-05T20:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1562358600,
+            "text": "2019-07-05 21:30:00 +0100",
+            "iso_8601": "2019-07-05T20:30:00Z"
+        },
+        "subject": "AUDIO SERVICE HAS NOW CLOSED FOR THE WEEK. THE ASIA DESK WILL REOPEN ON SUNDAY AT 2200GMT, EUROPEAN SERVICE WILL RESUME ON MONDAY AT 0630GMT. HAVE A PLEASANT WEEKEND.",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "audio-service-has-now-closed-for-the-week-the-asia-desk-will-reopen-on-sunday-at-2200gmt-european-service-will-resume-on-monday-at-0630gmt-have-a-pleasant-weekend-28-06-2019",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-06 04:30:00",
+        "gmt_time": "2019-07-05 20:30:00"
+    },
+    {
+        "id": 876862,
+        "updated_sequence": 1886840,
+        "published_at": {
+            "unix": 1562356980,
+            "text": "2019-07-05 21:03:00 +0100",
+            "iso_8601": "2019-07-05T20:03:00Z"
+        },
+        "updated_at": {
+            "unix": 1562357015,
+            "text": "2019-07-05 21:03:35 +0100",
+            "iso_8601": "2019-07-05T20:03:35Z"
+        },
+        "subject": "RANsquawk Week in Focus - week commencing 8th July 2019 ",
+        "content": "<ul><li>MON: Germany IP; BOI; Aus NAB confidence; China social financing.</li><li>TUE: EIA STEO; US JOLTs.</li><li>WED: Powell testimony; FOMC mins; BOC MPR; China CPI; UK GDP, trade data, IP.</li><li>THU: US CPI; OPEC MOMR, Sweden CPIF.</li><li>FRI: China trade.</li><li><strong>To download the report, please click </strong><a href=\"https://ransquawk.com/research_sheets/22231/download\"><strong>here</strong></a></li></ul><p><i>If you would like to subscribe to receive the research sheets directly in your inbox, you can now do so under the </i><a href=\"/research_sheets\"><i>Research Suite</i></a><i> section of the portal. To subscribe simply check the box next to \"Email these reports\" under the desired category.</i></p><p>&nbsp;</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "ransquawk-week-in-focus-week-commencing-8th-july-2019-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-06 04:03:00",
+        "gmt_time": "2019-07-05 20:03:00"
+    },
+    {
+        "id": 876861,
+        "updated_sequence": 1886838,
+        "published_at": {
+            "unix": 1562356980,
+            "text": "2019-07-05 21:03:00 +0100",
+            "iso_8601": "2019-07-05T20:03:00Z"
+        },
+        "updated_at": {
+            "unix": 1562357008,
+            "text": "2019-07-05 21:03:28 +0100",
+            "iso_8601": "2019-07-05T20:03:28Z"
+        },
+        "subject": "RANsquawk Central Bank Weekly 5th July 2019 - PREVIEWING: FOMC MINS/POWELL, ECB MINS, BOC; REVIEWING RBA, RIKSBANK",
+        "content": "<ul><li>PREVIEWING: FOMC MINS/POWELL, ECB MINS, BOC</li><li>REVIEWING RBA, RIKSBANK</li><li><strong>To download the report, please click </strong><a href=\"/research_sheets/22232/download\"><strong>here</strong></a></li></ul><p><i>If you would like to subscribe to receive the research sheets directly in your inbox, you can now do so under the </i><a href=\"/research_sheets\"><i>Research Suite</i></a><i> section of the portal. To subscribe simply check the box next to \"Email these reports\" under the desired category.&nbsp;</i></p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "ransquawk-central-bank-weekly-5th-july-2019-previewing-fomc-mins-powell-ecb-mins-boc-reviewing-rba-riksbank-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-06 04:03:00",
+        "gmt_time": "2019-07-05 20:03:00"
+    },
+    {
+        "id": 876869,
+        "updated_sequence": 1886836,
+        "published_at": {
+            "unix": 1562356920,
+            "text": "2019-07-05 21:02:00 +0100",
+            "iso_8601": "2019-07-05T20:02:00Z"
+        },
+        "updated_at": {
+            "unix": 1562356962,
+            "text": "2019-07-05 21:02:42 +0100",
+            "iso_8601": "2019-07-05T20:02:42Z"
+        },
+        "subject": "US MARKET WRAP 5th July 2019: NFP beats, crushing July rate cut probability",
+        "content": "<p><strong>* SNAPSHOT: Equities lower, Treasuries higher, dollar higher, crude higher.</strong></p><p><strong>* REAR VIEW: NFP headline beats, Fed 50bps pricing fades after data.</strong></p><p><strong>* NEXT WEEK: MON: Germany IP; BOI; Aus NAB confidence; China social financing. TUE: EIA STEO; US JOLTs. WED: Powell testimony; FOMC mins; BOC MPR; China CPI; UK GDP, trade data, IP. THU: US CPI; OPEC MOMR, Sweden CPIF. FRI:&nbsp; China trade. </strong><a href=\"https://ransquawk.com/research_sheets/22231/download\"><strong>Click here</strong></a><strong> for full weekly briefing. Access our central bank weekly briefing by </strong><a href=\"https://ransquawk.com/research_sheets/22232/download\"><strong>clicking here</strong></a><strong>.</strong></p><p><strong>* MARKET WRAP: </strong>Risk assets sold off after a consensus-beating NFP report. ES futures dropped by around 20 points in pre-cash open trade, but gradually recovered over the course of the session (though it is worth noting that trade feels thin, with many players still out after Thursday’s 4th July market holiday); cash equities did not, however, print any record highs, though remains within a few points of a new record. Yields rose across the curve in a bear-flattening fashion, and the T-Note future is just off lows going into the weekend. The Buck had a stormer, with the DXY smashing through the 100dma and 50dma, and trades just above the latter as we go into the weekend. Next week features a heavy slate of Fedspeak, as well as the US CPI report, which will help to further colour rate expectations.</p><p><strong>* US JOBS REPORT:</strong> The headline beat to the upside at 224k, eclipsing the consensus 160k, and printing more than the most optimistic forecast. The unemployment rate rose to 3.7%, although the participation rate also ticked higher. Wage growth missed expectations slightly (+0.2% M/M against an expected +0.3%, though the Y/Y remained unchanged at 3.1%). Manufacturing employment rose by 17k, suggesting that the surveys for June may have been overly gloomy. The average pace of payroll growth has edged to around 170k (over a three-, six-, and 12-month basis), Capital Economics notes, and says that this is much stronger than levels that have usually prompted the Fed to cut rates in the past (the consultancy is in the minority thinking the Fed will leave rates unchanged in July, but sees the next move lower in September).</p><p><strong>* FED MONETARY POLICY REPORT: </strong>The Fed’s semi-annual monetary policy report, released ahead of Chair Powell’s dual-testimony next week, did not shake the boat to much; it repeated that the central bank will act as appropriate to sustain the expansion. On inflation, it stated that soft inflation readings appear to reflect transitory influences, a line Powell took at the post meeting press conference earlier in the year. The Fed said that data suggested a moderation in Q2 GDP was on the cards due to weak business investment, which appears to have decelerated sharply in 2019, and a slowdown in global trade flows (both of these factors have been cited by the Fed previously), and US and global tariffs have been material to the slowdown in international trade. Asset valuation remains \"somewhat elevated\", the Fed said, noting the rapid rise in business borrowing; however, it said that, overall, the financial system is resilient. On the consumer, the central bank said sentiment remains strong, and household borrowing conditions remain generally favourable.</p><p><strong>* FED BOARD NOMINEE SHELTON: </strong>Trump's Board of Governors nominee Judy Shelton said today's jobs report shows that the Trump agenda is working. She argued that the Fed should not 'pull the rug' from under the market, and that markets were not wrong in questioning the yield curve. She also echoed Trump's comments on ECB looking to devalue the EUR, and said competitive devaluation is 'cheating, not competing'. Generally, Shelton did nothing to lean-back against the notion she is a political appointee, and echoed the Trumpian line.</p><p><strong>* CANADA JOBS REPORT: </strong>Employment fell by 2k vs consensus expectations for a rise of 10k, the unemployment rate rose by one-tenth to 5.5%, although Y/Y wage growth jumped to 3.8% from 2.8%. The small fall in June employment does nothing to alter the view that the Canadian labour market is relatively solid, RBC said, noting that employment is still up 421k in the last 12 months, and participation is still sitting around all-time highs. RBC is, however, taking the wage surge with a grain of salt, arguing that it is a volatile component. “Still, other wage measures have also shown signs of ticking al little higher in Q2,” RBC says, and “recent readings provide perhaps some reason for optimism that underlying wage trends are picking up to the 3% or higher rate that we would normally expect at this point of the cycle.” RBC adds that, in any case, “the labour market data will only reinforce the expectation that the BOC will not follow the US Fed with what are now widely-expected rate cuts.”</p><p><strong>* US T-NOTE FUTURES (U9) SETTLE 25 TICKS LOWER AT 127-15: </strong>US yields rose sharply after the June employment situation report surprised to the upside, and the internals of the report also provided encouragement that the labour market is in decent shape. Bear-flattening was the play after the data, and there was a significant paring back in the implied probabilities of a 50bps rate cut at the Fed’s July meeting – the probability has now fallen to just 0.5% from around 27% before the data, though the market is still completely priced for a 25bps cut; money markets now price 60bps of easing through the end of the year, compared to 75bps at the close of business on Thursday. Interestingly, Treasuries only marginally recovered from lows, despite equities paring back the NFP-induced slide.</p><p><strong>* WTI (Q9) SETTLES USD 0.17 HIGHER AT USD 57.51; BRENT (U9) SETTLES 0.93 HIGHER AT USD 64.23: </strong>Crude markets have rebounded in line with equities, shrugging-off downside seen after the consensus beating NFP figure. In terms of energy specific updates, Saudi Arabia reportedly produced 9.8mln BPD in June vs. 9.7mln BPD in May, which although is a slight rise, remains comfortably below the OPEC+ commitment of 10.3mln BPD, further solidifying OPEC’s largest producer as a dedicated signatory of the deal. Citigroup’s analysts note that ongoing geopolitical tensions (Iran) remain a tailwind, but nothing too material had changed when the bank suggested that, although since then the US has requested an emergency IAEA meeting over Iran, and Gibraltar AG announced he had obtained an order to extend the holding of the Iranian tanker seized for 14 additional days (something that will most likely aggravate Iran).</p><p><strong>SPX -0.2% at 2991, NDX -0.2% at 7841, DJI -0.2% at 26923; </strong>SECTORS: Communication +0.0%, consumer discretionary +0.1%, consumer staples -0.5%, energy +0.1%, financials +0.4%, health care -0.7%, industrials -0.5%, IT -0.2%, materials -0.5%, telecoms +0.2%, utilities -0.2%</p><p><strong>* STOCK SPECIFICS: </strong>Following the rise in rates on the back of the strong payrolls report, financials were the only sector which traded comfortably in the green for most of the session; on the flip side, capital intensive sectors such as utilities, industrials, and materials were lagers. Electronic Arts (EA) was an underperformer amid participants citing ongoing concerns for its once-praised video game Apex Legends. Semiconductors were under pressure throughout the day following Samsung posting guidance for a slowdown in Q2 as trade wars seep through to its business. The stronger dollar saw gold prices tumbling, which fed through to the miners such as Newmont (NEM), Barrick Gold (GOLD), and Kirkland Lake (KL). A slide in Chinese iron ore prices saw a dip in Freeport-McMoRan (FCX) and Nucor (NUE).</p><p><strong>* FX WEEKLY WRAP: USD: </strong>Back with a bang from Independence Day, as a bumper US payroll gain boosts the Dollar across the board and shifts market expectations for the end of month FOMC meeting markedly. In sum, after a string of mixed to weak data and survey releases the return to 200k+ jobs growth more than overshadowed softer than forecast average earnings and an unexpected uptick in the unemployment rate, as labour force participation also edged higher. The DXY cleared 97.000 and resistance just above in response before setting sights on the 50 DMA at 97.270 and beyond to expose 97.500 and 97.766 ahead of the Fed’s MPR and Chair Powell’s twin testimonies next week.</p><p><strong>* NZD:</strong> Friday’s fall guy and a hefty loser over the week as RBNZ policy perceptions remain dovish amidst a further deterioration in NZ business sentiment and a call for two more OCR cuts this year. The Kiwi is over 100 pips off highs and looking precarious just above 0.6600, while the AUD/Nzd cross is eyeing 1.0550 as the Aussie continues to benefit to an extent from short covering in wake of the back-to-back RBA easing earlier this week. To recap, following a 2nd and widely anticipated 25bp reduction to a fresh all time low of 1%, the accompanying statement and subsequent comments from Governor signalled a shift in stance to wait-and-see mode given the ½ point loosening delivered and fiscal boost via the Government’s big tax cut package. Note, Aud/Usd has lost grip of the 0.7000 handle again, but is off worst levels after testing big barrier defences/offers at 0.7050 at one stage.</p><p><strong>* CHF, JPY:</strong> Also on course to end the week at worst levels or new lows vs the Greenback, as the Franc falls through 0.9900 vs circa 0.9764 at the other extreme and Yen trades at weakest levels for July so far near 108.60 compared to 107.54 at best. NFP aside, both safe-havens have been subject to swings in broad risk sentiment, at various times and not in unison, but also dovish SNB and BoJ vibes.</p><p><strong>* EUR, GBP:</strong> Somewhat mixed independent impulses for the single currency as Eurozone manufacturing PMIs revealed more pronounced weakness and/or contraction, while German data and industry outlooks continued to disappoint vs better news from the services sector overall and Italy managing to get off the EU’s EDP hook. However, Eur/Usd is down near 1.1200 vs circa 1.1375 at the high on the aforementioned Greenback revival and repricing of Fed rate expectations (-50 bp in July now assigned less than 10% probability vs 25%+ pre-NFP) and increasingly dovish ECB perceptions based on recent rhetoric and the nomination of IMF head Lagarde to take over from President Draghi. Meanwhile, ongoing political/Brexit uncertainty and the risk of no deal continued to undermine Sterling, but Cable’s steeper declines below 1.2500 and Eur/Gbp’s rebound towards 0.9000 and late June peaks came on the back of a dovish/downbeat twist from BoE Governor Carney plus a dismal trio of UK PMIs that prompted IHS/Markit to predict -0.1% Q2 GDP, ahead of next week’s monthly report for May from the ONS.</p><p><strong>* CAD:</strong> A choppy week for the Loonie between 1.3145-3035 parameters, with Usd/Cad trading at lows after contrasting Canadian and US trade balances (former revealing a small, but surprise surplus vs latter showing a wider than consensus deficit) before the tables turned on jobs data even though Canada’s labour report was better than the headline figure suggested. Indeed, permanent placements rose and wages were strong heading into the BoC policy meeting, so the Bank could well play down the mildly negative net tally as a temporary blip.</p><p><strong>* NOK, SEK:</strong> A bad end to the week for the Scandi Crowns should not completely dethrone the Norwegian or Swedish Krona given bullish/positive impulses via relatively strong manufacturing output (vs forecast and elsewhere) and the Riksbank’s latest hawkish hold. To recap, the Swedish CB maintained guidance for a hike at the end of this year or early 2020 as its assessment is largely unchanged from the April meeting and inflation is still on track to hit target despite external risks that warrant a cautious approach to monetary policy adjustments/further normalisation. Eur/Nok and Eur/Sek currently around 9.6800 and 10.5875 respectively within 9.7020-6220 and 10.6070-4890 ranges.</p><p><strong>* EMFX:</strong> In similar vein to the significant post-US jobs data moves and change in direction noted above, regional currencies were prone to big swings on Friday that detracted from prior more encouraging developments and price developments. In fact, the Real, Rand, Lira etc were appreciably stronger vs the Buck when Brazilian Pension Reform bill prospects were on the up, fresh financial aid for SA’s Eskom was touted, Turkish inflation retreated further, US sanction threats receded post-G20 and investor demand for 5 year US-denominated bonds swamped the amount on offer. Usd/Brl, Usd/Zar and Usd/Try hit bases of around 3.7845, 13.9600 and 5.5845 before rebounding sharply towards 3.8400, 14.2000 and 5.6445, but still shy of 3.8800, 14.2740 and 5.7910 highs.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "us-market-wrap-5th-july-2019-nfp-beats-crushing-july-rate-cut-probability-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-06 04:02:00",
+        "gmt_time": "2019-07-05 20:02:00"
+    },
+    {
+        "id": 876868,
+        "updated_sequence": 1886833,
+        "published_at": {
+            "unix": 1562356080,
+            "text": "2019-07-05 20:48:00 +0100",
+            "iso_8601": "2019-07-05T19:48:00Z"
+        },
+        "updated_at": {
+            "unix": 1562356223,
+            "text": "2019-07-05 20:50:23 +0100",
+            "iso_8601": "2019-07-05T19:50:23Z"
+        },
+        "subject": "SPX MOC 75mln to buy (vs 225mln to buy at 1549 EDT)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk sources",
+        "slug": "spx-moc-75mln-to-buy-vs-225mln-to-buy-at-1549-edt-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-06 03:48:00",
+        "gmt_time": "2019-07-05 19:48:00"
+    },
+    {
+        "id": 876867,
+        "updated_sequence": 1886830,
+        "published_at": {
+            "unix": 1562354400,
+            "text": "2019-07-05 20:20:00 +0100",
+            "iso_8601": "2019-07-05T19:20:00Z"
+        },
+        "updated_at": {
+            "unix": 1562354446,
+            "text": "2019-07-05 20:20:46 +0100",
+            "iso_8601": "2019-07-05T19:20:46Z"
+        },
+        "subject": "Iran to lift uranium enrichment to over 3.67% on Sunday, according to FARS",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "FARS",
+        "slug": "iran-to-lift-uranium-enrichment-to-over-3-67-on-sunday-according-to-fars-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 23,
+            "name": "Geopolitical"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-06 03:20:00",
+        "gmt_time": "2019-07-05 19:20:00"
+    },
+    {
+        "id": 876866,
+        "updated_sequence": 1886827,
+        "published_at": {
+            "unix": 1562353260,
+            "text": "2019-07-05 20:01:00 +0100",
+            "iso_8601": "2019-07-05T19:01:00Z"
+        },
+        "updated_at": {
+            "unix": 1562353287,
+            "text": "2019-07-05 20:01:27 +0100",
+            "iso_8601": "2019-07-05T19:01:27Z"
+        },
+        "subject": "US T-Note futures (U9) settle 25 ticks lower at 127-15",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<p>US yields rose sharply after the June employment situation report surprised to the upside, and the internals of the report also provided encouragement that the labour market is in decent shape. Bear-flattening was the play after the data, and there was a significant paring back in the implied probabilities of a 50bps rate cut at the Fed’s July meeting – the probability has now fallen to just 0.5% from around 27% before the data, though the market is still completely priced for a 25bps cut; money markets now price 60bps of easing through the end of the year, compared to 75bps at the close of business on Thursday. Interestingly, Treasuries only marginally recovered from lows, despite equities paring back the NFP-induced slide.&nbsp;</p>",
+        "analysis_updated_at": {
+            "unix": 1562353287,
+            "text": "2019-07-05 20:01:27 +0100",
+            "iso_8601": "2019-07-05T19:01:27Z"
+        },
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "us-t-note-futures-u9-settle-25-ticks-lower-at-127-15-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 21,
+            "name": "Fixed Income"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-06 03:01:00",
+        "gmt_time": "2019-07-05 19:01:00"
+    },
+    {
+        "id": 876865,
+        "updated_sequence": 1886824,
+        "published_at": {
+            "unix": 1562351520,
+            "text": "2019-07-05 19:32:00 +0100",
+            "iso_8601": "2019-07-05T18:32:00Z"
+        },
+        "updated_at": {
+            "unix": 1562352801,
+            "text": "2019-07-05 19:53:21 +0100",
+            "iso_8601": "2019-07-05T18:53:21Z"
+        },
+        "subject": "WTI (Q9) settles USD 0.17 higher at USD 57.51; Brent (U9) settles 0.93 higher at USD 64.23",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<p>Crude markets have rebounded in line with equities, shrugging-off downside seen after the consensus beating NFP figure. In terms of energy specific updates, Saudi Arabia reportedly produced 9.8mln BPD in June vs. 9.7mln BPD in May, which although is a slight rise, remains comfortably below the OPEC+ commitment of 10.3mln BPD, further solidifying OPEC’s largest producer as a dedicated signatory of the deal. Citigroup’s analysts note that ongoing geopolitical tensions (Iran) remain a tailwind, but nothing too material had changed when the bank suggested that, although since then the US has requested an emergency IAEA meeting over Iran, and Gibraltar AG announced he had obtained an order to extend the holding of the Iranian tanker seized for 14 additional days (something that will most likely aggravate Iran).</p>",
+        "analysis_updated_at": {
+            "unix": 1562351580,
+            "text": "2019-07-05 19:33:00 +0100",
+            "iso_8601": "2019-07-05T18:33:00Z"
+        },
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "wti-q9-settles-usd-0-17-higher-at-usd-57-51-brent-u9-settles-0-93-higher-at-usd-64-23-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 20,
+            "name": "Commodities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-06 02:32:00",
+        "gmt_time": "2019-07-05 18:32:00"
+    },
+    {
+        "id": 876864,
+        "updated_sequence": 1886819,
+        "published_at": {
+            "unix": 1562351400,
+            "text": "2019-07-05 19:30:00 +0100",
+            "iso_8601": "2019-07-05T18:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1562351496,
+            "text": "2019-07-05 19:31:36 +0100",
+            "iso_8601": "2019-07-05T18:31:36Z"
+        },
+        "subject": "US President Trump and Fed Chair Powell held a previously undisclosed telephone call on 20th May, after the President's criticism of the Fed; the call lasted for around five minutes, CNBC reports",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "CNBC",
+        "slug": "us-president-trump-and-fed-chair-powell-held-a-previously-undisclosed-telephone-call-on-20th-may-after-the-president-s-criticism-of-the-fed-the-call-lasted-for-around-five-minutes-cnbc-reports-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 18,
+            "name": "Fed"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-06 02:30:00",
+        "gmt_time": "2019-07-05 18:30:00"
+    },
+    {
+        "id": 876863,
+        "updated_sequence": 1886816,
+        "published_at": {
+            "unix": 1562342460,
+            "text": "2019-07-05 17:01:00 +0100",
+            "iso_8601": "2019-07-05T16:01:00Z"
+        },
+        "updated_at": {
+            "unix": 1562342723,
+            "text": "2019-07-05 17:05:23 +0100",
+            "iso_8601": "2019-07-05T16:05:23Z"
+        },
+        "subject": "US requests an emergency IAEA meeting over Iran",
+        "content": "<ul><li><a href=\"https://twitter.com/AFP/status/1147172113020854273?s=20\">Via AFP</a></li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<p>The request comes after Iran raised its uranium enrichment output, and defiantly vowed to continue doing so as the JCPOA agreement collapses</p>",
+        "analysis_updated_at": {
+            "unix": 1562342520,
+            "text": "2019-07-05 17:02:00 +0100",
+            "iso_8601": "2019-07-05T16:02:00Z"
+        },
+        "push_notify": false,
+        "source": "AFP",
+        "slug": "us-requests-an-emergency-iaea-meeting-over-iran-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 23,
+            "name": "Geopolitical"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-06 00:01:00",
+        "gmt_time": "2019-07-05 16:01:00"
+    },
+    {
+        "id": 876860,
+        "updated_sequence": 1886805,
+        "published_at": {
+            "unix": 1562341140,
+            "text": "2019-07-05 16:39:00 +0100",
+            "iso_8601": "2019-07-05T15:39:00Z"
+        },
+        "updated_at": {
+            "unix": 1562341295,
+            "text": "2019-07-05 16:41:35 +0100",
+            "iso_8601": "2019-07-05T15:41:35Z"
+        },
+        "subject": "Fed Board nominee Shelton says jobs report shows Trump agenda is working",
+        "content": "<ul><li>Does not want the Fed to 'pull the rug' from under the market; says markets are not wrong in questioning the yield curve</li><li>Echoes Trump comments on ECB looking to devalue the EUR, says competitive devaluation is 'cheating, not competing'</li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<p>NOTE: Shelton is considered a dovish Trump nominee that will push forward the President's agenda</p>",
+        "analysis_updated_at": {
+            "unix": 1562341260,
+            "text": "2019-07-05 16:41:00 +0100",
+            "iso_8601": "2019-07-05T15:41:00Z"
+        },
+        "push_notify": false,
+        "source": "CNBC",
+        "slug": "fed-board-nominee-shelton-says-jobs-report-shows-trump-agenda-is-working-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 18,
+            "name": "Fed"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 23:39:00",
+        "gmt_time": "2019-07-05 15:39:00"
+    },
+    {
+        "id": 876859,
+        "updated_sequence": 1886798,
+        "published_at": {
+            "unix": 1562340300,
+            "text": "2019-07-05 16:25:00 +0100",
+            "iso_8601": "2019-07-05T15:25:00Z"
+        },
+        "updated_at": {
+            "unix": 1562340355,
+            "text": "2019-07-05 16:25:55 +0100",
+            "iso_8601": "2019-07-05T15:25:55Z"
+        },
+        "subject": "Gibraltar AG obtains order to extending the detention of Iranian tanker by 14 days",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "gibraltar-ag-obtains-order-to-extending-the-detention-of-iranian-tanker-by-14-days-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 23,
+            "name": "Geopolitical"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 23:25:00",
+        "gmt_time": "2019-07-05 15:25:00"
+    },
+    {
+        "id": 876858,
+        "updated_sequence": 1886795,
+        "published_at": {
+            "unix": 1562340180,
+            "text": "2019-07-05 16:23:00 +0100",
+            "iso_8601": "2019-07-05T15:23:00Z"
+        },
+        "updated_at": {
+            "unix": 1562340272,
+            "text": "2019-07-05 16:24:32 +0100",
+            "iso_8601": "2019-07-05T15:24:32Z"
+        },
+        "subject": "Weekly FX Wrap: NFP grabs headlines and rewrites Fed script",
+        "content": "<p><strong>USD</strong></p><p>Back with a bang from Independence Day, as a bumper US payroll gain boosts the Dollar across the board and shifts market expectations for the end of month FOMC meeting markedly. In sum, after a string of mixed to weak data and survey releases the return to 200k+ jobs growth more than overshadowed softer than forecast average earnings and an unexpected uptick in the unemployment rate, as labour force participation also edged higher. The DXY cleared 97.000 and resistance just above in response before setting sights on the 50 DMA at 97.270 and beyond to expose 97.500 and 97.766 ahead of the Fed’s MPR and Chair Powell’s twin testimonies next week.</p><p><strong>NZD&nbsp;</strong></p><p>Friday’s fall guy and a hefty loser over the week as RBNZ policy perceptions remain dovish amidst a further deterioration in NZ business sentiment and a call for two more OCR cuts this year. The Kiwi is over 100 pips off highs and looking precarious just above 0.6600, while the <strong>AUD</strong>/Nzd cross is eyeing 1.0550 as the Aussie continues to benefit to an extent from short covering in wake of the back-to-back RBA easing earlier this week. To recap, following a 2nd and widely anticipated 25bp reduction to a fresh all time low of 1%, the accompanying statement and subsequent comments from Governor signalled a shift in stance to wait-and-see mode given the ½ point loosening delivered and fiscal boost via the Government’s big tax cut package. Note, Aud/Usd has lost grip of the 0.7000 handle again, but is off worst levels after testing big barrier defences/offers at 0.7050 at one stage.</p><p><strong>CHF/JPY</strong></p><p>Also on course to end the week at worst levels or new lows vs the Greenback, as the Franc falls through 0.9900 vs circa 0.9764 at the other extreme and Yen trades at weakest levels for July so far near 108.60 compared to 107.54 at best. NFP aside, both safe-havens have been subject to swings in broad risk sentiment, at various times and not in unison, but also dovish SNB and BoJ vibes.</p><p><strong>EUR/GBP</strong></p><p>Somewhat mixed independent impulses for the single currency as Eurozone manufacturing PMIs revealed more pronounced weakness and/or contraction, while German data and industry outlooks continued to disappoint vs better news from the services sector overall and Italy managing to get off the EU’s EDP hook. However, Eur/Usd is down near 1.1200 vs circa 1.1375 at the high on the aforementioned Greenback revival and repricing of Fed rate expectations (-50 bp in July now assigned less than 10% probability vs 25%+ pre-NFP) and increasingly dovish ECB perceptions based on recent rhetoric and the nomination of IMF head Lagarde to take over from President Draghi. Meanwhile, ongoing political/Brexit uncertainty and the risk of no deal continued to undermine Sterling, but Cable’s steeper declines below 1.2500 and Eur/Gbp’s rebound towards 0.9000 and late June peaks came on the back of a dovish/downbeat twist from BoE Governor Carney plus a dismal trio of UK PMIs that prompted IHS/Markit to predict -0.1% Q2 GDP, ahead of next week’s monthly report for May from the ONS.</p><p><strong>CAD</strong></p><p>A choppy week for the Loonie between 1.3145-3035 parameters, with Usd/Cad trading at lows after contrasting Canadian and US trade balances (former revealing a small, but surprise surplus vs latter showing a wider than consensus deficit) before the tables turned on jobs data even though Canada’s labour report was better than the headline figure suggested. Indeed, permanent placements rose and wages were strong heading into the BoC policy meeting, so the Bank could well play down the mildly negative net tally as a temporary blip.</p><p><strong>NOK/SEK&nbsp;</strong></p><p>A bad end to the week for the Scandi Crowns should not completely dethrone the Norwegian or Swedish Krona given bullish/positive impulses via relatively strong manufacturing output (vs forecast and elsewhere) and the Riksbank’s latest hawkish hold. To recap, the Swedish CB maintained guidance for a hike at the end of this year or early 2020 as its assessment is largely unchanged from the April meeting and inflation is still on track to hit target despite external risks that warrant a cautious approach to monetary policy adjustments/further normalisation. Eur/Nok and Eur/Sek currently around 9.6800 and 10.5875 respectively within 9.7020-6220 and 10.6070-4890 ranges.</p><p><strong>EM&nbsp;</strong></p><p>In similar vein to the significant post-US jobs data moves and change in direction noted above, regional currencies were prone to big swings on Friday that detracted from prior more encouraging developments and price developments. In fact, the Real, Rand, Lira etc were appreciably stronger vs the Buck when Brazilian Pension Reform bill prospects were on the up, fresh financial aid for SA’s Eskom was touted, Turkish inflation retreated further, US sanction threats receded post-G20 and investor demand for 5 year US-denominated bonds swamped the amount on offer. Usd/Brl, Usd/Zar and Usd/Try hit bases of around 3.7845, 13.9600 and 5.5845 before rebounding sharply towards 3.8400, 14.2000 and 5.6445, but still shy of 3.8800, 14.2740 and 5.7910 highs.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "weekly-fx-wrap-nfp-grabs-headlines-and-rewrites-fed-script-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 23:23:00",
+        "gmt_time": "2019-07-05 15:23:00"
+    },
+    {
+        "id": 876857,
+        "updated_sequence": 1886790,
+        "published_at": {
+            "unix": 1562340000,
+            "text": "2019-07-05 16:20:00 +0100",
+            "iso_8601": "2019-07-05T15:20:00Z"
+        },
+        "updated_at": {
+            "unix": 1562340013,
+            "text": "2019-07-05 16:20:13 +0100",
+            "iso_8601": "2019-07-05T15:20:13Z"
+        },
+        "subject": "New York Fed Staff Nowcast stands at 1.5% for 2019:Q2 (Prev. 1.3%) and 1.7% for 2019:Q3 (prev. 1.2%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "NY Fed",
+        "slug": "new-york-fed-staff-nowcast-stands-at-1-5-for-2019-q2-prev-1-3-and-1-7-for-2019-q3-prev-1-2-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 23:20:00",
+        "gmt_time": "2019-07-05 15:20:00"
+    },
+    {
+        "id": 876856,
+        "updated_sequence": 1886792,
+        "published_at": {
+            "unix": 1562339880,
+            "text": "2019-07-05 16:18:00 +0100",
+            "iso_8601": "2019-07-05T15:18:00Z"
+        },
+        "updated_at": {
+            "unix": 1562340187,
+            "text": "2019-07-05 16:23:07 +0100",
+            "iso_8601": "2019-07-05T15:23:07Z"
+        },
+        "subject": "BOE's Carney says it matters how a no deal Brexit would be managed, and adds that it is always better to have a period of transition for major change",
+        "content": "<ul><li>BOE has tools to adjust policy in either direction, if needed</li><li>Via <a href=\"https://www.economist.com/podcasts/2019/07/05/how-do-central-banks-deal-with-a-riskier-world\">The Economist</a></li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "The Economist",
+        "slug": "boe-s-carney-says-it-matters-how-a-no-deal-brexit-would-be-managed-and-adds-that-it-is-always-better-to-have-a-period-of-transition-for-major-change-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 16,
+            "name": "BoE"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 23:18:00",
+        "gmt_time": "2019-07-05 15:18:00"
+    },
+    {
+        "id": 876855,
+        "updated_sequence": 1886784,
+        "published_at": {
+            "unix": 1562338800,
+            "text": "2019-07-05 16:00:00 +0100",
+            "iso_8601": "2019-07-05T15:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1562339155,
+            "text": "2019-07-05 16:05:55 +0100",
+            "iso_8601": "2019-07-05T15:05:55Z"
+        },
+        "subject": "FED MONETARY POLICY REPORT: Repeats will act as appropriate to sustain the expansion; soft inflation readings appear to reflect transitory influences",
+        "content": "<ul><li>Data suggests a moderation in Q2 GDP due to weak business investment, which appears to have decelerated sharply in 2019, and a slowdown in global trade flows</li><li>US and global tariffs have been material to the slowdown in international trade</li><li>Asset valuation remains \"somewhat elevated\", noting the rapid rise in business borrowing, but overall financial system is resilient; consumer sentiment remains strong and household borrowing conditions remain generally favourable</li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": true,
+        "source": "Newswires",
+        "slug": "fed-monetary-policy-report-repeats-will-act-as-appropriate-to-sustain-the-expansion-soft-inflation-readings-appear-to-reflect-transitory-influences-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 18,
+            "name": "Fed"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 23:00:00",
+        "gmt_time": "2019-07-05 15:00:00"
+    },
+    {
+        "id": 876853,
+        "updated_sequence": 1886774,
+        "published_at": {
+            "unix": 1562336100,
+            "text": "2019-07-05 15:15:00 +0100",
+            "iso_8601": "2019-07-05T14:15:00Z"
+        },
+        "updated_at": {
+            "unix": 1562336156,
+            "text": "2019-07-05 15:15:56 +0100",
+            "iso_8601": "2019-07-05T14:15:56Z"
+        },
+        "subject": "Sulzer (SUN SW) - Co's CEO states that they are more likely than not to increase FY sales guidance at the H1 results",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "sulzer-sun-sw-co-s-ceo-states-that-they-are-more-likely-than-not-to-increase-fy-sales-guidance-at-the-h1-results-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 33,
+            "name": "European Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 22:15:00",
+        "gmt_time": "2019-07-05 14:15:00"
+    },
+    {
+        "id": 876850,
+        "updated_sequence": 1886765,
+        "published_at": {
+            "unix": 1562334840,
+            "text": "2019-07-05 14:54:00 +0100",
+            "iso_8601": "2019-07-05T13:54:00Z"
+        },
+        "updated_at": {
+            "unix": 1562334981,
+            "text": "2019-07-05 14:56:21 +0100",
+            "iso_8601": "2019-07-05T13:56:21Z"
+        },
+        "subject": "Volkswagen (VOW3 GY)/Ford (F) - Co's have reached a outline agreement to share electric & autonomous car technologies., sources",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "volkswagen-vow3-gy-ford-f-co-s-have-reached-a-outline-agreement-to-share-electric-autonomous-car-technologies-sources-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 34,
+            "name": "Global Equities"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 21:54:00",
+        "gmt_time": "2019-07-05 13:54:00"
+    },
+    {
+        "id": 876849,
+        "updated_sequence": 1886762,
+        "published_at": {
+            "unix": 1562334600,
+            "text": "2019-07-05 14:50:00 +0100",
+            "iso_8601": "2019-07-05T13:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1562334754,
+            "text": "2019-07-05 14:52:34 +0100",
+            "iso_8601": "2019-07-05T13:52:34Z"
+        },
+        "subject": "Apple (AAPL) - Co. are reportedly planning a fordable iPad for 2020, which will have 5G connectivity; China's Economic Daily News researcher believes that this is to completed with a upcoming Microsoft (MSFT) release., Apple Insider ",
+        "content": "<p><a href=\"https://appleinsider.com/articles/19/07/05/apple-said-to-be-planning-foldable-ipad-with-5g-next-year\">Link to Article</a></p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Apple Insider",
+        "slug": "apple-aapl-co-are-reportedly-planning-a-fordable-ipad-for-2020-which-will-have-5g-connectivity-china-s-economic-daily-news-researcher-believes-that-this-is-to-completed-with-a-upcoming-microsoft-msft-release-apple-insider-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 21:50:00",
+        "gmt_time": "2019-07-05 13:50:00"
+    },
+    {
+        "id": 876847,
+        "updated_sequence": 1886759,
+        "published_at": {
+            "unix": 1562334000,
+            "text": "2019-07-05 14:40:00 +0100",
+            "iso_8601": "2019-07-05T13:40:00Z"
+        },
+        "updated_at": {
+            "unix": 1562334456,
+            "text": "2019-07-05 14:47:36 +0100",
+            "iso_8601": "2019-07-05T13:47:36Z"
+        },
+        "subject": "US NEC Director Kudlow says US and China are talking on the phone, but face-to-face meetings are still on the table ",
+        "content": "<ul><li>no timeline on trade deal with China</li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>This comes after SCMP reported that China wants clarifications on Huawei before purchasing more agricultural goods from the US</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1562334180,
+            "text": "2019-07-05 14:43:00 +0100",
+            "iso_8601": "2019-07-05T13:43:00Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-nec-director-kudlow-says-us-and-china-are-talking-on-the-phone-but-face-to-face-meetings-are-still-on-the-table-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 21:40:00",
+        "gmt_time": "2019-07-05 13:40:00"
+    },
+    {
+        "id": 876846,
+        "updated_sequence": 1886749,
+        "published_at": {
+            "unix": 1562333880,
+            "text": "2019-07-05 14:38:00 +0100",
+            "iso_8601": "2019-07-05T13:38:00Z"
+        },
+        "updated_at": {
+            "unix": 1562333938,
+            "text": "2019-07-05 14:38:58 +0100",
+            "iso_8601": "2019-07-05T13:38:58Z"
+        },
+        "subject": "BoE Governor Carney is reportedly being discussed by EU governments to run the IMF after he leaves the BoE",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "boe-governor-carney-is-reportedly-being-discussed-by-eu-governments-to-run-the-imf-after-he-leaves-the-boe-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 21:38:00",
+        "gmt_time": "2019-07-05 13:38:00"
+    },
+    {
+        "id": 876848,
+        "updated_sequence": 1886755,
+        "published_at": {
+            "unix": 1562333700,
+            "text": "2019-07-05 14:35:00 +0100",
+            "iso_8601": "2019-07-05T13:35:00Z"
+        },
+        "updated_at": {
+            "unix": 1562334092,
+            "text": "2019-07-05 14:41:32 +0100",
+            "iso_8601": "2019-07-05T13:41:32Z"
+        },
+        "subject": "US Movers: Regions Financial (RF) +2.4%, Charles Schwab (SCHW) +2.1%, Goldman Sachs (GS) +1%, Electronic Arts (EA) -3.5%, Freeport-McMoRan (FCX) -3.3%, Nvidia (NVDA) -2.3%",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": true,
+        "source": "RANsquawk",
+        "slug": "us-movers-regions-financial-rf-2-4-charles-schwab-schw-2-1-goldman-sachs-gs-1-electronic-arts-ea-3-5-freeport-mcmoran-fcx-3-3-nvidia-nvda-2-3-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 21:35:00",
+        "gmt_time": "2019-07-05 13:35:00"
+    },
+    {
+        "id": 876845,
+        "updated_sequence": 1886745,
+        "published_at": {
+            "unix": 1562333220,
+            "text": "2019-07-05 14:27:00 +0100",
+            "iso_8601": "2019-07-05T13:27:00Z"
+        },
+        "updated_at": {
+            "unix": 1562333331,
+            "text": "2019-07-05 14:28:51 +0100",
+            "iso_8601": "2019-07-05T13:28:51Z"
+        },
+        "subject": "Worldpay (WP) and Fidelity (FIS) have gained EU regulatory approval for their merger ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "worldpay-wp-and-fidelity-fis-have-gained-eu-regulatory-approval-for-their-merger-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 21:27:00",
+        "gmt_time": "2019-07-05 13:27:00"
+    },
+    {
+        "id": 876844,
+        "updated_sequence": 1886742,
+        "published_at": {
+            "unix": 1562333160,
+            "text": "2019-07-05 14:26:00 +0100",
+            "iso_8601": "2019-07-05T13:26:00Z"
+        },
+        "updated_at": {
+            "unix": 1562333250,
+            "text": "2019-07-05 14:27:30 +0100",
+            "iso_8601": "2019-07-05T13:27:30Z"
+        },
+        "subject": "White House Trade Advisor Navarro says the China trade deal will take time; reiterates call on Fed to cut rates, according to CNN",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "CNN",
+        "slug": "white-house-trade-advisor-navarro-says-the-china-trade-deal-will-take-time-reiterates-call-on-fed-to-cut-rates-according-to-cnn-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 21:26:00",
+        "gmt_time": "2019-07-05 13:26:00"
+    },
+    {
+        "id": 876843,
+        "updated_sequence": 1886739,
+        "published_at": {
+            "unix": 1562332080,
+            "text": "2019-07-05 14:08:00 +0100",
+            "iso_8601": "2019-07-05T13:08:00Z"
+        },
+        "updated_at": {
+            "unix": 1562332212,
+            "text": "2019-07-05 14:10:12 +0100",
+            "iso_8601": "2019-07-05T13:10:12Z"
+        },
+        "subject": "East German PCK Refinery has stopped the import of Russian oil through the Druzhba pipeline, imports stopped due to slightly high levels of organic chloride., Handelsblatt",
+        "content": "<p><a href=\"https://www.handelsblatt.com/unternehmen/energie/druschba-pipeline-raffinerie-stoppt-oel-importe-aus-russland-erneut/24529400.html\">Link to Article</a></p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Handelsblatt",
+        "slug": "east-german-pck-refinery-has-stopped-the-import-of-russian-oil-through-the-druzhba-pipeline-imports-stopped-due-to-slightly-high-levels-of-organic-chloride-handelsblatt-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 20,
+            "name": "Commodities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 21:08:00",
+        "gmt_time": "2019-07-05 13:08:00"
+    },
+    {
+        "id": 876842,
+        "updated_sequence": 1886734,
+        "published_at": {
+            "unix": 1562331840,
+            "text": "2019-07-05 14:04:00 +0100",
+            "iso_8601": "2019-07-05T13:04:00Z"
+        },
+        "updated_at": {
+            "unix": 1562331935,
+            "text": "2019-07-05 14:05:35 +0100",
+            "iso_8601": "2019-07-05T13:05:35Z"
+        },
+        "subject": "RANsquawk Daily US Equity Opening News - 5th July 2019",
+        "content": "<p>To download the report, please click <a href=\"/research_sheets/22226/download\">here</a> If you would like to subscribe to receive the research sheets directly in your inbox, you can now do so under the <a href=\"/research_sheets\">Research Suite</a> section of the portal. To subscribe simply check the box next to \"Email these reports\" under the desired category.&nbsp;</p><ul><li><strong>Amazon (AMZN)</strong> (Consumer Discretionary/Internet &amp; Direct Marketing Retail) is being investigated by UK regulators over its acquisition of Deliveroo</li><li><strong>Deutsche Bank (DB, DBK GY)</strong> (Financials/Capital Markets) is on the cusp of announcing a major restructuring</li><li><strong>General Motors’ (GM)</strong> (Consumer Discretionary/Automobiles) Q2 China sales fell by 12.2% to 754k vehicles</li></ul><p>5th July 2019</p><p><strong>DOW</strong></p><ul><li><strong>IBM Corp’s (IBM) </strong>(Information Technology/IT Services) blockchain software is being jointly tested by Commonwealth Bank of Australia, Westpac Banking, and Australia and New Zealand Banking Group who are collaborating with Westfield mall owner Scentre Group to assess its capability for processing financial contracts.</li></ul><p><strong>NASDAQ 100</strong></p><ul><li><strong>Amazon (AMZN)</strong> (Consumer Discretionary/Internet &amp; Direct Marketing Retail) is being investigated by UK regulators over its acquisition of Deliveroo due to certain rights and a minority shareholding in Roofoods, which trades as Deliveroo.</li><li><strong>AMD (AMD) </strong>(Information Technology/Semiconductors &amp; Semiconductor Equipment), <strong>Nvidia (NVDA)</strong> (Information Technology/Semiconductors &amp; Semiconductor Equipment) – Forbes reports that AMD’s announced pricing for its upcoming Navi-based RX 5700 and RX 5700XT could be facing a surprise drop, which would cause turbulence for Nvidia’s competitive plans.</li></ul><p><strong>S&amp;P 500</strong></p><ul><li><strong>Fidelity (FIS)</strong> (Information Technology/IT Services) has had its PT raised to USD 370 from USD 340 at Barclays, where analyst Manav Patnaik attributes the raise to his sum-of-the-parts valuation.</li><li><strong>General Motors’ (GM)</strong> (Consumer Discretionary/Automobiles) Q2 China sales fell by 12.2% to 754k vehicles (when compared to Q2 2018) amid a significant product changeover, the automaker said.</li></ul><p><strong>OTHER</strong></p><ul><li><strong>Airbus (EADSY, AIR FP) </strong>(Industrials/Aerospace &amp; Defense) is reportedly on track to outpace Boeing (BA) for total deliveries in 2019, where its deliveries have increase by 28% to just under 390 in H1.</li><li><strong>Deutsche Bank (DB, DBK GY)</strong> (Financials/Capital Markets) is on the cusp of announcing a major restructuring that would see the bank retreat further from its once-upon-a-time global dominant ambitions, FT reports. CEO Christian Sewing will present the plan to the supervisory board for approval over the weekend.</li><li><strong>AT&amp;T (T), Comcast (CMCSA), Disney (DIS)</strong> - Univision Communications, a Spanish broadcaster which was bought out by private equity firms for USD 13.7bln in 2007, is mulling a sale, the WSJ reports, but adds that potential suitors such as AT&amp;T, Comcast, and Disney are still digesting debt-loaded acquisitions.</li></ul><p><strong>BROKER MOVES</strong></p><p><strong>Upgrades</strong></p><ul><li>Teva (TEVA) upgraded to Buy from Hold at Argus</li></ul><p><strong>Downgrades</strong></p><ul><li>Canopy Growth (CGC) downgraded to Neutral from Buy at Bryan Garnier</li></ul><p><strong>Ex-Dividends</strong></p><ul><li>Edison International (EIX). Amount USD 0.61</li><li>McCormick &amp; Company Inc (MKC). Amount USD 0.57</li><li>Quest Diagnostics Inc (DGX). Amount USD 0.53</li><li>Roper Technologies Inc (ROP). Amount USD 0.46</li><li>Universal Corp (UVV). Amount USD 0.76</li><li>Walt Disney Co (DIS). Amount USD 0.88</li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "ransquawk-daily-us-equity-opening-news-5th-july-2019-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 21:04:00",
+        "gmt_time": "2019-07-05 13:04:00"
+    },
+    {
+        "id": 876841,
+        "updated_sequence": 1886731,
+        "published_at": {
+            "unix": 1562331420,
+            "text": "2019-07-05 13:57:00 +0100",
+            "iso_8601": "2019-07-05T12:57:00Z"
+        },
+        "updated_at": {
+            "unix": 1562331487,
+            "text": "2019-07-05 13:58:07 +0100",
+            "iso_8601": "2019-07-05T12:58:07Z"
+        },
+        "subject": "Fixed and FX latest: debt recoil and Dollar rebound post-NFP",
+        "content": "<p>The headline US payroll number has clearly caught the market’s attention over benign wages and an uptick in the jobless rate, and the upside breach of 1.3100 in Usd/Cad proves the point even more emphatically as Canadian earnings were stellar, while the 2k decline in employment was all down to part-timers. On the back of widespread gains, the DXY has now extended its recover through 97.000 and chart resistance just above the big figure, while bonds continue to retreat from recent lofty peaks as Fed rate cut pricing is scaled down, understandably. Bunds, Gilts and USTs all off new session slows of 173.41, 131.80 and 127-21, with attention switching towards the pre-Powell testimony text release.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "fixed-and-fx-latest-debt-recoil-and-dollar-rebound-post-nfp-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 20:57:00",
+        "gmt_time": "2019-07-05 12:57:00"
+    },
+    {
+        "id": 876840,
+        "updated_sequence": 1886728,
+        "published_at": {
+            "unix": 1562330640,
+            "text": "2019-07-05 13:44:00 +0100",
+            "iso_8601": "2019-07-05T12:44:00Z"
+        },
+        "updated_at": {
+            "unix": 1562330803,
+            "text": "2019-07-05 13:46:43 +0100",
+            "iso_8601": "2019-07-05T12:46:43Z"
+        },
+        "subject": "Fed Pricing: 50bps cut probability falls to 11.5% from 27%, whilst a 25bps cut has risen to 88.5% from 77%",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "fed-pricing-50bps-cut-probability-falls-to-11-5-from-27-whilst-a-25bps-cut-has-risen-to-88-5-from-77-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 18,
+            "name": "Fed"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 20:44:00",
+        "gmt_time": "2019-07-05 12:44:00"
+    },
+    {
+        "id": 876839,
+        "updated_sequence": 1886707,
+        "published_at": {
+            "unix": 1562329800,
+            "text": "2019-07-05 13:30:00 +0100",
+            "iso_8601": "2019-07-05T12:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1562329942,
+            "text": "2019-07-05 13:32:22 +0100",
+            "iso_8601": "2019-07-05T12:32:22Z"
+        },
+        "subject": "US BLS Birth Death Ratio (Jun) 102k (Prev. 204k)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-bls-birth-death-ratio-jun-102k-prev-204k-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 4,
+            "name": "US Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 20:30:00",
+        "gmt_time": "2019-07-05 12:30:00"
+    },
+    {
+        "id": 876822,
+        "updated_sequence": 1886651,
+        "published_at": {
+            "unix": 1562328120,
+            "text": "2019-07-05 13:02:00 +0100",
+            "iso_8601": "2019-07-05T12:02:00Z"
+        },
+        "updated_at": {
+            "unix": 1562328203,
+            "text": "2019-07-05 13:03:23 +0100",
+            "iso_8601": "2019-07-05T12:03:23Z"
+        },
+        "subject": "Saudi Arabia produced 9.782mln BPD in June vs. 9.67mln BPD in May., according to sources",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "saudi-arabia-produced-9-782mln-bpd-in-june-vs-9-67mln-bpd-in-may-according-to-sources-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 20,
+            "name": "Commodities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 20:02:00",
+        "gmt_time": "2019-07-05 12:02:00"
+    },
+    {
+        "id": 876821,
+        "updated_sequence": 1886648,
+        "published_at": {
+            "unix": 1562328000,
+            "text": "2019-07-05 13:00:00 +0100",
+            "iso_8601": "2019-07-05T12:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1562328087,
+            "text": "2019-07-05 13:01:27 +0100",
+            "iso_8601": "2019-07-05T12:01:27Z"
+        },
+        "subject": "Eurofins Scientific (ERF FP) - Co. reportedly paid a ransom following a cyber attack., BBC",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "eurofins-scientific-erf-fp-co-reportedly-paid-a-ransom-following-a-cyber-attack-bbc-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 33,
+            "name": "European Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 20:00:00",
+        "gmt_time": "2019-07-05 12:00:00"
+    },
+    {
+        "id": 876819,
+        "updated_sequence": 1886642,
+        "published_at": {
+            "unix": 1562327580,
+            "text": "2019-07-05 12:53:00 +0100",
+            "iso_8601": "2019-07-05T11:53:00Z"
+        },
+        "updated_at": {
+            "unix": 1562327712,
+            "text": "2019-07-05 12:55:12 +0100",
+            "iso_8601": "2019-07-05T11:55:12Z"
+        },
+        "subject": "Scotiabank FX Daily - USD Strengthening Broadly Into NFP - Low Bar To Surprise",
+        "content": "<ul><li>&nbsp; USD rising vs. all G10 currencies as participants assess risks to July 31 FOMC.</li><li>&nbsp; CAD soft, fading modestly from Thursday’s 2019 high; expect gains on crosses.</li><li>&nbsp; EUR resolves recent consolidation bearishly; German factory orders disappoint.</li><li>&nbsp; GBP trading heavy, reflecting this week’s fade in BoE rate expectations; bearish.</li><li>&nbsp; JPY fading recent recovery and looking vulnerable to near-term weakness.</li><li>&nbsp; AUD soft following Thursday’s shooting star; RBA’s Debelle speaks next Thurs.</li><li>&nbsp; MXN steady consolidating recent gains; CPI data next Tuesday.</li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "scotiabank",
+        "slug": "scotiabank-fx-daily-usd-strengthening-broadly-into-nfp-low-bar-to-surprise-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 19:53:00",
+        "gmt_time": "2019-07-05 11:53:00"
+    },
+    {
+        "id": 876717,
+        "updated_sequence": 1886639,
+        "published_at": {
+            "unix": 1562326800,
+            "text": "2019-07-05 12:40:00 +0100",
+            "iso_8601": "2019-07-05T11:40:00Z"
+        },
+        "updated_at": {
+            "unix": 1562326808,
+            "text": "2019-07-05 12:40:08 +0100",
+            "iso_8601": "2019-07-05T11:40:08Z"
+        },
+        "subject": "PREVIEW: Nonfarm Payrolls (June 2019)",
+        "content": "<ul><li>The Street expects 160k payrolls to be added, rebounding from the disappointing 75k seen in May. Fed’s Powell suggested in his recent press conference that the central bank looks at the three-month trend, rather than a single print, and if the headline was realised, it would only be a touch above the three-month average rate at 155k. The pace of wage growth is seen accelerating vs May levels, while there will also be attention on the U6 underemployment rate, which fell to a cyclical low in May, amid a stable participation rate, which is seen as a positive. The data will be a key part of the FOMC’s case on whether it chooses to cut rates or stand pat on policy at the July policy meeting. The data will be released at 1330 BST/0830 EDT on 5 July 2019. <strong>To download the report, please click </strong><a href=\"/research_sheets/22219/download\"><strong>here</strong></a></li><li>If you would like to subscribe to receive the research sheets directly in your inbox, you can now do so under the <a href=\"/research_sheets\">Research Suite</a> section of the portal. To subscribe simply check the box next to \"Email these reports\" under the desired category.</li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "preview-nonfarm-payrolls-june-2019-04-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 19:40:00",
+        "gmt_time": "2019-07-05 11:40:00"
+    },
+    {
+        "id": 876818,
+        "updated_sequence": 1886637,
+        "published_at": {
+            "unix": 1562326680,
+            "text": "2019-07-05 12:38:00 +0100",
+            "iso_8601": "2019-07-05T11:38:00Z"
+        },
+        "updated_at": {
+            "unix": 1562326787,
+            "text": "2019-07-05 12:39:47 +0100",
+            "iso_8601": "2019-07-05T11:39:47Z"
+        },
+        "subject": "NATO Chief Stoltenberg says there has been no breakthrough in INF treaty with Moscow following the Russian Official meeting",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "nato-chief-stoltenberg-says-there-has-been-no-breakthrough-in-inf-treaty-with-moscow-following-the-russian-official-meeting-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 23,
+            "name": "Geopolitical"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 19:38:00",
+        "gmt_time": "2019-07-05 11:38:00"
+    },
+    {
+        "id": 876814,
+        "updated_sequence": 1886625,
+        "published_at": {
+            "unix": 1562325600,
+            "text": "2019-07-05 12:20:00 +0100",
+            "iso_8601": "2019-07-05T11:20:00Z"
+        },
+        "updated_at": {
+            "unix": 1562325660,
+            "text": "2019-07-05 12:21:00 +0100",
+            "iso_8601": "2019-07-05T11:21:00Z"
+        },
+        "subject": "BMW (BMW GY) - Zipse, Co's Chief of Production, is reportedly to become the Co's next CEO., Faz",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "bmw-bmw-gy-zipse-co-s-chief-of-production-is-reportedly-to-become-the-co-s-next-ceo-faz-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 1,
+            "name": "DAX"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 19:20:00",
+        "gmt_time": "2019-07-05 11:20:00"
+    },
+    {
+        "id": 876813,
+        "updated_sequence": 1886622,
+        "published_at": {
+            "unix": 1562324520,
+            "text": "2019-07-05 12:02:00 +0100",
+            "iso_8601": "2019-07-05T11:02:00Z"
+        },
+        "updated_at": {
+            "unix": 1562325199,
+            "text": "2019-07-05 12:13:19 +0100",
+            "iso_8601": "2019-07-05T11:13:19Z"
+        },
+        "subject": "30 Conservative Party members are reportedly discussing how to stop a no-deal Brexit, by securing an October date for MPs to take control of Parliament., Sky's Cohen",
+        "content": "<p><a href=\"https://twitter.com/tamcohen/status/1147098368742690816\">Link to Article</a></p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Twitter",
+        "slug": "30-conservative-party-members-are-reportedly-discussing-how-to-stop-a-no-deal-brexit-by-securing-an-october-date-for-mps-to-take-control-of-parliament-sky-s-cohen-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 38,
+            "name": "Brexit"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 19:02:00",
+        "gmt_time": "2019-07-05 11:02:00"
+    },
+    {
+        "id": 876810,
+        "updated_sequence": 1886608,
+        "published_at": {
+            "unix": 1562323620,
+            "text": "2019-07-05 11:47:00 +0100",
+            "iso_8601": "2019-07-05T10:47:00Z"
+        },
+        "updated_at": {
+            "unix": 1562323728,
+            "text": "2019-07-05 11:48:48 +0100",
+            "iso_8601": "2019-07-05T10:48:48Z"
+        },
+        "subject": "RANsquawk Daily US Opening News - 5th July 2019",
+        "content": "<p>To download the report, please click <a href=\"/research_sheets/22225/download\">here</a> If you would like to subscribe to receive the research sheets directly in your inbox, you can now do so under the <a href=\"/research_sheets\">Research Suite</a> section of the portal. To subscribe simply check the box next to \"Email these reports\" under the desired category.&nbsp;</p><ul><li>A cautious end to the week so-far European Indices [Euro Stoxx 50 -0.2%] ahead of NFPs</li><li>In FX, USD outperforms G10 counterparts as participants return from Independece Day holiday</li><li>Looking ahead, highlights include US &amp; Canadian Jobs Reports, Canadian Ivey PMI</li></ul><p>&nbsp;</p><p>ASIA-PAC</p><p><strong>Asian equity markets were mixed following the non-existent lead from Wall Street where markets were shut </strong>due to Independence Day and with the region tentative heading into the key US Non-Farm Payrolls data.<strong> ASX 200 (+0.5%)</strong> was positive with the index led higher by strength in financials and real estate after APRA effectively relaxed guidance on mortgage lending in which banks will be able to review and set their own minimum rate floor in assessing serviceability, although gains were capped for most the session by weakness in the commodity-related sectors. Elsewhere, <strong>Nikkei 225 (+0.2%)</strong> was choppy as it failed to find inspiration from the highest growth in Household Spending since 2015, due to a humdrum tone in the currency and the <strong>KOSPI (+0.1%)</strong> traded cautious amid losses in index heavyweight Samsung Electronics which beat expectations in its preliminary earnings for Q2 but still showed oper. profit slipped by 56% Y/Y. Elsewhere, <strong>Hang Seng (U/C)</strong> and <strong>Shanghai Comp. (+0.2%)</strong> were initially subdued after further PBoC inaction resulted to a net weekly liquidity drain of CNY 340bln, while there were also recent mixed comments from China’s MOFCOM which confirmed US-China trade teams are in communication but also suggested that tariffs must be removed for a trade deal to occur. Finally, 10yr JGBs were marginally higher and briefly reclaimed the 154.00 level with mild support seen amid the lacklustre risk tone in Japan and BoJ’s presence in the market for JPY 555bln of JGBs.</p><p>PBoC skipped open market operations for a net weekly drain of CNY 340bln. (Newswires) <strong>PBoC set CNY mid-point at 6.8697 (Prev. 6.8705)</strong></p><p><strong>China reportedly wants Huawei clarification before making agricultural purchases from the US. (SCMP)</strong></p><p>China’s Global Times Editor tweeted that China will fulfil its commitments once China and the US reach a deal and that the US shouldn’t set unfair conditions to prevent China breaking promises as Beijing will certainly reject those conditions. (Twitter)</p><p><strong>Indian Budget Summary: </strong>government vowed to continue with structural reforms, are to maintain FY19/20 gross borrowing at INR 7.1tln, with the deficit/GDP target at 3.3%. Government is to buyback INR 500bln of bonds in 2019/20, increase customs duty on precious metals to 12.5% and impose special additional excise duty on petrol and diesel by INR 1.&nbsp;</p><p>UK/EU</p><p>UK PM candidate Johnson vowed to make Britain the greatest place on Earth and unite the country by delivering Brexit. In other reports, Johnson suggested he could maintain lavish spending promises even if in the event that a no-deal Brexit wiped out the scope for extra borrowing by instead using the GBP 38bln “divorce settlement” payment with the EU. (Telegraph/Guardian)</p><p>UK Justice Secretary Gauke said he thinks the House of Commons will ‘find mechanisms’ to prevent the UK leaving EU without a deal and criticised Boris Johnson’s ‘do or die’ pledge. (Independent)</p><p><strong>Several Tory MPs stated that they were on standby in the event of a snap election in October. (FT</strong>)</p><p>UK Halifax House Prices MM* Jun -0.3% vs. Exp. -0.2% (Prev. 0.5%, Rev. 0.4%)</p><p>- UK Halifax House Prices 3M/YY* Jun 5.7% vs. Exp. 5.9% (Prev. 5.2%)</p><p>&nbsp;</p><p>German Industrial Orders MM (May) -2.2% vs. Exp. -0.1%. (Prev. 0.3%; Rev. 2.5%) (Newswires)</p><p>GEOPOLITICS</p><p>Iran summoned the UK ambassador in Tehran after British Royal Marines seized a Panamanian-flagged tanker suspected of smuggling 2mln bbls of Iranian oil to Syria. (Newswires)</p><p><strong>Russian Deputy Foreign Minister says that Moscow will take steps to strengthen the armed forces of Venezuela., Ria</strong></p><p>EQUITIES</p><p>&nbsp;</p><p>European indices are little changed/modestly into negative territory this morning [Euro Stoxx 50 -0.2%] as bourses lack any firm direction due to the US market holiday and the relatively quiet newsflow ahead of the US Jobs Report later on in the session. Sectors are largely negative, with some underperformance seen in tech names as Samsung Electronics reported earnings last night where Q2 operating profit fell by 56% Y/Y. Separately, mining names are suffering on the pullback in iron ore prices and amidst reports that Chinese regulators are to examine the drivers behind the metal’s recent price surge; as such, Rio Tinto (-2.4%) and Anglo American (-2.6%) are towards the bottom of the Stoxx 600. Elsewhere, at the bottom of the Stoxx 600 are Hexagon (-14.0%) after the Co. stated that they have been impacted due to a China slowdown in July, stemming from the ongoing US-China trade dispute. Finally, Osram Licht (+1.8%) are firmer this morning after confirming that they support the Bain &amp; Carlyle takeover for EUR 35.00 per share.</p><p>FX</p><p>&nbsp;</p><p>USD - The Dollar is edging higher ahead of US jobs data, albeit not independently or directly as G10 and EM rivals weaken further or retreat in advance of the big release. The DXY has inched back up towards 97.000 and into a marginally firmer range, but may be capped by resistance seen between the big figure and 97.010 awaiting the latest BLS report and return of US markets after yesterday’s market holiday.</p><p>CHF/NZD - The major underperformers, though not by much, as the Franc and Kiwi hover around 0.9875 and 0.6670 respectively vs the Greenback and both still within recent trading parameters awaiting further direction from the aforementioned NFP metrics.</p><p>JPY/EUR/SEK - The Yen has slipped back to around 108.00 from safe-haven highs circa 107.50 earlier this week, but may derive some support from decent option expiry interest at the 108.00 strike (1 bn), or heavy supply said to be stacked from 108.50 if the US labour data is strong. Meanwhile, the single currency is testing key downside technical levels in wake of yet more poor German data, like converged DMAs and a Fib in the 1.1259-62 region, but outpacing the Swedish Krona amidst a sharp slide in Hexagon shares (due to the IT firm flagging weakness in China). Indeed, Eur/Sek has rebounded firmly from sub-10.5000 levels towards 10.5500.</p><p>AUD/CAD/GBP - The Aussie is holding up better than its G10 peers and forming base above 0.7000/1.0500 vs the Usd and Nzd as post-RBA short covering continues, while the Loonie has lost some ground after a trade data-related boost as the focus switches to Canadian jobs data alongside NFP. However, Usd/Cad remains closer to weekly lows between 1.3045-70, and Cable is also nearer the bottom end of a 1.2550-87 range after this week’s bleak UK PMIs and further survey evidence of Brexit uncertainty weighing on the economy (BDO retail activity weak and IoD business morale worse).</p><p><a href=\"https://ransquawk.com/headlines/turkish-finance-minister-reiterates-that-he-sees-an-improvement-in-turkish-economic-indicators-economic-recovery-to-be-more-rapid-in-h2-2019-05-07-2019\">Turkish Finance Minister reiterates that he sees an improvement in Turkish economic indicators, economic recovery to be more rapid in H2 2019</a>. (Newswires)</p><p>&nbsp;</p><p><strong>FIXED INCOME</strong>&nbsp;</p><p>Fresh intraday lows for Bunds, Gilts, US Treasuries etc signal a bit more caution or desire to lighten positions ahead of NFP, but Spanish Bonos seem to be succumbing to specific/localised negative factors in wake of the BoS judgement that banks need to raise capital buffers. However, the is little to suggest the overall bull run is petering out by any means as 10 year benchmarks are still only moderately below par and not that far from all time peaks and yields are still hugging record lows.</p><p>COMMODITIES</p><p><strong>WTI and Brent futures have lost some ground in early trade, but have recently picked back up with the former just below the USD 57.00/bbl mark whilst the latter is around the USD 63.50/bbl mark.</strong> While newsflow remains light, it’s worth keeping in mind that WTI prices did not settle yesterday amid the US Independence Day holiday, thus a divergence in prices is observed. Elsewhere<strong>, gold</strong> is tentative, as usually the case in the run-up to NFP data with the yellow metal still above the USD 1300/oz level, having traded in a wide weekly 1382-1437 range. Meanwhile, <strong>copper prices</strong> are heading for the first weekly drop in a month as the red metal is pressured by a sluggish demand outlook and an increase in supplies. Finally, <strong>Dalian iron ore</strong> futures fell over 7% after China Iron &amp; Steel Association urged the government to maintain order amid rising iron ore prices and wants prices to return to a reasonable level, while it was also reported that China regulators are to examine the drivers for the increase in iron ore prices.</p><p>China Iron &amp; Steel Association urged the government to maintain order amid rising iron ore prices and wants prices to return to a reasonable level, while it was also reported that China regulators are to examine the drivers for the increase in iron ore prices. (Newswires)</p><p>&nbsp;</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "ransquawk-daily-us-opening-news-5th-july-2019-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 18:47:00",
+        "gmt_time": "2019-07-05 10:47:00"
+    },
+    {
+        "id": 876809,
+        "updated_sequence": 1886605,
+        "published_at": {
+            "unix": 1562322900,
+            "text": "2019-07-05 11:35:00 +0100",
+            "iso_8601": "2019-07-05T10:35:00Z"
+        },
+        "updated_at": {
+            "unix": 1562322959,
+            "text": "2019-07-05 11:35:59 +0100",
+            "iso_8601": "2019-07-05T10:35:59Z"
+        },
+        "subject": "RANsquawk EU Mid Session: Some pre-NFP caution after recent excesses - 5th July 2019",
+        "content": "<p>To download the report, please click <a href=\"/research_sheets/22224/download\">here</a> If you would like to subscribe to receive the research sheets directly in your inbox, you can now do so under the <a href=\"/research_sheets\">Research Suite</a> section of the portal. To subscribe simply check the box next to \"Email these reports\" under the desired category.</p><p>EQUITIES</p><p>European indices are little changed/modestly into negative territory this morning [Euro Stoxx 50 -0.2%] as bourses lack any firm direction due to the US market holiday and the relatively quiet newsflow ahead of the US Jobs Report later on in the session. Sectors are largely negative, with some underperformance seen in tech names as Samsung Electronics reported earnings last night where Q2 operating profit fell by 56% Y/Y. Separately, mining names are suffering on the pullback in iron ore prices and amidst reports that Chinese regulators are to examine the drivers behind the metal’s recent price surge; as such, Rio Tinto (-2.4%) and Anglo American (-2.6%) are towards the bottom of the Stoxx 600. Elsewhere, at the bottom of the Stoxx 600 are Hexagon (-14.0%) after the Co. stated that they have been impacted due to a China slowdown in July, stemming from the ongoing US-China trade dispute. Finally, Osram Licht (+ 1.8%) are firmer this morning after confirming that they support the Bain &amp; Carlyle takeover for EUR 35.00 per share.</p><p>FX</p><p>USD - The Dollar is edging higher ahead of US jobs data, albeit not independently or directly as G10 and EM rivals weaken further or retreat in advance of the big release. The DXY has inched back up towards 97.000 and into a marginally firmer range, but may be capped by resistance seen between the big figure and 97.010 awaiting the latest BLS report and return of US markets after yesterday’s market holiday.</p><p>CHF/NZD - The major underperformers, though not by much, as the Franc and Kiwi hover around 0.9875 and 0.6670 respectively vs the Greenback and both still within recent trading parameters awaiting further direction from the aforementioned NFP metrics.</p><p>JPY/EUR/SEK - The Yen has slipped back to around 108.00 from safe-haven highs circa 107.50 earlier this week, but may derive some support from decent option expiry interest at the 108.00 strike (1 bn), or heavy supply said to be stacked from 108.50 if the US labour data is strong. Meanwhile, the single currency is testing key downside technical levels in wake of yet more poor German data, like converged DMAs and a Fib in the 1.1259-62 region, but outpacing the Swedish Krona amidst a sharp slide in Hexagon shares (due to the IT firm flagging weakness in China). Indeed, Eur/Sek has rebounded firmly from sub-10.5000 levels towards 10.5500.</p><p>AUD/CAD/GBP - The Aussie is holding up better than its G10 peers and forming base above 0.7000/1.0500 vs the Usd and Nzd as post-RBA short covering continues, while the Loonie has lost some ground after a trade data-related boost as the focus switches to Canadian jobs data alongside NFP. However, Usd/Cad remains closer to weekly lows between 1.3045-70, and Cable is also nearer the bottom end of a 1.2550-87 range after this week’s bleak UK PMIs and further survey evidence of Brexit uncertainty weighing on the economy (BDO retail activity weak and IoD business morale worse).</p><p>FIXED INCOME</p><p>Fresh intraday lows for Bunds, Gilts, US Treasuries etc signal a bit more caution or desire to lighten positions ahead of NFP, but Spanish Bonos seem to be succumbing to specific/localised negative factors in wake of the BoS judgement that banks need to raise capital buffers. However, the is little to suggest the overall bull run is petering out by any means as 10 year benchmarks are still only moderately below par and not that far from all time peaks and yields are still hugging record lows.</p><p>COMMODITIES</p><p><strong>WTI and Brent futures have lost some ground in recent trade with the former just below the USD 56.50/bbl mark whilst the latter is around USD 63.50/bbl.</strong> While newsflow remains light, it’s worth keeping in mind that WTI prices did not settle yesterday amid the US Independence Day holiday, thus a divergence in prices is observed. Elsewhere<strong>, gold</strong> is tentative, as usually the case in the run-up to NFP data with the yellow metal still above the USD 1300/oz level, having traded in a wide weekly 1382-1437 range. Meanwhile, <strong>copper prices</strong> are heading for the first weekly drop in a month as the red metal is pressured by a sluggish demand outlook and an increase in supplies. Finally, <strong>Dalian iron ore</strong> futures fell over 7% after China Iron &amp; Steel Association urged the government to maintain order amid rising iron ore prices and wants prices to return to a reasonable level, while it was also reported that China regulators are to examine the drivers for the increase in iron ore prices.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "ransquawk-eu-mid-session-some-pre-nfp-caution-after-recent-excesses-5th-july-2019-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 18:35:00",
+        "gmt_time": "2019-07-05 10:35:00"
+    },
+    {
+        "id": 876808,
+        "updated_sequence": 1886602,
+        "published_at": {
+            "unix": 1562322120,
+            "text": "2019-07-05 11:22:00 +0100",
+            "iso_8601": "2019-07-05T10:22:00Z"
+        },
+        "updated_at": {
+            "unix": 1562322179,
+            "text": "2019-07-05 11:22:59 +0100",
+            "iso_8601": "2019-07-05T10:22:59Z"
+        },
+        "subject": "Fixed Income: bond bulls twitchy awaiting Friday’s main event",
+        "content": "<p>Fresh intraday lows for Bunds, Gilts, US Treasuries etc signal a bit more caution or desire to lighten positions ahead of NFP, but Spanish Bonos seem to be succumbing to specific/localised negative factors in wake of the BoS judgement that banks need to raise capital buffers. However, the is little to suggest the overall bull run is petering out by any means as 10 year benchmarks are still only moderately below par and not that far from all time peaks and yields are still hugging record lows.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "fixed-income-bond-bulls-twitchy-awaiting-friday-s-main-event-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 18:22:00",
+        "gmt_time": "2019-07-05 10:22:00"
+    },
+    {
+        "id": 876806,
+        "updated_sequence": 1886596,
+        "published_at": {
+            "unix": 1562320920,
+            "text": "2019-07-05 11:02:00 +0100",
+            "iso_8601": "2019-07-05T10:02:00Z"
+        },
+        "updated_at": {
+            "unix": 1562320974,
+            "text": "2019-07-05 11:02:54 +0100",
+            "iso_8601": "2019-07-05T10:02:54Z"
+        },
+        "subject": "Moody's confirms Hong Kong's rating at AA2, outlook stable",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "moody-s-confirms-hong-kong-s-rating-at-aa2-outlook-stable-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 18:02:00",
+        "gmt_time": "2019-07-05 10:02:00"
+    },
+    {
+        "id": 876805,
+        "updated_sequence": 1886593,
+        "published_at": {
+            "unix": 1562320800,
+            "text": "2019-07-05 11:00:00 +0100",
+            "iso_8601": "2019-07-05T10:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1562320867,
+            "text": "2019-07-05 11:01:07 +0100",
+            "iso_8601": "2019-07-05T10:01:07Z"
+        },
+        "subject": "FX Morning Colour: DXY nudging 97.000 post-July 4th and pre-NFP",
+        "content": "<p><strong>USD</strong></p><p>The Dollar is edging higher ahead of US jobs data, albeit not independently or directly as G10 and EM rivals weaken further or retreat in advance of the big release. The DXY has inched back up towards 97.000 and into a marginally firmer range, but may be capped by resistance seen between the big figure and 97.010 awaiting the latest BLS report and return of US markets after yesterday’s market holiday.</p><p><strong>CHF/NZD</strong></p><p>The major underperformers, though not by much, as the Franc and Kiwi hover around 0.9875 and 0.6670 respectively vs the Greenback and both still within recent trading parameters awaiting further direction from the aforementioned NFP metrics.</p><p><strong>JPY/EUR/SEK&nbsp;</strong></p><p>The Yen has slipped back to around 108.00 from safe-haven highs circa 107.50 earlier this week, but may derive some support from decent option expiry interest at the 108.00 strike (1 bn), or heavy supply said to be stacked from 108.50 if the US labour data is strong. Meanwhile, the single currency is testing key downside technical levels in wake of yet more poor German data, like converged DMAs and a Fib in the 1.1259-62 region, but outpacing the Swedish Krona amidst a sharp slide in Hexagon shares (due to the IT firm flagging weakness in China). Indeed, Eur/Sek has rebounded firmly from sub-10.5000 levels towards 10.5500.</p><p><strong>AUD/CAD/GBP&nbsp;</strong></p><p>The Aussie is holding up better than its G10 peers and forming base above 0.7000/1.0500 vs the Usd and Nzd as post-RBA short covering continues, while the Loonie has lost some ground after a trade data-related boost as the focus switches to Canadian jobs data alongside NFP. However, Usd/Cad remains closer to weekly lows between 1.3045-70, and Cable is also nearer the bottom end of a 1.2550-87 range after this week’s bleak UK PMIs and further survey evidence of Brexit uncertainty weighing on the economy (BDO retail activity weak and IoD business morale worse).</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "fx-morning-colour-dxy-nudging-97-000-post-july-4th-and-pre-nfp-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 18:00:00",
+        "gmt_time": "2019-07-05 10:00:00"
+    },
+    {
+        "id": 876804,
+        "updated_sequence": 1886590,
+        "published_at": {
+            "unix": 1562320260,
+            "text": "2019-07-05 10:51:00 +0100",
+            "iso_8601": "2019-07-05T09:51:00Z"
+        },
+        "updated_at": {
+            "unix": 1562320339,
+            "text": "2019-07-05 10:52:19 +0100",
+            "iso_8601": "2019-07-05T09:52:19Z"
+        },
+        "subject": "Shangdong Dongming petrochemical group is to shut their crude oil refinery (240k BPD) for 2-months., sources",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "shangdong-dongming-petrochemical-group-is-to-shut-their-crude-oil-refinery-240k-bpd-for-2-months-sources-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 20,
+            "name": "Commodities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 17:51:00",
+        "gmt_time": "2019-07-05 09:51:00"
+    },
+    {
+        "id": 876803,
+        "updated_sequence": 1886587,
+        "published_at": {
+            "unix": 1562320020,
+            "text": "2019-07-05 10:47:00 +0100",
+            "iso_8601": "2019-07-05T09:47:00Z"
+        },
+        "updated_at": {
+            "unix": 1562320170,
+            "text": "2019-07-05 10:49:30 +0100",
+            "iso_8601": "2019-07-05T09:49:30Z"
+        },
+        "subject": "China Global Times Editor 'Reliable source told me that Pentagon's claim of 'Chinese missile launch from the man-made structures in the South China Sea' is misleading information', some details were created intended to sow discord among regional countries",
+        "content": "<p><a href=\"https://twitter.com/HuXijin_GT/status/1147079385905651712\">Link to Tweet</a></p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Twitter",
+        "slug": "china-global-times-editor-reliable-source-told-me-that-pentagon-s-claim-of-chinese-missile-launch-from-the-man-made-structures-in-the-south-china-sea-is-misleading-information-some-details-were-created-intended-to-sow-discord-among-regi-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 17:47:00",
+        "gmt_time": "2019-07-05 09:47:00"
+    },
+    {
+        "id": 876802,
+        "updated_sequence": 1886584,
+        "published_at": {
+            "unix": 1562318820,
+            "text": "2019-07-05 10:27:00 +0100",
+            "iso_8601": "2019-07-05T09:27:00Z"
+        },
+        "updated_at": {
+            "unix": 1562319151,
+            "text": "2019-07-05 10:32:31 +0100",
+            "iso_8601": "2019-07-05T09:32:31Z"
+        },
+        "subject": "Atlantia (ATL IM) - Italian Deputy PM Di Maio states the Gov't needs to begin the process of revoking the Co's Italian motorway concession",
+        "content": "",
+        "reaction_details": "<ul><li>In an immediate reaction, company shares fell from EUR 23.62 to EUR 23.34 before paring back half of the move</li></ul>",
+        "reaction_updated_at": {
+            "unix": 1562319151,
+            "text": "2019-07-05 10:32:31 +0100",
+            "iso_8601": "2019-07-05T09:32:31Z"
+        },
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "atlantia-atl-im-italian-deputy-pm-di-maio-states-the-gov-t-needs-to-begin-the-process-of-revoking-the-co-s-italian-motorway-concession-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 33,
+            "name": "European Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 17:27:00",
+        "gmt_time": "2019-07-05 09:27:00"
+    },
+    {
+        "id": 876801,
+        "updated_sequence": 1886579,
+        "published_at": {
+            "unix": 1562318400,
+            "text": "2019-07-05 10:20:00 +0100",
+            "iso_8601": "2019-07-05T09:20:00Z"
+        },
+        "updated_at": {
+            "unix": 1562318508,
+            "text": "2019-07-05 10:21:48 +0100",
+            "iso_8601": "2019-07-05T09:21:48Z"
+        },
+        "subject": "BofAML Flow Show reports large equity outflows in the week, bond inflows; precious metals see fifth week of inflows",
+        "content": "<ul><li><strong>Equities: </strong>large outflows $15.1bn (USD 10.9bln ETF outflows, USD 4.2bln mutual fund outflows)&nbsp;</li><li><strong>Bonds: </strong>26 week of inflows (USD 6.3bln)&nbsp;</li><li><strong>Precious metals: </strong>5 week of inflows (USD 0.1bln)</li><li><strong>Key takeaways: </strong>BofAML says Huawei truce sparked second biggest inflows to tech funds ever. Global bond yields at record lows and US equities at record highs consistent given tight credit spreads. Notes a record disconnect between flows and returns in 2019, adding that buybacks are the number one source of market support.</li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "BofAML",
+        "slug": "bofaml-flow-show-reports-large-equity-outflows-in-the-week-bond-inflows-precious-metals-see-fifth-week-of-inflows-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 39,
+            "name": "Bank Research"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 17:20:00",
+        "gmt_time": "2019-07-05 09:20:00"
+    },
+    {
+        "id": 876800,
+        "updated_sequence": 1886576,
+        "published_at": {
+            "unix": 1562318280,
+            "text": "2019-07-05 10:18:00 +0100",
+            "iso_8601": "2019-07-05T09:18:00Z"
+        },
+        "updated_at": {
+            "unix": 1562318355,
+            "text": "2019-07-05 10:19:15 +0100",
+            "iso_8601": "2019-07-05T09:19:15Z"
+        },
+        "subject": "Russian Deputy Foreign Minister says that Moscow will take steps to strengthen the armed forces of Venezuela., Ria",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Ria",
+        "slug": "russian-deputy-foreign-minister-says-that-moscow-will-take-steps-to-strengthen-the-armed-forces-of-venezuela-ria-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 23,
+            "name": "Geopolitical"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 17:18:00",
+        "gmt_time": "2019-07-05 09:18:00"
+    },
+    {
+        "id": 876703,
+        "updated_sequence": 1886570,
+        "published_at": {
+            "unix": 1562317200,
+            "text": "2019-07-05 10:00:00 +0100",
+            "iso_8601": "2019-07-05T09:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1562317200,
+            "text": "2019-07-05 10:00:00 +0100",
+            "iso_8601": "2019-07-05T09:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE HAS NOW FINISHED, PLEASE REVERT BACK TO YOUR ORIGINAL CHANNEL FOR COVERAGE ON THE UK & EUROPEAN SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-has-now-finished-please-revert-back-to-your-original-channel-for-coverage-on-the-uk-european-session-04-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 17:00:00",
+        "gmt_time": "2019-07-05 09:00:00"
+    },
+    {
+        "id": 876797,
+        "updated_sequence": 1886565,
+        "published_at": {
+            "unix": 1562314140,
+            "text": "2019-07-05 09:09:00 +0100",
+            "iso_8601": "2019-07-05T08:09:00Z"
+        },
+        "updated_at": {
+            "unix": 1562314278,
+            "text": "2019-07-05 09:11:18 +0100",
+            "iso_8601": "2019-07-05T08:11:18Z"
+        },
+        "subject": "Turkish Finance Minister reiterates that he sees an improvement in Turkish economic indicators, economic recovery to be more rapid in H2 2019",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "turkish-finance-minister-reiterates-that-he-sees-an-improvement-in-turkish-economic-indicators-economic-recovery-to-be-more-rapid-in-h2-2019-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 16:09:00",
+        "gmt_time": "2019-07-05 08:09:00"
+    },
+    {
+        "id": 876796,
+        "updated_sequence": 1886560,
+        "published_at": {
+            "unix": 1562314020,
+            "text": "2019-07-05 09:07:00 +0100",
+            "iso_8601": "2019-07-05T08:07:00Z"
+        },
+        "updated_at": {
+            "unix": 1562314125,
+            "text": "2019-07-05 09:08:45 +0100",
+            "iso_8601": "2019-07-05T08:08:45Z"
+        },
+        "subject": "Airbus (AIR FP) delivered a provisional total of around 389 aircrafts in H1, +28% Y/Y",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "airbus-air-fp-delivered-a-provisional-total-of-around-389-aircrafts-in-h1-28-y-y-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 2,
+            "name": "CAC"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 16:07:00",
+        "gmt_time": "2019-07-05 08:07:00"
+    },
+    {
+        "id": 876795,
+        "updated_sequence": 1886557,
+        "published_at": {
+            "unix": 1562313960,
+            "text": "2019-07-05 09:06:00 +0100",
+            "iso_8601": "2019-07-05T08:06:00Z"
+        },
+        "updated_at": {
+            "unix": 1562314034,
+            "text": "2019-07-05 09:07:14 +0100",
+            "iso_8601": "2019-07-05T08:07:14Z"
+        },
+        "subject": "ISTAT says its June leading indicators point to continued economic weakness",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "istat-says-its-june-leading-indicators-point-to-continued-economic-weakness-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 16:06:00",
+        "gmt_time": "2019-07-05 08:06:00"
+    },
+    {
+        "id": 876795,
+        "updated_sequence": 1886557,
+        "published_at": {
+            "unix": 1562313960,
+            "text": "2019-07-05 09:06:00 +0100",
+            "iso_8601": "2019-07-05T08:06:00Z"
+        },
+        "updated_at": {
+            "unix": 1562314034,
+            "text": "2019-07-05 09:07:14 +0100",
+            "iso_8601": "2019-07-05T08:07:14Z"
+        },
+        "subject": "ISTAT says its June leading indicators point to continued economic weakness",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "istat-says-its-june-leading-indicators-point-to-continued-economic-weakness-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 16:06:00",
+        "gmt_time": "2019-07-05 08:06:00"
+    },
+    {
+        "id": 876794,
+        "updated_sequence": 1886550,
+        "published_at": {
+            "unix": 1562313180,
+            "text": "2019-07-05 08:53:00 +0100",
+            "iso_8601": "2019-07-05T07:53:00Z"
+        },
+        "updated_at": {
+            "unix": 1562313234,
+            "text": "2019-07-05 08:53:54 +0100",
+            "iso_8601": "2019-07-05T07:53:54Z"
+        },
+        "subject": "UK debt and STIRs narrowly mixed ahead of US jobs data",
+        "content": "<p>Some respite after this week’s heady gains and perhaps overextended rallies to new record highs in bond benchmarks amidst ramped up dovish Central Bank policy expectations exacerbated by an element of safe-haven demand. However, Gilts retain a firm underlying bid and after kicking off Friday’s session at 132.16 vs yesterday’s 132.18 close, the 10 year future just faded off a recovery high of 132.28 compared to 132.09 in very early Liffe trade. Mixed Halifax house prices hardly impacting, but the Short Sterling strip is also nudging up from earlier lows to stand flat to just 0.5 tick adrift from -1 to -1.5 ticks with the main focus for today on NFP and implications for the end of July Fed policy meeting.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "uk-debt-and-stirs-narrowly-mixed-ahead-of-us-jobs-data-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 15:53:00",
+        "gmt_time": "2019-07-05 07:53:00"
+    },
+    {
+        "id": 876793,
+        "updated_sequence": 1886543,
+        "published_at": {
+            "unix": 1562312460,
+            "text": "2019-07-05 08:41:00 +0100",
+            "iso_8601": "2019-07-05T07:41:00Z"
+        },
+        "updated_at": {
+            "unix": 1562312604,
+            "text": "2019-07-05 08:43:24 +0100",
+            "iso_8601": "2019-07-05T07:43:24Z"
+        },
+        "subject": "German Union IG Metall says takeover of Osram Licht (OSR GY) will not be opposed",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>This comes after Osram Licht stated that they support the takeover offer from Bain &amp; Carlyle at EUR 35.00 per share</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1562312604,
+            "text": "2019-07-05 08:43:24 +0100",
+            "iso_8601": "2019-07-05T07:43:24Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "german-union-ig-metall-says-takeover-of-osram-licht-osr-gy-will-not-be-opposed-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 33,
+            "name": "European Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 15:41:00",
+        "gmt_time": "2019-07-05 07:41:00"
+    },
+    {
+        "id": 876792,
+        "updated_sequence": 1886554,
+        "published_at": {
+            "unix": 1562312160,
+            "text": "2019-07-05 08:36:00 +0100",
+            "iso_8601": "2019-07-05T07:36:00Z"
+        },
+        "updated_at": {
+            "unix": 1562313361,
+            "text": "2019-07-05 08:56:01 +0100",
+            "iso_8601": "2019-07-05T07:56:01Z"
+        },
+        "subject": "Indian Budget notes that Indian government is to buyback INR 500bln and to switch INR 500bln worth of bonds in 2019/20,  increase customs duty on precious metals to 12.5% and impose special additional excise duty on petrol and diesel by INR 1",
+        "content": "<ul><li>Custom duty on some steel products raise to 7.5% (Prev. 5%)</li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "indian-budget-notes-that-indian-government-is-to-buyback-inr-500bln-and-to-switch-inr-500bln-worth-of-bonds-in-2019-20-increase-customs-duty-on-precious-metals-to-12-5-and-impose-special-additional-excise-duty-on-petrol-and-diesel-by-inr-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 15:36:00",
+        "gmt_time": "2019-07-05 07:36:00"
+    },
+    {
+        "id": 876772,
+        "updated_sequence": 1886475,
+        "published_at": {
+            "unix": 1562310300,
+            "text": "2019-07-05 08:05:00 +0100",
+            "iso_8601": "2019-07-05T07:05:00Z"
+        },
+        "updated_at": {
+            "unix": 1562310359,
+            "text": "2019-07-05 08:05:59 +0100",
+            "iso_8601": "2019-07-05T07:05:59Z"
+        },
+        "subject": "European equity movers this morning: Iliad (ILD FP) +3.4%; EuroNext (ENX FP) +0.8%; Rio Tinto (RIO LN) -1.9%; Anglo American (AAL LN) -1.8%; Glencore (GLEN LN) -1.0%; STMicroelectronics (STM FP) -0.6%",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": true,
+        "source": "RANsquawk",
+        "slug": "european-equity-movers-this-morning-iliad-ild-fp-3-4-euronext-enx-fp-0-8-rio-tinto-rio-ln-1-9-anglo-american-aal-ln-1-8-glencore-glen-ln-1-0-stmicroelectronics-stm-fp-0-6-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 33,
+            "name": "European Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 15:05:00",
+        "gmt_time": "2019-07-05 07:05:00"
+    },
+    {
+        "id": 876771,
+        "updated_sequence": 1886472,
+        "published_at": {
+            "unix": 1562310000,
+            "text": "2019-07-05 08:00:00 +0100",
+            "iso_8601": "2019-07-05T07:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1562310061,
+            "text": "2019-07-05 08:01:01 +0100",
+            "iso_8601": "2019-07-05T07:01:01Z"
+        },
+        "subject": "Bunds: more bleak German data shrugged aside as NFP eyed",
+        "content": "<p>In contrast to recent trends and mainly upside action after intermittent pull-backs, the current bout of consolidation in bonds could be a bit more contracted as attention turns to US jobs data and volumes pick-up after Thursday’s Independence Day holiday. Indeed, the 10 year German debt future has largely ignored the latest in a long and growing list of hefty data misses in the form of factory orders and remains closer to the base of a 173.81-96 Eurex range vs yesterday’s 173.85 close having eased back from a new contract peak posted earlier in the session at 174.05. However, following the most dovish ECB comments thus far from Rehn late on Thursday, any further inferences that more stimulus might be in the offing via Coeure and/or de Guindos may arouse bond bulls again.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "bunds-more-bleak-german-data-shrugged-aside-as-nfp-eyed-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 15:00:00",
+        "gmt_time": "2019-07-05 07:00:00"
+    },
+    {
+        "id": 876770,
+        "updated_sequence": 1886547,
+        "published_at": {
+            "unix": 1562309760,
+            "text": "2019-07-05 07:56:00 +0100",
+            "iso_8601": "2019-07-05T06:56:00Z"
+        },
+        "updated_at": {
+            "unix": 1562312673,
+            "text": "2019-07-05 08:44:33 +0100",
+            "iso_8601": "2019-07-05T07:44:33Z"
+        },
+        "subject": "Indian Budget Summary: government vowed to continue with structural reforms, are to maintain FY19/20 gross borrowing at INR 7.1trl, with the deficit/GDP target at 3.3%.",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "indian-budget-summary-government-vowed-to-continue-with-structural-reforms-are-to-maintain-fy19-20-gross-borrowing-at-inr-7-1trl-with-the-deficit-gdp-target-at-3-3-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 14:56:00",
+        "gmt_time": "2019-07-05 06:56:00"
+    },
+    {
+        "id": 876769,
+        "updated_sequence": 1886462,
+        "published_at": {
+            "unix": 1562308200,
+            "text": "2019-07-05 07:30:00 +0100",
+            "iso_8601": "2019-07-05T06:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1562308365,
+            "text": "2019-07-05 07:32:45 +0100",
+            "iso_8601": "2019-07-05T06:32:45Z"
+        },
+        "subject": "Commerzbank sees ECB cutting its deposit rate by 20bps (vs. Prev. 10bps) at the July 25 meeting",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>This comes despite source reports that ECB policymakers are not looking to cut rates this month</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1562308260,
+            "text": "2019-07-05 07:31:00 +0100",
+            "iso_8601": "2019-07-05T06:31:00Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "commerzbank-sees-ecb-cutting-its-deposit-rate-by-20bps-vs-prev-10bps-at-the-july-25-meeting-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 17,
+            "name": "ECB"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 14:30:00",
+        "gmt_time": "2019-07-05 06:30:00"
+    },
+    {
+        "id": 876768,
+        "updated_sequence": 1886457,
+        "published_at": {
+            "unix": 1562307720,
+            "text": "2019-07-05 07:22:00 +0100",
+            "iso_8601": "2019-07-05T06:22:00Z"
+        },
+        "updated_at": {
+            "unix": 1562308053,
+            "text": "2019-07-05 07:27:33 +0100",
+            "iso_8601": "2019-07-05T06:27:33Z"
+        },
+        "subject": "Major FX option expiries for today's NY cut",
+        "content": "<p>EUR/USD: 1.1250 (624M), <strong>1.1295-1.1300 (1.5BLN)</strong>, 1.1320 (500M)</p><p>USD/CHF: 0.9800 (530M), 0.9850 (520M)</p><p>NZD/USD: 0.6625 (483M)</p><p>AUD/USD: 0.7000 (528M), 0.7035 (260M), 0.7055 (390M)</p><p>AUD/NZD: 1.0485 (230M), 1.0540 (484M)</p><p>USD/CAD: 1.3050 (580M), 1.3075-85 (730M), 1.3100-25 (500M), 1.3150 (650M)</p><p>USD/JPY: 107.00 (1.4BLN), 107.35 (310M), 107.50-55 (860M), <strong>107.75 (1.7BLN)</strong>,</p><p><strong>108.00 (1BLN)</strong>, 108.25-30 (550M), <strong>108.50 (1BLN)</strong>, 109.00 (770M)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "DTCC",
+        "slug": "major-fx-option-expiries-for-today-s-ny-cut-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 22,
+            "name": "FX Flows"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 14:22:00",
+        "gmt_time": "2019-07-05 06:22:00"
+    },
+    {
+        "id": 876767,
+        "updated_sequence": 1886466,
+        "published_at": {
+            "unix": 1562306880,
+            "text": "2019-07-05 07:08:00 +0100",
+            "iso_8601": "2019-07-05T06:08:00Z"
+        },
+        "updated_at": {
+            "unix": 1562309253,
+            "text": "2019-07-05 07:47:33 +0100",
+            "iso_8601": "2019-07-05T06:47:33Z"
+        },
+        "subject": "Additional European equity stories post the release of the Daily European equity opening news",
+        "content": "<p><strong>Just Eat (JE/ LN) – </strong>UK CMA has served an initial enforcement order on Amazon (AMZN), regarding rights and a minority shareholding in Deliveroo. (Newswires)</p><p><strong>Vivendi (VIV FP) –</strong> Co. Canal+ unit is expected to cut 500 jobs. Separately, Co. may be considering a exit from MediaSet (MS IM) shareholding. (Newswires/Stampa)</p><p><strong>Icade (ICAD FP) – </strong>Co. have been selected as part of a bidding consortium, for the development of a project in Caen. (Newswires)</p><p><strong>Axel Springer (SPR GY) – </strong>KKR state that the acceptance period for their voluntary offer for the Co. of EUR 63.00 per share has commenced. (Newswires)</p><p><strong>Hexagon (HEXAB SS)</strong> - Co. states that it has been impacted due to a slowdown in China throughout June, predominately due to the US-China trade dispute. (Newswires)</p><p><strong>Mining Names – </strong>Iron ore prices have continued to pull back, for reference recent reports indicate that China regulators are to examine the drivers for the increase in iron ore prices. (Newswires)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "additional-european-equity-stories-post-the-release-of-the-daily-european-equity-opening-news-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 33,
+            "name": "European Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 14:08:00",
+        "gmt_time": "2019-07-05 06:08:00"
+    },
+    {
+        "id": 876766,
+        "updated_sequence": 1886443,
+        "published_at": {
+            "unix": 1562306400,
+            "text": "2019-07-05 07:00:00 +0100",
+            "iso_8601": "2019-07-05T06:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1562306789,
+            "text": "2019-07-05 07:06:29 +0100",
+            "iso_8601": "2019-07-05T06:06:29Z"
+        },
+        "subject": "German Industrial Orders MM (May) -2.2% vs. Exp. -0.1%. (Prev. 0.3%; Rev. 2.5%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "german-industrial-orders-mm-may-2-2-vs-exp-0-1-prev-0-3-rev-2-5-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 6,
+            "name": "EU Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 14:00:00",
+        "gmt_time": "2019-07-05 06:00:00"
+    },
+    {
+        "id": 876765,
+        "updated_sequence": 1886440,
+        "published_at": {
+            "unix": 1562305860,
+            "text": "2019-07-05 06:51:00 +0100",
+            "iso_8601": "2019-07-05T05:51:00Z"
+        },
+        "updated_at": {
+            "unix": 1562305947,
+            "text": "2019-07-05 06:52:27 +0100",
+            "iso_8601": "2019-07-05T05:52:27Z"
+        },
+        "subject": "DAILY EUROPEAN EQUITY OPENING NEWS",
+        "content": "<p><strong>**EUROPEAN EQUITY COVERAGE WILL ONLY COVER COMPANIES IN THE STOXX 600 OR COMPANIES OF SYSTEMIC IMPORTANCE TO PARTICULAR SECTORS**</strong></p><p>5th July 2019</p><p>The Daily European Equity Opening News is uploaded at 0700BST/0100CDT recapping all of the overnight equity news</p><p><strong>From 0700BST/0100CDT all equity news will be covered in real time over the audio and headline feed and the full audio rundown will be at 0715BST/0115CDT.</strong></p><p><strong>There will be an additional audio rundown at 0750BST/0150CDT recapping any company news which has hit the wires since 0715BST/0115CDT ahead of the European equity open</strong></p><p>ASIA</p><p><strong>Asian equity markets were mixed following the non-existent lead from Wall Street where markets were shut </strong>due to Independence Day and with the region tentative heading into the key US Non-Farm Payrolls data.<strong> ASX 200 (+0.6%)</strong> was positive with the index led higher by strength in financials and real estate after APRA effectively relaxed guidance on mortgage lending in which banks will be able to review and set their own minimum rate floor in assessing serviceability, although gains were capped for most the session by weakness in the commodity-related sectors. Elsewhere, <strong>Nikkei 225 (+0.1%)</strong> was choppy as it failed to find inspiration from the highest growth in Household Spending since 2015, due to a humdrum tone in the currency and the <strong>KOSPI (+0.1%)</strong> traded cautious amid losses in index heavyweight Samsung Electronics which beat expectations in its preliminary earnings for Q2 but still showed oper. profit slipped by 56% Y/Y. Elsewhere, <strong>Hang Seng (+0.1%)</strong> and <strong>Shanghai Comp. (-0.2%)</strong> were subdued after further PBoC inaction resulted to a net weekly liquidity drain of CNY 340bln, while there were also recent mixed comments from China’s MOFCOM which confirmed US-China trade teams are in communication but also suggested that tariffs must be removed for a trade deal to occur.</p><p>FTSE 100</p><p><strong>Barclays (BARC LN) – </strong>UK Competition Watchdog has ruled the Co. must reimburse smaller business compensation of GBP 2k to affected business premium account and deposit account holders; after breaking rules which were designed to protect the smaller businesses. (FT)</p><p><strong>ITV (ITV LN) – </strong>Ofcom has stated that legislation to guarantee public service broadcasters a prominent TV spot need to be extended to allow them to compete against online competitors. (FT)</p><p><strong>Shell (RDSA LN)</strong> – Co. have agreed to sell 10% stake in Nyhamna facility, Norway. Separately, Co. have now entered the Japanese market for retail power. (Newswires)</p><p><strong>WPP (WPP LN) –</strong> Co. acquires a majority stake in Italy-based tech-driven creative agency Aquest. (Newswires)</p><p><strong>IAG (IAG LN) – </strong>Co. are reportedly preparing a offer for Norwegian Air; with this to be made within a fortnight., according to sources. (Newswires)</p><p>OTHER UK COMPANIES</p><p><strong>Merlin Entertainment (MERL LN) – </strong>Moody’s has warned the Co. that the GBP 6bln deal to take the Co. private may result in a credit rating downgrade further into junk territory. (FT)</p><p>BROKER MOVES</p><p><strong>TULLOW OIL (TLW LN)</strong> UPGRADED TO BUY FROM HOLD AT JEFFERIES</p><p><strong>JOHN WOOD (WG/ LN) </strong>UPGRADED TO BUY FROM HOLD AT BERENBERG</p><p>DAX</p><p><strong>Deutsche Bank (DBK GY) – </strong>Co’s job cuts are likely to extend further than equity and interest rate trading, according to those with knowledge. Separately, Co. are expected to replace 3 board members. (Newswires)</p><p><strong>Deutsche Post (DPW GY) – </strong>Co. are expected to increase the standard letter price by EUR 0.016 in 2020., according to sources. (Newswires)</p><p>OTHER GERMAN COMPANIES</p><p><strong>Uniper (UN01 GY) –</strong> Co. agrees with Czech EPH on terms related to the sale of its French assets. (Newswires)</p><p><strong>Osram Licht (OSR GY) – </strong>Co. state they support the takeover offer from Bain &amp; Carlyle at EUR 35.00 per share. (Newswires)</p><p><strong>Metro (B4B GY) – </strong>X-Bricks &amp; SCP Group are to make a revised offer for the Co’s Real unit. (Newswires)</p><p>BROKER MOVES</p><p><strong>OSRAM LICHT (OSR GY) </strong>UPGRADED TO HOLD FROM SELL AT LANDESBANK</p><p>CAC</p><p><strong>Axa (CS FP) – </strong>Co. has agreed to the purchase of Northstar Realty Europe. (FT)</p><p><strong>Renault (RNO FP) –</strong> French state holding agency APE Chief Vial said they do not intend to reduce stake in the automaker and are also not aware of any new discussions between Renault and <strong>Fiat (FCA IM).</strong> (Newswires)</p><p><strong>Vivendi (VIV FP) –</strong> Co. Canal+ unit is expected to cut 500 jobs. (Newswires)</p><p>OTHER FRENCH COMPANIES</p><p><strong>EuroNext (ENX FP) – </strong>June Cash ADV EUR 7.6bln, +3.4%. (Newswires)</p><p>BROKER MOVES</p><p>PAN EUROPE</p><p><strong>Tech Names – </strong>Samsung Electronics (005930 KS) Prelim. Q2 oper. profit fell 56% to KRW 6.5tln vs. Exp. KRW 6.0tln, rev. KRW 56.0tln vs. Exp. KRW 54.5tln, says Q2 oper. profit includes gains in display business. (Newswires)</p><p><strong>ArcelorMittal (MT NA) – </strong>Indian appeals court has rejected an attempt to prevent the Co’s takeover of Essar Steel; in what amounts to a USD 6bln bid from the Co. Separately, Italy’s Government are reportedly looking into a amendment for a legal shield for the Co. (FT/Newswires)</p><p><strong>Grifols (GRF SM) – </strong>Xembify, a new product from the Co. has received FDA approval for use in the treatment of Primary Immunodeficiencies. (Newswires)</p><p>BROKER MOVES</p><p>SMI</p><p>OTHER SWISS COMPANIES</p><p>BROKER MOVES</p><p>SCANDINAVIA</p><p><strong>Fabege (FABG SS) – </strong>H1 net SEK 554mln vs. Prev. SEK 469mln, revenue SEK 1.49bln vs. prev. SEK 1.24bln. (Newswires)</p><p>BROKER MOVES</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "daily-european-equity-opening-news-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 33,
+            "name": "European Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 13:51:00",
+        "gmt_time": "2019-07-05 05:51:00"
+    },
+    {
+        "id": 876764,
+        "updated_sequence": 1886437,
+        "published_at": {
+            "unix": 1562303940,
+            "text": "2019-07-05 06:19:00 +0100",
+            "iso_8601": "2019-07-05T05:19:00Z"
+        },
+        "updated_at": {
+            "unix": 1562304111,
+            "text": "2019-07-05 06:21:51 +0100",
+            "iso_8601": "2019-07-05T05:21:51Z"
+        },
+        "subject": "RANsquawk Daily European Opening News - 5th July 2019",
+        "content": "<p>To download the report, please click <a href=\"/research_sheets/22222/download\">here</a> If you would like to subscribe to receive the research sheets directly in your inbox, you can now do so under the <a href=\"/research_sheets\">Research Suite</a> section of the portal. To subscribe simply check the box next to \"Email these reports\" under the desired category.&nbsp;</p><ul><li><strong>Asian equity markets were mixed heading into US NFP data, Samsung’s operating profit fell 56% Y/Y</strong></li><li><strong>China reportedly wants Huawei clarification before making agricultural purchases from the US</strong></li><li><strong>DXY was flat, EUR/USD contained, GBP/USD remained near YTD lows and USD/JPY traded sideways</strong></li><li><strong>Looking ahead, highlights include German Industrial Orders, US &amp; Canadian Jobs Reports, Canadian Ivey PMI, ECB's Coeure &amp; de Guindos</strong></li></ul><p>&nbsp;</p><p><strong>ASIA-PAC</strong></p><p><strong>Asian equity markets were mixed following the non-existent lead from Wall Street where markets were shut </strong>due to Independence Day and with the region tentative heading into the key US Non-Farm Payrolls data.<strong> ASX 200 (+0.6%)</strong> was positive with the index led higher by strength in financials and real estate after APRA effectively relaxed guidance on mortgage lending in which banks will be able to review and set their own minimum rate floor in assessing serviceability, although gains were capped for most the session by weakness in the commodity-related sectors. Elsewhere, <strong>Nikkei 225 (+0.1%)</strong> was choppy as it failed to find inspiration from the highest growth in Household Spending since 2015, due to a humdrum tone in the currency and the <strong>KOSPI (+0.1%)</strong> traded cautious amid losses in index heavyweight Samsung Electronics which beat expectations in its preliminary earnings for Q2 but still showed oper. profit slipped by 56% Y/Y. Elsewhere, <strong>Hang Seng (+0.1%)</strong> and <strong>Shanghai Comp. (-0.2%)</strong> were subdued after further PBoC inaction resulted to a net weekly liquidity drain of CNY 340bln, while there were also recent mixed comments from China’s MOFCOM which confirmed US-China trade teams are in communication but also suggested that tariffs must be removed for a trade deal to occur. Finally, 10yr JGBs were marginally higher and briefly reclaimed the 154.00 level with mild support seen amid the lacklustre risk tone in Japan and BoJ’s presence in the market for JPY 555bln of JGBs.</p><p>PBoC skipped open market operations for a net weekly drain of CNY 340bln. (Newswires) <strong>PBoC set CNY mid-point at 6.8697 (Prev. 6.8705)</strong></p><p><strong>China reportedly wants Huawei clarification before making agricultural purchases from the US. (SCMP)</strong></p><p>China’s Global Times Editor tweeted that China will fulfil its commitments once China and the US reach a deal and that the US shouldn’t set unfair conditions to prevent China breaking promises as Beijing will certainly reject those conditions. (Twitter)</p><p>&nbsp;</p><p><strong>UK/EU</strong></p><p>UK PM candidate Johnson vowed to make Britain the greatest place on Earth and unite the country by delivering Brexit. In other reports, Johnson suggested he could maintain lavish spending promises even if in the event that a no-deal Brexit wiped out the scope for extra borrowing by instead using the GBP 38bln “divorce settlement” payment with the EU. (Telegraph/Guardian)</p><p>UK Justice Secretary Gauke said he thinks the House of Commons will ‘find mechanisms’ to prevent the UK leaving EU without a deal and criticised Boris Johnson’s ‘do or die’ pledge. (Independent)</p><p><strong>Several Tory MPs stated that they were on standby in the event of a snap election in October. (FT</strong>)</p><p>UK opposition labour party leader Corbyn has been urged by one of the MPs within the party to consider if he is the ideal person to lead the party after it experienced its worst ever rating in the polls. (Independent)</p><p>&nbsp;</p><p><strong>FX</strong></p><p>In FX markets, the <strong>DXY</strong> was flat and stuck within the prior day’s tight range due to the lack of US participants for the 4th July celebrations and as global investors awaited the upcoming US NFP jobs numbers for want of a better catalyst to spur price action. The greenback’s major counterparts were also uneventful with <strong>EUR/USD</strong> contained below the 1.1300 handle, within proximity to its 5- and 100-DMA levels at 1.1283 and 1.1262 respectively, while <strong>GBP/USD </strong>remained near YTD lows beneath 1.2600 with a newswire poll suggesting the currency could drop to a 1.1700 bottom range in the month following a no-deal Brexit scenario. Elsewhere, <strong>USD/JPY</strong> and <strong>JPY-crosses</strong> traded sideways alongside the tentative risk tone and antipodeans were also uneventful with the only glimmer of excitement coming from mild upside in <strong>AUD/NZD </strong>as it attempted to make headway above 1.0500.&nbsp;</p><p>&nbsp;</p><p><strong>COMMODITIES</strong></p><p>Commodities were mixed in which <strong>WTI</strong> crude futures remained below the USD 57.00/bbl level as prices hardly deviated from the prior day’s levels following the holiday-quietened conditions. Elsewhere, <strong>gold</strong> was choppy amid the tentative risk tone and as the greenback lacked conviction heading into the key US jobs data, while <strong>copper</strong> was subdued amid weakness in China and as iron ore prices continued to pullback from record levels.</p><p>China Iron &amp; Steel Association urged the government to maintain order amid rising iron ore prices and wants prices to return to a reasonable level, while it was also reported that China regulators are to examine the drivers for the increase in iron ore prices. (Newswires)</p><p>&nbsp;</p><p><strong>GEOPOLITICS</strong></p><p>Iran summoned the UK ambassador in Tehran after British Royal Marines seized a Panamanian-flagged tanker suspected of smuggling 2mln bbls of Iranian oil to Syria. (Newswires)</p><p>&nbsp;</p><p><strong>US</strong></p><p>US was closed for Independence Day holiday.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "ransquawk-daily-european-opening-news-5th-july-2019-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 13:19:00",
+        "gmt_time": "2019-07-05 05:19:00"
+    },
+    {
+        "id": 876762,
+        "updated_sequence": 1886429,
+        "published_at": {
+            "unix": 1562302800,
+            "text": "2019-07-05 06:00:00 +0100",
+            "iso_8601": "2019-07-05T05:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1562302968,
+            "text": "2019-07-05 06:02:48 +0100",
+            "iso_8601": "2019-07-05T05:02:48Z"
+        },
+        "subject": "Japanese Leading Index (May P) 95.2 vs. Exp. 95.3 (Prev. 95.9)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-leading-index-may-p-95-2-vs-exp-95-3-prev-95-9-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 13:00:00",
+        "gmt_time": "2019-07-05 05:00:00"
+    },
+    {
+        "id": 876763,
+        "updated_sequence": 1886432,
+        "published_at": {
+            "unix": 1562302800,
+            "text": "2019-07-05 06:00:00 +0100",
+            "iso_8601": "2019-07-05T05:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1562303000,
+            "text": "2019-07-05 06:03:20 +0100",
+            "iso_8601": "2019-07-05T05:03:20Z"
+        },
+        "subject": "Japanese Coincident Index (May P) 103.2 vs. Exp. 103.2\t(Prev. 102.1)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-coincident-index-may-p-103-2-vs-exp-103-2-prev-102-1-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 13:00:00",
+        "gmt_time": "2019-07-05 05:00:00"
+    },
+    {
+        "id": 876761,
+        "updated_sequence": 1886426,
+        "published_at": {
+            "unix": 1562301660,
+            "text": "2019-07-05 05:41:00 +0100",
+            "iso_8601": "2019-07-05T04:41:00Z"
+        },
+        "updated_at": {
+            "unix": 1562301770,
+            "text": "2019-07-05 05:42:50 +0100",
+            "iso_8601": "2019-07-05T04:42:50Z"
+        },
+        "subject": "ASIA-PAC MARKET WRAP: Asia traded mixed following the holiday-quietened conditions and ahead of the key-risk NFP jobs data",
+        "content": "<p>Asia equity markets were mixed following the non-existent lead from Wall Street where markets were shut due to Independence Day and with the region tentative heading into the key US Non-Farm Payrolls data. ASX 200 (+0.6%) was positive with the index led higher by strength in financials and real estate after APRA effectively relaxed guidance on mortgage lending in which banks will be able to review and set their own minimum rate floor in assessing serviceability, although gains were capped for most the session by weakness in the commodity-related sectors. Elsewhere, Nikkei 225 (+0.1%) was choppy as it failed to find inspiration from the highest growth in Household Spending since 2015, due to a humdrum tone in the currency and the KOSPI (+0.1%) traded cautious amid losses in index heavyweight Samsung Electronics which beat expectations in its preliminary earnings for Q2 but still showed oper. profit slipped by 56% Y/Y. Elsewhere, Hang Seng (+0.1%) and Shanghai Comp. (-0.2%) were subdued after further PBoC inaction resulted to a net weekly liquidity drain of CNY 340bln, while there were also recent mixed comments from China’s MOFCOM which confirmed US-China trade teams are in communication but also suggested that tariffs must be removed for a trade deal to occur. Finally, 10yr JGBs were marginally higher and briefly reclaimed the 154.00 level with mild support seen amid the lacklustre risk tone in Japan and BoJ’s presence in the market for JPY 555bln of JGBs.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-market-wrap-asia-traded-mixed-following-the-holiday-quietened-conditions-and-ahead-of-the-key-risk-nfp-jobs-data-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 12:41:00",
+        "gmt_time": "2019-07-05 04:41:00"
+    },
+    {
+        "id": 876760,
+        "updated_sequence": 1886423,
+        "published_at": {
+            "unix": 1562301600,
+            "text": "2019-07-05 05:40:00 +0100",
+            "iso_8601": "2019-07-05T04:40:00Z"
+        },
+        "updated_at": {
+            "unix": 1562301667,
+            "text": "2019-07-05 05:41:07 +0100",
+            "iso_8601": "2019-07-05T04:41:07Z"
+        },
+        "subject": "BoJ Deputy Governor Amamiya says could also consider modified version of existing tools if the BoJ were to ease further",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "boj-deputy-governor-amamiya-says-could-also-consider-modified-version-of-existing-tools-if-the-boj-were-to-ease-further-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 14,
+            "name": "BoJ"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 12:40:00",
+        "gmt_time": "2019-07-05 04:40:00"
+    },
+    {
+        "id": 876759,
+        "updated_sequence": 1886420,
+        "published_at": {
+            "unix": 1562300880,
+            "text": "2019-07-05 05:28:00 +0100",
+            "iso_8601": "2019-07-05T04:28:00Z"
+        },
+        "updated_at": {
+            "unix": 1562300897,
+            "text": "2019-07-05 05:28:17 +0100",
+            "iso_8601": "2019-07-05T04:28:17Z"
+        },
+        "subject": "BoJ Deputy Governor Amamiya says many countries' policymakers share view global economy will recover in the latter half of the year",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "boj-deputy-governor-amamiya-says-many-countries-policymakers-share-view-global-economy-will-recover-in-the-latter-half-of-the-year-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 14,
+            "name": "BoJ"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 12:28:00",
+        "gmt_time": "2019-07-05 04:28:00"
+    },
+    {
+        "id": 876758,
+        "updated_sequence": 1886417,
+        "published_at": {
+            "unix": 1562300580,
+            "text": "2019-07-05 05:23:00 +0100",
+            "iso_8601": "2019-07-05T04:23:00Z"
+        },
+        "updated_at": {
+            "unix": 1562300643,
+            "text": "2019-07-05 05:24:03 +0100",
+            "iso_8601": "2019-07-05T04:24:03Z"
+        },
+        "subject": "BoJ Deputy Governor Amamiya says the central bank's main scenario is still for the economy to expand moderately and inflation to accelerate to the 2% target",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "boj-deputy-governor-amamiya-says-the-central-bank-s-main-scenario-is-still-for-the-economy-to-expand-moderately-and-inflation-to-accelerate-to-the-2-target-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 14,
+            "name": "BoJ"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 12:23:00",
+        "gmt_time": "2019-07-05 04:23:00"
+    },
+    {
+        "id": 876757,
+        "updated_sequence": 1886414,
+        "published_at": {
+            "unix": 1562300280,
+            "text": "2019-07-05 05:18:00 +0100",
+            "iso_8601": "2019-07-05T04:18:00Z"
+        },
+        "updated_at": {
+            "unix": 1562300343,
+            "text": "2019-07-05 05:19:03 +0100",
+            "iso_8601": "2019-07-05T04:19:03Z"
+        },
+        "subject": "China Hangsha province is to subsidize car purchases",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "china-hangsha-province-is-to-subsidize-car-purchases-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 12:18:00",
+        "gmt_time": "2019-07-05 04:18:00"
+    },
+    {
+        "id": 876756,
+        "updated_sequence": 1886411,
+        "published_at": {
+            "unix": 1562298420,
+            "text": "2019-07-05 04:47:00 +0100",
+            "iso_8601": "2019-07-05T03:47:00Z"
+        },
+        "updated_at": {
+            "unix": 1562298508,
+            "text": "2019-07-05 04:48:28 +0100",
+            "iso_8601": "2019-07-05T03:48:28Z"
+        },
+        "subject": "Tata Motors (TTMT IS) JLR is to build a new electric car in UK which will protect thousands of jobs",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Sky News",
+        "slug": "tata-motors-ttmt-is-jlr-is-to-build-a-new-electric-car-in-uk-which-will-protect-thousands-of-jobs-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 11:47:00",
+        "gmt_time": "2019-07-05 03:47:00"
+    },
+    {
+        "id": 876755,
+        "updated_sequence": 1886406,
+        "published_at": {
+            "unix": 1562297940,
+            "text": "2019-07-05 04:39:00 +0100",
+            "iso_8601": "2019-07-05T03:39:00Z"
+        },
+        "updated_at": {
+            "unix": 1562298002,
+            "text": "2019-07-05 04:40:02 +0100",
+            "iso_8601": "2019-07-05T03:40:02Z"
+        },
+        "subject": "Several Tory MPs state that they are on standby in the event of a snap election in October",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "several-tory-mps-state-that-they-are-on-standby-in-the-event-of-a-snap-election-in-october-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 38,
+            "name": "Brexit"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 11:39:00",
+        "gmt_time": "2019-07-05 03:39:00"
+    },
+    {
+        "id": 876754,
+        "updated_sequence": 1886403,
+        "published_at": {
+            "unix": 1562297700,
+            "text": "2019-07-05 04:35:00 +0100",
+            "iso_8601": "2019-07-05T03:35:00Z"
+        },
+        "updated_at": {
+            "unix": 1562297820,
+            "text": "2019-07-05 04:37:00 +0100",
+            "iso_8601": "2019-07-05T03:37:00Z"
+        },
+        "subject": "BoJ Deputy Governor Amamiya says many central banks have no plan to issue digital currencies in near future but are willing to do research",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "boj-deputy-governor-amamiya-says-many-central-banks-have-no-plan-to-issue-digital-currencies-in-near-future-but-are-willing-to-do-research-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 14,
+            "name": "BoJ"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 11:35:00",
+        "gmt_time": "2019-07-05 03:35:00"
+    },
+    {
+        "id": 876753,
+        "updated_sequence": 1886408,
+        "published_at": {
+            "unix": 1562297580,
+            "text": "2019-07-05 04:33:00 +0100",
+            "iso_8601": "2019-07-05T03:33:00Z"
+        },
+        "updated_at": {
+            "unix": 1562298321,
+            "text": "2019-07-05 04:45:21 +0100",
+            "iso_8601": "2019-07-05T03:45:21Z"
+        },
+        "subject": "PRE-MARKET INDIA STOCK NEWS: GMR Infrastructure (GMRI IS) sells thermal plant for INR 32bln and signed an agreement for proposed investment of INR 80bln",
+        "content": "<p>Adani Power (ADANI IS) - Co. purchased a thermal plant from GMR Infrastructure (GMRI IS) for INR 32bln. (ET)</p><p>GMR Infrastructure (GMRI IS) - Co. signed agreement for proposed investment of INR 80bln related to a deal with Tata Group. (Newswires)</p><p>Maruti Suzuki (MSIL IS) - Competition Commission of India ordered a probe against the Co. for alleged resale price maintenance arrangement with dealers. (ET)</p><p>Jet Airways (JETIN IS) - Co. is facing an investigation by the Serious Fraud Office which the government ordered. (Newswires)</p><p>Tata Motors (TTMT IS) - Co. Jaguar Land Rover US sales fell 9% Y/Y to 8485 units which was a 2nd consecutive monthly sales decline. (Nikkei)</p><p>Trade - US is to open a trade dispute at WTO against India in response to steel and aluminium tariffs. (Newswires)</p><p>Budget - India’s Finance Minister Nirmala Sitharaman will present the first Budget under PM Modi’s 2nd term in government. (Newswires)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-india-stock-news-gmr-infrastructure-gmri-is-sells-thermal-plant-for-inr-32bln-and-signed-an-agreement-for-proposed-investment-of-inr-80bln-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 11:33:00",
+        "gmt_time": "2019-07-05 03:33:00"
+    },
+    {
+        "id": 876752,
+        "updated_sequence": 1886397,
+        "published_at": {
+            "unix": 1562296800,
+            "text": "2019-07-05 04:20:00 +0100",
+            "iso_8601": "2019-07-05T03:20:00Z"
+        },
+        "updated_at": {
+            "unix": 1562296883,
+            "text": "2019-07-05 04:21:23 +0100",
+            "iso_8601": "2019-07-05T03:21:23Z"
+        },
+        "subject": "China regulators are to examine the drivers for the increase in iron ore prices",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "china-regulators-are-to-examine-the-drivers-for-the-increase-in-iron-ore-prices-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 37,
+            "name": "Metals News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 11:20:00",
+        "gmt_time": "2019-07-05 03:20:00"
+    },
+    {
+        "id": 876751,
+        "updated_sequence": 1886392,
+        "published_at": {
+            "unix": 1562295300,
+            "text": "2019-07-05 03:55:00 +0100",
+            "iso_8601": "2019-07-05T02:55:00Z"
+        },
+        "updated_at": {
+            "unix": 1562295387,
+            "text": "2019-07-05 03:56:27 +0100",
+            "iso_8601": "2019-07-05T02:56:27Z"
+        },
+        "subject": "SoftBank's (9984 JT) Vison Fund plans to invest as much as USD 4.0bln in India",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "softbank-s-9984-jt-vison-fund-plans-to-invest-as-much-as-usd-4-0bln-in-india-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 10:55:00",
+        "gmt_time": "2019-07-05 02:55:00"
+    },
+    {
+        "id": 876750,
+        "updated_sequence": 1886394,
+        "published_at": {
+            "unix": 1562295180,
+            "text": "2019-07-05 03:53:00 +0100",
+            "iso_8601": "2019-07-05T02:53:00Z"
+        },
+        "updated_at": {
+            "unix": 1562295866,
+            "text": "2019-07-05 04:04:26 +0100",
+            "iso_8601": "2019-07-05T03:04:26Z"
+        },
+        "subject": "ASIA-PAC MID-SESSION UPDATE: A humdrum tone is observed in Asia following the US Independence Day holiday and as participants look ahead to NFPs",
+        "content": "<p>Asia equity markets are mixed following the non-existent lead from Wall Street where markets were shut due to Independence Day and with the region tentative heading into the key US Non-Farm Payrolls data. ASX 200 (+0.4%) is positive with the index led higher by strength in financials and real estate after APRA effectively relaxed guidance on mortgage lending in which banks will be able to review and set their own minimum rate floor in assessing serviceability, although gains in the broader market are capped by weakness in the commodity-related sectors. Elsewhere, Nikkei 225 (-0.1%) failed to benefit from the highest growth in Household Spending since 2015, due to a humdrum tone in the currency and KOSPI (+0.1%) trades cautious amid losses in index heavyweight Samsung Electronics which beat expectations in its preliminary earnings for Q2 but still showed oper. profit slipped by 56% Y/Y. Elsewhere, Hang Seng (+0.2%) and Shanghai Comp. (Unch.) are subdued after further PBoC inaction resulted to a net weekly liquidity drain of CNY 340bln, while there were also recent mixed comments from China’s MOFCOM which confirmed US-China trade teams are in communication but also suggested that tariffs must be removed for a trade deal to occur.</p><p>In FX markets, the DXY is flat and has stuck to the prior day’s tight range due to the lack of US participants for the 4th July celebrations and with global investors awaiting the upcoming US jobs data for want of a better catalyst to spur prices. The greenback’s major counterparts are also uneventful with EUR/USD contained below the 1.1300 handle within proximity to its 5- and 100-DMA levels at 1.1283 and 1.1262 respectively, while GBP/USD remains near YTD lows beneath 1.2600 with a newswire poll suggesting the currency could drop to a 1.1700 bottom range during the month after a no-deal Brexit scenario. Elsewhere, USD/JPY and JPY-crosses trade sideways amid the tentative risk tone and antipodeans are also uneventful with the only glimmer of excitement coming from mild upside in AUD/NZD as it attempts to make headway above 1.0500.</p><p>Finally, 10yr JGBs are higher to reclaim the 154.00 level with mild support seen amid the lacklustre risk tone in Japan and BoJ’s presence in the market for JPY 555bln of JGBs.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-mid-session-update-a-humdrum-tone-is-observed-in-asia-following-the-us-independence-day-holiday-and-as-participants-look-ahead-to-nfps-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 10:53:00",
+        "gmt_time": "2019-07-05 02:53:00"
+    },
+    {
+        "id": 876749,
+        "updated_sequence": 1886386,
+        "published_at": {
+            "unix": 1562294220,
+            "text": "2019-07-05 03:37:00 +0100",
+            "iso_8601": "2019-07-05T02:37:00Z"
+        },
+        "updated_at": {
+            "unix": 1562294415,
+            "text": "2019-07-05 03:40:15 +0100",
+            "iso_8601": "2019-07-05T02:40:15Z"
+        },
+        "subject": "China reportedly wants Huawei clarification before making agricultural purchases from the US, according to SCMP",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "china-reportedly-wants-huawei-clarification-before-making-agricultural-purchases-from-the-us-according-to-scmp-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 10:37:00",
+        "gmt_time": "2019-07-05 02:37:00"
+    },
+    {
+        "id": 876748,
+        "updated_sequence": 1886381,
+        "published_at": {
+            "unix": 1562290200,
+            "text": "2019-07-05 02:30:00 +0100",
+            "iso_8601": "2019-07-05T01:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1562290307,
+            "text": "2019-07-05 02:31:47 +0100",
+            "iso_8601": "2019-07-05T01:31:47Z"
+        },
+        "subject": "China Iron & Steel Association urges government to maintain order amid rising iron ore prices and wants prices to return to a reasonable level",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "china-iron-steel-association-urges-government-to-maintain-order-amid-rising-iron-ore-prices-and-wants-prices-to-return-to-a-reasonable-level-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 37,
+            "name": "Metals News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 09:30:00",
+        "gmt_time": "2019-07-05 01:30:00"
+    },
+    {
+        "id": 876747,
+        "updated_sequence": 1886378,
+        "published_at": {
+            "unix": 1562290140,
+            "text": "2019-07-05 02:29:00 +0100",
+            "iso_8601": "2019-07-05T01:29:00Z"
+        },
+        "updated_at": {
+            "unix": 1562290223,
+            "text": "2019-07-05 02:30:23 +0100",
+            "iso_8601": "2019-07-05T01:30:23Z"
+        },
+        "subject": "SGX issues query related to trading activity for SIA Engineering (SIE SP)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "sgx-issues-query-related-to-trading-activity-for-sia-engineering-sie-sp-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 09:29:00",
+        "gmt_time": "2019-07-05 01:29:00"
+    },
+    {
+        "id": 876745,
+        "updated_sequence": 1886368,
+        "published_at": {
+            "unix": 1562289300,
+            "text": "2019-07-05 02:15:00 +0100",
+            "iso_8601": "2019-07-05T01:15:00Z"
+        },
+        "updated_at": {
+            "unix": 1562289413,
+            "text": "2019-07-05 02:16:53 +0100",
+            "iso_8601": "2019-07-05T01:16:53Z"
+        },
+        "subject": "PBoC sets CNY mid-point at 6.8697 (Prev. 6.8705)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pboc-sets-cny-mid-point-at-6-8697-prev-6-8705-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 15,
+            "name": "PBoC"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 09:15:00",
+        "gmt_time": "2019-07-05 01:15:00"
+    },
+    {
+        "id": 876746,
+        "updated_sequence": 1886375,
+        "published_at": {
+            "unix": 1562289300,
+            "text": "2019-07-05 02:15:00 +0100",
+            "iso_8601": "2019-07-05T01:15:00Z"
+        },
+        "updated_at": {
+            "unix": 1562289797,
+            "text": "2019-07-05 02:23:17 +0100",
+            "iso_8601": "2019-07-05T01:23:17Z"
+        },
+        "subject": "PBoC skips open market operations for a net weekly drain of CNY 340bln",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pboc-skips-open-market-operations-for-a-net-weekly-drain-of-cny-340bln-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 15,
+            "name": "PBoC"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 09:15:00",
+        "gmt_time": "2019-07-05 01:15:00"
+    },
+    {
+        "id": 876744,
+        "updated_sequence": 1886365,
+        "published_at": {
+            "unix": 1562289000,
+            "text": "2019-07-05 02:10:00 +0100",
+            "iso_8601": "2019-07-05T01:10:00Z"
+        },
+        "updated_at": {
+            "unix": 1562289183,
+            "text": "2019-07-05 02:13:03 +0100",
+            "iso_8601": "2019-07-05T01:13:03Z"
+        },
+        "subject": "Philippines CPI Core (Jun) Y/Y 3.3% (Prev. 3.5%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "philippines-cpi-core-jun-y-y-3-3-prev-3-5-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 09:10:00",
+        "gmt_time": "2019-07-05 01:10:00"
+    },
+    {
+        "id": 876743,
+        "updated_sequence": 1886362,
+        "published_at": {
+            "unix": 1562289000,
+            "text": "2019-07-05 02:10:00 +0100",
+            "iso_8601": "2019-07-05T01:10:00Z"
+        },
+        "updated_at": {
+            "unix": 1562289110,
+            "text": "2019-07-05 02:11:50 +0100",
+            "iso_8601": "2019-07-05T01:11:50Z"
+        },
+        "subject": "BoJ offers to buy JPY 50bln in up to 1yr JGBs, JPY 480bln in 5yr-10yr JGBs and JPY 25bln in inflation-indexed JGB",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "boj-offers-to-buy-jpy-50bln-in-up-to-1yr-jgbs-jpy-480bln-in-5yr-10yr-jgbs-and-jpy-25bln-in-inflation-indexed-jgb-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 14,
+            "name": "BoJ"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 09:10:00",
+        "gmt_time": "2019-07-05 01:10:00"
+    },
+    {
+        "id": 876742,
+        "updated_sequence": 1886373,
+        "published_at": {
+            "unix": 1562288700,
+            "text": "2019-07-05 02:05:00 +0100",
+            "iso_8601": "2019-07-05T01:05:00Z"
+        },
+        "updated_at": {
+            "unix": 1562289762,
+            "text": "2019-07-05 02:22:42 +0100",
+            "iso_8601": "2019-07-05T01:22:42Z"
+        },
+        "subject": "PRE-MARKET CHINESE STOCK NEWS: MOFCOM said US-China trade teams are communicating and existing tariffs will have to be removed if US and China could reach a trade deal",
+        "content": "<p>Agile Group (3383 HK) - Co. reports June pre-sales value at CNY 12.4bln. (Newswires)</p><p>Country Garden Holdings (2007 TT) - Co. June contract sales fell 18.8% Y/Y to CNY 60.4bln. (Newswires)</p><p>Evergrande Real Estate (3333 HK) - China Evergrande Group June contracted sales rose 0.4% Y/Y to CNY 50.26bln. (SCMP)</p><p>SAIC Motor Corp (600104 CH) - Co. June vehicle sales 466.5k vs. Prev. 555.2k Y/Y. (Newswires)</p><p>Sino Biopharmaceutical (1177 HK) - Co. Anlotinib Hydrocholride capsules received approval in China for drug registration related to treatment of soft tissue sarcoma. (Newswires)</p><p>Wens Foodstuff (300498 CH) - Co. June average hog selling price rose 34.7% Y/Y to CNY 15.6/kg, while its hog sales rose 54.7% Y/Y to CNY 3.3bln. (Newswires)</p><p>Financials - China is to permit insurers to help ease share-pledging risks. (Newswires)</p><p>Property - China is said to ask certain trusts to limit financing related to the property sector. (Newswires)</p><p>Infrastructure - China is reportedly to cut infrastructure project capital needs. (Newswires)</p><p>Trade Chinese Commerce Ministry said US-China trade teams are communicating and existing tariffs will have to be removed if US and China could reach a trade deal. (Newswires)</p><p>China’s Global Times Editor tweeted that China will fulfil its commitments once China and the US reach a deal and that the US shouldn’t set unfair conditions to prevent China breaking promises as Beijing will certainly reject those conditions. (Twitter)</p><p>Other News CBIRC says H1 New Yuan Loans exceeded CNY 9.0tln which suggests June New Yuan Loans was higher than CNY 990bln vs. Prev. CNY 1.18tln M/M. (Newswires)</p><p>Moody's affirmed China's A1 rating; Outlook Stable. (Newswires)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-chinese-stock-news-mofcom-said-us-china-trade-teams-are-communicating-and-existing-tariffs-will-have-to-be-removed-if-us-and-china-could-reach-a-trade-deal-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 09:05:00",
+        "gmt_time": "2019-07-05 01:05:00"
+    },
+    {
+        "id": 876741,
+        "updated_sequence": 1886354,
+        "published_at": {
+            "unix": 1562288400,
+            "text": "2019-07-05 02:00:00 +0100",
+            "iso_8601": "2019-07-05T01:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1562288494,
+            "text": "2019-07-05 02:01:34 +0100",
+            "iso_8601": "2019-07-05T01:01:34Z"
+        },
+        "subject": "Philippines CPI (Jun) Y/Y 2.7% vs. Exp. 2.9% (Prev. 3.2%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "philippines-cpi-jun-y-y-2-7-vs-exp-2-9-prev-3-2-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 09:00:00",
+        "gmt_time": "2019-07-05 01:00:00"
+    },
+    {
+        "id": 876740,
+        "updated_sequence": 1886351,
+        "published_at": {
+            "unix": 1562287680,
+            "text": "2019-07-05 01:48:00 +0100",
+            "iso_8601": "2019-07-05T00:48:00Z"
+        },
+        "updated_at": {
+            "unix": 1562287887,
+            "text": "2019-07-05 01:51:27 +0100",
+            "iso_8601": "2019-07-05T00:51:27Z"
+        },
+        "subject": "Australia banking regulator APRA says will change mortgage serviceability requirements in which it replaces current 7% interest rate floor for assessing serviceability and says loan repayment assessments can use a buffer of at least 2.5ppts ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "australia-banking-regulator-apra-says-will-change-mortgage-serviceability-requirements-in-which-it-replaces-current-7-interest-rate-floor-for-assessing-serviceability-and-says-loan-repayment-assessments-can-use-a-buffer-of-at-least-2-5ppts-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 08:48:00",
+        "gmt_time": "2019-07-05 00:48:00"
+    },
+    {
+        "id": 876739,
+        "updated_sequence": 1886348,
+        "published_at": {
+            "unix": 1562287380,
+            "text": "2019-07-05 01:43:00 +0100",
+            "iso_8601": "2019-07-05T00:43:00Z"
+        },
+        "updated_at": {
+            "unix": 1562287435,
+            "text": "2019-07-05 01:43:55 +0100",
+            "iso_8601": "2019-07-05T00:43:55Z"
+        },
+        "subject": "PBoC is expected to set USD/CNY mid-point at 6.8679, according to a major news wire estimate",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pboc-is-expected-to-set-usd-cny-mid-point-at-6-8679-according-to-a-major-news-wire-estimate-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 15,
+            "name": "PBoC"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 08:43:00",
+        "gmt_time": "2019-07-05 00:43:00"
+    },
+    {
+        "id": 876738,
+        "updated_sequence": 1886345,
+        "published_at": {
+            "unix": 1562285880,
+            "text": "2019-07-05 01:18:00 +0100",
+            "iso_8601": "2019-07-05T00:18:00Z"
+        },
+        "updated_at": {
+            "unix": 1562286031,
+            "text": "2019-07-05 01:20:31 +0100",
+            "iso_8601": "2019-07-05T00:20:31Z"
+        },
+        "subject": "PRE-MARKET TAIWAN AND SINGAPORE NEWS: China Airlines (2610 TT) is to sell a TWD 1.84bln stake in Tiger Air which it has a 90% stake in",
+        "content": "<p>TAIWAN</p><p>China Airlines (2610 TT) - Co. is to sell a TWD 1.84bln stake in Tiger Air which it has a 90% stake in. (Newswires)</p><p>Hon Hai (2317 TT) - Co. appoints Chairman Young Liu as President with immediate effect. (Newswires)</p><p>&nbsp;</p><p>SINGAPORE</p><p>No notable news stories.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-taiwan-and-singapore-news-china-airlines-2610-tt-is-to-sell-a-twd-1-84bln-stake-in-tiger-air-which-it-has-a-90-stake-in-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 08:18:00",
+        "gmt_time": "2019-07-05 00:18:00"
+    },
+    {
+        "id": 876737,
+        "updated_sequence": 1886342,
+        "published_at": {
+            "unix": 1562284860,
+            "text": "2019-07-05 01:01:00 +0100",
+            "iso_8601": "2019-07-05T00:01:00Z"
+        },
+        "updated_at": {
+            "unix": 1562284975,
+            "text": "2019-07-05 01:02:55 +0100",
+            "iso_8601": "2019-07-05T00:02:55Z"
+        },
+        "subject": "Asia equity markets begin quiet following the non-existent lead from Wall St which was shut for Independence Day and with participants also tentative ahead of the key US NFP jobs data",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-equity-markets-begin-quiet-following-the-non-existent-lead-from-wall-st-which-was-shut-for-independence-day-and-with-participants-also-tentative-ahead-of-the-key-us-nfp-jobs-data-05-07-2019",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-07-05 08:01:00",
+        "gmt_time": "2019-07-05 00:01:00"
+    }
+]

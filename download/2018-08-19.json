@@ -1,0 +1,614 @@
+[
+    {
+        "id": 670605,
+        "updated_sequence": 1027777,
+        "published_at": {
+            "unix": 1534723080,
+            "text": "2018-08-20 00:58:00 +0100",
+            "iso_8601": "2018-08-19T23:58:00Z"
+        },
+        "updated_at": {
+            "unix": 1534723133,
+            "text": "2018-08-20 00:58:53 +0100",
+            "iso_8601": "2018-08-19T23:58:53Z"
+        },
+        "subject": "Kia Motors (000270 KS) is to face a partial domestic strike today",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "kia-motors-000270-ks-is-to-face-a-partial-domestic-strike-today-19-08-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-08-20 07:58:00",
+        "gmt_time": "2018-08-19 23:58:00"
+    },
+    {
+        "id": 670604,
+        "updated_sequence": 1027774,
+        "published_at": {
+            "unix": 1534722900,
+            "text": "2018-08-20 00:55:00 +0100",
+            "iso_8601": "2018-08-19T23:55:00Z"
+        },
+        "updated_at": {
+            "unix": 1534723012,
+            "text": "2018-08-20 00:56:52 +0100",
+            "iso_8601": "2018-08-19T23:56:52Z"
+        },
+        "subject": "Saudi sovereign wealth fund reportedly in discussions to invest in Lucid Motors which in an aspiring rival to Tesla (TSLA)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "saudi-sovereign-wealth-fund-reportedly-in-discussions-to-invest-in-lucid-motors-which-in-an-aspiring-rival-to-tesla-tsla-19-08-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-08-20 07:55:00",
+        "gmt_time": "2018-08-19 23:55:00"
+    },
+    {
+        "id": 670603,
+        "updated_sequence": 1027771,
+        "published_at": {
+            "unix": 1534722540,
+            "text": "2018-08-20 00:49:00 +0100",
+            "iso_8601": "2018-08-19T23:49:00Z"
+        },
+        "updated_at": {
+            "unix": 1534722641,
+            "text": "2018-08-20 00:50:41 +0100",
+            "iso_8601": "2018-08-19T23:50:41Z"
+        },
+        "subject": "US reported to reject Turkey offer of releasing Pastor Brunson in exchange for bank relief, according to reports",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-reported-to-reject-turkey-offer-of-releasing-pastor-brunson-in-exchange-for-bank-relief-according-to-reports-19-08-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-08-20 07:49:00",
+        "gmt_time": "2018-08-19 23:49:00"
+    },
+    {
+        "id": 670602,
+        "updated_sequence": 1027768,
+        "published_at": {
+            "unix": 1534722180,
+            "text": "2018-08-20 00:43:00 +0100",
+            "iso_8601": "2018-08-19T23:43:00Z"
+        },
+        "updated_at": {
+            "unix": 1534722289,
+            "text": "2018-08-20 00:44:49 +0100",
+            "iso_8601": "2018-08-19T23:44:49Z"
+        },
+        "subject": "Eclipx Group (ECX AT) rejects cash and share proposal valued at AUD 2.25/Shr from SG Fleet (SGF AT)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "eclipx-group-ecx-at-rejects-cash-and-share-proposal-valued-at-aud-2-25-shr-from-sg-fleet-sgf-at-19-08-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-08-20 07:43:00",
+        "gmt_time": "2018-08-19 23:43:00"
+    },
+    {
+        "id": 670601,
+        "updated_sequence": 1027765,
+        "published_at": {
+            "unix": 1534722120,
+            "text": "2018-08-20 00:42:00 +0100",
+            "iso_8601": "2018-08-19T23:42:00Z"
+        },
+        "updated_at": {
+            "unix": 1534722231,
+            "text": "2018-08-20 00:43:51 +0100",
+            "iso_8601": "2018-08-19T23:43:51Z"
+        },
+        "subject": "Samsung C&T (028260 KS) receives order valued at KRW 882.6bln",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "samsung-c-t-028260-ks-receives-order-valued-at-krw-882-6bln-19-08-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-08-20 07:42:00",
+        "gmt_time": "2018-08-19 23:42:00"
+    },
+    {
+        "id": 670600,
+        "updated_sequence": 1027815,
+        "published_at": {
+            "unix": 1534720680,
+            "text": "2018-08-20 00:18:00 +0100",
+            "iso_8601": "2018-08-19T23:18:00Z"
+        },
+        "updated_at": {
+            "unix": 1534729764,
+            "text": "2018-08-20 02:49:24 +0100",
+            "iso_8601": "2018-08-20T01:49:24Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIAN, JAPANESE AND SOUTH KOREAN STOCK NEWS: Earnings including Ansell, Fortescue Metals and Woolworths",
+        "content": "<p>AUSTRALIA</p>\r\n\r\n<p>Ansell (ANN AT)<br />- Co. FY18 net rose 228% Y/Y to AUD 484.3mln vs. Exp. AUD 491.0mln, rev. fell 3.3% Y/Y to AUD 1.55bln. (Newswires)</p>\r\n\r\n<p>Beach Energy (BPT AT)<br />- Co. FY18 net AUD 198.8mln vs. Prev. AUD 387.5mln Y/Y, underlying profit AUD 301.5mln vs. Exp. AUD 314.4mln, rev. increased 90% Y/Y to AUD 1.27bln. (Newswires)</p>\r\n\r\n<p>Cardno (CDD AT)<br />- Co. FY18 net loss AUD 14.0mln vs. Prev. profit AUD 8.6mln Y/Y, rev. AUD 1.1bln vs. Prev. AUD 1.2bln Y/Y. (Newswires)</p>\r\n\r\n<p>Fortescue Metals (FMG AT)<br />- Co. FY18 net fell 58% Y/Y to AUD 879mln, rev. fell 18% Y/Y to AUD 6.89bln. (Newswires)</p>\r\n\r\n<p>Gateway Lifestyle Operations (GTY AT)<br />- Co. FY18 net fell 2.5% Y/Y to AUD 58.2mln. (Newswires)</p>\r\n\r\n<p>NAB (NAB AT)<br />- Co.&rsquo;s MLC wealth management business is reportedly charging clients in at least 10 funds as much as double in fees in comparison to external managers. (The Australian)</p>\r\n\r\n<p>NIB Holdings (NHF AT)<br />- Co. FY18 net AUD 132.4mln vs. Prev. AUD 119.6mln, rev. AUD 2.27bln vs. Prev. AUD 2.04bln Y/Y. (Newswires)</p>\r\n\r\n<p>Primary Healthcare (PRY AT)<br />- Co. FY profit attributable AUD 8.9mln vs. Prev. loss AUD 516.8mln Y/Y. (Newswires)<br />- Co. shares halted ahead of pending entitlement offer. (Newswires)</p>\r\n\r\n<p>Sydney Airport (SYD AT)<br />- Co. July international traffic increased by 5.4% Y/Y and passenger numbers grew 2.6% Y/Y. (Newswires)</p>\r\n\r\n<p>Woolworths (WOW AT)<br />- Co. FY18 net profit attributable rose 12.5% to AUD 1.73bln vs. Exp. AUD 1.77bln, rev. rose 3.5% Y/Y to AUD 57.2bln. (Newswires)</p>\r\n\r\n<p>Other News<br />- Australia announced AUD 1.8bln increase in funding for drought-afflicted farmers. (Nikkei)<br /><br />&nbsp;</p>\r\n\r\n<p>JAPAN</p>\r\n\r\n<p>Japan Tobacco (2914 JT)<br />- Co. July domestic cigarette sales volumes declined 10.2% Y/Y and domestic cigarette revenue fell 10.9% Y/Y to JPY 41.7bln. (Newswires)</p>\r\n\r\n<p>SBI Holdings (8473 JT)<br />- Co. is reportedly anticipated to back cryptocurrency exchange Lastroots. (Newswires)</p>\r\n\r\n<p>Other News<br />- Japan&rsquo;s LDP is to hold its leadership vote on September 20th. (Sankei)<br />- Some analysts think that the BoJ&#39;s decision to refrain&nbsp;from buying stocks for 2-days last week suggests the the central bank is comfortable with declines in domestic stocks and could be a sign of that stealth tapering has begun. (Newswires)</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>SOUTH KOREA</p>\r\n\r\n<p>Hyundai Rotem (064350 KS)<br />- Co. signs KRW 361.5bln contract. (Newswires)</p>\r\n\r\n<p>Other News<br />- South Korea reportedly plans to raise budget for next year by 9.7% to KRW 470tln. (Newswires)<br />- North Korea is to permit UN agency to conduct an onsite inspection related to missile safety. (Newswires)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-australian-japanese-and-south-korean-stock-news-earnings-including-ansell-fortescue-metals-and-woolworths-19-08-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-08-20 07:18:00",
+        "gmt_time": "2018-08-19 23:18:00"
+    },
+    {
+        "id": 670599,
+        "updated_sequence": 1027756,
+        "published_at": {
+            "unix": 1534720140,
+            "text": "2018-08-20 00:09:00 +0100",
+            "iso_8601": "2018-08-19T23:09:00Z"
+        },
+        "updated_at": {
+            "unix": 1534720207,
+            "text": "2018-08-20 00:10:07 +0100",
+            "iso_8601": "2018-08-19T23:10:07Z"
+        },
+        "subject": "ANZ Bank forecasts RBNZ to keep rates on hold for the foreseeable future",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "anz-bank-forecasts-rbnz-to-keep-rates-on-hold-for-the-foreseeable-future-19-08-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-08-20 07:09:00",
+        "gmt_time": "2018-08-19 23:09:00"
+    },
+    {
+        "id": 670598,
+        "updated_sequence": 1027753,
+        "published_at": {
+            "unix": 1534719900,
+            "text": "2018-08-20 00:05:00 +0100",
+            "iso_8601": "2018-08-19T23:05:00Z"
+        },
+        "updated_at": {
+            "unix": 1534720142,
+            "text": "2018-08-20 00:09:02 +0100",
+            "iso_8601": "2018-08-19T23:09:02Z"
+        },
+        "subject": "Barclays says its trade of the week is short AUD/USD with a target of 0.7170 and stop at 0.7390",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Twitter",
+        "slug": "barclays-says-its-trade-of-the-week-is-short-aud-usd-with-a-target-of-0-7170-and-stop-at-0-7390-19-08-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-08-20 07:05:00",
+        "gmt_time": "2018-08-19 23:05:00"
+    },
+    {
+        "id": 670595,
+        "updated_sequence": 1027744,
+        "published_at": {
+            "unix": 1534719540,
+            "text": "2018-08-19 23:59:00 +0100",
+            "iso_8601": "2018-08-19T22:59:00Z"
+        },
+        "updated_at": {
+            "unix": 1534719614,
+            "text": "2018-08-20 00:00:14 +0100",
+            "iso_8601": "2018-08-19T23:00:14Z"
+        },
+        "subject": "US President Trump's former lawyer Cohen is said to be under investigation related to bank fraud",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-president-trump-s-former-lawyer-cohen-is-said-to-be-under-investigation-related-to-bank-fraud-19-08-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-08-20 06:59:00",
+        "gmt_time": "2018-08-19 22:59:00"
+    },
+    {
+        "id": 670594,
+        "updated_sequence": 1027741,
+        "published_at": {
+            "unix": 1534719180,
+            "text": "2018-08-19 23:53:00 +0100",
+            "iso_8601": "2018-08-19T22:53:00Z"
+        },
+        "updated_at": {
+            "unix": 1534719272,
+            "text": "2018-08-19 23:54:32 +0100",
+            "iso_8601": "2018-08-19T22:54:32Z"
+        },
+        "subject": "China could utilize employee share incentive programmes to stabilize markets, according to press reports",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "china-could-utilize-employee-share-incentive-programmes-to-stabilize-markets-according-to-press-reports-19-08-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-08-20 06:53:00",
+        "gmt_time": "2018-08-19 22:53:00"
+    },
+    {
+        "id": 670593,
+        "updated_sequence": 1027738,
+        "published_at": {
+            "unix": 1534718460,
+            "text": "2018-08-19 23:41:00 +0100",
+            "iso_8601": "2018-08-19T22:41:00Z"
+        },
+        "updated_at": {
+            "unix": 1534718520,
+            "text": "2018-08-19 23:42:00 +0100",
+            "iso_8601": "2018-08-19T22:42:00Z"
+        },
+        "subject": "Fortescue Metals (FMG AT) FY18 net fell 58% Y/Y to AUD 879mln, rev. fell 18% Y/Y to AUD 6.89bln",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "fortescue-metals-fmg-at-fy18-net-fell-58-y-y-to-aud-879mln-rev-fell-18-y-y-to-aud-6-89bln-19-08-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-08-20 06:41:00",
+        "gmt_time": "2018-08-19 22:41:00"
+    },
+    {
+        "id": 670592,
+        "updated_sequence": 1027735,
+        "published_at": {
+            "unix": 1534718280,
+            "text": "2018-08-19 23:38:00 +0100",
+            "iso_8601": "2018-08-19T22:38:00Z"
+        },
+        "updated_at": {
+            "unix": 1534718351,
+            "text": "2018-08-19 23:39:11 +0100",
+            "iso_8601": "2018-08-19T22:39:11Z"
+        },
+        "subject": "South Korea reportedly plans to raise budget for next year by 9.7% to KRW 470tln",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "south-korea-reportedly-plans-to-raise-budget-for-next-year-by-9-7-to-krw-470tln-19-08-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-08-20 06:38:00",
+        "gmt_time": "2018-08-19 22:38:00"
+    },
+    {
+        "id": 670591,
+        "updated_sequence": 1027732,
+        "published_at": {
+            "unix": 1534716900,
+            "text": "2018-08-19 23:15:00 +0100",
+            "iso_8601": "2018-08-19T22:15:00Z"
+        },
+        "updated_at": {
+            "unix": 1534717065,
+            "text": "2018-08-19 23:17:45 +0100",
+            "iso_8601": "2018-08-19T22:17:45Z"
+        },
+        "subject": "Woolworths (WOW AT) FY18 net profit attributable rose 12.5% to AUD 1.73bln vs. Exp. AUD 1.77bln, rev. rose 3.5% Y/Y to AUD 57.2bln",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "woolworths-wow-at-fy18-net-profit-attributable-rose-12-5-to-aud-1-73bln-vs-exp-aud-1-77bln-rev-rose-3-5-y-y-to-aud-57-2bln-19-08-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-08-20 06:15:00",
+        "gmt_time": "2018-08-19 22:15:00"
+    },
+    {
+        "id": 670590,
+        "updated_sequence": 1027729,
+        "published_at": {
+            "unix": 1534716060,
+            "text": "2018-08-19 23:01:00 +0100",
+            "iso_8601": "2018-08-19T22:01:00Z"
+        },
+        "updated_at": {
+            "unix": 1534716170,
+            "text": "2018-08-19 23:02:50 +0100",
+            "iso_8601": "2018-08-19T22:02:50Z"
+        },
+        "subject": "German Finance Ministry notes TRY crisis, US tariffs and Brexit as risks to the German economy",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "german-finance-ministry-notes-try-crisis-us-tariffs-and-brexit-as-risks-to-the-german-economy-19-08-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-08-20 06:01:00",
+        "gmt_time": "2018-08-19 22:01:00"
+    },
+    {
+        "id": 670589,
+        "updated_sequence": 1027722,
+        "published_at": {
+            "unix": 1534714740,
+            "text": "2018-08-19 22:39:00 +0100",
+            "iso_8601": "2018-08-19T21:39:00Z"
+        },
+        "updated_at": {
+            "unix": 1534714851,
+            "text": "2018-08-19 22:40:51 +0100",
+            "iso_8601": "2018-08-19T21:40:51Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASES CALENDAR NOW AVAILABLE IN THE RESEARCH SECTION: Highlights Include Light calendar with UK Rightmove House Prices and Thailand GDP",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asian-daily-economic-releases-calendar-now-available-in-the-research-section-highlights-include-light-calendar-with-uk-rightmove-house-prices-and-thailand-gdp-19-08-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-08-20 05:39:00",
+        "gmt_time": "2018-08-19 21:39:00"
+    },
+    {
+        "id": 670588,
+        "updated_sequence": 1027719,
+        "published_at": {
+            "unix": 1534714380,
+            "text": "2018-08-19 22:33:00 +0100",
+            "iso_8601": "2018-08-19T21:33:00Z"
+        },
+        "updated_at": {
+            "unix": 1534714475,
+            "text": "2018-08-19 22:34:35 +0100",
+            "iso_8601": "2018-08-19T21:34:35Z"
+        },
+        "subject": "ESM says Greece successfully completed bailout programme",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "esm-says-greece-successfully-completed-bailout-programme-19-08-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-08-20 05:33:00",
+        "gmt_time": "2018-08-19 21:33:00"
+    },
+    {
+        "id": 670587,
+        "updated_sequence": 1027726,
+        "published_at": {
+            "unix": 1534712700,
+            "text": "2018-08-19 22:05:00 +0100",
+            "iso_8601": "2018-08-19T21:05:00Z"
+        },
+        "updated_at": {
+            "unix": 1534715247,
+            "text": "2018-08-19 22:47:27 +0100",
+            "iso_8601": "2018-08-19T21:47:27Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p>ASIA</p>\r\n\r\n<p>China Banking and Insurance Regulatory Commission instructed banks to increase lending towards infrastructure projects and exporters. (FT)</p>\r\n\r\n<p>US Trade Representative Lighthizer will hold a hearing on China tariffs in August, while it was also reported on Friday that US and China trade talks have a plotted road map to resolve trade dispute by November. (Newswires/WSJ)</p>\r\n\r\n<p><br />UK/EU</p>\r\n\r\n<p>UK Cabinet papers showed that EU migrants are be given the right to stay in UK in the event of a no-deal amid worries of potential labour shortages. (Telegraph)</p>\r\n\r\n<p>UK Tory Brexiteer Jacob Rees-Mogg warned PM May that Eurosceptics will block her plans unless they are changed, while the group are also reported to be devising an alternative proposal to PM May&rsquo;s Brexit plans. (Independent)</p>\r\n\r\n<p>S&amp;P downgraded Turkey from BB- to B+; Outlook Stable and Moody&rsquo;s also cut Turkey from Ba2 to Ba3; Outlook Negative, while Fitch affirmed Russia at &#39;BBB-&#39;; Outlook Positive. (Newswires)</p>\r\n\r\n<p><br />FX</p>\r\n\r\n<p>Canadian CPI Inflation (Jul) M/M 0.5% vs. Exp. 0.1% (Prev. 0.1%). (Newswires)<br />Canadian CPI Inflation (Jul) Y/Y 3.0% vs. Exp. 2.5% (Prev. 2.5%)</p>\r\n\r\n<p>Venezuela President Maduro announced an increase in minimum wages and taxes, while he also declared they will peg the nation&rsquo;s currency to the value of the government-launched petro cryptocurrency. (Newswires)</p>\r\n\r\n<p><br />COMMODITIES</p>\r\n\r\n<p>Baker Hughes Rig Count Total Rigs unchanged at 1057. (Newswires)</p>\r\n\r\n<p>Iran told OPEC that members should not be permitted to take over another member&#39;s share of oil exports, after Saudi Arabia had offered to increase output to cover any Iranian shortfall. (Newswires)<br />&nbsp;</p>\r\n\r\n<p>GEOPOLITICAL</p>\r\n\r\n<p>Turkish Court rejected US Pastor Brunson&#39;s appeal for release on Friday, while there were also comments from US President Trump that Turkey made up the fake charge that US Pastor Brunson is a spy. (Newswires)</p>\r\n\r\n<p>North Korea is to permit UN agency to conduct an onsite inspection related to missile safety. (Newswires)<br />&nbsp;</p>\r\n\r\n<p>US</p>\r\n\r\n<p>US and Mexico narrowed differences on farm trade in NAFTA talks according to reports on Friday, while there were also comments from Mexico&rsquo;s Economy Minister Guajardo that they are hoping to conclude the remaining bilateral issues with the US by the middle of this week including auto rules of origin. (Newswires)</p>\r\n\r\n<p><br />MARKET RECAP</p>\r\n\r\n<p>US equity futures traded sideways overnight following Thursday&rsquo;s solid gains, with the Emini S&amp;P 500 consolidating beneath 2850 for most of the session; that level was breached to the upside on news that US and China are planning a roadmap to resolve their trade dispute by November, which sent ES to weekly highs. Before then, indices were under slight downward pressure; however, a bottom was seen around 2835, which coincided with an article on Business Insider, suggesting that Turkish diplomats are ready to release Pastor Brunson. However, this news was seen hours beforehand in the Middle Eastern Eye, and in between the two releases, a Turkish appeals court rejected the plea to release Pastor Brunson. Nasdaq futures underperformed following poor earnings from Applied Materials (AMAT) which sparked a sell off in semiconductors, with the ETF (SOX) seeing declines just shy of 3%, before paring back most of the losses as trade progressed.&nbsp; Tesla (TSLA) also pressured the Nasdaq following reports the SEC is placing pressure on the automaker&rsquo;s directors to understand how much details CEO Elon Musk shared with them prior to the announcement of his plan to take the co. private. SPX +0.33% at 2850, NDX +0.04% at 7378, DJI +0.43% at 25669.</p>\r\n\r\n<p>Slight flattening of the curve was seen on Friday by settlement, and yields are ultimately little changed. There was little move after a miss on the University of Michigan sentiment data, and Treasuries edged higher. The complex was positive up until a news report suggesting that the US and Chinese were working on a roadmap to reach a resolution in their trade dispute by November. The headline saw a move into risk, to the detriment of Treasuries. US 10-YEAR T-notes settled half-a-tick tick lower at 120-08.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-asia-pac-opening-news-19-08-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-08-20 05:05:00",
+        "gmt_time": "2018-08-19 21:05:00"
+    },
+    {
+        "id": 670419,
+        "updated_sequence": 1027707,
+        "published_at": {
+            "unix": 1534712400,
+            "text": "2018-08-19 22:00:00 +0100",
+            "iso_8601": "2018-08-19T21:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1534712400,
+            "text": "2018-08-19 22:00:00 +0100",
+            "iso_8601": "2018-08-19T21:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-16-08-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-08-20 05:00:00",
+        "gmt_time": "2018-08-19 21:00:00"
+    }
+]

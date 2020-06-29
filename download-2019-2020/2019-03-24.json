@@ -1,0 +1,342 @@
+[
+    {
+        "id": 861147,
+        "updated_sequence": 1818622,
+        "published_at": {
+            "unix": 1553471280,
+            "text": "2019-03-24 23:48:00 +0000",
+            "iso_8601": "2019-03-24T23:48:00Z"
+        },
+        "updated_at": {
+            "unix": 1553471392,
+            "text": "2019-03-24 23:49:52 +0000",
+            "iso_8601": "2019-03-24T23:49:52Z"
+        },
+        "subject": "US Coast Guard announces Houston Ship Channel closure impacting a 2-mile span, doesn't give timeline for reopening",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-coast-guard-announces-houston-ship-channel-closure-impacting-a-2-mile-span-doesn-t-give-timeline-for-reopening-24-03-2019",
+        "hidden": false,
+        "section": {
+            "id": 20,
+            "name": "Commodities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-03-25 07:48:00",
+        "gmt_time": "2019-03-24 23:48:00"
+    },
+    {
+        "id": 861146,
+        "updated_sequence": 1818619,
+        "published_at": {
+            "unix": 1553470740,
+            "text": "2019-03-24 23:39:00 +0000",
+            "iso_8601": "2019-03-24T23:39:00Z"
+        },
+        "updated_at": {
+            "unix": 1553471003,
+            "text": "2019-03-24 23:43:23 +0000",
+            "iso_8601": "2019-03-24T23:43:23Z"
+        },
+        "subject": "PRE-MARKET JAPANESE AND SOUTH KOREAN STOCK NEWS: Japan Exchange Group (8697 JT) is to acquire Tokyo Commodity Exchange ",
+        "content": "<p>JAPAN</p><p>Japan Exchange Group (8697 JT) - Co. is to acquire Tokyo Commodity Exchange which is expected to be announced this week. (Newswires)</p><p>Nissan (7201 JT) - Co. reportedly has no plans to create a new model for Q30 and QX30. (Newswires)</p><p>Nitori Holdings (9843 JT) - Co. FY oper. profit may have increased by 10% Y/Y. (Newswires)</p><p>Seven &amp; I Holdings (3382 JT) - Co. may report FY oper. profit JPY 410bln. (Nikkei)</p><p>Power/Utilities - Japan’s government is reportedly mulling subsidies for nuclear power. (Nikkei)</p><p>&nbsp;</p><p>SOUTH KOREA</p><p>Hotel Shilla (008770 KS) - Police raided a surgeon’s office in an investigation that Hotel Shilla CEO Lee Boo-jin, who is also a daughter of Samsung Group patriarch Lee Kun-hee, may have abused an addictive substance. (Yonhap)</p><p>SK Innovation (096770 KS) - Co. is to supply batteries to Volkswagen beginning in 2022. (Newswires)</p><p>Other News - US President Trump withdrew additional large-scale sanctions on North Korea which were announced on the same day. (Newswires)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-japanese-and-south-korean-stock-news-japan-exchange-group-8697-jt-is-to-acquire-tokyo-commodity-exchange-24-03-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-03-25 07:39:00",
+        "gmt_time": "2019-03-24 23:39:00"
+    },
+    {
+        "id": 861145,
+        "updated_sequence": 1818614,
+        "published_at": {
+            "unix": 1553470680,
+            "text": "2019-03-24 23:38:00 +0000",
+            "iso_8601": "2019-03-24T23:38:00Z"
+        },
+        "updated_at": {
+            "unix": 1553470770,
+            "text": "2019-03-24 23:39:30 +0000",
+            "iso_8601": "2019-03-24T23:39:30Z"
+        },
+        "subject": "PBoC Governor Yi Gang affirms the central bank have basically exited regular FX intervention",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pboc-governor-yi-gang-affirms-the-central-bank-have-basically-exited-regular-fx-intervention-24-03-2019",
+        "hidden": false,
+        "section": {
+            "id": 15,
+            "name": "PBoC"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-03-25 07:38:00",
+        "gmt_time": "2019-03-24 23:38:00"
+    },
+    {
+        "id": 861144,
+        "updated_sequence": 1818611,
+        "published_at": {
+            "unix": 1553469300,
+            "text": "2019-03-24 23:15:00 +0000",
+            "iso_8601": "2019-03-24T23:15:00Z"
+        },
+        "updated_at": {
+            "unix": 1553469464,
+            "text": "2019-03-24 23:17:44 +0000",
+            "iso_8601": "2019-03-24T23:17:44Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASES CALENDAR NOW AVAILABLE IN THE RESEARCH SECTION: Highlights include: Speeches from Fed's Evans and BoJ's Harada",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asian-daily-economic-releases-calendar-now-available-in-the-research-section-highlights-include-speeches-from-fed-s-evans-and-boj-s-harada-24-03-2019",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-03-25 07:15:00",
+        "gmt_time": "2019-03-24 23:15:00"
+    },
+    {
+        "id": 861143,
+        "updated_sequence": 1818608,
+        "published_at": {
+            "unix": 1553469180,
+            "text": "2019-03-24 23:13:00 +0000",
+            "iso_8601": "2019-03-24T23:13:00Z"
+        },
+        "updated_at": {
+            "unix": 1553469264,
+            "text": "2019-03-24 23:14:24 +0000",
+            "iso_8601": "2019-03-24T23:14:24Z"
+        },
+        "subject": "Sources suggest an emergency UK cabinet meeting is set for 1000GMT on Monday",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "sources-suggest-an-emergency-uk-cabinet-meeting-is-set-for-1000gmt-on-monday-24-03-2019",
+        "hidden": false,
+        "section": {
+            "id": 38,
+            "name": "Brexit"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-03-25 07:13:00",
+        "gmt_time": "2019-03-24 23:13:00"
+    },
+    {
+        "id": 861142,
+        "updated_sequence": 1818605,
+        "published_at": {
+            "unix": 1553468400,
+            "text": "2019-03-24 23:00:00 +0000",
+            "iso_8601": "2019-03-24T23:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1553468540,
+            "text": "2019-03-24 23:02:20 +0000",
+            "iso_8601": "2019-03-24T23:02:20Z"
+        },
+        "subject": "ECB's Rehn says Brexit is biggest threat to Euro zone in the short-term and that markets are underestimating the risks, adds Euro zone growth has slowed significantly and we must be concerned",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "ecb-s-rehn-says-brexit-is-biggest-threat-to-euro-zone-in-the-short-term-and-that-markets-are-underestimating-the-risks-adds-euro-zone-growth-has-slowed-significantly-and-we-must-be-concerned-24-03-2019",
+        "hidden": false,
+        "section": {
+            "id": 17,
+            "name": "ECB"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-03-25 07:00:00",
+        "gmt_time": "2019-03-24 23:00:00"
+    },
+    {
+        "id": 861141,
+        "updated_sequence": 1818602,
+        "published_at": {
+            "unix": 1553467800,
+            "text": "2019-03-24 22:50:00 +0000",
+            "iso_8601": "2019-03-24T22:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1553467942,
+            "text": "2019-03-24 22:52:22 +0000",
+            "iso_8601": "2019-03-24T22:52:22Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIAN STOCK NEWS: Westpac (WBC AT) guides AUD 260mln negative impairment on cash earnings in H1 due to compensation",
+        "content": "<p>&nbsp;</p><p>Dacian Gold (DCN AT) - Co. lowers FY19 output to 150k-160k ounces from 180k ounces. (Newswires)</p><p>Downer EDI (DOW AT) - Talks with Oaktree regarding sale of its mining unit are said to have stalled due to the Co.’s contracts with BHP. (Newswires)</p><p>LNG (LNG AT) - Co. receives US DoE authorization to expand its Magnolia FTA export capacity to 8.8mtpa from 8.0mtpa. (Newswires)</p><p>Sandfire Resources (SFR AT) - Co. announces JV with White Rock (WRH AT) related to funding for exploration and development for new high-grade zinc and precious metals volcanogenic massive sulphide deposits in central Alaska. (Newswires)</p><p>Westpac (WBC AT) - Co. guides AUD 260mln negative impairment on cash earnings in H1 due to compensation. (Newswires)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-australian-stock-news-westpac-wbc-at-guides-aud-260mln-negative-impairment-on-cash-earnings-in-h1-due-to-compensation-24-03-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-03-25 06:50:00",
+        "gmt_time": "2019-03-24 22:50:00"
+    },
+    {
+        "id": 861140,
+        "updated_sequence": 1818599,
+        "published_at": {
+            "unix": 1553466840,
+            "text": "2019-03-24 22:34:00 +0000",
+            "iso_8601": "2019-03-24T22:34:00Z"
+        },
+        "updated_at": {
+            "unix": 1553467028,
+            "text": "2019-03-24 22:37:08 +0000",
+            "iso_8601": "2019-03-24T22:37:08Z"
+        },
+        "subject": "The Sun newspaper editorial says UK PM May should announce on Monday that she will stand down once her Brexit deal is approved and UK leaves the EU",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "The Sun",
+        "slug": "the-sun-newspaper-editorial-says-uk-pm-may-should-announce-on-monday-that-she-will-stand-down-once-her-brexit-deal-is-approved-and-uk-leaves-the-eu-24-03-2019",
+        "hidden": false,
+        "section": {
+            "id": 38,
+            "name": "Brexit"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-03-25 06:34:00",
+        "gmt_time": "2019-03-24 22:34:00"
+    },
+    {
+        "id": 861139,
+        "updated_sequence": 1818596,
+        "published_at": {
+            "unix": 1553465640,
+            "text": "2019-03-24 22:14:00 +0000",
+            "iso_8601": "2019-03-24T22:14:00Z"
+        },
+        "updated_at": {
+            "unix": 1553466834,
+            "text": "2019-03-24 22:33:54 +0000",
+            "iso_8601": "2019-03-24T22:33:54Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p>ASIA-PAC</p><p>Chinese Vice Premier Liu He is to travel Washington on April 3rd following a visit by US Treasury Secretary Mnuchin and Trade Representative Lighthizer to Beijing set for this week. (Newswires)</p><p>A US probe reportedly found China dumping and subsidisation of steel wheels. (Newswires)</p><p>US President Trump dispatched a US Envoy to Germany to keep the pressure on Huawei. (Newswires)</p><p>New Zealand Shadow Board continues to recommend no changes to RBNZ rates. (Newswires)</p><p>UK/EU</p><p>Reports suggested that UK PM May could be ousted in days as her cabinet plot to replace her with Michael Gove as caretaker PM, while a senior Downing Street source stated PM May’s Chief Whip has also advised her to set out her departure plans and some ministers are predicting she could be gone in 10 days. In related news, there were reports that 11 Cabinet Ministers confirmed they want to replace PM May with her Deputy Lidington, while UK Chancellor Hammond said the UK must find a way to leave the EU but replacing PM May will not help. (Daily Mail/The Sun)</p><p>UK PM May is expected to unveil plans to hold indicative votes and is considering offering votes regarding the Brexit deal, no-deal, 2nd referendum, revoking Article 50, FTA customs union and the single market, according to Telegraph’s political reporter. (Teleghraph/Newswires)</p><p>UK PM May said on Friday it is possible UK could request a new A50 extension if her deal is rejected next week, while she also suggested that she might not bring her MV3 back to parliament next week if it is likely to fail. (Newswires/BBC)</p><p>Minutes from a meeting of EU ambassadors and senior officials stated that European Commission Secretary General Selmayr asked colleagues to imagine scenarios featuring a new Brexit secretary or new Prime Minister in which the starting point in such a scenario must not be a renegotiation of the UK’s withdrawal from the EU, while Selmayr added that Article 50 has been agreed and the process is over. (The Observer)</p><p>ECB President Draghi told EU leaders he sees protracted weakness and pervasive uncertainty in the Eurozone economy but added risks of recession still quite low according to source. Furthermore, he added that international trade is the main reason for the slowdown and that substantial monetary stimulus still required. (Newswires)</p><ul><li>EU Markit Manufacturing Flash PMI (Mar) 47.6 vs. Exp. 49.5 (Prev. 49.3). (Newswires)&nbsp;</li><li>EU Markit Services Flash PMI (Mar) 52.7 vs. Exp. 52.7 (Prev. 52.8)&nbsp;</li><li>EU Markit Comp Flash PMI (Mar) 51.3 vs. Exp. 52.0 (Prev. 51.9)</li></ul><p>&nbsp;</p><p>FX</p><ul><li>Canadian CPI Inflation (Feb) M/M 0.7% vs. Exp. 0.6% (Prev. 0.1%). (Newswires)</li><li>Canadian CPI Inflation (Feb) Y/Y 1.5% vs. Exp. 1.4% (Prev. 1.4%)</li></ul><p>BoC average of the inflation measures (common, median, trimmed) fell to 1.83% from 1.87%.&nbsp;</p><p>COMMODITIES</p><p>Baker Hughes Rig Count (22/March): oil down 9 at 824, nat gas down 1 at 192, total down 10 at 1006. (Newswires)</p><p>US</p><p>Fed's Bullard (voter, dove) said Q1 weakness will be transitory and sees no need for any rate moves, while he also commented that inversion is noticeable but needs to be sustained to have any economic importance. (WSJ)</p><p>Fed's Kashkari (non-voter, dove) said the neutral rate might be lower than he originally thought and that the flat yield curve tells him we are close to neutral, but there is a lot of uncertainty around it and we could be contractionary. (Newswires)</p><p>Fed board nominee Moore said he is unsure if the Fed should be cutting rates now, while he added that sound monetary policy with stable prices can lead to strong growth and that he considers himself a growth hawk. Moore also commented that the Fed's move in December was a very substantial mistake which thankfully they have reversed course on, while he added deflation can be as harmful for an economy as inflation and that raising rates would create deflation. (Newswires)</p><p>Attorney General William Barr submitted to Congress his summary of the main conclusions from special counsel Mueller’s investigation in which it found that President Trump's campaign did not collude with Russia during the 2016 election. Furthermore, the report summary did not draw a conclusion as to whether President Trump illegally obstructed justice but also did not exonerate him, while House Speaker Pelosi and Senate Minority Leader Schumer suggested that William Barr is not a neutral observer of the Mueller report and said Congress require full Mueller report and underlying documents. (Newswires)</p><ul><li>US Existing Home Sales (Feb) 5.51M vs. Exp. 5.1M (Prev. 4.94M, Rev. 4.93M). (Newswires)</li><li>US Wholesale Sales (Jan) M/M 0.5% (Prev. -1.0%, Rev. -0.9%)</li><li>US Wholesale Inventories (Jan) M/M 1.2% vs. Exp. 0.2%</li><li>US Markit Manufacturing PMI Flash (Mar) 52.5 vs. Exp. 53.6 (Prev. 53.0)</li><li>US Markit Services PMI Flash (Mar) 54.8 vs. Exp. 56.0 (Prev. 56.0)</li><li>US Markit Comp Flash PMI Mar 54.3 (Prev. 55.5)</li></ul><p>&nbsp;</p><p>MARKET RECAP</p><p>Nike (NKE) traded at the bottom of the Dow to end the week on disappointing revenue; sports apparel distributor Foot Locker (FL) took its cues. Tiffany (TIF) initially got off on a back-foot after reporting revenue below expectations, but then reversed course to become an outperformer on constructive guidance. A large drop in yields saw the banking sector suffer with stocks such as Citi (C), Bank of America (BAC), Wells Fargo (WFC) all underperforming. The risk off sentiment weighed into cyclical sectors such as tech, with Advanced Micro Devices (AMD), Activision Blizzard (ATVI), Micron Technology (MU), NVIDIA (NVDA) and Netflix (NFLX) all traded in the red. Best Buy (BBY) and Lumentum (LITE) benefitted from upgrades at Oppenheimer and JPMorgan respectively. 3M (MMM) suffered from a pessimistic outlook provided by Morgan Stanley. Booking Holdings (BKNG) dipped on the back of a downgrade at Wedbush. Avon Products (AVP) surged following reports of a sale which would re-combine its units. Fidelity (FIS) caught a tailwind from being added to Wedbush’s “Best Ideas” list. Goldcorp (GG) dipped after Newmont (NEM) investor Paulson &amp; Co. opposed the merger deal. Tesla (TSLA) traded lower on the back of Cowen lowering its price target. Blackrock (BLK) rocked over on the announcement of a chunky fintech acquisition. Papa John’s (PZZA) caught a bid after it appointed NBA legend Shaq to its board of directors. SPX -1.90% at 2801, NDX -2.23% at 7326, DJI -1.77% at 25503.</p><p>The Tplex traded in a narrow range in the Asian session before a wave of buyers came into the market on the back of a risk off sentiment becoming catalysed by a big drop in German manufacturing, the lowest since 2012, the move was exacerbated by the US missing PMI expectations too. Friday also saw the 3-month/10-year yield curve inverting, triggering algos to rotate out of equities and into bonds, as well as catching traders’ attention, and stoking fears about the health of the US economy, since an inverted 3m/10yr curve usually portends recession, analysts said. However, FOMC arch dove Bullard – who has vigorously warned against inversions in the past – said that it would only be a real concern if the inversion was sustained. Into settlement, Treasuries came off their highs slightly, but the rally remained intact, with the yields of the belly falling by c. 10bps; the 2s/5s contracted by 1.1bps, whilst the 5s/30s steepened by 1.2bps. US T-note futures (M9) settled 21+ ticks higher at 124-01.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-asia-pac-opening-news-24-03-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-03-25 06:14:00",
+        "gmt_time": "2019-03-24 22:14:00"
+    },
+    {
+        "id": 860960,
+        "updated_sequence": 1818584,
+        "published_at": {
+            "unix": 1553464800,
+            "text": "2019-03-24 22:00:00 +0000",
+            "iso_8601": "2019-03-24T22:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1553464800,
+            "text": "2019-03-24 22:00:00 +0000",
+            "iso_8601": "2019-03-24T22:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-21-03-2019",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-03-25 06:00:00",
+        "gmt_time": "2019-03-24 22:00:00"
+    }
+]

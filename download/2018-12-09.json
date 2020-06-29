@@ -1,0 +1,750 @@
+[
+    {
+        "id": 687386,
+        "updated_sequence": 1104708,
+        "published_at": {
+            "unix": 1544399400,
+            "text": "2018-12-09 23:50:00 +0000",
+            "iso_8601": "2018-12-09T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1544399504,
+            "text": "2018-12-09 23:51:44 +0000",
+            "iso_8601": "2018-12-09T23:51:44Z"
+        },
+        "subject": "Japanese GDP Nominal (Q3 F) Q/Q -0.7% vs. Exp. -0.5% (Prev. -0.3%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-gdp-nominal-q3-f-q-q-0-7-vs-exp-0-5-prev-0-3-09-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-10 07:50:00",
+        "gmt_time": "2018-12-09 23:50:00"
+    },
+    {
+        "id": 687388,
+        "updated_sequence": 1104720,
+        "published_at": {
+            "unix": 1544399400,
+            "text": "2018-12-09 23:50:00 +0000",
+            "iso_8601": "2018-12-09T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1544399750,
+            "text": "2018-12-09 23:55:50 +0000",
+            "iso_8601": "2018-12-09T23:55:50Z"
+        },
+        "subject": "Japanese GDP Deflator (Q3 F) Q/Q -0.3% vs. Exp. -0.3% (Prev. -0.3%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-gdp-deflator-q3-f-q-q-0-3-vs-exp-0-3-prev-0-3-09-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-10 07:50:00",
+        "gmt_time": "2018-12-09 23:50:00"
+    },
+    {
+        "id": 687387,
+        "updated_sequence": 1104717,
+        "published_at": {
+            "unix": 1544399400,
+            "text": "2018-12-09 23:50:00 +0000",
+            "iso_8601": "2018-12-09T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1544399725,
+            "text": "2018-12-09 23:55:25 +0000",
+            "iso_8601": "2018-12-09T23:55:25Z"
+        },
+        "subject": "Japanese Adjusted Account Balance (JPY)(Oct) 1.21tln vs. Exp. 1.29tln (Prev. 1.33tln)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-adjusted-account-balance-jpy-oct-1-21tln-vs-exp-1-29tln-prev-1-33tln-09-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-10 07:50:00",
+        "gmt_time": "2018-12-09 23:50:00"
+    },
+    {
+        "id": 687378,
+        "updated_sequence": 1104684,
+        "published_at": {
+            "unix": 1544399040,
+            "text": "2018-12-09 23:44:00 +0000",
+            "iso_8601": "2018-12-09T23:44:00Z"
+        },
+        "updated_at": {
+            "unix": 1544399152,
+            "text": "2018-12-09 23:45:52 +0000",
+            "iso_8601": "2018-12-09T23:45:52Z"
+        },
+        "subject": "HSBC (5 HK) and Standard Chartered (2888 HK) said to be among those misled by Huawei regarding dealings with Iran",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "hsbc-5-hk-and-standard-chartered-2888-hk-said-to-be-among-those-misled-by-huawei-regarding-dealings-with-iran-09-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 34,
+            "name": "Global Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-10 07:44:00",
+        "gmt_time": "2018-12-09 23:44:00"
+    },
+    {
+        "id": 687378,
+        "updated_sequence": 1104684,
+        "published_at": {
+            "unix": 1544399040,
+            "text": "2018-12-09 23:44:00 +0000",
+            "iso_8601": "2018-12-09T23:44:00Z"
+        },
+        "updated_at": {
+            "unix": 1544399152,
+            "text": "2018-12-09 23:45:52 +0000",
+            "iso_8601": "2018-12-09T23:45:52Z"
+        },
+        "subject": "HSBC (5 HK) and Standard Chartered (2888 HK) said to be among those misled by Huawei regarding dealings with Iran",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "hsbc-5-hk-and-standard-chartered-2888-hk-said-to-be-among-those-misled-by-huawei-regarding-dealings-with-iran-09-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 34,
+            "name": "Global Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-10 07:44:00",
+        "gmt_time": "2018-12-09 23:44:00"
+    },
+    {
+        "id": 687377,
+        "updated_sequence": 1104680,
+        "published_at": {
+            "unix": 1544398440,
+            "text": "2018-12-09 23:34:00 +0000",
+            "iso_8601": "2018-12-09T23:34:00Z"
+        },
+        "updated_at": {
+            "unix": 1544398660,
+            "text": "2018-12-09 23:37:40 +0000",
+            "iso_8601": "2018-12-09T23:37:40Z"
+        },
+        "subject": "PRE-MARKET JAPANESE AND SOUTH KOREAN STOCK NEWS: Kansai Electric Power (9503 JT) unit is said to have falsified certain survey data concerning possible power leaks",
+        "content": "<p>JAPAN</p>\r\n\r\n<p>Daiwa Securities (8601 JT)<br />- Co. inks MOU concerning investment banking with Aura Capital. (Newswires)</p>\r\n\r\n<p>Kansai Electric Power (9503 JT)<br />- Co. unit is said to have falsified certain survey data concerning possible power leaks. (Newswires)</p>\r\n\r\n<p>Nissan (7201 JT)<br />- Co. is to recall a further 150k vehicles in Japan due to improper inspections. (Newswires)<br />- Co. former Chairman Ghosn was planning to replace CEO Saikawa prior to Ghosn&rsquo;s arrest as he was unsatisfied regarding the CEO&rsquo;s handling of problems in the automaker. (Newswires)</p>\r\n\r\n<p>Sekisui House (1928 JT)<br />- Co. 9-month net JPY 82.9bln vs. Prev. JPY 85.9bln Y/Y. (Newswires)</p>\r\n\r\n<p>Pioneer Corp (6773 JT)<br />- Co. will be taken private by Baring Private Equity and is to issue shares through private placement valued at JPY 77bln to Wolfcrest. (Newswires)</p>\r\n\r\n<p>SOUTH KOREA</p>\r\n\r\n<p>Other News<br />- South Korean Parliament approved KRW 470tln budget plan for next year, while it also approved new free trade agreement with US which the government is working to implement by start of January. (Newswires)<br />- Hyundai Research Institute said the economy is in a downward cycle and is expected to hit bottom sometime next year. (Yonhap)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-japanese-and-south-korean-stock-news-kansai-electric-power-9503-jt-unit-is-said-to-have-falsified-certain-survey-data-concerning-possible-power-leaks-09-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-10 07:34:00",
+        "gmt_time": "2018-12-09 23:34:00"
+    },
+    {
+        "id": 687376,
+        "updated_sequence": 1104674,
+        "published_at": {
+            "unix": 1544398080,
+            "text": "2018-12-09 23:28:00 +0000",
+            "iso_8601": "2018-12-09T23:28:00Z"
+        },
+        "updated_at": {
+            "unix": 1544398151,
+            "text": "2018-12-09 23:29:11 +0000",
+            "iso_8601": "2018-12-09T23:29:11Z"
+        },
+        "subject": "Mexico President AMLO complains about Mexico buying 75% of its gasoline and announces to rehabilitate 6 refineries and also build new refineries in Dos Bocas, Paraiso and Tabasco",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "mexico-president-amlo-complains-about-mexico-buying-75-of-its-gasoline-and-announces-to-rehabilitate-6-refineries-and-also-build-new-refineries-in-dos-bocas-paraiso-and-tabasco-09-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 20,
+            "name": "Commodities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-10 07:28:00",
+        "gmt_time": "2018-12-09 23:28:00"
+    },
+    {
+        "id": 687375,
+        "updated_sequence": 1104671,
+        "published_at": {
+            "unix": 1544397480,
+            "text": "2018-12-09 23:18:00 +0000",
+            "iso_8601": "2018-12-09T23:18:00Z"
+        },
+        "updated_at": {
+            "unix": 1544397549,
+            "text": "2018-12-09 23:19:09 +0000",
+            "iso_8601": "2018-12-09T23:19:09Z"
+        },
+        "subject": "OECD warns Australian government to prepare contingency plans in the event of a housing price crash",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "oecd-warns-australian-government-to-prepare-contingency-plans-in-the-event-of-a-housing-price-crash-09-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-10 07:18:00",
+        "gmt_time": "2018-12-09 23:18:00"
+    },
+    {
+        "id": 687374,
+        "updated_sequence": 1104668,
+        "published_at": {
+            "unix": 1544397420,
+            "text": "2018-12-09 23:17:00 +0000",
+            "iso_8601": "2018-12-09T23:17:00Z"
+        },
+        "updated_at": {
+            "unix": 1544397465,
+            "text": "2018-12-09 23:17:45 +0000",
+            "iso_8601": "2018-12-09T23:17:45Z"
+        },
+        "subject": "PBoC's Pan urges tighter regulation regarding fintech",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pboc-s-pan-urges-tighter-regulation-regarding-fintech-09-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-10 07:17:00",
+        "gmt_time": "2018-12-09 23:17:00"
+    },
+    {
+        "id": 687373,
+        "updated_sequence": 1104665,
+        "published_at": {
+            "unix": 1544397360,
+            "text": "2018-12-09 23:16:00 +0000",
+            "iso_8601": "2018-12-09T23:16:00Z"
+        },
+        "updated_at": {
+            "unix": 1544397428,
+            "text": "2018-12-09 23:17:08 +0000",
+            "iso_8601": "2018-12-09T23:17:08Z"
+        },
+        "subject": "TPG Telecom (TPM AT) JV acquires 5G spectrum nationally",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "tpg-telecom-tpm-at-jv-acquires-5g-spectrum-nationally-09-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-10 07:16:00",
+        "gmt_time": "2018-12-09 23:16:00"
+    },
+    {
+        "id": 687372,
+        "updated_sequence": 1104662,
+        "published_at": {
+            "unix": 1544397240,
+            "text": "2018-12-09 23:14:00 +0000",
+            "iso_8601": "2018-12-09T23:14:00Z"
+        },
+        "updated_at": {
+            "unix": 1544397295,
+            "text": "2018-12-09 23:14:55 +0000",
+            "iso_8601": "2018-12-09T23:14:55Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASES CALENDAR NOW AVAILABLE IN THE RESEARCH SECTION: Highlights include Japanese Final Q3 GDP and Australian Home Loans",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asian-daily-economic-releases-calendar-now-available-in-the-research-section-highlights-include-japanese-final-q3-gdp-and-australian-home-loans-09-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-10 07:14:00",
+        "gmt_time": "2018-12-09 23:14:00"
+    },
+    {
+        "id": 687371,
+        "updated_sequence": 1104737,
+        "published_at": {
+            "unix": 1544397060,
+            "text": "2018-12-09 23:11:00 +0000",
+            "iso_8601": "2018-12-09T23:11:00Z"
+        },
+        "updated_at": {
+            "unix": 1544400509,
+            "text": "2018-12-10 00:08:29 +0000",
+            "iso_8601": "2018-12-10T00:08:29Z"
+        },
+        "subject": "IMF Chief Economist Obstfeld says US likely to feel impact of sharply slowing economy, although adds doesn't see a recession for US",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "imf-chief-economist-obstfeld-says-us-likely-to-feel-impact-of-sharply-slowing-economy-although-adds-doesn-t-see-a-recession-for-us-09-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-10 07:11:00",
+        "gmt_time": "2018-12-09 23:11:00"
+    },
+    {
+        "id": 687370,
+        "updated_sequence": 1104656,
+        "published_at": {
+            "unix": 1544396940,
+            "text": "2018-12-09 23:09:00 +0000",
+            "iso_8601": "2018-12-09T23:09:00Z"
+        },
+        "updated_at": {
+            "unix": 1544396978,
+            "text": "2018-12-09 23:09:38 +0000",
+            "iso_8601": "2018-12-09T23:09:38Z"
+        },
+        "subject": "Bank of Queensland (BOQ AT) says deal to sell St Andrews insurance to Freedom Insurance Group was terminated",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "bank-of-queensland-boq-at-says-deal-to-sell-st-andrews-insurance-to-freedom-insurance-group-was-terminated-09-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-10 07:09:00",
+        "gmt_time": "2018-12-09 23:09:00"
+    },
+    {
+        "id": 687369,
+        "updated_sequence": 1104653,
+        "published_at": {
+            "unix": 1544396700,
+            "text": "2018-12-09 23:05:00 +0000",
+            "iso_8601": "2018-12-09T23:05:00Z"
+        },
+        "updated_at": {
+            "unix": 1544396799,
+            "text": "2018-12-09 23:06:39 +0000",
+            "iso_8601": "2018-12-09T23:06:39Z"
+        },
+        "subject": "New Zealand Institute of Economic Research sees GDP to average 2.8% over next 5 years",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "new-zealand-institute-of-economic-research-sees-gdp-to-average-2-8-over-next-5-years-09-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-10 07:05:00",
+        "gmt_time": "2018-12-09 23:05:00"
+    },
+    {
+        "id": 687368,
+        "updated_sequence": 1104650,
+        "published_at": {
+            "unix": 1544396520,
+            "text": "2018-12-09 23:02:00 +0000",
+            "iso_8601": "2018-12-09T23:02:00Z"
+        },
+        "updated_at": {
+            "unix": 1544396744,
+            "text": "2018-12-09 23:05:44 +0000",
+            "iso_8601": "2018-12-09T23:05:44Z"
+        },
+        "subject": "US equity futures begin negative with Emini S&P down 18 points and DJIA futures lower by around 180 points in a continuation of last week's selling and after US noted 90-days was a hard deadline for China, while Chinese Exports and Imports disappointed ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "us-equity-futures-begin-negative-with-emini-s-p-down-18-points-and-djia-futures-lower-by-around-180-points-in-a-continuation-of-last-week-s-selling-and-after-us-noted-90-days-was-a-hard-deadline-for-china-while-chinese-exports-and-imports-d-09-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-10 07:02:00",
+        "gmt_time": "2018-12-09 23:02:00"
+    },
+    {
+        "id": 687367,
+        "updated_sequence": 1104647,
+        "published_at": {
+            "unix": 1544395980,
+            "text": "2018-12-09 22:53:00 +0000",
+            "iso_8601": "2018-12-09T22:53:00Z"
+        },
+        "updated_at": {
+            "unix": 1544396042,
+            "text": "2018-12-09 22:54:02 +0000",
+            "iso_8601": "2018-12-09T22:54:02Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIAN STOCK NEWS: Macquarie Group (MQG AT) to buy Waypoint Leasing for USD 650mln",
+        "content": "<p>AMP Capital (AMP AT)<br />- Co. reportedly may be looking for a buyer of its banking business. (Newswires)</p>\r\n\r\n<p>IOOF Holdings (IFL AT)<br />- Co. MD and Chairman are to step down with immediate effect. (Newswires)</p>\r\n\r\n<p>Lend Lease (LLC AT)<br />- Co. is said to be interested in acquiring Strongbuild which is currently under administration. (Newswires)</p>\r\n\r\n<p>Macquarie Group (MQG AT)<br />- Co. to buy Waypoint Leasing for USD 650mln. (Newswires)</p>\r\n\r\n<p>Macquarie Media (MRN AT)<br />- Nine Entertainment (NEC AT) says will not pay over AUD 2.00/Shr for the Co. (Newswires)</p>\r\n\r\n<p>Virgin Australia (VAH AT)<br />- Co. is expected to pick Mark Dunkerley for CEO role. (AFR)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-australian-stock-news-macquarie-group-mqg-at-to-buy-waypoint-leasing-for-usd-650mln-09-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-10 06:53:00",
+        "gmt_time": "2018-12-09 22:53:00"
+    },
+    {
+        "id": 687366,
+        "updated_sequence": 1104644,
+        "published_at": {
+            "unix": 1544395920,
+            "text": "2018-12-09 22:52:00 +0000",
+            "iso_8601": "2018-12-09T22:52:00Z"
+        },
+        "updated_at": {
+            "unix": 1544396005,
+            "text": "2018-12-09 22:53:25 +0000",
+            "iso_8601": "2018-12-09T22:53:25Z"
+        },
+        "subject": "China H1 GDP may decline below 6% according to China Securities Journal citing an economist",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "china-h1-gdp-may-decline-below-6-according-to-china-securities-journal-citing-an-economist-09-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-10 06:52:00",
+        "gmt_time": "2018-12-09 22:52:00"
+    },
+    {
+        "id": 687364,
+        "updated_sequence": 1104638,
+        "published_at": {
+            "unix": 1544395380,
+            "text": "2018-12-09 22:43:00 +0000",
+            "iso_8601": "2018-12-09T22:43:00Z"
+        },
+        "updated_at": {
+            "unix": 1544395604,
+            "text": "2018-12-09 22:46:44 +0000",
+            "iso_8601": "2018-12-09T22:46:44Z"
+        },
+        "subject": "Australia ACCC releases preliminary report which outlines concerns regarding market power and data collection by the large platforms such as Google (GOOG) and Facebook (FB), in which it has 11 recommendations and 8 areas of further areas to examine",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "australia-accc-releases-preliminary-report-which-outlines-concerns-regarding-market-power-and-data-collection-by-the-large-platforms-such-as-google-goog-and-facebook-fb-in-which-it-has-11-recommendations-and-8-areas-of-further-areas-to-09-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-10 06:43:00",
+        "gmt_time": "2018-12-09 22:43:00"
+    },
+    {
+        "id": 687363,
+        "updated_sequence": 1104633,
+        "published_at": {
+            "unix": 1544394720,
+            "text": "2018-12-09 22:32:00 +0000",
+            "iso_8601": "2018-12-09T22:32:00Z"
+        },
+        "updated_at": {
+            "unix": 1544394802,
+            "text": "2018-12-09 22:33:22 +0000",
+            "iso_8601": "2018-12-09T22:33:22Z"
+        },
+        "subject": "UK PM May reportedly faces prospect of 48 letters this week, according to reports in The Times",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "uk-pm-may-reportedly-faces-prospect-of-48-letters-this-week-according-to-reports-in-the-times-09-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-10 06:32:00",
+        "gmt_time": "2018-12-09 22:32:00"
+    },
+    {
+        "id": 687362,
+        "updated_sequence": 1104681,
+        "published_at": {
+            "unix": 1544394180,
+            "text": "2018-12-09 22:23:00 +0000",
+            "iso_8601": "2018-12-09T22:23:00Z"
+        },
+        "updated_at": {
+            "unix": 1544395189,
+            "text": "2018-12-09 22:39:49 +0000",
+            "iso_8601": "2018-12-09T22:39:49Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p>TRADE</p>\r\n\r\n<p>US Trade Representative Lighthizer says 90 days is a &#39;hard deadline&#39; for China trade deal which is March 1st and that new tariffs will be imposed otherwise, while White House Trade Adviser Navarro had also stated that if trade talks with China are not resolved in 90 days, US will move forward with raising tariffs. (Newswires)</p>\r\n\r\n<p>White House Advisor Kudlow said on Friday US President Trump might be willing to extend 90-day period of negotiations and that he is optimistic on trade talks with China, while he added that he does not know if the Huawei&rsquo;s CFO arrest will spill into to trade talks. (CNBC)</p>\r\n\r\n<p>Huawei CFO is to face prosecution in the US for fraud charges, according to Canadian court hearing. In related news, China&rsquo;s Vice Foreign Minister has summoned the US Ambassador to China regarding the arrest. (Newswires)</p>\r\n\r\n<p>ASIA-PAC</p>\r\n\r\n<p>Chinese CPI (Nov) Y/Y 2.2% vs. Exp. 2.4% (Prev. 2.5%). Newswires)<br />Chinese PPI (Nov) Y/Y 2.7% vs. Exp. 2.7% (Prev. 3.3%)</p>\r\n\r\n<p>Chinese Trade Balance (USD)(Nov) 44.75B vs. Exp. 34.0B (Prev. 34.02B). (Newswires)<br />Chinese Exports (Nov) Y/Y 5.4% vs. Exp. 10.0% (Prev. 15.6%, Rev. 15.5%)<br />Chinese Imports (Nov) Y/Y 3.0% vs. Exp. 14.5% (Prev. 21.4%, Rev. 20.8%)</p>\r\n\r\n<p>Chinese FX Reserves (USD)(Nov) 3.062tln vs. Exp. 3.037tln (Prev. 3.053tln). (Newswires)</p>\r\n\r\n<p>New Zealand Manufacturing Activity (Q3) Q/Q 2.0% (Prev. 1.8%). (Newswires)<br />New Zealand Manufacturing Activity Volume (Q3) Q/Q -1.6% (Prev. -1.2%)<br /><br />RBA Assistant Governor Kent said borrowing costs are likely to increase and reiterated that next move in rates is likely to be up, while he added that progress is being made on unemployment and inflation although is gradual. (Newswires)</p>\r\n\r\n<p>UK</p>\r\n\r\n<p>UK PM May warned if Parliament rejects her Brexit deal, Britain could be left in the EU and the opposition Labour party could be brought to power. (Newswires)</p>\r\n\r\n<p>UK Brexit Secretary Barclay said PM May will not postpone Brexit vote on December 11th even though the government almost certainly faces defeat. Elsewhere, there were reports that former cabinet ministers Johnson, Raab and McVey have all signalled a willingness to bid for the leadership amid speculation PM May will face a crushing defeat at Tuesday&rsquo;s vote. (Newswires)</p>\r\n\r\n<p>UK Labour Party (Opposition) Leader Corbyn said we have to respect the result of the referendum, while he added that PM May&#39;s deal is likely to be rejected in parliament and that no deal Brexit must be avoided at all costs. Furthermore, there were also reports on Friday that UK Labour party was said to be lining up rebel Tories for no confidence vote. (The Times)</p>\r\n\r\n<p><br />EU</p>\r\n\r\n<p>Italy government won lower house confidence vote on 2019 budget on Friday. (Newswires)</p>\r\n\r\n<p>EU GDP Revised (Q3) Q/Q 0.2% vs. Exp. 0.2% (Prev. 0.2%). (Newswires)<br />EU GDP Revised (Q3) Y/Y1.6% vs. Exp. 1.7% (Prev. 1.7%)</p>\r\n\r\n<p>Moody&rsquo;s affirmed Switzerland at AAA; Outlook Stable, while S&amp;P affirmed Estonia at AA-; Outlook Stable and affirmed Iceland at A; Outlook Stable. (Newswires)</p>\r\n\r\n<p><br />FX</p>\r\n\r\n<p>Canadian Employment Change Nov 94.1k vs. Exp. 11.0k (Prev. 11.2k). (Newswires)<br />Canadian Unemployment Rate Nov 5.6% vs. Exp. 5.8% (Prev. 5.8%)</p>\r\n\r\n<p>COMMODITIES</p>\r\n\r\n<p>Baker Hughes Rig Count (7/Dec): Oil -10 at 877, NatGas +9 at 198; total -1 at 1,075. (Newswires)</p>\r\n\r\n<p>OPEC and its partners announced they will cut a total 1.2mln BPD of supply (split: 800k BPD OPEC or around 2%, 400k BPD non-OPEC or around 2.5%). The market had expected a cut between 1mln and 1.4mln, and as such, this is in the middle of consensus views, but short of the 1.3mln BPD cut that was recommended by OPEC&#39;s economic committee last week. The new oil cut deal will last for a period of six months, starting in January, and will be reviewed in April 2019. Later, the Russian energy minister said that the deal could be amended based on market conditions. Delegates were reticent to provide a detailed breakdown of the magnitude of cuts per country, though Russia has indicated it will cut 228k BPD (Saudis were said to be pushing for 300k on Thursday). Although it wasn&#39;t in the official statement, three countries have been granted exemptions (Venezuela, Iran, Libya). (Newswires)</p>\r\n\r\n<p>OPEC source said draft communique stated the next OPEC meeting will be in April. (Newswires)</p>\r\n\r\n<p>Saudi Energy Minister Al Falih said December output will be in the neighbourhood of 10.2mln BPD in January vs. 10.65 in October. It was separately reported that Saudi crude exports in January are expected to be at 7.3mln bpd which is 1mln bpd lower than November levels. (Newswires)</p>\r\n\r\n<p>Russia Energy Minister Novak stated that Russia is to cut production by 228,000 BPD with cuts to take place from October level of 11.4mln BPD, which will be gradual and take a few months. Novak added that he hopes crude prices remain around current levels and that OPEC+ output can go up and down depending on market conditions, while he added that optimal oil price to balance the market in the future is USD 55-66/bbl. (Newswires)</p>\r\n\r\n<p>Nigerian Oil Minister Kachikwu sees oil prices at USD 65 by next week, while he added most countries cutting 2.5% of output and 2% for non-OPEC. (Newswires)</p>\r\n\r\n<p>Congress is increasingly likely to vote on NOPEC bill to allow DoJ to sue OPEC on antitrust violations, according to sources. (Platts)</p>\r\n\r\n<p><br />GEOPOLITICAL</p>\r\n\r\n<p>US accused Russia of helping fabricate Syria chemical attack to &quot;undermine&quot; truce. (AFP)</p>\r\n\r\n<p>US</p>\r\n\r\n<p>Fed&#39;s Brainard (Voter, Dovish) said gradual rate hikes &quot;appropriate in the near term&quot; and expects solid US growth next year although added that some tail winds are fading. Brainard also commented that a gradual rate hike path will increasingly depend on evolving US outlook and highlights a data dependent approach. (Newswires)</p>\r\n\r\n<p>White House Chief of Staff Kelly confirmed he has resigned, while his replacement Is to be announced in the approaching days. (Newswires)</p>\r\n\r\n<p>US Non-Farm Payrolls Nov 155k vs. Exp. 200k (Prev. 250.0k, Rev. 237k); 2-Month Net Revisions -12k. (Newswires)<br />US Unemployment Rate Nov 3.7% vs. Exp. 3.7% (Prev. 3.7%)<br />US Average Earnings YY Nov 3.1% vs. Exp. 3.1% (Prev. 3.1%)</p>\r\n\r\n<p>US Wholesale Sales (Oct) M/M -0.2% vs. Exp. 0.3% (Prev. 0.2%, Rev. 0.1%). (Newswires)<br />US Wholesale Inventories (Oct) M/M 0.8% vs. Exp. 0.7% (Prev. 0.7%)<br />&nbsp;</p>\r\n\r\n<p>MARKET RECAP</p>\r\n\r\n<p>FAANG stocks (FB, AAPL, AMZN, NFLX, GOOGL) opened lower as risk appetite diminished on growing scepticism of a China-US trade truce; trade sensitive semiconductors (MU, INTC, AMD, NVIDIA) and industrials (DE, BA, CAT) naturally underperformed too. An OPEC agreement lead to a rise in crude prices helping the energy complex rise (XOM, CVX, EOG, COP, OXY, SLB). Altria Group (MO) opened higher after it took a USD 1.8bln stake in Canadian marijuana stock Cronos Group (CRON).Tesla (TSLA) outperformed following an upgrade at Jefferies. Broadcom (AVGO) reported strong earnings and guidance pushing it higher on the open. Airline stocks (JBLU, SAVE, AAL, LUV, UAL) underperformed as oil prices rose as well as Wolfe Research downgrading the group. SPX -2.33% at 2633, NDX -3.30% at 6613, DJI -2.24% at 24388.</p>\r\n\r\n<p>Treasuries finished Friday&rsquo;s session in positive territory moving in tandem with equities and after non-farm payrolls indicated fewer jobs were created in November contributing to the view that growth is moderating. The yield curve saw some modest bull-flattening with short date yields lower by c.4bps and longer date yields lower by c.2bps. Spreads were mostly steeper and 2s3s were mostly unchanged after hitting their lowest level in more than 10 years. US T-note futures (Z8) settled 1 tick higher at 120-24+.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-asia-pac-opening-news-09-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-10 06:23:00",
+        "gmt_time": "2018-12-09 22:23:00"
+    },
+    {
+        "id": 687361,
+        "updated_sequence": 1104626,
+        "published_at": {
+            "unix": 1544393340,
+            "text": "2018-12-09 22:09:00 +0000",
+            "iso_8601": "2018-12-09T22:09:00Z"
+        },
+        "updated_at": {
+            "unix": 1544393425,
+            "text": "2018-12-09 22:10:25 +0000",
+            "iso_8601": "2018-12-09T22:10:25Z"
+        },
+        "subject": "RBA's Kent says next rate move is likely to be up but doesn't rule out a cut if needed",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "rba-s-kent-says-next-rate-move-is-likely-to-be-up-but-doesn-t-rule-out-a-cut-if-needed-09-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 12,
+            "name": "RBA"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-10 06:09:00",
+        "gmt_time": "2018-12-09 22:09:00"
+    },
+    {
+        "id": 687047,
+        "updated_sequence": 1104620,
+        "published_at": {
+            "unix": 1544392800,
+            "text": "2018-12-09 22:00:00 +0000",
+            "iso_8601": "2018-12-09T22:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1544392800,
+            "text": "2018-12-09 22:00:00 +0000",
+            "iso_8601": "2018-12-09T22:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-06-12-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-12-10 06:00:00",
+        "gmt_time": "2018-12-09 22:00:00"
+    }
+]

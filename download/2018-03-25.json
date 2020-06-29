@@ -1,0 +1,652 @@
+[
+    {
+        "id": 614455,
+        "updated_sequence": 797592,
+        "published_at": {
+            "unix": 1522021920,
+            "text": "2018-03-26 00:52:00 +0100",
+            "iso_8601": "2018-03-25T23:52:00Z"
+        },
+        "updated_at": {
+            "unix": 1522022206,
+            "text": "2018-03-26 00:56:46 +0100",
+            "iso_8601": "2018-03-25T23:56:46Z"
+        },
+        "subject": "China may look at adding tariffs on airplanes and computer chips from US, according to reports in China Daily citing former Vice Commerce Minister Wei",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "china-may-look-at-adding-tariffs-on-airplanes-and-computer-chips-from-us-according-to-reports-in-china-daily-citing-former-vice-commerce-minister-wei-25-03-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-03-26 07:52:00",
+        "gmt_time": "2018-03-25 23:52:00"
+    },
+    {
+        "id": 614454,
+        "updated_sequence": 797586,
+        "published_at": {
+            "unix": 1522021140,
+            "text": "2018-03-26 00:39:00 +0100",
+            "iso_8601": "2018-03-25T23:39:00Z"
+        },
+        "updated_at": {
+            "unix": 1522021324,
+            "text": "2018-03-26 00:42:04 +0100",
+            "iso_8601": "2018-03-25T23:42:04Z"
+        },
+        "subject": "PRE-MARKET JAPANESE AND SOUTH KOREAN STOCK NEWS: US Treasury Secretary Mnuchin said that the US and South Korea reached a deal on FTA issues and steel tariffs which is expected to be signed soon",
+        "content": "<p>JAPAN</p>\r\n\r\n<p>Panasonic (6752 JT) and Toyota (7203 JT)<br />- JV is to build a battery plant in Shizuoka. (Nikkei)</p>\r\n\r\n<p>Ricoh (7752 JT)<br />- Co. cuts its FY 17/18 net forecast to loss of JPY 170bln vs. Prev. breakeven. (Newswires)</p>\r\n\r\n<p>Shimamura (8227 JT)<br />- Co. March same store sales fell 5.6% Y/Y. (Newswires)<br /><br />Tosoh (4042 JT)<br />- Co. FY oper. profit may have increased 15% Y/Y to JPY 128bln. (Nikkei)</p>\r\n\r\n<p>Yahoo Japan (4689 JT)<br />- Co. is to buy a stake in Japanese crypto exchange. (Newswires)</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>SOUTH KOREA</p>\r\n\r\n<p>Celltrion (0068270 KS)<br />- Co. is said to consider building a new plant in Asia. (Newswires)</p>\r\n\r\n<p>Hankook Tire Worldwide (000240 KS)<br />- Co. Hungary unit is to invest KRW 378.2bln for expansion. (Newswires)</p>\r\n\r\n<p>Samsung Electronics (005930 KS)<br />- Co. launches Samsung Pay with NAB. (Newswires)</p>\r\n\r\n<p>STX Offshore &amp; Shipbuilding (067250 KS)<br />- Co. union workers are to hold a strike beginning this week in protest against planned restructuring. (Newswires)</p>\r\n\r\n<p>Other News<br />- Treasury Mnuchin said that the US and South Korea reached a deal on FTA issues and steel tariffs which is expected to be signed soon. (Newswires)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-japanese-and-south-korean-stock-news-us-treasury-secretary-mnuchin-said-that-the-us-and-south-korea-reached-a-deal-on-fta-issues-and-steel-tariffs-which-is-expected-to-be-signed-soon-25-03-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-03-26 07:39:00",
+        "gmt_time": "2018-03-25 23:39:00"
+    },
+    {
+        "id": 614453,
+        "updated_sequence": 797580,
+        "published_at": {
+            "unix": 1522020300,
+            "text": "2018-03-26 00:25:00 +0100",
+            "iso_8601": "2018-03-25T23:25:00Z"
+        },
+        "updated_at": {
+            "unix": 1522020470,
+            "text": "2018-03-26 00:27:50 +0100",
+            "iso_8601": "2018-03-25T23:27:50Z"
+        },
+        "subject": "Apple (AAPL) is said to be considering offering new colours to bolster sales, while next generation iPad is expected in Q3",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "apple-aapl-is-said-to-be-considering-offering-new-colours-to-bolster-sales-while-next-generation-ipad-is-expected-in-q3-25-03-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-03-26 07:25:00",
+        "gmt_time": "2018-03-25 23:25:00"
+    },
+    {
+        "id": 614452,
+        "updated_sequence": 797577,
+        "published_at": {
+            "unix": 1522019460,
+            "text": "2018-03-26 00:11:00 +0100",
+            "iso_8601": "2018-03-25T23:11:00Z"
+        },
+        "updated_at": {
+            "unix": 1522019544,
+            "text": "2018-03-26 00:12:24 +0100",
+            "iso_8601": "2018-03-25T23:12:24Z"
+        },
+        "subject": "US & China are said to be discussing access to Chinese markets, according to WSJ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "WSJ",
+        "slug": "us-china-are-said-to-be-discussing-access-to-chinese-markets-according-to-wsj-25-03-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-03-26 07:11:00",
+        "gmt_time": "2018-03-25 23:11:00"
+    },
+    {
+        "id": 614451,
+        "updated_sequence": 797574,
+        "published_at": {
+            "unix": 1522019280,
+            "text": "2018-03-26 00:08:00 +0100",
+            "iso_8601": "2018-03-25T23:08:00Z"
+        },
+        "updated_at": {
+            "unix": 1522019491,
+            "text": "2018-03-26 00:11:31 +0100",
+            "iso_8601": "2018-03-25T23:11:31Z"
+        },
+        "subject": "US Trump administration reportedly sent letter from US Treasury Secretary Mnuchin and Trade Representative Lighthizer to China seeking reduction of China tariffs on US autos, more access to China's financial sector & more purchases of US semiconductors",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-trump-administration-reportedly-sent-letter-from-us-treasury-secretary-mnuchin-and-trade-representative-lighthizer-to-china-seeking-reduction-of-china-tariffs-on-us-autos-more-access-to-china-s-financial-sector-more-purchases-of-us-sem-25-03-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-03-26 07:08:00",
+        "gmt_time": "2018-03-25 23:08:00"
+    },
+    {
+        "id": 614450,
+        "updated_sequence": 797571,
+        "published_at": {
+            "unix": 1522019040,
+            "text": "2018-03-26 00:04:00 +0100",
+            "iso_8601": "2018-03-25T23:04:00Z"
+        },
+        "updated_at": {
+            "unix": 1522019249,
+            "text": "2018-03-26 00:07:29 +0100",
+            "iso_8601": "2018-03-25T23:07:29Z"
+        },
+        "subject": "China and US reported to have quietly begun negotiations to improve US access into Chinese markets, according to WSJ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "china-and-us-reported-to-have-quietly-begun-negotiations-to-improve-us-access-into-chinese-markets-according-to-wsj-25-03-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-03-26 07:04:00",
+        "gmt_time": "2018-03-25 23:04:00"
+    },
+    {
+        "id": 614449,
+        "updated_sequence": 797565,
+        "published_at": {
+            "unix": 1522018920,
+            "text": "2018-03-26 00:02:00 +0100",
+            "iso_8601": "2018-03-25T23:02:00Z"
+        },
+        "updated_at": {
+            "unix": 1522018994,
+            "text": "2018-03-26 00:03:14 +0100",
+            "iso_8601": "2018-03-25T23:03:14Z"
+        },
+        "subject": "ACCC commences proceedings against Telstra (TLS AT) on allegations it made false or misleading representations",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "accc-commences-proceedings-against-telstra-tls-at-on-allegations-it-made-false-or-misleading-representations-25-03-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-03-26 07:02:00",
+        "gmt_time": "2018-03-25 23:02:00"
+    },
+    {
+        "id": 614448,
+        "updated_sequence": 797562,
+        "published_at": {
+            "unix": 1522017780,
+            "text": "2018-03-25 23:43:00 +0100",
+            "iso_8601": "2018-03-25T22:43:00Z"
+        },
+        "updated_at": {
+            "unix": 1522017830,
+            "text": "2018-03-25 23:43:50 +0100",
+            "iso_8601": "2018-03-25T22:43:50Z"
+        },
+        "subject": "Reports state that Saudi Arabia intercepted 7 missiles fired from Yemen in which 3 were intercepted over Riyadh",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "reports-state-that-saudi-arabia-intercepted-7-missiles-fired-from-yemen-in-which-3-were-intercepted-over-riyadh-25-03-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-03-26 06:43:00",
+        "gmt_time": "2018-03-25 22:43:00"
+    },
+    {
+        "id": 614447,
+        "updated_sequence": 797559,
+        "published_at": {
+            "unix": 1522017480,
+            "text": "2018-03-25 23:38:00 +0100",
+            "iso_8601": "2018-03-25T22:38:00Z"
+        },
+        "updated_at": {
+            "unix": 1522017779,
+            "text": "2018-03-25 23:42:59 +0100",
+            "iso_8601": "2018-03-25T22:42:59Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIAN STOCK NEWS: WTI crude rose 1.6% on Friday",
+        "content": "<p>AMP Capital (AMP AT)<br />- Co. CEO is to retire end of this year. (Newswires)</p>\r\n\r\n<p>AWE (AWE AT)<br />- Mitsui &amp; Co. (8031 JT) says it will not extend its AUD 0.95/Shr offer for the Co. unless its interest surpasses 50.1% before the scheduled close on&nbsp;April 6<sup>th</sup>. (Newswires)</p>\r\n\r\n<p>Caltex (CTX AT)<br />- Co. February CRM sales from production at 475ML. (Newswires)</p>\r\n\r\n<p>Commonwealth Bank of Australia (CBA AT)<br />- Co. is in preliminary discussions for divestment of its general insurance business. (AFR)</p>\r\n\r\n<p>National Australia Bank (NAB AT)<br />- Samsung Electronics (005930 KS) launches Samsung Pay with NAB. (Newswires)</p>\r\n\r\n<p>QBE Insurance (QBE AT)<br />- Reports note speculation by analyst that Co. could be target of North American and European insurance companies. (Newswires)</p>\r\n\r\n<p>Salmat (SLM AT)<br />- Co. says trading was halted ahead of statement on potential sale of unit. (Newswires)</p>\r\n\r\n<p>Woolworths (WOW AT)<br />- Co. may consider IPO for its petrol stations business if sale to BP doesn&rsquo;t go through. (Newswires)</p>\r\n\r\n<p>Basic Materials / Energy<br />- Spot gold rose 1.7%.<br />- WTI crude rose 1.6% to above USD 65/bbl. &nbsp;</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-australian-stock-news-wti-crude-rose-1-6-on-friday-25-03-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-03-26 06:38:00",
+        "gmt_time": "2018-03-25 22:38:00"
+    },
+    {
+        "id": 614446,
+        "updated_sequence": 797553,
+        "published_at": {
+            "unix": 1522017420,
+            "text": "2018-03-25 23:37:00 +0100",
+            "iso_8601": "2018-03-25T22:37:00Z"
+        },
+        "updated_at": {
+            "unix": 1522017425,
+            "text": "2018-03-25 23:37:05 +0100",
+            "iso_8601": "2018-03-25T22:37:05Z"
+        },
+        "subject": "China researcher says RRR should be reduced, according to press reports",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "china-researcher-says-rrr-should-be-reduced-according-to-press-reports-25-03-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-03-26 06:37:00",
+        "gmt_time": "2018-03-25 22:37:00"
+    },
+    {
+        "id": 614288,
+        "updated_sequence": 797539,
+        "published_at": {
+            "unix": 1522015200,
+            "text": "2018-03-25 23:00:00 +0100",
+            "iso_8601": "2018-03-25T22:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1522015200,
+            "text": "2018-03-25 23:00:00 +0100",
+            "iso_8601": "2018-03-25T22:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-22-03-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-03-26 06:00:00",
+        "gmt_time": "2018-03-25 22:00:00"
+    },
+    {
+        "id": 614445,
+        "updated_sequence": 797548,
+        "published_at": {
+            "unix": 1522015200,
+            "text": "2018-03-25 23:00:00 +0100",
+            "iso_8601": "2018-03-25T22:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1522015483,
+            "text": "2018-03-25 23:04:43 +0100",
+            "iso_8601": "2018-03-25T22:04:43Z"
+        },
+        "subject": "Hungary Consumer Confidence (Mar) -5.8 (Prev. -7.6)",
+        "content": "<p>Hungary Business Confidence (Mar) 13.6&nbsp;(Prev. 15.5)<br />Hungary Economic Sentiment (Mar) 8.6 (Prev. 9.5)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "hungary-consumer-confidence-mar-5-8-prev-7-6-25-03-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-03-26 06:00:00",
+        "gmt_time": "2018-03-25 22:00:00"
+    },
+    {
+        "id": 614444,
+        "updated_sequence": 797545,
+        "published_at": {
+            "unix": 1522015200,
+            "text": "2018-03-25 23:00:00 +0100",
+            "iso_8601": "2018-03-25T22:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1522015247,
+            "text": "2018-03-25 23:00:47 +0100",
+            "iso_8601": "2018-03-25T22:00:47Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASES CALENDAR NOW AVAILABLE IN THE RESEARCH SECTION: Highlights Include Singapore Industrial Production and PBoC Deputy Governor Pan Speech",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asian-daily-economic-releases-calendar-now-available-in-the-research-section-highlights-include-singapore-industrial-production-and-pboc-deputy-governor-pan-speech-25-03-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-03-26 06:00:00",
+        "gmt_time": "2018-03-25 22:00:00"
+    },
+    {
+        "id": 614442,
+        "updated_sequence": 797534,
+        "published_at": {
+            "unix": 1522014300,
+            "text": "2018-03-25 22:45:00 +0100",
+            "iso_8601": "2018-03-25T21:45:00Z"
+        },
+        "updated_at": {
+            "unix": 1522014391,
+            "text": "2018-03-25 22:46:31 +0100",
+            "iso_8601": "2018-03-25T21:46:31Z"
+        },
+        "subject": "New Zealand Imports (Feb)\t4.24B vs. Exp. 4.63B (Prev. 4.87B)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "new-zealand-imports-feb-4-24b-vs-exp-4-63b-prev-4-87b-25-03-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-03-26 05:45:00",
+        "gmt_time": "2018-03-25 21:45:00"
+    },
+    {
+        "id": 614439,
+        "updated_sequence": 797672,
+        "published_at": {
+            "unix": 1522014300,
+            "text": "2018-03-25 22:45:00 +0100",
+            "iso_8601": "2018-03-25T21:45:00Z"
+        },
+        "updated_at": {
+            "unix": 1522035827,
+            "text": "2018-03-26 04:43:47 +0100",
+            "iso_8601": "2018-03-26T03:43:47Z"
+        },
+        "subject": "New Zealand Trade Balance (Feb) M/M 217M vs. Exp. -100M (Prev. -566M)",
+        "content": "",
+        "reaction_details": "<p>- NZD/USD immediately moved higher by 7 pips to 0.7242 from 0.7235, trades 0.7238 (+4 pips) last.</p>\r\n",
+        "reaction_updated_at": {
+            "unix": 1522014420,
+            "text": "2018-03-25 22:47:00 +0100",
+            "iso_8601": "2018-03-25T21:47:00Z"
+        },
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "new-zealand-trade-balance-feb-m-m-217m-vs-exp-100m-prev-566m-25-03-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-03-26 05:45:00",
+        "gmt_time": "2018-03-25 21:45:00"
+    },
+    {
+        "id": 614440,
+        "updated_sequence": 797528,
+        "published_at": {
+            "unix": 1522014300,
+            "text": "2018-03-25 22:45:00 +0100",
+            "iso_8601": "2018-03-25T21:45:00Z"
+        },
+        "updated_at": {
+            "unix": 1522014374,
+            "text": "2018-03-25 22:46:14 +0100",
+            "iso_8601": "2018-03-25T21:46:14Z"
+        },
+        "subject": "New Zealand Trade Balance (Feb) Y/Y -3020M vs. Exp. -3225M (Prev. -3220M)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "new-zealand-trade-balance-feb-y-y-3020m-vs-exp-3225m-prev-3220m-25-03-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-03-26 05:45:00",
+        "gmt_time": "2018-03-25 21:45:00"
+    },
+    {
+        "id": 614441,
+        "updated_sequence": 797531,
+        "published_at": {
+            "unix": 1522014300,
+            "text": "2018-03-25 22:45:00 +0100",
+            "iso_8601": "2018-03-25T21:45:00Z"
+        },
+        "updated_at": {
+            "unix": 1522014383,
+            "text": "2018-03-25 22:46:23 +0100",
+            "iso_8601": "2018-03-25T21:46:23Z"
+        },
+        "subject": "New Zealand Exports (Feb)\t4.46B vs. Exp. 4.56B (Prev. 4.31B)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "new-zealand-exports-feb-4-46b-vs-exp-4-56b-prev-4-31b-25-03-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-03-26 05:45:00",
+        "gmt_time": "2018-03-25 21:45:00"
+    },
+    {
+        "id": 614438,
+        "updated_sequence": 797550,
+        "published_at": {
+            "unix": 1522013100,
+            "text": "2018-03-25 22:25:00 +0100",
+            "iso_8601": "2018-03-25T21:25:00Z"
+        },
+        "updated_at": {
+            "unix": 1522015741,
+            "text": "2018-03-25 23:09:01 +0100",
+            "iso_8601": "2018-03-25T22:09:01Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p>ASIA-PAC</p>\r\n\r\n<p>Incoming RBNZ Governor Orr and New Zealand Finance Minister Robertson said to issue new RBNZ policy targets and create monetary policy committee to start operations in 2019. Furthermore, they affirmed to continue with 1%-3% medium term inflation target, while it is to retain focus on 2% mid-point of inflation target and full employment. (Newswires)<br /><br />China Vice Premier Liu told US Treasury Secretary Mnuchin that the Section 301 investigation violates international trade regulations, while there were also comments from China Social Security Fund chief Lou that Mofcom&rsquo;s response to US tariffs was a little weak and that they should target imports of US soybeans. (Newswires)</p>\r\n\r\n<p>US President Trump stated that a new trade deal with South Korea is close to being finished, while US Treasury Mnuchin then confirmed over the weekend that the US and South Korea reached a deal on FTA issues and steel tariffs which is expected to be signed soon. (Newswires)</p>\r\n\r\n<p>Magnitude 6.6 earthquake struck off Indonesia&rsquo;s Tanimbar Islands. (Newswires)<br />&nbsp;</p>\r\n\r\n<p>EU/UK</p>\r\n\r\n<p>S&amp;P raised Spain rating by one notch from BBB+ to A-; Outlook Positive, while S&amp;P affirmed Belgium at AA; Outlook Stable and affirmed Norway at AAA; Outlook stable. (Newswires)<br /><br />Fitch affirmed Norway at AAA; Outlook Stable and affirmed Switzerland at AAA; Outlook Stable. (Newswires)<br />&nbsp;</p>\r\n\r\n<p>FX<a name=\"_Hlk503148913\"></a><a name=\"_Hlk503148890\"></a><a name=\"_Hlk503148850\"></a></p>\r\n\r\n<p><a name=\"_Hlk507704203\">Havens (JPY, EUR, CHF) all higher on Friday while the DXY ended 0.5% lower (down around 0.8% for the week, snapping two weeks of gains). Despite the roller-coaster rides seen this week, the DXY range between 89.40 and 90.50 has held. Gold is up, buoyed by a weak dollar and lower yields. CAD is one of the top performers on Friday, following solid CPI data (which offset mediocre retail data) which saw the average of the three BOC measures (trimmed mean, median, and common) jumped to 2.03% (versus 1.83% in the January data) above the BOC&#39;s 2% midpoint of its 1-3% target range. The data did little to push a repricing for the April BOC meeting, though the July and October meetings are now fully priced. GBP is higher against the USD, helped by hawkish comments from BOE&#39;s Vlieghe (data has moved in a direction that warrants removal of stimulus), though couldn&#39;t carve out gains vs the EUR. EMFX is up against the USD, with the exception of TRY. Other commodity FX (AUD, NZD) trades higher, following Trade War speculation that China may sway towards Australian imports rather than US imports.</a></p>\r\n\r\n<p><br />COMMODITIES</p>\r\n\r\n<p>US Baker Hughes Total Rig Count (16 Mar) 995 (Prev. 990). (Newswires)</p>\r\n\r\n<p>China is to roll out CNY denominated oil futures contract known as the petroyuan, effective today. (Newswires)</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>GEOPOLITICAL</p>\r\n\r\n<p>There were reports of a loud explosion sound in Riyadh, Saudi Arabia, which was due to the Saudi Air Force intercepting a ballistic missile, while Yemeni forces then announced targeting of King Khalid International Airport with the ballistic missile. (Newswires/Al Arabiya) &nbsp;<br /><br />South Korea and North Korea agree to hold summit preparation talks on Thursday. (Newswires)</p>\r\n\r\n<p>US President Trump advisers reportedly recommend the expulsion of Russian diplomats in response to the nerve agent attack in Salisbury. (CNN)</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>US</p>\r\n\r\n<p>US President Trump signed the USD 1.3tln Omnibus spending bill into law on Friday. (Newswires)</p>\r\n\r\n<p>Fed&rsquo;s Williams (voter, hawkish) is reportedly the leading candidate to become next NY Fed President to replace Fed&rsquo;s Dudley who will step down this summer. (Newswires)</p>\r\n\r\n<p>Fed&rsquo;s Rosengren (non-voter, hawkish) said S&amp;P500 index valuations are historically high and that commercial real estate valuations are quite stretched. Furthermore, Rosengren added that US has limited policy to handle shocks and that Fed should bolster its existing financial stability tools. (Newswires) (Newswires)</p>\r\n\r\n<p>Fed&#39;s Kaplan (non-voter, neutral) said he still sees three hikes as appropriate for 2018 and warned on protectionist trade. (Newswires)</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>MARKET RECAP</p>\r\n\r\n<p>US equity futures experienced choppy trade on Friday due to ongoing Trade War concerns, with China mulling $3bln worth of tariffs on numerous US products, such as steel, pipes, wine and pork which hampered stocks in early trade. Threats by US President Trump that he would potentially veto the government funding bill also kept equities on the back foot, though rallied after he signed the bill, that will keep the government open until September, though the rally proved fragile, and selling action returned as traders settled up for the week, pushing shares to session lows. During the choppy trade, the VIX rose to above 25 again, the highest since 2 March. Also, in late trade SPX broke the psychological level 2600 and headed towards the 200d ma, 2590, which it bounced off on the close. Looking to stock-specifics, S&amp;P was being led by Foot Locker (FL) following positive earnings from Nike (NKE) after market on Thursday; Cintas was positive on earnings; and defence names (LMT, NOC, RTN) up following an increased budget for the US military. SPX -2.08% at 2589, NDX -2.61% at 6508, DJI -1.77% at 23535.</p>\r\n\r\n<p>The Tsy curve bulls-steepened, catching a bid amid soft risk-appetite on the back of Trade Wars fears. Yields on 2s lower by around 3bps, as were 5s, while 10s yields were 1bps lower, and 30s were unchanged in thin volume. Some analysts have expressed astonishment that 10-year yields haven&#39;t managed to meaningfully breach the 2.80% level to the downside (while the 3.00% level seems to be solidly reinforced), in spite of soft risk sentiment. One desk noted that it may be a function of shorts sitting on tidy profits this year, giving them a thicker buffer to absorb losses due to rallies. Other desks have suggested that levels near/sub 2.80% have represented good areas to add shorts. US T-Note futures (Jun&#39;18) settle 3 ticks higher at 120-19+.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-asia-pac-opening-news-25-03-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-03-26 05:25:00",
+        "gmt_time": "2018-03-25 21:25:00"
+    },
+    {
+        "id": 614437,
+        "updated_sequence": 797517,
+        "published_at": {
+            "unix": 1522011600,
+            "text": "2018-03-25 22:00:00 +0100",
+            "iso_8601": "2018-03-25T21:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1522011764,
+            "text": "2018-03-25 22:02:44 +0100",
+            "iso_8601": "2018-03-25T21:02:44Z"
+        },
+        "subject": "There were reports of a loud explosion sound in Riyadh, Saudi Arabia, which was due to the Saudi Air Force intercepting a ballistic missile, while Yemeni forces then announced targeting of King Khalid International Airport with the ballistic missile",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "there-were-reports-of-a-loud-explosion-sound-in-riyadh-saudi-arabia-which-was-due-to-the-saudi-air-force-intercepting-a-ballistic-missile-while-yemeni-forces-then-announced-targeting-of-king-khalid-international-airport-with-the-ballistic-25-03-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-03-26 05:00:00",
+        "gmt_time": "2018-03-25 21:00:00"
+    }
+]

@@ -1,0 +1,3286 @@
+[
+    {
+        "id": 690048,
+        "updated_sequence": 1115208,
+        "published_at": {
+            "unix": 1546558920,
+            "text": "2019-01-03 23:42:00 +0000",
+            "iso_8601": "2019-01-03T23:42:00Z"
+        },
+        "updated_at": {
+            "unix": 1546558962,
+            "text": "2019-01-03 23:42:42 +0000",
+            "iso_8601": "2019-01-03T23:42:42Z"
+        },
+        "subject": "PRE-MARKET TAIWAN AND SINGAPORE STOCK NEWS",
+        "content": "<p><strong>TAIWAN</strong></p>\r\n\r\n<p><strong>STOCKS</strong><br />- No notable stories</p>\r\n\r\n<p><strong>OTHER NEWS</strong><br />- Senior pro-Taiwanese independence advocates have asked President Tsai not to run for re-election in 2020. (Taipei Times)</p>\r\n\r\n<p>- The Cabinet on Thursday approved a draft bill to amend the regulations on investment in Taiwan by foreign nationals and overseas Taiwanese. (Focus Taiwan)</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>SINGAPORE</strong><br />- No notable news</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "pre-market-taiwan-and-singapore-stock-news-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-04 07:42:00",
+        "gmt_time": "2019-01-03 23:42:00"
+    },
+    {
+        "id": 690047,
+        "updated_sequence": 1115202,
+        "published_at": {
+            "unix": 1546558500,
+            "text": "2019-01-03 23:35:00 +0000",
+            "iso_8601": "2019-01-03T23:35:00Z"
+        },
+        "updated_at": {
+            "unix": 1546558567,
+            "text": "2019-01-03 23:36:07 +0000",
+            "iso_8601": "2019-01-03T23:36:07Z"
+        },
+        "subject": "US Senate Minority Leader Schumer (Democrat) is to attend Friday's meeting on the US government shutdown at the White House",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-senate-minority-leader-schumer-democrat-is-to-attend-friday-s-meeting-on-the-us-government-shutdown-at-the-white-house-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-04 07:35:00",
+        "gmt_time": "2019-01-03 23:35:00"
+    },
+    {
+        "id": 690046,
+        "updated_sequence": 1115205,
+        "published_at": {
+            "unix": 1546557420,
+            "text": "2019-01-03 23:17:00 +0000",
+            "iso_8601": "2019-01-03T23:17:00Z"
+        },
+        "updated_at": {
+            "unix": 1546558824,
+            "text": "2019-01-03 23:40:24 +0000",
+            "iso_8601": "2019-01-03T23:40:24Z"
+        },
+        "subject": "PRE-MARKET JAPANESE AND SOUTH KOREAN STOCK NEWS: Samsung Electronics (005930 KS) and Amazon (AMZN) are said to release plans to partner on AI; according to Korean press",
+        "content": "<p><strong>JAPAN</strong></p>\r\n\r\n<p><strong>STOCKS</strong></p>\r\n\r\n<p>Subaru (7270 JT)<br />- Subaru America reports December vehicles sales +1.9% Y/Y to 64.5k vehicles. (Newswires)</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Nissan (7201 JT)<br />- Former Chairman Ghosn is said to have paid two more acquitances USD 48mln using company funds. (Nikkei)</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Mitsubishi Motors (7211 JT)<br />- Co. reports December sales +5.7% Y/Y to 9.0k vehicles. (Newswires)</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Mazda Motor (7261 JT)<br />- Co. reports December US sales -3.8% Y/Y to 25.9k units. (Newswires)</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Otsuka Holdings (4578 JT)<br />- Co. and Click Therapeutics are to collaborate to develop and commercialise Digital Therapeutics for patients with depressive disorder. (Newswires)</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Takeda (4502 JT)<br />- Co. notes court sanction of the Scheme of Arrangement in respect to the Shire acquisition. (Newswires)</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Eisai (4523 JT)<br />- Co. receives priority review in China in relation to FYCOMPA for partial epilepsy. (Newswires)</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Nexon (3659 JT)<br />- Co. founder is said to be sell controlling stake in Nexon. (Yonhap)</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>OTHER NEWS</strong></p>\r\n\r\n<p>- The BoJ is set to trim its inflation outlook for the next two years amid the oil slump and as cheaper mobile plans weigh on domestic consumer prices. The Central Bank is considering lowering its fiscal 2019 CPI growth forecast to circa 1.0% (Prev. projection 1.4%) at their next policy meeting on January 23rd. Policy makers are also said to be considering a minor downward revision to the fiscal 2020 forecast of 1.5%. (Nikkei)</p>\r\n\r\n<p>- China and Japan are to hold high level dialogue on economic relations between the two countries. (SCMP)</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>SOUTH KOREA</strong></p>\r\n\r\n<p><strong>STOCKS</strong></p>\r\n\r\n<p>Samsung Electronics (005930 KS)<br />- Co. and Amazon (AMZN) are said to release plans to partner on AI; according to Korean press. Separately, South Korea&rsquo;s NPS is said to cut stake in Co. and SK Hynix (000660 KS) (Newswires)</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Hyundai Motor (005380 KS)<br />- Co. reports December sales +3% Y/Y to 65.7k units. (Newswires)</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Kia Motors (000270 KS)<br />- Co. reports US December sales +10.2% to 47.4k units. (Newswires)</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>OTHER NEWS</strong></p>\r\n\r\n<p>- President Moon has promised additional support for new and innovative businesses Thursday, calling them a way to create more jobs and ensure future growth. (Yonhap)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "pre-market-japanese-and-south-korean-stock-news-samsung-electronics-005930-ks-and-amazon-amzn-are-said-to-release-plans-to-partner-on-ai-according-to-korean-press-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-04 07:17:00",
+        "gmt_time": "2019-01-03 23:17:00"
+    },
+    {
+        "id": 690045,
+        "updated_sequence": 1115196,
+        "published_at": {
+            "unix": 1546556280,
+            "text": "2019-01-03 22:58:00 +0000",
+            "iso_8601": "2019-01-03T22:58:00Z"
+        },
+        "updated_at": {
+            "unix": 1546556384,
+            "text": "2019-01-03 22:59:44 +0000",
+            "iso_8601": "2019-01-03T22:59:44Z"
+        },
+        "subject": "US elected House Speaker Pelosi is expected to speak at 19:00EST/00:00GMT on the US government shutdown",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Fox",
+        "slug": "us-elected-house-speaker-pelosi-is-expected-to-speak-at-19-00est-00-00gmt-on-the-us-government-shutdown-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-04 06:58:00",
+        "gmt_time": "2019-01-03 22:58:00"
+    },
+    {
+        "id": 690045,
+        "updated_sequence": 1115196,
+        "published_at": {
+            "unix": 1546556280,
+            "text": "2019-01-03 22:58:00 +0000",
+            "iso_8601": "2019-01-03T22:58:00Z"
+        },
+        "updated_at": {
+            "unix": 1546556384,
+            "text": "2019-01-03 22:59:44 +0000",
+            "iso_8601": "2019-01-03T22:59:44Z"
+        },
+        "subject": "US elected House Speaker Pelosi is expected to speak at 19:00EST/00:00GMT on the US government shutdown",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Fox",
+        "slug": "us-elected-house-speaker-pelosi-is-expected-to-speak-at-19-00est-00-00gmt-on-the-us-government-shutdown-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-04 06:58:00",
+        "gmt_time": "2019-01-03 22:58:00"
+    },
+    {
+        "id": 690044,
+        "updated_sequence": 1115193,
+        "published_at": {
+            "unix": 1546554660,
+            "text": "2019-01-03 22:31:00 +0000",
+            "iso_8601": "2019-01-03T22:31:00Z"
+        },
+        "updated_at": {
+            "unix": 1546554780,
+            "text": "2019-01-03 22:33:00 +0000",
+            "iso_8601": "2019-01-03T22:33:00Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIA STOCK NEWS: ASX 200 is set to open lower following the slump on Wall St. (AFR)",
+        "content": "<p><strong>OIL</strong><br />- Brent settled around a dollar higher, just shy of USD 56.00/bbl. US API Inventories showed a larger-than-expected draw of 4.5mln (vs. Exp. -3.1mln). Oil prices showed some mild down ticks following the release as the components all showed larger-than-expected builds.</p>\r\n\r\n<p><strong>STOCKS</strong></p>\r\n\r\n<p>Westpac (WBC AT)<br />- Co. chairman has warned that rising banking regulations is causing a slowdown in the pace of lending as credit tightens. (The Australian)</p>\r\n\r\n<p><strong>DATA RECAP</strong></p>\r\n\r\n<p>Australia CBA Services PMI Dec (Final) 52.7 (Prev. 52.2) (Newswires)<br />Australia CBA Composite PMI Dec (Final) 52.9 (Prev. 52.4)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "pre-market-australia-stock-news-asx-200-is-set-to-open-lower-following-the-slump-on-wall-st-afr-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-04 06:31:00",
+        "gmt_time": "2019-01-03 22:31:00"
+    },
+    {
+        "id": 690043,
+        "updated_sequence": 1115187,
+        "published_at": {
+            "unix": 1546553100,
+            "text": "2019-01-03 22:05:00 +0000",
+            "iso_8601": "2019-01-03T22:05:00Z"
+        },
+        "updated_at": {
+            "unix": 1546553189,
+            "text": "2019-01-03 22:06:29 +0000",
+            "iso_8601": "2019-01-03T22:06:29Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASES CALENDAR NOW AVAILABLE IN THE RESEARCH SECTION: Highlights include Japanese Manufacturing PMI and Chinese Caixin Services PMI",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asian-daily-economic-releases-calendar-now-available-in-the-research-section-highlights-include-japanese-manufacturing-pmi-and-chinese-caixin-services-pmi-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-04 06:05:00",
+        "gmt_time": "2019-01-03 22:05:00"
+    },
+    {
+        "id": 689913,
+        "updated_sequence": 1115175,
+        "published_at": {
+            "unix": 1546552800,
+            "text": "2019-01-03 22:00:00 +0000",
+            "iso_8601": "2019-01-03T22:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1546552800,
+            "text": "2019-01-03 22:00:00 +0000",
+            "iso_8601": "2019-01-03T22:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-02-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-04 06:00:00",
+        "gmt_time": "2019-01-03 22:00:00"
+    },
+    {
+        "id": 690042,
+        "updated_sequence": 1115184,
+        "published_at": {
+            "unix": 1546552800,
+            "text": "2019-01-03 22:00:00 +0000",
+            "iso_8601": "2019-01-03T22:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1546553024,
+            "text": "2019-01-03 22:03:44 +0000",
+            "iso_8601": "2019-01-03T22:03:44Z"
+        },
+        "subject": "Australia CBA Composite PMI Dec (Final)  52.9 (Prev. 52.4)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "australia-cba-composite-pmi-dec-final-52-9-prev-52-4-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-04 06:00:00",
+        "gmt_time": "2019-01-03 22:00:00"
+    },
+    {
+        "id": 690041,
+        "updated_sequence": 1115181,
+        "published_at": {
+            "unix": 1546552800,
+            "text": "2019-01-03 22:00:00 +0000",
+            "iso_8601": "2019-01-03T22:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1546552975,
+            "text": "2019-01-03 22:02:55 +0000",
+            "iso_8601": "2019-01-03T22:02:55Z"
+        },
+        "subject": "Australia CBA Services PMI Dec (Final) 52.7 (Prev. 52.2)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "australia-cba-services-pmi-dec-final-52-7-prev-52-2-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-04 06:00:00",
+        "gmt_time": "2019-01-03 22:00:00"
+    },
+    {
+        "id": 690039,
+        "updated_sequence": 1115190,
+        "published_at": {
+            "unix": 1546552380,
+            "text": "2019-01-03 21:53:00 +0000",
+            "iso_8601": "2019-01-03T21:53:00Z"
+        },
+        "updated_at": {
+            "unix": 1546553553,
+            "text": "2019-01-03 22:12:33 +0000",
+            "iso_8601": "2019-01-03T22:12:33Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p><strong>ASIA-PAC</strong></p>\r\n\r\n<p>The BoJ is set to trim its inflation outlook for the next two years amid the oil slump and as cheaper mobile plans weigh on domestic consumer prices. The Central Bank is considering lowering its fiscal 2019 CPI growth forecast to circa 1.0% (Prev. projection 1.4%) at their next policy meeting on January 23rd. Policy makers are also said to be considering a minor downward revision to the fiscal 2020 forecast of 1.5%. (Nikkei)</p>\r\n\r\n<p>White House Advisor Hassett says China&#39;s economy is slowing, and this will impact many US companies. He added that China&rsquo;s economy appears to be in a recession. (Newswires)&nbsp;&nbsp;&nbsp;</p>\r\n\r\n<p>US President Trump tweeted that the US Treasury &quot;has taken in MANY billions of dollars from the Tariffs we are charging China and other countries that have not treated us fairly&quot;. (Twitter)</p>\r\n\r\n<p><strong>UK/EU</strong></p>\r\n\r\n<p>Irish PM Varadkar said Ireland will not bring no-deal Brexit legislation to parliament before March and won&#39;t accept any change to the deal that renders backstop inoperable. (Newswires)</p>\r\n\r\n<p>UK Brexit Minister Barclay says that the prospect of a &quot;no deal&quot; EU exit is far more likely if parliament rejects PM May&#39;s deal. (Newswires)</p>\r\n\r\n<p>DATA RECAP</p>\r\n\r\n<p>UK Markit/CIPS Cons PMI (Dec) 52.8 vs. Exp. 52.9 (Prev. 53.4) (Newswires)</p>\r\n\r\n<p><strong>GEOPOLITICAL</strong></p>\r\n\r\n<p>Iranian Foreign Minister Zarif said the Iranian space vehicle launch and missile tests are not a violation of UN resolution, rejecting US Secretary of State Pompeo&rsquo;s warning. (Twitter)</p>\r\n\r\n<p>Russia has charged US citizen Paul Whelan with espionage; according to Interfax citing an informed source. (Newswires)</p>\r\n\r\n<p><strong>CENTRAL BANKS</strong></p>\r\n\r\n<p>Fed&#39;s Kaplan (Dove, Non-voter) said the Fed should be ready to adjust balance sheet if required; Fed must be vigilant in monitoring balance sheet. He also said he favours no rate hikes in first couple of quarters this year. (Newswires)</p>\r\n\r\n<p>Banxico Minutes stated that a majority of members said volatility of Mexican financial assets reflect uncertainty of policies of Mexico&#39;s new government and majority of board members believes in Q4 2018 there was a deceleration in economic growth compared to the previous quarter. (Newswires)</p>\r\n\r\n<p><strong>COMMODITIES</strong></p>\r\n\r\n<p>Libya&#39;s National Oil Corporation said El-Sharara oil field will have an accumulated loss of up to 11k BPD even after restart; according to a statement. Separately, Libya&#39;s oil exports have been suspended due to bad weather, as according to a shipping source. (Newswires)</p>\r\n\r\n<p>Italy&#39;s Milazzo 200K BPD refinery has shut one of their two crude units due to bad weather as according to a spokesperson. (Newswires)</p>\r\n\r\n<p>US API Weekly Crude Stocks (28 Dec) -4.5mln vs. Exp. -3.1mln (Newswires)<br />US API Weekly Gasoline Stocks (28 Dec) +8.0mln vs. Exp. +2.0mln<br />US API Weekly Distillate Stocks (28 Dec) +4.0mln vs. Exp. +1.6mln<br />US API Cushing Number (28 Dec) 0.483mln<br />&nbsp;</p>\r\n\r\n<p><strong>US</strong></p>\r\n\r\n<p>Democrat Lawmaker Wyden has re-introduced the bill that requires US President Trump to release tax returns. (Newswires)</p>\r\n\r\n<p>DATA RECAP</p>\r\n\r\n<p>US ADP National Employment Dec 271.0k vs. Exp. 178.0k (Prev. 179.0k Revision. 157.0k)<br />US ISM Manufacturing PMI Dec 54.1 vs. Exp. 57.9 (Prev. 59.3) (Newswires)<br />US Initial Jobless Claims 231k vs. Exp. 220.0k (Prev. 216.0k, Rev. 221k)</p>\r\n\r\n<p><strong>MARKET RECAP</strong></p>\r\n\r\n<p>The treasury complex drifted higher on Thursday amid widespread risk-off tone inspired by Apple cutting its revenue estimates and the &lsquo;flash crash&rsquo; overnight. Most of the action was concentrated in the front-end and belly of the curve were yields were lower by c.1bps. The complex saw brief downside in response to a massive beat in ADP payrolls though likely to be driven by volatile and temporary factors; focus now shits on the official payroll release due on Friday. Spreads were wider across the curve with the exception of 2s5s which were narrower by just below 1bps. * US T-NOTE FUTURES (H19) SETTLE 31 TICKS HIGHER AT 123-05</p>\r\n\r\n<p>Apple (AAPL) nosedived on the open as it lowered its Q1 revenue guidance significantly citing weak China demand, causing losses across the semiconductor sector (QRVO, SWKS, AMD, AVGO) and other trade sensitive stocks (BA, CAT, DWDP). Bristol-Myers (BMY) opened lower as it announced it would be acquiring Celgene (CELG) for USD 74bln, Celgene surged on the open as well as other pharma stock Incyte (INCY). Broker moves saw Gilead (GILD) and Teva (TEVA) benefitting on the open from upgrades at Oppenheimer and BAML respectively, AbbVie (ABBV) opened lower after a downgrade at BAML. Airlines (DAL, AAL, ALK) underperformed after Delta lowered its revenue forecast. In later trade, Twenty First Century Fox (FOXA) erased losses after Brazilian regulators announced they are set to pass the deal with Disney (DIS) without an asset sale. SPX -2.48% at 2448, NDX -3.36% at 6147, DJI -2.83% at 22686. SECTORS: Energy -1.09%, Materials -2.76%, Industrials -2.97%, Cons Discretionary -2.18%, Cons Staples -0.73%, Healthcare -2.21%, Financials -2.27%, Tech -5.07%, Telecoms -1.45%, Utilities +0.06%.&nbsp;</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "daily-asia-pac-opening-news-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-04 05:53:00",
+        "gmt_time": "2019-01-03 21:53:00"
+    },
+    {
+        "id": 690038,
+        "updated_sequence": 1115170,
+        "published_at": {
+            "unix": 1546552200,
+            "text": "2019-01-03 21:50:00 +0000",
+            "iso_8601": "2019-01-03T21:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1546552334,
+            "text": "2019-01-03 21:52:14 +0000",
+            "iso_8601": "2019-01-03T21:52:14Z"
+        },
+        "subject": "White House says advisers to US President Trump issued a veto threat on Democrats' wall-free stopgap spending bill; as expected",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "white-house-says-advisers-to-us-president-trump-issued-a-veto-threat-on-democrats-wall-free-stopgap-spending-bill-as-expected-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-04 05:50:00",
+        "gmt_time": "2019-01-03 21:50:00"
+    },
+    {
+        "id": 690037,
+        "updated_sequence": 1115167,
+        "published_at": {
+            "unix": 1546551780,
+            "text": "2019-01-03 21:43:00 +0000",
+            "iso_8601": "2019-01-03T21:43:00Z"
+        },
+        "updated_at": {
+            "unix": 1546551884,
+            "text": "2019-01-03 21:44:44 +0000",
+            "iso_8601": "2019-01-03T21:44:44Z"
+        },
+        "subject": "Thirteen Canadians have been detained in China since the Huawei CFO arrest; according to Global & Mail citing a Canadian government official",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "thirteen-canadians-have-been-detained-in-china-since-the-huawei-cfo-arrest-according-to-global-mail-citing-a-canadian-government-official-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 23,
+            "name": "Geopolitical"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-04 05:43:00",
+        "gmt_time": "2019-01-03 21:43:00"
+    },
+    {
+        "id": 690036,
+        "updated_sequence": 1115164,
+        "published_at": {
+            "unix": 1546551360,
+            "text": "2019-01-03 21:36:00 +0000",
+            "iso_8601": "2019-01-03T21:36:00Z"
+        },
+        "updated_at": {
+            "unix": 1546551426,
+            "text": "2019-01-03 21:37:06 +0000",
+            "iso_8601": "2019-01-03T21:37:06Z"
+        },
+        "subject": "US President Trump says the US is doing so well with the economy",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "CNBC",
+        "slug": "us-president-trump-says-the-us-is-doing-so-well-with-the-economy-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-04 05:36:00",
+        "gmt_time": "2019-01-03 21:36:00"
+    },
+    {
+        "id": 690035,
+        "updated_sequence": 1115161,
+        "published_at": {
+            "unix": 1546551300,
+            "text": "2019-01-03 21:35:00 +0000",
+            "iso_8601": "2019-01-03T21:35:00Z"
+        },
+        "updated_at": {
+            "unix": 1546551390,
+            "text": "2019-01-03 21:36:30 +0000",
+            "iso_8601": "2019-01-03T21:36:30Z"
+        },
+        "subject": "US API Weekly Crude Stocks (28 Dec) -4.5mln vs. Exp. -3.1mln ",
+        "content": "<ul><li>US API Cushing Number (28 Dec) 0.483mln&nbsp;</li>\r\n  <li>US API Weekly Gasoline Stocks (28 Dec) +8.0mln (Exp. +2.0mln)</li>\r\n  <li>US API Weekly Distillate Stocks (28 Dec) +4.0mln (Exp. +1.6mln)</li>\r\n</ul>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": true,
+        "source": "Newswires",
+        "slug": "us-api-weekly-crude-stocks-28-dec-4-5mln-vs-exp-3-1mln-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 4,
+            "name": "US Data"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-04 05:35:00",
+        "gmt_time": "2019-01-03 21:35:00"
+    },
+    {
+        "id": 690033,
+        "updated_sequence": 1115148,
+        "published_at": {
+            "unix": 1546549440,
+            "text": "2019-01-03 21:04:00 +0000",
+            "iso_8601": "2019-01-03T21:04:00Z"
+        },
+        "updated_at": {
+            "unix": 1546549618,
+            "text": "2019-01-03 21:06:58 +0000",
+            "iso_8601": "2019-01-03T21:06:58Z"
+        },
+        "subject": "RANsquawk US Market Wrap - 3 Jan 2019: Apple sinks; ISM falls by most in a decade; ADP huge beat ",
+        "content": "<p>To download the report, please click <a href=\"/research_sheets/20852/download\">here</a><br />If you would like to subscribe to receive the research sheets directly in your inbox, you can now do so under the <a href=\"/research_sheets\">Research Suite</a> section of the portal.<br />To subscribe simply check the box next to &quot;Email these reports&quot; under the desired category.<br />&nbsp;</p>\r\n\r\n<p><strong>US MARKET WRAP 3 Jan 2019: Apple sinks; ISM falls by most in a decade; ADP huge beat</strong></p>\r\n\r\n<p><strong>* SNAP-SHOT: </strong>Equities down, treasuries up, dollar down, crude up.</p>\r\n\r\n<p><strong>* REAR-VIEW:</strong> White House Advisor Hassett warns China&#39;s slowdown will hurt US companies, Fed&rsquo;s Kaplan (non-voter) urges Fed to stand ready for balance sheet adjustments, US ADP National Employment beats significantly, US ISM Manufacturing PMI posts biggest one-month drop in a decade.</p>\r\n\r\n<p><strong>* AHEAD:</strong> US API Weekly Stocks AMC, UK Services PMI, EU HICP Flash, US &amp; Canadian Jobs Report, Canadian Employment Change, Fed&#39;s Powell, Bostic and Barkin Speaking.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>* FED: </strong>Fed&#39;s Kaplan (dove, non-voter) said he favours no rate hikes in first couple of quarters this year while the question of cutting rates has not crossed his mind. He noted that markets are reacting to a deceleration in global growth, financial conditions have tightened, and credit spreads have widened since October. He warned that trade tensions have worsened, and he doesn&rsquo;t think the US will be immune to a growth slowdown in China. He stressed that the Fed must be vigilant in monitoring balance sheet and should stand ready for adjustments. &nbsp;</p>\r\n\r\n<p><strong>* TRADE:</strong> White House Advisor Hassett warned that China&#39;s economy is slowing, and this will impact many US companies who will be forced to reduce their guidance like Apple did; he pointed out that the current economic situation in the region is appearing like a recession. Elsewhere, US President Trump tweeted that the US Treasury &quot;has taken in MANY billions of dollars from the Tariffs we are charging China and other countries that have not treated us fairly&quot;. Also, the US has issued a China travel advisory which includes an exit ban warning.</p>\r\n\r\n<p><strong>* ADP PAYROLLS</strong> came in strong and added 271k jobs in December exceeding significantly the 178k consensus; the prior reading however was downwardly revised to 157k from 179k. Note this data tends to show high volatility in December which could explain the exacerbated move. Moody&#39;s economist Zandi noted that &quot;businesses continue to add aggressively to their payrolls despite the stock market slump and the trade war. Favourable December weather also helped lift the job market. At the current pace of job growth, low unemployment will get even lower.&quot; Analysts at Pantheon Macroeconomics argued that the data presents upside risks to its 225k forecast: &quot;Typically, ADP tends to undershoot the official numbers in months after weather events - November&rsquo;s survey week was the coldest since 1997, at least - but we&rsquo;d be very surprised by a 300Kplus reading in the official NFP data,&quot; Pantheon said, &quot;we can&rsquo;t imagine that 271K gains are remotely sustainable, but this report comes as a welcome jolt to the market&rsquo;s favoured narrative that the economy is slowing sharply.&quot;</p>\r\n\r\n<p><strong>* ISM MANUFACTURING PMI</strong> fell sharply from 60.7 to 54.9, missing the 54.09 consensus, posting the largest one-month drop in a decade. New orders came in at 51.1, the biggest fall since January 2014 and are now at the lowest since August 2016. Employment only fell 2.2pts to 56.2 from 58.4 though analysts at Pantheon warn the figure could fall much further without a rebound in new orders. Pantheon also highlights that &ldquo;manufacturing accounts for only about 12% of GDP&rdquo; and looking ahead &ldquo;the Fed won&rsquo;t hike again until the trade situation is resolved, but a weak ISM alone will not prompt easings&rdquo;.</p>\r\n\r\n<p><strong>* WTI SETTLES $0.55 HIGHER AT $47.09/BBL; BRENT FUTURES SETTLE $1.04 HIGHER AT $ 55.95/BBL.</strong> Crude prices settled higher on what was a volatile day of trade for both WTI and Brent, where they continued to move in tandem with Wall Street&rsquo;s jitters (the latest inspired by Apple cutting revenue forecasts, while the overnight &lsquo;flash&rsquo; crash continued to capture attention) before paring back losses. Analysts at Citi note how Thursday&rsquo;s disappointing US ISM manufacturing index weighed on crude earlier in the session by reinforcing the narrative around slowing global growth. Looking ahead, The API will report its weekly energy inventory data after the bell on Thursday, ahead of the DOE&#39;s release on Friday; expectations are for headline crude to draw by 3.1mln, distillates to build by 1.6mln, gasoline to build by 2mln.</p>\r\n\r\n<p><strong>SPX -2.48% at 2448, NDX -3.36% at 6147, DJI -2.83% at 22686. SECTORS:</strong> Energy -1.09%, Materials -2.76%, Industrials -2.97%, Cons Discretionary -2.18%, Cons Staples -0.73%, Healthcare -2.21%, Financials -2.27%, Tech -5.07%, Telecoms -1.45%, Utilities +0.06%. &nbsp;</p>\r\n\r\n<p><strong>* STOCK SPECIFICS: </strong>Apple (AAPL) nosedived on the open as it lowered its Q1 revenue guidance significantly citing weak China demand, causing losses across the semiconductor sector (QRVO, SWKS, AMD, AVGO) and other trade sensitive stocks (BA, CAT, DWDP). Bristol-Myers (BMY) opened lower as it announced it would be acquiring Celgene (CELG) for USD 74bln, Celgene surged on the open as well as other pharma stock Incyte (INCY). Broker moves saw Gilead (GILD) and Teva (TEVA) benefitting on the open from upgrades at Oppenheimer and BAML respectively, AbbVie (ABBV) opened lower after a downgrade at BAML. Airlines (DAL, AAL, ALK) underperformed after Delta lowered its revenue forecast. In later trade, Twenty First Century Fox (FOXA) erased losses after Brazilian regulators announced they are set to pass the deal with Disney (DIS) without an asset sale.</p>\r\n\r\n<p><strong>* US T-NOTE FUTURES (H19) SETTLE 31 TICKS HIGHER AT 123-05.</strong> The treasury complex drifted higher on Thursday amid widespread risk-off tone inspired by Apple cutting its revenue estimates and the &lsquo;flash crash&rsquo; overnight. Most of the action was concentrated in the front-end and belly of the curve were yields were lower by c.1bps. The complex saw brief downside in response to a massive beat in ADP payrolls though likely to be driven by volatile and temporary factors; focus now shits on the official payroll release due on Friday. Spreads were wider across the curve with the exception of 2s5s which were narrower by just below 1bps.</p>\r\n\r\n<p><strong>* JPY: </strong>FX markets garnered a significant amount of market attention after a chaotic Asia-Pac session which saw a surge in the JPY which prompted the currency gain circa 8% vs. the AUD and 10% vs. TRY with analysts attributing the move to a multitude of factors including thin markets (Japan away from market again), Apple-inspired risk aversion (following revenue guidance cut) and Japanese retail investors liquidating offside positions. At the time, losses in AUD/JPY saw USD/JPY slide sharply below 109.00 to briefly breach 105.00 before recovering to a 107.00 level.</p>\r\n\r\n<p><strong>* DXY:</strong> The index was on the backfoot throughout the session with the greenback dented by aforementioned JPY strength. Traction thereafter was exacerbated by commentary from Fed&rsquo;s Kaplan who continued to deviate from the sentiment portrayed by Chair Powell at the most recent policy announcement and instead noted that policymakers should be ready to adjust the balance sheet if needed. These comments were then followed up by a well-above expectation ADP report which briefly provided some reprieve for the USD before the selling recommenced given that the figure was likely inflated by seasonal factors and estimates for large states given the government shutdown. Finally, from a data perspective, ISM did little to reassure investors ahead of tomorrow&rsquo;s NFP print.</p>\r\n\r\n<p><strong>* GBP: </strong>A turbulent session for GBP after GBP/JPY fell through 137.00 to levels just shy of 131.50 during Asia-Pac trade, causing Cable to crash below the 1.2600 handle and eventually make a session low of 1.2441. GBP recouped a bulk of its overnight losses as markets reversed course from the so-called &lsquo;flash crash&rsquo; with broad-USD softness enabling GBP/USD to briefly climb above 1.2600. Positivity for GBP will likely be capped by the return of political risk as Parliament reconvenes next week; ahead of lawmakers&rsquo; return UK press is already suggesting that UK PM May might have to delay her Jan 14th vote with party whips unable to drum up enough support for the deal.</p>\r\n\r\n<p><strong>* EUR:</strong> Despite a blip lower in EUR/JPY which led EUR/USD to a session low of 1.1310, EUR put up more of a fight than some of its G10 counterparts with the multi-bloc currency also said to be revived by touted short-covering (as well as the softer USD). As such, EUR/USD was able to briefly reclaim the 1.1400 level and remain towards the mid-point of the early 2019 range ahead of EZ inflation metrics tomorrow.</p>\r\n\r\n<p><strong>* COMING-UP:</strong></p>\r\n\r\n<p><strong>* PREVIEW: </strong>US Nonfarm Payrolls (December 2018) due at 1330 GMT/0830 EST on 4 January 2019. Consensus view: +177k payrolls; AHE seen falling to 3.0% YY; jobless rate seen unchanged at 3.7%. Data takes more importance with a data-dependent Fed, amid signs of economic momentum losing steam globally. Click here to access the full RANsquawk preview.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "ransquawk-us-market-wrap-3-jan-2019-apple-sinks-ism-falls-by-most-in-a-decade-adp-huge-beat-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-04 05:04:00",
+        "gmt_time": "2019-01-03 21:04:00"
+    },
+    {
+        "id": 690031,
+        "updated_sequence": 1115142,
+        "published_at": {
+            "unix": 1546547820,
+            "text": "2019-01-03 20:37:00 +0000",
+            "iso_8601": "2019-01-03T20:37:00Z"
+        },
+        "updated_at": {
+            "unix": 1546547930,
+            "text": "2019-01-03 20:38:50 +0000",
+            "iso_8601": "2019-01-03T20:38:50Z"
+        },
+        "subject": "ENERGY INVENTORY EXPECTATIONS: Crude -3.1mln, distillate +1.6mln, gasoline +2.0mln",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "energy-inventory-expectations-crude-3-1mln-distillate-1-6mln-gasoline-2-0mln-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 20,
+            "name": "Commodities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-04 04:37:00",
+        "gmt_time": "2019-01-03 20:37:00"
+    },
+    {
+        "id": 690030,
+        "updated_sequence": 1115139,
+        "published_at": {
+            "unix": 1546545840,
+            "text": "2019-01-03 20:04:00 +0000",
+            "iso_8601": "2019-01-03T20:04:00Z"
+        },
+        "updated_at": {
+            "unix": 1546546004,
+            "text": "2019-01-03 20:06:44 +0000",
+            "iso_8601": "2019-01-03T20:06:44Z"
+        },
+        "subject": "Brazil regulators set to pass Twenty First Century Fox (FOXA), Disney (DIS) deal without an asset sale",
+        "content": "",
+        "reaction_details": "<ul><li>In an immediate reaction FOXA shares spiked from USD 47.15 to USD 47.90&nbsp;</li>\r\n</ul>\r\n",
+        "reaction_updated_at": {
+            "unix": 1546546004,
+            "text": "2019-01-03 20:06:44 +0000",
+            "iso_8601": "2019-01-03T20:06:44Z"
+        },
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "brazil-regulators-set-to-pass-twenty-first-century-fox-foxa-disney-dis-deal-without-an-asset-sale-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-04 04:04:00",
+        "gmt_time": "2019-01-03 20:04:00"
+    },
+    {
+        "id": 690029,
+        "updated_sequence": 1115134,
+        "published_at": {
+            "unix": 1546543920,
+            "text": "2019-01-03 19:32:00 +0000",
+            "iso_8601": "2019-01-03T19:32:00Z"
+        },
+        "updated_at": {
+            "unix": 1546545116,
+            "text": "2019-01-03 19:51:56 +0000",
+            "iso_8601": "2019-01-03T19:51:56Z"
+        },
+        "subject": "WTI (G9) settles USD 0.55 higher at USD 47.09/bbl, Brent (H9) settles USD 1.04 higher at USD 55.95/bbl",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<p>&nbsp;Crude prices settled higher on what was a volatile day of trade for both WTI and Brent, where they continued to move in tandem with Wall Street&rsquo;s jitters (the latest inspired by Apple cutting revenue forecasts, while the overnight &lsquo;flash&rsquo; crash continued to capture attention) before paring back losses. Analysts at Citi note how Thursday&rsquo;s disappointing US ISM manufacturing index weighed on crude earlier in the session by reinforcing the narrative around slowing global growth. Looking ahead, The API will report its weekly energy inventory data after the bell on Thursday, ahead of the DOE&#39;s release on Friday; expectations are for headline crude to draw by 3.1mln, distillates to build by 1.6mln, gasoline to build by 2mln.</p>\r\n",
+        "analysis_updated_at": {
+            "unix": 1546544040,
+            "text": "2019-01-03 19:34:00 +0000",
+            "iso_8601": "2019-01-03T19:34:00Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "wti-g9-settles-usd-0-55-higher-at-usd-47-09-bbl-brent-h9-settles-usd-1-04-higher-at-usd-55-95-bbl-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 20,
+            "name": "Commodities"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-04 03:32:00",
+        "gmt_time": "2019-01-03 19:32:00"
+    },
+    {
+        "id": 690028,
+        "updated_sequence": 1115122,
+        "published_at": {
+            "unix": 1546542600,
+            "text": "2019-01-03 19:10:00 +0000",
+            "iso_8601": "2019-01-03T19:10:00Z"
+        },
+        "updated_at": {
+            "unix": 1546542729,
+            "text": "2019-01-03 19:12:09 +0000",
+            "iso_8601": "2019-01-03T19:12:09Z"
+        },
+        "subject": "Libya's National Oil Corporation says Sharara oil field will have an accumulated loss of up to 11k BPD even after restart; according to a statement ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "libya-s-national-oil-corporation-says-sharara-oil-field-will-have-an-accumulated-loss-of-up-to-11k-bpd-even-after-restart-according-to-a-statement-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 20,
+            "name": "Commodities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-04 03:10:00",
+        "gmt_time": "2019-01-03 19:10:00"
+    },
+    {
+        "id": 690027,
+        "updated_sequence": 1115119,
+        "published_at": {
+            "unix": 1546539120,
+            "text": "2019-01-03 18:12:00 +0000",
+            "iso_8601": "2019-01-03T18:12:00Z"
+        },
+        "updated_at": {
+            "unix": 1546539201,
+            "text": "2019-01-03 18:13:21 +0000",
+            "iso_8601": "2019-01-03T18:13:21Z"
+        },
+        "subject": "Shell (RDSA LN) reports unplanned flaring at Deer Park, Texas refinery due to a unit upset; community line",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "shell-rdsa-ln-reports-unplanned-flaring-at-deer-park-texas-refinery-due-to-a-unit-upset-community-line-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 20,
+            "name": "Commodities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-04 02:12:00",
+        "gmt_time": "2019-01-03 18:12:00"
+    },
+    {
+        "id": 690026,
+        "updated_sequence": 1115116,
+        "published_at": {
+            "unix": 1546538700,
+            "text": "2019-01-03 18:05:00 +0000",
+            "iso_8601": "2019-01-03T18:05:00Z"
+        },
+        "updated_at": {
+            "unix": 1546538805,
+            "text": "2019-01-03 18:06:45 +0000",
+            "iso_8601": "2019-01-03T18:06:45Z"
+        },
+        "subject": "BoJ is to trim inflation outlook for the next two years; Nikkei",
+        "content": "<ul><li><a href=\"https://asia.nikkei.com/Economy/Bank-of-Japan-set-to-trim-inflation-outlook-for-next-2-years\">Via Nikkei</a></li>\r\n</ul>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Nikkei",
+        "slug": "boj-is-to-trim-inflation-outlook-for-the-next-two-years-nikkei-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 14,
+            "name": "BoJ"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-04 02:05:00",
+        "gmt_time": "2019-01-03 18:05:00"
+    },
+    {
+        "id": 690025,
+        "updated_sequence": 1115111,
+        "published_at": {
+            "unix": 1546537860,
+            "text": "2019-01-03 17:51:00 +0000",
+            "iso_8601": "2019-01-03T17:51:00Z"
+        },
+        "updated_at": {
+            "unix": 1546537951,
+            "text": "2019-01-03 17:52:31 +0000",
+            "iso_8601": "2019-01-03T17:52:31Z"
+        },
+        "subject": "CNBC Najarian notes unusual options activity in Restaurant Brands (QSR) and Russell 2000 ETF (IWR) ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "cnbc-najarian-notes-unusual-options-activity-in-restaurant-brands-qsr-and-russell-2000-etf-iwr-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-04 01:51:00",
+        "gmt_time": "2019-01-03 17:51:00"
+    },
+    {
+        "id": 690023,
+        "updated_sequence": 1115105,
+        "published_at": {
+            "unix": 1546537080,
+            "text": "2019-01-03 17:38:00 +0000",
+            "iso_8601": "2019-01-03T17:38:00Z"
+        },
+        "updated_at": {
+            "unix": 1546537127,
+            "text": "2019-01-03 17:38:47 +0000",
+            "iso_8601": "2019-01-03T17:38:47Z"
+        },
+        "subject": "Kuwait port authority has resumed port operations in three ports, following the halting of operations due to bad weather, according to Kuwaiti press",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "kuwait-port-authority-has-resumed-port-operations-in-three-ports-following-the-halting-of-operations-due-to-bad-weather-according-to-kuwaiti-press-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 20,
+            "name": "Commodities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-04 01:38:00",
+        "gmt_time": "2019-01-03 17:38:00"
+    },
+    {
+        "id": 690024,
+        "updated_sequence": 1115108,
+        "published_at": {
+            "unix": 1546537020,
+            "text": "2019-01-03 17:37:00 +0000",
+            "iso_8601": "2019-01-03T17:37:00Z"
+        },
+        "updated_at": {
+            "unix": 1546537176,
+            "text": "2019-01-03 17:39:36 +0000",
+            "iso_8601": "2019-01-03T17:39:36Z"
+        },
+        "subject": "Iranian Foreign Minister Zarif rejects US Secretary of State Pompeo's warning, saying Iranian space vehicle launch and missile tests aren't a violation of UN resolution; twitter",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "iranian-foreign-minister-zarif-rejects-us-secretary-of-state-pompeo-s-warning-saying-iranian-space-vehicle-launch-and-missile-tests-aren-t-a-violation-of-un-resolution-twitter-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 23,
+            "name": "Geopolitical"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-04 01:37:00",
+        "gmt_time": "2019-01-03 17:37:00"
+    },
+    {
+        "id": 690022,
+        "updated_sequence": 1115102,
+        "published_at": {
+            "unix": 1546535340,
+            "text": "2019-01-03 17:09:00 +0000",
+            "iso_8601": "2019-01-03T17:09:00Z"
+        },
+        "updated_at": {
+            "unix": 1546535473,
+            "text": "2019-01-03 17:11:13 +0000",
+            "iso_8601": "2019-01-03T17:11:13Z"
+        },
+        "subject": "Democrat Lawmaker Wyden re-introduces bill requiring US President Trump to release tax returns",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "democrat-lawmaker-wyden-re-introduces-bill-requiring-us-president-trump-to-release-tax-returns-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-04 01:09:00",
+        "gmt_time": "2019-01-03 17:09:00"
+    },
+    {
+        "id": 690021,
+        "updated_sequence": 1115099,
+        "published_at": {
+            "unix": 1546534800,
+            "text": "2019-01-03 17:00:00 +0000",
+            "iso_8601": "2019-01-03T17:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1546534913,
+            "text": "2019-01-03 17:01:53 +0000",
+            "iso_8601": "2019-01-03T17:01:53Z"
+        },
+        "subject": "Apple (AAPL) App Store spending topped USD 1.22bln between Christmas Eve and New Year's Eve ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "apple-aapl-app-store-spending-topped-usd-1-22bln-between-christmas-eve-and-new-year-s-eve-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-04 01:00:00",
+        "gmt_time": "2019-01-03 17:00:00"
+    },
+    {
+        "id": 690020,
+        "updated_sequence": 1115093,
+        "published_at": {
+            "unix": 1546534260,
+            "text": "2019-01-03 16:51:00 +0000",
+            "iso_8601": "2019-01-03T16:51:00Z"
+        },
+        "updated_at": {
+            "unix": 1546534343,
+            "text": "2019-01-03 16:52:23 +0000",
+            "iso_8601": "2019-01-03T16:52:23Z"
+        },
+        "subject": "Atlanta Fed GDPNow (Q4) 2.6% (Prev. 2.7%) ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "atlanta-fed-gdpnow-q4-2-6-prev-2-7-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-04 00:51:00",
+        "gmt_time": "2019-01-03 16:51:00"
+    },
+    {
+        "id": 690019,
+        "updated_sequence": 1115090,
+        "published_at": {
+            "unix": 1546533060,
+            "text": "2019-01-03 16:31:00 +0000",
+            "iso_8601": "2019-01-03T16:31:00Z"
+        },
+        "updated_at": {
+            "unix": 1546533146,
+            "text": "2019-01-03 16:32:26 +0000",
+            "iso_8601": "2019-01-03T16:32:26Z"
+        },
+        "subject": " EUROPEAN PRELIMINARY CASH EQUITY CLOSE: EURO STOXX 50 (-1.09%), FTSE 100 (-0.41%), DAX (-1.32%), CAC (-1.53%), IBEX (+0.01%), FTSE MIB (-0.39%), SMI (+0.59%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "european-preliminary-cash-equity-close-euro-stoxx-50-1-09-ftse-100-0-41-dax-1-32-cac-1-53-ibex-0-01-ftse-mib-0-39-smi-0-59-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 33,
+            "name": "European Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-04 00:31:00",
+        "gmt_time": "2019-01-03 16:31:00"
+    },
+    {
+        "id": 690018,
+        "updated_sequence": 1115087,
+        "published_at": {
+            "unix": 1546532340,
+            "text": "2019-01-03 16:19:00 +0000",
+            "iso_8601": "2019-01-03T16:19:00Z"
+        },
+        "updated_at": {
+            "unix": 1546532884,
+            "text": "2019-01-03 16:28:04 +0000",
+            "iso_8601": "2019-01-03T16:28:04Z"
+        },
+        "subject": "US has issued a China travel advisory which includes an exit ban warning",
+        "content": "<ul><li>State department says China uses &quot;exit bans&quot; coercively to compel US citizens to participate in investigations</li>\r\n</ul>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-has-issued-a-china-travel-advisory-which-includes-an-exit-ban-warning-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 23,
+            "name": "Geopolitical"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-04 00:19:00",
+        "gmt_time": "2019-01-03 16:19:00"
+    },
+    {
+        "id": 690017,
+        "updated_sequence": 1115082,
+        "published_at": {
+            "unix": 1546532100,
+            "text": "2019-01-03 16:15:00 +0000",
+            "iso_8601": "2019-01-03T16:15:00Z"
+        },
+        "updated_at": {
+            "unix": 1546532261,
+            "text": "2019-01-03 16:17:41 +0000",
+            "iso_8601": "2019-01-03T16:17:41Z"
+        },
+        "subject": "Airbus (AIR FP) reportedly will fall short of 800 plane delivery target",
+        "content": "",
+        "reaction_details": "<ul><li>Share price immediately fell from EUR 81.10 to EUR 80.20, before paring back some of the losses</li>\r\n</ul>\r\n",
+        "reaction_updated_at": {
+            "unix": 1546532261,
+            "text": "2019-01-03 16:17:41 +0000",
+            "iso_8601": "2019-01-03T16:17:41Z"
+        },
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "airbus-air-fp-reportedly-will-fall-short-of-800-plane-delivery-target-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 33,
+            "name": "European Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-04 00:15:00",
+        "gmt_time": "2019-01-03 16:15:00"
+    },
+    {
+        "id": 690015,
+        "updated_sequence": 1115073,
+        "published_at": {
+            "unix": 1546530660,
+            "text": "2019-01-03 15:51:00 +0000",
+            "iso_8601": "2019-01-03T15:51:00Z"
+        },
+        "updated_at": {
+            "unix": 1546530727,
+            "text": "2019-01-03 15:52:07 +0000",
+            "iso_8601": "2019-01-03T15:52:07Z"
+        },
+        "subject": "Brazil oil output totaled 2.567mln/bbl in November, -1.8% m/m and -1.1% y/y ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "brazil-oil-output-totaled-2-567mln-bbl-in-november-1-8-m-m-and-1-1-y-y-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 20,
+            "name": "Commodities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-03 23:51:00",
+        "gmt_time": "2019-01-03 15:51:00"
+    },
+    {
+        "id": 690014,
+        "updated_sequence": 1115070,
+        "published_at": {
+            "unix": 1546530480,
+            "text": "2019-01-03 15:48:00 +0000",
+            "iso_8601": "2019-01-03T15:48:00Z"
+        },
+        "updated_at": {
+            "unix": 1546530525,
+            "text": "2019-01-03 15:48:45 +0000",
+            "iso_8601": "2019-01-03T15:48:45Z"
+        },
+        "subject": "Dallas Fed says energy survey sees WTI near USD 60/bbl by the end of 2019 ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "dallas-fed-says-energy-survey-sees-wti-near-usd-60-bbl-by-the-end-of-2019-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 20,
+            "name": "Commodities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-03 23:48:00",
+        "gmt_time": "2019-01-03 15:48:00"
+    },
+    {
+        "id": 690012,
+        "updated_sequence": 1115062,
+        "published_at": {
+            "unix": 1546530300,
+            "text": "2019-01-03 15:45:00 +0000",
+            "iso_8601": "2019-01-03T15:45:00Z"
+        },
+        "updated_at": {
+            "unix": 1546530337,
+            "text": "2019-01-03 15:45:37 +0000",
+            "iso_8601": "2019-01-03T15:45:37Z"
+        },
+        "subject": "Russia has charged US citizen Paul Whelan with espionage; according to Interfax citing an informed source",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "russia-has-charged-us-citizen-paul-whelan-with-espionage-according-to-interfax-citing-an-informed-source-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 23,
+            "name": "Geopolitical"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-03 23:45:00",
+        "gmt_time": "2019-01-03 15:45:00"
+    },
+    {
+        "id": 690013,
+        "updated_sequence": 1115067,
+        "published_at": {
+            "unix": 1546530300,
+            "text": "2019-01-03 15:45:00 +0000",
+            "iso_8601": "2019-01-03T15:45:00Z"
+        },
+        "updated_at": {
+            "unix": 1546530433,
+            "text": "2019-01-03 15:47:13 +0000",
+            "iso_8601": "2019-01-03T15:47:13Z"
+        },
+        "subject": "PREVIEW: US Nonfarm Payrolls (December 2018)",
+        "content": "<ul><li>US Employment Situation Report to be released at 1330 GMT/0830 EST on 4 January 2019.</li>\r\n  <li>Consensus view: +177k payrolls; AHE seen falling to 3.0% YY; jobless rate seen unchanged at 3.7%.</li>\r\n  <li>Data takes more importance with a data-dependent Fed, amid signs of economic momentum losing steam globally.</li>\r\n  <li><strong>To download the report, please click <a href=\"/research_sheets/20851/download\">here</a></strong></li>\r\n</ul>\r\n\r\n<p><em>If you would like to subscribe to receive the research sheets directly in your inbox, you can now do so under the <a href=\"/research_sheets\">Research Suite</a> section of the portal. To subscribe simply check the box next to &quot;Email these reports&quot; under the desired category.</em></p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "preview-us-nonfarm-payrolls-december-2018-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-03 23:45:00",
+        "gmt_time": "2019-01-03 15:45:00"
+    },
+    {
+        "id": 690011,
+        "updated_sequence": 1115129,
+        "published_at": {
+            "unix": 1546530240,
+            "text": "2019-01-03 15:44:00 +0000",
+            "iso_8601": "2019-01-03T15:44:00Z"
+        },
+        "updated_at": {
+            "unix": 1546544548,
+            "text": "2019-01-03 19:42:28 +0000",
+            "iso_8601": "2019-01-03T19:42:28Z"
+        },
+        "subject": "Daily FX Wrap: A rampant JPY and lacklustre US data sinks the USD",
+        "content": "<p>FX markets garnered a significant amount of market attention after a chaotic Asia-Pac session which saw a surge in the JPY which prompted the currency gain circa 8% vs. the AUD and 10% vs. TRY with analysts attributing the move to a multitude of factors including thin markets (Japan away from market again), Apple-inspired risk aversion (following revenue guidance cut) and Japanese retail investors liquidating offside positions.</p>\r\n\r\n<p>At the time, losses in AUD/JPY saw USD/JPY slide sharply below 109.00 to briefly breach 105.00 before recovering to a 107.00 level. In terms of the USD itself, the DXY was on the backfoot throughout the session with the greenback dented by aforementioned JPY strength. Traction thereafter was exacerbated by commentary from Fed&rsquo;s Kaplan who continued to deviate from the sentiment portrayed by Chair Powell at the most recent policy announcement and instead noted that policymakers should be ready to adjust the balance sheet if needed. These comments were then followed up by a well-above expectation ADP report (271k vs. Exp. 178k) which briefly provided some reprieve for the USD before the selling recommenced given that the figure was likely inflated by seasonal factors and estimates for large states given the government shutdown; note, the prior was also revised lower by 22k. Finally from a data perspective, ISM did little to reassure investors with a headline print of 54.1 vs. Exp. 57.7 and the employment component slowing to 56.2 from 58.4 ahead of tomorrow&rsquo;s NFP print.</p>\r\n\r\n<p>Elsewhere, today saw a turbulent session for GBP after GBP/JPY fell through 137.00 to levels just shy of 131.50 during Asia-Pac trade, causing Cable to crash below the 1.2600 handle and eventually make a session low of 1.2441. GBP recouped a bulk of its overnight losses as markets reversed course from the so-called &lsquo;flash crash&rsquo; with broad-USD softness enabling GBP/USD to briefly climb above 1.2600. Positivity for GBP will likely be capped by the return of political risk as Parliament reconvenes next week; ahead of lawmakers&rsquo; return UK press is already suggesting that UK PM May might have to delay her Jan 14th vote with party whips unable to drum up enough support for the deal.</p>\r\n\r\n<p>Despite a blip lower in EUR/JPY which led EUR/USD to a session low of 1.1310, EUR put up more of a fight than some of its G10 counterparts with the multi-bloc currency also said to be revived by touted short-covering (as well as the softer USD). As such, EUR/USD was able to briefly reclaim the 1.1400 level and remain towards the mid-point of the early 2019 range ahead of EZ inflation metrics tomorrow.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "ransquawk",
+        "slug": "daily-fx-wrap-a-rampant-jpy-and-lacklustre-us-data-sinks-the-usd-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-03 23:44:00",
+        "gmt_time": "2019-01-03 15:44:00"
+    },
+    {
+        "id": 690016,
+        "updated_sequence": 1115076,
+        "published_at": {
+            "unix": 1546529700,
+            "text": "2019-01-03 15:35:00 +0000",
+            "iso_8601": "2019-01-03T15:35:00Z"
+        },
+        "updated_at": {
+            "unix": 1546531302,
+            "text": "2019-01-03 16:01:42 +0000",
+            "iso_8601": "2019-01-03T16:01:42Z"
+        },
+        "subject": "White House Advisor Hassett says China's economy is slowing, and this will impact many US companies",
+        "content": "<ul><li>Adds that China&#39;s economy is appearing like a recession for them</li>\r\n</ul>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "white-house-advisor-hassett-says-china-s-economy-is-slowing-and-this-will-impact-many-us-companies-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-03 23:35:00",
+        "gmt_time": "2019-01-03 15:35:00"
+    },
+    {
+        "id": 690010,
+        "updated_sequence": 1115056,
+        "published_at": {
+            "unix": 1546528500,
+            "text": "2019-01-03 15:15:00 +0000",
+            "iso_8601": "2019-01-03T15:15:00Z"
+        },
+        "updated_at": {
+            "unix": 1546528561,
+            "text": "2019-01-03 15:16:01 +0000",
+            "iso_8601": "2019-01-03T15:16:01Z"
+        },
+        "subject": "Nissan (7201 JP) auto sales +7.6% vs. Exp. -5.6%",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "nissan-7201-jp-auto-sales-7-6-vs-exp-5-6-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-03 23:15:00",
+        "gmt_time": "2019-01-03 15:15:00"
+    },
+    {
+        "id": 690009,
+        "updated_sequence": 1115053,
+        "published_at": {
+            "unix": 1546528080,
+            "text": "2019-01-03 15:08:00 +0000",
+            "iso_8601": "2019-01-03T15:08:00Z"
+        },
+        "updated_at": {
+            "unix": 1546528130,
+            "text": "2019-01-03 15:08:50 +0000",
+            "iso_8601": "2019-01-03T15:08:50Z"
+        },
+        "subject": "Honda (7267 JP) vehicle sales up 3.9% vs. Exp. -2.8%",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "honda-7267-jp-vehicle-sales-up-3-9-vs-exp-2-8-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-03 23:08:00",
+        "gmt_time": "2019-01-03 15:08:00"
+    },
+    {
+        "id": 690008,
+        "updated_sequence": 1115050,
+        "published_at": {
+            "unix": 1546527720,
+            "text": "2019-01-03 15:02:00 +0000",
+            "iso_8601": "2019-01-03T15:02:00Z"
+        },
+        "updated_at": {
+            "unix": 1546527923,
+            "text": "2019-01-03 15:05:23 +0000",
+            "iso_8601": "2019-01-03T15:05:23Z"
+        },
+        "subject": "Banxico Minutes says majority of members said volatility of Mexican financial assets reflect uncertainty of policies of Mexico's new government",
+        "content": "<ul><li>Say majority of board members said in Q4 2018 there was a deceleration in economic growth compared to the previous quarter</li>\r\n</ul>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "banxico-minutes-says-majority-of-members-said-volatility-of-mexican-financial-assets-reflect-uncertainty-of-policies-of-mexico-s-new-government-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 8,
+            "name": "Other Central Banks"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-03 23:02:00",
+        "gmt_time": "2019-01-03 15:02:00"
+    },
+    {
+        "id": 690007,
+        "updated_sequence": 1115045,
+        "published_at": {
+            "unix": 1546527600,
+            "text": "2019-01-03 15:00:00 +0000",
+            "iso_8601": "2019-01-03T15:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1546527690,
+            "text": "2019-01-03 15:01:30 +0000",
+            "iso_8601": "2019-01-03T15:01:30Z"
+        },
+        "subject": "RANsquawk sources note vague chatter suggesting Carl Icahn has acquired a 7% stake in FedEx (FDX) with the view to perhaps add more",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "ransquawk-sources-note-vague-chatter-suggesting-carl-icahn-has-acquired-a-7-stake-in-fedex-fdx-with-the-view-to-perhaps-add-more-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-03 23:00:00",
+        "gmt_time": "2019-01-03 15:00:00"
+    },
+    {
+        "id": 690002,
+        "updated_sequence": 1115030,
+        "published_at": {
+            "unix": 1546527180,
+            "text": "2019-01-03 14:53:00 +0000",
+            "iso_8601": "2019-01-03T14:53:00Z"
+        },
+        "updated_at": {
+            "unix": 1546527295,
+            "text": "2019-01-03 14:54:55 +0000",
+            "iso_8601": "2019-01-03T14:54:55Z"
+        },
+        "subject": "US President Trump tweets the US Treasury \"has taken in MANY billions of dollars from the Tariffs we are charging China and other countries that have not treated us fairly\"",
+        "content": "<ul><li><a href=\"https://twitter.com/realDonaldTrump/status/1080839254656405504\">Link to tweet&nbsp;</a></li>\r\n</ul>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-president-trump-tweets-the-us-treasury-has-taken-in-many-billions-of-dollars-from-the-tariffs-we-are-charging-china-and-other-countries-that-have-not-treated-us-fairly-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-03 22:53:00",
+        "gmt_time": "2019-01-03 14:53:00"
+    },
+    {
+        "id": 690001,
+        "updated_sequence": 1115024,
+        "published_at": {
+            "unix": 1546526700,
+            "text": "2019-01-03 14:45:00 +0000",
+            "iso_8601": "2019-01-03T14:45:00Z"
+        },
+        "updated_at": {
+            "unix": 1546526782,
+            "text": "2019-01-03 14:46:22 +0000",
+            "iso_8601": "2019-01-03T14:46:22Z"
+        },
+        "subject": "Ford (F) US December auto sales -8.8% vs. Exp. -6.2%",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "ford-f-us-december-auto-sales-8-8-vs-exp-6-2-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-03 22:45:00",
+        "gmt_time": "2019-01-03 14:45:00"
+    },
+    {
+        "id": 689998,
+        "updated_sequence": 1115015,
+        "published_at": {
+            "unix": 1546525920,
+            "text": "2019-01-03 14:32:00 +0000",
+            "iso_8601": "2019-01-03T14:32:00Z"
+        },
+        "updated_at": {
+            "unix": 1546526026,
+            "text": "2019-01-03 14:33:46 +0000",
+            "iso_8601": "2019-01-03T14:33:46Z"
+        },
+        "subject": "RyanAir (RYA LN) Co have reportedly securing a UK license in order to prepare for no-deal Brexit, as according to the FT",
+        "content": "<ul><li><a href=\"https://www.ft.com/content/73508e56-0f62-11e9-a3aa-118c761d2745\">via FT</a></li>\r\n</ul>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "ryanair-rya-ln-co-have-reportedly-securing-a-uk-license-in-order-to-prepare-for-no-deal-brexit-as-according-to-the-ft-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 33,
+            "name": "European Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-03 22:32:00",
+        "gmt_time": "2019-01-03 14:32:00"
+    },
+    {
+        "id": 689997,
+        "updated_sequence": 1115009,
+        "published_at": {
+            "unix": 1546525500,
+            "text": "2019-01-03 14:25:00 +0000",
+            "iso_8601": "2019-01-03T14:25:00Z"
+        },
+        "updated_at": {
+            "unix": 1546525673,
+            "text": "2019-01-03 14:27:53 +0000",
+            "iso_8601": "2019-01-03T14:27:53Z"
+        },
+        "subject": "Fiat Chrysler (FCAU) December U.S. auto sales +10% to 196,520 units, Exp. +14%",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "fiat-chrysler-fcau-december-u-s-auto-sales-10-to-196-520-units-exp-14-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-03 22:25:00",
+        "gmt_time": "2019-01-03 14:25:00"
+    },
+    {
+        "id": 689996,
+        "updated_sequence": 1115004,
+        "published_at": {
+            "unix": 1546525320,
+            "text": "2019-01-03 14:22:00 +0000",
+            "iso_8601": "2019-01-03T14:22:00Z"
+        },
+        "updated_at": {
+            "unix": 1546525627,
+            "text": "2019-01-03 14:27:07 +0000",
+            "iso_8601": "2019-01-03T14:27:07Z"
+        },
+        "subject": "Toyota (TM) December US Auto Sales -0.9% to 220,910 units vs. Exp. -2.5%",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "toyota-tm-december-us-auto-sales-0-9-to-220-910-units-vs-exp-2-5-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-03 22:22:00",
+        "gmt_time": "2019-01-03 14:22:00"
+    },
+    {
+        "id": 689995,
+        "updated_sequence": 1114997,
+        "published_at": {
+            "unix": 1546525200,
+            "text": "2019-01-03 14:20:00 +0000",
+            "iso_8601": "2019-01-03T14:20:00Z"
+        },
+        "updated_at": {
+            "unix": 1546525396,
+            "text": "2019-01-03 14:23:16 +0000",
+            "iso_8601": "2019-01-03T14:23:16Z"
+        },
+        "subject": "Irish PM Varadkar says will not bring no-deal Brexit legislation to parliament before March, Ireland won't accept any change to the deal that renders backstop inoperable",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "irish-pm-varadkar-says-will-not-bring-no-deal-brexit-legislation-to-parliament-before-march-ireland-won-t-accept-any-change-to-the-deal-that-renders-backstop-inoperable-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 38,
+            "name": "Brexit"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-03 22:20:00",
+        "gmt_time": "2019-01-03 14:20:00"
+    },
+    {
+        "id": 689993,
+        "updated_sequence": 1114989,
+        "published_at": {
+            "unix": 1546523760,
+            "text": "2019-01-03 13:56:00 +0000",
+            "iso_8601": "2019-01-03T13:56:00Z"
+        },
+        "updated_at": {
+            "unix": 1546524500,
+            "text": "2019-01-03 14:08:20 +0000",
+            "iso_8601": "2019-01-03T14:08:20Z"
+        },
+        "subject": "Additional US Equity Stories - QCOM, TSLA, DAL",
+        "content": "<ul><li>Qualcomm (QCOM) &ndash; The chipmaker posted security bonds amounting to EUR 1.34bln to enforce a permanent injunction against Apple (AAPL) iPhones in Germany. (Newswires)</li>\r\n  <li>Tesla (TSLA) - Jagur, owned by Tata Motors (TTM), has surpassed sales in Tesla&#39;s Model S and Model X. (Newswires)&nbsp;</li>\r\n  <li>Delta (DAL) &ndash; The airline reports December traffic +5.4% and capacity +5.4%. Sees Q4 Adj. pre-tax margin 10%-11%, sees Q4 revenue growth approximately 7% y/y, consensus USD 10.85bln. (Newswires)</li>\r\n  <li>CVS (CVS) &ndash; The co. sets its quarterly dividend at USD 0.50/shr. (Newswires)</li>\r\n  <li>MGM Resorts (MGM) - The co. announced a 2020 plan named the &quot;MGM 2020&quot; plan aimed at&nbsp;reducing costs, improving&nbsp;efficiency and encouraging&nbsp;growth; it is also to expand into New York and Ohio markets. (Newswires)&nbsp;</li>\r\n</ul>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "additional-us-equity-stories-qcom-tsla-dal-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-03 21:56:00",
+        "gmt_time": "2019-01-03 13:56:00"
+    },
+    {
+        "id": 689992,
+        "updated_sequence": 1114967,
+        "published_at": {
+            "unix": 1546523580,
+            "text": "2019-01-03 13:53:00 +0000",
+            "iso_8601": "2019-01-03T13:53:00Z"
+        },
+        "updated_at": {
+            "unix": 1546523759,
+            "text": "2019-01-03 13:55:59 +0000",
+            "iso_8601": "2019-01-03T13:55:59Z"
+        },
+        "subject": "RANsquawk Daily US Equity Opening News - 3rd January 2019",
+        "content": "<p>To download the report, please click <a href=\"/research_sheets/20849/download\">here</a><br />If you would like to subscribe to receive the research sheets directly in your inbox, you can now do so under the <a href=\"/research_sheets\">Research Suite</a> section of the portal.<br />To subscribe simply check the box next to &quot;Email these reports&quot; under the desired category.</p>\r\n\r\n<ul><li>Apple (AAPL) &ndash; The tech behemoth has lowered its Q1 revenue guidance to USD 84bln from USD 89bln-93bln vs. Exp. USD 91.49bln, citing weakness in emerging markets, in particular a slowdown in China and less iPhone upgrades. The stock dipped in excess of 8% lower in after-market trade, weighing down sentiment on the wider global tech sector as well as other luxury goods stocks; BestBuy (BBY) and Target (TGT) are both losing ground pre-market, others impacted include Skyworks Solutions (SWKS), Qorvo (QRVO), Broadcom (AVGO), Lumentum Holdings (LITE), Universal Display (OLED)</li>\r\n  <li>Bristol-Myers Squibb (BMY), Celgene (CELG) &ndash; Bristol-Myers to acquire Celgene for an equity value of USD 74bln; deal expected to be more than 40% accretive to EPS on standalone basis in first full year after the closing of the deal. Bristol-Myers expects to execute an accelerated share repurchase programme of around USD 5bln; sees 2019 Adj. EPS range USD 4.10-4.20 vs. Exp. USD 4.10, sees 2019 GAAP EPS range USD 3.75-USD 3.85. Note estimates do not include Celgene acquisition impact.</li>\r\n  <li>Amgen (AMGN) &ndash; Teva (TEVA) announced it will settle an ongoing dispute with the co. over a generic kidney disease drug, Cinacalcet HCl, by paying an undisclosed amount</li>\r\n</ul>\r\n\r\n<p>3rd January 2019</p>\r\n\r\n<p>DJIA</p>\r\n\r\n<ul><li>Apple (AAPL) &ndash; The tech behemoth has lowered its Q1 revenue guidance to USD 84bln from USD 89bln-93bln vs. Exp. USD 91.49bln, citing weakness in emerging markets, in particular a slowdown in China and less iPhone upgrades. The stock dipped in excess of 8% lower in after-market trade, weighing down sentiment on the wider global tech sector as well as other luxury goods stocks; BestBuy (BBY) and Target (TGT) are both losing ground pre-market, others impacted include Skyworks Solutions (SWKS), Qorvo (QRVO), Broadcom (AVGO), Lumentum Holdings (LITE), Universal Display (OLED). (Newswires)</li>\r\n  <li>Johnson &amp; Johnson (JNJ) &ndash; The personal products/pharma co. reported India sales were down by 3%; according to a SEC filing. (Newswires)</li>\r\n</ul>\r\n\r\n<p>S&amp;P500</p>\r\n\r\n<ul><li>Allergan (AGN) &ndash; The co. announced a new pharmacology research for rapastinel, for the treatment of depression disorders. (Newswires)</li>\r\n  <li>Bristol-Myers Squibb (BMY), Celgene (CELG) &ndash; Bristol-Myers to acquire Celgene for an equity value of USD 74bln; deal expected to be more than 40% accretive to EPS on standalone basis in first full year after the closing of the deal. Bristol-Myers expects to execute an accelerated share repurchase programme of around USD 5bln; sees 2019 Adj. EPS range USD 4.10-4.20 vs. Exp. USD 4.10, sees 2019 GAAP EPS range USD 3.75-USD 3.85. Note estimates do not include Celgene acquisition impact. &nbsp;(Newswires)</li>\r\n  <li>Coca-Cola (KO) &ndash; The beverage co. has received EU regulatory approval for its acquisition of the UK based Costa Coffee. (Newswires)</li>\r\n  <li>FedEx (FDX) &ndash; The shipping co. has abandoned plans to begin cargo flights to Cuba. (Newswires)</li>\r\n  <li>General Motors (GM) &ndash; The automaker&rsquo;s Q4 total deliveries declined by 2.7% to 785,229 vehicles. Separately, the co. appointed Mark Reuss as President. (Newswires)</li>\r\n  <li>Humana (HUM) &ndash; The co. is expected to reaffirm its 2018 full-year guidance Adj. EPS USD 14.40 at its meeting with investors, according to a SEC filing. (Newswires)</li>\r\n  <li>Incyte (INCY) &ndash; The co. appoints Christiana Stamoulis as CFO. (Newswires)</li>\r\n  <li>Nordstrom (JWN) &ndash; Co-President Blake Nordstrom, who was running the department store chain along with brothers Erik and Peter Nordstrom, died of cancer. (Newswires)</li>\r\n  <li>Welltower (WELL) &ndash; The healthcare REIT has acquired a portfolio of 55 medical buildings for USD 1.25bln. (Newswires)</li>\r\n</ul>\r\n\r\n<p>NASDAQ</p>\r\n\r\n<ul><li>Alexion Pharmaceutical (ALXN) &ndash; DBV Technologies (DBV) appoints Hugh Sampson CMO while Julie O&#39;Neill, previously Executive VP at Alexion, is to lead FDA resubmission. (Newswires)</li>\r\n  <li>Amgen (AMGN) &ndash; Teva (TEVA) announced it will settle an ongoing dispute with the co. over a generic kidney disease drug, Cinacalcet HCl, by paying an undisclosed amount. (Newswires)</li>\r\n  <li>Biogen (BIIB) &ndash; The pharma co. announced that the first patient has been enrolled in its Phase 3b study of its extended interval dosing for natalizumab in patients with multiple sclerosis. (Newswires)</li>\r\n  <li>Netflix (NFLX) &ndash; The streaming co. has stopped allowing Apple (AAPL) devices to subscribe via iTunes, meaning the co. will no longer pay Apple fees for new subscriptions. (BI)</li>\r\n  <li>Tesla (TSLA) &ndash; The electric automaker has not received EU &ldquo;homologation&rdquo; approval yet for sales of its Model 3, deliveries will start however in the region in February. Elsewhere, Deutsche Bank said the sell-off in the stock on Wednesday was justified. (LA Times/Newswires)</li>\r\n</ul>\r\n\r\n<p>OTHER NEWS</p>\r\n\r\n<ul><li>Barrick Gold (ARX) &ndash; The co. is considering options for its Acacia stake which include a potential sale amid a two-year tax dispute in Tanzania that has disrupted operations. (Newswires)</li>\r\n  <li>KKR (KKR) &ndash; The investment firm is investing USD 1bln in a partnership with Altavair AirFinance in a global portfolio of leased commercial aircraft. (Newswires)</li>\r\n  <li>Mellanox (MLNX) &ndash; The co. names Doug Ahrens as CFO. (Newswires)</li>\r\n  <li>Tribune Media (TRCO) &ndash; The co. has removed its TV station from Charter Communications channel Spectrum after the two failed to reach a new agreement. (Newswires)</li>\r\n</ul>\r\n\r\n<p>BROKER MOVES</p>\r\n\r\n<p>Upgrades</p>\r\n\r\n<ul><li>ALPHABET CLASS A (GOOGL) UPGRADED TO BUY FROM HOLD AT CANACCORD</li>\r\n  <li>ANTHEM (ANTM) UPGRADED TO OUTPERFORM FROM IN LINE AT EVERCORE ISI</li>\r\n  <li>APPLE (AAPL) UPGRADED TO NEUTRAL FROM REDUCE AT NEW STREET</li>\r\n  <li>BELDEN (BDC) UPGRADED TO BUY FROM NEUTRAL AT LONGBOW</li>\r\n  <li>CANADIAN NATIONAL (CNI) UPGRADED TO OVERWEIGHT FROM EQUAL WEIGHT AT STEPHENS</li>\r\n  <li>CHENIERE ENERGY (LNG) UPGRADED TO BUY FROM NEUTRAL AT GOLDMAN SACHS</li>\r\n  <li>CIGNA (CI) UPGRADED TO OUTPERFORM FROM MARKET PERFORM AT RAYMOND JAMES</li>\r\n  <li>CINTAS (CTAS) UPGRADED TO BUY FROM NEUTRAL AT BOFA/MERRILL</li>\r\n  <li>CREDIT ACCEPTANCE (CACC) UPGRADED TO EQUAL WEIGHT FROM UNDERWEIGHT AT STEPHENS</li>\r\n  <li>CROWN HOLDINGS (CCK) UPGRADED TO BUY FROM HOLD AT DEUTSCHE BANK</li>\r\n  <li>DISH (DISH) UPGRADED TO NEUTRAL FROM SELL AT MOFFETTNATHANSON</li>\r\n  <li>EMERSON (EMR) UPGRADED TO OUTPERFORM FROM NEUTRAL AT CREDIT SUISSE</li>\r\n  <li>FIRST REPUBLIC (FRC) UPGRADED TO OUTPERFORM FROM MARKET PERFORM AT WELLS FARGO</li>\r\n  <li>FIRST SOLAR (FSLR) UPGRADED TO BUY FROM NEUTRAL AT GOLDMAN SACHS</li>\r\n  <li>GILEAD (GILD) UPGRADED TO OUTPERFORM FROM PERFORM AT OPPENHEIMER</li>\r\n  <li>HONEYWELL (HON) UPGRADED TO OUTPERFORM FROM NEUTRAL AT CREDIT SUISSE</li>\r\n  <li>ILLUMINA (ILMN) UPGRADED TO BUY FROM NEUTRAL AT UBS</li>\r\n  <li>INCYTE (INCY) UPGRADED TO BUY FROM NEUTRAL AT GUGGENHEIM</li>\r\n  <li>KARYOPHARM (KPTI) UPGRADED TO NEUTRAL AT BOFA/MERRILL</li>\r\n  <li>PATTERSON COMPANIES (PDCO) UPGRADED TO IN LINE FROM UNDERPERFORM AT EVERCORE ISI</li>\r\n  <li>PLAINS ALL AMERICAN (PAA) UPGRADED TO BUY FROM NEUTRAL AT GOLDMAN SACHS</li>\r\n  <li>PLAINS GP HOLDINGS (PAGP) UPGRADED TO BUY FROM NEUTRAL AT GOLDMAN SACHS</li>\r\n  <li>Q2 HOLDINGS (QTWO) UPGRADED TO OVERWEIGHT FROM EQUAL WEIGHT AT STEPHENS</li>\r\n  <li>SEMGROUP (SEMG) UPGRADED TO NEUTRAL FROM SELL AT GOLDMAN SACHS</li>\r\n  <li>SUNOCO (SUN) UPGRADED TO NEUTRAL FROM SELL AT GOLDMAN SACHS</li>\r\n  <li>SYNCHRONY (SYF) UPGRADED TO EQUAL WEIGHT FROM UNDERWEIGHT AT STEPHENS</li>\r\n  <li>TCF FINANCIAL (TCF) UPGRADED TO OUTPERFORM FROM MARKET PERFORM AT WELLS FARGO</li>\r\n  <li>TEVA (TEVA) UPGRADED TWO NOTCHES TO BUY FROM UNDERPERFORM AT BOFA/MERRILL</li>\r\n  <li>WATERS (WAT) UPGRADED TO NEUTRAL FROM UNDERPERFORM AT BOFA/MERRILL</li>\r\n</ul>\r\n\r\n<p>Downgrades</p>\r\n\r\n<ul><li>ABBVIE (ABBV) DOWNGRADED TO NEUTRAL FROM BUY AT BOFA/MERRILL</li>\r\n  <li>ACI WORLDWIDE (ACIW) DOWNGRADED TO EQUAL WEIGHT FROM OVERWEIGHT AT STEPHENS</li>\r\n  <li>ALBEMARLE (ALB) DOWNGRADED TO HOLD FROM BUY AT BERENBERG</li>\r\n  <li>AMERICAN ELECTRIC (AEP) DOWNGRADED TO NEUTRAL FROM BUY AT MIZUHO</li>\r\n  <li>APPLE (AAPL) DOWNGRADED TO HOLD FROM BUY AT JEFFERIES</li>\r\n  <li>APPLE (AAPL) DOWNGRADED TO HOLD FROM BUY AT LOOP CAPITAL</li>\r\n  <li>APPLE (AAPL) DOWNGRADED TO NEUTRAL FROM OUTPERFORM AT MACQUARIE</li>\r\n  <li>BUCKEYE PARTNERS (BPL) DOWNGRADED TO SELL FROM NEUTRAL AT GOLDMAN SACHS</li>\r\n  <li>CBRE GROUP (CBRE) DOWNGRADED TO NEUTRAL FROM BUY AT BOFA/MERRILL</li>\r\n  <li>CEMIG (CIG) DOWNGRADED TO SELL FROM NEUTRAL AT GOLDMAN SACHS</li>\r\n  <li>FIRST DATA (FDC) DOWNGRADED TO EQUAL WEIGHT FROM OVERWEIGHT AT STEPHENS</li>\r\n  <li>GENESEE &amp; WYOMING (GWR) DOWNGRADED TO EQUAL WEIGHT FROM OVERWEIGHT AT STEPHENS</li>\r\n  <li>HENRY SCHEIN (HSIC) DOWNGRADED TO UNDERPERFORM FROM IN LINE AT EVERCORE ISI</li>\r\n  <li>INDUSTRIAL LOGISTICS PROPERTY TRUST (ILPT) DOWNGRADED TO UNDERPERFORM AT BOFA/MERRILL</li>\r\n  <li>JONES LANG LASALLE (JLL) DOWNGRADED TO UNDERPERFORM FROM BUY AT BOFA/MERRILL</li>\r\n  <li>LABCORP (LH) DOWNGRADED TO UNDERPERFORM FROM NEUTRAL AT BOFA/MERRILL</li>\r\n  <li>METTLER-TOLEDO (MTD) DOWNGRADED TO NEUTRAL FROM BUY AT BOFA/MERRILL</li>\r\n  <li>METTLER-TOLEDO (MTD) DOWNGRADED TO UNDERPERFORM FROM IN LINE AT EVERCORE ISI</li>\r\n  <li>NEWLINK GENETICS DOWNGRADED TO UNDERPERFORM AT BOFA/MERRILL</li>\r\n  <li>QUEST DIAGNOSTICS (DGX) DOWNGRADED TO UNDERPERFORM FROM NEUTRAL AT BOFA/MERRILL</li>\r\n  <li>RENT-A-CENTER (RCII) DOWNGRADED TO UNDERWEIGHT FROM EQUAL WEIGHT AT STEPHENS</li>\r\n  <li>ROBERT HALF (RHI) DOWNGRADED TO NEUTRAL FROM BUY AT BOFA/MERRILL</li>\r\n  <li>USA COMPRESSION (USAC) DOWNGRADED TO NEUTRAL FROM BUY AT UBS</li>\r\n</ul>\r\n\r\n<p>Initiations</p>\r\n\r\n<ul><li>ACADIA HEALTH (ACHC) RATED NEW HOLD AT DEUTSCHE BANK; PT USD 27</li>\r\n  <li>AGILENT (A) RATED NEW BUY AT NEEDHAM; PT USD 77</li>\r\n  <li>AMERICAN RENAL (ARA) RATED NEW HOLD AT DEUTSCHE BANK; PT USD 12</li>\r\n  <li>BRUKER (BRKR) RATED NEW STRONG BUY AT NEEDHAM; PT USD 39</li>\r\n  <li>CQP (CQP) RATED NEW NEUTRAL AT UBS; PT USD 38</li>\r\n  <li>CERIDIAN HCM (CDAY) RATED NEW BUY AT NEEDHAM; PT USD 40</li>\r\n  <li>CHENIERE ENERGY (LNG) RATED NEW BUY AT UBS</li>\r\n  <li>CISION LTD. (CISN) RATED NEW NEUTRAL AT GOLDMAN; PT USD 12</li>\r\n  <li>DAVITA (DVA) RATED NEW BUY AT DEUTSCHE BANK; PT USD 60</li>\r\n  <li>DANAHER (DHR) RATED NEW BUY AT NEEDHAM; PT USD 114</li>\r\n  <li>EDWARDS LIFE (EW) RATED NEW HOLD AT DEUTSCHE BANK</li>\r\n  <li>GENOMIC HEALTH (GHDX) RATED NEW STRONG BUY AT NEEDHAM; PT USD 86</li>\r\n  <li>HCA HEALTHCARE (HCA) RATED NEW HOLD AT DEUTSCHE BANK; PT USD 140</li>\r\n  <li>INTEGRA LIFESCIENCES (IART) RATED NEW BUY AT SUNTRUST; PT USD 56</li>\r\n  <li>MARTIN MARIETTA (MLM) RATED NEW BUY AT DEUTSCHE BANK</li>\r\n  <li>MEDNAX (MD) RATED NEW HOLD AT DEUTSCHE BANK; PT USD 34</li>\r\n  <li>MEDTRONIC (MDT) RATED NEW BUY AT DEUTSCHE BANK</li>\r\n  <li>MYRIAD GENETICS (MYGN) RATED NEW STRONG BUY AT NEEDHAM; PT USD 36</li>\r\n  <li>NEOGENOMICS (NEO) RATED NEW BUY AT NEEDHAM; PT USD 14</li>\r\n  <li>OPTIMIZERX (OPRX) RATED NEW OUTPERFORM AT WILLIAM BLAIR</li>\r\n  <li>PERKINELMER (PKI) RATED NEW HOLD AT NEEDHAM</li>\r\n  <li>STRYKER (SYK) RATED NEW BUY AT DEUTSCHE BANK</li>\r\n  <li>TENET (THC) RATED NEW HOLD AT DEUTSCHE BANK; PT USD 20</li>\r\n  <li>THERMO FISHER (TMO) RATED NEW STRONG BUY AT NEEDHAM; PT USD 271</li>\r\n  <li>UNITED TECHNOLOGIES (UTX) RESUMED AT CITI WITH NEUTRAL; PT USD 120</li>\r\n  <li>UNIVERSAL HEALTH (UHS) RATED NEW BUY AT DEUTSCHE BANK; PT USD 140</li>\r\n  <li>VULCAN MATERIALS (VMC) RATED NEW BUY AT DEUTSCHE BANK</li>\r\n  <li>WATERS (WAT) RATED NEW HOLD AT NEEDHAM</li>\r\n  <li>ZIMMER BIOMET (ZBH) RATED NEW HOLD AT DEUTSCHE BANK</li>\r\n</ul>\r\n\r\n<p>Ex-Dividends</p>\r\n\r\n<ul><li>American Express Co (AXP). Amount USD 0.39</li>\r\n  <li>Bristol-Myers Squibb Co (BMY). Amount USD 0.41</li>\r\n  <li>Brixmor Property Group Inc (BRX). Amount USD 0.28</li>\r\n  <li>Cisco Systems Inc (CSCO). Amount USD 0.33</li>\r\n  <li>Cleveland-Cliffs Inc (CLF). Amount USD 0.05</li>\r\n  <li>Cousins Properties Inc (CUZ). Amount USD 0.06</li>\r\n  <li>CVB Financial Corp (CVBF). Amount USD 0.14</li>\r\n  <li>DiamondRock Hospitality Co (DRH). Amount USD 0.12</li>\r\n  <li>Encore Wire Corp (WIRE). Amount USD 0.02</li>\r\n  <li>Flowserve Corp (FLS). Amount USD 0.19</li>\r\n  <li>JPMorgan Chase &amp; Co (JPM). Amount USD 0.80</li>\r\n  <li>Keurig Dr Pepper Inc (KDP). Amount USD 0.15</li>\r\n  <li>Morningstar Inc (MORN). Amount USD 0.28</li>\r\n  <li>NetApp Inc (NTAP). Amount USD 0.40</li>\r\n  <li>Royal Gold Inc (RGLD). Amount USD 0.26</li>\r\n  <li>Sun Hydraulics Corp (SNHY). Amount USD 0.09</li>\r\n  <li>Sysco Corp (SYY). Amount USD 0.39</li>\r\n  <li>Torchmark Corp (TMK). Amount USD 0.16</li>\r\n</ul>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "ransquawk-daily-us-equity-opening-news-3rd-january-2019-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-03 21:53:00",
+        "gmt_time": "2019-01-03 13:53:00"
+    },
+    {
+        "id": 689991,
+        "updated_sequence": 1114961,
+        "published_at": {
+            "unix": 1546522380,
+            "text": "2019-01-03 13:33:00 +0000",
+            "iso_8601": "2019-01-03T13:33:00Z"
+        },
+        "updated_at": {
+            "unix": 1546522446,
+            "text": "2019-01-03 13:34:06 +0000",
+            "iso_8601": "2019-01-03T13:34:06Z"
+        },
+        "subject": "US Secretary of State Pompeo says the US has warned Iran against missile launches ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-secretary-of-state-pompeo-says-the-us-has-warned-iran-against-missile-launches-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 23,
+            "name": "Geopolitical"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-03 21:33:00",
+        "gmt_time": "2019-01-03 13:33:00"
+    },
+    {
+        "id": 689985,
+        "updated_sequence": 1114931,
+        "published_at": {
+            "unix": 1546519260,
+            "text": "2019-01-03 12:41:00 +0000",
+            "iso_8601": "2019-01-03T12:41:00Z"
+        },
+        "updated_at": {
+            "unix": 1546519446,
+            "text": "2019-01-03 12:44:06 +0000",
+            "iso_8601": "2019-01-03T12:44:06Z"
+        },
+        "subject": "Scotia FX Daily - Flash Crash In USDJPY, JPY Crosses In Thin Trade",
+        "content": "<ul><li>USD broadly higher as risk assets weaken, JPY crosses plunge.</li>\r\n  <li>CAD consolidates within one week range as key drivers offer support.</li>\r\n  <li>EUR soft as EURJPY decline compounds soft undertone despite yield spreads.</li>\r\n  <li>GBP soft on cross flows as markets eye next week&rsquo;s Brexit debate.</li>\r\n  <li>JPY surges vs. USD to strongest since March in flash crash; still vulnerable.</li>\r\n  <li>AUD weighed down by AUDJPY collapse as domestic housing concerns climb.</li>\r\n  <li>MXN steady ahead of Banxico policy meeting minutes are released at 10ET.</li>\r\n</ul>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Scotiabank",
+        "slug": "scotia-fx-daily-flash-crash-in-usdjpy-jpy-crosses-in-thin-trade-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-03 20:41:00",
+        "gmt_time": "2019-01-03 12:41:00"
+    },
+    {
+        "id": 689984,
+        "updated_sequence": 1114926,
+        "published_at": {
+            "unix": 1546519140,
+            "text": "2019-01-03 12:39:00 +0000",
+            "iso_8601": "2019-01-03T12:39:00Z"
+        },
+        "updated_at": {
+            "unix": 1546519220,
+            "text": "2019-01-03 12:40:20 +0000",
+            "iso_8601": "2019-01-03T12:40:20Z"
+        },
+        "subject": "Fed's Kaplan (dove, non-voter) says the Fed should be ready to adjust balance sheet if required; Fed must be vigilant in monitoring balance sheet ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "fed-s-kaplan-dove-non-voter-says-the-fed-should-be-ready-to-adjust-balance-sheet-if-required-fed-must-be-vigilant-in-monitoring-balance-sheet-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 18,
+            "name": "Fed"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-03 20:39:00",
+        "gmt_time": "2019-01-03 12:39:00"
+    },
+    {
+        "id": 689983,
+        "updated_sequence": 1114938,
+        "published_at": {
+            "unix": 1546518720,
+            "text": "2019-01-03 12:32:00 +0000",
+            "iso_8601": "2019-01-03T12:32:00Z"
+        },
+        "updated_at": {
+            "unix": 1546519922,
+            "text": "2019-01-03 12:52:02 +0000",
+            "iso_8601": "2019-01-03T12:52:02Z"
+        },
+        "subject": "Fed's Kaplan (dove, non-voter) says markets are reacting to a deceleration in global growth; he favours no rate hikes in first couple of quarters this year",
+        "content": "<ul><li>He notes financial conditions have tightened</li>\r\n  <li>He says credit spreads have widened since October&nbsp;</li>\r\n  <li>Trade tensions have worsened and&nbsp;the US is unlikely to be immune to a growth slowdown in China&nbsp;</li>\r\n  <li>He says question of cutting rates has not crossed his mind</li>\r\n</ul>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "fed-s-kaplan-dove-non-voter-says-markets-are-reacting-to-a-deceleration-in-global-growth-he-favours-no-rate-hikes-in-first-couple-of-quarters-this-year-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 18,
+            "name": "Fed"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-03 20:32:00",
+        "gmt_time": "2019-01-03 12:32:00"
+    },
+    {
+        "id": 689982,
+        "updated_sequence": 1114916,
+        "published_at": {
+            "unix": 1546518720,
+            "text": "2019-01-03 12:32:00 +0000",
+            "iso_8601": "2019-01-03T12:32:00Z"
+        },
+        "updated_at": {
+            "unix": 1546518799,
+            "text": "2019-01-03 12:33:19 +0000",
+            "iso_8601": "2019-01-03T12:33:19Z"
+        },
+        "subject": "Airbus (AIR FP) has reached an USD 11bln deal with JetBlue and Moxy for the sale of A220 planes",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "airbus-air-fp-has-reached-an-usd-11bln-deal-with-jetblue-and-moxy-for-the-sale-of-a220-planes-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 33,
+            "name": "European Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-03 20:32:00",
+        "gmt_time": "2019-01-03 12:32:00"
+    },
+    {
+        "id": 689983,
+        "updated_sequence": 1114938,
+        "published_at": {
+            "unix": 1546518720,
+            "text": "2019-01-03 12:32:00 +0000",
+            "iso_8601": "2019-01-03T12:32:00Z"
+        },
+        "updated_at": {
+            "unix": 1546519922,
+            "text": "2019-01-03 12:52:02 +0000",
+            "iso_8601": "2019-01-03T12:52:02Z"
+        },
+        "subject": "Fed's Kaplan (dove, non-voter) says markets are reacting to a deceleration in global growth; he favours no rate hikes in first couple of quarters this year",
+        "content": "<ul><li>He notes financial conditions have tightened</li>\r\n  <li>He says credit spreads have widened since October&nbsp;</li>\r\n  <li>Trade tensions have worsened and&nbsp;the US is unlikely to be immune to a growth slowdown in China&nbsp;</li>\r\n  <li>He says question of cutting rates has not crossed his mind</li>\r\n</ul>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "fed-s-kaplan-dove-non-voter-says-markets-are-reacting-to-a-deceleration-in-global-growth-he-favours-no-rate-hikes-in-first-couple-of-quarters-this-year-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 18,
+            "name": "Fed"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-03 20:32:00",
+        "gmt_time": "2019-01-03 12:32:00"
+    },
+    {
+        "id": 689982,
+        "updated_sequence": 1114916,
+        "published_at": {
+            "unix": 1546518720,
+            "text": "2019-01-03 12:32:00 +0000",
+            "iso_8601": "2019-01-03T12:32:00Z"
+        },
+        "updated_at": {
+            "unix": 1546518799,
+            "text": "2019-01-03 12:33:19 +0000",
+            "iso_8601": "2019-01-03T12:33:19Z"
+        },
+        "subject": "Airbus (AIR FP) has reached an USD 11bln deal with JetBlue and Moxy for the sale of A220 planes",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "airbus-air-fp-has-reached-an-usd-11bln-deal-with-jetblue-and-moxy-for-the-sale-of-a220-planes-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 33,
+            "name": "European Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-03 20:32:00",
+        "gmt_time": "2019-01-03 12:32:00"
+    },
+    {
+        "id": 689980,
+        "updated_sequence": 1114910,
+        "published_at": {
+            "unix": 1546518240,
+            "text": "2019-01-03 12:24:00 +0000",
+            "iso_8601": "2019-01-03T12:24:00Z"
+        },
+        "updated_at": {
+            "unix": 1546518302,
+            "text": "2019-01-03 12:25:02 +0000",
+            "iso_8601": "2019-01-03T12:25:02Z"
+        },
+        "subject": "Qatar sets December Qatar marine crude price at USD 57.70/bbl and Qatar land crude at USD 58.45/bbl",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "qatar-sets-december-qatar-marine-crude-price-at-usd-57-70-bbl-and-qatar-land-crude-at-usd-58-45-bbl-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 20,
+            "name": "Commodities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-03 20:24:00",
+        "gmt_time": "2019-01-03 12:24:00"
+    },
+    {
+        "id": 689979,
+        "updated_sequence": 1114907,
+        "published_at": {
+            "unix": 1546517640,
+            "text": "2019-01-03 12:14:00 +0000",
+            "iso_8601": "2019-01-03T12:14:00Z"
+        },
+        "updated_at": {
+            "unix": 1546517759,
+            "text": "2019-01-03 12:15:59 +0000",
+            "iso_8601": "2019-01-03T12:15:59Z"
+        },
+        "subject": "General Motors (GM) Q4 total deliveries - 2.7% at 785.2k units",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "general-motors-gm-q4-total-deliveries-2-7-at-785-2k-units-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-03 20:14:00",
+        "gmt_time": "2019-01-03 12:14:00"
+    },
+    {
+        "id": 689978,
+        "updated_sequence": 1114904,
+        "published_at": {
+            "unix": 1546516800,
+            "text": "2019-01-03 12:00:00 +0000",
+            "iso_8601": "2019-01-03T12:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1546517277,
+            "text": "2019-01-03 12:07:57 +0000",
+            "iso_8601": "2019-01-03T12:07:57Z"
+        },
+        "subject": "Bristol Myers Squibb (BMY) to acquire Celgene (CELG) for approximately USD 74bln; deal expected to be more than 40% accretive to EPS on standalone basis in first full year after the closing of the deal",
+        "content": "<ul><li>Expects to execute an accelerated share repurchase programme of around USD 5bln</li>\r\n  <li>Expects around USD 2.5bln of run-rate cost synergies to be achieved by 2022</li>\r\n  <li>Sees 2019 Adj EPS range USD 4.10-4.20 vs. Exp. USD 4.10, sees 2019 GAAP EPS range&nbsp;USD 3.75-USD 3.85: note estimates do not include Celgene acquisition impact&nbsp;</li>\r\n</ul>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "bristol-myers-squibb-bmy-to-acquire-celgene-celg-for-approximately-usd-74bln-deal-expected-to-be-more-than-40-accretive-to-eps-on-standalone-basis-in-first-full-year-after-the-closing-of-the-deal-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-03 20:00:00",
+        "gmt_time": "2019-01-03 12:00:00"
+    },
+    {
+        "id": 689972,
+        "updated_sequence": 1114879,
+        "published_at": {
+            "unix": 1546516080,
+            "text": "2019-01-03 11:48:00 +0000",
+            "iso_8601": "2019-01-03T11:48:00Z"
+        },
+        "updated_at": {
+            "unix": 1546516428,
+            "text": "2019-01-03 11:53:48 +0000",
+            "iso_8601": "2019-01-03T11:53:48Z"
+        },
+        "subject": "Saudi Arabia sets February Arab light crude oil official selling price to Asia at plus USD 0.70/bbl vs. Oman/Dubai average up USD 0.10/bbl from January ",
+        "content": "<ul><li>Sets February Arab light crude oil OSP to North West Europe at&nbsp;minus USD 1.60/bbl to ice Brent unchanged from January&nbsp;</li>\r\n  <li>Sets February Arab light crude oil OSP to US at&nbsp;plus USD 3.05/bbl vs. ASCI up USD 0.15/bbl from January&nbsp;</li>\r\n</ul>\r\n\r\n<p><br /></p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "saudi-arabia-sets-february-arab-light-crude-oil-official-selling-price-to-asia-at-plus-usd-0-70-bbl-vs-oman-dubai-average-up-usd-0-10-bbl-from-january-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 20,
+            "name": "Commodities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-03 19:48:00",
+        "gmt_time": "2019-01-03 11:48:00"
+    },
+    {
+        "id": 689971,
+        "updated_sequence": 1114874,
+        "published_at": {
+            "unix": 1546515600,
+            "text": "2019-01-03 11:40:00 +0000",
+            "iso_8601": "2019-01-03T11:40:00Z"
+        },
+        "updated_at": {
+            "unix": 1546515780,
+            "text": "2019-01-03 11:43:00 +0000",
+            "iso_8601": "2019-01-03T11:43:00Z"
+        },
+        "subject": "Sainsbury's (SBRY LN) bank reportedly looking for a new CEO to replace Griffiths as according to Sky, as he aims to step down next year",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "sainsbury-s-sbry-ln-bank-reportedly-looking-for-a-new-ceo-to-replace-griffiths-as-according-to-sky-as-he-aims-to-step-down-next-year-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 33,
+            "name": "European Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-03 19:40:00",
+        "gmt_time": "2019-01-03 11:40:00"
+    },
+    {
+        "id": 689970,
+        "updated_sequence": 1114869,
+        "published_at": {
+            "unix": 1546514640,
+            "text": "2019-01-03 11:24:00 +0000",
+            "iso_8601": "2019-01-03T11:24:00Z"
+        },
+        "updated_at": {
+            "unix": 1546514683,
+            "text": "2019-01-03 11:24:43 +0000",
+            "iso_8601": "2019-01-03T11:24:43Z"
+        },
+        "subject": "RANsquawk Daily US Opening News - 3rd January 2019",
+        "content": "<p>To download the report, please click <a href=\"/research_sheets/20847/download\">here</a><br />If you would like to subscribe to receive the research sheets directly in your inbox, you can now do so under the <a href=\"/research_sheets\">Research Suite</a> section of the portal.<br />To subscribe simply check the box next to &quot;Email these reports&quot; under the desired category.</p>\r\n\r\n<ul><li>European equities are in the red with tech names dragged down by a Apple guidance cut</li>\r\n  <li>FX markets are in focus after the JPY &lsquo;flash crash&rsquo;</li>\r\n  <li>Looking ahead, highlights include US ADP, weekly jobs, construction spending, ISM manufacturing.</li>\r\n</ul>\r\n\r\n<p>ASIA</p>\r\n\r\n<p>Asia-Pac equities were mixed following the slide in US equity futures after tech-giant Apple fell in excess of 8% after-market following a cut to its Q1 2019 revenue guidance to USD 84.0bln, from previous guidance in the range of USD 89.0-93.0bln. ASX 200 (+1.4%) was lifted by the energy names and gold miners amid yesterday&rsquo;s spike higher in oil and the Apple-triggered bid in the yellow metal, meanwhile Nikkei 225 was closed again due to a public holiday. Elsewhere, Hang Seng (-0.3%) and Shanghai Comp. (unch) swung between gains and losses with the former weighed on by tech names as Apple suppliers ACC Technologies and Sunny Optical slumped over 5% after Apple&rsquo;s guidance cut. Meanwhile the Mainland was underpinned by financial names after reports that the PBoC may lower the RRR for banks that lend to small businesses. Of note: China CICC Research stated that the PBoC&rsquo;s RRR criteria easing could release up to CNY 400bln in liquidity.</p>\r\n\r\n<p>PBoC set CNY mid-point at 6.8631 (Prev. 6.6842) (Newswires)<br />PBoC drained a net CNY 90bln</p>\r\n\r\n<p>China is said to be considering a new package of measures to boost consumption. (Newswires)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\r\n\r\n<p>US</p>\r\n\r\n<p>US President Trump has asked congressional leaders to return for talks on Friday regarding government funding and border security; according to US Republican Representative McCarthy. (Newswires)</p>\r\n\r\n<p>US Senate Republican Leader McConnell said Senate will not consider the legislation that is expected to be presented by Democrats to end the government shutdown. (Newswires)</p>\r\n\r\n<p>US House Democratic Leader Pelosi said they are not willing to give any money for US President Trump&#39;s border wall. (Newswires)</p>\r\n\r\n<p>Apple (AAPL) cut its Q1 revenue guidance to USD 84.0bln vs. Exp. USD 91.3bln (Prev. guidance USD 89.0-93.0bln); citing weak China sales, emerging market challenges, and lower anticipated iPhone revenue. (Newswires)</p>\r\n\r\n<p>UK/EU</p>\r\n\r\n<p>UK PM May has been urged to delay the meaningful vote on her Brexit deal for a second time as government whips failed to persuade enough MPs to back it over the Christmas. (The Telegraph) As a reminder, the vote is currently scheduled for January 14th.</p>\r\n\r\n<p>UK PM May is to press EU leaders for Brexit concessions starting from today with the aim of gaining legally binding assurances that a so-called backstop plan will be time-limited. (FT)</p>\r\n\r\n<p>UK Brexit Minister Barclay says that the prospect of a &quot;no deal&quot; EU exit is far more likely if parliament rejects PM May&#39;s deal. (Newswires)</p>\r\n\r\n<p>UK Markit/CIPS Cons PMI (Dec) 52.8 vs. Exp. 52.9 (Prev. 53.4)</p>\r\n\r\n<p>GEOPOLITICAL</p>\r\n\r\n<p>US President Trump said he received a great letter from North Korea Leader Kim Jong Un; he added he has established a good relationship with him and never emphasized speed of denuclearisation. (Newswires)</p>\r\n\r\n<p>China said the two Canadian citizens are still detained and under probe for violating Chinese law. (Newswires)</p>\r\n\r\n<p>EQUITIES</p>\r\n\r\n<p>Major European equities are predominantly in the red [Euro Stoxx 50 -1.1%] with the SMI (+0.1%) outperforming its pears after returning from a market holiday. SMI index heavyweight UBS (+0.5%) are in the green following comments from their Chairman that now is not the right time for a merger; additionally, he expects to remain in office until 2022. The technology sector (-2.8%) is the underperforming sector with the likes of Dialog Semiconductor (-9.0%), STMicroelectronics (-9.4%), ASML (-5.1%) and Infineon (-5.4%) at the bottom of the Stoxx 600 following Apple cutting their Q1 revenue guidance. Other notable stories include Next (+5.2%) in the green after reporting their expected full year price sales growth of +3.2%, which is in line with September&rsquo;s guidance and thus avoids a profit warning for the Co. Adecco (-4.8%) are down after being downgraded at Credit Suisse. In addition, luxury names are in the red with the likes of Burberry (-4.8%) and Kering (-4.5%) weighed on by growth concerns in China exacerbated by the aforementioned Apple guidance cut.</p>\r\n\r\n<p>FX</p>\r\n\r\n<p>Price action in the FX space remains a key focus for investor sentiment amid the wild swings seen during Asia-Pac hours. To recap events, FX markets were rattled amid a surge in the JPY which saw the currency gain circa 8% vs. the AUD and 10% vs. TRY with analysts attributing the move to a multitude of factors including thin markets (Japan away from market again), Apple-inspired risk aversion (following revenue guidance cut) and Japanese retail investors liquidating offside positions.</p>\r\n\r\n<p>In terms of price action at the time, AUD/JPY plummeted from around 75.50 to a low print of 70.50, tripping several stops along the way. Shortly after the stops were taken-out, AUD/JPY pared back a bulk of the move and now trades in close proximity to the 75.00 handle. Elsewhere, at the time, USD/JPY slid sharply below 109.00 to briefly breach 105.00 before recovering to the mid 107.00&rsquo;s (note, given the velocity of the moves, various platforms have registered differing moves). AUD/USD declined further below 0.7000 to touch levels last seen a decade ago with a session low of 0.6743 before eventually recouping a 0.6900 handle.</p>\r\n\r\n<p>Aussie and Yen crosses reacted in tandem with the sharp swing, the Pound was hit as GBP/JPY fell through 137.00 to levels just shy of 131.50 and as such, Cable lost the 1.2600 handle and briefly clipped 1.2450 to reach 21-month lows before reclaiming 1.2550 with Lloyds noting pivotal resistance between 1.2590-1.2615 and suggesting that a move through this level would allow for &ldquo;a stronger recovery in the range under 1.2810-50&rdquo;. From a fundamental perspective, Brexit-related commentary has begun to pick-up as Mrs May returns to work ahead of Parliament reconvening on the 7th; latest reports suggest that the UK PM has been urged to delay the meaningful vote on her Brexit deal for a second time as government whips failed to persuade enough MPs to back it over the Christmas break.&nbsp;</p>\r\n\r\n<p>EUR has been slightly more resilient than some of its peers despite a blip lower in EUR/JPY which led EUR/USD to a session low of 1.1310 with the multi-bloc currency thereafter able to benefit from touted short-covering and a broadly softer USD (DXY currently trades just above 96.50 with losses of circa 0.2%). As such, EUR/USD now trades just above of 1.1350 after running out of steam at 1.1384.</p>\r\n\r\n<p>FIXED INCOME</p>\r\n\r\n<p>Core EU debt has reversed course since the risk-averse open to slowly but steadily creep into negative territory for the day as the market consolidates on little to no new catalysts. This comes after 10-year bund yields failed to break the over 2-year low of 0.148% in the early morning, with yield returning to trade above the 0.175% mark as of recent trade. Gilt traders derived little direction from the disappointing Construction PMI figures, with 10-year futures now well below the 124.00 key level, with a fresh Liffe base printed of 123.63.</p>\r\n\r\n<p>BTPs are the laggards in Europe and are further in negative territory for the day, with the Italian benchmark breaching the 127.41 Dec 28th low hitting a fresh session bottom of 127.07 and remain around this level.</p>\r\n\r\n<p>In the US we&rsquo;re seeing similar price action, with the majority of the moves once again in the long end post-Apple and a failed effort to stop the shutdown yesterday, with the next meeting scheduled for Friday. 10-years hit a session and contract pinnacle of 122-23 at the open before losing steam and consolidating around 122-13. Traders will now be looking out for further direction from tier-1 data releases later in the day in the form of Initial Jobless Claims, ADP and ISM&rsquo;s Manufacturing PMI alongside the 3, 10 and 30yr announcement.</p>\r\n\r\n<p>COMMODITIES&nbsp;</p>\r\n\r\n<p>Brent (unch.) and WTI (-0.2%) prices remain anchored as concerns over global growth and an oversupplied market continue to prevail; ahead of today&rsquo;s rescheduled API&rsquo;s (with EIA&rsquo;s tomorrow). Saudi Arabia are expected to cut February heavy crude prices for crude sold to Asia because of weaker fuel oil margins; as according to a Reuters survey. Elsewhere, Libya&rsquo;s NOC have said that the Sharara oil field was breached on Tuesday and output will be cut by 8.5k after operations restart for the main system.</p>\r\n\r\n<p>Gold (+0.2%) is in the green due to safe haven demand from the Apple-stemmed growth fears; with the yellow metal passing 6-month highs earlier in the session, although prices are around USD 4/oz off of the USD 1292/oz session highs. Elsewhere, copper prices are down succumbing to the negative risk sentiment.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "ransquawk-daily-us-opening-news-3rd-january-2019-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-03 19:24:00",
+        "gmt_time": "2019-01-03 11:24:00"
+    },
+    {
+        "id": 689969,
+        "updated_sequence": 1114864,
+        "published_at": {
+            "unix": 1546514520,
+            "text": "2019-01-03 11:22:00 +0000",
+            "iso_8601": "2019-01-03T11:22:00Z"
+        },
+        "updated_at": {
+            "unix": 1546514615,
+            "text": "2019-01-03 11:23:35 +0000",
+            "iso_8601": "2019-01-03T11:23:35Z"
+        },
+        "subject": "Jennifer Rankin of The Guardian tweets that an EU commission spokesperson has said that \"No further meetings are foreseen between the commission’s negotiators and the UK’s negotiators,as negotiations have concluded\"",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "jennifer-rankin-of-the-guardian-tweets-that-an-eu-commission-spokesperson-has-said-that-no-further-meetings-are-foreseen-between-the-commission-s-negotiators-and-the-uk-s-negotiators-as-negotiations-have-concluded-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 38,
+            "name": "Brexit"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-03 19:22:00",
+        "gmt_time": "2019-01-03 11:22:00"
+    },
+    {
+        "id": 689968,
+        "updated_sequence": 1114861,
+        "published_at": {
+            "unix": 1546514520,
+            "text": "2019-01-03 11:22:00 +0000",
+            "iso_8601": "2019-01-03T11:22:00Z"
+        },
+        "updated_at": {
+            "unix": 1546514596,
+            "text": "2019-01-03 11:23:16 +0000",
+            "iso_8601": "2019-01-03T11:23:16Z"
+        },
+        "subject": "Libya's oil exports have been suspended due to bad weather, as according to a shipping source",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "libya-s-oil-exports-have-been-suspended-due-to-bad-weather-as-according-to-a-shipping-source-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 20,
+            "name": "Commodities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-03 19:22:00",
+        "gmt_time": "2019-01-03 11:22:00"
+    },
+    {
+        "id": 689967,
+        "updated_sequence": 1114858,
+        "published_at": {
+            "unix": 1546513800,
+            "text": "2019-01-03 11:10:00 +0000",
+            "iso_8601": "2019-01-03T11:10:00Z"
+        },
+        "updated_at": {
+            "unix": 1546513878,
+            "text": "2019-01-03 11:11:18 +0000",
+            "iso_8601": "2019-01-03T11:11:18Z"
+        },
+        "subject": "Italy's Milazzo refinery has shut one of their two crude units due to bad weather as according to a spokesperson",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<p>Has a capacity of 200k BPD</p>\r\n",
+        "analysis_updated_at": {
+            "unix": 1546513878,
+            "text": "2019-01-03 11:11:18 +0000",
+            "iso_8601": "2019-01-03T11:11:18Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "italy-s-milazzo-refinery-has-shut-one-of-their-two-crude-units-due-to-bad-weather-as-according-to-a-spokesperson-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 20,
+            "name": "Commodities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-03 19:10:00",
+        "gmt_time": "2019-01-03 11:10:00"
+    },
+    {
+        "id": 689966,
+        "updated_sequence": 1114855,
+        "published_at": {
+            "unix": 1546512360,
+            "text": "2019-01-03 10:46:00 +0000",
+            "iso_8601": "2019-01-03T10:46:00Z"
+        },
+        "updated_at": {
+            "unix": 1546512405,
+            "text": "2019-01-03 10:46:45 +0000",
+            "iso_8601": "2019-01-03T10:46:45Z"
+        },
+        "subject": "RANsquawk EU Mid Session - 3rd January 2019",
+        "content": "<p>To download the report, please click <a href=\"/research_sheets/20846/download\">here</a><br />If you would like to subscribe to receive the research sheets directly in your inbox, you can now do so under the <a href=\"/research_sheets\">Research Suite</a> section of the portal.<br />To subscribe simply check the box next to &quot;Email these reports&quot; under the desired category.</p>\r\n\r\n<p>EU MID-SESSION UPDATE: European tech names plummet after Apple cuts guidance</p>\r\n\r\n<p>EQUITIES</p>\r\n\r\n<p>Major European equities are predominantly in the red [Euro Stoxx 50 -0.9%] with the SMI (+0.1%) outperforming its pears after returning from a market holiday. SMI index heavyweight UBS (+0.5%) are in the green following comments from their Chairman that now is not the right time for a merger; additionally, he expects to remain in office until 2022. The technology sector (-2.8%) is the underperforming sector with the likes of Dialog Semiconductor (-9.0%), STMicroelectronics (-9.0%), ASML (-5.3%) and Infineon (-5.2%) at the bottom of the Stoxx 600 following Apple cutting their Q1 revenue guidance. Other notable stories include Next (+5.8%) in the green after reporting their expected full year price sales growth of +3.2%, which is in line with September&rsquo;s guidance and thus avoids a profit warning for the Co. Adecco (-5.0%) are down after being downgraded at Credit Suisse. In addition, luxury names are in the red with the likes of Burberry (-4.5%) and Kering (-4.0%) weighed on by growth concerns in China exacerbated by the aforementioned Apple guidance cut.</p>\r\n\r\n<p>FX</p>\r\n\r\n<p>Price action in the FX space remains a key focus for investor sentiment amid the wild swings seen during Asia-Pac hours. To recap events, FX markets were rattled amid a surge in the JPY which saw the currency gain circa 8% vs. the AUD and 10% vs. TRY with analysts attributing the move to a multitude of factors including thin markets (Japan away from market again), Apple-inspired risk aversion (following revenue guidance cut) and Japanese retail investors liquidating offside positions.</p>\r\n\r\n<p>In terms of price action at the time, AUD/JPY plummeted from around 75.50 to a low print of 70.50, tripping several stops along the way. Shortly after the stops were taken-out, AUD/JPY pared back a bulk of the move and now trades in close proximity to the 75.00 handle. Elsewhere, at the time, USD/JPY slid sharply below 109.00 to briefly breach 105.00 before recovering to the mid 107.00&rsquo;s (note, given the velocity of the moves, various platforms have registered differing moves). AUD/USD declined further below 0.7000 to touch levels last seen a decade ago with a session low of 0.6743 before eventually recouping a 0.6900 handle.</p>\r\n\r\n<p>Aussie and Yen crosses reacted in tandem with the sharp swing, the Pound was hit as GBP/JPY fell through 137.00 to levels just shy of 131.50 and as such, Cable lost the 1.2600 handle and briefly clipped 1.2450 to reach 21-month lows before reclaiming 1.2550 with Lloyds noting pivotal resistance between 1.2590-1.2615 and suggesting that a move through this level would allow for &ldquo;a stronger recovery in the range under 1.2810-50&rdquo;. From a fundamental perspective, Brexit-related commentary has begun to pick-up as Mrs May returns to work ahead of Parliament reconvening on the 7th; latest reports suggest that the UK PM has been urged to delay the meaningful vote on her Brexit deal for a second time as government whips failed to persuade enough MPs to back it over the Christmas break.&nbsp;</p>\r\n\r\n<p>EUR has been slightly more resilient than some of its peers despite a blip lower in EUR/JPY which led EUR/USD to a session low of 1.1310 with the multi-bloc currency thereafter able to benefit from touted short-covering and a broadly softer USD (DXY currently trades just above 96.50 with losses of circa 0.37%). As such, EUR/USD now trades around 30 pips shy of 1.1400 where 1bln in expiries are due to roll-off at the NY cut.</p>\r\n\r\n<p>FIXED INCOME</p>\r\n\r\n<p>Core EU debt has reversed course since the risk-averse open to slowly but steadily creep into negative territory for the day as the market consolidates on little to no new catalysts. This comes after 10-year bund yields failed to break the over 2-year low of 0.148% in the early morning, with yield returning to trade above the 0.175% mark as of recent trade. Gilt traders derived little direction from the disappointing Construction PMI figures, with 10-year futures now well below the 124.00 key level, with a fresh Liffe base printed of 123.63.</p>\r\n\r\n<p>BTPs are the laggards in Europe and are further in negative territory for the day, with the Italian benchmark breaching the 127.41 Dec 28th low hitting a fresh session bottom of 127.32 before reverting to trade around the 127.41 area.</p>\r\n\r\n<p>In the US we&rsquo;re seeing similar price action, with the majority of the moves once again in the long end post-Apple and a failed effort to stop the shutdown yesterday, with the next meeting scheduled for Friday. 10-years hit a session and contract pinnacle of 122-23 at the open before losing steam and consolidating around 122-13. Traders will now be looking out for further direction from tier-1 data releases later in the day in the form of Initial Jobless Claims, ADP and ISM&rsquo;s Manufacturing PMI alongside the 3, 10 and 30yr announcement.</p>\r\n\r\n<p>COMMODITIES&nbsp;</p>\r\n\r\n<p>Brent (-0.2%) and WTI (-0.9%) prices are down as concerns over global growth and an oversupplied market continue to prevail; ahead of today&rsquo;s rescheduled API&rsquo;s (with EIA&rsquo;s tomorrow). Saudi Arabia are expected to cut February heavy crude prices for crude sold to Asia because of weaker fuel oil margins; as according to a Reuters survey. Elsewhere, Libya&rsquo;s NOC have said that the Sharara oil field was breached on Tuesday and output will be cut by 8.5k after operations restart for the main system.</p>\r\n\r\n<p>Gold (+0.3%) is in the green due to safe haven demand from the Apple-stemmed growth fears; with the yellow metal passing 6-month highs earlier in the session, although prices are around USD 4/oz off of the USD 1292/oz session highs. Elsewhere, copper prices are down succumbing to the negative risk sentiment.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "ransquawk-eu-mid-session-3rd-january-2019-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-03 18:46:00",
+        "gmt_time": "2019-01-03 10:46:00"
+    },
+    {
+        "id": 689965,
+        "updated_sequence": 1114852,
+        "published_at": {
+            "unix": 1546511940,
+            "text": "2019-01-03 10:39:00 +0000",
+            "iso_8601": "2019-01-03T10:39:00Z"
+        },
+        "updated_at": {
+            "unix": 1546511959,
+            "text": "2019-01-03 10:39:19 +0000",
+            "iso_8601": "2019-01-03T10:39:19Z"
+        },
+        "subject": "Fixed Income Update: Core EU debt corrects amid light EU newsflow",
+        "content": "<p>Core EU debt has reversed course since the risk-averse open to slowly but steadily creep into negative territory for the day as the market consolidates on little to no new catalysts. This comes after 10-year bund yields failed to break the over 2-year low of 0.148% in the early morning, with yield returning to trade above the 0.175% mark as of recent trade. Gilt traders derived little direction from the disappointing Construction PMI figures, with 10-year futures now well below the 124.00 key level, with a fresh Liffe base printed of 123.63.</p>\r\n\r\n<p>BTPs are the laggards in Europe and are further in negative territory for the day, with the Italian benchmark breaching the 127.41 Dec 28th low hitting a fresh session bottom of 127.32 before reverting to trade around the 127.41 area.</p>\r\n\r\n<p>In the US we&rsquo;re seeing similar price action, with the majority of the moves once again in the long end post-Apple and a failed effort to stop the shutdown yesterday, with the next meeting scheduled for Friday. 10-years hit a session and contract pinnacle of 122-23 at the open before losing steam and consolidating around 122-13. Traders will now be looking out for further direction from tier-1 data releases later in the day in the form of Initial Jobless Claims, ADP and ISM&rsquo;s Manufacturing PMI alongside the 3, 10 and 30yr announcement.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "fixed-income-update-core-eu-debt-corrects-amid-light-eu-newsflow-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-03 18:39:00",
+        "gmt_time": "2019-01-03 10:39:00"
+    },
+    {
+        "id": 689964,
+        "updated_sequence": 1114849,
+        "published_at": {
+            "unix": 1546509120,
+            "text": "2019-01-03 09:52:00 +0000",
+            "iso_8601": "2019-01-03T09:52:00Z"
+        },
+        "updated_at": {
+            "unix": 1546510242,
+            "text": "2019-01-03 10:10:42 +0000",
+            "iso_8601": "2019-01-03T10:10:42Z"
+        },
+        "subject": "Spain sells EUR 4.537bln vs. Exp. EUR 4-5bln 0.05% 2021, 0.35% 2023, 1.4% 2028 and EUR 0.5bln vs. Exp. EUR 0.25-0.75bln 0.7% 2033 I/L Auction ",
+        "content": "<p>- Sells EUR 1.195bln 0.05% 2021 with a b/c 2.26 (prev. b/c 3.65) and average yield -0.039% (Prev. 0.021%)&nbsp;</p>\r\n\r\n<p>- Sells EUR 1.345bln 0.35% 2023 with a b/c 1.75 (prev. b/c 1.65) and average yield 0.329% (Prev. 0.412%)&nbsp;</p>\r\n\r\n<p>- Sells EUR 1.997bln 1.4% 2028 with a b/c 1.27 (prev. b/c 1.93) and average yield 1.402% (Prev. 1.456%)&nbsp;</p>\r\n\r\n<p>- Sells EUR 0.5bln 0.7% 2033 I/L with a b/c 2.94 and average yield 0.752%</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "spain-sells-eur-4-537bln-vs-exp-eur-4-5bln-0-05-2021-0-35-2023-1-4-2028-and-eur-0-5bln-vs-exp-eur-0-25-0-75bln-0-7-2033-i-l-auction-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 21,
+            "name": "Fixed Income"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-03 17:52:00",
+        "gmt_time": "2019-01-03 09:52:00"
+    },
+    {
+        "id": 689962,
+        "updated_sequence": 1114839,
+        "published_at": {
+            "unix": 1546509000,
+            "text": "2019-01-03 09:50:00 +0000",
+            "iso_8601": "2019-01-03T09:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1546509045,
+            "text": "2019-01-03 09:50:45 +0000",
+            "iso_8601": "2019-01-03T09:50:45Z"
+        },
+        "subject": "ECB allot USD 76mln in their 6-day operation",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "ecb-allot-usd-76mln-in-their-6-day-operation-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 17,
+            "name": "ECB"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-03 17:50:00",
+        "gmt_time": "2019-01-03 09:50:00"
+    },
+    {
+        "id": 689960,
+        "updated_sequence": 1114828,
+        "published_at": {
+            "unix": 1546507500,
+            "text": "2019-01-03 09:25:00 +0000",
+            "iso_8601": "2019-01-03T09:25:00Z"
+        },
+        "updated_at": {
+            "unix": 1546507555,
+            "text": "2019-01-03 09:25:55 +0000",
+            "iso_8601": "2019-01-03T09:25:55Z"
+        },
+        "subject": "FX morning colour: JPY remains king as markets remain thin",
+        "content": "<p>Price action in the FX space remains a key focus for investor sentiment amid the wild swings seen during Asia-Pac hours. To recap events, FX markets were rattled amid a surge in the JPY which saw the currency gain circa 8% vs. the AUD and 10% vs. TRY with analysts attributing the move to a multitude of factors including thin markets (Japan away from market again), Apple-inspired risk aversion (following revenue guidance cut) and Japanese retail investors liquidating offside positions.</p>\r\n\r\n<p>In terms of price action at the time, AUD/JPY plummeted from around 75.50 to a low print of 70.50, tripping several stops along the way. Shortly after the stops were taken-out, AUD/JPY pared back a bulk of the move and manged to retain its status on a 75.00 handle. Elsewhere, at the time, USD/JPY slid sharply below 109.00 to briefly breach 105.00 before recovering to the high 107.00&rsquo;s (note, given the velocity of the moves, various platforms have registered differing moves). AUD/USD declined further below 0.7000 to touch levels last seen a decade ago with a session low of 0.6743 before eventually recouping a 0.6900 handle.</p>\r\n\r\n<p>Aussie and Yen crosses reacted in tandem with the sharp swing, the Pound was hit as GBP/JPY fell through 137.00 to levels just shy of 131.50 and as such, Cable lost the 1.2600 handle and briefly clipped 1.2450 to reach 21-month lows before reclaiming 1.2550 with Lloyds noting pivotal resistance between 1.2590-1.2615 and suggesting that a move through this level would allow for &ldquo;a stronger recovery in the range under 1.2810-50&rdquo;. From a fundamental perspective, Brexit-related commentary has begun to pick-up as Mrs May returns to work ahead of Parliament reconvening on the 7th; latest reports suggest that the UK PM has been urged to delay the meaningful vote on her Brexit deal for a second time as government whips failed to persuade enough MPs to back it over the Christmas break. &nbsp;</p>\r\n\r\n<p>EUR has been slightly more resilient than some of its peers despite a blip lower in EUR/JPY which led EUR/USD to a session low of 1.1310 with the multi-bloc currency thereafter able to benefit from touted short-covering and a broadly softer USD (DXY currently trades just above 96.50 with losses of circa 0.37%). As such, EUR/USD now trades around 20 pips shy of 1.1400 where 1bln in expiries are due to roll-off at the NY cut.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "fx-morning-colour-jpy-remains-king-as-markets-remain-thin-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-03 17:25:00",
+        "gmt_time": "2019-01-03 09:25:00"
+    },
+    {
+        "id": 689856,
+        "updated_sequence": 1114807,
+        "published_at": {
+            "unix": 1546506000,
+            "text": "2019-01-03 09:00:00 +0000",
+            "iso_8601": "2019-01-03T09:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1546506000,
+            "text": "2019-01-03 09:00:00 +0000",
+            "iso_8601": "2019-01-03T09:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE HAS NOW FINISHED, PLEASE REVERT BACK TO YOUR ORIGINAL CHANNEL FOR COVERAGE ON THE UK & EUROPEAN SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-has-now-finished-please-revert-back-to-your-original-channel-for-coverage-on-the-uk-european-session-02-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-03 17:00:00",
+        "gmt_time": "2019-01-03 09:00:00"
+    },
+    {
+        "id": 689953,
+        "updated_sequence": 1114805,
+        "published_at": {
+            "unix": 1546505280,
+            "text": "2019-01-03 08:48:00 +0000",
+            "iso_8601": "2019-01-03T08:48:00Z"
+        },
+        "updated_at": {
+            "unix": 1546505351,
+            "text": "2019-01-03 08:49:11 +0000",
+            "iso_8601": "2019-01-03T08:49:11Z"
+        },
+        "subject": "Infineon (IFX GY) Co are confident that they will reach their 2019 margin target of 11%",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "infineon-ifx-gy-co-are-confident-that-they-will-reach-their-2019-margin-target-of-11-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 33,
+            "name": "European Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-03 16:48:00",
+        "gmt_time": "2019-01-03 08:48:00"
+    },
+    {
+        "id": 689952,
+        "updated_sequence": 1114802,
+        "published_at": {
+            "unix": 1546504200,
+            "text": "2019-01-03 08:30:00 +0000",
+            "iso_8601": "2019-01-03T08:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1546504262,
+            "text": "2019-01-03 08:31:02 +0000",
+            "iso_8601": "2019-01-03T08:31:02Z"
+        },
+        "subject": "Fixed Income: One bad Apple spoils the bunch",
+        "content": "<p>From bad to worse on the sentiment standpoint after Apple&rsquo;s downgrade last night, which has led to core EU debt once again starting the day higher. 10-year Bund yields once again touched the over 2-year lows of 0.148% briefly in early morning trade before recovering some composure to hover around 0.16% with futures hanging around the 164.80 area. Gilts opened higher by about 30 ticks and have settled just below the 124.00 area with the UK benchmark once again eyeing the Dec 12th high of 124.28 as resistance. Investors&nbsp; are also keeping an ear out for Brexit developments amid suggestions the Brexit parliamentary vote may once again be delayed as PM May has failed to drum up enough support for her deal over Christmas. BTPs are also conforming to the risk tone, with the Italian 10-year down by about 40 ticks from yesterdays close of 128.30 and have broken the big figure of 128.00 with focus set on the 127.41 level next.</p>\r\n\r\n<p>In the US we&rsquo;re seeing similar risk-off moves, with the majority of the action once again in the long end post-Apple and a failed effort to stop the shutdown yesterday, with the next meeting scheduled for Friday. 10-years hit a pinnacle of 122-23 at the open before losing steam and settling around 122-15. Traders will now be looking out for further direction from tier-1 data releases later in the day in the form of Initial Jobless Claims, ADP and ISM&rsquo;s Manufacturing PMI.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "fixed-income-one-bad-apple-spoils-the-bunch-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-03 16:30:00",
+        "gmt_time": "2019-01-03 08:30:00"
+    },
+    {
+        "id": 689949,
+        "updated_sequence": 1114793,
+        "published_at": {
+            "unix": 1546502880,
+            "text": "2019-01-03 08:08:00 +0000",
+            "iso_8601": "2019-01-03T08:08:00Z"
+        },
+        "updated_at": {
+            "unix": 1546502942,
+            "text": "2019-01-03 08:09:02 +0000",
+            "iso_8601": "2019-01-03T08:09:02Z"
+        },
+        "subject": "Kuwait has stopped port operations temporarily because of bad weather, as according to Kuna",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "kuwait-has-stopped-port-operations-temporarily-because-of-bad-weather-as-according-to-kuna-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 20,
+            "name": "Commodities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-03 16:08:00",
+        "gmt_time": "2019-01-03 08:08:00"
+    },
+    {
+        "id": 689948,
+        "updated_sequence": 1114790,
+        "published_at": {
+            "unix": 1546502760,
+            "text": "2019-01-03 08:06:00 +0000",
+            "iso_8601": "2019-01-03T08:06:00Z"
+        },
+        "updated_at": {
+            "unix": 1546502814,
+            "text": "2019-01-03 08:06:54 +0000",
+            "iso_8601": "2019-01-03T08:06:54Z"
+        },
+        "subject": "European equity movers this morning: Next (NXT LN) +7.0%; AMS (AMS SW) -9.0%; Dialog Semiconductor (DLG GY) -7.2%; Adecco (ADEN SW) -4.0%; Infineon (IFX GY) -4.5%; STMicroelectronics (STM FP) -3.6%",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": true,
+        "source": "RANsquawk",
+        "slug": "european-equity-movers-this-morning-next-nxt-ln-7-0-ams-ams-sw-9-0-dialog-semiconductor-dlg-gy-7-2-adecco-aden-sw-4-0-infineon-ifx-gy-4-5-stmicroelectronics-stm-fp-3-6-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 33,
+            "name": "European Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-03 16:06:00",
+        "gmt_time": "2019-01-03 08:06:00"
+    },
+    {
+        "id": 689947,
+        "updated_sequence": 1114787,
+        "published_at": {
+            "unix": 1546502700,
+            "text": "2019-01-03 08:05:00 +0000",
+            "iso_8601": "2019-01-03T08:05:00Z"
+        },
+        "updated_at": {
+            "unix": 1546502798,
+            "text": "2019-01-03 08:06:38 +0000",
+            "iso_8601": "2019-01-03T08:06:38Z"
+        },
+        "subject": "UK Brexit Minister Barclay says that the prospect of a \"no deal\" EU exit is far more likely if parliament rejects PM May's deal",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "uk-brexit-minister-barclay-says-that-the-prospect-of-a-no-deal-eu-exit-is-far-more-likely-if-parliament-rejects-pm-may-s-deal-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 38,
+            "name": "Brexit"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-03 16:05:00",
+        "gmt_time": "2019-01-03 08:05:00"
+    },
+    {
+        "id": 689946,
+        "updated_sequence": 1114784,
+        "published_at": {
+            "unix": 1546501500,
+            "text": "2019-01-03 07:45:00 +0000",
+            "iso_8601": "2019-01-03T07:45:00Z"
+        },
+        "updated_at": {
+            "unix": 1546501690,
+            "text": "2019-01-03 07:48:10 +0000",
+            "iso_8601": "2019-01-03T07:48:10Z"
+        },
+        "subject": "Option expiries of note for today's NY cut",
+        "content": "<ul><li>EUR/USD: 1.1315-30 (595M), 1.1375-85 (862M),<strong> 1.1400 (1BLN)</strong></li>\r\n  <li>GBP/USD: 1.2400 (403M), 1.2655 (350M),</li>\r\n  <li>AUD/USD: 0.7005 (258M), 0.7030 (557M)</li>\r\n  <li>NZD/USD: 0.6750 (357M)</li>\r\n  <li>USD/JPY: 108.00 (750M), 108.75 (480M), 109.00 (250M), 109.65-70 (757M)</li>\r\n</ul>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "option-expiries-of-note-for-today-s-ny-cut-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 22,
+            "name": "FX Flows"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-03 15:45:00",
+        "gmt_time": "2019-01-03 07:45:00"
+    },
+    {
+        "id": 689945,
+        "updated_sequence": 1114779,
+        "published_at": {
+            "unix": 1546499100,
+            "text": "2019-01-03 07:05:00 +0000",
+            "iso_8601": "2019-01-03T07:05:00Z"
+        },
+        "updated_at": {
+            "unix": 1546499926,
+            "text": "2019-01-03 07:18:46 +0000",
+            "iso_8601": "2019-01-03T07:18:46Z"
+        },
+        "subject": "Additional European equity stories post the release of the Daily European equity opening news",
+        "content": "<p>Next (NXT LN) &ndash; for full year expect full price sales growth of +3.2% vs. Prev view.&nbsp;+3.0%, in line with September guidance. EPS guidance is +4.4% on the previous year, vs. Prev view. +5%. Co states that uncertainty around performance of UK economy after Brexit makes forecasting particularly challenging. (Newswires)</p>\r\n\r\n<p>RyanAir (RYA LN) -&nbsp;December traffic increased by 12% to 10.3M customers, and total December load factor at&nbsp;95%. (Newswires)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "additional-european-equity-stories-post-the-release-of-the-daily-european-equity-opening-news-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 33,
+            "name": "European Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-03 15:05:00",
+        "gmt_time": "2019-01-03 07:05:00"
+    },
+    {
+        "id": 689941,
+        "updated_sequence": 1114762,
+        "published_at": {
+            "unix": 1546498740,
+            "text": "2019-01-03 06:59:00 +0000",
+            "iso_8601": "2019-01-03T06:59:00Z"
+        },
+        "updated_at": {
+            "unix": 1546498824,
+            "text": "2019-01-03 07:00:24 +0000",
+            "iso_8601": "2019-01-03T07:00:24Z"
+        },
+        "subject": "Libya's NOC says that the Sharara oil field was breached on Tuesday and output is to be cut by 8.5k even after the main system restarts operations",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "libya-s-noc-says-that-the-sharara-oil-field-was-breached-on-tuesday-and-output-is-to-be-cut-by-8-5k-even-after-the-main-system-restarts-operations-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 20,
+            "name": "Commodities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-03 14:59:00",
+        "gmt_time": "2019-01-03 06:59:00"
+    },
+    {
+        "id": 689938,
+        "updated_sequence": 1114753,
+        "published_at": {
+            "unix": 1546498080,
+            "text": "2019-01-03 06:48:00 +0000",
+            "iso_8601": "2019-01-03T06:48:00Z"
+        },
+        "updated_at": {
+            "unix": 1546498193,
+            "text": "2019-01-03 06:49:53 +0000",
+            "iso_8601": "2019-01-03T06:49:53Z"
+        },
+        "subject": "DAILY EUROPEAN EQUITY OPENING NEWS",
+        "content": "<p>**EUROPEAN EQUITY COVERAGE WILL ONLY COVER COMPANIES IN THE STOXX 600 OR COMPANIES OF SYSTEMIC IMPORTANCE TO PARTICULAR SECTORS**</p>\r\n\r\n<p>3rd January 2019</p>\r\n\r\n<p>The Daily European Equity Opening News is uploaded at 0700GMT/0100CST recapping all of the overnight equity news</p>\r\n\r\n<p>From 0700GMT/0100CST all equity news will be covered in real time over the audio and headline feed and the full audio rundown will be at 0715GMT/0115CST.</p>\r\n\r\n<p>There will be an additional audio rundown at 0750GMT/0150CST recapping any company news which has hit the wires since 0715GMT/0115CST ahead of the European equity open</p>\r\n\r\n<p>ASIA</p>\r\n\r\n<p>Asia-Pac equities were mixed following the slide in US equity futures after tech-giant Apple fell in excess of 8% after-market following a cut to its Q1 2019 revenue guidance to USD 84.0bln, from previous guidance in the range of USD 89.0-93.0bln. ASX 200 (+1.4%) was lifted by the energy names and gold miners amid yesterday&rsquo;s spike higher in oil and the Apple-triggered bid in the yellow metal, meanwhile Nikkei 225 was closed again due to a public holiday. Elsewhere, Hang Seng (-0.7%) and Shanghai Comp. (unch) swung between gains and losses with the former weighed on by tech names as Apple suppliers ACC Technologies and Sunny Optical slumped over 5% after Apple&rsquo;s guidance cut. Meanwhile the Mainland was underpinned by financial names after reports that the PBoC may lower the RRR for banks that lend to small businesses. Of note: China CICC Research stated that the PBoC&rsquo;s RRR criteria easing could release up to CNY 400bln in liquidity.</p>\r\n\r\n<p>FTSE</p>\r\n\r\n<p>EX-DIVS: Auto Trader Group (AUTO LN), British Land Company (BLND LN) and Experian Plc (EXPN LN) will trade without entitlement to their latest dividend pay-out on Thursday, trimming 0.7 points off the FTSE 100</p>\r\n\r\n<p>OTHER UK COMPANIES</p>\r\n\r\n<p>RyanAir (RYA LN) &ndash; Co. are to meet with unions in Spain ahead of planned strike action, according to sources. (Newswires)</p>\r\n\r\n<p>BROKER MOVES</p>\r\n\r\n<p>DAX</p>\r\n\r\n<p>OTHER GERMAN COMPANIES</p>\r\n\r\n<p>United Internet (UTDI GY), Freenet (FNTN GY) &ndash; Multiple telecom and internet companies are suing Germany&rsquo;s federal network agency to challenge the legality of preconditions for participating in the next generation frequency auction in Germany; according to Tagesspiegel and Handelsblatt. (Newswires)</p>\r\n\r\n<p>BROKER MOVES</p>\r\n\r\n<p>CAC</p>\r\n\r\n<p>Vinci (DG FP) &ndash; Co. has signed a EUR 200mln share repurchase agreement with an investment services provider. (Newswires)</p>\r\n\r\n<p>OTHER FRENCH COMPANIES</p>\r\n\r\n<p>BROKER MOVES</p>\r\n\r\n<p>PAN EUROPE</p>\r\n\r\n<p>Fiat Chrysler (FCA IM) &ndash; Italian car sales increased by 1.96% in December, decreased 3.11% in 2018. (Newswires)</p>\r\n\r\n<p>Caixabank (CABK SM) &ndash; Co. has reportedly asked unions to hold discussions on job reductions. (Newswires)</p>\r\n\r\n<p>Apple Suppliers &ndash; Apple cut their Q1 revenue guidance to USD 84.0bln vs. Exp. USD 91.3bln. Shares in the Co fell by over 8% after market. (Newswires) As a guide; Dialog Semiconductor (DLG GY) are called lower by 5.7% pre-market according to Lang &amp; Schwarz.</p>\r\n\r\n<p>BROKER MOVES</p>\r\n\r\n<p>RANDSTAD (RAND NA) DOWNGRADED TO NEUTRAL FROM OUTPERFORM AT CREDIT SUISSE</p>\r\n\r\n<p>SMI</p>\r\n\r\n<p>UBS (UBSG SW) &ndash; Co&rsquo;s Chairman Weber says that a merger with another bank, regardless of which one would be too soon at this point. Weber adds that he can imagine staying in office until 2022. (Newswires)</p>\r\n\r\n<p>OTHER SWISS COMPANIES</p>\r\n\r\n<p>BROKER MOVES</p>\r\n\r\n<p>ADECCO (ADEN SW) &ndash; DOWNGRADED TO UNDEPERFORM FROM NEUTRAL AT CREDIT SUISSE</p>\r\n\r\n<p>SCANDINAVIA</p>\r\n\r\n<p>BROKER MOVES</p>\r\n\r\n<p>US</p>\r\n\r\n<p>SPX +0.12% at 2509, NDX +0.49% at 6360, DJI +0.08% at 23345.&nbsp;SECTORS: Energy +2.07%, Materials +0.46%, Industrials +0.44%, Cons Discretionary +0.93%, Cons Staples -0.43%, Healthcare -1.35%, Financials +0.74%, Tech +0.07%, Telecoms +1.25%, Utilities -1.77%. &nbsp;</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "daily-european-equity-opening-news-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 33,
+            "name": "European Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-03 14:48:00",
+        "gmt_time": "2019-01-03 06:48:00"
+    },
+    {
+        "id": 689937,
+        "updated_sequence": 1114750,
+        "published_at": {
+            "unix": 1546496580,
+            "text": "2019-01-03 06:23:00 +0000",
+            "iso_8601": "2019-01-03T06:23:00Z"
+        },
+        "updated_at": {
+            "unix": 1546496613,
+            "text": "2019-01-03 06:23:33 +0000",
+            "iso_8601": "2019-01-03T06:23:33Z"
+        },
+        "subject": "RANsquawk Daily European Opening News - 3rd January 2019 ",
+        "content": "<p>To download the report, please click <a href=\"/research_sheets/20843/download\">here</a><br />If you would like to subscribe to receive the research sheets directly in your inbox, you can now do so under the <a href=\"/research_sheets\">Research Suite</a> section of the portal.<br />To subscribe simply check the box next to &quot;Email these reports&quot; under the desired category.</p>\r\n\r\n<ul><li>Asia-Pac equities were mixed following the slide in US equity futures after tech-giant Apple fell in excess of 8% after-market following a cut in guidance</li>\r\n  <li>An overnight surge in JPY rattled FX markets with AUD/JPY plummeting from around 75.50 to a low print of 70.50 amid thin trade and global growth fears</li>\r\n  <li>Looking ahead, highlights include US ADP, weekly jobs, construction spending, ISM manufacturing, supply from Spain</li>\r\n</ul>\r\n\r\n<p>ASIA-PAC</p>\r\n\r\n<p>Asia-Pac equities were mixed following the slide in US equity futures after tech-giant Apple fell in excess of 8% after-market following a cut to its Q1 2019 revenue guidance to USD 84.0bln, from previous guidance in the range of USD 89.0-93.0bln. ASX 200 (+1.4%) was lifted by the energy names and gold miners amid yesterday&rsquo;s spike higher in oil and the Apple-triggered bid in the yellow metal, meanwhile Nikkei 225 was closed again due to a public holiday. Elsewhere, Hang Seng (-0.7%) and Shanghai Comp. (unch) swung between gains and losses with the former weighed on by tech names as Apple suppliers ACC Technologies and Sunny Optical slumped over 5% after Apple&rsquo;s guidance cut. Meanwhile the Mainland was underpinned by financial names after reports that the PBoC may lower the RRR for banks that lend to small businesses. Of note: China CICC Research stated that the PBoC&rsquo;s RRR criteria easing could release up to CNY 400bln in liquidity.</p>\r\n\r\n<p>PBoC set CNY mid-point at 6.8631 (Prev. 6.6842) (Newswires)<br />PBoC drained a net CNY 90bln</p>\r\n\r\n<p>US President Trump said that trade negotiations with China are coming along very well and &ldquo;we&#39;ll see what happens&rdquo;. (Newswires)</p>\r\n\r\n<p>China is said to be considering a new package of measures to boost consumption. (Newswires)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\r\n\r\n<p>UK/EU</p>\r\n\r\n<p>UK PM May has been urged to delay the meaningful vote on her Brexit deal for a second time as government whips failed to persuade enough MPs to back it over the Christmas. (The Telegraph) As a reminder, the vote is currently scheduled for January 14th.</p>\r\n\r\n<p>UK PM May is to press EU leaders for Brexit concessions starting from today with the aim of gaining legally binding assurances that a so-called backstop plan will be time-limited. (FT)</p>\r\n\r\n<p>Labour leader Corbyn will defy calls to alter the course of the party&rsquo;s Brexit policy ahead of parliament&rsquo;s meaningful vote, insisting that the government should secure a new deal with the EU if MPs reject Theresa May&rsquo;s agreement. (Guardian)</p>\r\n\r\n<p>UK Chambers of Commerce said services sales growth in Q4 2018 was at a two-year low. (Newswires)</p>\r\n\r\n<p>French President Macron&#39;s Head of Communications is reportedly resigning; according to French Press. (Newswires)</p>\r\n\r\n<p>FX</p>\r\n\r\n<p>FX markets were rattled in thin liquidity amid fresh global growth fears after Apple cut its Q1 revenue forecast, citing weaker Chinese sales. This spurred safe-haven demand into the JPY while simultaneously pressuring the trade-sensitive AUD, hence AUD/JPY plummeted from around 75.50 to a low print of 70.50, tripping several stops along the way which led to an algo-triggered flash-crash. Shortly after the stops were taken-out, AUD/JPY pared back a bulk of the move and stabilised just under 74.50. Furthermore, USD/JPY slid sharply below 109.00 to test 105.00 at one point, while AUD/USD declined further below 0.7000 to touch levels last seen a decade ago. The pairs then recouped some losses to trade just above 107.00 and 0.6930 respectively throughout most of the session.</p>\r\n\r\n<p>Meanwhile, Aussie and Yen crosses reacted in tandem with the sharp swing, the Pound was hit as GBP/JPY fell through 137.00 to levels just shy of 131.50 and as such, Cable lost the 1.2600 handle and briefly clipped 1.2450 before recovering to around 1.2550. Elsewhere, the NZD initially popped higher as the AUD/NZD cross briefly reached parity, however, gains in the Kiwi were short-lived as the currency conformed to the risk-averse tone and moved lower in sympathy to its antipodean counterpart. Finally, amidst all the above, the Dollar index declined further below 97.000 and tested 96.500 to the downside ahead of the psychological 96.000 level and its 100 DMA at 95.987.</p>\r\n\r\n<p>COMMODITIES</p>\r\n\r\n<p>WTI futures declined by almost a dollar per barrel overnight as renewed slowing global growth fears sent the benchmark back below USD 46.00/bbl, ahead of the holiday-delayed API inventory release later today. Elsewhere, gold was bid amid safe-haven demand alongside a weaker greenback as the yellow metal climbed higher to test USD 1290/oz to the upside, while copper underperformed and fell victim to the soured risk sentiment. &nbsp;<br />&nbsp;</p>\r\n\r\n<p>GEOPOLITICAL</p>\r\n\r\n<p>US President Trump said he received a great letter from North Korea Leader Kim Jong Un; he added he has established a good relationship with him and never emphasized speed of denuclearisation. (Newswires)</p>\r\n\r\n<p>China said the two Canadian citizens are still detained and under probe for violating Chinese law. (Newswires)</p>\r\n\r\n<p>US</p>\r\n\r\n<p>The Treasury complex was bid overnight after Apple&rsquo;s guidance cut (citing weaker Chinese sales) gave further fuel to the notion of slowing global economic momentum. This comes following some selling emerged in the prior session after US equities stabilised after the open, and the risk mood became more constructive. By yesterday&rsquo;s close, the short-end of the curve was a touch negative, while longer-dated yields were lower by around 5bps; the result was a flatter yield curve on the first trading day of the year. * US T-NOTE FUTURES (H19) SETTLE 5+ HIGHER AT 122-06.</p>\r\n\r\n<p>Congressional leaders failed to strike a deal to end the partial US government shutdown. US President Trump has asked the leaders to return for negotiations on Friday regarding government funding and border security; according to US Republican Representative McCarthy. (Newswires)</p>\r\n\r\n<p>US President Trump when asked if he would accept a government funding deal with less than USD 5bln for a wall, said that the figure is a very small amount. The President later tweeted that he remains ready to work with Democrats. Regarding the recent stock rout, US President Trump said there was a glitch in the stock market last month, but it has a long way to go and will go up once trade deals are settled. (Newswires)</p>\r\n\r\n<p>US Senate Republican Leader McConnell said Senate will not consider the legislation that is expected to be presented by Democrats to end the government shutdown. (Newswires)</p>\r\n\r\n<p>US House Democratic Leader Pelosi said they are not willing to give any money for US President Trump&#39;s border wall. (Newswires)</p>\r\n\r\n<p>Apple (AAPL) cut its Q1 revenue guidance to USD 84.0bln vs. Exp. USD 91.3bln (Prev. guidance USD 89.0-93.0bln); citing weak China sales, emerging market challenges, and lower anticipated iPhone revenue. (Newswires)</p>\r\n\r\n<p><br />&nbsp;</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "ransquawk-daily-european-opening-news-3rd-january-2019-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-03 14:23:00",
+        "gmt_time": "2019-01-03 06:23:00"
+    },
+    {
+        "id": 689936,
+        "updated_sequence": 1114747,
+        "published_at": {
+            "unix": 1546495260,
+            "text": "2019-01-03 06:01:00 +0000",
+            "iso_8601": "2019-01-03T06:01:00Z"
+        },
+        "updated_at": {
+            "unix": 1546495343,
+            "text": "2019-01-03 06:02:23 +0000",
+            "iso_8601": "2019-01-03T06:02:23Z"
+        },
+        "subject": "ASIA-PAC MARKET WRAP: Mixed trade for stocks as FX recovers from flash-crash",
+        "content": "<p>Asia-Pac equities were mixed following the slide in US equity futures after tech-giant Apple fell in excess of 8% after-market following a cut to its Q1 2019 revenue guidance to USD 84.0bln, from previous guidance in the range of USD 89.0-93.0bln. ASX 200 (+1.4%) was lifted by the energy names and gold miners amid yesterday&rsquo;s spike higher in oil and the Apple-triggered bid in the yellow metal, meanwhile Nikkei 225 was closed due to a public holiday. Elsewhere, Hang Seng (-1.0%) and Shanghai Comp. (-0.1%) swung between gains and losses with the former weighed on by tech names as Apple suppliers ACC Technologies and Sunny Optical slumped over 5% after Apple&rsquo;s guidance cut. Meanwhile the Mainland was underpinned by financial names after reports that the PBoC may lower the RRR for banks that lend to small businesses. Of note: China CICC Research stated that the PBoC&rsquo;s RRR criteria easing could release up to CNY 400bln in liquidity.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-market-wrap-mixed-trade-for-stocks-as-fx-recovers-from-flash-crash-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-03 14:01:00",
+        "gmt_time": "2019-01-03 06:01:00"
+    },
+    {
+        "id": 689935,
+        "updated_sequence": 1114744,
+        "published_at": {
+            "unix": 1546495140,
+            "text": "2019-01-03 05:59:00 +0000",
+            "iso_8601": "2019-01-03T05:59:00Z"
+        },
+        "updated_at": {
+            "unix": 1546495234,
+            "text": "2019-01-03 06:00:34 +0000",
+            "iso_8601": "2019-01-03T06:00:34Z"
+        },
+        "subject": "Italy's 2019 budget will be under strict EU surveillance for six months; according to Il Sole",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Il Sole",
+        "slug": "italy-s-2019-budget-will-be-under-strict-eu-surveillance-for-six-months-according-to-il-sole-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-03 13:59:00",
+        "gmt_time": "2019-01-03 05:59:00"
+    },
+    {
+        "id": 689934,
+        "updated_sequence": 1114741,
+        "published_at": {
+            "unix": 1546491660,
+            "text": "2019-01-03 05:01:00 +0000",
+            "iso_8601": "2019-01-03T05:01:00Z"
+        },
+        "updated_at": {
+            "unix": 1546491757,
+            "text": "2019-01-03 05:02:37 +0000",
+            "iso_8601": "2019-01-03T05:02:37Z"
+        },
+        "subject": "BoK Governor Lee says concerns are rising regarding global economic slowdown",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "bok-governor-lee-says-concerns-are-rising-regarding-global-economic-slowdown-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 8,
+            "name": "Other Central Banks"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-03 13:01:00",
+        "gmt_time": "2019-01-03 05:01:00"
+    },
+    {
+        "id": 689933,
+        "updated_sequence": 1114738,
+        "published_at": {
+            "unix": 1546490700,
+            "text": "2019-01-03 04:45:00 +0000",
+            "iso_8601": "2019-01-03T04:45:00Z"
+        },
+        "updated_at": {
+            "unix": 1546490773,
+            "text": "2019-01-03 04:46:13 +0000",
+            "iso_8601": "2019-01-03T04:46:13Z"
+        },
+        "subject": "French President Macron's Head of Communications is reportedly resigning; according to French Press",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "french-president-macron-s-head-of-communications-is-reportedly-resigning-according-to-french-press-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-03 12:45:00",
+        "gmt_time": "2019-01-03 04:45:00"
+    },
+    {
+        "id": 689932,
+        "updated_sequence": 1114735,
+        "published_at": {
+            "unix": 1546485960,
+            "text": "2019-01-03 03:26:00 +0000",
+            "iso_8601": "2019-01-03T03:26:00Z"
+        },
+        "updated_at": {
+            "unix": 1546486072,
+            "text": "2019-01-03 03:27:52 +0000",
+            "iso_8601": "2019-01-03T03:27:52Z"
+        },
+        "subject": "PRE-MARKET INDIA STOCK NEWS: Bank of India (BOI IS) has approved plans to raise funds through equity and bonds. (Newswires)",
+        "content": "<p><strong>STOCKS</strong></p>\r\n\r\n<p>Bank of India (BOI IS)<br />- Co. has approved plans to raise funds through equity and bonds. (Newswires)</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Dena (DBNK IS)/ Vijaya Bank (VJYBK IS)<br />- Traders expect the shares of both Co.&rsquo;s to fall as investors sell the stocks to adjust them to the value of the swap ratio. (ET)</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>SBI Life (SBIUMID IS)<br />- Co. has entered into a tie-up with Syndicate Bank wherein the state-run lender will be selling its policies. (ET)</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Syndicate Bank (SNDB IS)<br />- Co. said it would raise up to INR 5bln by issuing shares to its employees under the employee stock purchase scheme. (ET)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-india-stock-news-bank-of-india-boi-is-has-approved-plans-to-raise-funds-through-equity-and-bonds-newswires-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-03 11:26:00",
+        "gmt_time": "2019-01-03 03:26:00"
+    },
+    {
+        "id": 689931,
+        "updated_sequence": 1114732,
+        "published_at": {
+            "unix": 1546485900,
+            "text": "2019-01-03 03:25:00 +0000",
+            "iso_8601": "2019-01-03T03:25:00Z"
+        },
+        "updated_at": {
+            "unix": 1546485949,
+            "text": "2019-01-03 03:25:49 +0000",
+            "iso_8601": "2019-01-03T03:25:49Z"
+        },
+        "subject": "China says the two Canadian citizens are still detained and under probe for violating Chinese law",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "china-says-the-two-canadian-citizens-are-still-detained-and-under-probe-for-violating-chinese-law-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 23,
+            "name": "Geopolitical"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-03 11:25:00",
+        "gmt_time": "2019-01-03 03:25:00"
+    },
+    {
+        "id": 689930,
+        "updated_sequence": 1114727,
+        "published_at": {
+            "unix": 1546482720,
+            "text": "2019-01-03 02:32:00 +0000",
+            "iso_8601": "2019-01-03T02:32:00Z"
+        },
+        "updated_at": {
+            "unix": 1546482806,
+            "text": "2019-01-03 02:33:26 +0000",
+            "iso_8601": "2019-01-03T02:33:26Z"
+        },
+        "subject": "ASIA-PAC MID-SESSION UPDATE: Apple-triggered global growth fears fade as stocks turn green ",
+        "content": "<p>Asia-Pac equities are mostly higher despite the slide in US equity futures after tech-giant Apple cut its Q1 2019 revenue guidance to USD 84.0bln from previous guidance in the range of USD 89.0-93.0bln. ASX 200 (+1.3%) is lifted by the energy names and gold miners amid yesterday&rsquo;s spike higher in oil and the Apple-triggered bid in the yellow metal, meanwhile Nikkei 225 is closed due to a public holiday. Elsewhere, Hang Seng (+0.1%) and Shanghai Comp. (+0.7%) erased opening losses with the former led by property stocks while the latter is lifted by financial names, after reports that the PBoC may lower the RRR rate for banks that lend to small businesses. Of note, China CICC Research stated that the PBoC&rsquo;s RRR criteria easing may release up to CNY 400bln in liquidity.</p>\r\n\r\n<p>FX markets were rattled amid fresh global growth fears after Apple cut its Q1 revenue guidance citing weaker Chinese sales. This spurred safe-haven demand into the JPY while simultaneously pressuring the trade-sensitive AUD, thus leading to the demise of AUD/JPY as the pair plummeted from around 75.50 to a low print of 70.50, tripping several stops along the way to result in a flash-crash. Shortly after the stops were completed, AUD/JPY pared back a bulk of the move and stabilised around 74.50. Furthermore, USD/JPY slid sharply below 109.00 to test 105.00 at one point, while AUD/USD declined further below 0.7000 to touch levels last seen a decade ago. The pairs then recouped most of the losses to trade around 107.50 and 0.6930 respectively.</p>\r\n\r\n<p>Meanwhile, Aussie and Yen crosses reacted in tandem with the sharp swing, the Pound was hit as GBP/JPY fell through 137.00 to levels just shy of 131.50 and as such, Cable lost the 1.2600 handle and briefly clipped 1.2450 before recovering to around 1.2550. Elsewhere, the NZD initially popped higher as the AUD/NZD cross briefly reached parity, however, gains in the Kiwi were short-lived as the currency conformed to the risk tone and moved lower in sympathy with its antipodean counterpart. Finally, amidst all the above, the DXY briefly breached 96.500 to the downside before trading in a relatively tight range above the level.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-mid-session-update-apple-triggered-global-growth-fears-fade-as-stocks-turn-green-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-03 10:32:00",
+        "gmt_time": "2019-01-03 02:32:00"
+    },
+    {
+        "id": 689929,
+        "updated_sequence": 1114724,
+        "published_at": {
+            "unix": 1546478760,
+            "text": "2019-01-03 01:26:00 +0000",
+            "iso_8601": "2019-01-03T01:26:00Z"
+        },
+        "updated_at": {
+            "unix": 1546478803,
+            "text": "2019-01-03 01:26:43 +0000",
+            "iso_8601": "2019-01-03T01:26:43Z"
+        },
+        "subject": "South Korean Finance Minister says the country will attempt to reach USD 700bln in exports this year",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Yonhap",
+        "slug": "south-korean-finance-minister-says-the-country-will-attempt-to-reach-usd-700bln-in-exports-this-year-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-03 09:26:00",
+        "gmt_time": "2019-01-03 01:26:00"
+    },
+    {
+        "id": 689928,
+        "updated_sequence": 1114721,
+        "published_at": {
+            "unix": 1546478160,
+            "text": "2019-01-03 01:16:00 +0000",
+            "iso_8601": "2019-01-03T01:16:00Z"
+        },
+        "updated_at": {
+            "unix": 1546478210,
+            "text": "2019-01-03 01:16:50 +0000",
+            "iso_8601": "2019-01-03T01:16:50Z"
+        },
+        "subject": "PBoC drains a net CNY 90bln",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pboc-drains-a-net-cny-90bln-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 15,
+            "name": "PBoC"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-03 09:16:00",
+        "gmt_time": "2019-01-03 01:16:00"
+    },
+    {
+        "id": 689927,
+        "updated_sequence": 1114718,
+        "published_at": {
+            "unix": 1546478100,
+            "text": "2019-01-03 01:15:00 +0000",
+            "iso_8601": "2019-01-03T01:15:00Z"
+        },
+        "updated_at": {
+            "unix": 1546478178,
+            "text": "2019-01-03 01:16:18 +0000",
+            "iso_8601": "2019-01-03T01:16:18Z"
+        },
+        "subject": "PBoC sets CNY mid-point at 6.8631 (Prev. 6.6842)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pboc-sets-cny-mid-point-at-6-8631-prev-6-6842-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 15,
+            "name": "PBoC"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-03 09:15:00",
+        "gmt_time": "2019-01-03 01:15:00"
+    },
+    {
+        "id": 689926,
+        "updated_sequence": 1114715,
+        "published_at": {
+            "unix": 1546477260,
+            "text": "2019-01-03 01:01:00 +0000",
+            "iso_8601": "2019-01-03T01:01:00Z"
+        },
+        "updated_at": {
+            "unix": 1546477413,
+            "text": "2019-01-03 01:03:33 +0000",
+            "iso_8601": "2019-01-03T01:03:33Z"
+        },
+        "subject": "PRE-MARKET CHINESE  STOCK NEWS: - China are considering a new package of measures to boost consumption. (Newswires)",
+        "content": "<p><strong>STOCKS</strong></p>\r\n\r\n<p>Apple suppliers<br />- Apple cut Q1 revenue guidance to USD 84.0bln vs. Exp. USD 91.3bln (Prev. guidance USD 89.0-93.0bln); citing emerging market challenges, weak China sales and lower anticipated iPhone revenue</p>\r\n\r\n<p>China Southern Airlines (1055 HK)<br />- Qatar Airways acquired a 5% stake in the company. (Newswires)</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>OTHER NEWS</strong></p>\r\n\r\n<p>- US President Trump said that trade negotiations with China are coming along very well and we&#39;ll see what happens. (Newswires)</p>\r\n\r\n<p>- China CICC research notes that the PBoC&rsquo;s RRR criteria easing may release up to CNY 400bln in liquidity. (Newswires)</p>\r\n\r\n<p>- China are considering a new package of measures to boost consumption. (Newswires)</p>\r\n\r\n<p>- China are to upgrade comprehensive bonded zones into new platforms of high-standard opening-up. (Xinhua)</p>\r\n\r\n<p>- China&#39;s real estate market is expected to grow at a steady pace after the high-speed development of recent years, according to industry data. (China Econ)</p>\r\n\r\n<p>- Chinese economists remain positive on China&rsquo;s 2019 economy. (Xinhua)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "pre-market-chinese-stock-news-china-are-considering-a-new-package-of-measures-to-boost-consumption-newswires-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-03 09:01:00",
+        "gmt_time": "2019-01-03 01:01:00"
+    },
+    {
+        "id": 689925,
+        "updated_sequence": 1114712,
+        "published_at": {
+            "unix": 1546475280,
+            "text": "2019-01-03 00:28:00 +0000",
+            "iso_8601": "2019-01-03T00:28:00Z"
+        },
+        "updated_at": {
+            "unix": 1546475335,
+            "text": "2019-01-03 00:28:55 +0000",
+            "iso_8601": "2019-01-03T00:28:55Z"
+        },
+        "subject": "US Senate Republican Leader McConnell says Senate will not consider the legislation that is expected to be presented by Democrats to end the government shutdown",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-senate-republican-leader-mcconnell-says-senate-will-not-consider-the-legislation-that-is-expected-to-be-presented-by-democrats-to-end-the-government-shutdown-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-03 08:28:00",
+        "gmt_time": "2019-01-03 00:28:00"
+    },
+    {
+        "id": 689924,
+        "updated_sequence": 1114709,
+        "published_at": {
+            "unix": 1546475100,
+            "text": "2019-01-03 00:25:00 +0000",
+            "iso_8601": "2019-01-03T00:25:00Z"
+        },
+        "updated_at": {
+            "unix": 1546475148,
+            "text": "2019-01-03 00:25:48 +0000",
+            "iso_8601": "2019-01-03T00:25:48Z"
+        },
+        "subject": "PRE-MARKET TAIWAN AND SINGAPORE STOCK NEWS: Taiwanese President Tsai has rejected China’s stance of “one country, two systems”,",
+        "content": "<p><strong>Taiwan</strong></p>\r\n\r\n<p>- Taiwanese President Tsai has rejected China&rsquo;s stance of &ldquo;one country, two systems&rdquo;, adding that talks should be conducted between the two countries and Taiwan is willing to have orderly exchange. (Newswires)</p>\r\n\r\n<p>- Chinese President Xi said China will leave &ldquo;no space&rdquo; for Taiwan independence activities and China is willing to talk and communicate with Taiwan. (Newswires)</p>\r\n\r\n<p>- 2018 car sales -2.1% Y/Y (Yonhap)</p>\r\n\r\n<p><strong>Singapore</strong></p>\r\n\r\n<p>No notable news</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "pre-market-taiwan-and-singapore-stock-news-taiwanese-president-tsai-has-rejected-china-s-stance-of-one-country-two-systems-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-03 08:25:00",
+        "gmt_time": "2019-01-03 00:25:00"
+    },
+    {
+        "id": 689923,
+        "updated_sequence": 1114706,
+        "published_at": {
+            "unix": 1546474080,
+            "text": "2019-01-03 00:08:00 +0000",
+            "iso_8601": "2019-01-03T00:08:00Z"
+        },
+        "updated_at": {
+            "unix": 1546474194,
+            "text": "2019-01-03 00:09:54 +0000",
+            "iso_8601": "2019-01-03T00:09:54Z"
+        },
+        "subject": "US President Trump tweets \"...I remain ready and willing to work with Democrats to pass a bill that secures our borders, supports the agents and officers on the ground, and keeps America Safe. Let’s get it done!\"",
+        "content": "<ul><li><a href=\"https://twitter.com/realDonaldTrump/status/1080616637932421121\">Click here for the tweet</a></li>\r\n</ul>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>This comes after&nbsp;US President Trump asked congressional leaders to return for talks on Friday regarding government funding and border security</li>\r\n</ul>\r\n",
+        "analysis_updated_at": {
+            "unix": 1546474194,
+            "text": "2019-01-03 00:09:54 +0000",
+            "iso_8601": "2019-01-03T00:09:54Z"
+        },
+        "push_notify": false,
+        "source": "Twitter",
+        "slug": "us-president-trump-tweets-i-remain-ready-and-willing-to-work-with-democrats-to-pass-a-bill-that-secures-our-borders-supports-the-agents-and-officers-on-the-ground-and-keeps-america-safe-let-s-get-it-done-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-03 08:08:00",
+        "gmt_time": "2019-01-03 00:08:00"
+    },
+    {
+        "id": 689922,
+        "updated_sequence": 1114700,
+        "published_at": {
+            "unix": 1546473720,
+            "text": "2019-01-03 00:02:00 +0000",
+            "iso_8601": "2019-01-03T00:02:00Z"
+        },
+        "updated_at": {
+            "unix": 1546473769,
+            "text": "2019-01-03 00:02:49 +0000",
+            "iso_8601": "2019-01-03T00:02:49Z"
+        },
+        "subject": "UK Chambers of Commerce says services sales growth in Q4 2018 was at a two-year low",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "uk-chambers-of-commerce-says-services-sales-growth-in-q4-2018-was-at-a-two-year-low-03-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-03 08:02:00",
+        "gmt_time": "2019-01-03 00:02:00"
+    }
+]

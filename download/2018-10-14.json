@@ -1,0 +1,614 @@
+[
+    {
+        "id": 678245,
+        "updated_sequence": 1066681,
+        "published_at": {
+            "unix": 1539561360,
+            "text": "2018-10-15 00:56:00 +0100",
+            "iso_8601": "2018-10-14T23:56:00Z"
+        },
+        "updated_at": {
+            "unix": 1539561413,
+            "text": "2018-10-15 00:56:53 +0100",
+            "iso_8601": "2018-10-14T23:56:53Z"
+        },
+        "subject": "US President Trump reiterated the US might have to impose another round of tariffs on China",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-president-trump-reiterated-the-us-might-have-to-impose-another-round-of-tariffs-on-china-14-10-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-10-15 07:56:00",
+        "gmt_time": "2018-10-14 23:56:00"
+    },
+    {
+        "id": 678244,
+        "updated_sequence": 1066678,
+        "published_at": {
+            "unix": 1539561060,
+            "text": "2018-10-15 00:51:00 +0100",
+            "iso_8601": "2018-10-14T23:51:00Z"
+        },
+        "updated_at": {
+            "unix": 1539561082,
+            "text": "2018-10-15 00:51:22 +0100",
+            "iso_8601": "2018-10-14T23:51:22Z"
+        },
+        "subject": "Hyundai Rotem (064350 KS) receives KRW 151.4bln order",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "hyundai-rotem-064350-ks-receives-krw-151-4bln-order-14-10-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-10-15 07:51:00",
+        "gmt_time": "2018-10-14 23:51:00"
+    },
+    {
+        "id": 678243,
+        "updated_sequence": 1066675,
+        "published_at": {
+            "unix": 1539560940,
+            "text": "2018-10-15 00:49:00 +0100",
+            "iso_8601": "2018-10-14T23:49:00Z"
+        },
+        "updated_at": {
+            "unix": 1539561052,
+            "text": "2018-10-15 00:50:52 +0100",
+            "iso_8601": "2018-10-14T23:50:52Z"
+        },
+        "subject": "North Korean leader Kim is said to have refused to provide US with a nuclear list",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "north-korean-leader-kim-is-said-to-have-refused-to-provide-us-with-a-nuclear-list-14-10-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-10-15 07:49:00",
+        "gmt_time": "2018-10-14 23:49:00"
+    },
+    {
+        "id": 678242,
+        "updated_sequence": 1066672,
+        "published_at": {
+            "unix": 1539560100,
+            "text": "2018-10-15 00:35:00 +0100",
+            "iso_8601": "2018-10-14T23:35:00Z"
+        },
+        "updated_at": {
+            "unix": 1539560411,
+            "text": "2018-10-15 00:40:11 +0100",
+            "iso_8601": "2018-10-14T23:40:11Z"
+        },
+        "subject": "PRE-MARKET JAPANESE AND SOUTH KOREAN STOCK NEWS: Softbank (9984 JT) is said to have picked Nomura and Goldman Sachs to lead IPO of its wireless unit",
+        "content": "<p>JAPAN</p>\r\n\r\n<p>Hitachi (6501 JT)<br />- Co. will develop small modular reactor with GE. (Newswires)</p>\r\n\r\n<p>Jin Co. (3046 JT)<br />- Co. FY18/19 oper. profit rose 12.4% Y/Y to JPY 6.1bln. (Newswires)</p>\r\n\r\n<p>Mitsubishi Motors (7211 JT)<br />- Co. and Suzuki (7269 JT) are both seeking to stop European diesel auto sales due to tougher environmental regulations. (Nikkei)</p>\r\n\r\n<p>Nissan (7201 JT)<br />- Co. is seeking to postpone UK wage discussions to next year. (Nikkei)</p>\r\n\r\n<p>Softbank (9984 JT)<br />- Co. said to have picked Nomura and Goldman Sachs to lead IPO of its wireless unit. (Newswires)</p>\r\n\r\n<p>Toyota (7203 JT)<br />- Co. is recalling 168k Tundra, Sequoia and Avalon cars on potential airbag ECU issue. (Newswires)</p>\r\n\r\n<p>Solar/Energy<br />- Japan plans to reduce prices of solar generated power. (Nikkei)</p>\r\n\r\n<p>Other News<br />- BoJ Governor Kuroda said that trade dispute is becoming increasingly visible and that conflict of this magnitude is unusual, while he reiterated that BoJ will continue powerful easing to reach inflation goal. (Newswires)</p>\r\n\r\n<p>SOUTH KOREA</p>\r\n\r\n<p>Hyundai Merchant (011200 KS)<br />- South Korean government is mulling injecting KRW 800bln to help normalize Co. operations. (Newswires)</p>\r\n\r\n<p>Shinhan Financial Group (05550 KS)<br />- Court denied prosecution request for an arrest warrant against Co. Chairman Cho related to unfair hiring of new employees. (Newswires)<br />- KKR is said to be seeking a stake of more than 3.55% in the Co. (Newswires)</p>\r\n\r\n<p>SK Telecom (017670 KS)<br />- Co. receives approval for 5G/LTE dual-connectivity technology. (Yonhap)</p>\r\n\r\n<p>Other News<br />- South Korea will hold a high-level meeting with North Korea today. (Newswires)<br />- South Korea is mulling a reduction in fuel tax amid increasing prices. (Yonhap)<br />- South Korean Q3 unemployment surpassed 1 million for the first time in nearly 2 decades. (Yonhap)<br />- Foreign investors were net buyers of domestic stocks for a 3rd consecutive month in September in which they bought a net KRW 580bln of local stocks vs. Prev. KRW 1.1tln M/M. (Yonhap)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-japanese-and-south-korean-stock-news-softbank-9984-jt-is-said-to-have-picked-nomura-and-goldman-sachs-to-lead-ipo-of-its-wireless-unit-14-10-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-10-15 07:35:00",
+        "gmt_time": "2018-10-14 23:35:00"
+    },
+    {
+        "id": 678241,
+        "updated_sequence": 1066666,
+        "published_at": {
+            "unix": 1539558660,
+            "text": "2018-10-15 00:11:00 +0100",
+            "iso_8601": "2018-10-14T23:11:00Z"
+        },
+        "updated_at": {
+            "unix": 1539558743,
+            "text": "2018-10-15 00:12:23 +0100",
+            "iso_8601": "2018-10-14T23:12:23Z"
+        },
+        "subject": "Barclays is said to halt work related to cryptocurrency trading project",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "barclays-is-said-to-halt-work-related-to-cryptocurrency-trading-project-14-10-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-10-15 07:11:00",
+        "gmt_time": "2018-10-14 23:11:00"
+    },
+    {
+        "id": 678240,
+        "updated_sequence": 1066663,
+        "published_at": {
+            "unix": 1539558060,
+            "text": "2018-10-15 00:01:00 +0100",
+            "iso_8601": "2018-10-14T23:01:00Z"
+        },
+        "updated_at": {
+            "unix": 1539558105,
+            "text": "2018-10-15 00:01:45 +0100",
+            "iso_8601": "2018-10-14T23:01:45Z"
+        },
+        "subject": "UK Rightmove House Prices (Oct) Y/Y 0.9% (Prev. 1.2%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "uk-rightmove-house-prices-oct-y-y-0-9-prev-1-2-14-10-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-10-15 07:01:00",
+        "gmt_time": "2018-10-14 23:01:00"
+    },
+    {
+        "id": 678239,
+        "updated_sequence": 1066660,
+        "published_at": {
+            "unix": 1539558060,
+            "text": "2018-10-15 00:01:00 +0100",
+            "iso_8601": "2018-10-14T23:01:00Z"
+        },
+        "updated_at": {
+            "unix": 1539558098,
+            "text": "2018-10-15 00:01:38 +0100",
+            "iso_8601": "2018-10-14T23:01:38Z"
+        },
+        "subject": "UK Rightmove House Prices (Oct) M/M 1.0% (Prev. 0.7%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "uk-rightmove-house-prices-oct-m-m-1-0-prev-0-7-14-10-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-10-15 07:01:00",
+        "gmt_time": "2018-10-14 23:01:00"
+    },
+    {
+        "id": 678237,
+        "updated_sequence": 1066654,
+        "published_at": {
+            "unix": 1539557460,
+            "text": "2018-10-14 23:51:00 +0100",
+            "iso_8601": "2018-10-14T22:51:00Z"
+        },
+        "updated_at": {
+            "unix": 1539557563,
+            "text": "2018-10-14 23:52:43 +0100",
+            "iso_8601": "2018-10-14T22:52:43Z"
+        },
+        "subject": "China regulators are anticipated to announce gaming company approvals will be frozen until 2019, according to FT reports",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "FT",
+        "slug": "china-regulators-are-anticipated-to-announce-gaming-company-approvals-will-be-frozen-until-2019-according-to-ft-reports-14-10-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-10-15 06:51:00",
+        "gmt_time": "2018-10-14 22:51:00"
+    },
+    {
+        "id": 678236,
+        "updated_sequence": 1066651,
+        "published_at": {
+            "unix": 1539556920,
+            "text": "2018-10-14 23:42:00 +0100",
+            "iso_8601": "2018-10-14T22:42:00Z"
+        },
+        "updated_at": {
+            "unix": 1539557350,
+            "text": "2018-10-14 23:49:10 +0100",
+            "iso_8601": "2018-10-14T22:49:10Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIA STOCK NEWS: Wesfarmers Q1 Coles sales declined 8.8%; WTI gains around 1.5% on US-Saudi tension",
+        "content": "<p>ANZ Bank (ANZ AT)<br />- Co. is looking to expand in Asia again after having previously sold off its consumer and commercial businesses in the region. (The Australian)</p>\r\n\r\n<p>APN Outdoor (APO AT)<br />- Co. declares fully-franked special dividend AUD 0.30/Shr. (Newswires)</p>\r\n\r\n<p>Atlas Iron (AGO AT)<br />- Co. named Spiro Pappas as Chairman and Sanjiv Manchanda as CEO. (Newswires)</p>\r\n\r\n<p>Ausdrill (ASL AT)<br />- Co. guides FY19 ex-Barminco deal underlying net to increase between 20%-30%y/Y. (Newswires)</p>\r\n\r\n<p>CBA (CBA AT)<br />- Co. appointed acting CFO Docherty as Co. CFO. (Newswires)</p>\r\n\r\n<p>Evolution Mining (EVN AT)<br />- Co. Q1 gold output 200.2k ounces vs. Prev. 202.3k ounces Q/Q. (Newswires)</p>\r\n\r\n<p>Greencross (GXL AT)<br />- Permira hires advisers for potential offer for Greencross. (Newswires)</p>\r\n\r\n<p>Investa Office Fund (IOF AT)<br />- Co. said it believes proposal from Oxford is superior to Blackstone offer. (Newswires)</p>\r\n\r\n<p>Michael Hill International (MHJ AT)<br />- Co. Q1 rev. declined 8.8% Y/Y. (Newswires)</p>\r\n\r\n<p>Praemium (PPS AT)<br />- Co. Q1 FUA AUD 8.58bln vs. Prev. AUD 8.29bln. (Newswires)</p>\r\n\r\n<p>Santos (STO AT)<br />- Real Energy inked gas agreements with Santos and Beach Energy (BPT AT). (Newswires)</p>\r\n\r\n<p>Wesfarmers (WES AT)<br />- Co. Q1 Coles sales AUD 9.84bln vs. Prev. AUD 9.37bln Y/Y. (Newswires)<br />- Coles Group talks with KKR regarding potential sale of bottle shops are reportedly being delayed due to Coles demerger.</p>\r\n\r\n<p>Agriculture<br />- China reportedly invests AUD 400mln on farming in northern Australia. (Newswires)</p>\r\n\r\n<p>Energy<br />- WTI crude futures begin the week higher by around 1.5% after US&ndash;Saudi verbal jousting in which President Trump stated US will look for ways to &ldquo;severely&rdquo; punish the kingdom if they are found to have killed journalist Khashoggi, while Saudi warned it would respond to any steps taken against it. (Newswires)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-australia-stock-news-wesfarmers-q1-coles-sales-declined-8-8-wti-gains-around-1-5-on-us-saudi-tension-14-10-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-10-15 06:42:00",
+        "gmt_time": "2018-10-14 22:42:00"
+    },
+    {
+        "id": 678235,
+        "updated_sequence": 1066641,
+        "published_at": {
+            "unix": 1539554100,
+            "text": "2018-10-14 22:55:00 +0100",
+            "iso_8601": "2018-10-14T21:55:00Z"
+        },
+        "updated_at": {
+            "unix": 1539554180,
+            "text": "2018-10-14 22:56:20 +0100",
+            "iso_8601": "2018-10-14T21:56:20Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASES CALENDAR NOW AVAILABLE IN THE RESEARCH SECTION: Highlights include UK Rightmove House Prices and Japanese Industrial Production",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asian-daily-economic-releases-calendar-now-available-in-the-research-section-highlights-include-uk-rightmove-house-prices-and-japanese-industrial-production-14-10-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-10-15 05:55:00",
+        "gmt_time": "2018-10-14 21:55:00"
+    },
+    {
+        "id": 678234,
+        "updated_sequence": 1066638,
+        "published_at": {
+            "unix": 1539553620,
+            "text": "2018-10-14 22:47:00 +0100",
+            "iso_8601": "2018-10-14T21:47:00Z"
+        },
+        "updated_at": {
+            "unix": 1539553781,
+            "text": "2018-10-14 22:49:41 +0100",
+            "iso_8601": "2018-10-14T21:49:41Z"
+        },
+        "subject": "China Shenzhen City government plans to provide liquidity support valued at tens of billions of yuan for listed companies",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Shanghai Securities News",
+        "slug": "china-shenzhen-city-government-plans-to-provide-liquidity-support-valued-at-tens-of-billions-of-yuan-for-listed-companies-14-10-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-10-15 05:47:00",
+        "gmt_time": "2018-10-14 21:47:00"
+    },
+    {
+        "id": 678233,
+        "updated_sequence": 1066635,
+        "published_at": {
+            "unix": 1539553140,
+            "text": "2018-10-14 22:39:00 +0100",
+            "iso_8601": "2018-10-14T21:39:00Z"
+        },
+        "updated_at": {
+            "unix": 1539553250,
+            "text": "2018-10-14 22:40:50 +0100",
+            "iso_8601": "2018-10-14T21:40:50Z"
+        },
+        "subject": "PBoC Governor Yi Gang said central bank is mulling range of risks in currency policy including a worst case scenario",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pboc-governor-yi-gang-said-central-bank-is-mulling-range-of-risks-in-currency-policy-including-a-worst-case-scenario-14-10-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-10-15 05:39:00",
+        "gmt_time": "2018-10-14 21:39:00"
+    },
+    {
+        "id": 678232,
+        "updated_sequence": 1066645,
+        "published_at": {
+            "unix": 1539553080,
+            "text": "2018-10-14 22:38:00 +0100",
+            "iso_8601": "2018-10-14T21:38:00Z"
+        },
+        "updated_at": {
+            "unix": 1539555363,
+            "text": "2018-10-14 23:16:03 +0100",
+            "iso_8601": "2018-10-14T22:16:03Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS:",
+        "content": "<p>ASIA-PAC</p>\r\n\r\n<p>China published rules related to depositary receipts and the Shanghai-London Stock Connect. (Newswires)</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>UK</p>\r\n\r\n<p>An EU official said on Friday that Brexit talks were making progress and will continue over the weekend with an evaluation on Sunday evening and progress to be announced on Monday. However, there were more recent source reports that UK and EU negotiators called for a pause in discussions until Wednesday&#39;s summit outcome. (Newswires)</p>\r\n\r\n<p>UK PM May given until Monday to change her Brexit plan or suffer Cabinet walkouts according to a report on Friday which cited a senior Cabinet source. Furthermore, the report noted that Cabinet Brexiteers are angry with May&#39;s refusal to put a definite end-point on her plans for a so-called Brexit &quot;backstop&quot;. (Business Insider)</p>\r\n\r\n<p>Former Brexit Secretary Davis has called for a cabinet uprising against UK PM May as MPs and ministers said they are ready to oust her if she does not change course on her Brexit plan. Writing to the Sunday Times, he called UK PM May&rsquo;s plan &ldquo;flawed&rdquo; and &ldquo;unacceptable&rdquo;, while he accused the PM&rsquo;s aides of &ldquo;incipient panic&rdquo; in the face of Brussel&rsquo;s demands and trying to cut out the cabinet from key decisions. (The Times/BBC/Sky News)</p>\r\n\r\n<p>Multiple Labour MPs told The Independent that they are prepared to support the Brexit agreement UK PM May hopes to bring back from Brussels, while the newspaper was also told that at least 15 Labour MPs could rebel against Labour leader Corbyn and back the government, which could be enough to tip the balance in the Commons in favour of a deal. (The Independent)</p>\r\n\r\n<p>UK PM May&rsquo;s advisers are trying to craft new language for the Brexit withdrawal agreement amid signs the Cabinet will otherwise refuse to agree to PM May&rsquo;s backstop proposals. (The Telegraph)</p>\r\n\r\n<p>Scotland&rsquo;s first minister is to press the case for continued membership of the single market and customs union by unveiling a &ldquo;common-sense&rdquo; alternative Brexit plan on Monday. (The Guardian)</p>\r\n\r\n<p>UK PM May has been told that DUP Leader Foster is &ldquo;ready&rdquo; to trigger a no-deal Brexit as she believes this is the most likely outcome following a &ldquo;hostile and difficult&rdquo; meeting with EU&rsquo;s Chief Negotiator Barnier, a set of leaked government emails revealed. (The Guardian)</p>\r\n\r\n<p>EU leaders are set to hold an extraordinary &ldquo;no deal&rdquo; Brexit summit with a date pencilled in for the weekend of 17-18 November, to deal with the potential disaster of the UK crashing out of the bloc should PM May fail to deliver decisive progress on the Irish border issue this week, The Guardian has revealed. (The Guardian)</p>\r\n\r\n<p>BoE&#39;s Deputy Governor Ramsden said interest rate rise will be limited and gradual if Brexit is smooth and economy grows as forecast, while Ramsden added that a key milestone is coming up in Brexit talks after which no-deal planning will need to be increased. (Newswires)</p>\r\n\r\n<p><br />EU</p>\r\n\r\n<p>ECB President Draghi said underlying inflation is hovering around 1% but is confident it will proceed towards target, while he added that the main risk is a sharp repricing of assets or sudden increase in interest rates. Elsewhere, Draghi said he does not see room for additional expenditures in Italy and stated that ECB will not intervene to help Italy. (Newswires)</p>\r\n\r\n<p>Germany&rsquo;s CSU lost its absolute majority in the Bavarian state election and suffered its weakest result since 1950, according to an exit poll. (Twitter)</p>\r\n\r\n<p>FX</p>\r\n\r\n<p>SNB Chairman Jordan said the situation in the FX market is still fragile and reiterated the willingness to intervene in FX if necessary, while Jordan also commented that it is appropriate to leave monetary policy unchanged as he sees no signs of &quot;overheating&quot;. (Newswires)</p>\r\n\r\n<p>COMMODITIES</p>\r\n\r\n<p>Baker Hughes Rig Count (12/Oct): Oil rigs +8 at 927, gas rigs +4 at 193. (Newswires)</p>\r\n\r\n<p>IEA&#39;s Birol said high oil prices are hurting consumers and that extra barrels will need to come to the market soon to avoid further tightening. (Twitter)</p>\r\n\r\n<p>A fire on Nigerian state-owned pipeline on Osisioma Axis enar Aba has killed 16 and halted pumping. (Newswires)</p>\r\n\r\n<p>GEOPOLITICAL</p>\r\n\r\n<p>US President Trump said he will continue with the Saudi arms deal and look for other ways to &ldquo;severely&rdquo; punish the kingdom if they are found to have killed journalist Khashoggi, meanwhile Trump added that he has not yet seen the video and audio proof that Turkey claimed to have in regard to the journalist. Saudi Arabia later said it rejects any &quot;threats&quot; of sanctions or political pressure from the US over the disappearance of a journalist, while also warning it would respond to any steps taken against it. (Fox/SPA)<br />&nbsp;</p>\r\n\r\n<p>US</p>\r\n\r\n<p>White House Economic Adviser Kudlow said on Friday that we are in a hot market boom and that the stock market will get back on track, while he also commented that China&#39;s responses to the US are unsatisfactory and that US President Trump and Chinese President Xi will probably meet later this year. (Newswires)</p>\r\n\r\n<p>US Treasury Secretary Mnuchin said that no decision has been made yet regarding a meeting between US President Trump and Chinese President Xi Jinping at the G20 in Argentina. (Newswires)</p>\r\n\r\n<p>MARKET RECAP</p>\r\n\r\n<p>Several heavyweight banks reported earnings on Friday, with Citi (C) and Wells Fargo (WFC) up on the day, whilst JPMorgan (JPM) and PNC Financial (PNC) underperformed. Activision Blizzard (ATVI) was a top mover after promising reviews of its new Call of Duty franchise. Netflix (NFLX) moved higher on the back of an upgrade at Citi. Intuit (INTU) was another gainer as was the technology sector as a whole. Johnson Controls International (JCI) was a bottom mover, mimicking poor performance from the wider utilities sector. Alongside PNC Financial (PNC), other regional banks Regions Financial (RF) and US Bancorp (USB) were down on the day. Estee Lauder (EL) also pushed lower after a downgrade at JPMorgan. SPX +1.4% at 2768, NDX +2.8% at 7160, DJI +1.2% at 25335.</p>\r\n\r\n<p>Treasuries started the session negative amid a more constructive risk environment, where equities stabilised after the recent rout. The net result was that the T-Note traded within Thursday&rsquo;s range. There were upticks after a soft Uni of Michigan sentiment survey, and the complex firmed towards the close after equities suffered a little wobble. Some desks were noting that dealers sold into the upswing. Major spreads were uneventful. US T-note futures (Z8) settled 1+ ticks lower at 118-11.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-asia-pac-opening-news-14-10-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-10-15 05:38:00",
+        "gmt_time": "2018-10-14 21:38:00"
+    },
+    {
+        "id": 678231,
+        "updated_sequence": 1066629,
+        "published_at": {
+            "unix": 1539552600,
+            "text": "2018-10-14 22:30:00 +0100",
+            "iso_8601": "2018-10-14T21:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1539552665,
+            "text": "2018-10-14 22:31:05 +0100",
+            "iso_8601": "2018-10-14T21:31:05Z"
+        },
+        "subject": "New Zealand Performance of Services Index (Sep) 53.9 (Prev. 53.2)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "new-zealand-performance-of-services-index-sep-53-9-prev-53-2-14-10-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-10-15 05:30:00",
+        "gmt_time": "2018-10-14 21:30:00"
+    },
+    {
+        "id": 678230,
+        "updated_sequence": 1066626,
+        "published_at": {
+            "unix": 1539551520,
+            "text": "2018-10-14 22:12:00 +0100",
+            "iso_8601": "2018-10-14T21:12:00Z"
+        },
+        "updated_at": {
+            "unix": 1539551670,
+            "text": "2018-10-14 22:14:30 +0100",
+            "iso_8601": "2018-10-14T21:14:30Z"
+        },
+        "subject": "Former UK Foreign Minister Johnson says entering moment of crisis in Brexit discussions and that matters cannot continue how they currently are, also says UK must resist being pushed around by EU",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Telegraph ",
+        "slug": "former-uk-foreign-minister-johnson-says-entering-moment-of-crisis-in-brexit-discussions-and-that-matters-cannot-continue-how-they-currently-are-also-says-uk-must-resist-being-pushed-around-by-eu-14-10-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-10-15 05:12:00",
+        "gmt_time": "2018-10-14 21:12:00"
+    },
+    {
+        "id": 678230,
+        "updated_sequence": 1066626,
+        "published_at": {
+            "unix": 1539551520,
+            "text": "2018-10-14 22:12:00 +0100",
+            "iso_8601": "2018-10-14T21:12:00Z"
+        },
+        "updated_at": {
+            "unix": 1539551670,
+            "text": "2018-10-14 22:14:30 +0100",
+            "iso_8601": "2018-10-14T21:14:30Z"
+        },
+        "subject": "Former UK Foreign Minister Johnson says entering moment of crisis in Brexit discussions and that matters cannot continue how they currently are, also says UK must resist being pushed around by EU",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Telegraph ",
+        "slug": "former-uk-foreign-minister-johnson-says-entering-moment-of-crisis-in-brexit-discussions-and-that-matters-cannot-continue-how-they-currently-are-also-says-uk-must-resist-being-pushed-around-by-eu-14-10-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-10-15 05:12:00",
+        "gmt_time": "2018-10-14 21:12:00"
+    },
+    {
+        "id": 678229,
+        "updated_sequence": 1066623,
+        "published_at": {
+            "unix": 1539551100,
+            "text": "2018-10-14 22:05:00 +0100",
+            "iso_8601": "2018-10-14T21:05:00Z"
+        },
+        "updated_at": {
+            "unix": 1539551208,
+            "text": "2018-10-14 22:06:48 +0100",
+            "iso_8601": "2018-10-14T21:06:48Z"
+        },
+        "subject": "GBP/USD pressured in early trade and is down 0.5% following weekend news that UK and EU negotiators called for a pause in discussions until Wednesday's summit outcome",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "gbp-usd-pressured-in-early-trade-and-is-down-0-5-following-weekend-news-that-uk-and-eu-negotiators-called-for-a-pause-in-discussions-until-wednesday-s-summit-outcome-14-10-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-10-15 05:05:00",
+        "gmt_time": "2018-10-14 21:05:00"
+    },
+    {
+        "id": 678051,
+        "updated_sequence": 1066617,
+        "published_at": {
+            "unix": 1539550800,
+            "text": "2018-10-14 22:00:00 +0100",
+            "iso_8601": "2018-10-14T21:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1539550800,
+            "text": "2018-10-14 22:00:00 +0100",
+            "iso_8601": "2018-10-14T21:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-11-10-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-10-15 05:00:00",
+        "gmt_time": "2018-10-14 21:00:00"
+    }
+]

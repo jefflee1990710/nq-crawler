@@ -1,0 +1,410 @@
+[
+    {
+        "id": 665956,
+        "updated_sequence": 1008249,
+        "published_at": {
+            "unix": 1531699020,
+            "text": "2018-07-16 00:57:00 +0100",
+            "iso_8601": "2018-07-15T23:57:00Z"
+        },
+        "updated_at": {
+            "unix": 1531699107,
+            "text": "2018-07-16 00:58:27 +0100",
+            "iso_8601": "2018-07-15T23:58:27Z"
+        },
+        "subject": "Ausdrill (ASL AT) makes new gold discovery at Red Hill",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "ausdrill-asl-at-makes-new-gold-discovery-at-red-hill-15-07-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-07-16 07:57:00",
+        "gmt_time": "2018-07-15 23:57:00"
+    },
+    {
+        "id": 665955,
+        "updated_sequence": 1008246,
+        "published_at": {
+            "unix": 1531697400,
+            "text": "2018-07-16 00:30:00 +0100",
+            "iso_8601": "2018-07-15T23:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1531697950,
+            "text": "2018-07-16 00:39:10 +0100",
+            "iso_8601": "2018-07-15T23:39:10Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIAN AND SOUTH KOREAN STOCK NEWS: South Korea raised minimum wages by nearly 11%; Japan is closed for Marine Day",
+        "content": "<p>AUSTRALIA</p>\r\n\r\n<p>APN Outdoor (APO AT)<br />- Co. receives advertising contract from Queenstown Airport. (Newswires)</p>\r\n\r\n<p>Ausdrill (ASL AT)<br />- Reports note renewed takeover speculation after Co. founder and former CEO departs the Co. (The Australian)</p>\r\n\r\n<p>Cooper Energy (COE AT)<br />- Co. FY18 rev. AUD 66.7mln vs. Prev. AUD 39.1mln Y/Y, Co. is to acquire gas plant from Minerva. (Newswires)</p>\r\n\r\n<p>Whitehaven Coal (WHC AT)<br />- Co. Q4 ROM coal output 5.9mln tonnes vs. 6.6mln tonnes Y/Y, although it says it remains on course for record financials for FY18. (Newswires)</p>\r\n\r\n<p>Financials<br />- Banks are said to be pressured to hike mortgage rates as funding costs have reached their highest in 7 years. (The Australian)<br />- Banks are said to face AUD 70bln funding gap amid super funds shifting more funds abroad and with households increasingly dipping into their savings. (AFR)</p>\r\n\r\n<p>JAPAN</p>\r\n\r\n<p>Japan Tobacco (2914 JT)<br />- Co. domestic cigarette sales volumes fell 11.7% Y/Y to 7.0bln units in June. (Newswires)</p>\r\n\r\n<p>SOUTH KOREA</p>\r\n\r\n<p>Korean Air (003490 KS)<br />- Co. and Asiana Airlines (003490 KS) workers held a joint rally again to call for the airliners&rsquo; leaders to step down. (Newswires)</p>\r\n\r\n<p>Developers<br />- South Korean apartment prices declined by 0.3% Q/Q during Q2, which was the largest decline in 5 years, although apartment prices in Seoul rose by 0.8% Q/Q. (Yonhap)</p>\r\n\r\n<p>Other News<br />- South Korea raised the minimum wage by nearly 11% to KRW 8350/hr for next year, although small business group Korea Federation of Micro Enterprise said it cannot accept the decision and that small business owners would be forced to either shut down or reduce staff. (Nikkei)<br />- South Korean commercial bank chiefs expect GDP to be less than 3% this year and view rate hikes as major risk to financial markets. (Newswires)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-australian-and-south-korean-stock-news-south-korea-raised-minimum-wages-by-nearly-11-japan-is-closed-for-marine-day-15-07-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-07-16 07:30:00",
+        "gmt_time": "2018-07-15 23:30:00"
+    },
+    {
+        "id": 665954,
+        "updated_sequence": 1008241,
+        "published_at": {
+            "unix": 1531696260,
+            "text": "2018-07-16 00:11:00 +0100",
+            "iso_8601": "2018-07-15T23:11:00Z"
+        },
+        "updated_at": {
+            "unix": 1531696434,
+            "text": "2018-07-16 00:13:54 +0100",
+            "iso_8601": "2018-07-15T23:13:54Z"
+        },
+        "subject": "South Korean Finance Minister Kim says EM market volatility may intensify",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "south-korean-finance-minister-kim-says-em-market-volatility-may-intensify-15-07-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-07-16 07:11:00",
+        "gmt_time": "2018-07-15 23:11:00"
+    },
+    {
+        "id": 665953,
+        "updated_sequence": 1008238,
+        "published_at": {
+            "unix": 1531696200,
+            "text": "2018-07-16 00:10:00 +0100",
+            "iso_8601": "2018-07-15T23:10:00Z"
+        },
+        "updated_at": {
+            "unix": 1531696328,
+            "text": "2018-07-16 00:12:08 +0100",
+            "iso_8601": "2018-07-15T23:12:08Z"
+        },
+        "subject": "BoK Governor Lee says domestic economy could face substantial risks in exports, investments and jobs due to global trade tensions",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "bok-governor-lee-says-domestic-economy-could-face-substantial-risks-in-exports-investments-and-jobs-due-to-global-trade-tensions-15-07-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-07-16 07:10:00",
+        "gmt_time": "2018-07-15 23:10:00"
+    },
+    {
+        "id": 665951,
+        "updated_sequence": 1008232,
+        "published_at": {
+            "unix": 1531695660,
+            "text": "2018-07-16 00:01:00 +0100",
+            "iso_8601": "2018-07-15T23:01:00Z"
+        },
+        "updated_at": {
+            "unix": 1531695714,
+            "text": "2018-07-16 00:01:54 +0100",
+            "iso_8601": "2018-07-15T23:01:54Z"
+        },
+        "subject": "UK Rightmove House Prices (Jul) Y/Y 1.4% (Prev. 1.7%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "uk-rightmove-house-prices-jul-y-y-1-4-prev-1-7-15-07-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-07-16 07:01:00",
+        "gmt_time": "2018-07-15 23:01:00"
+    },
+    {
+        "id": 665952,
+        "updated_sequence": 1008235,
+        "published_at": {
+            "unix": 1531695660,
+            "text": "2018-07-16 00:01:00 +0100",
+            "iso_8601": "2018-07-15T23:01:00Z"
+        },
+        "updated_at": {
+            "unix": 1531695787,
+            "text": "2018-07-16 00:03:07 +0100",
+            "iso_8601": "2018-07-15T23:03:07Z"
+        },
+        "subject": "UK Visa Consumer Spending  in June rose by 0.7% Y/Y (Prev. 0.9%), which represents first consecutive increase in over a year ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "uk-visa-consumer-spending-in-june-rose-by-0-7-y-y-prev-0-9-which-represents-first-consecutive-increase-in-over-a-year-15-07-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-07-16 07:01:00",
+        "gmt_time": "2018-07-15 23:01:00"
+    },
+    {
+        "id": 665950,
+        "updated_sequence": 1008229,
+        "published_at": {
+            "unix": 1531695660,
+            "text": "2018-07-16 00:01:00 +0100",
+            "iso_8601": "2018-07-15T23:01:00Z"
+        },
+        "updated_at": {
+            "unix": 1531695708,
+            "text": "2018-07-16 00:01:48 +0100",
+            "iso_8601": "2018-07-15T23:01:48Z"
+        },
+        "subject": "UK Rightmove House Prices (Jul) M/M 0.1% (Prev. 0.4%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "uk-rightmove-house-prices-jul-m-m-0-1-prev-0-4-15-07-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-07-16 07:01:00",
+        "gmt_time": "2018-07-15 23:01:00"
+    },
+    {
+        "id": 665949,
+        "updated_sequence": 1008226,
+        "published_at": {
+            "unix": 1531693800,
+            "text": "2018-07-15 23:30:00 +0100",
+            "iso_8601": "2018-07-15T22:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1531693858,
+            "text": "2018-07-15 23:30:58 +0100",
+            "iso_8601": "2018-07-15T22:30:58Z"
+        },
+        "subject": "New Zealand Performance of Services Index (Jun) 52.8 (Prev. 57.3)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "new-zealand-performance-of-services-index-jun-52-8-prev-57-3-15-07-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-07-16 06:30:00",
+        "gmt_time": "2018-07-15 22:30:00"
+    },
+    {
+        "id": 665948,
+        "updated_sequence": 1008223,
+        "published_at": {
+            "unix": 1531692540,
+            "text": "2018-07-15 23:09:00 +0100",
+            "iso_8601": "2018-07-15T22:09:00Z"
+        },
+        "updated_at": {
+            "unix": 1531692594,
+            "text": "2018-07-15 23:09:54 +0100",
+            "iso_8601": "2018-07-15T22:09:54Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASES CALENDAR NOW AVAILABLE IN THE RESEARCH SECTION: Highlights Include Chinese GDP, Industrial Production & Retail Sales; Japan closed for holiday",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asian-daily-economic-releases-calendar-now-available-in-the-research-section-highlights-include-chinese-gdp-industrial-production-retail-sales-japan-closed-for-holiday-15-07-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-07-16 06:09:00",
+        "gmt_time": "2018-07-15 22:09:00"
+    },
+    {
+        "id": 665947,
+        "updated_sequence": 1008218,
+        "published_at": {
+            "unix": 1531692240,
+            "text": "2018-07-15 23:04:00 +0100",
+            "iso_8601": "2018-07-15T22:04:00Z"
+        },
+        "updated_at": {
+            "unix": 1531692323,
+            "text": "2018-07-15 23:05:23 +0100",
+            "iso_8601": "2018-07-15T22:05:23Z"
+        },
+        "subject": "Norwegian oil and gas strike escalates with the union adding a further 900 workers after there was no agreement reached by deadline",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "norwegian-oil-and-gas-strike-escalates-with-the-union-adding-a-further-900-workers-after-there-was-no-agreement-reached-by-deadline-15-07-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-07-16 06:04:00",
+        "gmt_time": "2018-07-15 22:04:00"
+    },
+    {
+        "id": 665946,
+        "updated_sequence": 1008215,
+        "published_at": {
+            "unix": 1531690980,
+            "text": "2018-07-15 22:43:00 +0100",
+            "iso_8601": "2018-07-15T21:43:00Z"
+        },
+        "updated_at": {
+            "unix": 1531691714,
+            "text": "2018-07-15 22:55:14 +0100",
+            "iso_8601": "2018-07-15T21:55:14Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p>ASIA</p>\r\n\r\n<p>Chinese New Yuan Loans (CNY)(Jun) 1840B vs. Exp. 1535B (Prev. 1150B). (newswires)<br />Chinese Aggregate Financing (CNY)(Jun) 1180B vs. Exp. 1400B (Prev. 760B)<br />Chinese Money Supply M2 (Jun) Y/Y 8.0% vs. Exp. 8.4% (Prev. 8.3%)</p>\r\n\r\n<p>UK/EU</p>\r\n\r\n<p>UK PM May said there will be no limits on the UK doing trade deals around the world once it has exited the EU and that the UK will pursue an ambitious trade deal with the US as it leaves the EU. (Newswires)</p>\r\n\r\n<p>US President Trump said once the Brexit process has been completed, whatever the UK does is okay with him, as long as UK and US can trade together, we will seize the opportunity fully. Furthermore, US President Trump stated that he thinks the EU are a foe in regards to what it does to the US on trade, while Trump also stated that China is a foe economically and Russia is foe in certain respects. (Newswires)</p>\r\n\r\n<p><br />ECB&rsquo;s Weidmann warned the German cabinet to be prepared for tougher times ahead during a meeting earlier this month and stated that the ECB has little scope to act in a slowdown due to policy normalisation. (Handelsblatt)<br />&nbsp;</p>\r\n\r\n<p>Fitch affirmed Spain at &#39;A-&#39;; Outlook Stable and downgraded Turkey from BB+ to BB; Outlook Negative. (Newswires)</p>\r\n\r\n<p><br /><br />COMMODITIES</p>\r\n\r\n<p>US Baker Hughes Total Rig Count (13 Jul) 1054 (Prev. 1052). (Newswires)</p>\r\n\r\n<p><br />Trump Administration was reported on Friday to be considering tapping the US emergency oil reserve (SPR), with the size said to be between a 5mln barrel test up to 30mln barrels. (Newswires)<br /><br />&nbsp;</p>\r\n\r\n<p>US</p>\r\n\r\n<p>US President Trump stated over the weekend that he fully intends to run for re-election in 2020. (Newswires)</p>\r\n\r\n<p>Fed&#39;s Kaplan (Non-Voter, Neutral) said intensifications of trade tariffs would see downgrades to 2018 and 2019 growth forecasts, while he also said that he expects one more hike in 2018 and could be convinced of a fourth hike depending on outlook. (Newswires)</p>\r\n\r\n<p><br />MARKET RECAP</p>\r\n\r\n<p>The SPX hit a five-month high in early trade with the DJI breaking above 25,000 for the first time in over a month before paring back later in the session. Major US banks officially kicked off earnings season after reporting mixed numbers. Wells Fargo (WFC) fell 2% as it showed a bigger than forecasted drop in its quarterly profits due to slower lending and higher costs. Citigroup (C ) posted similar losses on the back of lower debt underwriting. On the flip side, JP Morgan (JPM) and PNC Financial (PNC) held in positive territory after reporting a beat on both top and bottom line. The results overall dragged the financial sector in the red. Elsewhere, AT&amp;T (T) posted losses of 2% and weighed on the telecom sector on the news that the US DoJ launched an appeal on Friday against the USD 80bln merger of AT&amp;T (T) and Time Warner (TWX) after the deal won approval in June by a Judge who did not impose any conditions. Elsewhere, major retailers namely Ulta Beauty, Best Buy and Lowe&rsquo;s outperformed in the index and lifted the consumer non-cyclicals. Johnson &amp; Johnson (JNJ) was at the bottom of the DJI after being charged USD 4.69bln in damages in a lawsuit filed by women claiming some of its products containing asbestos caused cancer. SPX +0.1% at 2801.20, NDX +0.1% at 7375.8, DJI +0.4% at 25018.</p>\r\n\r\n<p>Treasuries held in positive ground on Friday amid decent volume on the buy side heading into the weekend and supported by marginal flow factors coming from Europe and Japan. Most of the action was concentrated in the belly of the curve where yields were lower by c.2bps. Spread were mixed as 2s5s and 2s10s narrowed by c.1bps whilst 5s30s widened by c.1bps. US 10YR T-notes futures (U8) settled 6+ ticks higher at 120.11+.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-asia-pac-opening-news-15-07-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-07-16 05:43:00",
+        "gmt_time": "2018-07-15 21:43:00"
+    },
+    {
+        "id": 665801,
+        "updated_sequence": 1008206,
+        "published_at": {
+            "unix": 1531688400,
+            "text": "2018-07-15 22:00:00 +0100",
+            "iso_8601": "2018-07-15T21:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1531688400,
+            "text": "2018-07-15 22:00:00 +0100",
+            "iso_8601": "2018-07-15T21:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-12-07-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-07-16 05:00:00",
+        "gmt_time": "2018-07-15 21:00:00"
+    }
+]

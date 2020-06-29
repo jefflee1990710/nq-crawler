@@ -1,0 +1,240 @@
+[
+    {
+        "id": 660303,
+        "updated_sequence": 983815,
+        "published_at": {
+            "unix": 1527465000,
+            "text": "2018-05-28 00:50:00 +0100",
+            "iso_8601": "2018-05-27T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1527465098,
+            "text": "2018-05-28 00:51:38 +0100",
+            "iso_8601": "2018-05-27T23:51:38Z"
+        },
+        "subject": "Japanese Corporate Services Price Index (Apr) Y/Y 0.9% vs. Exp. 0.5% (Prev. 0.5%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-corporate-services-price-index-apr-y-y-0-9-vs-exp-0-5-prev-0-5-27-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-28 07:50:00",
+        "gmt_time": "2018-05-27 23:50:00"
+    },
+    {
+        "id": 660302,
+        "updated_sequence": 983812,
+        "published_at": {
+            "unix": 1527463680,
+            "text": "2018-05-28 00:28:00 +0100",
+            "iso_8601": "2018-05-27T23:28:00Z"
+        },
+        "updated_at": {
+            "unix": 1527464271,
+            "text": "2018-05-28 00:37:51 +0100",
+            "iso_8601": "2018-05-27T23:37:51Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIAN, JAPANESE & SOUTH KOREAN STOCK NEWS: US President Trump tweeted that a US team arrived in North Korea to make arrangement for summit between Trump and Kim Jong Un",
+        "content": "<p>AUSTRALIA</p>\r\n\r\n<p>Boral (BLD AT)<br />- Co. sees property earnings at high end of guidance range AUD 55mln-65mln of EBITDA for FY2018. (Newswires)</p>\r\n\r\n<p>CIMIC (CIM AT)<br />- Co. Sedgman unit wins AUD 106mln operations and maintenance contract. (Newswires)<br /><br />Commonwealth Bank of Australia (CBA AT)<br />- Banking Royal Commission is to examine the lender&rsquo;s loan-to-value ratio lending operations which allows banks to call in business loans when property backing the loans declines below set levels even if the borrower has kept up to date on payments. (AFR)</p>\r\n\r\n<p>Independence Group (IGO AT)<br />- Co. is to divest Jaguar operation for AUD 73.2mln. (Newswires)</p>\r\n\r\n<p>Investa Office Fund (IOF AT<br />- Co. receives all cash proposal from Blackstone. (Newswires)</p>\r\n\r\n<p>NAB (NAB AT)<br />- Co. is said to be facing a substantial compensation bill after a tech outage for its payments systems occurred on Saturday. (AFR) &nbsp;&nbsp;</p>\r\n\r\n<p>Wesfarmers (WES AT)<br />- KKR is said to be in exclusive discussions to acquire Wesfarmer&rsquo;s pubs and liquor assets. (The Australian)</p>\r\n\r\n<p>Basic materials / Energy<br />- Iron ore declined 3.7% on Friday.<br />- WTI crude fell around 5% on Friday.</p>\r\n\r\n<p>JAPAN</p>\r\n\r\n<p>Fujitsu (6702 JT)<br />- Co. has partnered with 2 cybersecurity startups as it aims for JPY 300bln in annual sales for its cyber security business. (Newswires)</p>\r\n\r\n<p>Mitsui Fudosan (8801 JT)<br />- Co. is planning to spend JPY 1.5tln on property in Europe, US and Asia during the next 7 to 8 years. (Nikkei)</p>\r\n\r\n<p>SOUTH KOREA</p>\r\n\r\n<p>Hyundai Motor (005380 KS)<br />- Co. and Kia Motors (000270 KS) April YTD hybrid vehicle sales in US rose 7% Y/Y. (Yonhap)</p>\r\n\r\n<p>Doosan Infracore (042670 KS)<br />- Doosan Group expects solid excavator sales in Chin for the current year. (Yonhap)</p>\r\n\r\n<p>Financials<br />- FSC said that all banks will be required to adhere to stricter guidance for mortgage loans in H2. (Yonhap)</p>\r\n\r\n<p>Other News<br />- China Everbright Bank branch has applied for an investment licence in South Korea. (Newswires)<br /><br />Geopolitics<br />- US President Trump tweeted that a US team arrived in North Korea to make arrangements for summit between Trump and Kim Jong Un. (Twitter) As a reminder, Trump had commented on Friday that the North Korean summit could still take place on June 12th, while Defence Secretary Mattis said he has received some possible good news on North Korea. (Newswires)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-australian-japanese-south-korean-stock-news-us-president-trump-tweeted-that-a-us-team-arrived-in-north-korea-to-make-arrangement-for-summit-between-trump-and-kim-jong-un-27-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-28 07:28:00",
+        "gmt_time": "2018-05-27 23:28:00"
+    },
+    {
+        "id": 660301,
+        "updated_sequence": 983807,
+        "published_at": {
+            "unix": 1527458220,
+            "text": "2018-05-27 22:57:00 +0100",
+            "iso_8601": "2018-05-27T21:57:00Z"
+        },
+        "updated_at": {
+            "unix": 1527458304,
+            "text": "2018-05-27 22:58:24 +0100",
+            "iso_8601": "2018-05-27T21:58:24Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASES CALENDAR NOW AVAILABLE IN THE RESEARCH SECTION: Highlights Include Light calendar with only Japanese Corporate Services Price Index scheduled, UK and US are closed for holiday",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asian-daily-economic-releases-calendar-now-available-in-the-research-section-highlights-include-light-calendar-with-only-japanese-corporate-services-price-index-scheduled-uk-and-us-are-closed-for-holiday-27-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-28 05:57:00",
+        "gmt_time": "2018-05-27 21:57:00"
+    },
+    {
+        "id": 660300,
+        "updated_sequence": 983802,
+        "published_at": {
+            "unix": 1527456900,
+            "text": "2018-05-27 22:35:00 +0100",
+            "iso_8601": "2018-05-27T21:35:00Z"
+        },
+        "updated_at": {
+            "unix": 1527457029,
+            "text": "2018-05-27 22:37:09 +0100",
+            "iso_8601": "2018-05-27T21:37:09Z"
+        },
+        "subject": "US is reported to press China to sign long-term import agreements",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "FT",
+        "slug": "us-is-reported-to-press-china-to-sign-long-term-import-agreements-27-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-28 05:35:00",
+        "gmt_time": "2018-05-27 21:35:00"
+    },
+    {
+        "id": 660299,
+        "updated_sequence": 983804,
+        "published_at": {
+            "unix": 1527456660,
+            "text": "2018-05-27 22:31:00 +0100",
+            "iso_8601": "2018-05-27T21:31:00Z"
+        },
+        "updated_at": {
+            "unix": 1527457903,
+            "text": "2018-05-27 22:51:43 +0100",
+            "iso_8601": "2018-05-27T21:51:43Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p>ASIA-PAC</p>\r\n\r\n<p>Chinese Industrial Profits (Apr) Y/Y 21.9% vs. (Prev. 3.1%); 6-month high. (SCMP)</p>\r\n\r\n<p><br />UK</p>\r\n\r\n<p>UK is said to lack a plan in the event of a &#39;no-deal&#39; Brexit. (FT)</p>\r\n\r\n<p>UK Foreign Secretary Johnson warned that ambitious trade deals would be impossible if UK remains in a version of the customs union. (Telegraph)</p>\r\n\r\n<p>EU Brexit Negotiator Barnier said on Friday his scenario is to reach a realistic Brexit deal and that his worst-case scenario is not a no deal. (Newswires)</p>\r\n\r\n<p><br />EU</p>\r\n\r\n<p>Italy PM-designate Conte reportedly gave up on efforts of forming a government after Italian President Mattarella rejected Eurosceptic Paolo Savona for the Economy Minister position because the appointment would have &ldquo;alarmed markets and investors, Italians and foreigners&rdquo;. Following the veto by Mattarella, M5S leader Di Maio said it is unclear what will happen in the next few months and that the President should be impeached for betraying the constitution, while League leader Salvini said Italians should vote again. (Newswires/Guardian)</p>\r\n\r\n<p>ECB officials are said to not rule out a tweak to QE at June meeting according to sources, while earlier source reports had also suggested ECB policymakers were in unison over ending QE this year but there was no hint at when the timing of the decision would be. (Newswires)</p>\r\n\r\n<p><br />COMMODITIES</p>\r\n\r\n<p>US Baker Hughes Total Rig Count (18 May) 1059 (Prev. 1046). (Newswires)</p>\r\n\r\n<p>Russia&#39;s Energy Minister Novak said proportional easing for OPEC+ members seems a fair option, while Novak also stated no final decision has yet been taken about easing cuts deal and that he is convinced there will be a compromise with regards to easing supply curbs between OPEC members. (Newswires)</p>\r\n\r\n<p>Russian President Putin said oil prices at USD 65/bbl suit Russia and Russian Deputy Finance Ministry Oreshkin said 3-year forecast assumed oil prices at USD 60/bbl, while Russia&#39;s Energy Minister Novak said OPEC+ are likely to agree to gradually raise output. (Newswires/Interfax)</p>\r\n\r\n<p>UAE Energy Minister said UAE, Saudi and Russia did not discuss parameters of OPEC easing. (Newswires)<br />&nbsp;</p>\r\n\r\n<p>GEOPOLITICAL</p>\r\n\r\n<p>US President Trump tweeted that a US team arrived in North Korea to make arrangement for summit between Trump and Kim Jong Un. (Twitter) As a reminder, Trump had commented on Friday that the North Korean summit could still take place on June 12th, while Defence Secretary Mattis said he has received some possible good news on North Korea. (Newswires)</p>\r\n\r\n<p>Iran Deputy Foreign Minister said after talks with Europeans, negotiations will continue to try and salvage the nuclear deal, while there were also reports that Iran is weeks away from deciding to stay or exit their nuclear deal. (Newswires)</p>\r\n\r\n<p>US</p>\r\n\r\n<p>Fed&#39;s Kaplan (non-voter, neutral) said he is very carefully monitoring impact of dollar and is hopeful the IOER will help the Fed better set the funds rate, while Kaplan reiterated the case for gradual hikes and cited the possibility for &#39;rapid change&#39;. (Newswires)</p>\r\n\r\n<p>Fed&#39;s Bostic (voter, dovish) said there are a lot of reasons to proceed with gradual hikes, not the least because that is what the Fed has guided. (Newswires)</p>\r\n\r\n<p>US Durable Goods (Apr) -1.7% vs. Exp. -1.4% (Prev. 2.6%, Rev. 2.7%). (Newswires)</p>\r\n\r\n<p><br />MARKET RECAP</p>\r\n\r\n<p>US equity futures were content within their 2730-2740 range, until pre-market news from Spain, Italy as well as OPEC added to a risk-off feel, which the futures complex finally succumbed to. In the pre-market, ES tested the 2715 area, before ranging between 2715-2725 heading into the long weekend. Sectors were mixed on Friday with energy continuing to post losses greater than 3% on the back of plummeting oil prices driven by potential easing of the oil supply curbs by OPEC+. Materials and industrials also posted losses. On the flip side, consumer cyclicals and non-cyclicals held in positive territory, lifted by retailer names. SPX -0.2% at 2,722, NDX +0.2% at 6,961, DJI -0.2% at 24,751.</p>\r\n\r\n<p>Treasury yields fell across the curve amid continued uncertainty in Europe around the upsurge of the new populist government in Italy, which sent the spread between 10yr Bunds and BTPS above 200bps, and also on the prospect that Spanish PM Rajoy will likely face a confidence vote. Treasuries caught a bid during European hours as safe haven assets drew demand, and stabilised near session highs as investors squared-up their books ahead of the long weekend in the US/UK. Most of the action was concentrated in the belly of the curve with 10yr yields higher by c.5bps, the front end of the curve was higher by c.3bps and the long end by c.4bps. 2s5s and 2s10s narrowed by c.2bps whilst 5s30 and 10s30s widened by c.2bps. US 10yr T-Notes futures settled 11+ ticks higher at 119-27+.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-asia-pac-opening-news-27-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-28 05:31:00",
+        "gmt_time": "2018-05-27 21:31:00"
+    },
+    {
+        "id": 660298,
+        "updated_sequence": 983796,
+        "published_at": {
+            "unix": 1527455580,
+            "text": "2018-05-27 22:13:00 +0100",
+            "iso_8601": "2018-05-27T21:13:00Z"
+        },
+        "updated_at": {
+            "unix": 1527455655,
+            "text": "2018-05-27 22:14:15 +0100",
+            "iso_8601": "2018-05-27T21:14:15Z"
+        },
+        "subject": "UK is said to lack a plan in the event of a 'no-deal' Brexit, according to FT",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "FT",
+        "slug": "uk-is-said-to-lack-a-plan-in-the-event-of-a-no-deal-brexit-according-to-ft-27-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-28 05:13:00",
+        "gmt_time": "2018-05-27 21:13:00"
+    },
+    {
+        "id": 660115,
+        "updated_sequence": 983790,
+        "published_at": {
+            "unix": 1527454800,
+            "text": "2018-05-27 22:00:00 +0100",
+            "iso_8601": "2018-05-27T21:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1527454800,
+            "text": "2018-05-27 22:00:00 +0100",
+            "iso_8601": "2018-05-27T21:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-21_00pm_utc_24-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-28 05:00:00",
+        "gmt_time": "2018-05-27 21:00:00"
+    }
+]

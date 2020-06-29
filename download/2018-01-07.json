@@ -1,0 +1,410 @@
+[
+    {
+        "id": 602678,
+        "updated_sequence": 755729,
+        "published_at": {
+            "unix": 1515368220,
+            "text": "2018-01-07 23:37:00 +0000",
+            "iso_8601": "2018-01-07T23:37:00Z"
+        },
+        "updated_at": {
+            "unix": 1515368302,
+            "text": "2018-01-07 23:38:22 +0000",
+            "iso_8601": "2018-01-07T23:38:22Z"
+        },
+        "subject": "PRE-MARKET SOUTH KOREAN NEWS: Japanese markets are closed for holiday",
+        "content": "<p>JAPAN</p>\r\n\r\n<p>Canon (7751 JT)<br />- Co. is said to plan investment of JPY 400bln during next 3 years on acquisitions. (Nikkei)</p>\r\n\r\n<p>Fast Retailing (9983 JT)<br />- Co. December Uniqlo same-store sales rose 18.1% Y/Y. (Newswires)</p>\r\n\r\n<p>McDonalds Japan (2702 JT)<br />- Co. December same-store sales rose 8.0%. (Newswires)</p>\r\n\r\n<p>Nippon Express (9062 JT)<br />- Co. 9-month net is expected to increase 25% Y/Y to JPY 50bln. (Nikkei)</p>\r\n\r\n<p>Shinsei Bank (8303 JT)<br />- US hedge fund Dalton reports 5% stake in the Co. (Newswires)</p>\r\n\r\n<p>Toshiba (6502 JT)<br />- Co. Westinghouse is being sold to a Canadian investment fund in deal valued at USD 4.6bln. (Nikkei)</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>SOUTH KOREA</p>\r\n\r\n<p>Financials<br />- South Korea is to conduct inspections on cryptocurrency accounts at major domestic banks. (Yonhap)</p>\r\n\r\n<p>Steel<br />- South Korean steel shipments to US rose 17.7% Y/Y during 2017, according to industry data. (Yonhap)</p>\r\n\r\n<p>Geopolitical<br />- China MOFCOM is to restrict crude exports to North Korea following UN rules. (Newswires)<br />- North Korean leader Kim Jong-un has his birthday today. (Newswires)<br />- US President Trump on Saturday said he would be open to talks with North Korea&rsquo;s leader and also claimed credit for inter-Korean talks which will begin on Tuesday. (Newswires)</p>\r\n\r\n<p>Other News<br />- South Korea&#39;s finance ministry finalized the details on a tax code overhaul which includes levying an additional tax on owners of multiple homes and increase to the highest corporate income tax rate. (Yonhap)<br />- South Korea National Pension Service to reduce domestic equity investment this year and is said to plan to increase overseas investment allocation to 40% by 2022 from about 27% in 2016, according to press reports. (Newswires)<br />- US Trade Representative Lighthizer said that there is plenty of work to do to reach a revamped trade agreement with South Korea. (Newswires)<br />- State-run think tank KDI says South Korea&rsquo;s economy is maintaining modest expansion. (Yonhap)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-south-korean-news-japanese-markets-are-closed-for-holiday-07-01-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-01-08 07:37:00",
+        "gmt_time": "2018-01-07 23:37:00"
+    },
+    {
+        "id": 602654,
+        "updated_sequence": 755792,
+        "published_at": {
+            "unix": 1515368100,
+            "text": "2018-01-07 23:35:00 +0000",
+            "iso_8601": "2018-01-07T23:35:00Z"
+        },
+        "updated_at": {
+            "unix": 1515368474,
+            "text": "2018-01-07 23:41:14 +0000",
+            "iso_8601": "2018-01-07T23:41:14Z"
+        },
+        "subject": "PBoC official stated that there is room for a rate increase in the short-term, according to reports in China Daily",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pboc-official-stated-that-there-is-room-for-a-rate-increase-in-the-short-term-according-to-reports-in-china-daily-07-01-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-01-08 07:35:00",
+        "gmt_time": "2018-01-07 23:35:00"
+    },
+    {
+        "id": 602501,
+        "updated_sequence": 755373,
+        "published_at": {
+            "unix": 1515367200,
+            "text": "2018-01-07 23:20:00 +0000",
+            "iso_8601": "2018-01-07T23:20:00Z"
+        },
+        "updated_at": {
+            "unix": 1515367310,
+            "text": "2018-01-07 23:21:50 +0000",
+            "iso_8601": "2018-01-07T23:21:50Z"
+        },
+        "subject": "China's Hebei province is planning to reduce 6.0mln tons of steel capacity and 10.6mln tons of coal capacity for this year",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "china-s-hebei-province-is-planning-to-reduce-6-0mln-tons-of-steel-capacity-and-10-6mln-tons-of-coal-capacity-for-this-year-07-01-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-01-08 07:20:00",
+        "gmt_time": "2018-01-07 23:20:00"
+    },
+    {
+        "id": 602358,
+        "updated_sequence": 755086,
+        "published_at": {
+            "unix": 1515366300,
+            "text": "2018-01-07 23:05:00 +0000",
+            "iso_8601": "2018-01-07T23:05:00Z"
+        },
+        "updated_at": {
+            "unix": 1515366510,
+            "text": "2018-01-07 23:08:30 +0000",
+            "iso_8601": "2018-01-07T23:08:30Z"
+        },
+        "subject": "US equity futures begin on the front-foot in a continuation of last week's New Year rally which saw the DJIA post its strongest beginning to the year in over a decade and top the 25K level",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "us-equity-futures-begin-on-the-front-foot-in-a-continuation-of-last-week-s-new-year-rally-which-saw-the-djia-post-its-strongest-beginning-to-the-year-in-over-a-decade-and-top-the-25k-level-07-01-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-01-08 07:05:00",
+        "gmt_time": "2018-01-07 23:05:00"
+    },
+    {
+        "id": 602297,
+        "updated_sequence": 754963,
+        "published_at": {
+            "unix": 1515366120,
+            "text": "2018-01-07 23:02:00 +0000",
+            "iso_8601": "2018-01-07T23:02:00Z"
+        },
+        "updated_at": {
+            "unix": 1515366168,
+            "text": "2018-01-07 23:02:48 +0000",
+            "iso_8601": "2018-01-07T23:02:48Z"
+        },
+        "subject": "Celgene (CELG) to buy Impact Biomedecines for USD 1.1bln upfront and as much as USD 1.25bln in contingent payments",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "celgene-celg-to-buy-impact-biomedecines-for-usd-1-1bln-upfront-and-as-much-as-usd-1-25bln-in-contingent-payments-07-01-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-01-08 07:02:00",
+        "gmt_time": "2018-01-07 23:02:00"
+    },
+    {
+        "id": 602060,
+        "updated_sequence": 754572,
+        "published_at": {
+            "unix": 1515364740,
+            "text": "2018-01-07 22:39:00 +0000",
+            "iso_8601": "2018-01-07T22:39:00Z"
+        },
+        "updated_at": {
+            "unix": 1515365069,
+            "text": "2018-01-07 22:44:29 +0000",
+            "iso_8601": "2018-01-07T22:44:29Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIAN STOCK NEWS: Australian shareholders in Westfield will receive USD 7.36bln from the over by Unibail-Rodamco",
+        "content": "<p>Caltex (CTX AT)<br />- Co. CFO stated that recent deal with SEAOIL may be a platform for further investment in the region. (Newswires)</p>\r\n\r\n<p>CBA (CBA AT)<br />- ASIC placed a 4-year investigation into an alleged billion-dollar term deposit scam by CBA and other banks &ldquo;on hold&rdquo; awaiting a decision by then chairman Tony D&#39;Aloisio before it dropped it completely. (The Australian)</p>\r\n\r\n<p>Dominos (DMP AT)<br />- Co. completes acquisition of Hallo Pizza chain. (Newswires)</p>\r\n\r\n<p>Suncorp-Metway (SUN AT)<br />- Co. guides H1 ANZ total natural claim cost of between AUD 406mln-416mln. (Newswires)</p>\r\n\r\n<p>Westfield (WDC AT)<br />- Australian shareholders in Westfield will receive USD 7.36bln from the takeover by Unibail-Rodamco. (The Australian)</p>\r\n\r\n<p>Financials<br />- The banking royal commission could place further upward pressure on insurance premiums of some of Australia&rsquo;s biggest financial companies, according to press reports. (AFR)</p>\r\n\r\n<p>Basic Materials / Energy<br />- Spot gold fell 0.3%.<br />- WTI crude fell 0.7%.<br />- Iron ore rose 0.3%.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-australian-stock-news-australian-shareholders-in-westfield-will-receive-usd-7-36bln-from-the-over-by-unibail-rodamco-07-01-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-01-08 06:39:00",
+        "gmt_time": "2018-01-07 22:39:00"
+    },
+    {
+        "id": 602060,
+        "updated_sequence": 754572,
+        "published_at": {
+            "unix": 1515364740,
+            "text": "2018-01-07 22:39:00 +0000",
+            "iso_8601": "2018-01-07T22:39:00Z"
+        },
+        "updated_at": {
+            "unix": 1515365069,
+            "text": "2018-01-07 22:44:29 +0000",
+            "iso_8601": "2018-01-07T22:44:29Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIAN STOCK NEWS: Australian shareholders in Westfield will receive USD 7.36bln from the over by Unibail-Rodamco",
+        "content": "<p>Caltex (CTX AT)<br />- Co. CFO stated that recent deal with SEAOIL may be a platform for further investment in the region. (Newswires)</p>\r\n\r\n<p>CBA (CBA AT)<br />- ASIC placed a 4-year investigation into an alleged billion-dollar term deposit scam by CBA and other banks &ldquo;on hold&rdquo; awaiting a decision by then chairman Tony D&#39;Aloisio before it dropped it completely. (The Australian)</p>\r\n\r\n<p>Dominos (DMP AT)<br />- Co. completes acquisition of Hallo Pizza chain. (Newswires)</p>\r\n\r\n<p>Suncorp-Metway (SUN AT)<br />- Co. guides H1 ANZ total natural claim cost of between AUD 406mln-416mln. (Newswires)</p>\r\n\r\n<p>Westfield (WDC AT)<br />- Australian shareholders in Westfield will receive USD 7.36bln from the takeover by Unibail-Rodamco. (The Australian)</p>\r\n\r\n<p>Financials<br />- The banking royal commission could place further upward pressure on insurance premiums of some of Australia&rsquo;s biggest financial companies, according to press reports. (AFR)</p>\r\n\r\n<p>Basic Materials / Energy<br />- Spot gold fell 0.3%.<br />- WTI crude fell 0.7%.<br />- Iron ore rose 0.3%.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-australian-stock-news-australian-shareholders-in-westfield-will-receive-usd-7-36bln-from-the-over-by-unibail-rodamco-07-01-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-01-08 06:39:00",
+        "gmt_time": "2018-01-07 22:39:00"
+    },
+    {
+        "id": 601961,
+        "updated_sequence": 754284,
+        "published_at": {
+            "unix": 1515364200,
+            "text": "2018-01-07 22:30:00 +0000",
+            "iso_8601": "2018-01-07T22:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1515364277,
+            "text": "2018-01-07 22:31:17 +0000",
+            "iso_8601": "2018-01-07T22:31:17Z"
+        },
+        "subject": "PBoC has asked banks to permit foreign companies to freely remit CNY profits and dividends",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pboc-has-asked-banks-to-permit-foreign-companies-to-freely-remit-cny-profits-and-dividends-07-01-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-01-08 06:30:00",
+        "gmt_time": "2018-01-07 22:30:00"
+    },
+    {
+        "id": 601950,
+        "updated_sequence": 754261,
+        "published_at": {
+            "unix": 1515364200,
+            "text": "2018-01-07 22:30:00 +0000",
+            "iso_8601": "2018-01-07T22:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1515364221,
+            "text": "2018-01-07 22:30:21 +0000",
+            "iso_8601": "2018-01-07T22:30:21Z"
+        },
+        "subject": "Australian Performance AiG Performance of Construction Index (Dec) 52.8 (Prev. 57.5)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "australian-performance-aig-performance-of-construction-index-dec-52-8-prev-57-5-07-01-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-01-08 06:30:00",
+        "gmt_time": "2018-01-07 22:30:00"
+    },
+    {
+        "id": 601842,
+        "updated_sequence": 754044,
+        "published_at": {
+            "unix": 1515363540,
+            "text": "2018-01-07 22:19:00 +0000",
+            "iso_8601": "2018-01-07T22:19:00Z"
+        },
+        "updated_at": {
+            "unix": 1515363617,
+            "text": "2018-01-07 22:20:17 +0000",
+            "iso_8601": "2018-01-07T22:20:17Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASES CALENDAR NOW AVAILABLE IN THE RESEARCH SECTION: Highlights Include Japan is closed for holiday",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "asian-daily-economic-releases-calendar-now-available-in-the-research-section-highlights-include-japan-is-closed-for-holiday-07-01-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-01-08 06:19:00",
+        "gmt_time": "2018-01-07 22:19:00"
+    },
+    {
+        "id": 601628,
+        "updated_sequence": 754525,
+        "published_at": {
+            "unix": 1515362400,
+            "text": "2018-01-07 22:00:00 +0000",
+            "iso_8601": "2018-01-07T22:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1515364946,
+            "text": "2018-01-07 22:42:26 +0000",
+            "iso_8601": "2018-01-07T22:42:26Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p><strong>US</strong></p>\r\n\r\n<p><strong>US Non-Farm Payrolls (Dec) 148k vs. Exp. 190k (Prev. 228k, Rev. 252k); 2-month net revision -9k</strong><br />- US Average Earnings YY (Dec) 2.5% vs. Exp. 2.5% (Prev. 2.5%, Rev. 2.4%)<br />- US Average Hourly Earnings M/M (Dec) 0.3% vs. Exp. 0.3% (Prev. 0.2%, Rev. 0.1%)<br />- US Unemployment Rate (Dec) 4.1% vs. Exp. 4.1% (Prev. 4.1%)<br />- US Labour Force Participation Rate 62.7% (Prev. 62.7%)</p>\r\n\r\n<p><strong>US ISM N-Manufacturing PMI (Dec) 55.9 vs. Exp. 57.8 (Prev. 57.4)</strong><br />- ISM N-Manufacturing Business Activity 57.3 VS. Exp. 61.0 (Prev. 61.4)<br />- ISM N-Manufacturing Employment Index 56.3 (Prev. 55.3)<br />- ISM N-Manufacturing Price Paid Index 60.8 (Prev. 60.7)<br />- ISM N-Manufacturing New Orders Index 54.3 (Prev. 58.7)</p>\r\n\r\n<p>The dollar sank, and Treasuries were heavily bid after December&rsquo;s nonfarm payrolls data missed expectations. Equities fell, though were more resilient, paring back the knee-jerk losses post the data release. While the headline was a miss, the average hourly earnings data were in line with expectations, and do little to shift the Fed hike narrative. Indeed, many analysts expect that, as the US makes further ground in full-employment territory, headline payroll growth will slow, and many think that as that happens, wage pressures will be stoked.&nbsp;</p>\r\n\r\n<p><strong>Fedspeak:</strong></p>\r\n\r\n<p>Fed&rsquo;s Mester (Voter, Hawk) said she would be happy with three/four hikes in 2018 (the FOMC&rsquo;s &lsquo;dots&rsquo; look for three hikes). She was encouraged by the &ldquo;strong&rdquo; US Employment Situation Report for December, and argued that the economic expansion was firmly in place. Mester sees inflation rising to target in 2019. (Newswires)</p>\r\n\r\n<p>Fed&rsquo;s Williams (Voter, Neutral) said Fed should raise interest rates three times this year as the already strong economy will be further boosted from tax cuts. (Newswires)</p>\r\n\r\n<p>Fed&rsquo;s Harker (Non-Voter, Soft Hawk) said that two rate hikes would be appropriate in 2018 and cited the lack of wages pressure as a reason for his caution. (Newswires)</p>\r\n\r\n<p>Fed&rsquo;s Bullard (Non-Voter, Dove) repeated his recent view that the Fed should &#39;wait and see&#39; regarding further rate hikes and argued that the central bank has made no progress towards inflation since 2015. (Newswires)<br /><br />White House Chief Economist Hassett stated that the Fed would not need to tighten policy at a quicker pace in response to the recent tax reductions. (Newswires)</p>\r\n\r\n<p><br /><strong>EQUITIES</strong></p>\r\n\r\n<p><strong>SPX +0.7% at 2,742; DJIA +0.8% at 25,284; NDX +1.0% at 6,550</strong><br />- Top performing sectors: IT +1.1%, Healthcare +0.9%, Materials +0.8%<br />- Bottom performing sectors: Energy -0.1%, Utilities 0.0%, Telecoms 0.0%</p>\r\n\r\n<p>Equity traders were happy to look through the headline weakness in the Employment Situation Report, with S&amp;P 500 eminis finishing positive every day this week.</p>\r\n\r\n<p>Tech lead the advance. Energy lagged, however, tracking crude prices, after traders took profits on the black stuff following the recent rally in prices.</p>\r\n\r\n<p>It is expected that trade may pick up next week as earnings season gets underway, and the big banks begin reporting their numbers.</p>\r\n\r\n<p><br /><strong>TREASURIES</strong></p>\r\n\r\n<p><strong>US 10-Year T-Note Futures settled 5 ticks lower at 123-16+</strong></p>\r\n\r\n<p>The US Treasury yields were on Friday, with the curve mildly bear-steepening. Despite headline payrolls disappointing, the wages data continue to point to growth, albeit at a subdued rate when compared to previous recoveries. The data did little to suggest the Fed will alter course, and in combination with optimism about the impact of tax reform, traders were content to end the week selling Treasuries.</p>\r\n\r\n<p>On Friday, the probability of a January hike remained beneath 1%: the chance of March hike were at 80%, the chance of seeing two <a name=\"_Hlk503123964\">hikes by June is around 50/50, and there is around 30% chance of three hikes by the end of the year, according to the CME&rsquo;s Fedwatch tool. </a></p>\r\n\r\n<p><br /><br /><strong>ASIA-PAC</strong></p>\r\n\r\n<p>Chinese FX Reserves (USD)(Dec ) 3.140tln vs. Exp. 3.130tln (Prev. 3.119tln). (Newswires)</p>\r\n\r\n<p>Auckland house prices saw the softest increase in 5 years, according to Barfoot &amp; Thompson. (Newswires)</p>\r\n\r\n<p><br /><strong>EU/UK</strong></p>\r\n\r\n<p>UK PM May is expected to conduct a cabinet reshuffle which would affect a quarter of her cabinet on Monday, according to press reports. Furthermore, it was also reported that PM May is to appoint a cabinet minister for no deal Brexit in the reshuffle. (Guardian/Telegraph)</p>\r\n\r\n<p>German Chancellor Merkel stated that she thinks they can manage to form a coalition. (Newswires)</p>\r\n\r\n<p>ECB&rsquo;s Weidmann said that the ECB should set a date to end its asset purchase program. (El Mundo)</p>\r\n\r\n<p><br /><strong>FX</strong></p>\r\n\r\n<p>While the DXY was modestly up on the Friday, the dollar index was more-or-less unchanged in the week. The buck saw heavy losses against the CAD following an NFP miss in combination with a stellar Canadian employment report, sending USDCAD crashing through 1.25 to lows near 1.2360 before recovering to 1.24.</p>\r\n\r\n<p>The Eurozone CPI reported for December was in line with expectations, falling 0.1ppts to 1.4%, as expected; the core rate was unchanged at 0.9%. There was little market reaction. The single currency jumped towards 1.2085 following the US payrolls miss, though the gains were pared back as traders digested the data. Either way, the key 1.20 handle remains the focus, with the EUR consolidating above the level in the first week of 2018 trade.</p>\r\n\r\n<p>Safe havens were red on Friday, with the yen and Swissy down against most of the majors, while gold was slightly negative, settling around the $1320 mark. Firm equities, negative Treasuries, and a resilient risk tone helped to buoy the EMFX complex slightly.</p>\r\n\r\n<p>The pound was uneventful on Friday; in thin news, the 1.36 handle is in focus to the top side, though sterling seems to have been more driven by USD factors this week. Against the EUR, the pound did carve out gains. The next catalysts may come via next week&rsquo;s industrial and manufacturing production data, though traders will be on the look-out for Brexit-related newsflow over the weekend following comments from the EU&rsquo;s Juncker, who was quoted as saying that Brexit talks will be &lsquo;exceptionally difficult&rsquo;.&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>COMMODITIES</strong></p>\r\n\r\n<p><strong>CRUDE: WTI futures settle 57 cents lower at $61.44 per barrel; Brent future settle 45 cents lower at USD 67.62 per barrel</strong></p>\r\n\r\n<p>WTI closed red for the first time in six sessions, with profit-taking being cited after the rally that began in mid-December. On the week, however, crude is positive, adding around $1.50 in the first trading week of the year.</p>\r\n\r\n<p>Traders were banking some of their recent gains after US President Donald Trump on Thursday proposed repealing the ban on offshore drilling, though even some Republican Senators have expressed opposition.</p>\r\n\r\n<p>Separately, a study by Rystad Energy has found that global oil discoveries declined to an all-time low in 2017.</p>\r\n\r\n<p>Saudi prosecutors confirmed 11 princes were arrested for disturbing public order after they held a sit in at a royal palace. (Newswires)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-asia-pac-opening-news-07-01-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-01-08 06:00:00",
+        "gmt_time": "2018-01-07 22:00:00"
+    },
+    {
+        "id": 601506,
+        "updated_sequence": 761355,
+        "published_at": {
+            "unix": 1515362400,
+            "text": "2018-01-07 22:00:00 +0000",
+            "iso_8601": "2018-01-07T22:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1515383935,
+            "text": "2018-01-08 03:58:55 +0000",
+            "iso_8601": "2018-01-08T03:58:55Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-20-12-2017",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-01-08 06:00:00",
+        "gmt_time": "2018-01-07 22:00:00"
+    }
+]

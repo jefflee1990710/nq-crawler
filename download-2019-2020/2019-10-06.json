@@ -1,0 +1,652 @@
+[
+    {
+        "id": 890065,
+        "updated_sequence": 1962611,
+        "published_at": {
+            "unix": 1570406100,
+            "text": "2019-10-07 00:55:00 +0100",
+            "iso_8601": "2019-10-06T23:55:00Z"
+        },
+        "updated_at": {
+            "unix": 1570406212,
+            "text": "2019-10-07 00:56:52 +0100",
+            "iso_8601": "2019-10-06T23:56:52Z"
+        },
+        "subject": "US President Trump tweets that China devalued their currency and \"therefore paying the cost!\", adds \"we are helping the great farmers of the USA to the tune of 28 Billion Dollars, for the last two years, paid for out of tariffs paid to the US by China\"",
+        "content": "<ul><li><a href=\"https://twitter.com/realDonaldTrump/status/1180994860188360704\">Link to tweet</a></li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Twitter",
+        "slug": "us-president-trump-tweets-that-china-devalued-their-currency-and-therefore-paying-the-cost-adds-we-are-helping-the-great-farmers-of-the-usa-to-the-tune-of-28-billion-dollars-for-the-last-two-years-paid-for-out-of-tariffs-paid-to-the-u-06-10-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-10-07 07:55:00",
+        "gmt_time": "2019-10-06 23:55:00"
+    },
+    {
+        "id": 890064,
+        "updated_sequence": 1962608,
+        "published_at": {
+            "unix": 1570405920,
+            "text": "2019-10-07 00:52:00 +0100",
+            "iso_8601": "2019-10-06T23:52:00Z"
+        },
+        "updated_at": {
+            "unix": 1570406005,
+            "text": "2019-10-07 00:53:25 +0100",
+            "iso_8601": "2019-10-06T23:53:25Z"
+        },
+        "subject": "PRE-MARKET TAIWAN AND SINGAPORE NEWS: Keppel (KEP SP) – Co. announced the settlement agreement with Sete Brazil",
+        "content": "<p><strong>TAIWAN</strong></p><p>Visual Photnics Epitaxi (2455 TT) – September revenue TWD 271mln, +64% Y/Y. (Newswires)</p><p>Nanya Technologies (2408 TT) – September revenue TWD 5.0bln, -37% Y/Y. (Newswires)</p><p>Largan Precision (3008 TT) – Revenue TWD 6.6bln, +19.5% Y/Y. (Newswires)</p><p>Other News</p><p>- Taiwan is to ease rules on funds investment for banks, according to local press. (Newswires)</p><p>&nbsp;</p><p><strong>SINGAPORE</strong></p><p>Keppel (KEP SP) – Co. announced the settlement agreement with Sete Brazil; all contracts amicably terminated, all interest and property to any works shall be returned to Keppel, outstanding debt of USD 260mln to be transferred to Sete. (Newswires)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-taiwan-and-singapore-news-keppel-kep-sp-co-announced-the-settlement-agreement-with-sete-brazil-06-10-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-10-07 07:52:00",
+        "gmt_time": "2019-10-06 23:52:00"
+    },
+    {
+        "id": 890063,
+        "updated_sequence": 1962605,
+        "published_at": {
+            "unix": 1570405800,
+            "text": "2019-10-07 00:50:00 +0100",
+            "iso_8601": "2019-10-06T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1570405861,
+            "text": "2019-10-07 00:51:01 +0100",
+            "iso_8601": "2019-10-06T23:51:01Z"
+        },
+        "subject": "Japanese Official Reserve Assets (Sep) USD 1.32T vs. Prev. 1.33T",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-official-reserve-assets-sep-usd-1-32t-vs-prev-1-33t-06-10-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-10-07 07:50:00",
+        "gmt_time": "2019-10-06 23:50:00"
+    },
+    {
+        "id": 890062,
+        "updated_sequence": 1962602,
+        "published_at": {
+            "unix": 1570405200,
+            "text": "2019-10-07 00:40:00 +0100",
+            "iso_8601": "2019-10-06T23:40:00Z"
+        },
+        "updated_at": {
+            "unix": 1570405245,
+            "text": "2019-10-07 00:40:45 +0100",
+            "iso_8601": "2019-10-06T23:40:45Z"
+        },
+        "subject": "US President Trump tweets \"Unemployment Rate just dropped to 3.5%, the lowest in more that 50 years. Is that an impeachable event for your President?\"",
+        "content": "<ul><li><a href=\"https://twitter.com/realDonaldTrump/status/1180990908000559104\">Link to tweet</a></li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Twitter",
+        "slug": "us-president-trump-tweets-unemployment-rate-just-dropped-to-3-5-the-lowest-in-more-that-50-years-is-that-an-impeachable-event-for-your-president-06-10-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-10-07 07:40:00",
+        "gmt_time": "2019-10-06 23:40:00"
+    },
+    {
+        "id": 890061,
+        "updated_sequence": 1962597,
+        "published_at": {
+            "unix": 1570404900,
+            "text": "2019-10-07 00:35:00 +0100",
+            "iso_8601": "2019-10-06T23:35:00Z"
+        },
+        "updated_at": {
+            "unix": 1570404953,
+            "text": "2019-10-07 00:35:53 +0100",
+            "iso_8601": "2019-10-06T23:35:53Z"
+        },
+        "subject": "PRE-MARKET JAPANESE AND SOUTH KOREAN STOCK NEWS: North Korea has terminated working level nuclear talks with the US. (Yonhap)",
+        "content": "<p><strong>JAPAN</strong></p><p>Hitachi (6501 JT) – Co. is expected to be awarded GBP 200mln contract to refurbish trains and carriages on Britain’s West Coastline. (Newswires)</p><p>Nissan (7201 JT) – Nomination Committee Chief and Government relations executive are reportedly in disagreement over who should be next chairman. (Newswires)</p><p>&nbsp;</p><p><strong>SOUTH KOREA</strong></p><p>Posco (005490 KS) – Co. is expected to announce a USD 500mln bond offering early next month. (Newswires)</p><p>Other News</p><p>- North Korea has reportedly terminated working level nuclear talks with the US. North Korea’s Chief Nuclear Negotiator said it was “totally due to the fact that US would not give up its old viewpoints and attitude”. (Yonhap)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-japanese-and-south-korean-stock-news-north-korea-has-terminated-working-level-nuclear-talks-with-the-us-yonhap-06-10-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-10-07 07:35:00",
+        "gmt_time": "2019-10-06 23:35:00"
+    },
+    {
+        "id": 890060,
+        "updated_sequence": 1962671,
+        "published_at": {
+            "unix": 1570404360,
+            "text": "2019-10-07 00:26:00 +0100",
+            "iso_8601": "2019-10-06T23:26:00Z"
+        },
+        "updated_at": {
+            "unix": 1570417465,
+            "text": "2019-10-07 04:04:25 +0100",
+            "iso_8601": "2019-10-07T03:04:25Z"
+        },
+        "subject": "Fed's George (Voter, Hawk) says US consumer was losing confidence, the Fed might need to rethink position on rates, George says each meeting is a meeting to rethink views on rates",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>This comes after the poor US consumer confidence numbers last month</li><li>George's comments echo those of VC Clarida who stated that the Fed is not on a pre-set course in regard to rates</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1570404480,
+            "text": "2019-10-07 00:28:00 +0100",
+            "iso_8601": "2019-10-06T23:28:00Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "fed-s-george-voter-hawk-says-us-consumer-was-losing-confidence-the-fed-might-need-to-rethink-position-on-rates-george-says-each-meeting-is-a-meeting-to-rethink-views-on-rates-06-10-2019",
+        "hidden": false,
+        "section": {
+            "id": 18,
+            "name": "Fed"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-10-07 07:26:00",
+        "gmt_time": "2019-10-06 23:26:00"
+    },
+    {
+        "id": 890059,
+        "updated_sequence": 1962589,
+        "published_at": {
+            "unix": 1570403760,
+            "text": "2019-10-07 00:16:00 +0100",
+            "iso_8601": "2019-10-06T23:16:00Z"
+        },
+        "updated_at": {
+            "unix": 1570403889,
+            "text": "2019-10-07 00:18:09 +0100",
+            "iso_8601": "2019-10-06T23:18:09Z"
+        },
+        "subject": "Nordea trade recommendation: short EUR/USD, target 1.0760, stop 1.1080 [currently 1.0982] ",
+        "content": "<p>Rationale:</p><ul><li>Global slowdown isn't over&nbsp;</li><li>5y5y EUR inflation swaps record lows could re-ignite ECB monetary madness</li><li>USD liquidity will probably have to become scarcer before the Fed really goes big on liquidity</li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Nordea",
+        "slug": "nordea-trade-recommendation-short-eur-usd-target-1-0760-stop-1-1080-currently-1-0982-06-10-2019",
+        "hidden": false,
+        "section": {
+            "id": 22,
+            "name": "FX Flows"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-10-07 07:16:00",
+        "gmt_time": "2019-10-06 23:16:00"
+    },
+    {
+        "id": 890058,
+        "updated_sequence": 1962584,
+        "published_at": {
+            "unix": 1570403700,
+            "text": "2019-10-07 00:15:00 +0100",
+            "iso_8601": "2019-10-06T23:15:00Z"
+        },
+        "updated_at": {
+            "unix": 1570403773,
+            "text": "2019-10-07 00:16:13 +0100",
+            "iso_8601": "2019-10-06T23:16:13Z"
+        },
+        "subject": "IMPORTANT: We are still experiencing problems with the audio feed, please bear with us until we investigate the problem further, apologies for any inconvenience",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "important-we-are-still-experiencing-problems-with-the-audio-feed-please-bear-with-us-until-we-investigate-the-problem-further-apologies-for-any-inconvenience-06-10-2019",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-10-07 07:15:00",
+        "gmt_time": "2019-10-06 23:15:00"
+    },
+    {
+        "id": 890057,
+        "updated_sequence": 1962599,
+        "published_at": {
+            "unix": 1570402200,
+            "text": "2019-10-06 23:50:00 +0100",
+            "iso_8601": "2019-10-06T22:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1570405056,
+            "text": "2019-10-07 00:37:36 +0100",
+            "iso_8601": "2019-10-06T23:37:36Z"
+        },
+        "subject": "PRE-MARKET AUSTRLIA STOCK NEWS:- Australian Treasurer is reportedly considering another inquiry into banking competition. (Newswires) ",
+        "content": "<p><strong>AUSTRALIA</strong></p><p>Oil Search (OSH ST) – Co. guides FY19 production to be impacted by the 2018 earthquake and mooring system damage. (Newswires)</p><p>Ramerliys Resources (RMS AT) – Revised clearing permit application for the Greenfinch pit project has been granted to the CO. (Newswires)</p><p>PZ Cusson (PSZ AT) – Co. is mulling the sale of its Australia organic yoghurt brand. (AFR)</p><p>Resolute Mining (RSG AT) – Q3 gold production 103.2k oz vs. 78.1k in Q2. (Newswires)</p><p>Other News</p><p>- Australian Treasurer is reportedly considering another inquiry into banking competition. (Newswires)</p><p>- Australian Shadow Treasurer says all options are on the table including increasing bank levy or approving new ACCC if banks do not fully pass the recent 25bps RBA rate cut. (AFR)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "pre-market-austrlia-stock-news-australian-treasurer-is-reportedly-considering-another-inquiry-into-banking-competition-newswires-06-10-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-10-07 06:50:00",
+        "gmt_time": "2019-10-06 22:50:00"
+    },
+    {
+        "id": 890056,
+        "updated_sequence": 1962578,
+        "published_at": {
+            "unix": 1570401900,
+            "text": "2019-10-06 23:45:00 +0100",
+            "iso_8601": "2019-10-06T22:45:00Z"
+        },
+        "updated_at": {
+            "unix": 1570402284,
+            "text": "2019-10-06 23:51:24 +0100",
+            "iso_8601": "2019-10-06T22:51:24Z"
+        },
+        "subject": "Fed's George (Voter, Hawk) says leaving US rates unchanged would have been appropriate, citing moderate growth, record-low unemployment and benign inflation outlook",
+        "content": "<ul><li>Would be realistic to accept fluctuations by as much as 100 bps around the Fed's 2% target</li><li>Currently, concerns about low inflation seems necessary, muted inflation would not warrant policy response unless downside risks materilse</li><li><a href=\"https://www.telegraph.co.uk/news/2019/10/06/boris-johnson-seek-supreme-court-ruling-no-deal-brexit/?WT.mc_id=tmg_share_tw\">Link to WSJ release</a></li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "fed-s-george-voter-hawk-says-leaving-us-rates-unchanged-would-have-been-appropriate-citing-moderate-growth-record-low-unemployment-and-benign-inflation-outlook-06-10-2019",
+        "hidden": false,
+        "section": {
+            "id": 18,
+            "name": "Fed"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-10-07 06:45:00",
+        "gmt_time": "2019-10-06 22:45:00"
+    },
+    {
+        "id": 890055,
+        "updated_sequence": 1962569,
+        "published_at": {
+            "unix": 1570399800,
+            "text": "2019-10-06 23:10:00 +0100",
+            "iso_8601": "2019-10-06T22:10:00Z"
+        },
+        "updated_at": {
+            "unix": 1570400459,
+            "text": "2019-10-06 23:20:59 +0100",
+            "iso_8601": "2019-10-06T22:20:59Z"
+        },
+        "subject": "E-Mini S&P Dec'19 futures gap lower at the open of electronic trade amid headlines Chinese officials are signaling they’re increasingly reluctant to agree to a broad trade deal pursued by US President Trump",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "e-mini-s-p-dec-19-futures-gap-lower-at-the-open-of-electronic-trade-amid-headlines-chinese-officials-are-signaling-they-re-increasingly-reluctant-to-agree-to-a-broad-trade-deal-pursued-by-us-president-trump-06-10-2019",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-10-07 06:10:00",
+        "gmt_time": "2019-10-06 22:10:00"
+    },
+    {
+        "id": 890054,
+        "updated_sequence": 1962564,
+        "published_at": {
+            "unix": 1570398000,
+            "text": "2019-10-06 22:40:00 +0100",
+            "iso_8601": "2019-10-06T21:40:00Z"
+        },
+        "updated_at": {
+            "unix": 1570398085,
+            "text": "2019-10-06 22:41:25 +0100",
+            "iso_8601": "2019-10-06T21:41:25Z"
+        },
+        "subject": "The EU deems it helpful if UK Downing Street considers publishing the legal text of the UK proposal for an alternative to the backstop, according to BBC's Adam Fleming ",
+        "content": "<ul><li><a href=\"https://twitter.com/adamfleming/status/1180960792759410688\">Link to tweet</a></li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Twitter",
+        "slug": "the-eu-deems-it-helpful-if-uk-downing-street-considers-publishing-the-legal-text-of-the-uk-proposal-for-an-alternative-to-the-backstop-according-to-bbc-s-adam-fleming-06-10-2019",
+        "hidden": false,
+        "section": {
+            "id": 38,
+            "name": "Brexit"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-10-07 05:40:00",
+        "gmt_time": "2019-10-06 21:40:00"
+    },
+    {
+        "id": 890053,
+        "updated_sequence": 1962561,
+        "published_at": {
+            "unix": 1570397640,
+            "text": "2019-10-06 22:34:00 +0100",
+            "iso_8601": "2019-10-06T21:34:00Z"
+        },
+        "updated_at": {
+            "unix": 1570397733,
+            "text": "2019-10-06 22:35:33 +0100",
+            "iso_8601": "2019-10-06T21:35:33Z"
+        },
+        "subject": "IMPORTANT: We seem to be experiencing problems with the audio feed, please bear with us until we investigate the problem further, apologies for any inconvenience",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "important-we-seem-to-be-experiencing-problems-with-the-audio-feed-please-bear-with-us-until-we-investigate-the-problem-further-apologies-for-any-inconvenience-06-10-2019",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-10-07 05:34:00",
+        "gmt_time": "2019-10-06 21:34:00"
+    },
+    {
+        "id": 890052,
+        "updated_sequence": 1962878,
+        "published_at": {
+            "unix": 1570397460,
+            "text": "2019-10-06 22:31:00 +0100",
+            "iso_8601": "2019-10-06T21:31:00Z"
+        },
+        "updated_at": {
+            "unix": 1570440394,
+            "text": "2019-10-07 10:26:34 +0100",
+            "iso_8601": "2019-10-07T09:26:34Z"
+        },
+        "subject": "UK PM Johnson told French President Macron that he will not delay Brexit, spokesperson said that Britain will consider publishing a full legal text on proposals if deemed to be helpful",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "uk-pm-johnson-told-french-president-macron-that-he-will-not-delay-brexit-spokesperson-said-that-britain-will-consider-publishing-a-full-legal-text-on-proposals-if-deemed-to-be-helpful-06-10-2019",
+        "hidden": false,
+        "section": {
+            "id": 38,
+            "name": "Brexit"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-10-07 05:31:00",
+        "gmt_time": "2019-10-06 21:31:00"
+    },
+    {
+        "id": 890052,
+        "updated_sequence": 1962878,
+        "published_at": {
+            "unix": 1570397460,
+            "text": "2019-10-06 22:31:00 +0100",
+            "iso_8601": "2019-10-06T21:31:00Z"
+        },
+        "updated_at": {
+            "unix": 1570440394,
+            "text": "2019-10-07 10:26:34 +0100",
+            "iso_8601": "2019-10-07T09:26:34Z"
+        },
+        "subject": "UK PM Johnson told French President Macron that he will not delay Brexit, spokesperson said that Britain will consider publishing a full legal text on proposals if deemed to be helpful",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "uk-pm-johnson-told-french-president-macron-that-he-will-not-delay-brexit-spokesperson-said-that-britain-will-consider-publishing-a-full-legal-text-on-proposals-if-deemed-to-be-helpful-06-10-2019",
+        "hidden": false,
+        "section": {
+            "id": 38,
+            "name": "Brexit"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-10-07 05:31:00",
+        "gmt_time": "2019-10-06 21:31:00"
+    },
+    {
+        "id": 890051,
+        "updated_sequence": 1962555,
+        "published_at": {
+            "unix": 1570397400,
+            "text": "2019-10-06 22:30:00 +0100",
+            "iso_8601": "2019-10-06T21:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1570397477,
+            "text": "2019-10-06 22:31:17 +0100",
+            "iso_8601": "2019-10-06T21:31:17Z"
+        },
+        "subject": "Australian AIG Construction Index (Sep) 42.6 (Prev. 44.6)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "australian-aig-construction-index-sep-42-6-prev-44-6-06-10-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-10-07 05:30:00",
+        "gmt_time": "2019-10-06 21:30:00"
+    },
+    {
+        "id": 890050,
+        "updated_sequence": 1962550,
+        "published_at": {
+            "unix": 1570395720,
+            "text": "2019-10-06 22:02:00 +0100",
+            "iso_8601": "2019-10-06T21:02:00Z"
+        },
+        "updated_at": {
+            "unix": 1570395845,
+            "text": "2019-10-06 22:04:05 +0100",
+            "iso_8601": "2019-10-06T21:04:05Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASES CALENDAR NOW AVAILABLE IN THE RESEARCH SECTION: Highlights include Australian AIG Construction PMI, German Factory orders, Fed's George, China and HK away on holiday",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asian-daily-economic-releases-calendar-now-available-in-the-research-section-highlights-include-australian-aig-construction-pmi-german-factory-orders-fed-s-george-china-and-hk-away-on-holiday-06-10-2019",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-10-07 05:02:00",
+        "gmt_time": "2019-10-06 21:02:00"
+    },
+    {
+        "id": 889868,
+        "updated_sequence": 1962539,
+        "published_at": {
+            "unix": 1570395600,
+            "text": "2019-10-06 22:00:00 +0100",
+            "iso_8601": "2019-10-06T21:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1570395600,
+            "text": "2019-10-06 22:00:00 +0100",
+            "iso_8601": "2019-10-06T21:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "<p><a href=\"https://asia.nikkei.com/Business/Companies/Nintendo-to-move-Switch-output-to-Vietnam-as-China-tariffs-loom\">Via Nikkei</a></p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-03-10-2019",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-10-07 05:00:00",
+        "gmt_time": "2019-10-06 21:00:00"
+    },
+    {
+        "id": 890049,
+        "updated_sequence": 1962552,
+        "published_at": {
+            "unix": 1570395600,
+            "text": "2019-10-06 22:00:00 +0100",
+            "iso_8601": "2019-10-06T21:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1570396866,
+            "text": "2019-10-06 22:21:06 +0100",
+            "iso_8601": "2019-10-06T21:21:06Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p>7th October 2019&nbsp;</p><p>&nbsp;</p><p><strong>ASIA-PAC</strong></p><p>China is narrowing scope for a trade deal with the US ahead of principle-level talks in Washington this week. Chinese offcials are signalling they are increasingly reluctant to agree to a broad trade deal, according to reports citing sources. Meanwhile. US President Trump says we have a very good chance of making a deal with China. (Newswires)</p><p>Hong Kong court declined an injunction to suspend the anti-mask law. Separately, Hong Kong police fired tear gas at protesters after government enacts new emergency laws and a second teenager has been shot in the leg by police and is in a serious condition, according to Sky News citing sources. It is not clear if the teenager was shot by a rubber bullet or a live round. (Newswires)</p><p>China Foreign Reserves (Sep) 3.092tln vs. Exp. 3.105tln – first decline in four months. (Newswires)</p><p>&nbsp;</p><p><strong>TRADE</strong></p><p>EU regulators have opened a probe into Boeing (BA) and Embraer (ERJ) deal, citing competition concerns; will decide by February 2020. (Newswires)</p><p>&nbsp;</p><p><strong>US</strong></p><p><strong>Fed Chair Powell </strong>repeated economy is in a good place despite some risks; inflation running close to, but below Fed's 2% target. (Newswires)</p><p><strong>Fed's Mester (Non-voter, Hawk)</strong> said she is data-dependent and the US economy doing pretty well, jobs report was good; Fed knew economy would slow this year; headwinds on trade must be taken seriously. (CNBC)</p><p><strong>Fed’s Rosengren (Voter, Dissenter, Hawk)</strong> said we have to keep in mind where we are in the cycle, we have low unemployment and inflation is near the 2% target, so a pace of jobs between 90-150k a month is normal for a healthy economy. Rosengren added that the overall US economic growth will be around 1.7% for Q3/Q4 in 2019 and the data in recent weeks is not a complete surprise, tariffs effecting both manufacturing and exports. Further, he said indicators for consumer spending remain strong and monetary policy is currently accommodative. (Newswires)</p><p><strong>Fed's Bostic (Non-voter, Dove)</strong> said stimulus is intended to address weaknesses and assist the economy through difficulties; and added that Fed is trying to determine if the economy is heading towards a soft or hard landing. (Newswires)</p><p>US NEC Director Kudlow says the economy is at a turning point; notes that manufacturing weakness stems from Germany. (Newswirs)</p><p>Key documents related to Ukraine are sought from US VP Pence by House committees. (US House)</p><p>DATA RECAP</p><p>- US Non-Farm Payrolls (Sep) 136k vs. Exp. 145.0k (Prev. 130.0k, Rev. 168k); two-month net revisions +45k (Prev. -20k) (Newswires) - US Unemployment Rate (Sep) 3.5% vs. Exp. 3.7% (Prev. 3.7%) - US Average Earnings YY (Sep) 2.9% vs. Exp. 3.2% (Prev. 3.2%)</p><p>UK/EU</p><p>UK PM Johnson is reportedly willing to go to the Supreme Court in an effort to avoid having to write a letter asking for a delay to Brexit, as set out in the Benn Act, according to sources. (Telegraph)</p><p>Senior UK Government figures are reportedly considering a series of proposals to “sabotage” EU’s structure if Brussels does not agree to a new deal or lets UK PM Johnson leave the bloc without one, according to sources. Plans under consideration include blocking the EU’s 2021-27 budget which is due to be agreed early 2020. (Telegraph)</p><p>EU diplomats have been briefed by the EU Commission that discussions are in a stale mate, citing the UK as not budging on custom checks and the timed backstop veto (Stormont veto). (FT) EU sources said Member States agreed that the UK proposals do not provide a basis for concluding an agreement; PM Johnson requested weekend talks on his Irish backstop proposals, but Commission doesn’t see more discussions as useful at this stage. (Newswires)</p><p>UK PM Johnson has committed to sending an A50 extension letter, according to a lawyer but later reports note that UK PM Johnson reportedly reiterated that we will either have a new deal or a no deal but will not endorse a delay. (Newswires</p><p>Fitch affirmed Belgium at 'AA-'; Outlook Stable. (Newswires)</p><p><strong>GEOPOLITICS&nbsp;</strong></p><p><strong>North Korea has reportedly terminated working level nuclear talks with the US. North Korea’s Chief Nuclear Negotiator said it was “totally due to the fact that US would not give up its old viewpoints and attitude”. (Newswires)</strong></p><p><strong>Apparent Iranian government-linked hacking operation targeted US President Trump’s re-election campaign, attempt was unsuccessful, sources said. (Newswires)</strong></p><p>Turkish President Erdogan and US President Trump discussed in a telephone conversation the plan to establish a safe area east of the Euphrates in Syria. Erdogan expressed unease with the US military and added that security bureaucracies are not doing what is necessitated by the agreement between US and Turkey. President Trump agreed to meet with Erdogan in Washington next month upon Trump’s invitation. (Newswires)</p><p>US President Trump is said to have ordered a substantial reduction in National Security Council Staff. (Newswires)</p><p>Iranian Oil Minister assured his Saudi counterpart that Iran did not start the dispute and that the enemies of the region abroad feed on the conflict between the two countries. (Al-Jezeera)</p><p>&nbsp;</p><p><strong>FX</strong></p><p>White House Advisor Navarro says USD is overvalued; jobs numbers should not deter Fed from lowering rates. (Newswires)</p><p>&nbsp;</p><p><strong>COMMODITIES</strong></p><p>Chinese State Oil Company has pulled out of a USD 5bln deal to develop a portion of Iran’s offshore natural gas field. (SCMP)</p><p>Motiva Port Arthur Texas Refinery (636k BPD) is to shut its small coker early next week for maintenance, according to sources. (Newswires)</p><p>Baker Hughes: Oil rigs -3 at 710, NatGas rigs down 2 at 144; Total rigs down 5 at 855. (Newswires)</p><p>&nbsp;</p><p><strong>MARKET RECAP</strong></p><p><strong>*S&amp;P CLOSED +1.4% AT 2952.00, NASDAQ100 +1.4% AT 7982.5 AND DJIA +1.4% AT 26573.2 </strong>* STOCK SPECIFICS:&nbsp;Apple (AAPL) traded higher after sources said the tech behemoth asked suppliers to increase production of its iPhone’s 11 range by up to 10%, or 8mln units, due to higher demand. The reported request by AAPL saw supplier Skyworks (SWKS) outperform. Separately, Amazon’s (AMZN) Prime Video application has disappeared from Apple's (AAPL) app store, Reuters reported. HP Inc. (HPQ) was hit as it announced it is to cut up its workforce over the next three years, expecting to drop 7-9k staff by 2020. Costco (COST) initially traded lower following its earnings report, where it missed analyst expectations on both EPS and revenue, however, it justified the poor figures due to a USD 123mln pre-tax reserve to SG&amp;A, which equated to USD 0.22/shr after tax, related to a product tax assessment. The energy sector underperformed despite higher oil prices, as Credit Suisse was negative on the E&amp;P sector since it now faces a steeper hill, and thus lower Cash Flow Per Share (CFPS) for the E&amp;P universe by on average 6% through 2019-2021, although it expects it to worsen (-~11% by the end of 2021). Credit Suisse also downgraded Continental Resources (CLR), Range Resources (RRC) and Whiting Petroleum (WLL). In M&amp;A, Cedar Fair (FUN) reportedly rejected a USD 70 per share, cash and stock, bid offer from Six Flags Entertainment Corp (SIX), sources said. Netflix (NFLX) caught a bid after Business Insider reported exclusive data that predicted a big Q2 subscriber miss, though does now suggests international growth has bounced back. Philips66 (PSX) also caught tailwinds after announcing a USD 3bln share repurchase programme.&nbsp; General Electric (GE) traded lower following a note from JPM’s GE bear, Stephen Tusa, who reiterated his view GE’s aviation unit offers less growth with greater risk, and therefore less value support than the street assumes. Adding, GE Aviation is narrowly exposed to Boeing (BA), as around 70-80% of the unit is commercial engines. Tusa maintains his PT of 5 on the name; currently trade at ~8.50. Meanwhile, EU regulators are to open an investigation into Boeing’s tie-up with Embraer (ERJ).</p><p><strong>* US T-NOTE (Z9) FUTURES SETTLE 5 TICKS HIGHER AT 131-29</strong>: Treasuries are mixed at the end of the week, though the bias is towards a flatter curve. The T-Note future surged immediately after the release of the September payrolls report, with traders raising bets that the data would lead to a Fed rate hike at the October meeting; the implied probability of an October hike started the week at around 40%, rising to 90% at one point in wake of grim ISM data, though is around 75% as we close out the week; that is despite the constructive tone of Fedspeak, where Chair Powell and Vice Chair Clarida seeing the economy in a good place. Meanwhile, the NY Fed has said it is extending its repo operations through 4th November, at the size of USD 75bln.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "daily-asia-pac-opening-news-06-10-2019",
+        "hidden": false,
+        "section": {
+            "id": 37,
+            "name": "Metals News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-10-07 05:00:00",
+        "gmt_time": "2019-10-06 21:00:00"
+    }
+]

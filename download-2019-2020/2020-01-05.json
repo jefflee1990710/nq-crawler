@@ -1,0 +1,354 @@
+[
+    {
+        "id": 902547,
+        "updated_sequence": 2064460,
+        "published_at": {
+            "unix": 1578266700,
+            "text": "2020-01-05 23:25:00 +0000",
+            "iso_8601": "2020-01-05T23:25:00Z"
+        },
+        "updated_at": {
+            "unix": 1578266830,
+            "text": "2020-01-05 23:27:10 +0000",
+            "iso_8601": "2020-01-05T23:27:10Z"
+        },
+        "subject": "French President Macron is attempting to hold talks with Iranian President Rouhani in the coming days, according to Macron's office ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>This comes after escalations in US-Iran tensions prompted Iran to finalise a new retreat from the Nuclear Deal in which it will not comply with any restrictions on the amount of uranium enrichment, enrichment rate and number of centrifuges</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1578266830,
+            "text": "2020-01-05 23:27:10 +0000",
+            "iso_8601": "2020-01-05T23:27:10Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "french-president-macron-is-attempting-to-hold-talks-with-iranian-president-rouhani-in-the-coming-days-according-to-macron-s-office-05-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 23,
+            "name": "Geopolitical"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-06 07:25:00",
+        "gmt_time": "2020-01-05 23:25:00"
+    },
+    {
+        "id": 902546,
+        "updated_sequence": 2064567,
+        "published_at": {
+            "unix": 1578266400,
+            "text": "2020-01-05 23:20:00 +0000",
+            "iso_8601": "2020-01-05T23:20:00Z"
+        },
+        "updated_at": {
+            "unix": 1578289253,
+            "text": "2020-01-06 05:40:53 +0000",
+            "iso_8601": "2020-01-06T05:40:53Z"
+        },
+        "subject": "PRE-MARKET JAPANESE AND SOUTH KOREAN STOCK NEWS: Japanese participants return today after an extended NY holiday",
+        "content": "<p><strong>JAPAN</strong></p><p>FujiFilm (4901 JT) – Fuji Xeros is to end technology agreement with Xerox on agreement’s expiration date, Fuji Xerox will continue to supply products to Xerox after tech agreement ends. (Newswires)</p><p>Subaru (7270 JT) – US Dec vehicles sales -3.3% YY at 64.5k vehicles. (Newswires)</p><p>Nissan (7201 JT) – US Dec vehicles sales -29.5% YY vs. Exp. -22.1% to 104.8k vehicles. (Newswires)</p><p>Mitsubishi UFJ (8306 JT) – Co. is to take a JPY 207bln special loss. (Newswires)</p><p><strong>SOUTH KOREA</strong></p><p>Hyundai (005380 KS) – Co. has stepped up its car sharing business in Los Angeles. (Yonhap)</p><p>Samsung Electronics (005930 KS) – Co. will announce new smartphones next month in San Francisco (Yonhap) Co. also intents to invest KRW 17tln to expand memory facility. (Newswires)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "pre-market-japanese-and-south-korean-stock-news-japanese-participants-return-today-after-an-extended-ny-holiday-05-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-06 07:20:00",
+        "gmt_time": "2020-01-05 23:20:00"
+    },
+    {
+        "id": 902545,
+        "updated_sequence": 2064454,
+        "published_at": {
+            "unix": 1578265200,
+            "text": "2020-01-05 23:00:00 +0000",
+            "iso_8601": "2020-01-05T23:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1578265798,
+            "text": "2020-01-05 23:09:58 +0000",
+            "iso_8601": "2020-01-05T23:09:58Z"
+        },
+        "subject": "WTI Feb'20 futures rise 1.7% as tensions between Iran and US escalates with US President Trump tweeting of potential disproportionate retaliation against Iran, whilst reports noted of multiple rocket impacts in the vicinity of US Embassy in Baghdad  ",
+        "content": "",
+        "reaction_details": "<ul><li>WTI Feb'20 +USD 1/bbl&nbsp;</li><li>Spot gold +USD 25.5/oz&nbsp;</li><li>E-Mini Mar'20 -18pts&nbsp;</li><li>UST Mar'20 +6.5 ticks</li></ul>",
+        "reaction_updated_at": {
+            "unix": 1578265798,
+            "text": "2020-01-05 23:09:58 +0000",
+            "iso_8601": "2020-01-05T23:09:58Z"
+        },
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "wti-feb-20-futures-rise-1-7-as-tensions-between-iran-and-us-escalates-with-us-president-trump-tweeting-of-potential-disproportionate-retaliation-against-iran-whilst-reports-noted-of-multiple-rocket-impacts-in-the-vicinity-of-us-embassy-in-05-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-06 07:00:00",
+        "gmt_time": "2020-01-05 23:00:00"
+    },
+    {
+        "id": 902544,
+        "updated_sequence": 2064449,
+        "published_at": {
+            "unix": 1578264720,
+            "text": "2020-01-05 22:52:00 +0000",
+            "iso_8601": "2020-01-05T22:52:00Z"
+        },
+        "updated_at": {
+            "unix": 1578264795,
+            "text": "2020-01-05 22:53:15 +0000",
+            "iso_8601": "2020-01-05T22:53:15Z"
+        },
+        "subject": "Trump administration officials have warned senior Iraqi officials that Iraq would suffer dangerous consequences if the U.S. withdrew its military and its funding of the Iraqi security apparatus, according to sources cited by Axios",
+        "content": "<ul><li><a href=\"https://www.axios.com/trump-iraq-parliament-us-troops-vote-iran-11771de3-f3a0-42d9-82fd-10d13dbf76cd.html\">Link to article</a></li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>This comes after The Iraqi parliament voted for the government to work on plans to end US troop presence in Iraq following the assassination of Senior IRGC Commander Suleimani. (CNN)&nbsp;</li><li>Further, Iraqi Militia leader Khazali said if US troops will be considered an occupying force if they do not leave. (Newswires)</li><li>In response, US strongly urged Iraqi leaders to take into account the US-Iraq economic and security relationship. (Newswires)&nbsp;</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1578264794,
+            "text": "2020-01-05 22:53:14 +0000",
+            "iso_8601": "2020-01-05T22:53:14Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "trump-administration-officials-have-warned-senior-iraqi-officials-that-iraq-would-suffer-dangerous-consequences-if-the-u-s-withdrew-its-military-and-its-funding-of-the-iraqi-security-apparatus-according-to-sources-cited-by-axios-05-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 23,
+            "name": "Geopolitical"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-06 06:52:00",
+        "gmt_time": "2020-01-05 22:52:00"
+    },
+    {
+        "id": 902543,
+        "updated_sequence": 2064444,
+        "published_at": {
+            "unix": 1578263640,
+            "text": "2020-01-05 22:34:00 +0000",
+            "iso_8601": "2020-01-05T22:34:00Z"
+        },
+        "updated_at": {
+            "unix": 1578264523,
+            "text": "2020-01-05 22:48:43 +0000",
+            "iso_8601": "2020-01-05T22:48:43Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIAN STOCK NEWS: ASX poised to dip at the open lower, tracking Friday’s losses on Wall Street amid geopolitical tensions (AFR/The Australian)",
+        "content": "<p><strong>STOCKS</strong></p><p>Otto Energy (OEL AT) – Co. notes that Number 2 well has been completed as a production well. (Newswires)</p><p>Altech Chemical (ATC AT) – Co’s share purchase plan has raised AUD 2.8mln. (Newswires)</p><p>Aspen Group (APZ AT) – Co. cuts revenue and NOI by a minimum of AUD 500k due to impact of fires. (Newswires)</p><p>Healius (HLS AT) – Co. CEO notes another bid from shareholder Jangho Group anytime soon would be a surprise. (AFR)</p><p>Macquarie (MIG AT) – Co. is said to be close to a USD 2.1bln deal for Airtrunk, according to sources. (Newswires)</p><p>BHP (BHP AT) – Co. is eyeing India for coal growth given a flatlining in China demand. (SMH)</p><p>Cellmid (CDY AT) – Midkine antibody patent has been granted in EU and US. (Newswires)</p><p>&nbsp;</p><p><strong>OTHER NEWS</strong></p><p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Australian PM Morrison said the country is to spend AUD 20mlb on new fire planes and is to deploy 3k reserve defence forces to battle fires. (Newswires)</p><p>&nbsp;</p><p><strong>DATA RECAP</strong></p><p>Australian AIG Manufacturing Index (Dec) 48.3 (Prev. 48.1) (Newswires)</p><p>Australian CBA Services PMI Final (Dec) 49.8 (Prev. 49.5) (Newswires)&nbsp;</p><p>Australian CBA Composite PMI 49.6 (Prev. 49.4)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "pre-market-australian-stock-news-asx-poised-to-dip-at-the-open-lower-tracking-friday-s-losses-on-wall-street-amid-geopolitical-tensions-afr-the-australian-05-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-06 06:34:00",
+        "gmt_time": "2020-01-05 22:34:00"
+    },
+    {
+        "id": 902375,
+        "updated_sequence": 2064428,
+        "published_at": {
+            "unix": 1578261600,
+            "text": "2020-01-05 22:00:00 +0000",
+            "iso_8601": "2020-01-05T22:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1578261600,
+            "text": "2020-01-05 22:00:00 +0000",
+            "iso_8601": "2020-01-05T22:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-03-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-06 06:00:00",
+        "gmt_time": "2020-01-05 22:00:00"
+    },
+    {
+        "id": 902542,
+        "updated_sequence": 2064439,
+        "published_at": {
+            "unix": 1578261600,
+            "text": "2020-01-05 22:00:00 +0000",
+            "iso_8601": "2020-01-05T22:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1578262099,
+            "text": "2020-01-05 22:08:19 +0000",
+            "iso_8601": "2020-01-05T22:08:19Z"
+        },
+        "subject": " Australian CBA Services PMI Final (Dec) 49.8 (Prev. 49.5)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "australian-cba-services-pmi-final-dec-49-8-prev-49-5-05-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-06 06:00:00",
+        "gmt_time": "2020-01-05 22:00:00"
+    },
+    {
+        "id": 902541,
+        "updated_sequence": 2064436,
+        "published_at": {
+            "unix": 1578261600,
+            "text": "2020-01-05 22:00:00 +0000",
+            "iso_8601": "2020-01-05T22:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1578261649,
+            "text": "2020-01-05 22:00:49 +0000",
+            "iso_8601": "2020-01-05T22:00:49Z"
+        },
+        "subject": "Australian CBA Composite PMI 49.6 (Prev. 49.4)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "australian-cba-composite-pmi-49-6-prev-49-4-05-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-06 06:00:00",
+        "gmt_time": "2020-01-05 22:00:00"
+    },
+    {
+        "id": 902539,
+        "updated_sequence": 2064422,
+        "published_at": {
+            "unix": 1578261300,
+            "text": "2020-01-05 21:55:00 +0000",
+            "iso_8601": "2020-01-05T21:55:00Z"
+        },
+        "updated_at": {
+            "unix": 1578261398,
+            "text": "2020-01-05 21:56:38 +0000",
+            "iso_8601": "2020-01-05T21:56:38Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASE CALENDAR IS AVAILABLE IN THE RESEARCH SECTION OF THE WEBSITE: Highlights include Chinese Caixin Services and Composite PMIs",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "asian-daily-economic-release-calendar-is-available-in-the-research-section-of-the-website-highlights-include-chinese-caixin-services-and-composite-pmis-05-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-06 05:55:00",
+        "gmt_time": "2020-01-05 21:55:00"
+    },
+    {
+        "id": 902538,
+        "updated_sequence": 2064426,
+        "published_at": {
+            "unix": 1578261300,
+            "text": "2020-01-05 21:55:00 +0000",
+            "iso_8601": "2020-01-05T21:55:00Z"
+        },
+        "updated_at": {
+            "unix": 1578261435,
+            "text": "2020-01-05 21:57:15 +0000",
+            "iso_8601": "2020-01-05T21:57:15Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p><strong>6th January 2020</strong></p><p><strong>GEOPOLITICS</strong></p><p><strong>US President Trump tweeted that US will quickly and fully strike back, perhaps in a disproportionate matter should Iran strike any US persons or targets. On Saturday, the President tweeted that Iran will be hit very fast and very hard, adding that the US wants no more threats.</strong> On Friday, Trump stated that his most solemn duty is the defense of the nation; confirms he directed the killing of Soleimani, who was plotting imminent attacks on US diplomats and military personnel (Twitter)&nbsp;</p><p><strong>Reports noted of multiple rocket impacts in the vicinity of the US Embassy in Baghdad which resulted in civilian casualties, via ELINT News. Reports noted that three Katyusha rockets fell inside Baghdad’s green zone near the US Embassy. Two civilians from the US Department of Defense were reportedly wounded, according to INTELSky. Furthermore, a US official notes that Iranian missile forces across the country are at a heightened state of alert, although it is unclear if Iran is in the defensive or preparing offensively. (Newswires)</strong> <i>This comes after Iraq’s Kataib Hezbollah militia warned Iraqi security forces to stay away from US bases in the country from Sunday, reported via al-Mayadeen TV.</i></p><p><strong>Iran may retaliate by striking allies of America in Iraq and the Middle East, according to CNN citing a “well-informed” source. (CNN)</strong></p><p><strong>Iran has finalised a new retreat from the Nuclear Deal in which it will not comply with any restrictions on the amount of uranium enrichment, enrichment rate and number of centrifuges. (Al-Jazeera)</strong></p><p><strong>The Iraqi parliament has voted for the government to work on plans to end US troop presence in Iraq following the assassination of Senior IRGC Commander Suleimani. (CNN) Further, Iraqi Militia leader Khazali said if US troops will be considered an occupying force if they do not leave.</strong> In response, US strongly urged Iraqi leaders to take into account the US0-Iraq economic and security relationship. (Newswires)</p><p><strong>Hackers claiming to be from Iran reportedly hacked a US government website dedicated to the Federal Depositary Library Programme and posted messages vowing revenge for the assassination of Senior IRGC Commander Suleimani. (Guardian)</strong></p><p><strong>Iranian Foreign Ministry spokesman stated that no war can be expected but Iran is prepared for all possibilities. (Al-Jazeera) On Friday, Iranian Foreign Minister Zarif says Iran will retaliate to the US' attack at any time and any way, according to state TV. (Newswires)&nbsp;</strong></p><p><strong>US Military said one US service member and two American defence contractors have been killed at Manda Bay airfield in Kenya following an attack by al-Qaeda branch Al-Shabab. (Newswires)</strong></p><p>Turkish military units have started its move towards Libya, according to reports, despite Libya’s parliament unanimously voting against Turkey’s military intervention in the region. (Al-Jazeera)</p><p>&nbsp;</p><p><strong>ASIA-PAC</strong></p><p><strong>Chinese trade delegation, led by Vice Premier Liu He, tentatively plans to travel to Washington on January 13th to sign the Phase One trade agreement and will return on January 16th, according to a source cited by SCMP. (SCMP)</strong></p><p><strong>China has dismissed the official in charge of relations with Hong Kong, Wang Zhimin, who will be replaced by the Communist Party Secretary for Shanxi, Luo Huining. (BBC)</strong></p><p>China will not “sit idle” if Huawei is excluded from Germany’s 5G rollout, according to Global Times citing the Commercial Counsellor of the Chinese Embassy in Germany. (Global Times)</p><p>&nbsp;</p><p><strong>UK/EU</strong></p><p><strong>UK PM Johnson will this week urge European Commission President von der Leyen to conduct intense trade negotiations within weeks. The EC President will be meeting with UK PM Johnson on Wednesday. (FT/Newswires)</strong></p><p><strong>France has warned that the US will face retaliation from the EU of it attempts to impose “highly disproportionate” trade tariffs in response to digital tax against tech-giants. (FT)</strong></p><p>Acting Spanish PM Sanchez has lost the first round of voting (166 vs 165 against, 18 abstentions, 1 no-vote) to support the formation of government. An absolute majority was needed to win the round (176 out of a possible 350). The second round will be conducted on 7th January and requires a simple majority – which is he likely to obtain. (RTE/Sputnik)</p><p>Austria’s Foreign Ministry has been targeted by a “serious cyber-attack” which the ministry suggests could have been conducted by a “state actor”. (BBC)</p><p>DATA RECAP</p><p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; German CPI Prelim YY (Dec) 1.5% vs. Exp. 1.4% (Prev. 1.1%) (Newswires)</p><p>&nbsp;</p><p><strong>FOMC MINUTES</strong></p><p><strong>Minutes from the December meeting stated that the current stance \"likely to remain appropriate for a time\", and minutes do not outline a contrary view</strong>. A few raised concerns that low rates for a long time could exacerbate imbalances in the financial sector whilst many saw risks to the outlook as tilted to the downside, but some risks had eased in recent months. Policymakers agreed that they would not reaffirm existing statement on long-run goals in the January statement, but would revisit these in mid-2020. The minutes also stated that the Fed will discuss SRF in upcoming meetings and technical adjustments to IOER may be seen ahead.</p><p>&nbsp;</p><p><strong>FX&nbsp;</strong></p><p>Turkish President Erdogan reiterated that the country’s interest rates, and inflation will fall to single digits this year. (Newswires)</p><p>&nbsp;</p><p><strong>COMMODITIES</strong></p><p><strong>US EIA Weekly Crude Stocks w/e -11.463M vs. Exp. -3.288M (Prev. -5.474M) (Newswires)</strong> US EIA Weekly Crude Production 12.9M (Prev. 12.9M)</p><p>Baker Hughes US Rig Count (3th Jan): Oil -7 at 670, natural gas -2 at 123 and total rigs -9 at 796 rigs. (Newswires)</p><p>&nbsp;</p><p><strong>US&nbsp;</strong></p><p><strong>White House Trade Advisor Navarro said there will be an anchor of growth closer to 3% in 2020. (Fox)</strong></p><p><strong>Fed’s Kaplan (Voter)</strong> said Fed should not make any moves with the fed funds rate. it is too early to guess if a rate hike or cut comes next. He expects 2020 to deliver solid growth and said he would be willing to allow inflation to run above target for a short amount of time. Kaplan sees US sees growth between 2.00-2.25% this year, though he noted ongoing uncertainties on trade, as well as manufacturing difficulties. (Newswires)</p><p><strong>Fed's Barkin (Non-Voter)</strong> said he wants to see the effects of the insurance rate cuts before taking further action; when asked about student debt, doesn't think the consumer is overleveraged yet. the Fed is focused on providing liquidity during pressure days in the repo market; April 15th could serve as such a date; USD 1.5trln in reserves is a reasonable amount while longer term solutions are worked on</p><p>DATA RECAP</p><p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; US ISM Manufacturing PMI (Dec) 47.2 vs. Exp. 49.0 (Prev. 48.1)</p><p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; US ISM Manufacturing New Orders Index (Dec) 46.8 (Prev. 47.2)</p><p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; US ISM Manufacturing Employment Index (Dec) 45.1 (Prev. 46.6)</p><p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; US ISM Manufacturing Prices Paid (Dec) 51.7 vs. Exp. 47.5 (Prev. 46.7)</p><p>&nbsp;</p><p><strong>MARKET RECAP</strong></p><p><strong>* CLOSING LEVELS: SPX -0.7% at 3234.81; NDX -0.9% at 8793.90; DJIA -0.8% at 28634.88. SECTORS: Utilities +0.1%, industrials -0.1%, consumer staples -0.2%, energy -0.3%, communications Services -0.6%, telecoms -0.6%, health care -0.9%, consumer discretionary -0.9%, IT -1.1%, financials -1.1%, materials -1.6%. </strong>Upstream energy and oilfield services stocks (XOP, SLB, HAL) surged after the spike in oil prices from the US attack on Iranian officials in Iraq, also supporting defence names such as Lockheed Martin (LMT), Northrup Grumman (NOC) and L3Harris Technologies (LHX), whilst airlines (LUV, DAL, AAL, UAL) tumbled lower, as did financials (BKX, XLF, JPM, C, WFC, BAC) on the flatter Treasury curve, with cyclical sectors in general underperforming on the hit to risk appetite, which boosted goldminers (NEM, GOLD, KL) on firmer bullion prices. Elsewhere, Incyte (INCY) took a haircut after a Phase 3 trial failure. Tesla (TSLA) surged amid it posting record delivery figures for Q4 19. Lamb Weston (LW) also surged after a Q2 revenue beat and raising its FY profit guidance. L Brands (LB) was firmer on an upgrade at BofA.</p><p><strong>* US T-NOTE FUTURES (H0) SETTLED 24+ TICKS HIGHER AT 129-12+. </strong>The TPLEX caught a bid on the step-up in geopolitical risk, which saw a flight-to-quality across macro markets, which became more acute throughout the session (10s yields down by around 9bps). The curve bull-flattened, particularly in the front to belly, with the 2s10s narrowing by around 4bps at settlement, and 2s30s narrowing by around 3bps at settlement (taking this week’s 2s30s narrowing to around 8bps). The complex shrugged-off grim ISM as well as the Fed’s December’s meeting minutes, despite the former’s headline falling to the lowest since 2009. Traders also noted that it was interesting that, while equities rebounded off of lows from the late European morning onwards, the Treasury space has not done so, with the T-Note only slightly off highs at settlement.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "daily-asia-pac-opening-news-05-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-06 05:55:00",
+        "gmt_time": "2020-01-05 21:55:00"
+    }
+]

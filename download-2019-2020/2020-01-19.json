@@ -1,0 +1,384 @@
+[
+    {
+        "id": 904502,
+        "updated_sequence": 2074062,
+        "published_at": {
+            "unix": 1579477980,
+            "text": "2020-01-19 23:53:00 +0000",
+            "iso_8601": "2020-01-19T23:53:00Z"
+        },
+        "updated_at": {
+            "unix": 1579493370,
+            "text": "2020-01-20 04:09:30 +0000",
+            "iso_8601": "2020-01-20T04:09:30Z"
+        },
+        "subject": "Voice of America's White House Bureau Chief Herman tweets President Trump says will vigorously enforce terms but hopefully wont have to regarding US-China trade deal, adds we'll probably have ceremony in White House for USMCA signing",
+        "content": "<p>Says</p><ul><li>President Trump suggests Europe in many ways is more difficult than China on trade disputes.</li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Twitter",
+        "slug": "voice-of-america-s-white-house-bureau-chief-herman-tweets-president-trump-says-will-vigorously-enforce-terms-but-hopefully-wont-have-to-regarding-us-china-trade-deal-adds-we-ll-probably-have-ceremony-in-white-house-for-usmca-signing-19-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-20 07:53:00",
+        "gmt_time": "2020-01-19 23:53:00"
+    },
+    {
+        "id": 904501,
+        "updated_sequence": 2074144,
+        "published_at": {
+            "unix": 1579477740,
+            "text": "2020-01-19 23:49:00 +0000",
+            "iso_8601": "2020-01-19T23:49:00Z"
+        },
+        "updated_at": {
+            "unix": 1579498568,
+            "text": "2020-01-20 05:36:08 +0000",
+            "iso_8601": "2020-01-20T05:36:08Z"
+        },
+        "subject": "PRE-MARKET JAPANESE AND SOUTH KOREAN STOCK NEWS: Toshiba (6502 JT) subsidiary may have misreported as much as JPY 20bln in revenue",
+        "content": "<p>JAPAN</p><p>All Nippon Airways (9202 JT) - Co. agrees to a comprehensive tie-up with Singapore Airlines (SIA SP). (Nikkei)</p><p>Marubeni (8002 JT) - Qatar is to build a solar power plant with Marubeni and Total (FP FP). (Newswires)</p><p>Mitsubishi Electric Corp (6503 JT) - Co. may have experienced a cyber attack. (Newswires)</p><p>Nippon Prologis REIT (3283 JT) - Co. is to conduct a share offering to raise as much as USD 297mln. (Newswires)</p><p>Toshiba (6502 JT) - Co. subsidiary may have misreported as much as JPY 20bln in revenue. (Newswires)</p><p>Toshiba Machine (6104 JT) - Co. said it received notice shareholders linked to activist investor Murakami will launch a bid to widen stake which is currently nearly at 11.5%. (Nikkei)&nbsp;</p><p>&nbsp;</p><p>SOUTH KOREA</p><p>Hyundai Motor (005380 KS) - Co. to review joint electric car battery plant with LG Chem (051910 KS). (Newswires)</p><p>Kia Motors (000270 KS) - Co. unionized workers accepted the revised wage offers for FY2019. (Yonhap)</p><p>Lotte Corp (004990 KS) - Lotte Group founder Shin died over the weekend at the age of 98. (Nikkei)</p><p>Samsung Electronics (005930 KS) - Co. may appoint Roh Tae-Moon as the new head of its smartphone business, Co. also plans to spend USD 500mln on display plant in India. (Newswires)</p><p>Tech - South Korea government will invest KRW 1.0tln over the next decade to nurture the next-gen semiconductor sector. (Yonhap)</p><p>Other News - North Korea replaced Foreign Minister Ri Yong Ho with Ri Son Gwon which reports suggest could be possibly seen as a policy shift regarding relations with US and North Korea, while almost half of North Korean party vice chairmen were replaced in a recent convention. (Newswires/Yonhap)&nbsp;</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-japanese-and-south-korean-stock-news-toshiba-6502-jt-subsidiary-may-have-misreported-as-much-as-jpy-20bln-in-revenue-19-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-20 07:49:00",
+        "gmt_time": "2020-01-19 23:49:00"
+    },
+    {
+        "id": 904500,
+        "updated_sequence": 2073942,
+        "published_at": {
+            "unix": 1579476840,
+            "text": "2020-01-19 23:34:00 +0000",
+            "iso_8601": "2020-01-19T23:34:00Z"
+        },
+        "updated_at": {
+            "unix": 1579476909,
+            "text": "2020-01-19 23:35:09 +0000",
+            "iso_8601": "2020-01-19T23:35:09Z"
+        },
+        "subject": "Wuhan Health Commission in China confirmed 136 new cases of coronavirus emerged over the weekend",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "wuhan-health-commission-in-china-confirmed-136-new-cases-of-coronavirus-emerged-over-the-weekend-19-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-20 07:34:00",
+        "gmt_time": "2020-01-19 23:34:00"
+    },
+    {
+        "id": 904500,
+        "updated_sequence": 2073942,
+        "published_at": {
+            "unix": 1579476840,
+            "text": "2020-01-19 23:34:00 +0000",
+            "iso_8601": "2020-01-19T23:34:00Z"
+        },
+        "updated_at": {
+            "unix": 1579476909,
+            "text": "2020-01-19 23:35:09 +0000",
+            "iso_8601": "2020-01-19T23:35:09Z"
+        },
+        "subject": "Wuhan Health Commission in China confirmed 136 new cases of coronavirus emerged over the weekend",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "wuhan-health-commission-in-china-confirmed-136-new-cases-of-coronavirus-emerged-over-the-weekend-19-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-20 07:34:00",
+        "gmt_time": "2020-01-19 23:34:00"
+    },
+    {
+        "id": 904499,
+        "updated_sequence": 2073937,
+        "published_at": {
+            "unix": 1579474860,
+            "text": "2020-01-19 23:01:00 +0000",
+            "iso_8601": "2020-01-19T23:01:00Z"
+        },
+        "updated_at": {
+            "unix": 1579475130,
+            "text": "2020-01-19 23:05:30 +0000",
+            "iso_8601": "2020-01-19T23:05:30Z"
+        },
+        "subject": "Oil futures jump at the reopen of electronic trade with WTI crude futures higher by 1.6% on Libya supply disruptions after the LNA ordered the blockade of ports in the eastern region",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>NOC noted that the blockade would see oil exports drop by 700k bpd and a drop in production by 800k bpd, while it also warned that the country’s oil output could slump to 72k bpd from around 1.2mln bpd within several days if blockades persist.&nbsp;</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1579475130,
+            "text": "2020-01-19 23:05:30 +0000",
+            "iso_8601": "2020-01-19T23:05:30Z"
+        },
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "oil-futures-jump-at-the-reopen-of-electronic-trade-with-wti-crude-futures-higher-by-1-6-on-libya-supply-disruptions-after-the-lna-ordered-the-blockade-of-ports-in-the-eastern-region-19-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-20 07:01:00",
+        "gmt_time": "2020-01-19 23:01:00"
+    },
+    {
+        "id": 904498,
+        "updated_sequence": 2073939,
+        "published_at": {
+            "unix": 1579474560,
+            "text": "2020-01-19 22:56:00 +0000",
+            "iso_8601": "2020-01-19T22:56:00Z"
+        },
+        "updated_at": {
+            "unix": 1579475540,
+            "text": "2020-01-19 23:12:20 +0000",
+            "iso_8601": "2020-01-19T23:12:20Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIAN STOCK NEWS: Independence Group has switched its name to IGO Limited and changes Co. type from no liability to Co. limited by shares approved by shareholders, while it notes takeover bid for Panoramic has lapsed",
+        "content": "<p>Australian Pacific Coal (AQC AT) - Co. acting CEO Munro has tendered resignation. (Newswires)</p><p>IGO Limited (IGO AT) - Independence Group has switched its name to IGO Limited and changes Co. type from no liability to Co. limited by shares approved by shareholders, while it notes takeover bid for Panoramic has lapsed. (Newswires)</p><p>NIB Holdings (NHF AT) - Co. lowers FY20 underlying oper. profit guidance to at least AUD 170mln from Prev. of at least AUD 200mln. (Newswires)</p><p>Super Retail Group (SUL AT) - Co. H1 LFL sales rose 1.7% Y/Y and total sales rose 2.9% Y/Y. (Newswires)</p><p>Sydney Airport (AYD AT) - Co. December passengers rose 0.6% Y/Y. (Newswires)</p><p>Woodside Petroleum (WPL AT) - Co. reportedly may need to raise equity if stake sell down in Scarborough gas project is delayed. (Newswires)</p><p>Other News - Australia negotiators with China are to seek similar trade concessions made to the US in which relaxed inspection, licensing and technical regulations to dairy products, to also be applied to other Australian companies. (Newswires)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-australian-stock-news-independence-group-has-switched-its-name-to-igo-limited-and-changes-co-type-from-no-liability-to-co-limited-by-shares-approved-by-shareholders-while-it-notes-takeover-bid-for-panoramic-has-lapsed-19-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-20 06:56:00",
+        "gmt_time": "2020-01-19 22:56:00"
+    },
+    {
+        "id": 904497,
+        "updated_sequence": 2073929,
+        "published_at": {
+            "unix": 1579474020,
+            "text": "2020-01-19 22:47:00 +0000",
+            "iso_8601": "2020-01-19T22:47:00Z"
+        },
+        "updated_at": {
+            "unix": 1579474163,
+            "text": "2020-01-19 22:49:23 +0000",
+            "iso_8601": "2020-01-19T22:49:23Z"
+        },
+        "subject": "US administration is said to criticize the UK government of “foot dragging” regarding negotiations for a UK-US trade deal as time runs short heading into a summer deadline, according to The Sun",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "The Sun",
+        "slug": "us-administration-is-said-to-criticize-the-uk-government-of-foot-dragging-regarding-negotiations-for-a-uk-us-trade-deal-as-time-runs-short-heading-into-a-summer-deadline-according-to-the-sun-19-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-20 06:47:00",
+        "gmt_time": "2020-01-19 22:47:00"
+    },
+    {
+        "id": 904496,
+        "updated_sequence": 2073926,
+        "published_at": {
+            "unix": 1579473240,
+            "text": "2020-01-19 22:34:00 +0000",
+            "iso_8601": "2020-01-19T22:34:00Z"
+        },
+        "updated_at": {
+            "unix": 1579473327,
+            "text": "2020-01-19 22:35:27 +0000",
+            "iso_8601": "2020-01-19T22:35:27Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASE CALENDAR IS AVAILABLE IN THE RESEARCH SECTION OF THE WEBSITE: Highlights include PBoC Loan Prime Rate; US is closed on Monday for Martin Luther King Jr. Day",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "asian-daily-economic-release-calendar-is-available-in-the-research-section-of-the-website-highlights-include-pboc-loan-prime-rate-us-is-closed-on-monday-for-martin-luther-king-jr-day-19-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-20 06:34:00",
+        "gmt_time": "2020-01-19 22:34:00"
+    },
+    {
+        "id": 904495,
+        "updated_sequence": 2073921,
+        "published_at": {
+            "unix": 1579472400,
+            "text": "2020-01-19 22:20:00 +0000",
+            "iso_8601": "2020-01-19T22:20:00Z"
+        },
+        "updated_at": {
+            "unix": 1579472726,
+            "text": "2020-01-19 22:25:26 +0000",
+            "iso_8601": "2020-01-19T22:25:26Z"
+        },
+        "subject": "A deepening fault line is emerging between UK and EU regarding how much Britain must continue to adhere some EU regulations post-Brexit in return for a basic FTA, according to Telegraph citing officials",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>As a reminder, the UK is officially set to leave the EU on January 31st after having been delayed 3 times. In addition, there were recent reports that the Society of Motor Manufacturers warned that a split away from EU regulations post-Brexit will cost UK billions and impact consumer choice, in response following comments by UK Chancellor Javid that there would not be an alignment and that companies would have to adjust.</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1579472726,
+            "text": "2020-01-19 22:25:26 +0000",
+            "iso_8601": "2020-01-19T22:25:26Z"
+        },
+        "push_notify": false,
+        "source": "Telegraph",
+        "slug": "a-deepening-fault-line-is-emerging-between-uk-and-eu-regarding-how-much-britain-must-continue-to-adhere-some-eu-regulations-post-brexit-in-return-for-a-basic-fta-according-to-telegraph-citing-officials-19-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 38,
+            "name": "Brexit"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-20 06:20:00",
+        "gmt_time": "2020-01-19 22:20:00"
+    },
+    {
+        "id": 904494,
+        "updated_sequence": 2073923,
+        "published_at": {
+            "unix": 1579472100,
+            "text": "2020-01-19 22:15:00 +0000",
+            "iso_8601": "2020-01-19T22:15:00Z"
+        },
+        "updated_at": {
+            "unix": 1579472755,
+            "text": "2020-01-19 22:25:55 +0000",
+            "iso_8601": "2020-01-19T22:25:55Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p><strong>ASIA-PAC</strong></p><p>Chinese Vice Premier Liu He said both US and China realise it is necessary to push US-Sino economic and trade relations back on track as soon as possible. (Newswires)</p><p>China NDRC spokesperson commented that China will negotiate with US companies and raise it imports from US according to market principles. (Newswires)</p><p>China will continue to cut taxes on a large scale in 2020, according to state media. (Newswires)</p><p>&nbsp;</p><p><strong>UK/EU</strong></p><p>The Society of Motor Manufacturers warned that a split away from EU regulations post-Brexit will cost UK billions and impact consumer choice, in response following comments by UK Chancellor Javid that there would not be an alignment and that companies would have to adjust. (FT)</p><p>French Finance Minister Le Maire said EU is making progress with the US on the digital tax issue and reiterated that the EU will retaliate if US imposes sanctions against France, while he made proposals to resolve the digital tax dispute to US Treasury Secretary Mnuchin. (Newswires)</p><p>Fitch affirmed Germany at 'AAA'; Outlook Stable and affirmed Slovenia at A; Outlook Stable. (Newswires)</p><ul><li>UK Retail Sales (Dec) M/M -0.6% vs. Exp. 0.5% (Prev. -0.6%, Rev. -0.8%). (Newswires)</li><li>UK Retail Sales (Dec) Y/Y 0.9% vs. Exp. 2.6% (Prev. 1.0%, Rev. 0.8%)</li><li>EU HICP Final (Dec) Y/Y 1.3% vs. Exp. 1.3% (Prev. 1.3%)</li></ul><p>&nbsp;</p><p><strong>COMMODITIES</strong></p><p>Baker Hughes US Rig Count (17th Jan) Oil rigs +14 at 673, natural gas +1 at 120 and total rigs +15 at 796 rigs. (Newswires)</p><p>Libya's National Oil Corp. declared a force majeure due after the LNA ordered the blockade of ports in the eastern region which would see oil exports drop by 700k bpd and a drop in production by 800k bpd, while the NOC noted that only one port will stay open and sees the country’s oil output to be cut to 72k bpd from around 1.2mln bpd within several days if blockades persist. (Newswires/Twitter)</p><p>&nbsp;</p><p><strong>GEOPOLITICS</strong></p><p>US President Trump criticized Iran’s leadership in which he stated that \"The so-called 'Supreme Leader' of Iran, who has not been so Supreme lately, had some nasty things to say about the United States and Europe\". President Trump also stated that Iran’s economy is crashing and people are suffering, while he added the Supreme Leader should be very careful with his words. (Twitter)</p><p>Over 80 Yemeni soldiers were killed and many others injured from a missile and drone attack allegedly conducted by Houthi rebels in central Yemen. (Newswires) US received intelligence related to a potentially imminent attack being planned against its military personnel stationed in Germany, according to Twitter reports citing an official memo seen by Newsweek. (Twitter/Newsweek)</p><p>&nbsp;</p><p><strong>US</strong></p><p>Fed’s Harker (Voter, Neutral) said he expects the US economy to grow around 2% this year (in-line with Fed’s median view) and expects inflation to reach the Fed’s 2% target. Harker added that the US Labour market is outperforming forecasts with low unemployment and workers coming off side-lines but noted that the global slowdown, trade uncertainty and geopolitical tensions are holding back business investments. (Newswires)</p><p>NEC Director Kudlow said appointing Judy Shelton and Christopher Waller to the Federal Reserve Board in part because they believe faster economic growth does not cause inflation, while Kudlow added that Shelton should have no difficulty getting confirmation to join the Fed. (FBN/Twitter)</p><ul><li>US Industrial Production (Dec) M/M -0.3% vs. Exp. -0.2% (Prev. 1.1%, Rev. 0.8%). (Newswires)</li><li>US Building Permits Number (Dec) 1.416M vs. Exp. 1.468M (Prev. 1.474M)</li><li>US Housing Starts Number (Dec) 1.608M vs. Exp. 1.375M (Prev. 1.365M, Rev. 1.375M)</li><li>US University of Michigan Consumer Sentiment (Jan) 99.1 vs. Exp. 99.3 (Prev. 99.3)</li><li>US University of Michigan Conditions (Jan) 115.8 vs. Exp. 115.0 (Prev. 115.5)</li></ul><p>&nbsp;</p><p><strong>MARKET RECAP</strong></p><p>Wal-Mart (WMT) was pressured after WSJ reported it is considering a US management re-shuffle following the holiday period, which saw many retailers report poor figures, with some attributing the delayed Thanksgiving. Boeing (BA) sold off after ABC reported its 737 flight computers could not talk to each other at the start up in a test flight, although it is unclear how long the fix will take. Boeing responded noting they are working on fixing the latest software issue with the FAA. Tesla (TSLA) also saw downside after reports it is being reviewed by the US Auto Safety Agency to seek an investigation into 500k vehicles for sudden unintended acceleration, according to a government document. Alphabet (GOOGL) surpassed USD 1trln market cap just before yesterday’s close and continued its gain driving outperformance in its Sector. Energy was a large underperformer following a decline in natgas prices which weighed on producers EQT Corp. (EQT), Chesapeake (CHK), and to a lesser extent, Exxon Mobil (XOM). Qualcomm (QCOM) saw an upgrade from Citi, who boosted its forecasts on the name as the “long awaited 5G ramp begins to take shape”. On the earnings front, truckers were sold off after poor earnings from JB Hunt (JBHT) and Expeditor (EXPD), where the latter also reported poor guidance. Meanwhile, State Street (STT) had strong figures and Citizens Financial (CFG) benefited from a dividend increase, and Regions Financial (RF) was hit on a slight miss on earnings, and a decline in NIM. SPX +0.34% at 3,328, NDX +0.53% at 9,174, DJI +0.17% at 29,348.</p><p>T-Notes sold off as the US session got underway, with a new US 20-year bond unveiling, strengthening US Dollar and decent housing data weighing on duration. The 10-year yield found resistance at just below 1.85%, before retreating somewhat in the latter end of the session. Note that the long bond saw the most selling pressure earlier in the session on the back of the US Treasury announcing it would be increasing its maturity offerings with a new 20-year bond, to launch in 2020. By settlement, the Treasury curve was steeper, with the 2-year yield little changed whilst the 30-year yield was 3bps higher. More broadly, the T-Note future settled little changed on the week, where participants digested a slew of factors, including another strong week of corporate issuance, the Phase 1 deal signing and a mixed bag of data (lacklustre CPI against firm retail sales), all in the background of US equity bourses continuing to push to new all-time-highs. US T-note futures (H0) settled 3+ ticks lower at 129-01+.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-asia-pac-opening-news-19-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-20 06:15:00",
+        "gmt_time": "2020-01-19 22:15:00"
+    },
+    {
+        "id": 904307,
+        "updated_sequence": 2073910,
+        "published_at": {
+            "unix": 1579471200,
+            "text": "2020-01-19 22:00:00 +0000",
+            "iso_8601": "2020-01-19T22:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1579471200,
+            "text": "2020-01-19 22:00:00 +0000",
+            "iso_8601": "2020-01-19T22:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-16-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-20 06:00:00",
+        "gmt_time": "2020-01-19 22:00:00"
+    }
+]

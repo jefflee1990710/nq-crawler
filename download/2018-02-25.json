@@ -1,0 +1,274 @@
+[
+    {
+        "id": 611030,
+        "updated_sequence": 782951,
+        "published_at": {
+            "unix": 1519602000,
+            "text": "2018-02-25 23:40:00 +0000",
+            "iso_8601": "2018-02-25T23:40:00Z"
+        },
+        "updated_at": {
+            "unix": 1519602256,
+            "text": "2018-02-25 23:44:16 +0000",
+            "iso_8601": "2018-02-25T23:44:16Z"
+        },
+        "subject": "PRE-MARKET JAPANESE AND SOUTH KOREAN STOCK NEWS: Samsung Electronics (005935 KS) launched its Galaxy S9 smartphone",
+        "content": "<p>JAPAN</p>\r\n\r\n<p>ANA Holdings (9202 JT)<br />- Co. is said to invest JPY 1.7tln over half a decade on purchases of aircrafts and to implement labour-saving technology. (Newswires)</p>\r\n\r\n<p>Dainippon Sumitomo Pharma (4506 JT)<br />- Co. named Executive VP Nomura for the next President and CEO role in replacement of Tada who has been named as the next Chairman. (Newswires)</p>\r\n\r\n<p>Kubota (6326 JT)<br />- Co. is said to spend about JPY&nbsp;40bln on facilities in France and US. (Newswires)</p>\r\n\r\n<p>Shimamura (8227 JT)<br />- Co. February same-store sales fell 3.8% Y/Y. (Newswires)</p>\r\n\r\n<p>Yamato Holdings (9064 JT)<br />- Co. is to expand its logistics operations in Southeast Asia. (Nikkei)</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>SOUTH KOREA</p>\r\n\r\n<p>Samsung Electronics (005935 KS)<br />- Co. launched Galaxy S9 which looked similar to the prior year&rsquo;s model and included many software upgrades. (Newswires)</p>\r\n\r\n<p>Ssangyong Motor (003620 KS)<br />- Co. is to recall more than 74,000 vehicles in South Korea due to faulty break pipes. (Yonhap)</p>\r\n\r\n<p>Airlines<br />- South Korean air passenger traffic rose by 5.2% Y/Y to a record 109.4mln passengers for 2017. (Yonhap)</p>\r\n\r\n<p>Financials<br />- South Korean total financial firms&rsquo; assets under management rose 4.7% Y/Y to KRW 950tln during 2017. (Newswires)</p>\r\n\r\n<p>Steel names<br />- US President Trump is said to want a 24% global tariff on steel imports. (Newswires)</p>\r\n\r\n<p>Other News<br />- North Korean senior officials said on Sunday their government was open to talks with the US, while the US responded that any talks with North Korea must lead to an end to its nuclear program.<br />- US announced on Friday its largest sanctions so far against those suspected of backing North Korea&#39;s nuclear and missile programs, in which it seeks to crackdown on ship-to-ship oil transfers used by North Korea to evade United Nations sanctions. (Nikkei)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-japanese-and-south-korean-stock-news-samsung-electronics-005935-ks-launched-its-galaxy-s9-smartphone-25-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-26 07:40:00",
+        "gmt_time": "2018-02-25 23:40:00"
+    },
+    {
+        "id": 611029,
+        "updated_sequence": 782948,
+        "published_at": {
+            "unix": 1519600620,
+            "text": "2018-02-25 23:17:00 +0000",
+            "iso_8601": "2018-02-25T23:17:00Z"
+        },
+        "updated_at": {
+            "unix": 1519600687,
+            "text": "2018-02-25 23:18:07 +0000",
+            "iso_8601": "2018-02-25T23:18:07Z"
+        },
+        "subject": "BESIX enters scheme of implementation to acquire further 36% stake in Watpac (WTP AT) for AUD 0.92/Shr",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "besix-enters-scheme-of-implementation-to-acquire-further-36-stake-in-watpac-wtp-at-for-aud-0-92-shr-25-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-26 07:17:00",
+        "gmt_time": "2018-02-25 23:17:00"
+    },
+    {
+        "id": 611028,
+        "updated_sequence": 782945,
+        "published_at": {
+            "unix": 1519600140,
+            "text": "2018-02-25 23:09:00 +0000",
+            "iso_8601": "2018-02-25T23:09:00Z"
+        },
+        "updated_at": {
+            "unix": 1519600195,
+            "text": "2018-02-25 23:09:55 +0000",
+            "iso_8601": "2018-02-25T23:09:55Z"
+        },
+        "subject": "China's Guangzhou is said to study a free trade port",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "china-s-guangzhou-is-said-to-study-a-free-trade-port-25-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-26 07:09:00",
+        "gmt_time": "2018-02-25 23:09:00"
+    },
+    {
+        "id": 611027,
+        "updated_sequence": 782942,
+        "published_at": {
+            "unix": 1519599600,
+            "text": "2018-02-25 23:00:00 +0000",
+            "iso_8601": "2018-02-25T23:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1519599884,
+            "text": "2018-02-25 23:04:44 +0000",
+            "iso_8601": "2018-02-25T23:04:44Z"
+        },
+        "subject": "Hungary Consumer Confidence (Feb) -7.6 (Prev. -8.9)",
+        "content": "<p>Hungary Business Confidence (Feb) 15.5&nbsp;(Prev. 14.2)<br />Hungary Economic Sentiment&nbsp;(Feb) 9.5&nbsp;(Prev. 8.2)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "hungary-consumer-confidence-feb-7-6-prev-8-9-25-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-26 07:00:00",
+        "gmt_time": "2018-02-25 23:00:00"
+    },
+    {
+        "id": 611026,
+        "updated_sequence": 782934,
+        "published_at": {
+            "unix": 1519598820,
+            "text": "2018-02-25 22:47:00 +0000",
+            "iso_8601": "2018-02-25T22:47:00Z"
+        },
+        "updated_at": {
+            "unix": 1519599358,
+            "text": "2018-02-25 22:55:58 +0000",
+            "iso_8601": "2018-02-25T22:55:58Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIAN STOCK NEWS: AIA (1299 HK) and AIG (AIG) are said to be eyeing AUD 5bln worth of AMP (AMP AT) assets",
+        "content": "<p>AMP Capital (AMP AT)<br />- AIA (1299 HK) and AIG (AIG) are said to be looking at AUD 5bln worth of AMP assets. (The Australian)<br /><br />APA Group (APA AT)<br />- Co. completes institutional entitlement offer in which it raised AUD 288mln. (Newswires)</p>\r\n\r\n<p>Ausdrill (ASL AT)<br />- Co. H1 net AUD 35.5mln vs. Exp. AUD 20mln. (Newswires)</p>\r\n\r\n<p>Bluescope Steel (BSL AT)<br />- Co. H1 underlying net AUD 321.1mln vs.&nbsp;Exp. AUD 271mln. (Newswires)</p>\r\n\r\n<p>G8 Education (GEM AT)<br />- Co. FY17 underlying net AUD 92.9mln vs. Exp. AUD 96mln. (Newswires)</p>\r\n\r\n<p>Lend Lease (LLC AT)<br />- Co. is to be appointed as Master Development Partner for London&rsquo;s Euston Station. (Newswires)</p>\r\n\r\n<p>Newcrest Mining (NCM AT)<br />- Co. is to acquire a 27% interest in Lundin Gold for USD 250mln. (The Australian)</p>\r\n\r\n<p>QBE Insurance (QBE AT)<br />- Co. FY17 cash loss AUD 258mln vs. Exp. loss AUD 215mln. (Newswires)<br />- Co. offloads Latin American operations to Zurich Insurance (ZURN SW) in AUD 409mln deal. (Newswires)</p>\r\n\r\n<p>Telstra (TLS AT)<br />- Co. and Ericsson are preparing 4G and 5G roadmap in Australia. (Newswires)</p>\r\n\r\n<p>Transurban (TCL AT)<br />- Co. is said to be the favourite amongst the prospective bidders to work with APG on WestConnex. (The Australian)</p>\r\n\r\n<p>Vocus Communications (VOC AT)<br />- Co. names interim CEO and affirms FY18 guidance. (Newswires)</p>\r\n\r\n<p>Watpac (WTP AT)<br />- Co. H1 net loss AUD 11.4mln vs. Prev. AUD 3.1mln Y/Y, rev. AUD 571.5mln vs. Prev. AUD 583.8mln Y/Y. (Newswires)</p>\r\n\r\n<ul><li>Energy<br />- WTI crude futures rose 1.3% to over USD 63.50/bbl.</li>\r\n</ul>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-australian-stock-news-aia-1299-hk-and-aig-aig-are-said-to-be-eyeing-aud-5bln-worth-of-amp-amp-at-assets-25-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-26 06:47:00",
+        "gmt_time": "2018-02-25 22:47:00"
+    },
+    {
+        "id": 611025,
+        "updated_sequence": 782926,
+        "published_at": {
+            "unix": 1519597320,
+            "text": "2018-02-25 22:22:00 +0000",
+            "iso_8601": "2018-02-25T22:22:00Z"
+        },
+        "updated_at": {
+            "unix": 1519597376,
+            "text": "2018-02-25 22:22:56 +0000",
+            "iso_8601": "2018-02-25T22:22:56Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASES CALENDAR NOW AVAILABLE IN THE RESEARCH SECTION: Highlights Include Japanese Leading Index and Singapore Industrial Production",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asian-daily-economic-releases-calendar-now-available-in-the-research-section-highlights-include-japanese-leading-index-and-singapore-industrial-production-25-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-26 06:22:00",
+        "gmt_time": "2018-02-25 22:22:00"
+    },
+    {
+        "id": 611024,
+        "updated_sequence": 782928,
+        "published_at": {
+            "unix": 1519596300,
+            "text": "2018-02-25 22:05:00 +0000",
+            "iso_8601": "2018-02-25T22:05:00Z"
+        },
+        "updated_at": {
+            "unix": 1519597869,
+            "text": "2018-02-25 22:31:09 +0000",
+            "iso_8601": "2018-02-25T22:31:09Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS:  ",
+        "content": "<p>ASIA-PAC</p>\r\n\r\n<p>Chinese House Prices (Jan) 5.0% (Prev. 5.3%). (Newswires)<br />China Property Prices rose M/M in 52 out of 70 cities (Prev. 57) and rose Y/Y in 59 out of 70 cities (Prev. 61).</p>\r\n\r\n<p>Chinese President Xi Jinping&rsquo;s policy advisor Liu He is said to emerge as the front runner to head the PBoC when current Governor Zhou retires. (Newswires)</p>\r\n\r\n<p>China&rsquo;s Communist Party is said to propose to drop limits on presidential terms which would allow President Xi Jinping to remain as the nation&rsquo;s president indefinitely. (Newswires)</p>\r\n\r\n<p>Australia&rsquo;s National Party elected Michael McCormack as its new leader who will also become the nation&rsquo;s Deputy Prime Minister. (Newswires)</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>US</p>\r\n\r\n<p>Fed&rsquo;s Williams (Voter, Neutral) stated to keep the expansion going we must not let the economy overheat, while he added that the labour market looks very strong and is seeing a pick-up in wage growth. (Newswires)</p>\r\n\r\n<p>Fed&#39;s Mester (Voter, Hawk) said the economic expansion is in place, labour markets are strong and sees inflation rising to 2%. Furthermore, Mester added it may be time to review the Fed&#39;s monetary policy framework. (Newswires)</p>\r\n\r\n<p><br />UK/EUROPE</p>\r\n\r\n<p>BoE&#39;s Ramsden stated &ldquo;There does seem to me more impetus on wages. We all will keep a close eye on what happens through the early part of this year to see if that forecast [in a Bank survey] of wage growth picking up to 3% is realised. But certainly relative to where I was, I see the case for rates rising somewhat sooner rather than somewhat later&rdquo;. (Sunday Times)<br /><em>Note:</em> &nbsp;<em>Ramsden was one of the two dissenters on the MPC when the BoE decided to hike rates in November 2017, citing concerns over wage growth prospects as a reason to refrain from lifting rates.</em></p>\r\n\r\n<p>Three cabinet ministers warned PM May during private talks on Brexit at her Chequers retreat last week that her government could collapse this year. Senior ministers say there are discussions about whether the prime minister should turn the vote into a confidence issue, threatening a general election if Tory MPs vote with the opposition. (Sunday Times)</p>\r\n\r\n<p>UK PM May is said to propose blurring her Brexit redline on the European Court of Justice and is said to mull signing up to EU regulators for key industries. (Newswires)</p>\r\n\r\n<p>EU is said to stand firm over Northern Ireland border and that the Brexit treaty text is to not include crucial compromise language secured by UK PM May. (FT)</p>\r\n\r\n<p>EU&rsquo;s Tusk said we have guidelines ready to start negotiations about future relations after Brexit whether the UK is ready with its vision or not, while he added that he is afraid the UK position at the moment is based on pure illusion. (Newswires)</p>\r\n\r\n<p>S&amp;P raised Russia Ratings to BBB- from BB+; Outlook revised to Stable and affirmed Turkey at &#39;BB&#39;; Outlook Negative. (Newswires)<br />Fitch affirmed Russia at &#39;BBB-&#39;; Outlook Positive and affirmed Slovenia at A-; Outlook Stable.<br /><br />UK police declared a major incident after an explosion occurred in Leicester, although reports later noted that there were no early indications the explosion was linked to terrorism. (Sky)</p>\r\n\r\n<p><br />FX</p>\r\n\r\n<p><a name=\"_Hlk504673747\">FOREX: DXY finishes the week green</a></p>\r\n\r\n<p>The DXY closes out the week in positive territory, though didn&rsquo;t manage to stay above the 90.00 mark. On Friday the DXY was trading within a range (between c.89.80 to c.90.00, with unsustained breaches on both sides). Where the greenback goes from here will largely depend on the dual testimony of new Fed governor Powell before lawmakers (next Tuesday and Thursday). While analyst chatter is largely focussing on inflation, some are looking for clues as to whether the Fed will likely raise it&rsquo;s longer-term view of where the Federal Funds Rate will peak in the cycle (a higher &lsquo;peak&rsquo; rate will help a steepening of the curve, which may lend to dollar strength, the theory goes).</p>\r\n\r\n<p>Other majors were also trading range-bound, unswayed by central bank speak from the Fed and ECB. GBP mostly looked through Brexit headlines (which again hint at difficulties in negotiations &ndash; next week&rsquo;s Brexit speech from PM May is eyed, as well as EU&rsquo;s Tusk coming to London). There was a mini flash crash in the pound that got some attention in pre-US trade (around 65 pips); although no convincing narrative has been put forward, thin liquidity around the 11am fix was cited, where 700mln GBP was put through on a single platform). Cable is flat just beneath 1.40, though trades with a positive bias vs the EUR (general weak EUR day).</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>COMMODITIES</p>\r\n\r\n<p>CRUDE: WTI futures settle 78 cents higher at $63.55 per barrel; Brent futures settle 92 cents higher at $67.31 per barrel</p>\r\n\r\n<p>Crude ends Friday on a firm footing, with CLc1 finishing green for the seventh straight session (according to Rtrs pricing, which differs slightly from daily settlement prices), capping another strong week for the crude complex (second week of gains). Today&rsquo;s theme picks up from Thursday&rsquo;s price action, where OPEC+ commentary was finally corroborated by weekly inventory data, though US production levels and export levels continued to be cautiously eyed by traders. There was further OPEC jawboning today, with Saudi&rsquo;s energy minister once again arguing that oil markets were rebalancing, and he sees inventories continuing to fall through the course of 2018. Elsewhere, Libya&rsquo;s El Feel oilfield (70k BPD) was shutdown, contributing to the bullish price action.</p>\r\n\r\n<p>US Baker Hughes Total Rig Count (16 Feb) 978 (Prev. 975). (Newswires)</p>\r\n\r\n<p>Saudi Arabia sees oil cuts to ease next year, which it expects would not hurt the market, according to Saudi Oil Minister Al Falih. (Newswires)</p>\r\n\r\n<p>South Africa&#39;s National Union of Mineworkers on Sunday said that Pan African Resources is to reduce 1,722 workers at its Evander Gold Mine. (Newswires)<a name=\"_Hlk506494646\"></a></p>\r\n\r\n<p><br />MARKET RECAP</p>\r\n\r\n<p>The ES H8 contract was again in the 2700 to 2730 battleground (50d MA around 2730 in focus), remaining in positive territory throughout the course of the session, with utilities and staples doing a lot of the heavy lifting (all sectors were green). Late in the day, however, ES managed to find some impetus in quiet trade, rising out of that range towards session highs &ndash; with some chatter of a mini short squeeze &ndash; shaking-off the lethargy seen in recent afternoon trade. There wasn&rsquo;t a specific narrative behind Friday&rsquo;s equity gains, with many news outlets attributing the gains to Fed-related headlines, though that seems to be trying to fit a narrative around the price action, rather than actually explaining the price action. Perhaps a more convincing explanation was the fall in US yields providing support (some models signal month-end Treasury buying). In stock specific news, HPE jumped after reporting earnings on Thursday, GIS was the laggard after announcing an $8bln deal to buy BUFF; in late trade, news that JWN family members were reportedly near finalising an offer to take the company private added a positive catalyst to equity trading. While stock trading has been choppy this week, ES finishes in the green (very slightly &ndash; and last week&rsquo;s highs haven&rsquo;t been meaningfully tested), though the range has been the narrowest in around six weeks. NDX +2% at 6897, SPX +1.61% at 2747, DJI +1.4% at 25311.</p>\r\n\r\n<p>Top sectors: Utilities +2.7%, Energy +2.2%, IT +2.2%<br />Bottom sectors: +0.8%, Telecom +0.8%, Consumer Staples +1%</p>\r\n\r\n<p>Month-end flows were seen supporting the Treasury Complex, and yields were lower across the curve. Some pointed out that index extensions this month are large, which may be contributing to Treasury buying. Some were also attributing Treasury gains to jittery stock markets, although that narrative is challenged by the equity price action, which has hardly screamed &lsquo;panic&rsquo;. The complex will likely take its next cue from Fed chair Powell&rsquo;s testimony to Congress next week; fixed income traders will be looking for clues as to whether the Fed will raise its assessment of long-term rates, which could help the curve steepen. US T-Note futures settle 10 ticks higher at 120-23+.</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-asia-pac-opening-news-25-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-26 06:05:00",
+        "gmt_time": "2018-02-25 22:05:00"
+    },
+    {
+        "id": 610898,
+        "updated_sequence": 782917,
+        "published_at": {
+            "unix": 1519596000,
+            "text": "2018-02-25 22:00:00 +0000",
+            "iso_8601": "2018-02-25T22:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1519596000,
+            "text": "2018-02-25 22:00:00 +0000",
+            "iso_8601": "2018-02-25T22:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-20-12-2017",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-26 06:00:00",
+        "gmt_time": "2018-02-25 22:00:00"
+    }
+]

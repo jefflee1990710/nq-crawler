@@ -1,0 +1,588 @@
+[
+    {
+        "id": 917053,
+        "updated_sequence": 2156590,
+        "published_at": {
+            "unix": 1585526340,
+            "text": "2020-03-30 00:59:00 +0100",
+            "iso_8601": "2020-03-29T23:59:00Z"
+        },
+        "updated_at": {
+            "unix": 1585526541,
+            "text": "2020-03-30 01:02:21 +0100",
+            "iso_8601": "2020-03-30T00:02:21Z"
+        },
+        "subject": "BoJ reiterates that capital buffers and liquidity requirements can be relaxed as needed",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "boj-reiterates-that-capital-buffers-and-liquidity-requirements-can-be-relaxed-as-needed-30-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 14,
+            "name": "BoJ"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-30 07:59:00",
+        "gmt_time": "2020-03-29 23:59:00"
+    },
+    {
+        "id": 917052,
+        "updated_sequence": 2156599,
+        "published_at": {
+            "unix": 1585525620,
+            "text": "2020-03-30 00:47:00 +0100",
+            "iso_8601": "2020-03-29T23:47:00Z"
+        },
+        "updated_at": {
+            "unix": 1585527031,
+            "text": "2020-03-30 01:10:31 +0100",
+            "iso_8601": "2020-03-30T00:10:31Z"
+        },
+        "subject": "PRE-MARKET JAPANESE & SOUTH KOREAN STOCK NEWS: Japanese PM Abe vowed an unprecedented economic stimulus which will include fiscal and monetary stimulus, as well as tax breaks for companies",
+        "content": "<p>JAPAN</p><p>ANA Holdings (9202 JT) - Co. is reportedly mulling a JPY 100bln loan. (Newswires)</p><p>JFE Holdings (5411 JT) - Co. will reduce its steel production capacity by 13% and will book a JPY 220bln impairment loss in its steel business. (Newswires)</p><p>Mitsui Engineering &amp; Shipbuilding (7003 JT) - Co. is to book a JPY 21.3bln loss related to Showa Aircaft stake sale. (Newswires)</p><p>Nissan (7201 JT) - Co. is to temporarily suspend output in Japan due to the coronavirus outbreak. (Newswores_</p><p>SoftBank (9984 JT) - Co.-backed satellite start up OneWeb Global, in which it along with Airbus (AIR FP) and Qualcomm (QCOM) had invested USD 3.4bln, has filed for bankruptcy. (Newswires)</p><p>Toyota (7203 JT) - Co. North America unit said it is prepared to produce masks during coronavirus pandemic and is seeking partners for filters. (Newswires)</p><p>Ex-Dividend - Mitsubishi UFJ Financial Group, Nintendo, SoftBank, Sony and Toyota are among the Co.s that trade ex-dividend today. (Newswires)&nbsp;</p><p>Other News Japanese PM Abe vowed an unprecedented economic stimulus which will include fiscal and monetary stimulus, as well as tax breaks for companies. (Newswires)</p><p>Japanese Economic Minister Nishimura said stimulus package will take into account postponed Olympics which will mean several trillion Yen worth of demand pushed into next year. (Newswires)</p><p>Japan government said to allow a 1-year tax extension for companies impacted by the coronavirus. (Nikkei)</p><p>Japan Parliament approved the JPY 102.7tln fiscal budget on Friday as expected. (Newswires)</p><p>&nbsp;</p><p>SOUTH KOREA</p><p>SK Holdings (034730 KS) - SK Groups’ SK Gas is to build a USD 1.8bln plant with Advanced Petrochemical Co. in Saudi Arabia. (Yonhap)</p><p>Financials - South Korea will implement global bank capital guidelines in Q2. (Newswires)</p><p>Healthcare - South Korean test-kit makers were granted approval by FDA to sell products in US. (Yonhap)</p><p>Other News - BoK is to hold an auction to inject dollar liquidity tomorrow. (Newswires)</p><p>Geopolitics - North Korea launched 2 short-range ballistic missiles from its east coast which landed in waters between North Korea and Japan, while North Korea confirmed the launch which it stated were super-large multiple rocket launchers. (Newswires)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-japanese-south-korean-stock-news-japanese-pm-abe-vowed-an-unprecedented-economic-stimulus-which-will-include-fiscal-and-monetary-stimulus-as-well-as-tax-breaks-for-companies-29-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-30 07:47:00",
+        "gmt_time": "2020-03-29 23:47:00"
+    },
+    {
+        "id": 917051,
+        "updated_sequence": 2156584,
+        "published_at": {
+            "unix": 1585523340,
+            "text": "2020-03-30 00:09:00 +0100",
+            "iso_8601": "2020-03-29T23:09:00Z"
+        },
+        "updated_at": {
+            "unix": 1585523532,
+            "text": "2020-03-30 00:12:12 +0100",
+            "iso_8601": "2020-03-29T23:12:12Z"
+        },
+        "subject": "Australia banking regulator APRA announced deferral of capital reform implementation by 1 year",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>As a reminder, APRA announced last week that it suspended the majority of its planned policy initiatives which will allow entities to dedicate time to maintaining operations and supporting customers.</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1585523532,
+            "text": "2020-03-30 00:12:12 +0100",
+            "iso_8601": "2020-03-29T23:12:12Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "australia-banking-regulator-apra-announced-deferral-of-capital-reform-implementation-by-1-year-29-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-30 07:09:00",
+        "gmt_time": "2020-03-29 23:09:00"
+    },
+    {
+        "id": 917050,
+        "updated_sequence": 2156717,
+        "published_at": {
+            "unix": 1585523100,
+            "text": "2020-03-30 00:05:00 +0100",
+            "iso_8601": "2020-03-29T23:05:00Z"
+        },
+        "updated_at": {
+            "unix": 1585539478,
+            "text": "2020-03-30 04:37:58 +0100",
+            "iso_8601": "2020-03-30T03:37:58Z"
+        },
+        "subject": "US President Trump says he hopes April 30th guidelines do not have to be extended again, also noted he is prepared to do everything necessary when asked about supporting a 4th relief bill",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-president-trump-says-he-hopes-april-30th-guidelines-do-not-have-to-be-extended-again-also-noted-he-is-prepared-to-do-everything-necessary-when-asked-about-supporting-a-4th-relief-bill-29-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-30 07:05:00",
+        "gmt_time": "2020-03-29 23:05:00"
+    },
+    {
+        "id": 917049,
+        "updated_sequence": 2156576,
+        "published_at": {
+            "unix": 1585522920,
+            "text": "2020-03-30 00:02:00 +0100",
+            "iso_8601": "2020-03-29T23:02:00Z"
+        },
+        "updated_at": {
+            "unix": 1585523012,
+            "text": "2020-03-30 00:03:32 +0100",
+            "iso_8601": "2020-03-29T23:03:32Z"
+        },
+        "subject": "Japan government is to epand travelling ban to include travellers from US, China, South Korea and most of Europe",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Asahi",
+        "slug": "japan-government-is-to-epand-travelling-ban-to-include-travellers-from-us-china-south-korea-and-most-of-europe-29-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-30 07:02:00",
+        "gmt_time": "2020-03-29 23:02:00"
+    },
+    {
+        "id": 917048,
+        "updated_sequence": 2156573,
+        "published_at": {
+            "unix": 1585522620,
+            "text": "2020-03-29 23:57:00 +0100",
+            "iso_8601": "2020-03-29T22:57:00Z"
+        },
+        "updated_at": {
+            "unix": 1585522655,
+            "text": "2020-03-29 23:57:35 +0100",
+            "iso_8601": "2020-03-29T22:57:35Z"
+        },
+        "subject": "RBA adds AUD 1.12bln to banking system through repos vs. Prev. AUD 2.25bln",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "rba-adds-aud-1-12bln-to-banking-system-through-repos-vs-prev-aud-2-25bln-29-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 12,
+            "name": "RBA"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-30 06:57:00",
+        "gmt_time": "2020-03-29 22:57:00"
+    },
+    {
+        "id": 917047,
+        "updated_sequence": 2156570,
+        "published_at": {
+            "unix": 1585522380,
+            "text": "2020-03-29 23:53:00 +0100",
+            "iso_8601": "2020-03-29T22:53:00Z"
+        },
+        "updated_at": {
+            "unix": 1585522592,
+            "text": "2020-03-29 23:56:32 +0100",
+            "iso_8601": "2020-03-29T22:56:32Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIAN STOCK NEWS: Australian Treasurer Frydenberg said they will announce support to employers and employees today",
+        "content": "<p>Ansell (ANN AT) - Co. affirms FY20 guidance amid increased demand for protective equipment. (Newswires)</p><p>Bank of Queensland (BOQ AT) - Co. withdraws guidance due to uncertainty amid the coronavirus. (Newswires)</p><p>Boral (BLD AT) - Co. served class-action lawsuit by Quin Emanuel. (Newswires)</p><p>Insurance Australia (IAG AT) - Co. affirms guidance and will hire additional 400 people in customer facing parts of business, while it is to book AUD 310mln profit on sale of SBI. (Newswires)</p><p>NIB Holdings (NHF AT) - Co. postpones its average premium increase until at least October 1st. (Newswires)</p><p>Southern Cross Media (SXL AT) - Co. is said to be considering a range of options to raise capital include convertible notes offering. (Newswires)</p><p>Westpac (WBC AT) - Co. extended coronavirus support for business. (Newswires)</p><p>Financials - Australian Banking Association says banks are to permit businesses with up to AUD 10mln in loan facilities to defer repayments up to 6 months, which will apply to AUD 100bln of business loans. (Newswires)</p><p>Takeovers - Australia announced that all foreign takeovers will now require FIRB approval, although the statement noted that this was temporary and not a freeze on investments. (Newswires)</p><p>Other News - Australian Treasurer Frydenberg said they will announce support to employers and employees today. (Newswires)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-australian-stock-news-australian-treasurer-frydenberg-said-they-will-announce-support-to-employers-and-employees-today-29-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-30 06:53:00",
+        "gmt_time": "2020-03-29 22:53:00"
+    },
+    {
+        "id": 917046,
+        "updated_sequence": 2156565,
+        "published_at": {
+            "unix": 1585522200,
+            "text": "2020-03-29 23:50:00 +0100",
+            "iso_8601": "2020-03-29T22:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1585522261,
+            "text": "2020-03-29 23:51:01 +0100",
+            "iso_8601": "2020-03-29T22:51:01Z"
+        },
+        "subject": "RBNZ buys NZD 450mln in QE operations as targetted",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "rbnz-buys-nzd-450mln-in-qe-operations-as-targetted-29-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 11,
+            "name": "RBNZ"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-30 06:50:00",
+        "gmt_time": "2020-03-29 22:50:00"
+    },
+    {
+        "id": 917045,
+        "updated_sequence": 2156562,
+        "published_at": {
+            "unix": 1585520940,
+            "text": "2020-03-29 23:29:00 +0100",
+            "iso_8601": "2020-03-29T22:29:00Z"
+        },
+        "updated_at": {
+            "unix": 1585521016,
+            "text": "2020-03-29 23:30:16 +0100",
+            "iso_8601": "2020-03-29T22:30:16Z"
+        },
+        "subject": "COVID-19 CASE COUNT: WORLDWIDE CASES 718,187, DEATHS 33,890, RECOVERED 150,918",
+        "content": "<p>Figures provided as of Sunday (via <a href=\"https://www.worldometers.info/coronavirus/\">worldometer</a> website) against Saturday:</p><ul><li>&nbsp;&nbsp;&nbsp; US total cases 139,276 (prev. 123,576), death toll 2,447 (prev. 2,220).</li><li>&nbsp;&nbsp;&nbsp; CHINA total cases 81,439 (prev. 81,394), death toll 3,300 (prev. 3,295).</li><li>&nbsp;&nbsp;&nbsp; ITALY total cases 97,689 (prev. 92,472), death toll 10,770 (prev. 10,023).</li><li>&nbsp;&nbsp;&nbsp; SPAIN total cases 80,031 (prev. 73,235), death toll 6,802 (prev. 5,982).</li><li>&nbsp;&nbsp;&nbsp; GERMANY total cases 62,095 (prev. 57,695), death toll 525 (prev. 433).</li><li>&nbsp;&nbsp;&nbsp; FRANCE total cases 40,174 (prev. 37,575), death toll 2,606 (prev. 2,314).</li><li>&nbsp;&nbsp;&nbsp; UK total cases 19,522 (prev. 17,089), death toll 1,228 (prev. 1,019).</li><li>&nbsp;&nbsp;&nbsp; SWITZERLAND total cases 14,829 (prev. 14,076), death toll 300 (prev. 264).</li><li>&nbsp;&nbsp;&nbsp; SOUTH KOREA total cases 9,583 (prev. 9,478), death toll 152 (prev. 144).</li><li>&nbsp;&nbsp;&nbsp; NETHERLANDS total cases 10,866 (prev. 9,762), death toll 771 (prev. 639).</li><li>&nbsp;&nbsp;&nbsp; CANADA total cases 6,280 (prev. 5,655), death toll 63 (prev. 60).</li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Worldometers",
+        "slug": "covid-19-case-count-worldwide-cases-718-187-deaths-33-890-recovered-150-918-29-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-30 06:29:00",
+        "gmt_time": "2020-03-29 22:29:00"
+    },
+    {
+        "id": 917044,
+        "updated_sequence": 2156559,
+        "published_at": {
+            "unix": 1585520400,
+            "text": "2020-03-29 23:20:00 +0100",
+            "iso_8601": "2020-03-29T22:20:00Z"
+        },
+        "updated_at": {
+            "unix": 1585520488,
+            "text": "2020-03-29 23:21:28 +0100",
+            "iso_8601": "2020-03-29T22:21:28Z"
+        },
+        "subject": "RBA says excess cash at exchange settlement accounts at AUD 63.5bln vs. Prev. 63.6bln",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "rba-says-excess-cash-at-exchange-settlement-accounts-at-aud-63-5bln-vs-prev-63-6bln-29-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 12,
+            "name": "RBA"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-30 06:20:00",
+        "gmt_time": "2020-03-29 22:20:00"
+    },
+    {
+        "id": 917043,
+        "updated_sequence": 2156715,
+        "published_at": {
+            "unix": 1585519860,
+            "text": "2020-03-29 23:11:00 +0100",
+            "iso_8601": "2020-03-29T22:11:00Z"
+        },
+        "updated_at": {
+            "unix": 1585539375,
+            "text": "2020-03-30 04:36:15 +0100",
+            "iso_8601": "2020-03-30T03:36:15Z"
+        },
+        "subject": "US President Trump says extending federal guidelines on coronavirus to April 30th and sees deaths peaking in 2 weeks",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-president-trump-says-extending-federal-guidelines-on-coronavirus-to-april-30th-and-sees-deaths-peaking-in-2-weeks-29-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-30 06:11:00",
+        "gmt_time": "2020-03-29 22:11:00"
+    },
+    {
+        "id": 917042,
+        "updated_sequence": 2156551,
+        "published_at": {
+            "unix": 1585519740,
+            "text": "2020-03-29 23:09:00 +0100",
+            "iso_8601": "2020-03-29T22:09:00Z"
+        },
+        "updated_at": {
+            "unix": 1585519802,
+            "text": "2020-03-29 23:10:02 +0100",
+            "iso_8601": "2020-03-29T22:10:02Z"
+        },
+        "subject": "RBNZ announces new weekly open market operation to provide liquidity",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "rbnz-announces-new-weekly-open-market-operation-to-provide-liquidity-29-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 11,
+            "name": "RBNZ"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-30 06:09:00",
+        "gmt_time": "2020-03-29 22:09:00"
+    },
+    {
+        "id": 917041,
+        "updated_sequence": 2156548,
+        "published_at": {
+            "unix": 1585519320,
+            "text": "2020-03-29 23:02:00 +0100",
+            "iso_8601": "2020-03-29T22:02:00Z"
+        },
+        "updated_at": {
+            "unix": 1585519494,
+            "text": "2020-03-29 23:04:54 +0100",
+            "iso_8601": "2020-03-29T22:04:54Z"
+        },
+        "subject": "Risk off tone resumes at the reopen of futures trading with US equity futures gapping lower by around 2% and WTI crude slipping about 4%, while T-notes are higher by 17 ticks amid ongoing coronavirus woes",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "risk-off-tone-resumes-at-the-reopen-of-futures-trading-with-us-equity-futures-gapping-lower-by-around-2-and-wti-crude-slipping-about-4-while-t-notes-are-higher-by-17-ticks-amid-ongoing-coronavirus-woes-29-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-30 06:02:00",
+        "gmt_time": "2020-03-29 22:02:00"
+    },
+    {
+        "id": 917040,
+        "updated_sequence": 2156543,
+        "published_at": {
+            "unix": 1585519080,
+            "text": "2020-03-29 22:58:00 +0100",
+            "iso_8601": "2020-03-29T21:58:00Z"
+        },
+        "updated_at": {
+            "unix": 1585519148,
+            "text": "2020-03-29 22:59:08 +0100",
+            "iso_8601": "2020-03-29T21:59:08Z"
+        },
+        "subject": "Westpac (WBC AT) extends coronavirus support for business",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "westpac-wbc-at-extends-coronavirus-support-for-business-29-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-30 05:58:00",
+        "gmt_time": "2020-03-29 21:58:00"
+    },
+    {
+        "id": 917039,
+        "updated_sequence": 2156545,
+        "published_at": {
+            "unix": 1585518420,
+            "text": "2020-03-29 22:47:00 +0100",
+            "iso_8601": "2020-03-29T21:47:00Z"
+        },
+        "updated_at": {
+            "unix": 1585519210,
+            "text": "2020-03-29 23:00:10 +0100",
+            "iso_8601": "2020-03-29T22:00:10Z"
+        },
+        "subject": "US President Trump said testing has increased which is why the US has more cases, while he also commented FDA authorized new test that delivers \"lighting fast\" results in as little as 5 min",
+        "content": "<p>Says:</p><ul><li>More hospitals like the one in Javitz Center are coming to New Jersey and New Orleans.</li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-president-trump-said-testing-has-increased-which-is-why-the-us-has-more-cases-while-he-also-commented-fda-authorized-new-test-that-delivers-lighting-fast-results-in-as-little-as-5-min-29-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-30 05:47:00",
+        "gmt_time": "2020-03-29 21:47:00"
+    },
+    {
+        "id": 917038,
+        "updated_sequence": 2156535,
+        "published_at": {
+            "unix": 1585518060,
+            "text": "2020-03-29 22:41:00 +0100",
+            "iso_8601": "2020-03-29T21:41:00Z"
+        },
+        "updated_at": {
+            "unix": 1585518360,
+            "text": "2020-03-29 22:46:00 +0100",
+            "iso_8601": "2020-03-29T21:46:00Z"
+        },
+        "subject": "China's Global Times tweets that Wuhan's manufacturing is back on track as industrial powerhouse lifts lockdown",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>As a guide, China's Wuhan city partly reopened on Saturday and it conducted the first day of service for its subway after a two-month closure.</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1585518360,
+            "text": "2020-03-29 22:46:00 +0100",
+            "iso_8601": "2020-03-29T21:46:00Z"
+        },
+        "push_notify": false,
+        "source": "Twitter",
+        "slug": "china-s-global-times-tweets-that-wuhan-s-manufacturing-is-back-on-track-as-industrial-powerhouse-lifts-lockdown-29-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-30 05:41:00",
+        "gmt_time": "2020-03-29 21:41:00"
+    },
+    {
+        "id": 917037,
+        "updated_sequence": 2156530,
+        "published_at": {
+            "unix": 1585515600,
+            "text": "2020-03-29 22:00:00 +0100",
+            "iso_8601": "2020-03-29T21:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1585517749,
+            "text": "2020-03-29 22:35:49 +0100",
+            "iso_8601": "2020-03-29T21:35:49Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p><strong>CORONAVIRUS UPDATE / RESPONSES</strong></p><p>US House passed USD 2.2trln COVID-19 economic aid bill which President Trump signed on Friday, while it was also reported that President Trump signed the Defense Production Act order which requires General Motors (GM) to produce ventilators. (Newswires)</p><p>US President Trump tweeted that he was giving consideration to quarantine developing hot spots including New York, New Jersey and Connecticut and that a decision will be made one way or another shortly. However, Trump later stated a quarantine will not be necessary and instead instructed the CDC to issue a strong travel warning in which it urged people in New York, New Jersey and Connecticut to refrain from non-essential travel for 2 weeks, while US President Trump also approved the District of Columbia disaster declaration, (Newswires)</p><p>US Treasury Secretary Mnuchin said the new bank lending programme will be ready by Friday and encourages every business to apply because if you hire workers back/keep them, these are forgivable loans. (Newswires/Politico)</p><p>NIH’s Fauci projects possible millions of coronavirus cases in the US and 100k-200k deaths. (Newswires)</p><p>Bank of Canada cut its overnight benchmark rate to 0.25% (prev. 0.75%) and also unveiled two new programmes in an unscheduled announcement. BoC announced the Commercial Paper Purchase Program (CPPP) which will help to alleviate strains in short-term funding markets and thereby preserve a key source of funding for businesses, while it will begin acquiring Government of Canada securities in the secondary market with the amount to begin with a minimum of CAD 5bln per week across the yield curve. (Newswires)</p><p>Canadian PM Trudeau said the government will cover 75% of payroll wages. (Newswires)</p><p>UK PM Johnson tested positive for coronavirus with mild symptoms and will self-isolate in Downing Street, although he will still be in charge of the government's handling of the crisis. Furthermore, it was also reported that UK Health Secretary Hancock tested positive for the coronavirus and will be self-isolating. (BBC)</p><p>England Deputy Chief Medical Officer Harries said it could be 6 months before life in the UK returns to normal but added that this is not to say we would be in complete lockdown for 6 months. (BBC)</p><p>Italy death toll rose by 756 on Sunday to a total of 10779. (Newswires)</p><p>&nbsp;</p><p><strong>ASIA-PAC</strong></p><p>PBoC said economic impact is generally controllable, the economy remains resilient and CNY is basically stable, while it reiterated to deepen supply side structural reform and to continue interest rate reform. However, PBoC later noted that economic downward pressure is increasing and that they will use monetary tools to keep liquidity ample. (Newswires)</p><p>Japanese PM Abe vowed unprecedented economic stimulus which will include fiscal and monetary stimulus, as well as tax breaks for companies. (Newswires)</p><p>Australian Treasurer Frydenberg said they will announce support to employers and employees today. (Newswires)</p><p>&nbsp;</p><p><strong>UK/EU</strong></p><p>UK Chancellor Sunak said the UK will cover the cost of employment national insurance and pension contributions for businesses furloughing staff during the outbreak, while workers that cannot take annual leave can carry it over to the following two leave years. (Newswires)</p><p>ECB's Knot (Hawkish) said it is premature to discuss country issuer limits in emergency bond buying scheme and that the government debt will provide the ECB with more than enough room within existing purchase limit. (Newswires)</p><p>Fitch cut UK sovereign rating by one notch from AA to AA-; Outlook Negative. (Newswires)</p><p>&nbsp;</p><p><strong>COMMODITIES</strong></p><p>Baker Hughes US rig count (w/e 27th March): Oil -40 at 624, Nat Gas -4 at 102, Total -44 at 728, which is the largest oil rig count cut since 2015. (Newswires)</p><p>Saudi Arabian Energy Ministry said there have been no contact between Saudi and Russia over increasing the number of OPEC+ countries and no discussion of a joint agreement to balance oil markets. (Newswires)</p><p>OPEC Presidency urged an emergency meeting regarding collapse in prices, although the proposal didn’t receive the required support and Saudi Arabia opposed to the emergency meeting. (Newswires)</p><p>Plains All American asked producers to cut output as growing supply glut is overwhelming storage capacity. (Newswires)</p><p>&nbsp;</p><p><strong>GEOPOLITICS</strong></p><p>North Korea launched 2 short-range ballistic missiles from its east coast which landed in waters between North Korea and Japan. (NY Times)</p><p>&nbsp;</p><p><strong>US</strong></p><p>NY Fed announced it will purchase up to USD 75bln of treasuries on Monday, Tuesday and Wednesday, then decrease it to USD 60bln on Thursday and Friday, adding it will purchase USD 40bln a day of agency MBS next week. (Newswires)</p><p>Federal Reserve is considering new ways to support state and local governments. (WSJ)</p><p>Fed's Bostic (non-voter) said the Fed is still ready to add more support if it is needed and doesn't rule out providing direct monetary assistance to households if possible and necessary. (WSJ)</p><p>&nbsp;</p><p><strong>MARKET RECAP</strong></p><p>Defensives the relative outperformers with Utilities (XLU), Consumer Staples (XLP) and Real Estate marginally lower in comparison, while Health Care (XLV) followed. XLP aided as consumers continue to stockpile staple goods and cleaning supplies (CLX), while Pepsi (PEP) managed to close flat despite a double upgrade to Outperform from Credit Suisse, Colgate Palmolive (CL) and Procter &amp; Gamble (PG) were upgraded to Buy from Hold at Stifel seeing solid gains. Energy (XLE) the underperforming sector falling roughly 7% amid weaker oil prices as there still seems to be no end in sight for the Russia/Saudi pricing war as comments from Saudi Arabia stated there is no discussion regarding joint output cuts, nor about increasing the size of OPEC+.&nbsp; Elsewhere, cruise liners were hit after WSJ reported&nbsp; big cruise liners will not qualify for aid under the US stimulus package after a last minute legislative change has shut the companies out of the coronavirus bill as the Democrats and Labor had opposed aid to the offshore based cruise industry. While Carnival (CCL) is reportedly looking for up to USD 7bln in new debt. Cheesecake Factory (CAKE) announced it is furloughing 41k workers, while big banks (XLF, BAC, WFC, DB, JPM, GS, MS) are reportedly reassuring staff and postponing decisions about potential job cuts as they are worried about being unprepared if business suddenly picks up. L Brands (LB) announce it is to suspend its dividend from Q2 while closing its stores until further notice. Apple (AAPL) is reportedly working with the White House to create an app which will provide CDC guidance to users. Lululemon (LULU) fell over 5% despite tom and bottom-line beats, while reporting comparable store sales +9%, however, it did withdraw its guidance. United Tech (UTX) and Raytheon (RTN) had its deal approved by the DoJ, subject to conditions that it sells all assets related to military airborne radios, GPS systems and its optical systems businesses. United Airlines (UAL) states it will not go ahead with involuntary furloughs or pay cuts in the US before September 30th although if the recovery is as slow as it fears, its airline and workforce will have to be smaller. UAL stated it doesn’t expect travel demand to snap back for some time and expects demand to remain suppressed perhaps into next year. The airline also expects load factors to fall into the teens or single digits even with 60% less capacity. Tesla (TSLA) is to reportedly cut staff at its battery plant in Nevada by 75% amid COVID-19. Gap (GPS) announced it has drawn down USD 500mln, 100% of its revolving credit facility, and it is deferring the payment dates for its Q1 dividend while suspending any quarterly dividends for the remainder of FY20 and withdrawing guidance. SPX -3.33% at 2543, NDX -3.91% at 7588, DJIA -4.06% at 21637.</p><p>THE TPLEX BULL FLATTENED amid a decline in risk assets and active Fed operations. The bid gained steam as European trade commenced while equities trundled lower. One desk highlights the lower volumes, which had previously been swamped by short covering, hedging and spread unwinds, is making the Fed’s asset purchases felt more acutely in the tape action. Furthermore, the Fed’s aggressive liquidity options have drastically cut the dollar funding pressures, where repo operations continue to see minimal take-up, with Dealers taking advantage of the reverse repo operation as yields in front-end Bills flirt with negative territory, seeing yield-thirsty participants move further out the curve. By settlement, 30s -8bps at 1.316%, 10s -7.5bps at 0.733%, 2s -2bps at 0.254%. T-note (M0) futures settled 17 ticks higher at 138-08+.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "daily-asia-pac-opening-news-29-03-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-03-30 05:00:00",
+        "gmt_time": "2020-03-29 21:00:00"
+    }
+]

@@ -1,0 +1,482 @@
+[
+    {
+        "id": 907949,
+        "updated_sequence": 2107588,
+        "published_at": {
+            "unix": 1581292560,
+            "text": "2020-02-09 23:56:00 +0000",
+            "iso_8601": "2020-02-09T23:56:00Z"
+        },
+        "updated_at": {
+            "unix": 1581293541,
+            "text": "2020-02-10 00:12:21 +0000",
+            "iso_8601": "2020-02-10T00:12:21Z"
+        },
+        "subject": "PRE-MARKET JAPANESE AND SOUTH KOREAN STOCK NEWS: Corporate Earnings",
+        "content": "<p>JAPAN</p><p>Honda (7267 JT) - Co. 9-month net JPY 485.3bln vs. Prev. JPY 623.3bln Y/Y, raises FY net forecast to JPY 595bnln from JPY 575bln. (Newswires)</p><p>Isuzu (7202 JT) - Co. 9-month net JPY 67.4bln vs. Prev. JPY 94.0bln Y/Y, lowers FY forecasts. (Newswires)</p><p>Mitsubishi Materials (5711 JT) - Co. to buy 30% stake in Mantoverde copper mine for USD 263mln. (Newswires)</p><p>Mitsui Fudosan (8801 JT) - Co. 9-month net JPY 102.3bln vs. Prev. JPY 102.2bln Y/Y, raises FY net forecast to JPY 192bln from JPY 175bln. (Newswires)</p><p>Nidec (6594 JT) - Co. announces 2-1 stock split and doubles share repurchase program to 8mln shares. (Newswires)</p><p>Nippon Steel &amp; Sumitomo Metal (5401 JT) - Co. 9-month net loss JPY 357.4bln vs. Prev. JPY 206.6bln Y/Y, lowers FY net guidance to loss of JPY 440bln from prev. profit JPY 40bln. (Newswires)</p><p>Rakuten (4755 JT) - Japan FTC seeks voluntary cooperation in inve4stigation related to shipping threshold measures. (Newswires)</p><p>Showa Denko (4004 JT) - Co. is said to have completed development of next-generation heat assisted magnetic recording media for hard drives. (Newswires)</p><p>SoftBank Corp (9434 JT) - Co. 9-month net JPY 436.6bln vs. Prev. JPY 423.3bln Y/Y. (Newswires)</p><p>Sumitomo Metal Mining (5713 JT) - Co. 9-month net JPY 51.5bln vs. Prev. JPY 66.9bln Y/Y, lowers 9-month net JPY 51.5bln vs. Prev. JPY 66.9bln Y/Y. (Newswires)</p><p>Suzuki Motor (7269 JT) - Co. 9-month net JPY 116.6bln vs. Prev. JPY 180.9bln Y/Y, lowers FY net guidance to JPY 140bln from JPY 200bln. (Newswires)</p><p>Unicharm (8113 JT) - Co. lower FY net forecast to JPY 46.0bln from JPY 63.5bln. (Newswires)</p><p>Unizo Holdings (3258 JT) - Lone Star increased it offer for the Co. to JPY 5700/shr from JPY 5100/shr. (Newswires)</p><p>&nbsp;</p><p>SOUTH KOREA</p><p>Hyundai Motor (005380 KS) - Co. to recall around 430k vehicles in US. (Newswires)</p><p>Lotte Chemical (011170 KS) - Co. Q4 net KRW 758.2bln vs. Prev. KRW 204.4bln Q/Q. (Newswires)</p><p>Lotte Chilsung (005300 KS) - Co. will withdraw tender offer for Pepsi Cola Philippines. (Newswires)</p><p>SK Holdings (003605 KS) - Co. FY19 net KRW 1.6tln vs. Prev. KRW 6.2tln Y/Y. (Newswires)</p><p>Other News - Samsung and LG are to restart operations and China facilities. (Newswires)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-japanese-and-south-korean-stock-news-corporate-earnings-09-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-10 07:56:00",
+        "gmt_time": "2020-02-09 23:56:00"
+    },
+    {
+        "id": 907950,
+        "updated_sequence": 2107572,
+        "published_at": {
+            "unix": 1581292200,
+            "text": "2020-02-09 23:50:00 +0000",
+            "iso_8601": "2020-02-09T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1581292645,
+            "text": "2020-02-09 23:57:25 +0000",
+            "iso_8601": "2020-02-09T23:57:25Z"
+        },
+        "subject": "Japanese Bank Lending Ex. Trusts (Jan) Y/Y 2.0% (Prev. 1.9%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-bank-lending-ex-trusts-jan-y-y-2-0-prev-1-9-09-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-10 07:50:00",
+        "gmt_time": "2020-02-09 23:50:00"
+    },
+    {
+        "id": 907951,
+        "updated_sequence": 2107575,
+        "published_at": {
+            "unix": 1581292200,
+            "text": "2020-02-09 23:50:00 +0000",
+            "iso_8601": "2020-02-09T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1581292686,
+            "text": "2020-02-09 23:58:06 +0000",
+            "iso_8601": "2020-02-09T23:58:06Z"
+        },
+        "subject": "Japanese Housing Loans (Q4) Y/Y 2.8% (Prev. 2.9%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-housing-loans-q4-y-y-2-8-prev-2-9-09-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-10 07:50:00",
+        "gmt_time": "2020-02-09 23:50:00"
+    },
+    {
+        "id": 907952,
+        "updated_sequence": 2107578,
+        "published_at": {
+            "unix": 1581292200,
+            "text": "2020-02-09 23:50:00 +0000",
+            "iso_8601": "2020-02-09T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1581292749,
+            "text": "2020-02-09 23:59:09 +0000",
+            "iso_8601": "2020-02-09T23:59:09Z"
+        },
+        "subject": "Japanese Adjusted Current Account Balance (JPY)(Dec) 1.71T vs. Exp. 1.68T (Prev. 1.79T)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-adjusted-current-account-balance-jpy-dec-1-71t-vs-exp-1-68t-prev-1-79t-09-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-10 07:50:00",
+        "gmt_time": "2020-02-09 23:50:00"
+    },
+    {
+        "id": 907954,
+        "updated_sequence": 2107586,
+        "published_at": {
+            "unix": 1581292200,
+            "text": "2020-02-09 23:50:00 +0000",
+            "iso_8601": "2020-02-09T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1581293452,
+            "text": "2020-02-10 00:10:52 +0000",
+            "iso_8601": "2020-02-10T00:10:52Z"
+        },
+        "subject": "Japanese Housing Loans (Q4) Y/Y 2.8% (Prev. 2.9%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-housing-loans-q4-y-y-2-8-prev-2-9-10-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-10 07:50:00",
+        "gmt_time": "2020-02-09 23:50:00"
+    },
+    {
+        "id": 907946,
+        "updated_sequence": 2107560,
+        "published_at": {
+            "unix": 1581292020,
+            "text": "2020-02-09 23:47:00 +0000",
+            "iso_8601": "2020-02-09T23:47:00Z"
+        },
+        "updated_at": {
+            "unix": 1581292129,
+            "text": "2020-02-09 23:48:49 +0000",
+            "iso_8601": "2020-02-09T23:48:49Z"
+        },
+        "subject": "China confirms 3062 new coronavirus cases and 97 deaths on February 9th vs. 2656 new cases and 89 deaths on February 8th; total confirmed cases at 40171 and total deaths at 908 as of February 9th",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "china-confirms-3062-new-coronavirus-cases-and-97-deaths-on-february-9th-vs-2656-new-cases-and-89-deaths-on-february-8th-total-confirmed-cases-at-40171-and-total-deaths-at-908-as-of-february-9th-09-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-10 07:47:00",
+        "gmt_time": "2020-02-09 23:47:00"
+    },
+    {
+        "id": 907945,
+        "updated_sequence": 2107557,
+        "published_at": {
+            "unix": 1581291420,
+            "text": "2020-02-09 23:37:00 +0000",
+            "iso_8601": "2020-02-09T23:37:00Z"
+        },
+        "updated_at": {
+            "unix": 1581291478,
+            "text": "2020-02-09 23:37:58 +0000",
+            "iso_8601": "2020-02-09T23:37:58Z"
+        },
+        "subject": "Nikkei 225 futures at 23558 which is down nearly 300 points vs. the last cash close",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "nikkei-225-futures-at-23558-which-is-down-nearly-300-points-vs-the-last-cash-close-09-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-10 07:37:00",
+        "gmt_time": "2020-02-09 23:37:00"
+    },
+    {
+        "id": 907944,
+        "updated_sequence": 2107554,
+        "published_at": {
+            "unix": 1581291360,
+            "text": "2020-02-09 23:36:00 +0000",
+            "iso_8601": "2020-02-09T23:36:00Z"
+        },
+        "updated_at": {
+            "unix": 1581291423,
+            "text": "2020-02-09 23:37:03 +0000",
+            "iso_8601": "2020-02-09T23:37:03Z"
+        },
+        "subject": "Daimler (DAI GY) is expected to lower 15000 jobs vs. prior announced 10000 ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daimler-dai-gy-is-expected-to-lower-15000-jobs-vs-prior-announced-10000-09-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 1,
+            "name": "DAX"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-10 07:36:00",
+        "gmt_time": "2020-02-09 23:36:00"
+    },
+    {
+        "id": 907943,
+        "updated_sequence": 2107551,
+        "published_at": {
+            "unix": 1581291120,
+            "text": "2020-02-09 23:32:00 +0000",
+            "iso_8601": "2020-02-09T23:32:00Z"
+        },
+        "updated_at": {
+            "unix": 1581291182,
+            "text": "2020-02-09 23:33:02 +0000",
+            "iso_8601": "2020-02-09T23:33:02Z"
+        },
+        "subject": "ANZ Bank (ANZ AT) lowers its interest rate floor for home loan serviceability assessments from 5.50% to 5.25%",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "anz-bank-anz-at-lowers-its-interest-rate-floor-for-home-loan-serviceability-assessments-from-5-50-to-5-25-09-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-10 07:32:00",
+        "gmt_time": "2020-02-09 23:32:00"
+    },
+    {
+        "id": 907942,
+        "updated_sequence": 2107548,
+        "published_at": {
+            "unix": 1581289860,
+            "text": "2020-02-09 23:11:00 +0000",
+            "iso_8601": "2020-02-09T23:11:00Z"
+        },
+        "updated_at": {
+            "unix": 1581290037,
+            "text": "2020-02-09 23:13:57 +0000",
+            "iso_8601": "2020-02-09T23:13:57Z"
+        },
+        "subject": "Ramelius Resources (RMS AT) makes offer for Spectrum Metals",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "ramelius-resources-rms-at-makes-offer-for-spectrum-metals-09-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-10 07:11:00",
+        "gmt_time": "2020-02-09 23:11:00"
+    },
+    {
+        "id": 907941,
+        "updated_sequence": 2107545,
+        "published_at": {
+            "unix": 1581289020,
+            "text": "2020-02-09 22:57:00 +0000",
+            "iso_8601": "2020-02-09T22:57:00Z"
+        },
+        "updated_at": {
+            "unix": 1581289065,
+            "text": "2020-02-09 22:57:45 +0000",
+            "iso_8601": "2020-02-09T22:57:45Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIAN STOCK NEWS: Aurizon Holdings (AZJ AT) H1 net AUD 268.9mln vs. Prev. AUD 226.9mln Y/Y",
+        "content": "<p>Aurizon Holdings (AZJ AT) - Co. H1 net AUD 268.9mln vs. Prev. AUD 226.9mln Y/Y, extends share buyback by AUD 100mln-400mln. (Newswires)</p><p>Boral (BLD AT) - Co. H1 adj. EBITDA AUD 440mln vs. Prev., AUD 470mln Y/Y. (Newswires)</p><p>Charter Hall Group (CHC AT) - Co. is said to be looking at further acquisition in the petrol station sector. (AFR)</p><p>CIMIC (CIM AT) - MacMahon Holdings (MAH AT) is seen acquiring Indonesia operations from CIMIC’s Thiess unit. (Newswires)</p><p>Downer EDI (DOW AT) - Perenti Global is seen as the front runner to buy Downer Mining. (Newswires) FlexiGroup (FXL AT) - Co. launches BNPL offering to Australian customers through strategic partnership with MasterCard. (Newswires)</p><p>GPT Group (GPT AT) - Co. FY19 net AUD 880mln vs. Prev. AUD 1.45bln Y/Y, Co. acquired prime industrial development sites in Melbourne and Sydney. (Newswires)</p><p>Horizon Oil (HZN AT) - Co. is said to have repeatedly ignored corruption warnings of corruption warning with a payment to a shell company 9-years ago which is said threatens to haunt the Co. (AFR)</p><p>JB Hi-Fi (JBH AT) - Co. H1 net AUD 170.6mln vs. Prev. AUD 160.1mln Y/Y, Co. Chairman will retire end-June. (Newswires)</p><p>Platinum Asset Management (PTM AT) - Co, end-Jan/. FUM AUD 24.7bln vs. Prev. AUD 25.1mln M/M. (Newswires)</p><p>Other News - Australian PM Morrison suggested that a trade deal with Indonesia will help absorb global shocks. (The Australian)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-australian-stock-news-aurizon-holdings-azj-at-h1-net-aud-268-9mln-vs-prev-aud-226-9mln-y-y-09-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-10 06:57:00",
+        "gmt_time": "2020-02-09 22:57:00"
+    },
+    {
+        "id": 907940,
+        "updated_sequence": 2107542,
+        "published_at": {
+            "unix": 1581287820,
+            "text": "2020-02-09 22:37:00 +0000",
+            "iso_8601": "2020-02-09T22:37:00Z"
+        },
+        "updated_at": {
+            "unix": 1581287882,
+            "text": "2020-02-09 22:38:02 +0000",
+            "iso_8601": "2020-02-09T22:38:02Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASE CALENDAR IS AVAILABLE IN THE RESEARCH SECTION OF THE WEBSITE: Highlights include ChineseCPI and PPI, Japanese Current Account Balance",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "asian-daily-economic-release-calendar-is-available-in-the-research-section-of-the-website-highlights-include-chinesecpi-and-ppi-japanese-current-account-balance-09-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-10 06:37:00",
+        "gmt_time": "2020-02-09 22:37:00"
+    },
+    {
+        "id": 907939,
+        "updated_sequence": 2107539,
+        "published_at": {
+            "unix": 1581286620,
+            "text": "2020-02-09 22:17:00 +0000",
+            "iso_8601": "2020-02-09T22:17:00Z"
+        },
+        "updated_at": {
+            "unix": 1581286766,
+            "text": "2020-02-09 22:19:26 +0000",
+            "iso_8601": "2020-02-09T22:19:26Z"
+        },
+        "subject": "China Hubei province reports 2618 new cases and 91 additional deaths from the coronavirus as of February 9th",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<p>As a reminder, China National Health Commission announced that China total coronavirus cases increased to 37198 and death toll rose to 811 as of February 8th vs. 34564 total cases and 722 deaths as of February 7th.</p>",
+        "analysis_updated_at": {
+            "unix": 1581286766,
+            "text": "2020-02-09 22:19:26 +0000",
+            "iso_8601": "2020-02-09T22:19:26Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "china-hubei-province-reports-2618-new-cases-and-91-additional-deaths-from-the-coronavirus-as-of-february-9th-09-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-10 06:17:00",
+        "gmt_time": "2020-02-09 22:17:00"
+    },
+    {
+        "id": 907938,
+        "updated_sequence": 2107534,
+        "published_at": {
+            "unix": 1581286200,
+            "text": "2020-02-09 22:10:00 +0000",
+            "iso_8601": "2020-02-09T22:10:00Z"
+        },
+        "updated_at": {
+            "unix": 1581286314,
+            "text": "2020-02-09 22:11:54 +0000",
+            "iso_8601": "2020-02-09T22:11:54Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p><strong>ASIA-PAC</strong></p><p>China National Health Commission announced that China total coronavirus cases increased to 37198 and death toll rose to 811 as of February 8th vs. 34564 total cases and 722 deaths as of February 7th, with the total number of deaths surpassing SARS outbreak in 2003. (Newswires)</p><p>China is spending at least USD 10bln to control the coronavirus outbreak and is reaching out for medical supplies from other nations, while it was also reported that the World Health Organization is sending an advanced team to China to investigate the coronavirus. (Newswires)</p><p>US coronavirus task force expect to see more cases in the US, but the current risk to US citizens is low, while there were separate comments from US Secretary of State Pompeo said the US is prepared to spend up to USD 100mln to assist China and other coronavirus impacted countries. (Newswires)</p><p>NIH's Fauci said there have been \"no glitches\" so far in coronavirus vaccine development with Moderna (MRNA) and if that continues, he expects phase 1 trial in people could start within 2.5 months. (Newswires)</p><p>NEC Director Kudlow said Chinese President Xi reassured US President Trump that despite delays, China will be meeting its targets for the agreed purchases of US goods under the Phase One Deal and that there are no tensions between US and China over coronavirus. Kudlow also stated that he sees “absolutely minimal” impact of coronavirus on the US economy which could cut US GDP growth by 0.2ppts. Kudlow also said that US companies are flexible and adept when asked how worried the administration is in regards to production worries from the coronavirus, while he added that this is principally a China problem. (VOA)</p><p>PBoC is to offer the first round of special re-lending funds for tackling the coronavirus on Monday and will offer the facility weekly to banks later in the month. In related news, PBoC Deputy Governor Pan reiterated the central bank will maintain ample liquidity and deepen interest rate reform. (Newswires)</p><p>China Customs Office said they are to combine the months of January and February for reporting of trade data amid the lack of prelim trade data. (Newswires)</p><p>New Zealand Shadow Board recommends no change in the RBNZ’s OCR this week. (Newswires)</p><p>&nbsp;</p><p><strong>UK/EU</strong></p><p>UK Chancellor Javid is considering a large tax increase on higher earners in the March budget. (FT)</p><p>EU member states are reportedly toughening their demands for 'status quo' access to UK fishing waters post-Brexit. (Telegraph)</p><p>France is demanding the UK aligns with EU rules permanently in return for a trade deal, in which it wants dynamic alignment regarding tax, state aid, environment and social affairs. Furthermore, reports added that anew draft mandate will go to EU members on Tuesday ahead of a Wednesday meeting and that trade talks should start early March. (Telegraph)</p><p>US VP Pence said the US still needs to resolve long-term trade issues with China and that the UK’s use of Huawei in 5G remains a point of issue between US and the UK, while he replied \"we'll see\" when asked if it's a possible dealbreaker. (Newswires)</p><p>NEC director Kudlow said there is new urgency on talks with Europe and that new proposals have been put on the table which could lead to positive developments, while he noted talks on auto imports are on hold while they work through a good faith effort with the EU. (Newswires)</p><p>Irish PM Varadkar’s Fine Gael party is seen taking 36 seats, while Fianna Fail is seen to win 45 seats and Sinn Fein at 37 seats in Ireland’s snap general election. (Newswires)</p><p>Fitch affirmed Italy at 'BBB'; Outlook stable and affirmed Russia at 'BBB'; Outlook Stable. (Newswires)</p><p>&nbsp;</p><p><strong>COMMODITIES</strong></p><p>Baker Hughes (7th Feb): Oil +1 at at 676, Nat. gas -1 at 111, total unchanged at 790. (Newswires)</p><p>Russian Energy Minister Novak said that global oil demand may drop by 150-200k BPD in 2020 vs. 2019's demand figures and cited uncertainties in Libya, Iran and Venezuela, while Novak also stated that Russia is not yet prepared to announce its position on OPEC+ actions. (Newswires)</p><p>Oman’s Oil Minister said he supports the output cut recommendations from the OPEC+ JTC, while there were separate comments from Azerbaijan’s Energy Minister who expects no early OPEC+ meeting and noted a February meeting was discussed and situation was analysed but the meeting will be held in March as planned. (Newswires)</p><p>OPEC Crude output in January was down -470,000 BPD, according to the latest Platts Survey. (Twitter)</p><p>Saudi Arabia and Kuwait are set to begin oil production in their neutral zone at an initial level of 10k BPD (500k BPD capacity), according to sources. (WSJ)</p><p>&nbsp;</p><p><strong>US</strong></p><p>Fed Semi Annual Statement to Congress reiterated the economy grew moderately last year, labour market strengthened further, and inflation continued to run below the target. Fed also noted that downside risks to outlook seem to have receded in late 2019 citing a decrease in trade tensions, looser financial conditions and stabilising growth, while it added that the probability of a recession occurring over the next year has fallen noticeably in recent months. (Newswires)</p><ul><li>US Non-Farm Payrolls (Jan) 225k vs. Exp. 160.0k (Prev. 145.0k, Rev. 147k); 2-month net revisions +7k (Prev. -14k). (Newswires)&nbsp;</li><li>US Unemployment Rate (Jan) 3.6% vs. Exp. 3.5% (Prev. 3.5%)&nbsp;</li><li>US Average Earnings (Jan) Y/Y 3.1% vs. Exp. 3.0% (Prev. 2.9%, Rev. 3.0%)</li></ul><p>&nbsp;</p><p><strong>MARKET RECAP</strong></p><p>Intercontinental Exchange (ICE) pared some of its recent losses after it confirmed it was no longer in merger talks with eBay (EBAY), seeing EBAY shares move lower. Cruise liners (RCL, CCL, NCLH) were offered amid the coronavirus, with some cruises themselves reportedly quarantined as passengers tested positive. Further to the point, VF Corp (VFC) warned ahead of its earnings that the coronavirus would negatively. Meanwhile, Moderna (MRNA) surged higher after US health regulators announced that so far there had been no “glitches” on the Co’s vaccine development. Elsewhere, Fidelity National (FNF) sold off after it announced it is to acquire FGL Holdings (FG) for USD 2.7bln. KKR (KKR) is reportedly working with JPMorgan (JPM) on an USD 8bln bid for Coty’s (COTY) professional beauty products division, Sky News reported. Softbank (SFTBY) sold off on reports in the WSJ that its latest fund is struggling to raise an adequate level of capital. S&amp;P 500 -0.55% at 3327, Dow -0.94% at 29,103, NDX -0.47% at 9,401.</p><p>The Treasury curve bull-flattened on Friday, ahead of the weekend, amid coronavirus concerns overshadowing the strong US January jobs report. The T-Note was initially offered on the headline NFP print (+225k vs. exp. +160k), with desks noting an “algo drilled” move lower before real money and CTAs swiftly moving into cover shorts, prompting the reversal higher. Participants are likely eager to reduce their risk exposure over the weekend; a growing chorus of US corporates have been noting potential financial impacts from the coronavirus in their guidance and the number of cases/deaths continues to rise in China, seeing further quarantine measures in the APAC region. One desk highlights the bull flattening particularly interesting ahead of the duration-heavy Treasury issuance next week (3s, 10s and 30s), which, ceteris paribus, would lead to a bear steepener. By settlement, the 10-year yield had fallen by just north of 6bps to 1.58%, with the curve generally flatter: 2s5s -1.3bps, 2s10s -1.6bps, 2s30s -1.8bps. US T-NOTE FUTURES (H20) SETTLED 16+ TICKS HIGHER AT 131-02+.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-asia-pac-opening-news-09-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-10 06:10:00",
+        "gmt_time": "2020-02-09 22:10:00"
+    }
+]

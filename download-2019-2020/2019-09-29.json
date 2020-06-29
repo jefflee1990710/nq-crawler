@@ -1,0 +1,452 @@
+[
+    {
+        "id": 888975,
+        "updated_sequence": 1943595,
+        "published_at": {
+            "unix": 1569801060,
+            "text": "2019-09-30 00:51:00 +0100",
+            "iso_8601": "2019-09-29T23:51:00Z"
+        },
+        "updated_at": {
+            "unix": 1569802919,
+            "text": "2019-09-30 01:21:59 +0100",
+            "iso_8601": "2019-09-30T00:21:59Z"
+        },
+        "subject": "BoJ Summary of Opinions state BoJ must maintain current powerful monetary easing, momentum for hitting price goal sustained, BoJ can leave policy steady for now, must mull whether additional easing is needed, putting all options on the table",
+        "content": "<ul><li>When considering the outlook for the output gap, inflation expectations, and various leading indicators of prices, the inflation momentum seems to be lost, and thus it is necessary to take additional easing measures preemptively</li><li>Besides additional easing, the Bank should strengthen its commitment and enhance further coordination of fiscal and monetary policy</li><li><a href=\"https://www.boj.or.jp/en/mopo/mpmsche_minu/opinion_2019/opi190919.pdf\">Link to release</a></li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>RECAP OF PRIOR MEETING: The BoJ left its monetary policy settings unchanged in September. However, it did say that there were rising risks from abroad, and intimated that it may ease at the October meeting. Analysts at Oxford Economics say it will be contingent on if global growth slows further, which will lead to other central banks loosening their policy strings, which could have the impact of strengthening the JPY. “We believe a policy rate cut would be the most likely action, accompanied by offsetting measures to limit the adverse side effects from even more negative rates.” It is also noteworthy that, bond yields and exchange rates have been little effected by the FOMC and ECB dovish actions, OxEco observes, and while US/China trade tensions shook up markets in August, sending bond yields lower – Japanese yields fell beneath the BOJ’s lower bound in its yield curve control corridor, and the BOJ has apparently looked-through the short-lived drops.</li><li><i>For reference, the next MPM will take place on October 30th.</i></li></ul>",
+        "analysis_updated_at": {
+            "unix": 1569801480,
+            "text": "2019-09-30 00:58:00 +0100",
+            "iso_8601": "2019-09-29T23:58:00Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "boj-summary-of-opinions-state-boj-must-maintain-current-powerful-monetary-easing-momentum-for-hitting-price-goal-sustained-boj-can-leave-policy-steady-for-now-must-mull-whether-additional-easing-is-needed-putting-all-options-on-the-table-29-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 14,
+            "name": "BoJ"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-30 07:51:00",
+        "gmt_time": "2019-09-29 23:51:00"
+    },
+    {
+        "id": 888974,
+        "updated_sequence": 1943548,
+        "published_at": {
+            "unix": 1569801060,
+            "text": "2019-09-30 00:51:00 +0100",
+            "iso_8601": "2019-09-29T23:51:00Z"
+        },
+        "updated_at": {
+            "unix": 1569801162,
+            "text": "2019-09-30 00:52:42 +0100",
+            "iso_8601": "2019-09-29T23:52:42Z"
+        },
+        "subject": "Japanese Industrial Output Prelim MM  (Mar) -1.2% vs. Exp. -0.5% (Prev. 1.3%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-industrial-output-prelim-mm-mar-1-2-vs-exp-0-5-prev-1-3-29-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-30 07:51:00",
+        "gmt_time": "2019-09-29 23:51:00"
+    },
+    {
+        "id": 888969,
+        "updated_sequence": 1943498,
+        "published_at": {
+            "unix": 1569799860,
+            "text": "2019-09-30 00:31:00 +0100",
+            "iso_8601": "2019-09-29T23:31:00Z"
+        },
+        "updated_at": {
+            "unix": 1569800108,
+            "text": "2019-09-30 00:35:08 +0100",
+            "iso_8601": "2019-09-29T23:35:08Z"
+        },
+        "subject": "Saudi Crown Prince Mohammed Bin Salman says the attacks on the Saudi oil facilities were an act of war by Iran, hopes military response will not be necessary as a political solution is \"much better\"",
+        "content": "<ul><li>MBS calls on US President Trump to meet with Iranian President Rouhani to craft a new deal</li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>This follows the attacks on the Saudi Aramco oil facilities on September 14th which halted around 5.7mln BPD of Saudi crude production</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1569800108,
+            "text": "2019-09-30 00:35:08 +0100",
+            "iso_8601": "2019-09-29T23:35:08Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "saudi-crown-prince-mohammed-bin-salman-says-the-attacks-on-the-saudi-oil-facilities-were-an-act-of-war-by-iran-hopes-military-response-will-not-be-necessary-as-a-political-solution-is-much-better-29-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 23,
+            "name": "Geopolitical"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-30 07:31:00",
+        "gmt_time": "2019-09-29 23:31:00"
+    },
+    {
+        "id": 888968,
+        "updated_sequence": 1943473,
+        "published_at": {
+            "unix": 1569798540,
+            "text": "2019-09-30 00:09:00 +0100",
+            "iso_8601": "2019-09-29T23:09:00Z"
+        },
+        "updated_at": {
+            "unix": 1569799596,
+            "text": "2019-09-30 00:26:36 +0100",
+            "iso_8601": "2019-09-29T23:26:36Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIAN, JAPANESE AND SOUTH KOREAN STOCK NEWS: The RBA should hold off on cutting rates below 1.0% tomorrow or “risk fuelling a debt-driven housing bubble without any significant economic growth attached”, RBA shadow board says",
+        "content": "<p><strong>AUSTRALIA</strong></p><p>Nufarm (NUF AT) – FY 18 underlying net AUD 89.1mln vs. Prev. AUD 98.4mln. Revenue AUD 3.76bln vs. Prev. AUD 3.31vlb. Co. sells its South American unit for AUD 1.19bln to Sumitomo (8053 JT). Co. suspends dividend for FY19. (Newswires)</p><p>Liquefied Natural Gas (LNG AT) – US FERC has issued a Draft Supplemental Environmental Impact Statement for the production capacity amendment to Co’s Magnolia LNG LLC Project.</p><p>AMP Capital (AMP AT) – Co. is reportedly mulling combining its wealth management and bank operations units into one. (Newswires)</p><p>Macquarie Media (MRN AT) – Shareholders Carnegie and Wilson are in talks in an attempt to get Nine to raise its offer. (AFR)</p><p>AMA Group (AMA AT) – Co. has requested a trade halt ahead of announcements on capital raise and acquisitions. (Newswires)</p><p>ResApp (RAP AT) – Co.’s sleep apnoea study receives positive results. (Newswires)</p><p>Other News:</p><p>- The RBA should hold off on cutting rates below 1.0% tomorrow or “risk fuelling a debt-driven housing bubble without any significant economic growth attached”, RBA shadow board says. (AFR)</p><p>&nbsp;</p><p><strong>JAPAN</strong></p><p>Japan Post Insurance (7181 JT) - Co. has found 4.2k cases of improper conduct. (Nikkei)</p><p>Nipro Corp (8086 JT) – Study of Lancet has successfully demonstrated endpoints. (Newswires)</p><p>Toshiba Cop (6502 JT) – Co’s memory unit is to create a new Japanese facility. (Newswires)</p><p>Other News</p><p>- Japan’s ruling party will propose tac breaks to drive cash into M&amp;A, Nikkei reports. (Nikkei)</p><p>- The EU and Japan have signed a deal to build infrastructure to link Europe and Asia with an alternative to China’s Belt and Road Initiative. (Newswires)</p><p>&nbsp;</p><p><strong>SOUTH KOREA</strong></p><p>JW Pharmaceuticals (001060 KS) – Simcere and Co. have announced a collaboration and license agreement and anti-gout drug candidate URC-102 in China. (Newswires)</p><p>Data Recap</p><p>- Korea (Republic of) Industrial Output YY (Aug) -2.9% vs. Exp. -0.2% (Prev. 0.6%, Rev. 0.6%)</p><p>- Korea (Republic of) Service Sector Output Gr (Aug) 1.2% (Prev. 1.0%, Rev. 1.1%)</p><p>- Korea (Republic of) Retail Sales MM (Aug) 1.2% (Prev. 0.9%)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "pre-market-australian-japanese-and-south-korean-stock-news-the-rba-should-hold-off-on-cutting-rates-below-1-0-tomorrow-or-risk-fuelling-a-debt-driven-housing-bubble-without-any-significant-economic-growth-attached-rba-shadow-board-says-29-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-30 07:09:00",
+        "gmt_time": "2019-09-29 23:09:00"
+    },
+    {
+        "id": 888966,
+        "updated_sequence": 1943413,
+        "published_at": {
+            "unix": 1569798060,
+            "text": "2019-09-30 00:01:00 +0100",
+            "iso_8601": "2019-09-29T23:01:00Z"
+        },
+        "updated_at": {
+            "unix": 1569798102,
+            "text": "2019-09-30 00:01:42 +0100",
+            "iso_8601": "2019-09-29T23:01:42Z"
+        },
+        "subject": "UK Lloyds Business Barometer (Sep) 2 (Prev. 1)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "uk-lloyds-business-barometer-sep-2-prev-1-29-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 29,
+            "name": "UK Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-30 07:01:00",
+        "gmt_time": "2019-09-29 23:01:00"
+    },
+    {
+        "id": 888967,
+        "updated_sequence": 1943429,
+        "published_at": {
+            "unix": 1569798000,
+            "text": "2019-09-30 00:00:00 +0100",
+            "iso_8601": "2019-09-29T23:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1569798461,
+            "text": "2019-09-30 00:07:41 +0100",
+            "iso_8601": "2019-09-29T23:07:41Z"
+        },
+        "subject": "Korea (Republic of) Retail Sales MM (Aug) 1.2% (Prev. 0.9%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "korea-republic-of-retail-sales-mm-aug-1-2-prev-0-9-29-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-30 07:00:00",
+        "gmt_time": "2019-09-29 23:00:00"
+    },
+    {
+        "id": 888967,
+        "updated_sequence": 1943429,
+        "published_at": {
+            "unix": 1569798000,
+            "text": "2019-09-30 00:00:00 +0100",
+            "iso_8601": "2019-09-29T23:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1569798461,
+            "text": "2019-09-30 00:07:41 +0100",
+            "iso_8601": "2019-09-29T23:07:41Z"
+        },
+        "subject": "Korea (Republic of) Retail Sales MM (Aug) 1.2% (Prev. 0.9%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "korea-republic-of-retail-sales-mm-aug-1-2-prev-0-9-29-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-30 07:00:00",
+        "gmt_time": "2019-09-29 23:00:00"
+    },
+    {
+        "id": 888962,
+        "updated_sequence": 1943302,
+        "published_at": {
+            "unix": 1569795180,
+            "text": "2019-09-29 23:13:00 +0100",
+            "iso_8601": "2019-09-29T22:13:00Z"
+        },
+        "updated_at": {
+            "unix": 1569795241,
+            "text": "2019-09-29 23:14:01 +0100",
+            "iso_8601": "2019-09-29T22:14:01Z"
+        },
+        "subject": "RBNZ says debt levels are high, need to improve resilience of financial system while conditions are favourable",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "rbnz-says-debt-levels-are-high-need-to-improve-resilience-of-financial-system-while-conditions-are-favourable-29-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 11,
+            "name": "RBNZ"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-30 06:13:00",
+        "gmt_time": "2019-09-29 22:13:00"
+    },
+    {
+        "id": 888961,
+        "updated_sequence": 1943291,
+        "published_at": {
+            "unix": 1569794940,
+            "text": "2019-09-29 23:09:00 +0100",
+            "iso_8601": "2019-09-29T22:09:00Z"
+        },
+        "updated_at": {
+            "unix": 1569795020,
+            "text": "2019-09-29 23:10:20 +0100",
+            "iso_8601": "2019-09-29T22:10:20Z"
+        },
+        "subject": "Japan’s ruling party will propose tax breaks to drive cash into M&A, Nikkei reports",
+        "content": "<ul><li><a href=\"https://asia.nikkei.com/Editor-s-Picks/Interview/Exclusive-Japan-readies-tax-breaks-to-drive-cash-into-M-A\">Link to article</a></li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Nikkei",
+        "slug": "japan-s-ruling-party-will-propose-tax-breaks-to-drive-cash-into-m-a-nikkei-reports-29-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-30 06:09:00",
+        "gmt_time": "2019-09-29 22:09:00"
+    },
+    {
+        "id": 888959,
+        "updated_sequence": 1943293,
+        "published_at": {
+            "unix": 1569794820,
+            "text": "2019-09-29 23:07:00 +0100",
+            "iso_8601": "2019-09-29T22:07:00Z"
+        },
+        "updated_at": {
+            "unix": 1569795039,
+            "text": "2019-09-29 23:10:39 +0100",
+            "iso_8601": "2019-09-29T22:10:39Z"
+        },
+        "subject": "RBNZ 2018/19 Annual Report states the New Zealand economy has proved resilient through a period of weakening global growth and heightened global uncertainty ",
+        "content": "<ul><li><a href=\"https://www.rbnz.govt.nz/news/2019/09/nz-economy-resilient-while-the-reserve-bank-responds-to-change\">Link to release</a></li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RBNZ",
+        "slug": "rbnz-2018-19-annual-report-states-the-new-zealand-economy-has-proved-resilient-through-a-period-of-weakening-global-growth-and-heightened-global-uncertainty-29-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 11,
+            "name": "RBNZ"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-30 06:07:00",
+        "gmt_time": "2019-09-29 22:07:00"
+    },
+    {
+        "id": 888957,
+        "updated_sequence": 1943174,
+        "published_at": {
+            "unix": 1569791820,
+            "text": "2019-09-29 22:17:00 +0100",
+            "iso_8601": "2019-09-29T21:17:00Z"
+        },
+        "updated_at": {
+            "unix": 1569791997,
+            "text": "2019-09-29 22:19:57 +0100",
+            "iso_8601": "2019-09-29T21:19:57Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASES CALENDAR NOW AVAILABLE IN THE RESEARCH SECTION: Highlights include BoJ Summary of Opinions, Japanese Retail Sales & Industrial Production, NZ ANZ Business Confidence, Chinese NBS and Caixin Manufacturing PMIs",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asian-daily-economic-releases-calendar-now-available-in-the-research-section-highlights-include-boj-summary-of-opinions-japanese-retail-sales-industrial-production-nz-anz-business-confidence-chinese-nbs-and-caixin-manufacturing-pmis-29-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-30 05:17:00",
+        "gmt_time": "2019-09-29 21:17:00"
+    },
+    {
+        "id": 888956,
+        "updated_sequence": 1943161,
+        "published_at": {
+            "unix": 1569791640,
+            "text": "2019-09-29 22:14:00 +0100",
+            "iso_8601": "2019-09-29T21:14:00Z"
+        },
+        "updated_at": {
+            "unix": 1569791714,
+            "text": "2019-09-29 22:15:14 +0100",
+            "iso_8601": "2019-09-29T21:15:14Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p>30th September 2019&nbsp;</p><p><strong>ASIA-PAC</strong></p><p><strong>Reports suggested that the White House is mulling limits on portfolio flows into China, there is no timeline set for capital restrictions.&nbsp; Officials also considering delisting Chinese stocks from US stock exchanges but is unclear what mechanism the US could use to enforce such a policy. However, a US Treasury official stated that there are no current plans to stop Chinese firms from listing on US exchanges. (Newswires)</strong></p><p><strong>US President Trump said that patience is needed to ensure the trade deal with China is a great one. (Newswires)</strong></p><p>China Global Times Editor Hu Xijin said the recent purchases from China on US farm products obviously signalled goodwill but not concessions, and that China and the US need to create real progress in trade so that such purchases can be sustained. (Twitter)</p><p>China has “no intention” of challenging or replacing the United States on the world stage, but the superpower should not try to block its continued development, Beijing said in a white paper on Friday, according to SCMP. (SCMP)</p><p>PBoC reiterated that they are to keep appropriate balance between tightening and easing of policy and are to increase counter cyclical adjustment and macro policy coordination; will comprehensively use monetary policy tools. (Newswires)</p><p>Chinese FX Regulator said it will boost ability to fend off external shocks. (Newswires)</p><p>China Diplomat Wang Yi says China will never yield to pressure, believes in the principle of non-interference. (Newswires)</p><p>China is ready to declare new stage in Japan ties on Xi visit, an envoy said. (Nikkei)</p><p>S&amp;P affirmed Saudi Arabia’s sovereign rating at “A-“; outlook “Stable”. (Newswires)</p><p>&nbsp;</p><p>UK/EU</p><p><strong>Outgoing ECB President Draghi stated that the need for higher fiscal spending was “more urgent than before” and noted that extraordinary monetary stimulus may have to last a long time if there is no support from fiscal policy. (FT)</strong></p><p>ECB's Lane said that that the September 12th policy announcement was not a dramatic policy move, it was a recalibration. There are differences on views regarding policy specifics, but no structural divide among the ECB's members. He is yet to see a technical limit on how low rates are able to go; any potential collision with QE limits is far in the future, there is currently no reason to consider increasing them. (Newswires)</p><p>ECB is to begin the publication of FX intervention data on a quarterly schedule form April 2020. (Newswires)</p><p>Italy’s new finance minister said he will pursue a “wise middle ground” between exceeding budget constraints and increasing government spending to stimulate the domestic economy. (FT)&nbsp;</p><p><strong>UK Opposition Leaders will be meeting today to find a way to force UK PM Johnson to ask for a Brexit extension as early as this weekend by changing the law to bring forward the date when the PM legally has to ask Brussels for an Article 50 extension, which is currently October 19th. (Telegraph)</strong></p><p><strong>The Queen has reportedly sought advice on the circumstances in which she could sack UK PM Johnson, according to iNews citing sources. (iNews)</strong></p><p><strong>Senior UK Brexit planning official Matthew Coats is set to quit. Officials said Mr. Coats is moving to a new post in government as executive chair of the government automation task force. (FT)</strong></p><p>Greater London Authority referred PM Johnson to the Independent Office for Police Conduct for a possible investigation into whether he committed misconduct in a public office in connection to his friendship with American businesswoman. (Sky News) <strong>COMMODITIES</strong></p><p>Exports of Libya's El Sharara oil to fall by 7% on the month to 210k BPD in October, according to preliminary loading data. (Argus)</p><p>GEOPOLITICS</p><p><strong>Saudi Arabia agrees to a partial ceasefire in Yemen, according to the WSJ. (WsJ)</strong></p><p><strong>US President Trump said Iran wanted the US to lift sanctions, but Trump refused. This followed Earlier, headlines suggested that Iran President Rouhani claimed the US had offered to lift sanctions in exchange for talks. In related news, an FT journalist said translation of Iran President’s remarks (where he appeared to suggest US had offered to lift sanctions) is dubious and questions its veracity. (Newswires)</strong></p><p>Turkish Foreign minister said US is considering actively re-including Turkey in its F-35 jet programme. (Newswires)</p><p>Russian Government has called on NATO to refrain from deploying European missiles. (Newswires)</p><p>&nbsp;</p><p><strong>US</strong></p><p>Three House committees subpoena US Secretary of State Pompeo to supply documents relating to administration's dealings with Ukraine. This follows comments from the US House Intel Committee Chief who noted that impeachment inquiry hearings and subpoenas could be issued as soon as this week. Further, the US envoy to Ukraine, Kurt Volcker has resigned. (Newswires)</p><p><strong>Fed's Harker (non-voter, neutral)</strong> said he could be open to a rate cut, but not right now. Fed is close to the balance sheet unwind ending. He added that the recent consumer data was a little weak, and Harker thinks that the Fed should be on hold with interest rates. Harker also believes the Fed is close to the point of organic balance sheet growth. (Newswires)</p><p>USMCA deal to take at least another two weeks, according to Rep. Neal, the Chairman of the House Ways and Means. (Newswires)</p><p><strong>DATA RECAP</strong></p><p><strong>- US Durable Goods (Aug) 0.2% vs. Exp. -1.0% (Prev. 2.0%)</strong></p><p>- US Nondef Cap Ex-Air (Aug) -0.2% (Prev. 0.2%)</p><p>- US Durables Ex-Transport (Aug) 0.5% vs. Exp. 0.2% (Prev. -0.4%, Rev. -0.5%)</p><p><strong>- US Core PCE Price Index YY (Aug) 1.8% vs. Exp. 1.8% (Prev. 1.6%, Rev. 1.7%)</strong></p><p>- US Core PCE Price Index MM (Aug) 0.1% vs. Exp. 0.2% (Prev. 0.2%)</p><p>- US U Mich Sentiment Final (Sep) 93.2 vs. Exp. 92.0 (Prev. 92.0)</p><p>&nbsp;</p><p>MARKET RECAP</p><p><strong>S&amp;P 500 -0.5% at 2962, NASDAQ-100 -1.2% at 7682, Dow Jones&nbsp; -0.3% at 26824; </strong>SECTORS: Consumer Discretionary&nbsp; -0.4%, Consumer Staples&nbsp; -0.1%, Energy&nbsp; 0%, Financials&nbsp; 0.3%, Health Care&nbsp; -0.4%, Industrials&nbsp; -0.4%, Information Technology&nbsp; -1.3%, Materials&nbsp; -0.3%, Telecommunication Services&nbsp; -0.9%, Utilities&nbsp; -0.3%. Micron’s (MU) earnings beat on both top and bottom line, however its gross margin fell to 50.2% from a prior 58.42% and forecasted its median EPS for Q1 beneath expectations. MU said it is encouraged by signs of an improving industry demand, however, it was mindful of ongoing macro and trade uncertainties. The poor guidance and concerns around DRAM prices hit competitors Lam Research (LRCX) and Applied Materials (AMAT). Chinese ADR’s (BABA, BIDU, JD) were heavily pressured after it was announced that the US is mulling limits on US portfolio flows into China and also the delisting of Chinese companies from US stock exchanges. Alphabet (GOOGL) traded lower today amid a mixed set of headlines, where Oracle (ORCL) announced it has received requests for information on GOOGL over a range of business issues, however, its chief of cloud operations stated the trade war has not affected sales growth and it is seeing enormous global growth.</p><p>&nbsp;</p><p><strong>T-Notes (Z9) settled 3+ ticks higher at 130-12+.</strong> The curve steepened slightly in wake of reports suggesting Trump officials were considering a policy to restrict portfolio flows to China, and are also mulling delisting Chinese stocks from US exchanges. Fed Overnight Repo operations today saw USD 22.7bln bids submitted (Fed had offered USD 100bln), and the 14-day term operation was under-subscribed, seeing USD 49bln accepted of the USD 60bln offered; while both indicate money market stress has abated, attention will be on Monday’s operations, to observe month/quarter-end effect, and the digestion of this week’s Treasury supply. In later trade, the TPLEX was supported by comments from China diplomat Wang Yi, who struck a defiant tone, suggesting China would not be bullied, contributing to a risk-off feel as we close out the week</p><p>&nbsp;</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "daily-asia-pac-opening-news-29-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-30 05:14:00",
+        "gmt_time": "2019-09-29 21:14:00"
+    },
+    {
+        "id": 888761,
+        "updated_sequence": 1943124,
+        "published_at": {
+            "unix": 1569790800,
+            "text": "2019-09-29 22:00:00 +0100",
+            "iso_8601": "2019-09-29T21:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1569790800,
+            "text": "2019-09-29 22:00:00 +0100",
+            "iso_8601": "2019-09-29T21:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "<p><a href=\"https://asia.nikkei.com/Business/Companies/Nintendo-to-move-Switch-output-to-Vietnam-as-China-tariffs-loom\">Via Nikkei</a></p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-26-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-30 05:00:00",
+        "gmt_time": "2019-09-29 21:00:00"
+    }
+]

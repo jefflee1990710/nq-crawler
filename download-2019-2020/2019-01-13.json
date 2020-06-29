@@ -1,0 +1,546 @@
+[
+    {
+        "id": 691212,
+        "updated_sequence": 1119820,
+        "published_at": {
+            "unix": 1547423640,
+            "text": "2019-01-13 23:54:00 +0000",
+            "iso_8601": "2019-01-13T23:54:00Z"
+        },
+        "updated_at": {
+            "unix": 1547423755,
+            "text": "2019-01-13 23:55:55 +0000",
+            "iso_8601": "2019-01-13T23:55:55Z"
+        },
+        "subject": "North Korea is calling for full scale economic cooperation with South Korea and says the South's economy would have improved if it had pushed strongly for cross-border exchanges",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "north-korea-is-calling-for-full-scale-economic-cooperation-with-south-korea-and-says-the-south-s-economy-would-have-improved-if-it-had-pushed-strongly-for-cross-border-exchanges-13-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-14 07:54:00",
+        "gmt_time": "2019-01-13 23:54:00"
+    },
+    {
+        "id": 691211,
+        "updated_sequence": 1119817,
+        "published_at": {
+            "unix": 1547422920,
+            "text": "2019-01-13 23:42:00 +0000",
+            "iso_8601": "2019-01-13T23:42:00Z"
+        },
+        "updated_at": {
+            "unix": 1547423009,
+            "text": "2019-01-13 23:43:29 +0000",
+            "iso_8601": "2019-01-13T23:43:29Z"
+        },
+        "subject": "Hyundai Motor (005380 KS) 2018 China sales 790k units vs, Prev. 785k units Y/Y",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "hyundai-motor-005380-ks-2018-china-sales-790k-units-vs-prev-785k-units-y-y-13-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-14 07:42:00",
+        "gmt_time": "2019-01-13 23:42:00"
+    },
+    {
+        "id": 691210,
+        "updated_sequence": 1119814,
+        "published_at": {
+            "unix": 1547421960,
+            "text": "2019-01-13 23:26:00 +0000",
+            "iso_8601": "2019-01-13T23:26:00Z"
+        },
+        "updated_at": {
+            "unix": 1547422104,
+            "text": "2019-01-13 23:28:24 +0000",
+            "iso_8601": "2019-01-13T23:28:24Z"
+        },
+        "subject": "PRE-MARKET SOUTH KOREAN NEWS: Doosan Heavy (0340202 KS) signed KRW 512bln contract, Trump offers to conduct 2nd summit with North Korea's Kim in mid-Feb, Japan is shut for public holiday",
+        "content": "<p>Doosan Heavy (0340202 KS)<br />- Co. signed contract valued at KRW 512bln. (Newswires)</p>\r\n\r\n<p>Samsung Electronics (005930 KS)<br />- Co. is planning to roll out a budget smartphone series in India prior to global release, which is expected to help in its aim to double online sales. (Newswires)<br />- Co. will acquire Israel&rsquo;s Corephotonics. (Newswires)</p>\r\n\r\n<p>Other News<br />- US President Trump offered to meet with North Korea&rsquo;s Kim mid-February in Vietnam for a 2nd summit. (Yonhap)<br />- Norway&#39;s sovereign wealth fund is reportedly planning to purchase more South Korea stocks. (Newswires)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-south-korean-news-doosan-heavy-0340202-ks-signed-krw-512bln-contract-trump-offers-to-conduct-2nd-summit-with-north-korea-s-kim-in-mid-feb-japan-is-shut-for-public-holiday-13-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-14 07:26:00",
+        "gmt_time": "2019-01-13 23:26:00"
+    },
+    {
+        "id": 691209,
+        "updated_sequence": 1119811,
+        "published_at": {
+            "unix": 1547421840,
+            "text": "2019-01-13 23:24:00 +0000",
+            "iso_8601": "2019-01-13T23:24:00Z"
+        },
+        "updated_at": {
+            "unix": 1547421913,
+            "text": "2019-01-13 23:25:13 +0000",
+            "iso_8601": "2019-01-13T23:25:13Z"
+        },
+        "subject": "US President Trump has offered to meet with North Korean leader Kim mid-February in Vietnam for a 2nd summit, according to Yonhap",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Yonhap",
+        "slug": "us-president-trump-has-offered-to-meet-with-north-korean-leader-kim-mid-february-in-vietnam-for-a-2nd-summit-according-to-yonhap-13-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 23,
+            "name": "Geopolitical"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-14 07:24:00",
+        "gmt_time": "2019-01-13 23:24:00"
+    },
+    {
+        "id": 691208,
+        "updated_sequence": 1119805,
+        "published_at": {
+            "unix": 1547420520,
+            "text": "2019-01-13 23:02:00 +0000",
+            "iso_8601": "2019-01-13T23:02:00Z"
+        },
+        "updated_at": {
+            "unix": 1547420619,
+            "text": "2019-01-13 23:03:39 +0000",
+            "iso_8601": "2019-01-13T23:03:39Z"
+        },
+        "subject": "Rio Tinto (RIO AT) declares force majeure on some iron ore shipments after Cape Lambert fire",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "rio-tinto-rio-at-declares-force-majeure-on-some-iron-ore-shipments-after-cape-lambert-fire-13-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-14 07:02:00",
+        "gmt_time": "2019-01-13 23:02:00"
+    },
+    {
+        "id": 691207,
+        "updated_sequence": 1119808,
+        "published_at": {
+            "unix": 1547420460,
+            "text": "2019-01-13 23:01:00 +0000",
+            "iso_8601": "2019-01-13T23:01:00Z"
+        },
+        "updated_at": {
+            "unix": 1547421011,
+            "text": "2019-01-13 23:10:11 +0000",
+            "iso_8601": "2019-01-13T23:10:11Z"
+        },
+        "subject": "US President Trump tweets that US is starting long overdue pullout from Syria, also threatens to devastate Turkey economically if Turkey hits the Kurds and likewise doesn't want the Kurds to provoke Turkey ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Twitter",
+        "slug": "us-president-trump-tweets-that-us-is-starting-long-overdue-pullout-from-syria-also-threatens-to-devastate-turkey-economically-if-turkey-hits-the-kurds-and-likewise-doesn-t-want-the-kurds-to-provoke-turkey-13-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 23,
+            "name": "Geopolitical"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-14 07:01:00",
+        "gmt_time": "2019-01-13 23:01:00"
+    },
+    {
+        "id": 691206,
+        "updated_sequence": 1119799,
+        "published_at": {
+            "unix": 1547420100,
+            "text": "2019-01-13 22:55:00 +0000",
+            "iso_8601": "2019-01-13T22:55:00Z"
+        },
+        "updated_at": {
+            "unix": 1547420245,
+            "text": "2019-01-13 22:57:25 +0000",
+            "iso_8601": "2019-01-13T22:57:25Z"
+        },
+        "subject": "Greece PM Tsipras is calling for a vote of confidence in the government after junior coalition partner and Defense Minister Kammenos announced to quit in protest of a deal to end dispute with Macedonia regarding its name",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "greece-pm-tsipras-is-calling-for-a-vote-of-confidence-in-the-government-after-junior-coalition-partner-and-defense-minister-kammenos-announced-to-quit-in-protest-of-a-deal-to-end-dispute-with-macedonia-regarding-its-name-13-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-14 06:55:00",
+        "gmt_time": "2019-01-13 22:55:00"
+    },
+    {
+        "id": 691205,
+        "updated_sequence": 1119796,
+        "published_at": {
+            "unix": 1547419920,
+            "text": "2019-01-13 22:52:00 +0000",
+            "iso_8601": "2019-01-13T22:52:00Z"
+        },
+        "updated_at": {
+            "unix": 1547419963,
+            "text": "2019-01-13 22:52:43 +0000",
+            "iso_8601": "2019-01-13T22:52:43Z"
+        },
+        "subject": "Norway's sovereign wealth fund is reportedly planning to purchase more South Korea stocks, according to local press",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "norway-s-sovereign-wealth-fund-is-reportedly-planning-to-purchase-more-south-korea-stocks-according-to-local-press-13-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-14 06:52:00",
+        "gmt_time": "2019-01-13 22:52:00"
+    },
+    {
+        "id": 691204,
+        "updated_sequence": 1119793,
+        "published_at": {
+            "unix": 1547419260,
+            "text": "2019-01-13 22:41:00 +0000",
+            "iso_8601": "2019-01-13T22:41:00Z"
+        },
+        "updated_at": {
+            "unix": 1547419703,
+            "text": "2019-01-13 22:48:23 +0000",
+            "iso_8601": "2019-01-13T22:48:23Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIAN STOCK NEWS: Wesfarmers (WES AT) expects a decline in department store earnings, although is to book AUD 3.2bln gain for HY from asset sales including Coles demerger",
+        "content": "<p>Healius (HLS AT)<br />- Co. is keeping communication line open with Jangho&rsquo;s Chairman despite the latter&rsquo;s offer being recently rejected. (AFR)</p>\r\n\r\n<p>Retail Food Group (RFG AT)<br />- PAG Asia Capital said to be front runner to purchase Crust Gourmet Pizzas unit. (AFR)</p>\r\n\r\n<p>Wesfarmers (WES AT)<br />- Co. guides H1 retail units trading to be inline with expectations aside from department stores in which it expects a decline in department store earnings. Co. is also expecting a gain of AUD 670mln-680mln from sale of Bengalla and AUD 98mln from exiting Quadrant Energy, while other reports noted that the Co. is to book a total of AUD 3.2bln in one off gains which includes the Coles demerger. (Newswires/AFR)</p>\r\n\r\n<p>Financials<br />- Australia&rsquo; Big 4 banks are pushing for the APRA to reconsider its proposal to force them to raise an additional AUD 75bln of so-called Tier II bonds to meet &quot;too big to fail&quot; capital requirements, as they argue that the global market for Tier II bonds may not be large enough for them to raise up to 7% of their risk weighted assets. (AFR)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-australian-stock-news-wesfarmers-wes-at-expects-a-decline-in-department-store-earnings-although-is-to-book-aud-3-2bln-gain-for-hy-from-asset-sales-including-coles-demerger-13-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-14 06:41:00",
+        "gmt_time": "2019-01-13 22:41:00"
+    },
+    {
+        "id": 691203,
+        "updated_sequence": 1119788,
+        "published_at": {
+            "unix": 1547418660,
+            "text": "2019-01-13 22:31:00 +0000",
+            "iso_8601": "2019-01-13T22:31:00Z"
+        },
+        "updated_at": {
+            "unix": 1547418728,
+            "text": "2019-01-13 22:32:08 +0000",
+            "iso_8601": "2019-01-13T22:32:08Z"
+        },
+        "subject": "UK PM May is to say she believes parliament will more likely block Brexit than the UK leave without a deal, according to the PM's office",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "uk-pm-may-is-to-say-she-believes-parliament-will-more-likely-block-brexit-than-the-uk-leave-without-a-deal-according-to-the-pm-s-office-13-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 38,
+            "name": "Brexit"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-14 06:31:00",
+        "gmt_time": "2019-01-13 22:31:00"
+    },
+    {
+        "id": 691202,
+        "updated_sequence": 1119785,
+        "published_at": {
+            "unix": 1547417820,
+            "text": "2019-01-13 22:17:00 +0000",
+            "iso_8601": "2019-01-13T22:17:00Z"
+        },
+        "updated_at": {
+            "unix": 1547417963,
+            "text": "2019-01-13 22:19:23 +0000",
+            "iso_8601": "2019-01-13T22:19:23Z"
+        },
+        "subject": "PG&E (PCG) said to be in discussions with banks about multi-billion dollar bankruptcy financing and may inform employees on Monday it is preparing a bankruptcy filing",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pg-e-pcg-said-to-be-in-discussions-with-banks-about-multi-billion-dollar-bankruptcy-financing-and-may-inform-employees-on-monday-it-is-preparing-a-bankruptcy-filing-13-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-14 06:17:00",
+        "gmt_time": "2019-01-13 22:17:00"
+    },
+    {
+        "id": 691201,
+        "updated_sequence": 1119782,
+        "published_at": {
+            "unix": 1547417520,
+            "text": "2019-01-13 22:12:00 +0000",
+            "iso_8601": "2019-01-13T22:12:00Z"
+        },
+        "updated_at": {
+            "unix": 1547417631,
+            "text": "2019-01-13 22:13:51 +0000",
+            "iso_8601": "2019-01-13T22:13:51Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASES CALENDAR NOW AVAILABLE IN THE RESEARCH SECTION: Highlights include Singapore GDP, Chinese Trade Balance, Exports, Imports, New Yuan Loans and Aggregate Financing",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asian-daily-economic-releases-calendar-now-available-in-the-research-section-highlights-include-singapore-gdp-chinese-trade-balance-exports-imports-new-yuan-loans-and-aggregate-financing-13-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-14 06:12:00",
+        "gmt_time": "2019-01-13 22:12:00"
+    },
+    {
+        "id": 691200,
+        "updated_sequence": 1119779,
+        "published_at": {
+            "unix": 1547417040,
+            "text": "2019-01-13 22:04:00 +0000",
+            "iso_8601": "2019-01-13T22:04:00Z"
+        },
+        "updated_at": {
+            "unix": 1547417126,
+            "text": "2019-01-13 22:05:26 +0000",
+            "iso_8601": "2019-01-13T22:05:26Z"
+        },
+        "subject": "EU President Juncker and European Council Chief Tusk are to send letters on Monday in an effort to reassure UK MPs regarding the backstop",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "eu-president-juncker-and-european-council-chief-tusk-are-to-send-letters-on-monday-in-an-effort-to-reassure-uk-mps-regarding-the-backstop-13-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 38,
+            "name": "Brexit"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-14 06:04:00",
+        "gmt_time": "2019-01-13 22:04:00"
+    },
+    {
+        "id": 691199,
+        "updated_sequence": 1119776,
+        "published_at": {
+            "unix": 1547416980,
+            "text": "2019-01-13 22:03:00 +0000",
+            "iso_8601": "2019-01-13T22:03:00Z"
+        },
+        "updated_at": {
+            "unix": 1547417058,
+            "text": "2019-01-13 22:04:18 +0000",
+            "iso_8601": "2019-01-13T22:04:18Z"
+        },
+        "subject": "UK government comments that any defeat by less than 100 votes on Tuesday would be counted as a good result",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "uk-government-comments-that-any-defeat-by-less-than-100-votes-on-tuesday-would-be-counted-as-a-good-result-13-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 38,
+            "name": "Brexit"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-14 06:03:00",
+        "gmt_time": "2019-01-13 22:03:00"
+    },
+    {
+        "id": 691001,
+        "updated_sequence": 1119765,
+        "published_at": {
+            "unix": 1547416800,
+            "text": "2019-01-13 22:00:00 +0000",
+            "iso_8601": "2019-01-13T22:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1547416800,
+            "text": "2019-01-13 22:00:00 +0000",
+            "iso_8601": "2019-01-13T22:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-10-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-14 06:00:00",
+        "gmt_time": "2019-01-13 22:00:00"
+    },
+    {
+        "id": 691198,
+        "updated_sequence": 1119773,
+        "published_at": {
+            "unix": 1547416800,
+            "text": "2019-01-13 22:00:00 +0000",
+            "iso_8601": "2019-01-13T22:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1547416824,
+            "text": "2019-01-13 22:00:24 +0000",
+            "iso_8601": "2019-01-13T22:00:24Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS:",
+        "content": "<p>ASIA-PAC</p>\r\n\r\n<p>Sources reportedly said on Friday that the PBoC is wary of further yuan appreciation. (Newswires)</p>\r\n\r\n<p>Indian Industrial Output (Nov) Y/Y 0.5% vs. Exp. 4.1% (Prev. 8.1%). (Newswires)</p>\r\n\r\n<p><br />UK/EU</p>\r\n\r\n<p>UK PM May warned that failure to back her Brexit deal risks a no-deal Brexit. (Newswires)</p>\r\n\r\n<p>UK Cabinet Ministers are reportedly exploring &quot;Plan B&quot; options with PM May expected to lose her Brexit vote on Jan 15. Elsewhere, there were also reports on Friday that suggested Article 50 is set to be extended even if Theresa May wins vote on Tuesday, according to reports citing senior ministers. (Newswires/Independent)</p>\r\n\r\n<p>UK GDP Estimate (Nov) Y/Y 1.40% vs. Exp. 1.30% (Prev. 1.50%). (Newswires)<br />UK Industrial Output (Nov) Y/Y -1.5% vs. Exp. -0.7% (Prev. -0.8%, Rev. -0.9%)<br />UK Manufacturing Output (Nov) Y/Y -1.1% vs. Exp. -0.7% (Prev. -1.0%, Rev. -0.7%)</p>\r\n\r\n<p>Fitch affirmed Spain at &#39;A-&#39;; Outlook Stable. (Newswires)</p>\r\n\r\n<p><br />COMMODITIES</p>\r\n\r\n<p>Baker Hughes Rig Count (11/Jan): Oil down 4 at 873, NatGas up 4 at 202; total unchanged 1075. (Newswires)</p>\r\n\r\n<p>Russia&#39;s Energy Minister Novak said domestic oil output is declining gradually and suggested a decrease oil output by 50,000 BPD in January from October levels (11.4mln BPD). (Newswires)<br />&nbsp;</p>\r\n\r\n<p>GEOPOLITICAL</p>\r\n\r\n<p>Iran suggested it could restart its nuclear program as its nuclear program chief stated that they have started preliminary activities for designing a modern process for 20% uranium enrichment for its reactor in Tehran. (Associated Press) In separate news, US President Trump&rsquo;s reportedly instructed the Pentagon last year to provide military options to strike Iran. (WSJ)</p>\r\n\r\n<p>US</p>\r\n\r\n<p>US President Trump said he will not declare a national emergency right now and wants congress to act, while he later stated he will sign a bill for back pay for Federal workers. Separately, OMB is said to have drafted plans for a government shutdown that runs through February. (Newswires)</p>\r\n\r\n<p>Fox&#39;s Gasparino cited sources which said internal data shows impact of shutdown will hit economy shortly as officials grow increasingly worried about economic impact of impasse and that US President Trump likely to end impasse with government emergency as soon as next week. (Twitter)</p>\r\n\r\n<p>US CPI (Dec) Y/Y 1.9% vs. Exp. 1.9% (Prev. 2.2%). (Newswires)</p>\r\n\r\n<p>MARKET RECAP</p>\r\n\r\n<p>General Motors (GM) and PVH Corp (PVH) surged on the open after raising their guidance. Infosys (INFY) was a gainer following its earnings report and a share repurchase programme. Netflix (NFLX) opened higher after upgrades at UBS and Raymond James. Activision Blizzard (ATVI) underperformed after it gave publishing rights away for its Destiny franchise. PG&amp;E (PCG) traded lower after its credit rating was downgraded to junk at Moddy&rsquo;s. Alphabet (GOOGL) opened lower over reports it was being sued by shareholders for keeping sexual misconduct claims hidden. Amazon (AMZN) came under negative light following reports of privacy issues with its Ring smart doorbell and Germany banning its Dash device. Apple (AAPL) moved lower on the open, as new iPhone release details failed to impress investors. Starbucks (SBUX) came under pressure after Goldman downgraded the stock. SPX -0.02% at 2596, NDX -0.3% at 6601, DJI -0.04% at 23993.</p>\r\n\r\n<p>Treasuries firmed on Friday amid the longest US government shutdown in history, as well as reports that the PBOC is becoming wary of yuan strength, while geopolitical headlines also influenced (reports of Turkish troops along the Syrian border). The modest bounce continued after an in-line CPI report, though the complex saw some profit-taking towards the European close, sources noted. Yields were lower across the curve at settlement, with most of the action in the belly, where they fell by around 3bps. Major spreads were mixed, with 2s5s and 2s10s narrowing by around 1bps, while 2s30s and 5s30s steepened by 0.5bps and 2bps respectively. US T-note futures (H19) settled 7+ ticks higher at 121-30+</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-asia-pac-opening-news-13-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-01-14 06:00:00",
+        "gmt_time": "2019-01-13 22:00:00"
+    }
+]

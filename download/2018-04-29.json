@@ -1,0 +1,652 @@
+[
+    {
+        "id": 618453,
+        "updated_sequence": 815149,
+        "published_at": {
+            "unix": 1525044780,
+            "text": "2018-04-30 00:33:00 +0100",
+            "iso_8601": "2018-04-29T23:33:00Z"
+        },
+        "updated_at": {
+            "unix": 1525045190,
+            "text": "2018-04-30 00:39:50 +0100",
+            "iso_8601": "2018-04-29T23:39:50Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIAN AND SOUTH KOREAN STOCK NEWS: Japan is closed for Showa Day",
+        "content": "<p>AUSTRALIA</p>\r\n\r\n<p>AGL Energy (AGL AT)<br />- Alinta (AL AT) made a bid for the Liddell power plant valued at AUD 1.2bln. (The Australian)</p>\r\n\r\n<p>AMP Capital (AMP AT)<br />- Co. Executive Chairwoman Brenner resigned, while Co. names board member Mike Wilkins as interim Executive Chairman during selection process for a permanent replacement. (Newswires)<br /><br />ANZ Bank (ANZ AT)<br />- Co. is said to be facing class action from Malaysia regarding involvement in the 1MDB scandal. (The Australian)</p>\r\n\r\n<p>Northern Star Resources (NST AT)<br />- Co. Q3 gold sales 119.9k ounces vs. Prev. AUD 128.8k ounces Q/Q at AISC AUD 1075/ounce vs. Prev. AUD 1067/ounce Q/Q. (Newswires)</p>\r\n\r\n<p>Origin Energy (ORG AT)<br />- Co. Q3 rev. AUD 491.9mln vs. Prev. AUD 385.3mln Y/Y. (Newswires)</p>\r\n\r\n<p>Woolworths (WOW AT)<br />- Peregrine is said to be the favourite to buy 230 petrol stations from Co. (Newswires)</p>\r\n\r\n<p>WorleyParsons (WOR AT)<br />- Co. with JV partner Special Technical Services receives contract to provide services for BP Khazzan facility in Oman. (Newswires)</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>JAPAN</p>\r\n\r\n<p>Hitachi (6501 JT)<br />- Co. is seeking discussions to reduce its stake in Horizon nuclear business in UK. (Nikkei)</p>\r\n\r\n<p>SoftBank (9984 JT)<br />- Co. unit Sprint (S) agreed with T-Mobile (TMUS) regarding an all-stock merger valued at USD 26bln. (AFR)</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>SOUTH KOREA</p>\r\n\r\n<p>Celltrion (068270 KS)<br />- US FDA issued warning on Co., Cosmecca Korea (241710 KS) and It&rsquo;s Hanbul Co. (226320 KS) for significantly violating current good manufacturing regulations. (Yonhap)</p>\r\n\r\n<p>Hyundai Motor (005380 KS)<br />- Co. is to cancel KRW 960bln of shares to raise shareholder value. (Newswires)</p>\r\n\r\n<p>Samsung Electronics (005930 KS)<br />- Co. shares are in a trading halt for 3-days amid 50-to-1 stock split. (Newswires)<br />- Co. is said to be planning to drastically simplify ownership structure in approaching months. (Newswires)</p>\r\n\r\n<p>SK Innovation (096770 KS)<br />- Co. is to cancel planned IPO of SK Lubricants subsidiary and instead is eyeing JVs to build plants in North America. (Yonhap)</p>\r\n\r\n<p>Other News<br />- South Korea and North Korea signed the Panmunjeom Declaration on Friday which was said to minimize economic cooperation but provided room for future possibility. In addition, there were also reports over the weekend that North Korea pledged to shut its nuclear test site in May. (Newswires)<br />&nbsp;</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-australian-and-south-korean-stock-news-japan-is-closed-for-showa-day-29-04-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-04-30 07:33:00",
+        "gmt_time": "2018-04-29 23:33:00"
+    },
+    {
+        "id": 618452,
+        "updated_sequence": 815144,
+        "published_at": {
+            "unix": 1525043880,
+            "text": "2018-04-30 00:18:00 +0100",
+            "iso_8601": "2018-04-29T23:18:00Z"
+        },
+        "updated_at": {
+            "unix": 1525043992,
+            "text": "2018-04-30 00:19:52 +0100",
+            "iso_8601": "2018-04-29T23:19:52Z"
+        },
+        "subject": "US Commerce Secretary Ross says US plans to extend steel and aluminium tariff relief for some countries but not all when they expire on May 1st",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-commerce-secretary-ross-says-us-plans-to-extend-steel-and-aluminium-tariff-relief-for-some-countries-but-not-all-when-they-expire-on-may-1st-29-04-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-04-30 07:18:00",
+        "gmt_time": "2018-04-29 23:18:00"
+    },
+    {
+        "id": 618451,
+        "updated_sequence": 815141,
+        "published_at": {
+            "unix": 1525042860,
+            "text": "2018-04-30 00:01:00 +0100",
+            "iso_8601": "2018-04-29T23:01:00Z"
+        },
+        "updated_at": {
+            "unix": 1525043158,
+            "text": "2018-04-30 00:05:58 +0100",
+            "iso_8601": "2018-04-29T23:05:58Z"
+        },
+        "subject": "South Korean Construction Production (Mar) Y/Y -6.3% (Prev. 0.9%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "south-korean-construction-production-mar-y-y-6-3-prev-0-9-29-04-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-04-30 07:01:00",
+        "gmt_time": "2018-04-29 23:01:00"
+    },
+    {
+        "id": 618450,
+        "updated_sequence": 815138,
+        "published_at": {
+            "unix": 1525042860,
+            "text": "2018-04-30 00:01:00 +0100",
+            "iso_8601": "2018-04-29T23:01:00Z"
+        },
+        "updated_at": {
+            "unix": 1525043145,
+            "text": "2018-04-30 00:05:45 +0100",
+            "iso_8601": "2018-04-29T23:05:45Z"
+        },
+        "subject": "South Korean Manufacturing Production (Mar) Y/Y -4.7% (Prev. -7.2%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "south-korean-manufacturing-production-mar-y-y-4-7-prev-7-2-29-04-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-04-30 07:01:00",
+        "gmt_time": "2018-04-29 23:01:00"
+    },
+    {
+        "id": 618449,
+        "updated_sequence": 815135,
+        "published_at": {
+            "unix": 1525042860,
+            "text": "2018-04-30 00:01:00 +0100",
+            "iso_8601": "2018-04-29T23:01:00Z"
+        },
+        "updated_at": {
+            "unix": 1525043131,
+            "text": "2018-04-30 00:05:31 +0100",
+            "iso_8601": "2018-04-29T23:05:31Z"
+        },
+        "subject": "South Korean Retail Sales (Mar) Y/Y 2.7% (Prev. 6.3%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "south-korean-retail-sales-mar-y-y-2-7-prev-6-3-29-04-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-04-30 07:01:00",
+        "gmt_time": "2018-04-29 23:01:00"
+    },
+    {
+        "id": 618447,
+        "updated_sequence": 815129,
+        "published_at": {
+            "unix": 1525042860,
+            "text": "2018-04-30 00:01:00 +0100",
+            "iso_8601": "2018-04-29T23:01:00Z"
+        },
+        "updated_at": {
+            "unix": 1525043021,
+            "text": "2018-04-30 00:03:41 +0100",
+            "iso_8601": "2018-04-29T23:03:41Z"
+        },
+        "subject": "UK Lloyds Business Barometer (Apr) M/M 32 (Prev. 32)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "uk-lloyds-business-barometer-apr-m-m-32-prev-32-29-04-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-04-30 07:01:00",
+        "gmt_time": "2018-04-29 23:01:00"
+    },
+    {
+        "id": 618444,
+        "updated_sequence": 815152,
+        "published_at": {
+            "unix": 1525042320,
+            "text": "2018-04-29 23:52:00 +0100",
+            "iso_8601": "2018-04-29T22:52:00Z"
+        },
+        "updated_at": {
+            "unix": 1525046174,
+            "text": "2018-04-30 00:56:14 +0100",
+            "iso_8601": "2018-04-29T23:56:14Z"
+        },
+        "subject": "DBS (DBS SP) Q1 net SGD 1.51bln vs. Exp. SGD 1.40bln",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "dbs-dbs-sp-q1-net-sgd-1-51bln-vs-exp-sgd-1-40bln-29-04-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-04-30 06:52:00",
+        "gmt_time": "2018-04-29 22:52:00"
+    },
+    {
+        "id": 618443,
+        "updated_sequence": 815114,
+        "published_at": {
+            "unix": 1525040400,
+            "text": "2018-04-29 23:20:00 +0100",
+            "iso_8601": "2018-04-29T22:20:00Z"
+        },
+        "updated_at": {
+            "unix": 1525040526,
+            "text": "2018-04-29 23:22:06 +0100",
+            "iso_8601": "2018-04-29T22:22:06Z"
+        },
+        "subject": "CME opening was delayed due to technical issues and will open at 2330BST",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "cme-opening-was-delayed-due-to-technical-issues-and-will-open-at-2330bst-29-04-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-04-30 06:20:00",
+        "gmt_time": "2018-04-29 22:20:00"
+    },
+    {
+        "id": 618442,
+        "updated_sequence": 815111,
+        "published_at": {
+            "unix": 1525039680,
+            "text": "2018-04-29 23:08:00 +0100",
+            "iso_8601": "2018-04-29T22:08:00Z"
+        },
+        "updated_at": {
+            "unix": 1525039809,
+            "text": "2018-04-29 23:10:09 +0100",
+            "iso_8601": "2018-04-29T22:10:09Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASES CALENDAR NOW AVAILABLE IN THE RESEARCH SECTION: Chinese Official PMI data, Australian Private Sector Credit and New Zealand Business Surveys; Market closures in both Japan and China ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asian-daily-economic-releases-calendar-now-available-in-the-research-section-chinese-official-pmi-data-australian-private-sector-credit-and-new-zealand-business-surveys-market-closures-in-both-japan-and-china-29-04-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-04-30 06:08:00",
+        "gmt_time": "2018-04-29 22:08:00"
+    },
+    {
+        "id": 618441,
+        "updated_sequence": 815117,
+        "published_at": {
+            "unix": 1525038300,
+            "text": "2018-04-29 22:45:00 +0100",
+            "iso_8601": "2018-04-29T21:45:00Z"
+        },
+        "updated_at": {
+            "unix": 1525041821,
+            "text": "2018-04-29 23:43:41 +0100",
+            "iso_8601": "2018-04-29T22:43:41Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p>ASIA</p>\r\n\r\n<p>China is said to be planning trade offers for the US delegation including US Treasury Secretary Mnuchin when they visit this week. Reports stated that Beijing is likely to offer to import more goods from US and offer to negotiate a free trade agreement as well as other measures. (WSJ)<br />&nbsp;</p>\r\n\r\n<p>UK/EU</p>\r\n\r\n<p>S&amp;P affirmed UK at AA; Outlook Negative and affirmed Germany at AAA; Outlook Stable. (Newswires)<br />Fitch affirmed UK at AA; Outlook Negative and affirmed Netherlands at AAA; Outlook Stable. (Newswires)</p>\r\n\r\n<p>German Economic Affairs and Energy Minister Altmaier said that the EU should offer trade talks with US. (Newswires)<br />&nbsp;</p>\r\n\r\n<p>COMMODITIES</p>\r\n\r\n<p>US Baker Hughes Total Rig Count (27 Apr) 1021 (Prev. 1013). (Newswires)</p>\r\n\r\n<p>Rusal&#39;s Deripaska has reportedly agreed to cut his stake in EN+ (which holds a controlling interest in Rusal) to below 50% and resign. (Newswires)</p>\r\n\r\n<p><br />GEOPOLITICAL</p>\r\n\r\n<p>US President Trump welcomed progress between North and South Korea, while he is said to meet with Kim in the coming weeks. (Newswires)</p>\r\n\r\n<p>French President Macron and Iranian President Rouhani agreed to cooperate on preserving the Iranian nuclear agreement. (Newswires)<br />&nbsp;</p>\r\n\r\n<p>US</p>\r\n\r\n<p>GOP-led House panel ended its Russia investigation and stated that there was no evidence Trump colluded with Russia during the presidential election. (Guardian)</p>\r\n\r\n<p>US GDP Advance (Q1) 2.3% vs. Exp. 2.0% (Prev. 2.9%, Rev. 2.3%). (Newswires)<br />US Core PCE Prices Advance (Q1) 2.5% vs. Exp. 2.4% (Prev. 1.9%)<br />US GDP Sales Advance (Q1) 1.9% vs. Exp. 1.4% (Prev. 3.4%)<br />US Employment Wages QQ (Q1) 0.9% (Prev. 0.5%)</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>MARKET RECAP</p>\r\n\r\n<p>Equity futures are negative for the week, but closed out the week on a whimper, with most of the action horizontal &ndash; there was some negative ticks in afternoon trade, though the ES was content to consolidate beneath the 2670.&nbsp; M&amp;A: Reports suggest that Sprint (S) is seeking to finalise its merger with T-Mobile (TMUS) which could come as soon as next week. Praxair (PX) and Linde AG received CFIUS clearance for their business combination, and the deal is seen completing in the second half of the year. ENERGY: Was the biggest laggard, with some of the big names reporting; Exxon (XOM) beat on revenues but miss on EPS, suggesting that higher crude prices aren&rsquo;t solving the issues, Chevron (CVX) beat on EPS though missed on revs. There wasn&rsquo;t much support from crude prices. TECH: FAANGs were mixed; Amazon (AMZN) was higher after a solid earnings report, though the rest of the group were struggling to carve out gains, and tech shares were generally soft, as was INTC despite solid earnings. Elsewhere in tech, ahead of its earnings, reports suggest that Apple (AAPL) will manufacture 8 million iPhone X units in Q2 as it looks to drive down its inventory. CONS DISC: Charter Communications (CHTR) was slammed after reporting the loss of more internet and TV subscribers than expected, with Comcast (CMCSA) and Altice (ATC) falling in sympathy. SPX +0.15% at 2670, NDX +0.10% at 6656, DJI -0.05 at 24310.</p>\r\n\r\n<p>The Treasury curve bull-flattened on Friday, with short-dated yields narrowing by around 1bps, while the longer-end of the curve saw yields drop by around 5bps at settlement. The buying resulted in further narrowing of major curve spreads &ndash; on the week, 2s30s narrows by around 3bps, 5s30s narrowed by around 2bps, while 2s10s flattened by around 2bps in the week. There was some selling action after better than expected US GDP on Friday, though the selling was reversed shortly afterwards, as the sell-off in tech shares prompted buying in the long-end of the curve.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-asia-pac-opening-news-29-04-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-04-30 05:45:00",
+        "gmt_time": "2018-04-29 21:45:00"
+    },
+    {
+        "id": 618440,
+        "updated_sequence": 815102,
+        "published_at": {
+            "unix": 1525038240,
+            "text": "2018-04-29 22:44:00 +0100",
+            "iso_8601": "2018-04-29T21:44:00Z"
+        },
+        "updated_at": {
+            "unix": 1525038345,
+            "text": "2018-04-29 22:45:45 +0100",
+            "iso_8601": "2018-04-29T21:45:45Z"
+        },
+        "subject": "Syrian Army says enemy rockets attacks hit military bases in Hama and Aleppo, while other reports suggest the strikes are on Iranian assets in Syria",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "syrian-army-says-enemy-rockets-attacks-hit-military-bases-in-hama-and-aleppo-while-other-reports-suggest-the-strikes-are-on-iranian-assets-in-syria-29-04-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-04-30 05:44:00",
+        "gmt_time": "2018-04-29 21:44:00"
+    },
+    {
+        "id": 618439,
+        "updated_sequence": 815099,
+        "published_at": {
+            "unix": 1525038060,
+            "text": "2018-04-29 22:41:00 +0100",
+            "iso_8601": "2018-04-29T21:41:00Z"
+        },
+        "updated_at": {
+            "unix": 1525038216,
+            "text": "2018-04-29 22:43:36 +0100",
+            "iso_8601": "2018-04-29T21:43:36Z"
+        },
+        "subject": "Notice: The audio issues have been resolved and the service is working as normal. Thank you for patience.",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "notice-the-audio-issues-have-been-resolved-and-the-service-is-working-as-normal-thank-you-for-patience-29-04-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-04-30 05:41:00",
+        "gmt_time": "2018-04-29 21:41:00"
+    },
+    {
+        "id": 618438,
+        "updated_sequence": 815096,
+        "published_at": {
+            "unix": 1525035900,
+            "text": "2018-04-29 22:05:00 +0100",
+            "iso_8601": "2018-04-29T21:05:00Z"
+        },
+        "updated_at": {
+            "unix": 1525036859,
+            "text": "2018-04-29 22:20:59 +0100",
+            "iso_8601": "2018-04-29T21:20:59Z"
+        },
+        "subject": "Reports state that UK PM May has accepted the resignation of Home Secretary Amber Rudd",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<p>- This followed reports that she set a target to&nbsp;increasing immigrant deportations, which&nbsp;she had denied at a House of Commons committee.</p>\r\n",
+        "analysis_updated_at": {
+            "unix": 1525036858,
+            "text": "2018-04-29 22:20:58 +0100",
+            "iso_8601": "2018-04-29T21:20:58Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "reports-state-that-uk-pm-may-has-accepted-the-resignation-of-home-secretary-amber-rudd-29-04-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-04-30 05:05:00",
+        "gmt_time": "2018-04-29 21:05:00"
+    },
+    {
+        "id": 618230,
+        "updated_sequence": 815082,
+        "published_at": {
+            "unix": 1525035600,
+            "text": "2018-04-29 22:00:00 +0100",
+            "iso_8601": "2018-04-29T21:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1525035600,
+            "text": "2018-04-29 22:00:00 +0100",
+            "iso_8601": "2018-04-29T21:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-26-04-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-04-30 05:00:00",
+        "gmt_time": "2018-04-29 21:00:00"
+    },
+    {
+        "id": 618437,
+        "updated_sequence": 815088,
+        "published_at": {
+            "unix": 1525035600,
+            "text": "2018-04-29 22:00:00 +0100",
+            "iso_8601": "2018-04-29T21:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1525035762,
+            "text": "2018-04-29 22:02:42 +0100",
+            "iso_8601": "2018-04-29T21:02:42Z"
+        },
+        "subject": "Note: We are currently experiencing an issue with audio systems and are working to fix it. Apologies for the inconvenience and delay to the beginning of the service",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "note-we-are-currently-experiencing-an-issue-with-audio-systems-and-are-working-to-fix-it-apologies-for-the-inconvenience-and-delay-to-the-beginning-of-the-service-29-04-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-04-30 05:00:00",
+        "gmt_time": "2018-04-29 21:00:00"
+    },
+    {
+        "id": 618435,
+        "updated_sequence": 815080,
+        "published_at": {
+            "unix": 1525033860,
+            "text": "2018-04-29 21:31:00 +0100",
+            "iso_8601": "2018-04-29T20:31:00Z"
+        },
+        "updated_at": {
+            "unix": 1525034123,
+            "text": "2018-04-29 21:35:23 +0100",
+            "iso_8601": "2018-04-29T20:35:23Z"
+        },
+        "subject": "JPMorgan says oil could rise above USD 80/bbl, short-term risks are skewed to the upside",
+        "content": "<ul><li>Trump remains averse to the existing Joint Comprehensive Plan of Action, even after meetings with French President Macron and German Chancellor Merkel</li>\r\n  <li>Any attempt to abandon the deal unilaterally by US or alter it along with EU is unlikely to be received well by Iran and should bring more geopolitical risk premium in the run up to 12 May, when the US must make its decision on whether to continue suspending economic sanctions on Iran that were lifted under the Iran nuclear deal</li>\r\n  <li>JPM says that &quot;the most likely scenario involves Trump maintaining his position and not extending the deal. However, a US-EU renegotiation of the deal addressing US concerns over JCPOA, or Trump extending the waiver to allow the new National Security Advisor and the new Secretary of State to review the existing deal, are also potential outcomes&quot;</li>\r\n  <li>JPM says that &quot;in a worst case scenario, Iran&rsquo;s attempt to restart its nuclear program could push EU to join the US in tightening sanctions on Iran. Our strategists expect oil export disruption could be around 0.5mbd &ndash; the level of imports from Japan, South Korea, India and Turkey &ndash; but ultimately, the stringency of US monitoring/tightening sanctions after the waiver is not extended will determine the impact.&quot;</li>\r\n  <li><strong>&quot;Physical markets in Brent are seasonally strong at this time of the year due to increased refinery processing,&quot; JPM adds, &quot;tighter balances and risks from Iran, Venezuela and Libya could push prices well above $80/bbl in our strategists&#39; view as short-term risks are skewed to the upside.&quot; JPM recommends staying long the July 2018 ICE Brent contract versus short July 2019 ICE Brent contract, and long a December 2018 WTI $68-$75 call spread.</strong></li>\r\n</ul>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "JPMorgan",
+        "slug": "jpmorgan-says-oil-could-rise-above-usd-80-bbl-short-term-risks-are-skewed-to-the-upside-29-04-2018",
+        "hidden": false,
+        "section": {
+            "id": 39,
+            "name": "Bank Research"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-04-30 04:31:00",
+        "gmt_time": "2018-04-29 20:31:00"
+    },
+    {
+        "id": 618434,
+        "updated_sequence": 815075,
+        "published_at": {
+            "unix": 1525032840,
+            "text": "2018-04-29 21:14:00 +0100",
+            "iso_8601": "2018-04-29T20:14:00Z"
+        },
+        "updated_at": {
+            "unix": 1525033105,
+            "text": "2018-04-29 21:18:25 +0100",
+            "iso_8601": "2018-04-29T20:18:25Z"
+        },
+        "subject": "This week's two key US trade policy deadlines: 1) Whether to roll steel and aluminium tariff exemptions (1/May), and 2) NAFTA decision (possibly by 4/May)",
+        "content": "<p><strong>On 1/May/18, temporary exemptions on increased tariffs US granted on imports of steel and aluminum lapse:</strong></p>\r\n\r\n<ul><li>UBS notes Trump granted exemptions to six countries plus exporters from the EU (UBS believes there are five), while denying them to ten other countries.</li>\r\n  <li>Trump will have to decide which of these countries with exemptions will keep them and which will be subject to tariff increases like the other ten.</li>\r\n  <li>UBS expects the exemptions to continue to apply to both Canada and Mexico while NAFTA is still being renegotiated, and also believes that most, if not all, of the EU countries will get continued exemptions as well. The status of the other countries currently subject to the higher tariffs, most notably China and Russia, will not change, UBS posits, which will likely lead to more friction in their trade relationships with the US</li>\r\n</ul>\r\n\r\n<p><strong>On 4/May/18, the date by which US, Mexican and Canadian negotiators hope to have some type of agreement on a revised NAFTA:</strong></p>\r\n\r\n<ul><li>The deadline is crucial for the US since any agreement must be sent to Congress and reviewed for between six to eight months. If an agreement is sent to Congress by May 4, Congress would be able to vote on it in December.</li>\r\n  <li>&quot;The Trump administration desperately wants to have any agreement voted on by a Congress controlled by Republicans (the current situation), instead of by a Congress with one or both chambers controlled by Democrats, which could be the outcome of this fall&#39;s mid-term elections.&quot; adding that &quot;an agreement is possible by May 4, but if one materializes, it would likely contain modest revisions and very few of the President&#39;s priorities.&quot;</li>\r\n  <li>In the case of no agreement, UBS says that the negotiators would slow down and redirect their efforts in the hope of reaching a deal next year after Mexican and US elections. &quot;Either way, we do not see the President pulling the US out of NAFTA,&quot; UBS writes, &quot;which we believe is the biggest market risk stemming from the trade policyspace in Washington today.&quot;</li>\r\n</ul>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "UBS",
+        "slug": "this-week-s-two-key-us-trade-policy-deadlines-1-whether-to-roll-steel-and-aluminium-tariff-exemptions-1-may-and-2-nafta-decision-possibly-by-4-may-29-04-2018",
+        "hidden": false,
+        "section": {
+            "id": 39,
+            "name": "Bank Research"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-04-30 04:14:00",
+        "gmt_time": "2018-04-29 20:14:00"
+    },
+    {
+        "id": 618433,
+        "updated_sequence": 815064,
+        "published_at": {
+            "unix": 1525007100,
+            "text": "2018-04-29 14:05:00 +0100",
+            "iso_8601": "2018-04-29T13:05:00Z"
+        },
+        "updated_at": {
+            "unix": 1525007540,
+            "text": "2018-04-29 14:12:20 +0100",
+            "iso_8601": "2018-04-29T13:12:20Z"
+        },
+        "subject": "Goldman Sachs Technical Overview (Major FX, EMFX, major indices, major commodities)",
+        "content": "<p><img alt=\"\" height=\"469\" src=\"/system/ckeditor_assets/pictures/54/content_GS_1.JPG\" width=\"800\" /></p>\r\n\r\n<p><img alt=\"\" height=\"427\" src=\"/system/ckeditor_assets/pictures/55/content_GS_2.JPG\" width=\"800\" /></p>\r\n\r\n<p><img alt=\"\" height=\"426\" src=\"/system/ckeditor_assets/pictures/56/content_GS_3.JPG\" width=\"800\" /></p>\r\n\r\n<p><img alt=\"\" height=\"428\" src=\"/system/ckeditor_assets/pictures/57/content_GS_4.JPG\" width=\"800\" /></p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Goldman Sachs",
+        "slug": "goldman-sachs-technical-overview-major-fx-emfx-major-indices-major-commodities-29-04-2018",
+        "hidden": false,
+        "section": {
+            "id": 39,
+            "name": "Bank Research"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-04-29 21:05:00",
+        "gmt_time": "2018-04-29 13:05:00"
+    },
+    {
+        "id": 618432,
+        "updated_sequence": 815066,
+        "published_at": {
+            "unix": 1525005960,
+            "text": "2018-04-29 13:46:00 +0100",
+            "iso_8601": "2018-04-29T12:46:00Z"
+        },
+        "updated_at": {
+            "unix": 1525007789,
+            "text": "2018-04-29 14:16:29 +0100",
+            "iso_8601": "2018-04-29T13:16:29Z"
+        },
+        "subject": "Barclays Trade of the Week: short EURUSD to target 1.1739",
+        "content": "<ul><li>Barclays notes EURUSD has broken out of its well-defined range since 12 January, and recommendeds buying a 3m (expiry: 27 July 2018) 25-delta put, taking advantage of historically low front-end vols and elevated skew</li>\r\n  <li>We target 1.1739 the 38.2% Fibonacci retracement of the 2014-16 move</li>\r\n  <li>Barclays says if its view is correct, this option structure should benefit from increasing moneyness and an increase in intrinsic value as implied volatility rises with the exit from narrow range trading</li>\r\n  <li>NOTE: this is an existing trade recommendation.</li>\r\n</ul>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Barclays",
+        "slug": "barclays-trade-of-the-week-short-eurusd-to-target-1-1739-29-04-2018",
+        "hidden": false,
+        "section": {
+            "id": 39,
+            "name": "Bank Research"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-04-29 20:46:00",
+        "gmt_time": "2018-04-29 12:46:00"
+    }
+]

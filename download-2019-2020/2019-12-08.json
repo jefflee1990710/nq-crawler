@@ -1,0 +1,444 @@
+[
+    {
+        "id": 899772,
+        "updated_sequence": 2029219,
+        "published_at": {
+            "unix": 1575849000,
+            "text": "2019-12-08 23:50:00 +0000",
+            "iso_8601": "2019-12-08T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1575849234,
+            "text": "2019-12-08 23:53:54 +0000",
+            "iso_8601": "2019-12-08T23:53:54Z"
+        },
+        "subject": "Japanese GDP Nominal (Q3 F) Q/Q 0.6% vs. Exp.\t0.4% (Prev. 0.3%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-gdp-nominal-q3-f-q-q-0-6-vs-exp-0-4-prev-0-3-08-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-09 07:50:00",
+        "gmt_time": "2019-12-08 23:50:00"
+    },
+    {
+        "id": 899775,
+        "updated_sequence": 2029228,
+        "published_at": {
+            "unix": 1575849000,
+            "text": "2019-12-08 23:50:00 +0000",
+            "iso_8601": "2019-12-08T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1575849372,
+            "text": "2019-12-08 23:56:12 +0000",
+            "iso_8601": "2019-12-08T23:56:12Z"
+        },
+        "subject": "Japanese Adjusted Current Account Balance (JPY)(Oct) 1.732T vs. Exp. 1.731T (Prev. 1.485T)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-adjusted-current-account-balance-jpy-oct-1-732t-vs-exp-1-731t-prev-1-485t-08-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-09 07:50:00",
+        "gmt_time": "2019-12-08 23:50:00"
+    },
+    {
+        "id": 899774,
+        "updated_sequence": 2029225,
+        "published_at": {
+            "unix": 1575849000,
+            "text": "2019-12-08 23:50:00 +0000",
+            "iso_8601": "2019-12-08T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1575849296,
+            "text": "2019-12-08 23:54:56 +0000",
+            "iso_8601": "2019-12-08T23:54:56Z"
+        },
+        "subject": "Japanese Trade Balance - BOP Basis (JPY)(Oct) 254.0B vs. Exp. 138.8B (Prev. 1.1B)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-trade-balance-bop-basis-jpy-oct-254-0b-vs-exp-138-8b-prev-1-1b-08-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-09 07:50:00",
+        "gmt_time": "2019-12-08 23:50:00"
+    },
+    {
+        "id": 899773,
+        "updated_sequence": 2029222,
+        "published_at": {
+            "unix": 1575849000,
+            "text": "2019-12-08 23:50:00 +0000",
+            "iso_8601": "2019-12-08T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1575849254,
+            "text": "2019-12-08 23:54:14 +0000",
+            "iso_8601": "2019-12-08T23:54:14Z"
+        },
+        "subject": "Japanese GDP Price Index (Q3 F) Y/Y 0.6% (Prev. 0.6%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-gdp-price-index-q3-f-y-y-0-6-prev-0-6-08-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-09 07:50:00",
+        "gmt_time": "2019-12-08 23:50:00"
+    },
+    {
+        "id": 899771,
+        "updated_sequence": 2029216,
+        "published_at": {
+            "unix": 1575849000,
+            "text": "2019-12-08 23:50:00 +0000",
+            "iso_8601": "2019-12-08T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1575849167,
+            "text": "2019-12-08 23:52:47 +0000",
+            "iso_8601": "2019-12-08T23:52:47Z"
+        },
+        "subject": "Japanese Bank Lending Excl. Trusts (Nov) Y/Y\t2.3% (Prev. 2.2%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-bank-lending-excl-trusts-nov-y-y-2-3-prev-2-2-08-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-09 07:50:00",
+        "gmt_time": "2019-12-08 23:50:00"
+    },
+    {
+        "id": 899763,
+        "updated_sequence": 2029186,
+        "published_at": {
+            "unix": 1575848220,
+            "text": "2019-12-08 23:37:00 +0000",
+            "iso_8601": "2019-12-08T23:37:00Z"
+        },
+        "updated_at": {
+            "unix": 1575848335,
+            "text": "2019-12-08 23:38:55 +0000",
+            "iso_8601": "2019-12-08T23:38:55Z"
+        },
+        "subject": "Twitter sources note initial reports of sirens sounding near Baghdad International Airport in Iraq from potential rockets targeting the airport",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Twitter",
+        "slug": "twitter-sources-note-initial-reports-of-sirens-sounding-near-baghdad-international-airport-in-iraq-from-potential-rockets-targeting-the-airport-08-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 23,
+            "name": "Geopolitical"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-09 07:37:00",
+        "gmt_time": "2019-12-08 23:37:00"
+    },
+    {
+        "id": 899762,
+        "updated_sequence": 2029183,
+        "published_at": {
+            "unix": 1575847920,
+            "text": "2019-12-08 23:32:00 +0000",
+            "iso_8601": "2019-12-08T23:32:00Z"
+        },
+        "updated_at": {
+            "unix": 1575848232,
+            "text": "2019-12-08 23:37:12 +0000",
+            "iso_8601": "2019-12-08T23:37:12Z"
+        },
+        "subject": "PRE-MARKET JAPANESE AND SOUTH KOREAN STOCK NEWS: LG Electronics (066570 KS) launched its flagship dual-screen smartphone in Japan to re-enter the country’s premium smartphone market for the first time in 23 months",
+        "content": "<p>JAPAN</p><p>Kanamoto (9678 JT) - Co. FY18/19 net JPY 11.4bln vs. Prev. JPY 11.9bln Y/Y, rev. JPY 180.7bln vs. Prev. JPY 168.2bln Y/Y. (Newswires)</p><p>Nissan Motor (7201 JT) - Japanese regulator recommends a fine of around JPY 2.4bln for false reporting. (Newswires)</p><p>Rakuten (4755 JT) - Co. securities unit plans to eliminate buying commissions related to investment trusts after similar moves by other brokerages. (Newswires)</p><p>Skylark (3197 JT) - Co. November same store sales rose 0.7%. (Newswires)</p><p>SoftBank (9984 JT) - Co. Second Vision Fund reportedly may be 30% smaller than its first Vision Fund. (Newswires)</p><p>Financials - Japan’s Fair Trade Commission is probing if interbank fund transfer fees are acting as an entry barrier for newcomers. (Nikkei)&nbsp;</p><p>&nbsp;</p><p>SOUTH KOREA</p><p>Hyundai Motor (005380 KS) - Co. affiliate Hyundai Transys signed MOU with German firm Brose Fahrzeuteile on future vehicle seats. (Newswires)</p><p>LG Electronics (066570 KS) - Co. launched its flagship dual-screen smartphone in Japan to re-enter the country’s premium smartphone market for the first time in 23 months. (Yonhap)</p><p>Other News - South Korea Finance Minister said they will act swiftly if volatility in financial markets increase. In other news, think tank KDI stated that the domestic economy shows a continued sluggishness due to slowing exports and weak investment. (Newswires)</p><p>Geopolitics</p><p>US President Trump and South Korean President Moon held a phone conversation regarding how to maintain diplomacy with North Korea. In related news, US President Trump warned North Korea leader Kim could lose everything if he acts in a hostile manner but added that he thinks Kim is too smart to do that. (Newswires)</p><p>North Korea stated that it had conducted a very important test at its western satellite launching site and that the successful testing will play a key role to changing its strategic future but didn’t provide details. (Newswires)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-japanese-and-south-korean-stock-news-lg-electronics-066570-ks-launched-its-flagship-dual-screen-smartphone-in-japan-to-re-enter-the-country-s-premium-smartphone-market-for-the-first-time-in-23-months-08-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-09 07:32:00",
+        "gmt_time": "2019-12-08 23:32:00"
+    },
+    {
+        "id": 899761,
+        "updated_sequence": 2029178,
+        "published_at": {
+            "unix": 1575846120,
+            "text": "2019-12-08 23:02:00 +0000",
+            "iso_8601": "2019-12-08T23:02:00Z"
+        },
+        "updated_at": {
+            "unix": 1575846218,
+            "text": "2019-12-08 23:03:38 +0000",
+            "iso_8601": "2019-12-08T23:03:38Z"
+        },
+        "subject": "APRA is adjusting its capital framework for authorised deposit-taking institutions to support establishment of Australian Business Growth Fund",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "apra-is-adjusting-its-capital-framework-for-authorised-deposit-taking-institutions-to-support-establishment-of-australian-business-growth-fund-08-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-09 07:02:00",
+        "gmt_time": "2019-12-08 23:02:00"
+    },
+    {
+        "id": 899760,
+        "updated_sequence": 2029175,
+        "published_at": {
+            "unix": 1575845400,
+            "text": "2019-12-08 22:50:00 +0000",
+            "iso_8601": "2019-12-08T22:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1575845862,
+            "text": "2019-12-08 22:57:42 +0000",
+            "iso_8601": "2019-12-08T22:57:42Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIAN STOCK NEWS: Seven West Media (SWM AT) continues to believe compelling reasons for merger with Prime Media (PRT AT) and has agreed to a special dividend if deal goes through",
+        "content": "<p>A2 Milk (A2M AT) - Co. CEO has stepped down. (Newswires)</p><p>McMillan Shakespeare (MMS AT) - Co. cuts FY20 underlying net forecast to AUD 83mln-87mln from AUD 87mln-89mln. (Newswires)</p><p>NIB Holdings (NHF AT) - Co. receives approval for 2.90% average premium increase effective April. (Newswires)</p><p>Reject Shop (TRS AT) - Co. appoints Andrew Reich as CEO effective January 13th. (Newswires)</p><p>Seven West Media (SWM AT) - Co. continues to believe compelling reasons for merger with Prime Media (PRT AT) and has agreed to a special dividend if deal goes through, while Prime had proposed conditional fully franked special dividend of AUD 0.03/Shr pending scheme becoming effective. (Newswires)</p><p>Viva Energy (VEA AT) - Co. guides FY19 EBITDA AUD 625mln-655mln. (Newswires)</p><p>WorleyParsons (WOR AT) - Co. awarded 5-year service contract from Sasol for Secunda Synfuels facility, while the Co. has also entered into a JV agreement with Uzatom. (Newswires)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-australian-stock-news-seven-west-media-swm-at-continues-to-believe-compelling-reasons-for-merger-with-prime-media-prt-at-and-has-agreed-to-a-special-dividend-if-deal-goes-through-08-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-09 06:50:00",
+        "gmt_time": "2019-12-08 22:50:00"
+    },
+    {
+        "id": 899759,
+        "updated_sequence": 2029170,
+        "published_at": {
+            "unix": 1575844680,
+            "text": "2019-12-08 22:38:00 +0000",
+            "iso_8601": "2019-12-08T22:38:00Z"
+        },
+        "updated_at": {
+            "unix": 1575844809,
+            "text": "2019-12-08 22:40:09 +0000",
+            "iso_8601": "2019-12-08T22:40:09Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASE CALENDAR IS NOW AVAILABLE IN THE RESEARCH SECTION OF THE WEBSITE: Highlights include Japanese GDP and Chinese Lending/Financing Data",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "asian-daily-economic-release-calendar-is-now-available-in-the-research-section-of-the-website-highlights-include-japanese-gdp-and-chinese-lending-financing-data-08-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-09 06:38:00",
+        "gmt_time": "2019-12-08 22:38:00"
+    },
+    {
+        "id": 899758,
+        "updated_sequence": 2029269,
+        "published_at": {
+            "unix": 1575843420,
+            "text": "2019-12-08 22:17:00 +0000",
+            "iso_8601": "2019-12-08T22:17:00Z"
+        },
+        "updated_at": {
+            "unix": 1575854792,
+            "text": "2019-12-09 01:26:32 +0000",
+            "iso_8601": "2019-12-09T01:26:32Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p><strong>ASIA-PAC</strong></p><p>NEC Director Kudlow said a China deal is still close and talks have been constructive, while he added that US President Trump likes what he sees in US-China trade talks but is not ready to sign any trade deal with China and that there is no single condition that would make or break the talks right now when asked about what China needs to do to avoid 15 December tariffs. Kudlow also stated that Hong Kong issues has not spilled over into trade talks just yet and that talks are now around the clock but stated he doesn’t know of any plans for US negotiators to travel for talks right now and there are no face to face talks currently scheduled between US President Trump and China President Xi. (Newswires)</p><p>China top diplomat Yang spoke with US Secretary of State Pompeo on Saturday in which he stated the US has seriously violated international relations by passing the Hong Kong and Uighur bills, while he urged US to correct its mistakes and immediately stop interfering with China’s internal affairs. (Newswires)</p><p>China has reportedly taken countermeasures against US limit on diplomats according to sources citing Chinese media, while there were separate reports the President of the American Chamber of Commerce in Hong Kong Tara Joseph was denied entry into Macau after being detained for 2 hours. (Newswires)</p><p>China ordered government offices and public institutions to remove foreign computer equipment and software. (Newswires)</p><p>China Global Times editorial noted that China does not need to compete with the tough attitude from the US and should be proud of surpassing the US in tenacity, strategy and manoeuvrability. (Newswires)</p><ul><li>Chinese Trade Balance (USD)(Nov) 38.73B vs. Exp. 46.3B (Prev. 42.81B). (Newswires)</li><li>Chinese Exports (USD)(Nov) Y/Y -1.1% vs. Exp. 1.0% (Prev. -0.9%)</li><li>Chinese Imports (USD)(Nov) Y/Y 0.3% vs. Exp. -1.8% (Prev. -6.4%)</li><li>Chinese Trade Balance (CNY)(Nov) 274.2B vs. Exp. 294.0B (Prev. 301.3B). (Newswires)</li><li>Chinese Exports (USD)(Nov) Y/Y 1.3% vs. Exp. 1.9% (Prev. 2.1%)</li><li>Chinese Imports (USD)(Nov) Y/Y 2.5% vs. Exp. 0.9% (Prev. -3.5%)</li><li>Chinese FX Reserves (USD) (Nov) 3.096T vs. Exp. 3.101T (Prev. 3.105T)</li><li>New Zealand Manufacturing Sales (Q3) -0.3% (Prev. -2.7%)</li></ul><p>&nbsp;</p><p><strong>UK/EU</strong></p><p>UK Election Panelbase poll: Conservatives 43% (+1), Labour 34% (unch), Lib Dems 13% (Unch.), Brexit Party 3% (-1), taken December 4th-6th. (Newswires)</p><p>UK Election BMG Research poll: Conservatives 41% (+2), Labour 32% (-1), Lib Dems 14% (+1), Brexit Party 4% (Unch.), taken December 4th-6th. (Newswires)</p><p>UK Election YouGov poll: Conservatives 43% (+1), Labour 33% (unch), Lib Dems 13% (+1), Brexit Party 3% (-1), taken December 5th-6th. (Newswires)</p><p>DataPraxis MRP Model suggest Conservatives will win 344 seats (+27), Labour 221 (-41), Lib Dems 14 (+2), SNP 47 (+12). (Newswires)</p><p>Fitch affirmed Sweden at 'AAA', Outlook Stable. (Newswires)</p><p>&nbsp;</p><p><strong>FX</strong></p><p>BoC Governor Poloz is to step down when his term expires in June 2020. (Newswires)</p><p>Canadian Employment Change (Nov) -71.2k vs. Exp. 10.0k (Prev. -1.8k). (Newswires) Canadian Unemployment Rate (Nov) 5.9% vs. Exp. 5.5% (Prev. 5.5%)</p><p>&nbsp;</p><p><strong>COMMODITIES</strong></p><p>Baker Hughes Rig Count: Oil rigs -5 at 663, Nat gas +2 at 133, total rigs -4 at 799; drillers cut rigs for the 7th consecutive week. (Newswires)</p><p>Saudi Energy Minister Abdulaziz said they will continue the voluntary cut of 400k bpd and that the country will cut output by a further 167k bpd, while he also suggested the jury is still out on where the oil market will be in March and that there are 2 conditions before raising output which are lower global inventories and price backwardation. Saudi’s Energy Minister also said that they will not unilaterally raise output to punish non-complying nations and wants to see global inventories close to 2010-2014 averages, while he added that Saudi is committed to continued cooperation with Russia beyond March 2020 and expects oil output resumption from the joint fields soon although it will not impact the OPEC cut. (Newswires)</p><p>Russian Energy Minister Novak said OPEC+ are to cut additionally 500k BPD in Q1 in line with recommendations yesterday and that Russia's oil quota will be 300k excluding gas condensate. (Newswires)</p><p>Iranian Oil Minister said around half a million of new cuts have been agreed to and suggested there will be an extraordinary OPEC meeting in the next three or four months, according to Twitter reports. (Twitter)</p><p>Venezuela government and opposition are reportedly considering providing private oil companies operating rights including Chevron (CVX), Rosneft and CNPC, although PDVSA would hold a majority stake according to sources. (Newswires)</p><p>&nbsp;</p><p><strong>GEOPOLITICS</strong></p><p>Senior US State Department official Schenker said the US is readying further sanctions over the killing of protesters in Iraq and stated there is a strong chance Iran is behind the attack on Iraq's Balad Air base but more evidence is needed, while the State Department also stated there will be further sanctions on Iran in the future. (Newswires)</p><p>Turkish Defense Minister said there was no agreement reached at NATO and that Turkey was left alone in the fight against terror\". (Newswires)</p><p>&nbsp;</p><p><strong>US</strong></p><ul><li>US Non-Farm Payrolls (Nov) 266k vs. Exp. 180.0k (Prev. 128.0k, Rev. 156k); two-month net revisions +41k (Prev. +95k). (Newswires)</li><li>US Unemployment Rate (Nov) 3.5% vs. Exp. 3.6% (Prev. 3.6%)</li><li>US Average Earnings (Nov) Y/Y 3.1% vs. Exp. 3.0% (Prev. 3.0%, Rev. 3.2%)</li></ul><p>&nbsp;</p><p><strong>MARKET RECAP</strong></p><p>Amazon (AMZN) saw some slight downside after WSJ reported US President Trump was considering adding the company’s foreign sites to a notorious market list, which is a list of global marketplaces known for counterfeit goods. Goldman Sachs (GS) caught a bid after reports its 1Malaysia Development Bhd (1MDB) fine is likely to be under USD 2bln, a sum lower than what some analysts suggested the bank would have to pay for allegedly misleading investors over bond sales totalling USD 6.5bln that the bank helped raise for the sovereign wealth fund (1MDB). Tesla (TSLA) up just shy of 2% after China made Tesla cars qualify for subsidies where buyers will get as much as USD 3550 from the government. Uber (UBER) traded in the red after it released its statistics which saw 3000 sexual assault claims last year and in total it saw 107 total fatalities. Its sexual assault statistics showed one in 2mln trips saw non-consensual kissing of a non-sexual body part, where 1 in 3mln saw non-consensual kissing of a sexual body part. DR Horton (DHI) traded lower after a sell initiation from Goldman Sachs with a USD 51 price target and Ciena (CIEN) were lower by over 4% after a downgrade to sell from neutral at UBS. SPX +0.9% at 3,145.90; Dow +1.2% at 28,009.83; NDX +1.1% at 8,397.39.</p><p>Yields are higher between 4-5bps across the curve, the the TPLEX seeing selling pressure in wake of a solid jobs report for November, where the headline surprised to the upside. Additionally, prelim consumer confidence data from the UoM was firmer than expected. Next week, the Fed is expected to stand pat on rates, and according to market pricing, as derived from the CME's Fedwatch tool, there is a 100% chance of an unchanged decision (which was priced with 99.3% certainty on Thursday). Ahead of the US day, constructive news on the trade front (China plans to implement tariff waivers for some purchases of US ags, and will begin applications for importing soybeans and pork from the US) resulted in some downside for Treasuries. There was also reports of short-covering after remarks from NEC director Kudlow (tariffs are up to the President), while other reports suggested short-covering came ahead of next week's FOMC and ECB confabs. Major curve spreads, however, are little changed, though 2s5s and 2s10s are up by around 1bps at settlement, and 2s30s 5s10s 5s30s and 10s30s a touch narrower). T-notes (H0) settled 13+ ticks lower at 128-28+.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-asia-pac-opening-news-08-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-09 06:17:00",
+        "gmt_time": "2019-12-08 22:17:00"
+    },
+    {
+        "id": 899757,
+        "updated_sequence": 2029162,
+        "published_at": {
+            "unix": 1575842580,
+            "text": "2019-12-08 22:03:00 +0000",
+            "iso_8601": "2019-12-08T22:03:00Z"
+        },
+        "updated_at": {
+            "unix": 1575842810,
+            "text": "2019-12-08 22:06:50 +0000",
+            "iso_8601": "2019-12-08T22:06:50Z"
+        },
+        "subject": "Mexico Foreign Minister Ebrard says Mexico will not accept US labor inspections in USMCA trade pact and will not accept US steel proposal for USMCA without 5-year period to go into effect",
+        "content": "<p>Says</p><ul><li>Over 90% of USMCA is not open to revision, but there will be addendum to the deal.</li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "mexico-foreign-minister-ebrard-says-mexico-will-not-accept-us-labor-inspections-in-usmca-trade-pact-and-will-not-accept-us-steel-proposal-for-usmca-without-5-year-period-to-go-into-effect-08-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-09 06:03:00",
+        "gmt_time": "2019-12-08 22:03:00"
+    },
+    {
+        "id": 899350,
+        "updated_sequence": 2029154,
+        "published_at": {
+            "unix": 1575842400,
+            "text": "2019-12-08 22:00:00 +0000",
+            "iso_8601": "2019-12-08T22:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1575842400,
+            "text": "2019-12-08 22:00:00 +0000",
+            "iso_8601": "2019-12-08T22:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-05-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-09 06:00:00",
+        "gmt_time": "2019-12-08 22:00:00"
+    }
+]

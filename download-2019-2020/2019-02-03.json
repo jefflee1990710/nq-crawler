@@ -1,0 +1,342 @@
+[
+    {
+        "id": 694379,
+        "updated_sequence": 1132935,
+        "published_at": {
+            "unix": 1549237800,
+            "text": "2019-02-03 23:50:00 +0000",
+            "iso_8601": "2019-02-03T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1549237867,
+            "text": "2019-02-03 23:51:07 +0000",
+            "iso_8601": "2019-02-03T23:51:07Z"
+        },
+        "subject": "Japanese Monetary Base (Jan) Y/Y 4.7% vs. Exp. 4.6% (Prev. 4.8%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-monetary-base-jan-y-y-4-7-vs-exp-4-6-prev-4-8-03-02-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-02-04 07:50:00",
+        "gmt_time": "2019-02-03 23:50:00"
+    },
+    {
+        "id": 694380,
+        "updated_sequence": 1132938,
+        "published_at": {
+            "unix": 1549237800,
+            "text": "2019-02-03 23:50:00 +0000",
+            "iso_8601": "2019-02-03T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1549237948,
+            "text": "2019-02-03 23:52:28 +0000",
+            "iso_8601": "2019-02-03T23:52:28Z"
+        },
+        "subject": "Japanese Monetary Base End of Period (Jan) 500.2T (Prev. 504.2T)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-monetary-base-end-of-period-jan-500-2t-prev-504-2t-03-02-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-02-04 07:50:00",
+        "gmt_time": "2019-02-03 23:50:00"
+    },
+    {
+        "id": 694378,
+        "updated_sequence": 1132930,
+        "published_at": {
+            "unix": 1549237140,
+            "text": "2019-02-03 23:39:00 +0000",
+            "iso_8601": "2019-02-03T23:39:00Z"
+        },
+        "updated_at": {
+            "unix": 1549237244,
+            "text": "2019-02-03 23:40:44 +0000",
+            "iso_8601": "2019-02-03T23:40:44Z"
+        },
+        "subject": "Australia ACCC Chief says will pursue measures to improve competition in the banking industry including the Big 4's control of the market",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "FT",
+        "slug": "australia-accc-chief-says-will-pursue-measures-to-improve-competition-in-the-banking-industry-including-the-big-4-s-control-of-the-market-03-02-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-02-04 07:39:00",
+        "gmt_time": "2019-02-03 23:39:00"
+    },
+    {
+        "id": 694377,
+        "updated_sequence": 1132925,
+        "published_at": {
+            "unix": 1549237080,
+            "text": "2019-02-03 23:38:00 +0000",
+            "iso_8601": "2019-02-03T23:38:00Z"
+        },
+        "updated_at": {
+            "unix": 1549237184,
+            "text": "2019-02-03 23:39:44 +0000",
+            "iso_8601": "2019-02-03T23:39:44Z"
+        },
+        "subject": "Commonwealth Bank (CBA AT) ordered by ASIC to halt service fees related to financial planning unit and not enter any new ongoing service arrangements with ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "commonwealth-bank-cba-at-ordered-by-asic-to-halt-service-fees-related-to-financial-planning-unit-and-not-enter-any-new-ongoing-service-arrangements-with-03-02-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-02-04 07:38:00",
+        "gmt_time": "2019-02-03 23:38:00"
+    },
+    {
+        "id": 694376,
+        "updated_sequence": 1132958,
+        "published_at": {
+            "unix": 1549237020,
+            "text": "2019-02-03 23:37:00 +0000",
+            "iso_8601": "2019-02-03T23:37:00Z"
+        },
+        "updated_at": {
+            "unix": 1549239530,
+            "text": "2019-02-04 00:18:50 +0000",
+            "iso_8601": "2019-02-04T00:18:50Z"
+        },
+        "subject": "PRE-MARKET JAPANESE STOCK NEWS: Earnings from Hitachi, Honda, Mitsubishi Motors, NTT DoCoMo, Sony and Takeda",
+        "content": "<p>Daikin Industries (6367 JT)<br />- Co. will make JPY 50bln investment into China fluorochemical plant. (Newswires)</p>\r\n\r\n<p>Hitachi (6501 JT)<br />- Co. 9-month net JPY 82.6bln vs. Prev. JPY 258.6bln Y/Y, oper. profit JPY 534.5bln vs. Prev. JPY 474.6bln Y/Y, rev. JPY 6.8tln vs. Prev. JPY 6.7tln Y/Y. (Newswires)</p>\r\n\r\n<p>Honda Motor (7267 JT)<br />- Co. 9-month net JPY 623.3bln vs. Prev. JPY 951.6bln Y/Y, Rev. JPY 11.8tln vs. Prev. JPY 11.5tln Y/Y, raises FY net outlook. (Newswires)</p>\r\n\r\n<p>JFE Holdings (5411 JT)<br />- Co. 9-month net JPY 151.1bln vs. Prev. JPY 138.6bln Y/Y. (Newswires)</p>\r\n\r\n<p>J Front (3086 JT)<br />- Co. January Department Store Sales fell 2.3% Y/Y. (Newswires)</p>\r\n\r\n<p>Keyence Corp (6861 JT)<br />- Co. 9-month net JPY 169.7bln vs. Prev. JPY 152.4bln Y/Y. (Newswires)</p>\r\n\r\n<p>Mitsubishi Motors (7211 JT)<br />- Co. 9-month net JPY 69.2bln vs. Prev. JPY 70.1bln Y/Y, rev. JPY 1.79tln vs. Prev. JPY 1.52tln Y/Y. (Newswires)<br />- Co. January US sales rose 2.7% Y/Y to 8.7k units. (Newswires)</p>\r\n\r\n<p>Nissa (7201 JT)<br />- Co. drops plans to make X-Trail SUV in the UK due to Brexit uncertainty. (Nikkei)&nbsp;</p>\r\n\r\n<p>NTT DoCoMo (9437 JT)<br />- Co. 9-month net JPY 607.6bln vs. Prev. JPY 697.7bln Y/Y, rev. JPY 3.65tln vs. Prev. JPY 3.59tln Y/Y, cuts FY net outlook to JPY 670bln from JPY 695bln. (Newswires)</p>\r\n\r\n<p>Renesas (6723 JT)<br />- Co. is expected to announce layoffs of 1000 workers due to slowing domestic market. (Nikkei)</p>\r\n\r\n<p>SoftBank (9984 JT)<br />- Co. Vision Fund is reportedly in discussions for as much as USD 1.5bln investment in China used car platform Guazi. (Newswires)</p>\r\n\r\n<p>Sony (6758 JT)<br />- Co. 9-month net JPY 828.4bln vs. Prev. JPY 507.6bln Y/Y, raises FY net outlook to JPY 835bln from JPY 705bln. However, Co. cuts its sales outlook. (Newswires)</p>\r\n\r\n<p>Sony Financial (8729 JT)<br />- Co. 9-month net JPY 60bln vs. Prev. JPY 55bln Y/Y. (Newswires)</p>\r\n\r\n<p>Subaru (7270 JT)<br />- Co. January America sales rose 3.9% Y/Y to 46.1k units. (Newswires)</p>\r\n\r\n<p>Sumitomo Chemical (4005 JT)<br />- Co. 9-month net JPY 89.0bln vs. Prev. JPY 108.6bln Y/Y. (Newswires)</p>\r\n\r\n<p>Takeda Pharmaceutical (4502 JT)<br />- Co. 9-month net JPY 164.4bln vs. Prev. JPY 240.9bln Y/Y, rev. JPY 1.38tln vs. Prev. JPY 1.37tln Y/Y. (Newswires)</p>\r\n\r\n<p>Toyota Tsusho (8015 JT)<br />- Co. Q3 net JPY 109.8bln vs. Prev. JPY 114.0bln Y/Y. (Newswires)</p>\r\n\r\n<p>Other News<br />- Japan&rsquo;s GPIF had record JPY 14.8tln loss for December quarter. (Newswires)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-japanese-stock-news-earnings-from-hitachi-honda-mitsubishi-motors-ntt-docomo-sony-and-takeda-03-02-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-02-04 07:37:00",
+        "gmt_time": "2019-02-03 23:37:00"
+    },
+    {
+        "id": 694375,
+        "updated_sequence": 1132919,
+        "published_at": {
+            "unix": 1549233900,
+            "text": "2019-02-03 22:45:00 +0000",
+            "iso_8601": "2019-02-03T22:45:00Z"
+        },
+        "updated_at": {
+            "unix": 1549234073,
+            "text": "2019-02-03 22:47:53 +0000",
+            "iso_8601": "2019-02-03T22:47:53Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIAN STOCK NEWS: Banking Royal Commission is to release its final report today",
+        "content": "<p>Austal (ASB AT)<br />- Co. guides H1 EBIT between AUD 39mln-41mln, while it raises FY19 guidance. (Newswires)</p>\r\n\r\n<p>Boral (BLD AT)<br />- Co. has signalled lower than expected FY earnings amid delays to major projects. (The Australian)</p>\r\n\r\n<p>Origin Energy (ORG AT)<br />- Co. is planning to offload several dormant onshore permits near Port Campbell to Lochard Energy. (AFR)</p>\r\n\r\n<p>Westpac (WBC AT)<br />- Co. is beginning process of divesting smaller, minor assets. (Newswires)</p>\r\n\r\n<p>Financials<br />- Commonwealth Bank (CBA AT) is expected to kick off an earnings season that could be the slowest pace of growth in three years. (AFR)<br />- Banking Royal Commission is to release its final report today at 0500GMT. (Newswires)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-australian-stock-news-banking-royal-commission-is-to-release-its-final-report-today-03-02-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-02-04 06:45:00",
+        "gmt_time": "2019-02-03 22:45:00"
+    },
+    {
+        "id": 694374,
+        "updated_sequence": 1132912,
+        "published_at": {
+            "unix": 1549233060,
+            "text": "2019-02-03 22:31:00 +0000",
+            "iso_8601": "2019-02-03T22:31:00Z"
+        },
+        "updated_at": {
+            "unix": 1549233151,
+            "text": "2019-02-03 22:32:31 +0000",
+            "iso_8601": "2019-02-03T22:32:31Z"
+        },
+        "subject": "UK PM May says will seek a pragmatic solution to parliamentary Brexit deadlock",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "uk-pm-may-says-will-seek-a-pragmatic-solution-to-parliamentary-brexit-deadlock-03-02-2019",
+        "hidden": false,
+        "section": {
+            "id": 38,
+            "name": "Brexit"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-02-04 06:31:00",
+        "gmt_time": "2019-02-03 22:31:00"
+    },
+    {
+        "id": 694373,
+        "updated_sequence": 1132907,
+        "published_at": {
+            "unix": 1549232040,
+            "text": "2019-02-03 22:14:00 +0000",
+            "iso_8601": "2019-02-03T22:14:00Z"
+        },
+        "updated_at": {
+            "unix": 1549232149,
+            "text": "2019-02-03 22:15:49 +0000",
+            "iso_8601": "2019-02-03T22:15:49Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASES CALENDAR NOW AVAILABLE IN THE RESEARCH SECTION: Highlights include Japanese Monetary Base, Australian Building Approvals and Lunar New Year holiday closures",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asian-daily-economic-releases-calendar-now-available-in-the-research-section-highlights-include-japanese-monetary-base-australian-building-approvals-and-lunar-new-year-holiday-closures-03-02-2019",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-02-04 06:14:00",
+        "gmt_time": "2019-02-03 22:14:00"
+    },
+    {
+        "id": 694372,
+        "updated_sequence": 1133064,
+        "published_at": {
+            "unix": 1549231500,
+            "text": "2019-02-03 22:05:00 +0000",
+            "iso_8601": "2019-02-03T22:05:00Z"
+        },
+        "updated_at": {
+            "unix": 1549259651,
+            "text": "2019-02-04 05:54:11 +0000",
+            "iso_8601": "2019-02-04T05:54:11Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p>ASIA-PAC</p>\r\n\r\n<p>US President Trump commented on Saturday that he expects to reach a trade agreement with China soon, while there were separate reports that President Trump may meet with Chinese President Xi in Da Nang, Vietnam at the end of February. (Newswires/SCMP)</p>\r\n\r\n<p>Chinese Caixin Services PMI (Jan) 53.6 vs. Exp. 53.3 (Prev. 53.9). (Newswires)<br />Chinese Composite PMI (Jan) 50.9 (Prev. 52.2)</p>\r\n\r\n<p>New Zealand Building Permits (Dec) M/M 5.1% (Prev. -2.0%). (Newswires)</p>\r\n\r\n<p><br />UK/EU</p>\r\n\r\n<p>UK Chancellor Hammond said UK and EU would agree for more time on Brexit if a deal is agreed to. In related news, sources noted that there is zero chance of the backstop being reworded. (Newswires/ITV)</p>\r\n\r\n<p>Bank of Italy Governor Visco said there are internal and external downside risks for Italy&rsquo;s growth including interest rates on government bonds which are a significant risk. (Newswires)</p>\r\n\r\n<p>Italian Economy Minister Tria said he sees no need to adjust the budget in 2019 and does not see a risk of recession in Europe. (Newswires)</p>\r\n\r\n<p><br />COMMODITIES</p>\r\n\r\n<p>Baker Hughes Rig Count (1/Feb) showed Total rigs -14 at 1055; oil rigs -15 at 847; gas rigs +1 at 198. (Newswires)</p>\r\n\r\n<p>Saudi Arabia cuts oil production by 450k BPD in January, while reports noted that OPEC members pumped 31mln BPD in January and that OPEC output dropped the most in two years with Saudi leading the way. (Newswires)<br />&nbsp;</p>\r\n\r\n<p>GEOPOLITICS</p>\r\n\r\n<p>US President Trump said he wants a new nuclear treaty with Russia. (Newswires)</p>\r\n\r\n<p>US</p>\r\n\r\n<p>US President Trump said he will be looking at declaring a national emergency over the wall and that an emergency would have a strong legal standing which he may discuss on February 5th, while there were separate reports that President Trump will ask congress to pass his NAFTA replacement and to give him an infrastructure bill. (Newswires)</p>\r\n\r\n<p>Excerpt released by the White House shows US President Trump is to tell congress at State of the Union Address about progress on China trade talks and is to communicate that Republicans and Democrats can break decades of political stalemate. (Newswires)</p>\r\n\r\n<p>US NEC Director Kudlow thinks 3% US economic growth forecast for 2019 is intact and the President Trump is optimistic on China trade but can never be certain. Kudlow also said that they did not make new ground and that he senses an urgency from China to get a deal done. (Fox Business/Newswires)</p>\r\n\r\n<p>Fed&rsquo;s Kashkari (non-voter, dove) said Chairman Powell is coming around the view that more rate hikes are not needed. (Newswires)</p>\r\n\r\n<p>Fed&#39;s Kaplan (non-voter, dove) said he is not saying they are never going to raise rates again, while he added that that he has not changed his own view since December and that he believes Fed should keep rates on hold for months not weeks. Kaplan also commented that inflation pressures are very likely to be muted and the Fed has the luxury of patience over rates. (Newswires)</p>\r\n\r\n<p>US Non-Farm Payrolls Jan 304k vs. Exp. 165.0k (Prev. 312.0k, Rev. 222k). (Newswires)<br />US Unemployment Rate Jan 4.0% vs. Exp. 3.9% (Prev. 3.9%)<br />US Average Earnings YY Jan 3.2% vs. Exp. 3.2% (Prev. 3.2%, Rev. 3.3%)<br />US ISM Manufacturing PMI Jan 56.6 vs. Exp. 54.2 (Prev. 54.1, Rev. 54.3)<br />US Construction Spending MM Nov 0.8% vs. Exp. 0.2% (Prev. -0.1%, Rev. 0.1%)</p>\r\n\r\n<p><br />MARKET RECAP</p>\r\n\r\n<p>Retail titan Amazon (AMZN) was a headwind for indices today, it beat on top and bottom line estimates but lowered its revenue guidance and noted increased capex in 2019. The DJIA&rsquo;s oil components Chevron (CVX) and Exxon Mobil (XOM) opened higher, where both beat EPS estimates but missed on revenue; LyondellBasell (LYB) opened lower after missing both estimates. In healthcare, Merck (MRK) traded higher on the open after beating top and bottom line estimates. Cigna (CI) beat estimates but moved lower on the open as it lowered its guidance. Honeywell (HON) and Symantec (SYMC) traded in the green after beating EPS and revenue estimates. Teva (TEVA) moved higher after receiving a regulatory positive opinion on a migraine drug in the EU. DowDuPont (DWDP) and General Electric (GE) opened lower on the back of downgrades at JPMorgan and Vertical Research respectively. SPX +0.1% at 2706, NASDAQ -0.5% at 6876, DJI +0.3% at 25063.</p>\r\n\r\n<p>Treasuries ended Friday&rsquo;s session in negative territory -supported by a strong US labour market report which added 304k jobs to in January. Optimism continued also on the trade front fuelled by hopes that a deal will be put on paper by March 1st. Most of the action was concentrated in the front end and belly of the curve where yields were higher by c.7bps at settlement. Light profit taking emerged into the European session close but the complex extended weakness into the US afternoon trade. The curve was mixed; steeper at the front end and flatter at the long end. US T-note futures (H9) settled ticks -17 at 121-30.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-asia-pac-opening-news-03-02-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-02-04 06:05:00",
+        "gmt_time": "2019-02-03 22:05:00"
+    },
+    {
+        "id": 694150,
+        "updated_sequence": 1132894,
+        "published_at": {
+            "unix": 1549231200,
+            "text": "2019-02-03 22:00:00 +0000",
+            "iso_8601": "2019-02-03T22:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1549231200,
+            "text": "2019-02-03 22:00:00 +0000",
+            "iso_8601": "2019-02-03T22:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "<p>Says<br />- Co. offered bonuses to employees that stole IP secrets.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-31-01-2019",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-02-04 06:00:00",
+        "gmt_time": "2019-02-03 22:00:00"
+    }
+]

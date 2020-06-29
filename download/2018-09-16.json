@@ -1,0 +1,410 @@
+[
+    {
+        "id": 674377,
+        "updated_sequence": 1050926,
+        "published_at": {
+            "unix": 1537141740,
+            "text": "2018-09-17 00:49:00 +0100",
+            "iso_8601": "2018-09-16T23:49:00Z"
+        },
+        "updated_at": {
+            "unix": 1537141769,
+            "text": "2018-09-17 00:49:29 +0100",
+            "iso_8601": "2018-09-16T23:49:29Z"
+        },
+        "subject": "CIMIC (CIM AT) Thiess unit receives AUD 418mln contract extension",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "cimic-cim-at-thiess-unit-receives-aud-418mln-contract-extension-16-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-17 07:49:00",
+        "gmt_time": "2018-09-16 23:49:00"
+    },
+    {
+        "id": 674376,
+        "updated_sequence": 1050974,
+        "published_at": {
+            "unix": 1537140480,
+            "text": "2018-09-17 00:28:00 +0100",
+            "iso_8601": "2018-09-16T23:28:00Z"
+        },
+        "updated_at": {
+            "unix": 1537149449,
+            "text": "2018-09-17 02:57:29 +0100",
+            "iso_8601": "2018-09-17T01:57:29Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIAN AND SOUTH KOREAN STOCK NEWS: Light newsflow from the region and Japan is shut for public holiday",
+        "content": "<p>AUSTRALIA</p>\r\n\r\n<p>Newcrest Mining (NCM AT)<br />- Co. and Encounter Resources (ENR AT) announced JV agreement in the Tanami gold province. (Newswires)</p>\r\n\r\n<p>Regis Resources (RRL AT)<br />- Co. MD and Executive Chairman Clark will retire and be replaced by Jim Beyer. (Newswires)</p>\r\n\r\n<p>Rio Tinto (RIO AT)<br />- Co. has withdrawn offer to acquire ISAL&rsquo;s smelter in Iceland and over 50% stake in Dutch aluchemie anode plant. (Newswires)</p>\r\n\r\n<p>Healthcare<br />-&nbsp;Healthcare firms are reportedly&nbsp;facing&nbsp;tough scrutiny from a royal commission into the sector. (AFR)</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>SOUTH KOREA</p>\r\n\r\n<p>Other News<br />- Samsung, Hyundai, SK and LG group chiefs are to join South Korean President Moon on his visit to Pyongyang this week where he will meet with North Korean Leader Kim. (Yonhap)<br />- Foreign investors purchased a net KRW 1.1tln of domestic stocks in August according to FSS data. (Yonhap)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-australian-and-south-korean-stock-news-light-newsflow-from-the-region-and-japan-is-shut-for-public-holiday-16-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-17 07:28:00",
+        "gmt_time": "2018-09-16 23:28:00"
+    },
+    {
+        "id": 674375,
+        "updated_sequence": 1050920,
+        "published_at": {
+            "unix": 1537138980,
+            "text": "2018-09-17 00:03:00 +0100",
+            "iso_8601": "2018-09-16T23:03:00Z"
+        },
+        "updated_at": {
+            "unix": 1537139048,
+            "text": "2018-09-17 00:04:08 +0100",
+            "iso_8601": "2018-09-16T23:04:08Z"
+        },
+        "subject": "UK Visa consumer spending in August rose 0.4% Y/Y in August vs. Prev. decline of 0.9% Y/Y in July",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "uk-visa-consumer-spending-in-august-rose-0-4-y-y-in-august-vs-prev-decline-of-0-9-y-y-in-july-16-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-17 07:03:00",
+        "gmt_time": "2018-09-16 23:03:00"
+    },
+    {
+        "id": 674374,
+        "updated_sequence": 1050917,
+        "published_at": {
+            "unix": 1537138920,
+            "text": "2018-09-17 00:02:00 +0100",
+            "iso_8601": "2018-09-16T23:02:00Z"
+        },
+        "updated_at": {
+            "unix": 1537138993,
+            "text": "2018-09-17 00:03:13 +0100",
+            "iso_8601": "2018-09-16T23:03:13Z"
+        },
+        "subject": "British Chambers of Commerce lowers UK 2018 GDP growth forecast to 1.1% from 1.3%",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "british-chambers-of-commerce-lowers-uk-2018-gdp-growth-forecast-to-1-1-from-1-3-16-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-17 07:02:00",
+        "gmt_time": "2018-09-16 23:02:00"
+    },
+    {
+        "id": 674373,
+        "updated_sequence": 1050996,
+        "published_at": {
+            "unix": 1537138860,
+            "text": "2018-09-17 00:01:00 +0100",
+            "iso_8601": "2018-09-16T23:01:00Z"
+        },
+        "updated_at": {
+            "unix": 1537157180,
+            "text": "2018-09-17 05:06:20 +0100",
+            "iso_8601": "2018-09-17T04:06:20Z"
+        },
+        "subject": "UK Rightmove House Prices (Sep) M/M 0.7% (Prev. -2.3%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "uk-rightmove-house-prices-sep-m-m-0-7-prev-2-3-16-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-17 07:01:00",
+        "gmt_time": "2018-09-16 23:01:00"
+    },
+    {
+        "id": 674372,
+        "updated_sequence": 1050998,
+        "published_at": {
+            "unix": 1537138860,
+            "text": "2018-09-17 00:01:00 +0100",
+            "iso_8601": "2018-09-16T23:01:00Z"
+        },
+        "updated_at": {
+            "unix": 1537157198,
+            "text": "2018-09-17 05:06:38 +0100",
+            "iso_8601": "2018-09-17T04:06:38Z"
+        },
+        "subject": "UK Rightmove House Prices (Sep) Y/Y 1.2% (Prev. 1.1%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "uk-rightmove-house-prices-sep-y-y-1-2-prev-1-1-16-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-17 07:01:00",
+        "gmt_time": "2018-09-16 23:01:00"
+    },
+    {
+        "id": 674370,
+        "updated_sequence": 1050905,
+        "published_at": {
+            "unix": 1537137000,
+            "text": "2018-09-16 23:30:00 +0100",
+            "iso_8601": "2018-09-16T22:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1537137041,
+            "text": "2018-09-16 23:30:41 +0100",
+            "iso_8601": "2018-09-16T22:30:41Z"
+        },
+        "subject": "New Zealand Performance of Services Index (Aug) 53.2 (Prev. 55.1)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "new-zealand-performance-of-services-index-aug-53-2-prev-55-1-16-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-17 06:30:00",
+        "gmt_time": "2018-09-16 22:30:00"
+    },
+    {
+        "id": 674371,
+        "updated_sequence": 1050908,
+        "published_at": {
+            "unix": 1537137000,
+            "text": "2018-09-16 23:30:00 +0100",
+            "iso_8601": "2018-09-16T22:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1537137114,
+            "text": "2018-09-16 23:31:54 +0100",
+            "iso_8601": "2018-09-16T22:31:54Z"
+        },
+        "subject": "US Senator Flake says Committee may have to postpone Supreme Court nominee Kavanaugh vote, amid sexual assault allegation",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Washington Post",
+        "slug": "us-senator-flake-says-committee-may-have-to-postpone-supreme-court-nominee-kavanaugh-vote-amid-sexual-assault-allegation-16-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-17 06:30:00",
+        "gmt_time": "2018-09-16 22:30:00"
+    },
+    {
+        "id": 674369,
+        "updated_sequence": 1050902,
+        "published_at": {
+            "unix": 1537136880,
+            "text": "2018-09-16 23:28:00 +0100",
+            "iso_8601": "2018-09-16T22:28:00Z"
+        },
+        "updated_at": {
+            "unix": 1537136923,
+            "text": "2018-09-16 23:28:43 +0100",
+            "iso_8601": "2018-09-16T22:28:43Z"
+        },
+        "subject": "China National Observatory issued highest alert level as Typhoon Mangkhut was said to have begun affecting southern China and Hong Kong",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "china-national-observatory-issued-highest-alert-level-as-typhoon-mangkhut-was-said-to-have-begun-affecting-southern-china-and-hong-kong-16-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-17 06:28:00",
+        "gmt_time": "2018-09-16 22:28:00"
+    },
+    {
+        "id": 674368,
+        "updated_sequence": 1050899,
+        "published_at": {
+            "unix": 1537136220,
+            "text": "2018-09-16 23:17:00 +0100",
+            "iso_8601": "2018-09-16T22:17:00Z"
+        },
+        "updated_at": {
+            "unix": 1537136319,
+            "text": "2018-09-16 23:18:39 +0100",
+            "iso_8601": "2018-09-16T22:18:39Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASES CALENDAR NOW AVAILABLE IN THE RESEARCH SECTION: Highlights Include New Zealand Performance of Services, UK Rightmove House Prices & Singapore Exports; Japan public holiday",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asian-daily-economic-releases-calendar-now-available-in-the-research-section-highlights-include-new-zealand-performance-of-services-uk-rightmove-house-prices-singapore-exports-japan-public-holiday-16-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-17 06:17:00",
+        "gmt_time": "2018-09-16 22:17:00"
+    },
+    {
+        "id": 674367,
+        "updated_sequence": 1050896,
+        "published_at": {
+            "unix": 1537134060,
+            "text": "2018-09-16 22:41:00 +0100",
+            "iso_8601": "2018-09-16T21:41:00Z"
+        },
+        "updated_at": {
+            "unix": 1537135365,
+            "text": "2018-09-16 23:02:45 +0100",
+            "iso_8601": "2018-09-16T22:02:45Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p>TRADE</p>\r\n\r\n<p>US President Trump was said to want USD 200bln in China tariffs despite talks and told advisers to proceed with the tariffs according to reports on Friday which cited people familiar with the matter. Furthermore, separate reports over the weekend stated that the tariffs will go into effect within weeks and that an announcement could be made within days, while the tariffs are said to likely be set at about 10% but could be raised to 25% if China does not appear willing to comply to US trade demands at upcoming meetings in Washington on September 27th-28th. (Newswires)</p>\r\n\r\n<p>China reportedly may not participate in planned trade discussions with the US if the Trump administration goes ahead with additional tariffs. (WSJ)</p>\r\n\r\n<p>The White House said US President Trump has been clear that himself and the administration will continue to take action to address China&#39;s unfair trade practices. (Newswires)</p>\r\n\r\n<p>G-20 ministers issued statement which noted that they discussed ways to improve the WTO and that said there is urgent need to improve the WTO, while it also noted that they stepped up dialogue on international trade. G20 ministers also stated the EU-Mercosur free trade deal involving Argentina, Brazil, Paraguay, Uruguay and Venezuela is &#39;in the final stages&#39; of negotiation. (Newswires)<br />&nbsp;</p>\r\n\r\n<p>ASIA-PAC</p>\r\n\r\n<p>Chinese House Prices (Aug) Y/Y 7.0% (Prev. 5.8%). (Newswires)</p>\r\n\r\n<p>Indian Trade Balance Govt (USD)(Aug) -17.39B vs. Exp. -17.25B (Prev. -18.02B). (Newswires)<br />Indian Exports (USD)(Aug) 27.84B (Prev. 25.77B)<br />Indian Imports (USD)(Aug) 45.24B (Prev. 43.79B)</p>\r\n\r\n<p><br />UK/EU</p>\r\n\r\n<p>BoE&rsquo;s Carney at last Thursday&rsquo;s UK cabinet briefing, reportedly told the cabinet that the domestic economy could receive a GBP 16bln lift if PM May was able to negotiate a deal with the EU based on her Chequers proposal. (Newswires)</p>\r\n\r\n<p>A few ECB policymakers wanted last week&#39;s policy message to state that risks were tilted to the downside, according to sources. (Newswires)</p>\r\n\r\n<p>Spain is to propose a tax on large tech platforms and approve financial tax, while Spain is to also propose a tax increase for the highest earners and will increase pensions in line with inflation, according to PM Sanchez. (Newswires)</p>\r\n\r\n<p>S&amp;P affirmed Portugal at BBB-; Outlook revised to Positive from Stable, affirmed Austria at AA+; Outlook Stable and affirmed Finland at AA+; Outlook Stable. S&amp;P also affirmed Denmark at AAA; Outlook Stable and affirmed Luxembourg at AAA; Outlook Stable. (Newswires)</p>\r\n\r\n<p>Moody&rsquo;s affirmed EU at AAA; Outlook Stable. (Newswire)</p>\r\n\r\n<p>COMMODITIES</p>\r\n\r\n<p>US Baker Hughes Total Rig Count (07 Sep) 1055 (Prev. 1048). (Newswires)<br />US Baker Hughes Oil Rig Count (07 Sep) 867 (Prev. 860)<br />US Baker Hughes Gas Rig Count (07 Sep) 186 (Prev. 186)</p>\r\n\r\n<p>US Energy Secretary Perry said a number of things in Saudi Arabia give him confidence that they will maintain and maybe increase output, while he added that Saudi Arabia is working on a solution with Kuwait over border issue. (Newswires)</p>\r\n\r\n<p>Saudi Arabia Energy Minister Al-Falih and Russian counterpart Novak met over the weekend in which they pledged to continue working on cooperation. (Newswires)</p>\r\n\r\n<p>Iran&#39;s OPEC Governor said it is difficult for US to cut Iranian oil exports to zero as there is no spare capacity anywhere. Furthermore, Iran stated that Saudi Arabia and Russia have taken the oil market hostage while the US is attempting to cut Iran oil exports to zero. (Newswires)<br /><br /><br />GEOPOLITICAL</p>\r\n\r\n<p>US Secretary of State Pompeo said Iran forces fired rockets towards the US embassy in Baghdad this week, while Pompeo also commented that Russia has actively worked to undermine UN sanctions on North Korea. (Newswires)<br />&nbsp;</p>\r\n\r\n<p>US&nbsp;</p>\r\n\r\n<p>Fed named Mary Daly as new San Francisco President, currently Head of Research at San Francisco Fed and effective on October 1st. (Newswires)</p>\r\n\r\n<p>US Industrial Production (Aug) M/M 0.4% vs. Exp. 0.3% (Prev. 0.1%, Rev. 0.4%). (Newswires)<br />US Manufacturing Output (Aug) M/M 0.2% vs. Exp. 0.3% (Prev. 0.3%)<br />US Retail Sales (Aug) M/M 0.1% vs. Exp. 0.4% (Prev. 0.5%, Rev. 0.7%)</p>\r\n\r\n<p><br />MARKET RECAP</p>\r\n\r\n<p>US equity futures were relatively rangebound throughout the early session, however after reports that US President Trump reportedly told advisers to proceed with USD 200bln in China tariffs, the indices were pressured with the ES falling ~9 points from 2909 to 2900 level where it was briefly breached to the downside. Adobe (ADBE) reported earnings AMC Thursday where they beat on both top and bottom line and forecast Q4 EPS &amp; revenue higher than street expectations which saw the stock higher than 2% on Friday. Advanced Micro Devices (AMD) outperformed during Friday trade due to a positive note from Argus where they raised the PT to USD 40 from USD 23. L Brands (LB) were higher after it announced it is to close all its Henri Bendel stores in January 2019 as it is the right choice for growth. NISource (NI) were on pace for its worst day since 2001 after an explosion at its gas facility which killed at least one person. Finally, Tesla (TSLA) were higher following reports from Electrek that the auto name produced 6700 vehicles over the last week, close to its personal record. SPX +0.01% at 2904, NDX -0.2% at 7546, DJI 0.03% at 26154.</p>\r\n\r\n<p>The treasury complex edged lower with the 10yr yield hitting the 3% level briefly due to the strong Uni of Mich Sentiment data, which posted above 100, the moves are also attributable to the upward revisions to retail sales. The data was all consistent with markets expectations for two more Fed rate hikes this year. Nonetheless, the yield failed to go above 3% and traded below for the rest of the trading session after the level was hit, acting as key resistance. Yields were by c.3bps at settlement whilst spreads were narrower with the exception of 2s5s which widened by less than 1bps. US T-note futures (Z8) settled ticks 8 lower at 119-05+.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-asia-pac-opening-news-16-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-17 05:41:00",
+        "gmt_time": "2018-09-16 21:41:00"
+    },
+    {
+        "id": 674169,
+        "updated_sequence": 1050884,
+        "published_at": {
+            "unix": 1537131600,
+            "text": "2018-09-16 22:00:00 +0100",
+            "iso_8601": "2018-09-16T21:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1537131600,
+            "text": "2018-09-16 22:00:00 +0100",
+            "iso_8601": "2018-09-16T21:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-13-09-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-09-17 05:00:00",
+        "gmt_time": "2018-09-16 21:00:00"
+    }
+]

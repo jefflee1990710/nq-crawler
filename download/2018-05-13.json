@@ -1,0 +1,342 @@
+[
+    {
+        "id": 620124,
+        "updated_sequence": 822454,
+        "published_at": {
+            "unix": 1526254860,
+            "text": "2018-05-14 00:41:00 +0100",
+            "iso_8601": "2018-05-13T23:41:00Z"
+        },
+        "updated_at": {
+            "unix": 1526254946,
+            "text": "2018-05-14 00:42:26 +0100",
+            "iso_8601": "2018-05-13T23:42:26Z"
+        },
+        "subject": "Malaysia Central Bank says domestic outlook remains firm after the elections",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "malaysia-central-bank-says-domestic-outlook-remains-firm-after-the-elections-13-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-14 07:41:00",
+        "gmt_time": "2018-05-13 23:41:00"
+    },
+    {
+        "id": 620123,
+        "updated_sequence": 822488,
+        "published_at": {
+            "unix": 1526254440,
+            "text": "2018-05-14 00:34:00 +0100",
+            "iso_8601": "2018-05-13T23:34:00Z"
+        },
+        "updated_at": {
+            "unix": 1526258566,
+            "text": "2018-05-14 01:42:46 +0100",
+            "iso_8601": "2018-05-14T00:42:46Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIA, JAPANESE AND SOUTH KOREAN STOCK NEWS; Healtscope receives proposal from Brookfield and Telstra sees FY18 EBITDA at bottom of guidance range and challenging conditions to persist",
+        "content": "<p>AUSTRALIA</p>\r\n\r\n<p>AusNet (AST AT)<br />- Co. FY net AUD 291.4mln vs. Prev. AUD 255.2mln Y/Y. (Newswires)<br />- Co. expects to hike dividends for FY19.</p>\r\n\r\n<p>CBA (CBA AT)<br />- Co. CFO Jesudason resigns with immediate effect. (Newswires)</p>\r\n\r\n<p>Downer EDI (DOW AT)<br />- Co. receives EPC contract from First Solar valued at AUD 150mln. (Newswires)</p>\r\n\r\n<p>Elders (ELD AT)<br />- Co. H1 net rose 8% to AUD 41.4mln. (Newswires)</p>\r\n\r\n<p>GWA Group (GWA AT)<br />- Co. to offload Door &amp; Access Systems business for AUD 107mln. (Newswires)</p>\r\n\r\n<p>Healthscope (HSO AT)<br />- Co. receives unsolicited proposal from Brookfield valued at AUD 2.50/Shr vs. last close AUD 2.47/Shr. (Newswires)</p>\r\n\r\n<p>Telstra (TLS AT)<br />- Co. re-affirmed guidance and sees the challenging trading conditions in FY18 to persist in FY19. (Newswires)<br />- Co. says FY18 EBITDA is expected at the bottom of AUD 10.1bln-10.6bln range.</p>\r\n\r\n<p>Basic Materials / Energy<br />- Gold declined 0.3%.<br />- Iron rose 0.9%.<br />- WTI crude fell 0.9% to below USD 71/bbl.<br />&nbsp;</p>\r\n\r\n<p>JAPAN</p>\r\n\r\n<p>Asahi Kasei (3407 JT)<br />- Co. expects net profit to decline 18% for the current fiscal year. (Nikkei)</p>\r\n\r\n<p>FujiFilm (4901 JT)<br />- Xerox (XRX) is planning to end proposed takeover deal by Fujifilm (4901 JT) and agreed to a new settlement with activist investors Icahn and Deason. (Newswires)</p>\r\n\r\n<p>Mazda (7261 JT)<br />- Co. VP Marumoto who will take on the President role next month said that the automaker is ready to deepen its partnership with Toyota (7203 JT) on EVs. (Nikkei)</p>\r\n\r\n<p>Nissan (7201 JT)<br />- Co. is said to seek to capitalize on affiliate Mitsubishi Motors (7211 JT) strength for its Southeast Asia push. (Nikkei)</p>\r\n\r\n<p>Seven &amp; I (3382 JT)<br />- Seven-Eleven Japan is to launch online 24-hour food delivery service. (Newswires)</p>\r\n\r\n<p>Sharp (6753 JT)<br />- Co. President Tai is expected to stay on at role to 2020. (Nikkei)</p>\r\n\r\n<p>Shiseido (49111 JT)<br />- Co. Q1 net sales rose 9% Y/Y to JPY 232.5bln which was its highest Q1 sales on record. (Newswires)<br />&nbsp;</p>\r\n\r\n<p>SOUTH KOREA</p>\r\n\r\n<p>Doosan Heavy (034020 KS)<br />- Co. said it received several orders for energy storage projects both foreign and domestic. (Yonhap)</p>\r\n\r\n<p>KT Corp (030200 KS)<br />- Co. announced it successfully completed full LTE network in Rwanda. (Yonhap)</p>\r\n\r\n<p>Other News<br />- North Korea announced steps to dismantle nuclear test site for this month, while there were also comments from US Secretary of State Pompeo that North Korea sanctions will be lifted if the nation proceeds with total denuclearizarion of the Korean peninsula. (CBS)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-australia-japanese-and-south-korean-stock-news-healtscope-receives-proposal-from-brookfield-and-telstra-sees-fy18-ebitda-at-bottom-of-guidance-range-and-challenging-conditions-to-persist-13-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-14 07:34:00",
+        "gmt_time": "2018-05-13 23:34:00"
+    },
+    {
+        "id": 620122,
+        "updated_sequence": 822445,
+        "published_at": {
+            "unix": 1526253420,
+            "text": "2018-05-14 00:17:00 +0100",
+            "iso_8601": "2018-05-13T23:17:00Z"
+        },
+        "updated_at": {
+            "unix": 1526253611,
+            "text": "2018-05-14 00:20:11 +0100",
+            "iso_8601": "2018-05-13T23:20:11Z"
+        },
+        "subject": "Olam International (OLAP SP) Q1 profit after tax and minority interests SGD 157.9mln vs. Prev. SGD 143.9mln, Q1 rev. SGD 6.3bln vs. Prev. SGD 5.8bln",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "olam-international-olap-sp-q1-profit-after-tax-and-minority-interests-sgd-157-9mln-vs-prev-sgd-143-9mln-q1-rev-sgd-6-3bln-vs-prev-sgd-5-8bln-13-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-14 07:17:00",
+        "gmt_time": "2018-05-13 23:17:00"
+    },
+    {
+        "id": 620121,
+        "updated_sequence": 822442,
+        "published_at": {
+            "unix": 1526252460,
+            "text": "2018-05-14 00:01:00 +0100",
+            "iso_8601": "2018-05-13T23:01:00Z"
+        },
+        "updated_at": {
+            "unix": 1526252519,
+            "text": "2018-05-14 00:01:59 +0100",
+            "iso_8601": "2018-05-13T23:01:59Z"
+        },
+        "subject": "UK Visa consumer spending decline 2.0% Y/Y during April vs. 2.0% decline in March",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "uk-visa-consumer-spending-decline-2-0-y-y-during-april-vs-2-0-decline-in-march-13-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-14 07:01:00",
+        "gmt_time": "2018-05-13 23:01:00"
+    },
+    {
+        "id": 620120,
+        "updated_sequence": 822439,
+        "published_at": {
+            "unix": 1526250600,
+            "text": "2018-05-13 23:30:00 +0100",
+            "iso_8601": "2018-05-13T22:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1526250646,
+            "text": "2018-05-13 23:30:46 +0100",
+            "iso_8601": "2018-05-13T22:30:46Z"
+        },
+        "subject": "New Zealand Performance of Services Index (Apr) 55.9 (Prev. 58.8)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "new-zealand-performance-of-services-index-apr-55-9-prev-58-8-13-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-14 06:30:00",
+        "gmt_time": "2018-05-13 22:30:00"
+    },
+    {
+        "id": 620119,
+        "updated_sequence": 822436,
+        "published_at": {
+            "unix": 1526248860,
+            "text": "2018-05-13 23:01:00 +0100",
+            "iso_8601": "2018-05-13T22:01:00Z"
+        },
+        "updated_at": {
+            "unix": 1526249006,
+            "text": "2018-05-13 23:03:26 +0100",
+            "iso_8601": "2018-05-13T22:03:26Z"
+        },
+        "subject": "US equity futures begin positive at the reopen of electronic trade with Emini S&P and mini Dow futures higher by about 0.2%, following reports over the weekend that President Trump provided lifeline for Chinese telecoms firm ZTE ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "us-equity-futures-begin-positive-at-the-reopen-of-electronic-trade-with-emini-s-p-and-mini-dow-futures-higher-by-about-0-2-following-reports-over-the-weekend-that-president-trump-provided-lifeline-for-chinese-telecoms-firm-zte-13-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-14 06:01:00",
+        "gmt_time": "2018-05-13 22:01:00"
+    },
+    {
+        "id": 620118,
+        "updated_sequence": 822431,
+        "published_at": {
+            "unix": 1526248200,
+            "text": "2018-05-13 22:50:00 +0100",
+            "iso_8601": "2018-05-13T21:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1526248352,
+            "text": "2018-05-13 22:52:32 +0100",
+            "iso_8601": "2018-05-13T21:52:32Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASES CALENDAR NOW AVAILABLE IN THE RESEARCH SECTION: Highlights Include Australian Credit Car Balances and Purchases, Japanese PPI and Machine Tool Orders",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asian-daily-economic-releases-calendar-now-available-in-the-research-section-highlights-include-australian-credit-car-balances-and-purchases-japanese-ppi-and-machine-tool-orders-13-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-14 05:50:00",
+        "gmt_time": "2018-05-13 21:50:00"
+    },
+    {
+        "id": 620117,
+        "updated_sequence": 822520,
+        "published_at": {
+            "unix": 1526246880,
+            "text": "2018-05-13 22:28:00 +0100",
+            "iso_8601": "2018-05-13T21:28:00Z"
+        },
+        "updated_at": {
+            "unix": 1526261805,
+            "text": "2018-05-14 02:36:45 +0100",
+            "iso_8601": "2018-05-14T01:36:45Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p>ASIA-PAC</p>\r\n\r\n<p>US President Trump instructed the US Commerce Department to assist Chinese telecoms firm ZTE to get back into business which is seen as a U-turn on the firm which was previously placed under a 7-year supply ban by the US. (FT)</p>\r\n\r\n<p>Chinese New Yuan Loans (CNY)(Apr) 1180B vs. Exp. 1100B (Prev. 1120B). (Newswires)<br />Chinese Aggregate Financing (CNY)(Apr) 1560B vs. Exp. 1350B (Prev. 1332B)<br />Chinese M2 Money Supply Y/Y 8.3% vs. Exp. 8.5% (Prev. 8.2%)</p>\r\n\r\n<p><br />UK</p>\r\n\r\n<p>EU Brexit Negotiator Barnier sees a risk that Brexit talks will fail. (Spiegel)</p>\r\n\r\n<p><br />EU</p>\r\n\r\n<p>Italy&rsquo;s 5-Star Movement and League reportedly reached an agreement on measures including universal basic income, a flat tax and roll back of pension reforms from 2011. Reports also stated that the agreement is likely to underpin the formation of a government although they still need to reach a deal on who to choose to be PM and cabinet members. (WSJ)</p>\r\n\r\n<p>There was knife attack on Saturday in Paris where 1 man was killed and 4 others were injured. The attacker was shot and killed by police, while Islamic State have claimed responsibility for the attack. (BBC)<br />&nbsp;</p>\r\n\r\n<p>FX</p>\r\n\r\n<p>SNB&#39;s Zurbruegg said the CHF can quickly strengthen, while he added that there is no need to give up negative interest rates and does not see a need to give up FX market intervention. (Newswires)</p>\r\n\r\n<p><br />COMMODITIES</p>\r\n\r\n<p>US Baker Hughes Total Rig Count (4 May) 1045 (Prev. 1032). (Newswires)</p>\r\n\r\n<p><br />GEOPOLITICAL</p>\r\n\r\n<p>North Korea announced steps to dismantle nuclear test site this month, while there were also comments from US Secretary of State Pompeo that North Korea sanctions will be lifted if the nation proceeds with total denuclearizarion of the Korean peninsula. (CBS)<br />&nbsp;</p>\r\n\r\n<p>US</p>\r\n\r\n<p>US President Trump&#39;s administration released a blueprint on Friday for how it intends to lower drug prices in which Trump stated they are eliminating the middlemen in the drug industry who have become rich. Furthermore, Trump stated he instructed officials to bring soaring drug prices back to earth and that a pricing plan will encourage drugmakers to keep prices low. (Newswires)</p>\r\n\r\n<p>Canada&#39;s Foreign Minister Freeland said meaningful progress has been made by the three NAFTA sides last week. There were also comments from Mexican Economy Minister Guajardo who stated that the NAFTA meeting was efficient and that ministers are working to reach a NAFTA deal by 17th May. (Newswires)</p>\r\n\r\n<p><br />MARKET RECAP</p>\r\n\r\n<p>US equity futures traded relatively rangebound heading into the US cash open, consolidating around the key 2720 level. As the cash day got underway, the Emini broke above 2725 to session highs to test 2732.50 multiple of times but after failing to negotiate the level, fell back to the 2720 level. The highly anticipated Trump speech on drug prices was initially negative for pharma names, after the &lsquo;blueprint&rsquo; aimed to cut drug prices. Names such as ESRX &amp; CVS fell to lows; however, as Trump then announced it is to remove the &ldquo;middle men&rdquo; who have been making too much money, the stocks rebounded and extended to fresh highs, and as a result, healthcare was among the outperformers in Friday trade, along with Telecoms. In earnings, after the bell on Thursday, Nvidia (NVDA) reported earnings which beat on both the top and bottom line, but noted cryptocurrency related purchases were higher than expected; however, cloud computing orders were lower than the Street estimates. Symantec (SYMC) was also in focus as FY results are expected to be lower than analyst expectations, according to a company update. Also, an audit committee of the board opened an internal investigation after concerns were raised by employees. The co. also stated the annual report may be delayed following a probe in its financials. The slew of negative news for SYMC sent the stock to intraday declines of ~35%. &nbsp;SPX +0.17% at 2728, NDX -0.16% at 6953, DJI +0.37% at 24830.</p>\r\n\r\n<p>The curve flattened to fresh decade narrows on Friday (5s30s); however, when the dust settled, Friday action was uneventful, and yields were little changed. At the end of the week, a June hike is completely priced (100%) rising around 5ppts in the week, according to the CME Fedwatch data. Heading into the cash open, Treasuries found sellers, with the 10yr T-Note future hitting session lows before ticking higher gradually as the cash equity day got underway. Nonetheless the moves were relatively range-bound as volume was hardly spectacular heading to the weekend, and following yesterday&rsquo;s softer CPI prints. * FOREX: *DXY: The index ended. US 10yr T-Notes futures settled half a tick higher at 119-13.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-asia-pac-opening-news-13-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-14 05:28:00",
+        "gmt_time": "2018-05-13 21:28:00"
+    },
+    {
+        "id": 620116,
+        "updated_sequence": 822422,
+        "published_at": {
+            "unix": 1526246220,
+            "text": "2018-05-13 22:17:00 +0100",
+            "iso_8601": "2018-05-13T21:17:00Z"
+        },
+        "updated_at": {
+            "unix": 1526246449,
+            "text": "2018-05-13 22:20:49 +0100",
+            "iso_8601": "2018-05-13T21:20:49Z"
+        },
+        "subject": "Xerox (XRX) is said to be planning to end deal with Fujifilm (4901 JT) and settle with Icahn",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "xerox-xrx-is-said-to-be-planning-to-end-deal-with-fujifilm-4901-jt-and-settle-with-icahn-13-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-14 05:17:00",
+        "gmt_time": "2018-05-13 21:17:00"
+    },
+    {
+        "id": 619980,
+        "updated_sequence": 822416,
+        "published_at": {
+            "unix": 1526245200,
+            "text": "2018-05-13 22:00:00 +0100",
+            "iso_8601": "2018-05-13T21:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1526245200,
+            "text": "2018-05-13 22:00:00 +0100",
+            "iso_8601": "2018-05-13T21:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-10-05-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-05-14 05:00:00",
+        "gmt_time": "2018-05-13 21:00:00"
+    }
+]

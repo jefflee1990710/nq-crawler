@@ -1,0 +1,2962 @@
+[
+    {
+        "id": 610441,
+        "updated_sequence": 782915,
+        "published_at": {
+            "unix": 1519421400,
+            "text": "2018-02-23 21:30:00 +0000",
+            "iso_8601": "2018-02-23T21:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1519421400,
+            "text": "2018-02-23 21:30:00 +0000",
+            "iso_8601": "2018-02-23T21:30:00Z"
+        },
+        "subject": "AUDIO SERVICE HAS NOW CLOSED FOR THE WEEK. THE ASIA DESK WILL REOPEN ON SUNDAY AT 2200GMT, EUROPEAN SERVICE WILL RESUME ON MONDAY AT 0630GMT. HAVE A PLEASANT WEEKEND.",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "audio-service-has-now-closed-for-the-week-the-asia-desk-will-reopen-on-sunday-at-2200gmt-european-service-will-resume-on-monday-at-0630gmt-have-a-pleasant-weekend-19-01-2018",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-24 05:30:00",
+        "gmt_time": "2018-02-23 21:30:00"
+    },
+    {
+        "id": 611000,
+        "updated_sequence": 782913,
+        "published_at": {
+            "unix": 1519420500,
+            "text": "2018-02-23 21:15:00 +0000",
+            "iso_8601": "2018-02-23T21:15:00Z"
+        },
+        "updated_at": {
+            "unix": 1519420500,
+            "text": "2018-02-23 21:15:00 +0000",
+            "iso_8601": "2018-02-23T21:15:00Z"
+        },
+        "subject": "Central Bank Monitor: Powell testifies to lawmakers; ECB mins give little insight into sequencing; BOJ foreign bond buys floated again; BOC inflation firming",
+        "content": "<p>&bull; FED: Fed chair Powell&rsquo;s testimonies eyed<br />&bull; ECB: Minutes give little insight into how sequencing will evolve<br />&bull; BOJ: Foreign bond buys floated again<br />&bull; BOC: Firming inflation nods to BOC rate hikes<br />&bull; RBA: Wages continue to underperform<br />&bull; RIKSBANK: More mixed messages</p>\r\n\r\n<p><strong><a href=\"https://ransquawk.com/research_sheets/18665/download\">Click here to download full report as pdf</a></strong></p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "central-bank-monitor-powell-testifies-to-lawmakers-ecb-mins-give-little-insight-into-sequencing-boj-foreign-bond-buys-floated-again-boc-inflation-firming-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-24 05:15:00",
+        "gmt_time": "2018-02-23 21:15:00"
+    },
+    {
+        "id": 611020,
+        "updated_sequence": 782912,
+        "published_at": {
+            "unix": 1519420320,
+            "text": "2018-02-23 21:12:00 +0000",
+            "iso_8601": "2018-02-23T21:12:00Z"
+        },
+        "updated_at": {
+            "unix": 1519420409,
+            "text": "2018-02-23 21:13:29 +0000",
+            "iso_8601": "2018-02-23T21:13:29Z"
+        },
+        "subject": "S&P: Russia Ratings Raised To 'BBB-/A-3' On Prudent Policy And Improved Monetary Transmission; Outlook Stable",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "s-p-russia-ratings-raised-to-bbb-a-3-on-prudent-policy-and-improved-monetary-transmission-outlook-stable-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 24,
+            "name": "Rating Agency comments"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-24 05:12:00",
+        "gmt_time": "2018-02-23 21:12:00"
+    },
+    {
+        "id": 611019,
+        "updated_sequence": 782909,
+        "published_at": {
+            "unix": 1519420140,
+            "text": "2018-02-23 21:09:00 +0000",
+            "iso_8601": "2018-02-23T21:09:00Z"
+        },
+        "updated_at": {
+            "unix": 1519420171,
+            "text": "2018-02-23 21:09:31 +0000",
+            "iso_8601": "2018-02-23T21:09:31Z"
+        },
+        "subject": "Fitch Affirms Russia at 'BBB-'; Outlook Positive",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "fitch-affirms-russia-at-bbb-outlook-positive-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 24,
+            "name": "Rating Agency comments"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-24 05:09:00",
+        "gmt_time": "2018-02-23 21:09:00"
+    },
+    {
+        "id": 611018,
+        "updated_sequence": 782906,
+        "published_at": {
+            "unix": 1519420080,
+            "text": "2018-02-23 21:08:00 +0000",
+            "iso_8601": "2018-02-23T21:08:00Z"
+        },
+        "updated_at": {
+            "unix": 1519420118,
+            "text": "2018-02-23 21:08:38 +0000",
+            "iso_8601": "2018-02-23T21:08:38Z"
+        },
+        "subject": "S&P: Turkey Ratings 'BB' Affirmed; Outlook Remains Negative",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "s-p-turkey-ratings-bb-affirmed-outlook-remains-negative-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 24,
+            "name": "Rating Agency comments"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-24 05:08:00",
+        "gmt_time": "2018-02-23 21:08:00"
+    },
+    {
+        "id": 611017,
+        "updated_sequence": 782903,
+        "published_at": {
+            "unix": 1519419600,
+            "text": "2018-02-23 21:00:00 +0000",
+            "iso_8601": "2018-02-23T21:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1519419824,
+            "text": "2018-02-23 21:03:44 +0000",
+            "iso_8601": "2018-02-23T21:03:44Z"
+        },
+        "subject": "US MARKET WRAP: Stocks jump in late trade  ",
+        "content": "<p><strong>EQUITIES: NDX +2% at 6897, SPX +1.61% at 2747, DJI +1.4% at 25311</strong></p>\r\n\r\n<p>Top sectors: Utilities +2.7%, Energy +2.2%, IT +2.2%</p>\r\n\r\n<p>Bottom sectors: +0.8%, Telecom +0.8%, Consumer Staples +1%</p>\r\n\r\n<p>The ES H8 contract was again in the 2700 to 2730 battleground (50d MA around 2730 in focus), remaining in positive territory throughout the course of the session, with utilities and staples doing a lot of the heavy lifting (all sectors were green). Late in the day, however, ES managed to find some impetus in quiet trade, rising out of that range towards session highs &ndash; with some chatter of a mini short squeeze &ndash; shaking-off the lethargy seen in recent afternoon trade. There wasn&rsquo;t a specific narrative behind Friday&rsquo;s equity gains, with many news outlets attributing the gains to Fed-related headlines, though that seems to be trying fit a narrative around the price action, rather than actually explaining the price action. Perhaps a more convincing explanation was the fall in US yields providing support (some models signal month-end Treasury buying). In stock specific news, HPE jumped after reporting earnings on Thursday, GIS was the laggard after announcing an $8bln deal to buy BUFF; in late trade, news that JWN family members were reportedly near finalising an offer to take the company private added a positive catalyst to equity trading. While stock trading has been choppy this week, ES finishes in the green (very slightly &ndash; and last week&rsquo;s highs haven&rsquo;t been meaningfully tested), though the range has been the narrowest in around six weeks.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>TREASURIES: US T-Note futures settle 10 ticks higher at 120-23+</strong></p>\r\n\r\n<p>Month-end flows were seen supporting the Treasury Complex, and yields were lower across the curve. Some pointed out that index extensions this month are large, which may be contributing to Treasury buying. Some were also attributing Treasury gains to jittery stock markets, although that narrative is challenged by the equity price action, which has hardly screamed &lsquo;panic&rsquo;. The complex will likely take its next cue from Fed chair Powell&rsquo;s testimony to Congress next week; fixed income traders will be looking for clues as to whether the Fed will raise its assessment of long-term rates, which could help the curve steepen.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>FOREX: DXY finishes the week green</strong></p>\r\n\r\n<p>The DXY closes out the week in positive territory, though didn&rsquo;t manage to stay above the 90.00 mark. On Friday the DXY was trading within a range (between c.89.80 to c.90.00, with unsustained breaches on both sides). Where the greenback goes from here will largely depend on the dual testimony of new Fed governor Powell before lawmakers (next Tuesday and Thursday). While analyst chatter is largely focussing on inflation, some are looking for clues as to whether the Fed will likely raise it&rsquo;s longer-term view of where the Federal Funds Rate will peak in the cycle (a higher &lsquo;peak&rsquo; rate will help a steepening of the curve, which may lend to dollar strength, the theory goes).</p>\r\n\r\n<p>Other majors were also trading range-bound, unswayed by central bank speak from the Fed and ECB. GBP mostly looked through Brexit headlines (which again hint at difficulties in negotiations &ndash; next week&rsquo;s Brexit speech from PM May is eyed, as well as EU&rsquo;s Tusk coming to London). There was a mini flash crash in the pound that got some attention in pre-US trade (around 65 pips); although no convincing narrative has been put forward, thin liquidity around the 11am fix was cited, where 700mln GBP was put through on a single platform). Cable is flat just beneath 1.40, though trades with a positive bias vs the EUR (general weak EUR day).</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>CRUDE: WTI futures settle 78 cents higher at $63.55 per barrel; Brent futures settle 92 cents higher at $67.31 per barrel</strong></p>\r\n\r\n<p>Crude ends Friday on a firm footing, with CLc1 finishing green for the seventh straight session (according to Rtrs pricing, which differs slightly from daily settlement prices), capping another strong week for the crude complex (second week of gains). Today&rsquo;s theme picks up from Thursday&rsquo;s price action, where OPEC+ commentary was finally corroborated by weekly inventory data, though US production levels and export levels continued to be cautiously eyed by traders. There was further OPEC jawboning today, with Saudi&rsquo;s energy minister once again arguing that oil markets were rebalancing, and he sees inventories continuing to fall through the course of 2018. Elsewhere, Libya&rsquo;s El Feel oilfield (70k BPD) was shutdown, contributing to the bullish price action.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "us-market-wrap-stocks-jump-in-late-trade-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-24 05:00:00",
+        "gmt_time": "2018-02-23 21:00:00"
+    },
+    {
+        "id": 611016,
+        "updated_sequence": 782900,
+        "published_at": {
+            "unix": 1519419000,
+            "text": "2018-02-23 20:50:00 +0000",
+            "iso_8601": "2018-02-23T20:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1519419268,
+            "text": "2018-02-23 20:54:28 +0000",
+            "iso_8601": "2018-02-23T20:54:28Z"
+        },
+        "subject": "Fed's Williams (Voter) sees inflation picking up in the next year or two as transitory factors fade",
+        "content": "<p>- Says fed guidance is for gradual rate hikes, which he expects, notes if inflation came in stronger than expected his view on policy would be reassessed</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "fed-s-williams-voter-sees-inflation-picking-up-in-the-next-year-or-two-as-transitory-factors-fade-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 18,
+            "name": "Fed"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-24 04:50:00",
+        "gmt_time": "2018-02-23 20:50:00"
+    },
+    {
+        "id": 611015,
+        "updated_sequence": 782894,
+        "published_at": {
+            "unix": 1519418700,
+            "text": "2018-02-23 20:45:00 +0000",
+            "iso_8601": "2018-02-23T20:45:00Z"
+        },
+        "updated_at": {
+            "unix": 1519418772,
+            "text": "2018-02-23 20:46:12 +0000",
+            "iso_8601": "2018-02-23T20:46:12Z"
+        },
+        "subject": "Fed’s Williams (Voter) states to keep the expansion going we must not let the economy overheat, labour market looks very strong, seeing a pick-up in wage growth",
+        "content": "<p>says US economy is improving in all sectors&nbsp;</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "fed-s-williams-voter-states-to-keep-the-expansion-going-we-must-not-let-the-economy-overheat-labour-market-looks-very-strong-seeing-a-pick-up-in-wage-growth-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 18,
+            "name": "Fed"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-24 04:45:00",
+        "gmt_time": "2018-02-23 20:45:00"
+    },
+    {
+        "id": 611001,
+        "updated_sequence": 782885,
+        "published_at": {
+            "unix": 1519416000,
+            "text": "2018-02-23 20:00:00 +0000",
+            "iso_8601": "2018-02-23T20:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1519416000,
+            "text": "2018-02-23 20:00:00 +0000",
+            "iso_8601": "2018-02-23T20:00:00Z"
+        },
+        "subject": "RANsquawk Week in Focus: 26th February - 2nd March 2018 -- Now available in the Research Suite",
+        "content": "<p>PLEASE CLICK <a href=\"/research_sheets/18666/download\">HERE</a> FOR THE FULL REPORT</p>\r\n\r\n<ul><li>Fed Chair Powell delivers semi-annual testimony to Congress</li>\r\n  <li>Buildup to the Italian election and SPD coalition vote results</li>\r\n  <li>Theresa May to present the UK&#39;s vision for Brexit</li>\r\n</ul>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>If you would like to subscribe to receive the research sheets directly in your inbox, you can now do so under the&nbsp;<a href=\"https://ransquawk.com/research_sheets\">Research Suite</a>&nbsp;section of the portal.</p>\r\n\r\n<p>To subscribe simply check the box next to &ldquo;Email me these reports&rdquo; under the desired category.</p>\r\n\r\n<p>If you are seeing &quot;Loading Subscription Status&quot; instead of &quot;Email me these reports&quot; please try clearing you cache (CTRL+F5) and restarting your browser.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "ransquawk-week-in-focus-26th-february-2nd-march-2018-now-available-in-the-research-suite-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-24 04:00:00",
+        "gmt_time": "2018-02-23 20:00:00"
+    },
+    {
+        "id": 611014,
+        "updated_sequence": 782884,
+        "published_at": {
+            "unix": 1519415880,
+            "text": "2018-02-23 19:58:00 +0000",
+            "iso_8601": "2018-02-23T19:58:00Z"
+        },
+        "updated_at": {
+            "unix": 1519415947,
+            "text": "2018-02-23 19:59:07 +0000",
+            "iso_8601": "2018-02-23T19:59:07Z"
+        },
+        "subject": "Brent futures settle 92 cents higher at USD 67.31 per barrel",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "brent-futures-settle-92-cents-higher-at-usd-67-31-per-barrel-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 20,
+            "name": "Commodities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-24 03:58:00",
+        "gmt_time": "2018-02-23 19:58:00"
+    },
+    {
+        "id": 611013,
+        "updated_sequence": 782881,
+        "published_at": {
+            "unix": 1519415460,
+            "text": "2018-02-23 19:51:00 +0000",
+            "iso_8601": "2018-02-23T19:51:00Z"
+        },
+        "updated_at": {
+            "unix": 1519415494,
+            "text": "2018-02-23 19:51:34 +0000",
+            "iso_8601": "2018-02-23T19:51:34Z"
+        },
+        "subject": "ECB's Coeure is not eager to engage in \"early normalisation\"",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "ecb-s-coeure-is-not-eager-to-engage-in-early-normalisation-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 17,
+            "name": "ECB"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-24 03:51:00",
+        "gmt_time": "2018-02-23 19:51:00"
+    },
+    {
+        "id": 611012,
+        "updated_sequence": 782878,
+        "published_at": {
+            "unix": 1519414260,
+            "text": "2018-02-23 19:31:00 +0000",
+            "iso_8601": "2018-02-23T19:31:00Z"
+        },
+        "updated_at": {
+            "unix": 1519414340,
+            "text": "2018-02-23 19:32:20 +0000",
+            "iso_8601": "2018-02-23T19:32:20Z"
+        },
+        "subject": "WTI futures settle 78 cents higher at $63.55 per barrel",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<p>Crude ends Friday on a firm footing, with CLc1 finishing green for the seventh straight session (according to Rtrs pricing, which differs slightly from daily settlement prices), capping another strong week for the crude complex (second week of gains). Today&rsquo;s theme picks up from Thursday&rsquo;s price action, where OPEC+ commentary was finally corroborated by weekly inventory data, though US production levels and export levels continued to be cautiously eyed by traders. There was further OPEC jawboning today, with Saudi&rsquo;s energy minister once again arguing that oil markets were rebalancing, and he sees inventories continuing to fall through the course of 2018. Elsewhere, Libya&rsquo;s El Feel oilfield (70k BPD) was shutdown, contributing to the bullish price action.</p>\r\n",
+        "analysis_updated_at": {
+            "unix": 1519414339,
+            "text": "2018-02-23 19:32:19 +0000",
+            "iso_8601": "2018-02-23T19:32:19Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "wti-futures-settle-78-cents-higher-at-63-55-per-barrel-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 20,
+            "name": "Commodities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-24 03:31:00",
+        "gmt_time": "2018-02-23 19:31:00"
+    },
+    {
+        "id": 611011,
+        "updated_sequence": 782875,
+        "published_at": {
+            "unix": 1519413600,
+            "text": "2018-02-23 19:20:00 +0000",
+            "iso_8601": "2018-02-23T19:20:00Z"
+        },
+        "updated_at": {
+            "unix": 1519413821,
+            "text": "2018-02-23 19:23:41 +0000",
+            "iso_8601": "2018-02-23T19:23:41Z"
+        },
+        "subject": "Nordstrom (JWN) - family members are reportedly near finalising its offer to take the co. private",
+        "content": "",
+        "reaction_details": "<p>- In an immediate reaction JWN shares rose from USD 52.50 to USD 52.10</p>\r\n\r\n<p>-&nbsp; Kohls (KSS) &amp; Macy&#39;s (M) shares also ticked higher on the back of this story&nbsp;</p>\r\n",
+        "reaction_updated_at": {
+            "unix": 1519413821,
+            "text": "2018-02-23 19:23:41 +0000",
+            "iso_8601": "2018-02-23T19:23:41Z"
+        },
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "nordstrom-jwn-family-members-are-reportedly-near-finalising-its-offer-to-take-the-co-private-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-24 03:20:00",
+        "gmt_time": "2018-02-23 19:20:00"
+    },
+    {
+        "id": 611010,
+        "updated_sequence": 782869,
+        "published_at": {
+            "unix": 1519411260,
+            "text": "2018-02-23 18:41:00 +0000",
+            "iso_8601": "2018-02-23T18:41:00Z"
+        },
+        "updated_at": {
+            "unix": 1519411280,
+            "text": "2018-02-23 18:41:20 +0000",
+            "iso_8601": "2018-02-23T18:41:20Z"
+        },
+        "subject": "EU’s Tusk is afraid the UK position at the moment is based on pure illusion ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "eu-s-tusk-is-afraid-the-uk-position-at-the-moment-is-based-on-pure-illusion-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 38,
+            "name": "Brexit"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-24 02:41:00",
+        "gmt_time": "2018-02-23 18:41:00"
+    },
+    {
+        "id": 611009,
+        "updated_sequence": 782887,
+        "published_at": {
+            "unix": 1519410840,
+            "text": "2018-02-23 18:34:00 +0000",
+            "iso_8601": "2018-02-23T18:34:00Z"
+        },
+        "updated_at": {
+            "unix": 1519416201,
+            "text": "2018-02-23 20:03:21 +0000",
+            "iso_8601": "2018-02-23T20:03:21Z"
+        },
+        "subject": "ECB's Coeure notes more purchases become less necessary to contain the term premium at low levels as the current share of the Bund free float constituting to only a small amount of the total outstanding ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "ecb-s-coeure-notes-more-purchases-become-less-necessary-to-contain-the-term-premium-at-low-levels-as-the-current-share-of-the-bund-free-float-constituting-to-only-a-small-amount-of-the-total-outstanding-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 17,
+            "name": "ECB"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-24 02:34:00",
+        "gmt_time": "2018-02-23 18:34:00"
+    },
+    {
+        "id": 611008,
+        "updated_sequence": 782866,
+        "published_at": {
+            "unix": 1519410720,
+            "text": "2018-02-23 18:32:00 +0000",
+            "iso_8601": "2018-02-23T18:32:00Z"
+        },
+        "updated_at": {
+            "unix": 1519411026,
+            "text": "2018-02-23 18:37:06 +0000",
+            "iso_8601": "2018-02-23T18:37:06Z"
+        },
+        "subject": "Fed's Mester (Voter, Hawk) says economic expansion is in place, labour markets are strong and sees inflation rising to 2%; adds it may be time to review the Fed's monetary policy framework",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "fed-s-mester-voter-hawk-says-economic-expansion-is-in-place-labour-markets-are-strong-and-sees-inflation-rising-to-2-adds-it-may-be-time-to-review-the-fed-s-monetary-policy-framework-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 18,
+            "name": "Fed"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-24 02:32:00",
+        "gmt_time": "2018-02-23 18:32:00"
+    },
+    {
+        "id": 611007,
+        "updated_sequence": 782858,
+        "published_at": {
+            "unix": 1519409940,
+            "text": "2018-02-23 18:19:00 +0000",
+            "iso_8601": "2018-02-23T18:19:00Z"
+        },
+        "updated_at": {
+            "unix": 1519409956,
+            "text": "2018-02-23 18:19:16 +0000",
+            "iso_8601": "2018-02-23T18:19:16Z"
+        },
+        "subject": "EU’s Tusk says we have guidelines ready to start negotiations about future relations after Brexit whether the U.K. ready with its vision or not ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "eu-s-tusk-says-we-have-guidelines-ready-to-start-negotiations-about-future-relations-after-brexit-whether-the-u-k-ready-with-its-vision-or-not-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 38,
+            "name": "Brexit"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-24 02:19:00",
+        "gmt_time": "2018-02-23 18:19:00"
+    },
+    {
+        "id": 611006,
+        "updated_sequence": 782855,
+        "published_at": {
+            "unix": 1519409640,
+            "text": "2018-02-23 18:14:00 +0000",
+            "iso_8601": "2018-02-23T18:14:00Z"
+        },
+        "updated_at": {
+            "unix": 1519409681,
+            "text": "2018-02-23 18:14:41 +0000",
+            "iso_8601": "2018-02-23T18:14:41Z"
+        },
+        "subject": "EU’s Tusk says EU budget is being decided with Brexit in mind",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "eu-s-tusk-says-eu-budget-is-being-decided-with-brexit-in-mind-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 38,
+            "name": "Brexit"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-24 02:14:00",
+        "gmt_time": "2018-02-23 18:14:00"
+    },
+    {
+        "id": 611002,
+        "updated_sequence": 782835,
+        "published_at": {
+            "unix": 1519408500,
+            "text": "2018-02-23 17:55:00 +0000",
+            "iso_8601": "2018-02-23T17:55:00Z"
+        },
+        "updated_at": {
+            "unix": 1519408608,
+            "text": "2018-02-23 17:56:48 +0000",
+            "iso_8601": "2018-02-23T17:56:48Z"
+        },
+        "subject": "CNBC's Najarian notes unusual options activity for Lowe's (LOW) and BlackBerry (BB)",
+        "content": "",
+        "reaction_details": "<p>Both stocks jumping on the mention</p>\r\n",
+        "reaction_updated_at": {
+            "unix": 1519408560,
+            "text": "2018-02-23 17:56:00 +0000",
+            "iso_8601": "2018-02-23T17:56:00Z"
+        },
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "CNBC",
+        "slug": "cnbc-s-najarian-notes-unusual-options-activity-for-lowe-s-low-and-blackberry-bb-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-24 01:55:00",
+        "gmt_time": "2018-02-23 17:55:00"
+    },
+    {
+        "id": 610980,
+        "updated_sequence": 782824,
+        "published_at": {
+            "unix": 1519405200,
+            "text": "2018-02-23 17:00:00 +0000",
+            "iso_8601": "2018-02-23T17:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1519405332,
+            "text": "2018-02-23 17:02:12 +0000",
+            "iso_8601": "2018-02-23T17:02:12Z"
+        },
+        "subject": "RANsquawk Weekly US Earnings Estimates - 26th February – 2nd March 2018",
+        "content": "<p>PLEASE CLICK <a href=\"/research_sheets/18662/download\">HERE</a> FOR THE FULL REPORT</p>\r\n\r\n<ul><li>Monday: SBA Communications, ONEOK, Ctrip</li>\r\n  <li>Tuesday: American Tower, Express Scripts, Broadcom, Booking Holdings, EOG Resources</li>\r\n  <li>Wednesday: Lowe&#39;s, Mylan, Analog Devices, TJX, Sempra Energy, Monster Beverage, Salesforce</li>\r\n  <li>Thursday: Best Buy</li>\r\n  <li>Friday: JD.com</li>\r\n</ul>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>If you would like to subscribe to receive the research sheets directly in your inbox, you can now do so under the&nbsp;<a href=\"https://ransquawk.com/research_sheets\">Research Suite</a>&nbsp;section of the portal.</p>\r\n\r\n<p>To subscribe simply check the box next to &ldquo;Email me these reports&rdquo; under the desired category.</p>\r\n\r\n<p>If you are seeing &quot;Loading Subscription Status&quot; instead of &quot;Email me these reports&quot; please try clearing you cache (CTRL+F5) and restarting your browser.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "ransquawk-weekly-us-earnings-estimates-26th-february-2nd-march-2018-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-24 01:00:00",
+        "gmt_time": "2018-02-23 17:00:00"
+    },
+    {
+        "id": 610999,
+        "updated_sequence": 782822,
+        "published_at": {
+            "unix": 1519405200,
+            "text": "2018-02-23 17:00:00 +0000",
+            "iso_8601": "2018-02-23T17:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1519405309,
+            "text": "2018-02-23 17:01:49 +0000",
+            "iso_8601": "2018-02-23T17:01:49Z"
+        },
+        "subject": "UK PM May is said to propose blurring her Brexit redline on the European Court of Justice and is said to mull signing up to EU regulators for key industries ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "uk-pm-may-is-said-to-propose-blurring-her-brexit-redline-on-the-european-court-of-justice-and-is-said-to-mull-signing-up-to-eu-regulators-for-key-industries-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 38,
+            "name": "Brexit"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-24 01:00:00",
+        "gmt_time": "2018-02-23 17:00:00"
+    },
+    {
+        "id": 610998,
+        "updated_sequence": 782816,
+        "published_at": {
+            "unix": 1519404600,
+            "text": "2018-02-23 16:50:00 +0000",
+            "iso_8601": "2018-02-23T16:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1519404768,
+            "text": "2018-02-23 16:52:48 +0000",
+            "iso_8601": "2018-02-23T16:52:48Z"
+        },
+        "subject": "US Treasury Secretary Mnuchin stated Russia and China have traded with North Korea and the US is working actively with both countries",
+        "content": "",
+        "reaction_details": "<p>Immediate reaction: downtick in USD/RUB from 56.379 to 56.245</p>\r\n",
+        "reaction_updated_at": {
+            "unix": 1519404768,
+            "text": "2018-02-23 16:52:48 +0000",
+            "iso_8601": "2018-02-23T16:52:48Z"
+        },
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-treasury-secretary-mnuchin-stated-russia-and-china-have-traded-with-north-korea-and-the-us-is-working-actively-with-both-countries-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 23,
+            "name": "Geopolitical"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-24 00:50:00",
+        "gmt_time": "2018-02-23 16:50:00"
+    },
+    {
+        "id": 610997,
+        "updated_sequence": 782809,
+        "published_at": {
+            "unix": 1519404120,
+            "text": "2018-02-23 16:42:00 +0000",
+            "iso_8601": "2018-02-23T16:42:00Z"
+        },
+        "updated_at": {
+            "unix": 1519404256,
+            "text": "2018-02-23 16:44:16 +0000",
+            "iso_8601": "2018-02-23T16:44:16Z"
+        },
+        "subject": "RANsquawk sources note vague chatter that Allergan (AGN) may be considering a split into two – unconfirmed ",
+        "content": "",
+        "reaction_details": "<p>Uptick in share prices from USD 161.63 to USD 162.48</p>\r\n",
+        "reaction_updated_at": {
+            "unix": 1519404255,
+            "text": "2018-02-23 16:44:15 +0000",
+            "iso_8601": "2018-02-23T16:44:15Z"
+        },
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "ransquawk-sources-note-vague-chatter-that-allergan-agn-may-be-considering-a-split-into-two-unconfirmed-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": "'Newsquawk source' - Signifies information that has not been formally tested through traditional journalistic channels and therefore is to be treated as unsubstantiated. Any interpretation of this information is taken at the reader’s own risk and is a representation of the rumours within the market place and never generated by ourselves",
+        "rumour": true,
+        "hk_time": "2018-02-24 00:42:00",
+        "gmt_time": "2018-02-23 16:42:00"
+    },
+    {
+        "id": 610996,
+        "updated_sequence": 782811,
+        "published_at": {
+            "unix": 1519403820,
+            "text": "2018-02-23 16:37:00 +0000",
+            "iso_8601": "2018-02-23T16:37:00Z"
+        },
+        "updated_at": {
+            "unix": 1519404524,
+            "text": "2018-02-23 16:48:44 +0000",
+            "iso_8601": "2018-02-23T16:48:44Z"
+        },
+        "subject": "Daimler (DAI GY) – China’s Geely is said to be building a 10% stake in the co., worth USD 9bln ",
+        "content": "",
+        "reaction_details": "<p>Uptick in share prices from USD&nbsp;21.69 to USD&nbsp;22.79</p>\r\n",
+        "reaction_updated_at": {
+            "unix": 1519404120,
+            "text": "2018-02-23 16:42:00 +0000",
+            "iso_8601": "2018-02-23T16:42:00Z"
+        },
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daimler-dai-gy-china-s-geely-is-said-to-be-building-a-10-stake-in-the-co-worth-usd-9bln-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 34,
+            "name": "Global Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-24 00:37:00",
+        "gmt_time": "2018-02-23 16:37:00"
+    },
+    {
+        "id": 610995,
+        "updated_sequence": 782799,
+        "published_at": {
+            "unix": 1519403460,
+            "text": "2018-02-23 16:31:00 +0000",
+            "iso_8601": "2018-02-23T16:31:00Z"
+        },
+        "updated_at": {
+            "unix": 1519403650,
+            "text": "2018-02-23 16:34:10 +0000",
+            "iso_8601": "2018-02-23T16:34:10Z"
+        },
+        "subject": "EUROPEAN PRELIMINARY CASH EQUITY CLOSE: EURO STOXX 50 (+0.17%), FTSE 100 (-0.13%), DAX (+0.19%), CAC (-0.04%), IBEX (-0.34%), FTSE MIB (-0.81%), SMI (-0.21%) ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "european-preliminary-cash-equity-close-euro-stoxx-50-0-17-ftse-100-0-13-dax-0-19-cac-0-04-ibex-0-34-ftse-mib-0-81-smi-0-21-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 33,
+            "name": "European Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-24 00:31:00",
+        "gmt_time": "2018-02-23 16:31:00"
+    },
+    {
+        "id": 610994,
+        "updated_sequence": 782796,
+        "published_at": {
+            "unix": 1519402620,
+            "text": "2018-02-23 16:17:00 +0000",
+            "iso_8601": "2018-02-23T16:17:00Z"
+        },
+        "updated_at": {
+            "unix": 1519402724,
+            "text": "2018-02-23 16:18:44 +0000",
+            "iso_8601": "2018-02-23T16:18:44Z"
+        },
+        "subject": "New York Fed GDP Nowcast 2018 (Q1) 3.1% (Prev. 3.1%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "new-york-fed-gdp-nowcast-2018-q1-3-1-prev-3-1-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-24 00:17:00",
+        "gmt_time": "2018-02-23 16:17:00"
+    },
+    {
+        "id": 610993,
+        "updated_sequence": 782793,
+        "published_at": {
+            "unix": 1519402380,
+            "text": "2018-02-23 16:13:00 +0000",
+            "iso_8601": "2018-02-23T16:13:00Z"
+        },
+        "updated_at": {
+            "unix": 1519402432,
+            "text": "2018-02-23 16:13:52 +0000",
+            "iso_8601": "2018-02-23T16:13:52Z"
+        },
+        "subject": "BMW (BMW) is said to admit diesel software to German KBA",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Spiegel",
+        "slug": "bmw-bmw-is-said-to-admit-diesel-software-to-german-kba-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 33,
+            "name": "European Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-24 00:13:00",
+        "gmt_time": "2018-02-23 16:13:00"
+    },
+    {
+        "id": 610992,
+        "updated_sequence": 782790,
+        "published_at": {
+            "unix": 1519401600,
+            "text": "2018-02-23 16:00:00 +0000",
+            "iso_8601": "2018-02-23T16:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1519401788,
+            "text": "2018-02-23 16:03:08 +0000",
+            "iso_8601": "2018-02-23T16:03:08Z"
+        },
+        "subject": "Fed says economic strength will warrant further gradual hikes with majority expecting inflation to move closer to 2% this year, labour market in early 2018 appears to be near or little beyond full employment ",
+        "content": "<p>- Elevated valuation pressures across a range of assets even after accounting for tax cuts and the current treasury yields</p>\r\n",
+        "reaction_details": "<p>Little in the way of a sustained reaction seen across US asset classes with the report adding little in the way of new information following Wednesday&rsquo;s minutes release</p>\r\n",
+        "reaction_updated_at": {
+            "unix": 1519401720,
+            "text": "2018-02-23 16:02:00 +0000",
+            "iso_8601": "2018-02-23T16:02:00Z"
+        },
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": true,
+        "source": "Newswires",
+        "slug": "fed-says-economic-strength-will-warrant-further-gradual-hikes-with-majority-expecting-inflation-to-move-closer-to-2-this-year-labour-market-in-early-2018-appears-to-be-near-or-little-beyond-full-employment-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 18,
+            "name": "Fed"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-24 00:00:00",
+        "gmt_time": "2018-02-23 16:00:00"
+    },
+    {
+        "id": 610991,
+        "updated_sequence": 782782,
+        "published_at": {
+            "unix": 1519401180,
+            "text": "2018-02-23 15:53:00 +0000",
+            "iso_8601": "2018-02-23T15:53:00Z"
+        },
+        "updated_at": {
+            "unix": 1519401257,
+            "text": "2018-02-23 15:54:17 +0000",
+            "iso_8601": "2018-02-23T15:54:17Z"
+        },
+        "subject": "Fitch Downgrades Brazil to 'BB-', outlook stable",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "fitch-downgrades-brazil-to-bb-outlook-stable-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 24,
+            "name": "Rating Agency comments"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-23 23:53:00",
+        "gmt_time": "2018-02-23 15:53:00"
+    },
+    {
+        "id": 610990,
+        "updated_sequence": 782779,
+        "published_at": {
+            "unix": 1519400520,
+            "text": "2018-02-23 15:42:00 +0000",
+            "iso_8601": "2018-02-23T15:42:00Z"
+        },
+        "updated_at": {
+            "unix": 1519400706,
+            "text": "2018-02-23 15:45:06 +0000",
+            "iso_8601": "2018-02-23T15:45:06Z"
+        },
+        "subject": "Fed's Dudley and Rosengren both continue to speak about the efficacy of asset purchases as a monetary policy tool without suggesting that any bond buys are imminent but that they would be useful if there is a future crisis",
+        "content": "<p>- Dudley added that inflation expectations could fall if the Fed is seen as out of tools.&nbsp;</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires/RANsquawk",
+        "slug": "fed-s-dudley-and-rosengren-both-continue-to-speak-about-the-efficacy-of-asset-purchases-as-a-monetary-policy-tool-without-suggesting-that-any-bond-buys-are-imminent-but-that-they-would-be-useful-if-there-is-a-future-crisis-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 18,
+            "name": "Fed"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-23 23:42:00",
+        "gmt_time": "2018-02-23 15:42:00"
+    },
+    {
+        "id": 610989,
+        "updated_sequence": 782776,
+        "published_at": {
+            "unix": 1519400400,
+            "text": "2018-02-23 15:40:00 +0000",
+            "iso_8601": "2018-02-23T15:40:00Z"
+        },
+        "updated_at": {
+            "unix": 1519400555,
+            "text": "2018-02-23 15:42:35 +0000",
+            "iso_8601": "2018-02-23T15:42:35Z"
+        },
+        "subject": "Visa (V) reportedly wins card fee dispute in London with Sainsbury's, court finds interchange fees not a violation of EU law",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "visa-v-reportedly-wins-card-fee-dispute-in-london-with-sainsbury-s-court-finds-interchange-fees-not-a-violation-of-eu-law-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 34,
+            "name": "Global Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-23 23:40:00",
+        "gmt_time": "2018-02-23 15:40:00"
+    },
+    {
+        "id": 610986,
+        "updated_sequence": 782763,
+        "published_at": {
+            "unix": 1519399500,
+            "text": "2018-02-23 15:25:00 +0000",
+            "iso_8601": "2018-02-23T15:25:00Z"
+        },
+        "updated_at": {
+            "unix": 1519399577,
+            "text": "2018-02-23 15:26:17 +0000",
+            "iso_8601": "2018-02-23T15:26:17Z"
+        },
+        "subject": "FX Weekly Wrap – big Central Bank focus amidst broad Usd comeback",
+        "content": "<p>A hectic week mainly dominated by Central Bank events along with some top tier data, while the Usd has staged a broad recovery with the DXY rebounding further from multi-year lows around 88.250 last week to 90.000+ at one stage?. RBA minutes did not offer any new policy clues, leaving Aud/Usd to back off further from 0.7900, especially after the more hawkish FOMC account of January&rsquo;s policy meet that gave the Greenback the extra push to test chart resistance around 90.500-600. BoE testimony to the TSC essentially underlined the shift in guidance towards somewhat earlier tightening and by somewhat more than anticipated at the November QIR, but Cable struggled to clear 1.4000 (21DMA at 1.4007). ECB minutes reiterated growing confidence in the economic and inflation outlook, but also risks related to Eur strength that implies no change in guidance before March at the earliest, even though some members favoured dropping the easing bias &ndash; Eur/Usd hovering around 1.2300. Riksbank minutes were decidedly cautious/dovish and Eur/Sek spiked as a result, Krona extending losses made on weaker than forecast Swedish inflation data. Usd/Cad down sharply from Thursday&rsquo;s post-weak Canadian retail sales highs (1.2773, fresh 2018 peak) with the immediate spike lower post-firm CPI unable to sustain a move further to the downside in the pair. Nzd undermined by cross buying through 1.0700 vs Aud and testing bids around 0.7300 vs the Usd after strong headline NZ retail sales data, but a less upbeat breakdown.&nbsp; &nbsp;&nbsp;</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "fx-weekly-wrap-big-central-bank-focus-amidst-broad-usd-comeback-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-23 23:25:00",
+        "gmt_time": "2018-02-23 15:25:00"
+    },
+    {
+        "id": 610984,
+        "updated_sequence": 782760,
+        "published_at": {
+            "unix": 1519398780,
+            "text": "2018-02-23 15:13:00 +0000",
+            "iso_8601": "2018-02-23T15:13:00Z"
+        },
+        "updated_at": {
+            "unix": 1519398972,
+            "text": "2018-02-23 15:16:12 +0000",
+            "iso_8601": "2018-02-23T15:16:12Z"
+        },
+        "subject": "Volkswagen (VOW3 GY) FY revenues EUR 230.7bln vs. Exp. EUR 230.86bln and FY adj. operating profit EUR 17bln vs. Exp. EUR 17.29bln",
+        "content": "",
+        "reaction_details": "<p>- In an immediate reaction VOW3 GY shares fell from EUR 164.00 to EUR 161.24</p>\r\n",
+        "reaction_updated_at": {
+            "unix": 1519398971,
+            "text": "2018-02-23 15:16:11 +0000",
+            "iso_8601": "2018-02-23T15:16:11Z"
+        },
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "volkswagen-vow3-gy-fy-revenues-eur-230-7bln-vs-exp-eur-230-86bln-and-fy-adj-operating-profit-eur-17bln-vs-exp-eur-17-29bln-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 1,
+            "name": "DAX"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-23 23:13:00",
+        "gmt_time": "2018-02-23 15:13:00"
+    },
+    {
+        "id": 610985,
+        "updated_sequence": 782756,
+        "published_at": {
+            "unix": 1519398720,
+            "text": "2018-02-23 15:12:00 +0000",
+            "iso_8601": "2018-02-23T15:12:00Z"
+        },
+        "updated_at": {
+            "unix": 1519398860,
+            "text": "2018-02-23 15:14:20 +0000",
+            "iso_8601": "2018-02-23T15:14:20Z"
+        },
+        "subject": "RANsquawk sources are hearing takeover chatter for National (FIZZ) - Unconfirmed ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "ransquawk-sources-are-hearing-takeover-chatter-for-national-fizz-unconfirmed-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-23 23:12:00",
+        "gmt_time": "2018-02-23 15:12:00"
+    },
+    {
+        "id": 610983,
+        "updated_sequence": 782750,
+        "published_at": {
+            "unix": 1519398000,
+            "text": "2018-02-23 15:00:00 +0000",
+            "iso_8601": "2018-02-23T15:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1519398159,
+            "text": "2018-02-23 15:02:39 +0000",
+            "iso_8601": "2018-02-23T15:02:39Z"
+        },
+        "subject": "PREVIEW: Fed’s MPR to be released at 11:00 ET/16:00 GMT ",
+        "content": "<p>Ahead of Fed chair Powell&rsquo;s dual-testimony before US lawmakers next week, the Fed&rsquo;s Monetary Policy Report will be released at 11:00 ET on Friday 23 February. Key points to note:</p>\r\n\r\n<p><strong>INFLATION: </strong></p>\r\n\r\n<p>- Previously, the Fed had categorised inflation weakness as &ldquo;transitory,&rdquo; (in his November confirmation hearing, Powell himself alluded to uncertainty regarding the path of inflation). However, the recent CPI data and average hourly earnings data both point to an acceleration in price pressures. The focus is on how Powell frames the recent firming.</p>\r\n\r\n<p>- UBS believes Powell will likely project increased confidence that inflation will rise to target this year.</p>\r\n\r\n<p>- The Fed&rsquo;s latest guidance (in its 31 January statement) states: &ldquo;On a 12-month basis, both overall inflation and inflation for items other than food and energy have continued to run below 2 percent. Market-based measures of inflation compensation have increased in recent months but remain low; survey-based measures of longer-term inflation expectations are little changed, on balance.&rdquo; Clearly this guidance is now stale in wake of recent developments.</p>\r\n\r\n<p><strong>PACE OF NORMALISATION:</strong></p>\r\n\r\n<p>- The insertion of the word &ldquo;further&rdquo; in the January statement has been interpreted as a hawkish signal that the Fed could hike rates more than forecast in December (in the December staff economic projections, the Fed pencilled in three hikes in 2018 &ndash; note, those December forecasts may be alluded to in the report, new forecasts are due in March).</p>\r\n\r\n<p>- SGH Macro Advisers says a clear majority of the FOMC, including its new Chairman, will want the optionality on the table of a potential fourth rate hike this year. But SGH believes that Powell and most of his Committee colleagues will not want to signal the fourth rate move as a given in either the testimony.</p>\r\n\r\n<p>- The Fed&rsquo;s current guidance (in its 31 January statement) states: &ldquo;The Committee expects that, with further gradual adjustments in the stance of monetary policy, economic activity will expand at a moderate pace and labor market conditions will remain strong&rdquo; and &ldquo;The Committee expects that economic conditions will evolve in a manner that will warrant further gradual increases in the federal funds rate; the federal funds rate is likely to remain, for some time, below levels that are expected to prevail in the longer run.&rdquo;</p>\r\n\r\n<p><strong>MARKET VOLATILITY: </strong></p>\r\n\r\n<p>- The recent market volatility has been attributed to inflationary pressures forcing traders to reprice their expectations of the Fed hiking cycle. After the FOMC&rsquo;s experience of the &lsquo;taper tantrum&rsquo; in 2013, it will be cautious about managing market expectations.</p>\r\n\r\n<p>- At his swearing-in ceremony Powell alluded to the recent market volatility, stating that the Fed will &ldquo;remain alert&rdquo; to any financial stability risks presented by market gyrations. Other FOMC members &ndash; Like Kaplan &ndash; have attributed the market moves as &ldquo;healthy&rdquo;</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "preview-fed-s-mpr-to-be-released-at-11-00-et-16-00-gmt-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-23 23:00:00",
+        "gmt_time": "2018-02-23 15:00:00"
+    },
+    {
+        "id": 610982,
+        "updated_sequence": 782747,
+        "published_at": {
+            "unix": 1519397220,
+            "text": "2018-02-23 14:47:00 +0000",
+            "iso_8601": "2018-02-23T14:47:00Z"
+        },
+        "updated_at": {
+            "unix": 1519397547,
+            "text": "2018-02-23 14:52:27 +0000",
+            "iso_8601": "2018-02-23T14:52:27Z"
+        },
+        "subject": "Eversource (ES) does not see the need to sell new stock because of tax overhaules",
+        "content": "<p>- the co. forecasts 5%-7% EPS growth with or without northern pass&nbsp;</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "eversource-es-does-not-see-the-need-to-sell-new-stock-because-of-tax-overhaules-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-23 22:47:00",
+        "gmt_time": "2018-02-23 14:47:00"
+    },
+    {
+        "id": 610981,
+        "updated_sequence": 782736,
+        "published_at": {
+            "unix": 1519395840,
+            "text": "2018-02-23 14:24:00 +0000",
+            "iso_8601": "2018-02-23T14:24:00Z"
+        },
+        "updated_at": {
+            "unix": 1519395904,
+            "text": "2018-02-23 14:25:04 +0000",
+            "iso_8601": "2018-02-23T14:25:04Z"
+        },
+        "subject": "Additional US Equity Stories - post the release of the US Equity Opening News ",
+        "content": "<p>Pinnacle West (PNW) Q4 EPS USD 0.19 vs Exp. USD 0.12, revenue USD 759.66mln vs Exp. USD 766.76mln, Raises consolidated EPS view for 2018. (Newswires)</p>\r\n\r\n<p>Pinnacle Entertainment (PNK) Q4 EPS USD 0.36 vs Exp. USD 0.13, revenue USD 620.8mln vs Exp. USD 636.9mln. (Newswires)</p>\r\n\r\n<p>Pfizer (PFE) &ndash; The pharmaceutical giant has received recommendation against expanding the use of Sutent. (Newswires)</p>\r\n\r\n<p>Citigroup (C) &ndash; The bank updated its tax changes to an impact of USD 22.6bln. (Newswires)</p>\r\n\r\n<p>General Electric (GE) &ndash; The co. has signed a USD 1bln framework agreement in Ukraine, it includes the supply of 30 GE Evolution Series freight locomotives to Ukrainian Railways. (Newswires)</p>\r\n\r\n<p>Amazon.com (AMZN) upgraded to Outperform from Peer Perform at Wolfe Research</p>\r\n\r\n<p>Chevron (CVX) upgraded to Neutral from Underperform at Exane BNP Paribas</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "additional-us-equity-stories-post-the-release-of-the-us-equity-opening-news-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-23 22:24:00",
+        "gmt_time": "2018-02-23 14:24:00"
+    },
+    {
+        "id": 610979,
+        "updated_sequence": 782722,
+        "published_at": {
+            "unix": 1519393680,
+            "text": "2018-02-23 13:48:00 +0000",
+            "iso_8601": "2018-02-23T13:48:00Z"
+        },
+        "updated_at": {
+            "unix": 1519393778,
+            "text": "2018-02-23 13:49:38 +0000",
+            "iso_8601": "2018-02-23T13:49:38Z"
+        },
+        "subject": "DAILY US EQUITY OPENING NEWS - General Mills (GIS) – The co. is to buy Blue Buffalo (BUFF) for USD 40/shr, equating to approximately USD 8bln in cash",
+        "content": "<p><strong>23<sup>rd</sup> February 2018</strong></p>\r\n\r\n<p><strong>EARNINGS</strong></p>\r\n\r\n<p>Acacia (ACIA) Q4 EPS USD 0.27 vs Exp. USD 0.25, revenue USD 86.6mln vs Exp. USD 88.42mln. (Newswires)</p>\r\n\r\n<p>Alliant Energy Corp (LNT) Q4 Adj. EPS USD 0.33 vs. Exp. USD 0.36, revenue USD 856mln vs. Exp. USD 896.9mln. (Newswires)</p>\r\n\r\n<p>Biomarin Pharmaceutical Inc (BMRN) Q4 Loss Per Share USD 0.30 vs. Exp. Loss per share USD 0.23, revenue USD 358.3mln vs. Exp. USD 350mln. (Newswires)</p>\r\n\r\n<p>Cabot Oil &amp; Gas Corp (COG) Q4 EPS USD 0.13 vs. Exp. USD 0.11, revenue USD 0.40bln vs. Exp. USD 0.43bln. (Newswires)</p>\r\n\r\n<p>Edison International (EIX) Q4 Core EPS USD 1.10 vs. Exp. USD 0.92, revenue USD 3.22bln vs. Exp. USD 3.05bln. (Newswires)</p>\r\n\r\n<p>Entergy Corp (ETR) Q4 EPS USD 0.76 vs. Exp. USD 0.46, revenue USD 2.20bln vs. Exp. USD 2.76bln. (Newswires)</p>\r\n\r\n<p>Eversource (ES) Q4 EPS USD 0.75 vs Exp. USD 0.75, revenue USD 1.895bln vs Exp. USD 1.88bln. (Newswires)</p>\r\n\r\n<p>Exact Sciences Corp. (EXAS) Q4 Loss per share USD 0.18 vs Exp. Loss per share USD 0.24, revenue USD 87.4mln vs Exp. USD 85.74mln. (Newswires)</p>\r\n\r\n<p>First Solar (FSLR) Q4 Adj. Loss per share USD 0.25 vs Exp. Loss per share USD 0.31, revenue USD 339mln vs Exp. USD 459.92mln. Boosts its EPS and revenue guidance. (Newswires)</p>\r\n\r\n<p>Herbalife (HLF) Q4 Adj. EPS USD 1.29 vs Exp. USD 0.96, revenue USD 1.1bln vs Exp. USD 1.08bln. (Newswires)</p>\r\n\r\n<p>Hewlett Packard Enterprise Co (HPE) Q4 Adj. EPS USD 0.34 vs. Exp. USD 0.22, revenue USD 7.7bln vs. Exp. USD 7.07bln. (Newswires)</p>\r\n\r\n<p>HP Inc (HPQ) Q4 EPS Adj. USD 0.48 vs. Exp. USD 0.42, revenue USD 14.5bln vs. Exp. USD 13.49bln. (Newswires)</p>\r\n\r\n<p>Huntsman (HUN) Q4 Adj. EPS USD 0.76 vs Exp. USD 0.66, revenue USD 2.2bln vs Exp. USD 2.1bln. (Newswires)</p>\r\n\r\n<p>Intuit Inc (INTU) Q4 Adj. EPS USD 0.35 vs. Exp. USD 0.34, revenue USD 1.17bln vs. Exp. USD 1.16bln. (Newswires)</p>\r\n\r\n<p>Leucadia (LUK) Q4 EPS Ex items USD 0.48 vs Exp. USD 0.47, revenue USD 2.94bln vs Exp. USD 2.91bln. (Newswires)</p>\r\n\r\n<p>LifePoint (LPNT) Q4 Adj. EPS USD 0.77 vs Exp. USD 0.83, revenue USD 1.49bln vs Exp. USD 1.58bln. (Newswires)</p>\r\n\r\n<p>Mercadolibre Inc (MELI) Q4 Loss Per Share USD 1.53 may not compare to Exp. EPS USD 0.51, revenue USD 437mln vs. Exp. USD 400mln. (Newswires)</p>\r\n\r\n<p>Planet Fitness (PLNT) Q4 Adj. EPS USD 0.24 vs Exp. USD 0.23, revenue USD 134mln vs Exp. USD 131.12mln, system wide SSS +11.6%. (Newswires)</p>\r\n\r\n<p>Public Service Enterprise Group Inc (PEG) Q4 EPS USD 0.57 vs. Exp. USD 0.56. (Newswires)</p>\r\n\r\n<p>Trade Desk (TTD) Q4 EPS USD 0.54 vs Exp. USD 0.43, revenue USD 102.6mln vs Exp. USD 1.1.7mln. (Newswires)</p>\r\n\r\n<p>Universal Display (OLED) Q4 EPS Ex-items USD 0.93 vs Exp. USD 0.85, revenue USD 115.9mln vs Exp. USD 100.02mln. (Newswires)</p>\r\n\r\n<p>Wingstop (WING) Q4 Adj. EPS USD 0.17 vs Exp. USD 0.16, revenue USD 28.3mln vs Exp. USD 27.56mln. (Newswires)</p>\r\n\r\n<p>Xcerra (XCRA) Q2 EPS USD 0.19 vs Exp. USD 0.17, revenue USD 110.3mln vs Exp. USD 106.8mln. (Newswires)</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>DJIA</strong></p>\r\n\r\n<p>Intel (INTC) &ndash; The chip giant did not tell the US about any flaws until it was made public, 6 months after Alphabet (GOOG) informed Intel of the issues. (Newswires)</p>\r\n\r\n<p>Merck (MRK) &ndash; The pharmaceutical giant and AstraZeneca (AZN) have received positive opinion from the EU CHMP on Lynparza. (Newswires)</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>S&amp;P500</strong></p>\r\n\r\n<p>General Mills (GIS) &ndash; The co. is to buy Blue Buffalo (BUFF) for USD 40/shr, equating to approximately USD 8bln in cash. Further, General Mills have said it can expand Blue Buffalo products to overseas. (CNBC)</p>\r\n\r\n<p>General Motors (GM) &ndash; The automaker has received help from South Korea to boost its local unit. Further, it is looking to cut benefits and wages in South Korea. (Nikkei / Newswires)</p>\r\n\r\n<p>Mallinckrodt (MNK) &ndash; The drug manufacturer received acceptance from the FDA for its New Drug Application of Stannsoporfin. (Newswires)</p>\r\n\r\n<p>Monsanto (MON) &ndash; The co. is requesting that Avaaz releases all its documents which the co. or its herbicides have been mentioned in. (Newswires)</p>\r\n\r\n<p>Sempra Energy (SRE) &ndash; The co. raised its annualised dividend by 9% to USD 3.58/shr. (Newswires)</p>\r\n\r\n<p>Schlumberger (SLB) &ndash; The co. is in talks with Subsea7 (SUBCY) to form an oil services joint venture. (Newswires)</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>NASDAQ 100</strong></p>\r\n\r\n<p>Amazon (AMZN) &ndash; The tech co. is poised to realise its ambitions as a sports broadcaster, should discussions with the Premier League&rsquo;s commercial bosses go the way it wants, according to sources. (Digiday)</p>\r\n\r\n<p>Amgen (AMGN) &ndash; The pharmaceutical co. announced it received a positive opinion from the CHMP for its Xgeva. (Newswires)</p>\r\n\r\n<p>Charter (CHTR) &ndash; The co. launched a new bundle called Choice, which costs USD 26/month. (Fierce Cable)</p>\r\n\r\n<p>Nvidia (NVDA) / AMD (AMD) &ndash; BofA Merril Lynch say to buy the companies on accelerating gaming and crypto trends. (BofA)</p>\r\n\r\n<p>Qualcomm (QCOM) / Broadcom (AVGO) &ndash; Institutional Shareholder Services have criticised Qualcomm saying they have failed to tell Broadcom what an acceptable offer may be. (Newswires)</p>\r\n\r\n<p>Tesla (TSLA) &ndash; The automaker has started to take orders for its Model 3 from first time reservation holders. (WSJ)</p>\r\n\r\n<p>JD.com (JD) &ndash; The co. is to pay USD 117mln for minority stakes in a Chinese retail chain, as well as Tencent (TCEHY) who will pay USD 140mln. (Newswires)</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>OTHER NEWS</strong></p>\r\n\r\n<p>Altaba (AABA) &ndash; JP Morgan raised its price target for the co. to USD 90 from USD 65. (Newswires)</p>\r\n\r\n<p>First Financial Bancorp (FFBC) / Main Source Financial (MSFG) &ndash; The two companies have been granted merger approval from the board of governors at the Federal Reserve. (Newswires)</p>\r\n\r\n<p>Manitowoc (MTW) &ndash; Carl Icahn has disclosed a 4.85% stake in the co. (Newswires)</p>\r\n\r\n<p>MiMedx (MDXG) &ndash; The co. has not reported any payments to more than 20 doctors. (WSJ)</p>\r\n\r\n<p>Sinclair Broadcast Group (SBGI) / Tribune acquisition (TRCO) &ndash; The US DoJ have hit a snag in the acquisition between the two companies. (Capital Forum)</p>\r\n\r\n<p>TheStreet (TST) &ndash; Tronc (TRNC) may be looking to acquire the co. (NY Post)</p>\r\n\r\n<p>Xcerra Corp. (XCRA) &ndash; US regulators have blocked the USD 580mln acquisition of Xcerra by a state backed Chinese fund, due to higher scrutiny of Chinese investments under US President Trump. (FT)</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>BROKER MOVES</strong></p>\r\n\r\n<p><strong>Upgrades</strong></p>\r\n\r\n<p>CONTINENTAL RESOURCES (CLR) UPGRADED TO BUY FROM HOLD AT KLR GROUP</p>\r\n\r\n<p>DEVON ENERGY (DVN) UPGRADED TO BUY FROM HOLD AT KLR GROUP</p>\r\n\r\n<p>EDISON INTERNATIONAL (EIX) UPGRADED TO BUY FROM NEUTRAL AT GUGGENHEIM</p>\r\n\r\n<p>FEDEX (FDX) UPGRADED TO OUTPERFORM FROM MARKET PERFORM AT BERNSTEIN</p>\r\n\r\n<p>FINANCIAL ENGINES (FNGN) UPGRADED TO OUTPERFORM FROM MARKET PERFORM AT WILLIAM BLAIR</p>\r\n\r\n<p>HUDSON PACIFIC (HPP) UPGRADED TO OUTPERFORM FROM MARKET PERFORM AT WELLS FARGO</p>\r\n\r\n<p>INTERDIGITAL (IDCC) UPGRADED TO BUY FROM NEUTRAL AT DOUGHERTY</p>\r\n\r\n<p>LENNAR (LEN) UPGRADED TO OUTPERFORM FROM IN LINE AT EVERCORE ISI</p>\r\n\r\n<p>OGE ENERGY (OGE) UPGRADED TO BUY FROM NEUTRAL AT BOFA/MERRILL</p>\r\n\r\n<p>SYNEOS HEALTH (SYNH) UPGRADED TO OUTPERFORM FROM MARKET PERFORM AT WELLS FARGO</p>\r\n\r\n<p>TENARIS (TS) UPGRADED TO OUTPERFORM FROM NEUTRAL AT CREDIT SUISSE</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>Downgrades</strong></p>\r\n\r\n<p>ACACIA COMMUNICATIONS (ACIA) DOWNGRADED TO HOLD FROM BUY AT DA DAVIDSON</p>\r\n\r\n<p>ACACIA COMMUNICATIONS (ACIA) DOWNGRADED TO HOLD FROM BUY AT NEEDHAM</p>\r\n\r\n<p>ACACIA COMMUNICATIONS (ACIA) DOWNGRADED TO NEUTRAL FROM BUY AT MKM PARTNERS</p>\r\n\r\n<p>AEGEAN MARINE (ANW) DOWNGRADED TO HOLD FROM BUY AT STIFEL</p>\r\n\r\n<p>ANIKA (ANIK) DOWNGRADED TO MARKET PERFORM FROM OUTPERFORM AT BARRINGTON</p>\r\n\r\n<p>ARDAGH GROUP (ARD) DOWNGRADED TO MARKET PERFORM FROM OUTPERFORM AT WELLS FARGO</p>\r\n\r\n<p>BRF S.A. (BRFS) DOWNGRADED TO HOLD FROM BUY AT BTG PACTUAL</p>\r\n\r\n<p>BRF S.A. (BRFS) DOWNGRADED TO NEUTRAL FROM OVERWEIGHT AT JPMORGAN</p>\r\n\r\n<p>BROOKDALE SENIOR (BKD) LIVING DOWNGRADED TO HOLD FROM BUY AT STIFEL</p>\r\n\r\n<p>COTIVITI (COTV) DOWNGRADED TO EQUAL-WEIGHT FROM OVERWEIGHT AT FIRST ANALYSIS</p>\r\n\r\n<p>ECHO GLOBAL (ECHO) DOWNGRADED TO UNDERWEIGHT FROM EQUAL WEIGHT AT MORGAN STANLEY</p>\r\n\r\n<p>EXACT SCIENCES (EXAS) DOWNGRADED TO HOLD FROM BUY AT BENCHMARK</p>\r\n\r\n<p>GOGO (GOGO) DOWNGRADED TO NEUTRAL FROM OVERWEIGHT AT JPMORGAN</p>\r\n\r\n<p>IOVANCE (IOVA) DOWNGRADED TO NEUTRAL FROM BUY AT B. RILEY FBR</p>\r\n\r\n<p>LENDINGCLUB (LC) DOWNGRADED TO NEUTRAL FROM BUY AT GUGGENHEIM</p>\r\n\r\n<p>LEXICON (LXRX) DOWNGRADED TO HOLD FROM BUY AT NEEDHAM</p>\r\n\r\n<p>MACQUARIE INFRASTRUCTURE (MIC) DOWNGRADED TO MARKET PERFORM AT WELLS FARGO</p>\r\n\r\n<p>QTS REALTY TRUST (QTS) DOWNGRADED TO HOLD FROM BUY AT JEFFERIES</p>\r\n\r\n<p>RED ROCK RESORTS (RRR) DOWNGRADED TO HOLD FROM BUY AT STIFEL</p>\r\n\r\n<p>TRI POINTE (TPH) DOWNGRADED TO IN LINE FROM OUTPERFORM AT EVERCORE ISI</p>\r\n\r\n<p>UPS (UPS) DOWNGRADED TO HOLD FROM BUY AT DEUTSCHE BANK</p>\r\n\r\n<p>WORKIVA (WK) DOWNGRADED TO MARKET PERFORM FROM OUTPERFORM AT RAYMOND JAMES</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>Initiations</strong></p>\r\n\r\n<p>ALBEMARLE (ALB) INITIATED WITH A BUY AT ARGUS; PT USD 148</p>\r\n\r\n<p>ALLERGAN (AGN) RATED NEW BUY AT SUNTRUST; PT USD 200</p>\r\n\r\n<p>BOSTON SCIENTIFIC ASSUMED WITH AN OVERWEIGHT AT PIPER JAFFRAY; PT USD 31</p>\r\n\r\n<p>CINEPLEX (CGX CN) RATED NEW BUY AT VERITAS; PT CAD 41</p>\r\n\r\n<p>CTI BIOPHARMA INITIATED WITH AN OUTPERFORM AT OPPENHEIMER; PT USD 5</p>\r\n\r\n<p>DASEKE (DSKE) INITIATED WITH A BUY AT BUCKINGHAM; PT USD 14</p>\r\n\r\n<p>IPIC ENTERTAINMENT (IPIC) RATED NEW OUTPERFORM AT TELSEY; PT USD 15.50</p>\r\n\r\n<p>MOMO ADRS (MOMO) RATED NEW BUY AT NEW STREET RESEARCH; PT USD 45</p>\r\n\r\n<p>MOTOROLA SOLUTIONS RESUMED WITH AN OUTPERFORM AT RAYMOND JAMES; PT USD 120</p>\r\n\r\n<p>NEW RELIC (NEWR) INITIATED WITH AN OUTPERFORM AT WEDBUSH; PT USD 86</p>\r\n\r\n<p>NRG ENERGY (NRG) RATED NEW BUY AT UBS; PT USD 33</p>\r\n\r\n<p>OKTA (OKTA) RATED NEW BUY AT DEUTSCHE BANK; PT USD 43</p>\r\n\r\n<p>ORCA GOLD (ORG CN) RATED NEW SPECULATIVE BUY AT PARADIGM CAPITAL</p>\r\n\r\n<p>SEAGATE (STX) RESUMED AT STIFEL WITH HOLD; PT USD 49</p>\r\n\r\n<p>SUN HYDRAULICS (SNHY) RATED NEW OUTPERFORM AT WILLIAM BLAIR</p>\r\n\r\n<p>TETRAPHASE (TTPH) RATED NEW SPECULATIVE BUY AT WBB SECURITIES; PT USD 6</p>\r\n\r\n<p>VISTRA ENERGY (VST) RATED NEW NEUTRAL AT UBS; PT USD 21</p>\r\n\r\n<p>WESTERN DIGITAL (WDC) RESUMED AT STIFEL WITH BUY; PT USD 105</p>\r\n\r\n<p>YY INC ADRS (YY) RATED NEW BUY AT NEW STREET RESEARCH; PT USD 180</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>Ex-Dividends</strong></p>\r\n\r\n<p>Assurant Inc (AIZ) - USD 0.56&nbsp;</p>\r\n\r\n<p>Ares Management LP (ARES) - USD 0.40&nbsp;</p>\r\n\r\n<p>Atmos Energy Corp (ATO) - USD 0.49&nbsp;</p>\r\n\r\n<p>CDW Corp (CDW) - USD 0.21&nbsp;</p>\r\n\r\n<p>Chemed Corp (CHE) - USD 0.28&nbsp;</p>\r\n\r\n<p>CNA Financial Corp (CNA) - USD 0.30&nbsp;</p>\r\n\r\n<p>Diebold Nixdorf Inc (DBD) - USD 0.10&nbsp;</p>\r\n\r\n<p>Equinix Inc (EQIX) - USD 2.28&nbsp;</p>\r\n\r\n<p>First Hawaiian Inc (FHB) - USD 0.24&nbsp;</p>\r\n\r\n<p>HNI Corp (HNI) - USD 0.29&nbsp;</p>\r\n\r\n<p>Live Oak Bancshares Inc (LOB) - USD 0.03&nbsp;</p>\r\n\r\n<p>Louisiana-Pacific Corp (LPX) - USD 0.13&nbsp;</p>\r\n\r\n<p>MKS Instruments Inc (MKSI) - USD 0.18&nbsp;</p>\r\n\r\n<p>Och-Ziff Capital Management Group LLC (OZM) - USD 0.07&nbsp;</p>\r\n\r\n<p>Piper Jaffray Companies (PJC) - USD 0.38&nbsp;</p>\r\n\r\n<p>Sherwin-Williams Co (SHW) - USD 0.86&nbsp;</p>\r\n\r\n<p>S&amp;P Global Inc (SPGI) - USD 0.50&nbsp;</p>\r\n\r\n<p>Tractor Supply Co (TSCO) - USD 0.27 &nbsp;</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "daily-us-equity-opening-news-general-mills-gis-the-co-is-to-buy-blue-buffalo-buff-for-usd-40-shr-equating-to-approximately-usd-8bln-in-cash-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-23 21:48:00",
+        "gmt_time": "2018-02-23 13:48:00"
+    },
+    {
+        "id": 610978,
+        "updated_sequence": 782717,
+        "published_at": {
+            "unix": 1519393620,
+            "text": "2018-02-23 13:47:00 +0000",
+            "iso_8601": "2018-02-23T13:47:00Z"
+        },
+        "updated_at": {
+            "unix": 1519393662,
+            "text": "2018-02-23 13:47:42 +0000",
+            "iso_8601": "2018-02-23T13:47:42Z"
+        },
+        "subject": "Brazil's President Temer says will not seek reelection in October's election",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "brazil-s-president-temer-says-will-not-seek-reelection-in-october-s-election-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-23 21:47:00",
+        "gmt_time": "2018-02-23 13:47:00"
+    },
+    {
+        "id": 610968,
+        "updated_sequence": 782675,
+        "published_at": {
+            "unix": 1519391580,
+            "text": "2018-02-23 13:13:00 +0000",
+            "iso_8601": "2018-02-23T13:13:00Z"
+        },
+        "updated_at": {
+            "unix": 1519391904,
+            "text": "2018-02-23 13:18:24 +0000",
+            "iso_8601": "2018-02-23T13:18:24Z"
+        },
+        "subject": "Bank of America Merrill Lynch Weekly Flow Show: Risk-on flows, risk-off trades",
+        "content": "<p><strong>Highlights:&nbsp;</strong><br />- Risk-on flows: equities over bonds, tech, EM bonds/ equities<br />- Positioning: remains optimistic &amp; vulnerable to stagflation hawks<br />- Risk-off trades: long USD, long vol, short credit, short tech, short EM</p>\r\n\r\n<p><strong>-&nbsp;Risk-on flows:&nbsp;</strong>$13.2bn into equities, $5.2bn into bonds, $0.4bn into gold<br /><strong>-&nbsp;Rotation flows:&nbsp;</strong>equity inflows have outpaced bond inflows past 18 months, 1st&nbsp;time since Great Rotation of 2013<br /><strong>-&nbsp;Deflation flows:&nbsp;</strong>yet higher growth/higher rates backdrop&nbsp;not&nbsp;reflected in other flows...inflows&nbsp;to deflationary winners of tech, IG bonds, EM bonds/equities continues<br /><strong>-&nbsp;BofAML Bull &amp; Bear indicator:&nbsp;</strong>stuck&nbsp;@&nbsp;8.2 ...excess optimism continues on risk assets, thus pain trade for stocks &amp; credit still to downside; note however EM flow trading rule &quot;sell signal&quot;&nbsp;triggered&nbsp;on Feb 1st&nbsp;now subsides back to neutral territory<br /><strong>-&nbsp;Here comes vol:&nbsp;</strong>lots of volatility events in coming weeks...Feb 28th&nbsp;Powell @ Humphrey-Hawkins, March 1st&nbsp;US ISM, March 4th&nbsp;Italian elections/Merkel coalition vote, March 8th&nbsp;ECB, March 9th&nbsp;BoJ &amp; US payroll/wages, March 21st&nbsp;FOMC<br /><strong>-&nbsp;Stagflation hawks vs. Goldilocks doves:&nbsp;</strong>if as&nbsp;we suspect data stagflationary/&nbsp;policy hawkish then another risk-off bout coming<br /><strong>-&nbsp;Risk-off trades:&nbsp;</strong>best trades to play further risk unwind in Q1; long US dollar, long volatility, short credit, short tech, short EM,&nbsp;i.e. further unwind of big 2018 consensus positions<br /><strong>-&nbsp;Inflection corroboration:&nbsp;</strong>recent 5 months of lower US dollar &amp; higher US bond yields rare (<10% of past 50-year history, Table 1, though v common in Emerging Markets); has coincided&nbsp;with bouts of inflation and/or market volatility...on average inflation rose 2ppt, equities fell 9% and volatility rose 22ppt; higher wages remains the obvious risk to investors;&nbsp;higher wages &amp; peak profits/growth much less anticipated</p>\r\n\r\n<p><img alt=\"\" height=\"457\" src=\"/system/ckeditor_assets/pictures/5/content_Capture.JPG\" width=\"800\" /></p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "BAML",
+        "slug": "bank-of-america-merrill-lynch-weekly-flow-show-risk-on-flows-risk-off-trades-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-23 21:13:00",
+        "gmt_time": "2018-02-23 13:13:00"
+    },
+    {
+        "id": 610967,
+        "updated_sequence": 782670,
+        "published_at": {
+            "unix": 1519390380,
+            "text": "2018-02-23 12:53:00 +0000",
+            "iso_8601": "2018-02-23T12:53:00Z"
+        },
+        "updated_at": {
+            "unix": 1519390512,
+            "text": "2018-02-23 12:55:12 +0000",
+            "iso_8601": "2018-02-23T12:55:12Z"
+        },
+        "subject": "Scotibank FX Daily: USD Tracking Slightly Firmer Course; Fedspeak Risk High",
+        "content": "<p>- USD seeing small gains vs. majors; NZD &amp; SEK underperforming.<br />- CAD quiet, vulnerable into domestic CPI; broader tone remains crucial.<br />- EUR trading within range w/ final CPI as expected; Italy election looms March 4.<br />- GBP choppy in London trade; political risk significant; May speaks March 2.<br />- JPY consolidating Thursday&rsquo;s rally; focus on EURJPY &amp; 200 dma 131.21.<br />- AUD trading in range while NZD underperforms; signs of AUDNZD reversal.<br />- MXN extending Thursday&rsquo;s rally following hawkish Banxico minutes.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "scotibank-fx-daily-usd-tracking-slightly-firmer-course-fedspeak-risk-high-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-23 20:53:00",
+        "gmt_time": "2018-02-23 12:53:00"
+    },
+    {
+        "id": 610966,
+        "updated_sequence": 782667,
+        "published_at": {
+            "unix": 1519389120,
+            "text": "2018-02-23 12:32:00 +0000",
+            "iso_8601": "2018-02-23T12:32:00Z"
+        },
+        "updated_at": {
+            "unix": 1519389180,
+            "text": "2018-02-23 12:33:00 +0000",
+            "iso_8601": "2018-02-23T12:33:00Z"
+        },
+        "subject": "Merck (MRK) and AstraZeneca (AZN LN) have received positive opinion from the EU CHMP on Lynparza",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "merck-mrk-and-astrazeneca-azn-ln-have-received-positive-opinion-from-the-eu-chmp-on-lynparza-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 34,
+            "name": "Global Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-23 20:32:00",
+        "gmt_time": "2018-02-23 12:32:00"
+    },
+    {
+        "id": 610965,
+        "updated_sequence": 782664,
+        "published_at": {
+            "unix": 1519389000,
+            "text": "2018-02-23 12:30:00 +0000",
+            "iso_8601": "2018-02-23T12:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1519389145,
+            "text": "2018-02-23 12:32:25 +0000",
+            "iso_8601": "2018-02-23T12:32:25Z"
+        },
+        "subject": "Public Service Enterprise Group Inc (PEG) Q4 EPS USD 0.57 vs. Exp. USD 0.56",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "public-service-enterprise-group-inc-peg-q4-eps-usd-0-57-vs-exp-usd-0-56-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-23 20:30:00",
+        "gmt_time": "2018-02-23 12:30:00"
+    },
+    {
+        "id": 610964,
+        "updated_sequence": 782661,
+        "published_at": {
+            "unix": 1519388640,
+            "text": "2018-02-23 12:24:00 +0000",
+            "iso_8601": "2018-02-23T12:24:00Z"
+        },
+        "updated_at": {
+            "unix": 1519388752,
+            "text": "2018-02-23 12:25:52 +0000",
+            "iso_8601": "2018-02-23T12:25:52Z"
+        },
+        "subject": "Libya's 70,000 bpd oil-field was shut early on Friday according to a source familiar with the matter",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "libya-s-70-000-bpd-oil-field-was-shut-early-on-friday-according-to-a-source-familiar-with-the-matter-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 20,
+            "name": "Commodities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-23 20:24:00",
+        "gmt_time": "2018-02-23 12:24:00"
+    },
+    {
+        "id": 610963,
+        "updated_sequence": 782658,
+        "published_at": {
+            "unix": 1519388580,
+            "text": "2018-02-23 12:23:00 +0000",
+            "iso_8601": "2018-02-23T12:23:00Z"
+        },
+        "updated_at": {
+            "unix": 1519388700,
+            "text": "2018-02-23 12:25:00 +0000",
+            "iso_8601": "2018-02-23T12:25:00Z"
+        },
+        "subject": "Lundbergforetagem (LUNDB SS) FY Net SEK 6.7bln vs Prev. SEK 11.5bln, Revenue SEK 20.4bln vs Prev. SEK 19.4bln",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "lundbergforetagem-lundb-ss-fy-net-sek-6-7bln-vs-prev-sek-11-5bln-revenue-sek-20-4bln-vs-prev-sek-19-4bln-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 33,
+            "name": "European Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-23 20:23:00",
+        "gmt_time": "2018-02-23 12:23:00"
+    },
+    {
+        "id": 610962,
+        "updated_sequence": 782655,
+        "published_at": {
+            "unix": 1519387680,
+            "text": "2018-02-23 12:08:00 +0000",
+            "iso_8601": "2018-02-23T12:08:00Z"
+        },
+        "updated_at": {
+            "unix": 1519387897,
+            "text": "2018-02-23 12:11:37 +0000",
+            "iso_8601": "2018-02-23T12:11:37Z"
+        },
+        "subject": "UK Finance Minister Hammond says there is a 'real sense of momentum' towards reaching a transitional agreement at the EU council meeting in March",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "uk-finance-minister-hammond-says-there-is-a-real-sense-of-momentum-towards-reaching-a-transitional-agreement-at-the-eu-council-meeting-in-march-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 38,
+            "name": "Brexit"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-23 20:08:00",
+        "gmt_time": "2018-02-23 12:08:00"
+    },
+    {
+        "id": 610961,
+        "updated_sequence": 782650,
+        "published_at": {
+            "unix": 1519387200,
+            "text": "2018-02-23 12:00:00 +0000",
+            "iso_8601": "2018-02-23T12:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1519387331,
+            "text": "2018-02-23 12:02:11 +0000",
+            "iso_8601": "2018-02-23T12:02:11Z"
+        },
+        "subject": "BOE Deputy Governor Ramsden says weakness and uncertainty in productivity growth is a key consideration when setting policy; Brexit hit to investment likely to endure",
+        "content": "<p>-&nbsp;BOE&#39;s unusually weak growth forecasts over the next there years is still sufficient to generate excess demand<br />- Says it is reasonable to argue that we are in a new dynamic of lower productivity growth</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "boe-deputy-governor-ramsden-says-weakness-and-uncertainty-in-productivity-growth-is-a-key-consideration-when-setting-policy-brexit-hit-to-investment-likely-to-endure-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 16,
+            "name": "BoE"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-23 20:00:00",
+        "gmt_time": "2018-02-23 12:00:00"
+    },
+    {
+        "id": 610960,
+        "updated_sequence": 782644,
+        "published_at": {
+            "unix": 1519385580,
+            "text": "2018-02-23 11:33:00 +0000",
+            "iso_8601": "2018-02-23T11:33:00Z"
+        },
+        "updated_at": {
+            "unix": 1519385685,
+            "text": "2018-02-23 11:34:45 +0000",
+            "iso_8601": "2018-02-23T11:34:45Z"
+        },
+        "subject": "Underpeformance in Inditex (ITX SM -7.1%) shares has been attributed to JP Morgan cutting earnings estimates for the Co. by as much as 5% ahead of their earnings report on March 14th",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "underpeformance-in-inditex-itx-sm-7-1-shares-has-been-attributed-to-jp-morgan-cutting-earnings-estimates-for-the-co-by-as-much-as-5-ahead-of-their-earnings-report-on-march-14th-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 33,
+            "name": "European Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-23 19:33:00",
+        "gmt_time": "2018-02-23 11:33:00"
+    },
+    {
+        "id": 610959,
+        "updated_sequence": 782641,
+        "published_at": {
+            "unix": 1519384680,
+            "text": "2018-02-23 11:18:00 +0000",
+            "iso_8601": "2018-02-23T11:18:00Z"
+        },
+        "updated_at": {
+            "unix": 1519384796,
+            "text": "2018-02-23 11:19:56 +0000",
+            "iso_8601": "2018-02-23T11:19:56Z"
+        },
+        "subject": "Liu He, an economic adviser to President Xi, is the front runner to be the next Governor of the PBoC, according to sources",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "liu-he-an-economic-adviser-to-president-xi-is-the-front-runner-to-be-the-next-governor-of-the-pboc-according-to-sources-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 15,
+            "name": "PBoC"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-23 19:18:00",
+        "gmt_time": "2018-02-23 11:18:00"
+    },
+    {
+        "id": 610958,
+        "updated_sequence": 782635,
+        "published_at": {
+            "unix": 1519384560,
+            "text": "2018-02-23 11:16:00 +0000",
+            "iso_8601": "2018-02-23T11:16:00Z"
+        },
+        "updated_at": {
+            "unix": 1519384658,
+            "text": "2018-02-23 11:17:38 +0000",
+            "iso_8601": "2018-02-23T11:17:38Z"
+        },
+        "subject": "UK PM May's spokesman says UK is working towards securing deal with as much frictionless trade with EU as possible ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "uk-pm-may-s-spokesman-says-uk-is-working-towards-securing-deal-with-as-much-frictionless-trade-with-eu-as-possible-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 38,
+            "name": "Brexit"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-23 19:16:00",
+        "gmt_time": "2018-02-23 11:16:00"
+    },
+    {
+        "id": 610958,
+        "updated_sequence": 782635,
+        "published_at": {
+            "unix": 1519384560,
+            "text": "2018-02-23 11:16:00 +0000",
+            "iso_8601": "2018-02-23T11:16:00Z"
+        },
+        "updated_at": {
+            "unix": 1519384658,
+            "text": "2018-02-23 11:17:38 +0000",
+            "iso_8601": "2018-02-23T11:17:38Z"
+        },
+        "subject": "UK PM May's spokesman says UK is working towards securing deal with as much frictionless trade with EU as possible ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "uk-pm-may-s-spokesman-says-uk-is-working-towards-securing-deal-with-as-much-frictionless-trade-with-eu-as-possible-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 38,
+            "name": "Brexit"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-23 19:16:00",
+        "gmt_time": "2018-02-23 11:16:00"
+    },
+    {
+        "id": 610957,
+        "updated_sequence": 782632,
+        "published_at": {
+            "unix": 1519384200,
+            "text": "2018-02-23 11:10:00 +0000",
+            "iso_8601": "2018-02-23T11:10:00Z"
+        },
+        "updated_at": {
+            "unix": 1519384386,
+            "text": "2018-02-23 11:13:06 +0000",
+            "iso_8601": "2018-02-23T11:13:06Z"
+        },
+        "subject": "Credit Agricole (ACA FP) to recapitalise the French retail unit LCL injecting EUR 1.2bln after ECB demand",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "credit-agricole-aca-fp-to-recapitalise-the-french-retail-unit-lcl-injecting-eur-1-2bln-after-ecb-demand-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 33,
+            "name": "European Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-23 19:10:00",
+        "gmt_time": "2018-02-23 11:10:00"
+    },
+    {
+        "id": 610956,
+        "updated_sequence": 782638,
+        "published_at": {
+            "unix": 1519384200,
+            "text": "2018-02-23 11:10:00 +0000",
+            "iso_8601": "2018-02-23T11:10:00Z"
+        },
+        "updated_at": {
+            "unix": 1519384718,
+            "text": "2018-02-23 11:18:38 +0000",
+            "iso_8601": "2018-02-23T11:18:38Z"
+        },
+        "subject": "GBP/USD has recently taken a dip lower, moving to session lows amid no fundamental news before finding some support ahead of 1.3900; trades at 1.3940 last",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<p>- Citigroup speculate that the decline in GBP was flow and potentially algo related as NY participants wake up</p>\r\n",
+        "analysis_updated_at": {
+            "unix": 1519384718,
+            "text": "2018-02-23 11:18:38 +0000",
+            "iso_8601": "2018-02-23T11:18:38Z"
+        },
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "gbp-usd-has-recently-taken-a-dip-lower-moving-to-session-lows-amid-no-fundamental-news-before-finding-some-support-ahead-of-1-3900-trades-at-1-3940-last-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 22,
+            "name": "FX Flows"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-23 19:10:00",
+        "gmt_time": "2018-02-23 11:10:00"
+    },
+    {
+        "id": 610955,
+        "updated_sequence": 782626,
+        "published_at": {
+            "unix": 1519383240,
+            "text": "2018-02-23 10:54:00 +0000",
+            "iso_8601": "2018-02-23T10:54:00Z"
+        },
+        "updated_at": {
+            "unix": 1519383431,
+            "text": "2018-02-23 10:57:11 +0000",
+            "iso_8601": "2018-02-23T10:57:11Z"
+        },
+        "subject": "General Mills (GIS) is said to buy Blue Buffalo (BUFF) for USD 40/shr, equating to approximately USD 8bln in cash",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "CNBC",
+        "slug": "general-mills-gis-is-said-to-buy-blue-buffalo-buff-for-usd-40-shr-equating-to-approximately-usd-8bln-in-cash-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-23 18:54:00",
+        "gmt_time": "2018-02-23 10:54:00"
+    },
+    {
+        "id": 610954,
+        "updated_sequence": 782623,
+        "published_at": {
+            "unix": 1519382700,
+            "text": "2018-02-23 10:45:00 +0000",
+            "iso_8601": "2018-02-23T10:45:00Z"
+        },
+        "updated_at": {
+            "unix": 1519382895,
+            "text": "2018-02-23 10:48:15 +0000",
+            "iso_8601": "2018-02-23T10:48:15Z"
+        },
+        "subject": "DAILY US OPENING NEWS: European bourses enter the North American crossover lower after drifting to the downside ahead of the US entrance to market",
+        "content": "<p><strong>23<sup>rd</sup> February 2018</strong></p>\r\n\r\n<ul><li><strong>European bourses enter the North American crossover lower after drifting to the downside ahead of the US entrance to market</strong></li>\r\n  <li><strong>The DXY has slipped further below the 90.000 level, and it remains a very close call whether the Greenback can continue its recent &lsquo;winning&rsquo; run</strong></li>\r\n  <li><strong>Looking ahead, highlights include Canadian CPI and a slew of speakers</strong></li>\r\n</ul>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>ASIA</strong></p>\r\n\r\n<p>Asian equities closed the week on a positive note as major bourses traded in the green amid the uptick in crude prices.&nbsp;<strong>ASX 200 (+0.8%)</strong><strong>&nbsp;</strong>had<strong>&nbsp;</strong>been buoyed by energy and material names, moving within closing just shy of 6,000. Miners were led by BHP (+1.5%) and South 32 (+5%), while oil prices rose throughout the US session after the latest DoE crude inventory data showed US oil output had dropped. Elsewhere, the&nbsp;<strong>Nikkei 225 (+0.7%)</strong><strong> </strong>edged higher with the gains led by defensive stocks with investors seemingly content to shrug off the notion of a more aggressive Fed unwinding stimulus more rapidly than expected. Chinese markets had been positive for much of the session with the <strong>Hang Seng (+1%)</strong>, while the <strong>Shanghai Comp (+0.6%)</strong> had a somewhat choppy session. JGB yields dipped overnight, with the curve modestly flatter.</p>\r\n\r\n<p><strong>Japanese CPI, Ex Food and Energy YY (Jan) 0.4% vs. Exp. 0.3% (Prev. 0.3%)</strong></p>\r\n\r\n<p>Japanese CPI, Core Nationwide YY (Jan) 0.9% vs. Exp. 0.8% (Prev. 0.9%)</p>\r\n\r\n<p>Japanese CPI, Overall Nationwide (Jan) 1.4% vs. Exp. 1.3% (Prev. 1.0%); Highest since March 2015</p>\r\n\r\n<p>China revises January trade surplus higher to USD 20.35bln vs. prelim USD 20.34bln, according to customs. (Newswires)</p>\r\n\r\n<p><strong>EU/UK/US</strong></p>\r\n\r\n<p>US Treasury Secretary Mnuchin says President Trump&#39;s policies will boost wages without inflation concerns. (Newswires)</p>\r\n\r\n<p>UK opposition leader Jeremy Corbyn could use a key Brexit speech on Monday to pave the way for Labour to inflict a Commons defeat on the government, by backing a rebel Tory amendment seeking to keep Britain in &ldquo;a customs union&rdquo;. (Guardian)</p>\r\n\r\n<p>UK PM May and 11 senior ministers have been thrashing out the UK&#39;s approach to Brexit in an eight-hour discussion at the PM&#39;s country retreat. The PM will set out the position in a speech next week, after a discussion by the full cabinet. (BBC)</p>\r\n\r\n<p>Sun political journalist: &#39;&#39;I&#39;m told by a Cabinet source that the agreed Brexit blueprint is &ldquo;an ambitious opening gambit&rdquo;. In other words, little expectation the EU27 will accept it.&#39;&#39; (Twitter)</p>\r\n\r\n<p>EU citizens who arrive in Britain during the post-Brexit transition period will be allowed to stay permanently under a U-turn planned by UK PM May. (Times)</p>\r\n\r\n<p><strong>EU Inflation Final MM (Jan) -0.9% vs. Exp. -0.9% (Prev. 0.4%)</strong></p>\r\n\r\n<p><strong>EU Inflation, Final YY (Jan) 1.3% vs. Exp. 1.3% (Prev. 1.3%)</strong></p>\r\n\r\n<p>EU Infl Ex Food &amp; Energy MM (Jan) -1.3% vs. Exp. -1.6% (Prev. 0.4%)</p>\r\n\r\n<p>EU Infl Ex Food &amp; Energy YY (Jan) 1.2% vs. Exp. 1.0% (Prev. 1.2%)</p>\r\n\r\n<p><strong>CENTAL BANKS </strong></p>\r\n\r\n<p><strong>Riksbank Minutes</strong>: Several members expressed concerns about inflation developments in the future and stressed that the downside risks deserve particular attention when deciding at what time and at what rate it is appropriate to start raising the repo rate.</p>\r\n\r\n<p>- Riksbank&rsquo;s Floden claims inflation still is a source of worry despite being close to target</p>\r\n\r\n<p>- Riksbank&rsquo;s Skingsley says downward revision is of such size that believes Repo rate path could be postponed</p>\r\n\r\n<p>- Riksbank&#39;s Jochnick notes the uncertainty factors could also be seen as arguments for postponing rate rises slightly</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Fed&#39;s Kaplan (Non-Voter, Dove) stated that the view of 3 rate hikes is appropriate and could change if employment and inflation exceeds his forecasts. (Newswires)</p>\r\n\r\n<p>ECB&#39;s Smets says EUR strength is not yet a concern and has full confidence that the ECB will reach inflation target. (Newswires)</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>EQUITIES</strong></p>\r\n\r\n<p>European bourses are trading on the back foot (Eurostoxx 50 -0.3%) despite calls for a slightly firmer open. In terms of sector specific moves, telecoms are the clear outperformer with BT Group (BT/A LN) shares at the top of the FSTE 100 following a positive broker upgrade at Berenberg. However, the biggest story in the UK equity space comes from RBS (-4.5%) who are one of the notable laggards in the FSTE 100 as a return to profit for the Co. was not enough to soothe investor concerns over restructuring costs and a lack of clarity from the DoJ investigation. Other notable movers include Valeo (-9.5%), IAG (-4.7%), Swiss Re (+1.8%) and Pearson (+1.1%) post-earnings, while Standard Life Aberdeen (+2.2%) have been granted some reprieve after offloading their insurance unit to Phoenix (+5.4%).</p>\r\n\r\n<p><strong>FX</strong></p>\r\n\r\n<p>The DXY has slipped further below the 90.000 level, and it remains a very close call whether the Greenback can continue its recent &lsquo;winning&rsquo; run to make it 5 out of 5 trading days and a first complete week of gains this year. Technically, the index needs to close above 90.500-600, so quite a bit above the upper end of the 90.060-89.750 range thus far, and much may depend on the overall tone that emerges from the latest round of Fed rhetoric via a slew of speakers and Powell&rsquo;s first semi-annual monetary policy report. However, Usd/Jpy still looks pivotal for the Dollar&rsquo;s overall direction with the pair now heavy around 107.00 having failed to rebound to 108.00 at the height of its rebound from 105.55 lows. Note also, a large 107.00 option expiry strike for next Monday (1.6 bn) may act like an anchor. Eur/Usd straddles 1.2300, with no reaction to final Eurozone CPI and Cable continues to be drawn towards 1.4000 while holding in above solid support ahead of 1.3800 on Brexit-related weakness (similarly 0.8800 is a pivot in Eur/Gbp). In terms of crosses, Eur/Sek has been a mover in wake of cautious and dovish Riksbank minutes as several Board members registered concerns about weak inflation at the January policy meeting, and the pair has eclipsed the 10.0333 peak from 2017, with the previous year&rsquo;s high at 10.0833 next on the charts. Back to G10s, the Nzd gained little lasting traction from better NZ retail sales overnight, with a breakdown revealing discretionary items providing a major boost, and Aud/Nzd stop-buying also working against the Kiwi.</p>\r\n\r\n<p><strong>FIXED INCOME</strong></p>\r\n\r\n<p>Market observers cite stops triggered in Bunds around the 158.90 level on the way to and through 159.00, and the core Eurozone debt future extended to 159.23 before running out of steam for a 47 tick advance on the previous close. Gilts have followed suit, but continue to lag on more hawkish BoE vs ECB near term policy dynamics and remain capped ahead of 122.00, albeit just at 121.97 (+27 ticks on the day). The 10 year Eurozone benchmark is outperforming peripheral bonds with Italian paper carrying more political risk premium ahead of the March 4 election and with supply coming today. US Treasuries also ticking up in sympathy it seems, but also continuing the relief and consolidation rally amidst further flattening, as this week&rsquo;s mega issuance is out of the way (at least in terms of the auction process) and the focus returns to Fed policy via a raft of speakers and the semi-annual MPR.</p>\r\n\r\n<p><strong>COMMODITIES </strong></p>\r\n\r\n<p>In the commodities complex, WTI and Brent crude futures have seen a mild pullback from yesterday&rsquo;s post-DoE surge, albeit in close proximity to yesterday&rsquo;s best levels. Energy newsflow remains light with traders awaiting today&rsquo;s Baker Hughes release which has recently seen a trend of climbing rig counts. In metals markets, gold prices are marginally softer alongside the firmer USD and remains on track for its worst weekly performance since late last year. Elsewhere, Chinese steel futures staged a rebound overnight as traders eye a potential pick-up in demand next week as Chinese participants fully return to market.</p>\r\n\r\n<p><strong>GEOPOLITICAL</strong></p>\r\n\r\n<p>US is said to announce new sanctions on North Korea later today, according to sources. (Newswires)</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "daily-us-opening-news-european-bourses-enter-the-north-american-crossover-lower-after-drifting-to-the-downside-ahead-of-the-us-entrance-to-market-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-23 18:45:00",
+        "gmt_time": "2018-02-23 10:45:00"
+    },
+    {
+        "id": 610953,
+        "updated_sequence": 782620,
+        "published_at": {
+            "unix": 1519382700,
+            "text": "2018-02-23 10:45:00 +0000",
+            "iso_8601": "2018-02-23T10:45:00Z"
+        },
+        "updated_at": {
+            "unix": 1519382811,
+            "text": "2018-02-23 10:46:51 +0000",
+            "iso_8601": "2018-02-23T10:46:51Z"
+        },
+        "subject": "Dutch Prime Minister claims to be wanting to stay as close as possible to Britain after Brexit",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "dutch-prime-minister-claims-to-be-wanting-to-stay-as-close-as-possible-to-britain-after-brexit-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 38,
+            "name": "Brexit"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-23 18:45:00",
+        "gmt_time": "2018-02-23 10:45:00"
+    },
+    {
+        "id": 610952,
+        "updated_sequence": 782617,
+        "published_at": {
+            "unix": 1519382160,
+            "text": "2018-02-23 10:36:00 +0000",
+            "iso_8601": "2018-02-23T10:36:00Z"
+        },
+        "updated_at": {
+            "unix": 1519382302,
+            "text": "2018-02-23 10:38:22 +0000",
+            "iso_8601": "2018-02-23T10:38:22Z"
+        },
+        "subject": "Saudi Oil Minister says that the oil market is rebalancing and expects inventories to continue their decline in 2018",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "saudi-oil-minister-says-that-the-oil-market-is-rebalancing-and-expects-inventories-to-continue-their-decline-in-2018-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 20,
+            "name": "Commodities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-23 18:36:00",
+        "gmt_time": "2018-02-23 10:36:00"
+    },
+    {
+        "id": 610951,
+        "updated_sequence": 782612,
+        "published_at": {
+            "unix": 1519381680,
+            "text": "2018-02-23 10:28:00 +0000",
+            "iso_8601": "2018-02-23T10:28:00Z"
+        },
+        "updated_at": {
+            "unix": 1519381802,
+            "text": "2018-02-23 10:30:02 +0000",
+            "iso_8601": "2018-02-23T10:30:02Z"
+        },
+        "subject": "Italy sells EUR 2.0bln of 2019 CTZ with average yield f -0.216% (Prev. -0.257%), B/C 1.43 (Prev. 1.83)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "italy-sells-eur-2-0bln-of-2019-ctz-with-average-yield-f-0-216-prev-0-257-b-c-1-43-prev-1-83-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 21,
+            "name": "Fixed Income"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-23 18:28:00",
+        "gmt_time": "2018-02-23 10:28:00"
+    },
+    {
+        "id": 610950,
+        "updated_sequence": 782609,
+        "published_at": {
+            "unix": 1519381440,
+            "text": "2018-02-23 10:24:00 +0000",
+            "iso_8601": "2018-02-23T10:24:00Z"
+        },
+        "updated_at": {
+            "unix": 1519381641,
+            "text": "2018-02-23 10:27:21 +0000",
+            "iso_8601": "2018-02-23T10:27:21Z"
+        },
+        "subject": "Italy sells EUR 2.0bln in of 2022 and 2028 BTPEi",
+        "content": "<p>Sells EUR 877mln 2022 with average yield of -0.41% (Prev. -0.51%), B/C 2.07 (Prev. 2.03)</p>\r\n\r\n<p>Sells EUR 1.123ln 2028&nbsp;with average yield of 0.89% (Prev. 0.97%), B/C 1.77&nbsp;(Prev. 1.85)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "italy-sells-eur-2-0bln-in-of-2022-and-2028-btpei-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 21,
+            "name": "Fixed Income"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-23 18:24:00",
+        "gmt_time": "2018-02-23 10:24:00"
+    },
+    {
+        "id": 610949,
+        "updated_sequence": 782606,
+        "published_at": {
+            "unix": 1519380360,
+            "text": "2018-02-23 10:06:00 +0000",
+            "iso_8601": "2018-02-23T10:06:00Z"
+        },
+        "updated_at": {
+            "unix": 1519380800,
+            "text": "2018-02-23 10:13:20 +0000",
+            "iso_8601": "2018-02-23T10:13:20Z"
+        },
+        "subject": " EU MID-SESSION UPDATE: A return to profit for RBS fails to soothe investor concerns. EU bourses mixed. DXY firmer but back below 90.00",
+        "content": "<p>European bourses are trading with little firm direction (Eurostoxx 50 -0.1%) despite calls for a slightly firmer open. In terms of sector specific moves, telecoms are the clear outperformer with BT Group (BT/A LN) shares at the top of the FSTE 100 following a positive broker upgrade at Berenberg. However, the biggest story in the UK equity space comes from RBS (-4.4%) who are one of the notable laggards in the FSTE 100 as a return to profit for the Co. was not enough to soothe investor concerns over restructuring costs and a lack of clarity from the DoJ investigation. Other notable movers include Valeo (-9.2%), IAG (-4.4%), Swiss Re (+2.3%) and Pearson (+3%) post-earnings, while Standard Life Aberdeen (+1.2%) have been granted some reprieve after offloading their insurance unit to Phoenix (+4.9%).</p>\r\n\r\n<p>The DXY has slipped further below the 90.000 level, and it remains a very close call whether the Greenback can continue its recent &lsquo;winning&rsquo; run to make it 5 out of 5 trading days and a first complete week of gains this year. Technically, the index needs to close above 90.500-600, so quite a bit above the upper end of the 90.060-89.750 range thus far, and much may depend on the overall tone that emerges from the latest round of Fed rhetoric via a slew of speakers and Powell&rsquo;s first semi-annual monetary policy report. However, Usd/Jpy still looks pivotal for the Dollar&rsquo;s overall direction with the pair now heavy around 107.00 having failed to rebound to 108.00 at the height of its rebound from 105.55 lows. Note also, a large 107.00 option expiry strike for next Monday (1.6 bn) may act like an anchor. Eur/Usd straddles 1.2300, with no reaction to final Eurozone CPI and Cable continues to be drawn towards 1.4000 while holding in above solid support ahead of 1.3800 on Brexit-related weakness (similarly 0.8800 is a pivot in Eur/Gbp). In terms of crosses, Eur/Sek has been a mover in wake of cautious and dovish Riksbank minutes as several Board members registered concerns about weak inflation at the January policy meeting, and the pair has eclipsed the 10.0333 peak from 2017, with the previous year&rsquo;s high at 10.0833 next on the charts. Back to G10s, the Nzd gained little lasting traction from better NZ retail sales overnight, with a breakdown revealing discretionary items providing a major boost, and Aud/Nzd stop-buying also working against the Kiwi.&nbsp;&nbsp;&nbsp;</p>\r\n\r\n<p>Market observers cite stops triggered in Bunds around the 158.90 level on the way to and through 159.00, and the core Eurozone debt future extended to 159.17 before running out of steam for a 41 tick advance on the previous close. Gilts have followed suit, but continue to lag on more hawkish BoE vs ECB near term policy dynamics and remain capped ahead of 122.00, albeit just at 121.97 (+27 ticks on the day). The 10 year Eurozone benchmark is outperforming peripheral bonds with Italian paper carrying more political risk premium ahead of the March 4 election and with supply coming today. US Treasuries also ticking up in sympathy it seems, but also continuing the relief and consolidation rally amidst further flattening, as this week&rsquo;s mega issuance is out of the way (at least in terms of the auction process) and the focus returns to Fed policy via a raft of speakers and the semi-annual MPR.</p>\r\n\r\n<p>In the commodities complex, WTI and Brent crude futures have seen a mild pullback from yesterday&rsquo;s post-DoE surge, albeit in close proximity to yesterday&rsquo;s best levels. Energy newsflow remains light with traders awaiting today&rsquo;s Baker Hughes release which has recently seen a trend of climbing rig counts. In metals markets, gold prices are marginally softer alongside the firmer USD and remains on track for its worst weekly performance since late last year. Elsewhere, Chinese steel futures staged a rebound overnight as traders eye a potential pick-up in demand next week as Chinese participants fully return to market.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "eu-mid-session-update-a-return-to-profit-for-rbs-fails-to-soothe-investor-concerns-eu-bourses-mixed-dxy-firmer-but-back-below-90-00-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-23 18:06:00",
+        "gmt_time": "2018-02-23 10:06:00"
+    },
+    {
+        "id": 610948,
+        "updated_sequence": 782603,
+        "published_at": {
+            "unix": 1519380360,
+            "text": "2018-02-23 10:06:00 +0000",
+            "iso_8601": "2018-02-23T10:06:00Z"
+        },
+        "updated_at": {
+            "unix": 1519380424,
+            "text": "2018-02-23 10:07:04 +0000",
+            "iso_8601": "2018-02-23T10:07:04Z"
+        },
+        "subject": "FX Morning Colour: Dollar struggling to sustain recovery momentum",
+        "content": "<p>The DXY has slipped further below the 90.000 level, and it remains a very close call whether the Greenback can continue its recent &lsquo;winning&rsquo; run to make it 5 out of 5 trading days and a first complete week of gains this year. Technically, the index needs to close above 90.500-600, so quite a bit above the upper end of the 90.060-89.750 range thus far, and much may depend on the overall tone that emerges from the latest round of Fed rhetoric via a slew of speakers and Powell&rsquo;s first semi-annual monetary policy report. However, Usd/Jpy still looks pivotal for the Dollar&rsquo;s overall direction with the pair now heavy around 107.00 having failed to rebound to 108.00 at the height of its rebound from 105.55 lows. Note also, a large 107.00 option expiry strike for next Monday (1.6 bn) may act like an anchor. Eur/Usd straddles 1.2300, with no reaction to final Eurozone CPI and Cable continues to be drawn towards 1.4000 while holding in above solid support ahead of 1.3800 on Brexit-related weakness (similarly 0.8800 is a pivot in Eur/Gbp). In terms of crosses, Eur/Sek has been a mover in wake of cautious and dovish Riksbank minutes as several Board members registered concerns about weak inflation at the January policy meeting, and the pair has eclipsed the 10.0333 peak from 2017, with the previous year&rsquo;s high at 10.0833 next on the charts. Back to G10s, the Nzd gained little lasting traction from better NZ retail sales overnight, with a breakdown revealing discretionary items providing a major boost, and Aud/Nzd stop-buying also working against the Kiwi. &nbsp;&nbsp;&nbsp;</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "fx-morning-colour-dollar-struggling-to-sustain-recovery-momentum-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-23 18:06:00",
+        "gmt_time": "2018-02-23 10:06:00"
+    },
+    {
+        "id": 610939,
+        "updated_sequence": 782576,
+        "published_at": {
+            "unix": 1519377420,
+            "text": "2018-02-23 09:17:00 +0000",
+            "iso_8601": "2018-02-23T09:17:00Z"
+        },
+        "updated_at": {
+            "unix": 1519377507,
+            "text": "2018-02-23 09:18:27 +0000",
+            "iso_8601": "2018-02-23T09:18:27Z"
+        },
+        "subject": "Nordea on the Riksbank Minutes: The Riksbank minutes were dovish and confirm that the Executive Board is split",
+        "content": "<p>- The minutes confirm that the inflation remains the focal point and the board&nbsp;are concerned over the inflation outlook. The majority of the board seems hesitant to hike rates and it was a close call that the rate path was lowered in the February report.</p>\r\n\r\n<p>-&nbsp;In all, the stage is set for a downward revision of the rate path at the April meeting and the following meetings.&nbsp;The minutes strengthen our view that the Riksbank will stay on hold this year.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Nordea",
+        "slug": "nordea-on-the-riksbank-minutes-the-riksbank-minutes-were-dovish-and-confirm-that-the-executive-board-is-split-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-23 17:17:00",
+        "gmt_time": "2018-02-23 09:17:00"
+    },
+    {
+        "id": 610938,
+        "updated_sequence": 782573,
+        "published_at": {
+            "unix": 1519377180,
+            "text": "2018-02-23 09:13:00 +0000",
+            "iso_8601": "2018-02-23T09:13:00Z"
+        },
+        "updated_at": {
+            "unix": 1519377267,
+            "text": "2018-02-23 09:14:27 +0000",
+            "iso_8601": "2018-02-23T09:14:27Z"
+        },
+        "subject": "Fixed Income: stops push core bonds through near-term/key resistance",
+        "content": "<p>Market observers cite stops triggered in Bunds around the 158.90 level on the way to and through 159.00, and the core Eurozone debt future extended to 159.17 before running out of steam for a 41 tick advance on the previous close. Gilts have followed suit, but continue to lag on more hawkish BoE vs ECB near term policy dynamics and remain capped ahead of 122.00, albeit just at 121.97 (+27 ticks on the day). The 10 year Eurozone benchmark is outperforming peripheral bonds with Italian paper carrying more political risk premium ahead of the March 4 election and with supply coming today. US Treasuries also ticking up in sympathy it seems, but also continuing the relief and consolidation rally amidst further flattening, as this week&rsquo;s mega issuance is out of the way (at least in terms of the auction process) and the focus returns to Fed policy via a raft of speakers and the semi-annual MPR.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "fixed-income-stops-push-core-bonds-through-near-term-key-resistance-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-23 17:13:00",
+        "gmt_time": "2018-02-23 09:13:00"
+    },
+    {
+        "id": 610815,
+        "updated_sequence": 782569,
+        "published_at": {
+            "unix": 1519376400,
+            "text": "2018-02-23 09:00:00 +0000",
+            "iso_8601": "2018-02-23T09:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1519376400,
+            "text": "2018-02-23 09:00:00 +0000",
+            "iso_8601": "2018-02-23T09:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE HAS NOW FINISHED, PLEASE REVERT BACK TO YOUR ORIGINAL CHANNEL FOR COVERAGE ON THE UK & EUROPEAN SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-has-now-finished-please-revert-back-to-your-original-channel-for-coverage-on-the-uk-european-session-02-01-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-23 17:00:00",
+        "gmt_time": "2018-02-23 09:00:00"
+    },
+    {
+        "id": 610936,
+        "updated_sequence": 782568,
+        "published_at": {
+            "unix": 1519374780,
+            "text": "2018-02-23 08:33:00 +0000",
+            "iso_8601": "2018-02-23T08:33:00Z"
+        },
+        "updated_at": {
+            "unix": 1519375566,
+            "text": "2018-02-23 08:46:06 +0000",
+            "iso_8601": "2018-02-23T08:46:06Z"
+        },
+        "subject": "Riksbank Minutes: Several members expressed concerns about inflation developments in the future and stressed that the downside risks deserve particular attention when deciding at what time and at what rate it is appropriate to start raising the repo rate.",
+        "content": "<p>- Riksbank&rsquo;s Floden claims inflation still is a source of worry despite being close to target</p>\r\n\r\n<p>- Riksbank&rsquo;s Skingsley says downward revision is of such size that believes Repo rate path could be postponed</p>\r\n\r\n<p>- Riksbank&#39;s Jochnick notes the uncertainty factors could also be seen as arguments for postponing rate rises slightly</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Riksbank",
+        "slug": "riksbank-minutes-several-members-expressed-concerns-about-inflation-developments-in-the-future-and-stressed-that-the-downside-risks-deserve-particular-attention-when-deciding-at-what-time-and-at-what-rate-it-is-appropriate-to-start-raising-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 8,
+            "name": "Other Central Banks"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-23 16:33:00",
+        "gmt_time": "2018-02-23 08:33:00"
+    },
+    {
+        "id": 610935,
+        "updated_sequence": 782549,
+        "published_at": {
+            "unix": 1519373700,
+            "text": "2018-02-23 08:15:00 +0000",
+            "iso_8601": "2018-02-23T08:15:00Z"
+        },
+        "updated_at": {
+            "unix": 1519373792,
+            "text": "2018-02-23 08:16:32 +0000",
+            "iso_8601": "2018-02-23T08:16:32Z"
+        },
+        "subject": "Sun political journalist: ''I'm told by a Cabinet source that the agreed Brexit blueprint is “an ambitious opening gambit”. In other words, little expectation the EU27 will accept it.''",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Twitter",
+        "slug": "sun-political-journalist-i-m-told-by-a-cabinet-source-that-the-agreed-brexit-blueprint-is-an-ambitious-opening-gambit-in-other-words-little-expectation-the-eu27-will-accept-it-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 38,
+            "name": "Brexit"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-23 16:15:00",
+        "gmt_time": "2018-02-23 08:15:00"
+    },
+    {
+        "id": 610934,
+        "updated_sequence": 782546,
+        "published_at": {
+            "unix": 1519373400,
+            "text": "2018-02-23 08:10:00 +0000",
+            "iso_8601": "2018-02-23T08:10:00Z"
+        },
+        "updated_at": {
+            "unix": 1519373505,
+            "text": "2018-02-23 08:11:45 +0000",
+            "iso_8601": "2018-02-23T08:11:45Z"
+        },
+        "subject": "ECB says bank deposited EUR 676.9bln; excess liquidity EUR 1.83tln",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "ecb-says-bank-deposited-eur-676-9bln-excess-liquidity-eur-1-83tln-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 17,
+            "name": "ECB"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-23 16:10:00",
+        "gmt_time": "2018-02-23 08:10:00"
+    },
+    {
+        "id": 610933,
+        "updated_sequence": 782543,
+        "published_at": {
+            "unix": 1519373280,
+            "text": "2018-02-23 08:08:00 +0000",
+            "iso_8601": "2018-02-23T08:08:00Z"
+        },
+        "updated_at": {
+            "unix": 1519373337,
+            "text": "2018-02-23 08:08:57 +0000",
+            "iso_8601": "2018-02-23T08:08:57Z"
+        },
+        "subject": "BOND AUCTION PREVIEW: AUCTION PREVIEW: Italy are to sell EUR 3-4bln 0.1% 2022 and 1.3% 2028 BTPei and EUR 1.5-2bln 2019 CTZ Auction",
+        "content": "<p>In terms of historical data:</p>\r\n\r\n<p>0.1% 2022 prev. b/c 2.03 and average yield -0.51%</p>\r\n\r\n<p>1.3% 2028 prev. b/c 1.85 and average yield 0.97%</p>\r\n\r\n<p>2019 CTZ prev. b/c 1.83 and average yield -0.0.5%</p>\r\n\r\n<p>Bids are submitted by 1030GMT and results are published shortly after.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "bond-auction-preview-auction-preview-italy-are-to-sell-eur-3-4bln-0-1-2022-and-1-3-2028-btpei-and-eur-1-5-2bln-2019-ctz-auction-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 21,
+            "name": "Fixed Income"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-23 16:08:00",
+        "gmt_time": "2018-02-23 08:08:00"
+    },
+    {
+        "id": 610932,
+        "updated_sequence": 782540,
+        "published_at": {
+            "unix": 1519373040,
+            "text": "2018-02-23 08:04:00 +0000",
+            "iso_8601": "2018-02-23T08:04:00Z"
+        },
+        "updated_at": {
+            "unix": 1519373227,
+            "text": "2018-02-23 08:07:07 +0000",
+            "iso_8601": "2018-02-23T08:07:07Z"
+        },
+        "subject": "Morning EU Movers: Standard Life Aberdeen (SLA LN) +3.3%, BT (BT/A LN) +2.6%, Shire (SHP LN) +2.3%, Swiss Re (SREN SW) +1.03%, IAG (IAG LN) -2%, SES (SESG FP) -2.2%, RBS (RBS LN) -3.6%",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "morning-eu-movers-standard-life-aberdeen-sla-ln-3-3-bt-bt-a-ln-2-6-shire-shp-ln-2-3-swiss-re-sren-sw-1-03-iag-iag-ln-2-ses-sesg-fp-2-2-rbs-rbs-ln-3-6-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 28,
+            "name": "EUROSTOXX"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-23 16:04:00",
+        "gmt_time": "2018-02-23 08:04:00"
+    },
+    {
+        "id": 610931,
+        "updated_sequence": 782535,
+        "published_at": {
+            "unix": 1519372800,
+            "text": "2018-02-23 08:00:00 +0000",
+            "iso_8601": "2018-02-23T08:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1519372861,
+            "text": "2018-02-23 08:01:01 +0000",
+            "iso_8601": "2018-02-23T08:01:01Z"
+        },
+        "subject": "UK STIRs narrowly mixed, Gilts maybe betwixt and between",
+        "content": "<p>Very quiet start to Friday&rsquo;s session for Short Sterling futures, although the front month March contract has seen relatively decent volume and seemingly selling interest a fraction below Thursday&rsquo;s settlement level (99.345 currently, -0.5 tick) and suggesting an uptick in the 3 month Libor fix. UK debt may also return to Liffe close to unchanged on the day having closed at 121.70 yesterday given mixed external leads (Bunds firmer/USTs softer for choice), and with a blank domestic docket until midday when BoE&rsquo;s Ramsden participates in a panel discussion. However, lots more potential for US inspired trade and price movement later today with a heavy Fed agenda including speakers and new Chair Powell&rsquo;s semi annual MPR.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "uk-stirs-narrowly-mixed-gilts-maybe-betwixt-and-between-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-23 16:00:00",
+        "gmt_time": "2018-02-23 08:00:00"
+    },
+    {
+        "id": 610930,
+        "updated_sequence": 782528,
+        "published_at": {
+            "unix": 1519371480,
+            "text": "2018-02-23 07:38:00 +0000",
+            "iso_8601": "2018-02-23T07:38:00Z"
+        },
+        "updated_at": {
+            "unix": 1519371560,
+            "text": "2018-02-23 07:39:20 +0000",
+            "iso_8601": "2018-02-23T07:39:20Z"
+        },
+        "subject": "Bunds: acknowledging upturn in risk sentiment, initially",
+        "content": "<p>A mildly softer Eurex open in line with a dip in US Treasury futures overnight amidst firmer Asian-Pac equities, but the 10 year German bond remains underpinned on pull-backs having rebounded firmly from sub-158.00 lows earlier this week, and after an initial print at 158.68 vs yesterday&rsquo;s 158.76 close Bunds have already bounced to trade above parity. The core debt future is now retesting resistance around 158.85 and just hit 158.91, but needs more momentum to make a clean upside break and mount a serious challenge against the next bullish technical objectives (159.30-33 on some charts, assuming the psychological 159.00 level does not thwart buyers in the interim). More qualms about relative Eur strength raised by the ECB suggest no rush to speed up the pace of policy normalisation, and a similar message or tone could well be in the offing from Coeure later today as one of the dovish-leaning GC members. Data-wise, final Eurozone CPI is unlikely to be a major market-mover, but a raft of Fed speakers and new Chair Powell&rsquo;s first semi-annual Monetary Policy Report will be pivotal.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "bunds-acknowledging-upturn-in-risk-sentiment-initially-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-23 15:38:00",
+        "gmt_time": "2018-02-23 07:38:00"
+    },
+    {
+        "id": 610926,
+        "updated_sequence": 782532,
+        "published_at": {
+            "unix": 1519368900,
+            "text": "2018-02-23 06:55:00 +0000",
+            "iso_8601": "2018-02-23T06:55:00Z"
+        },
+        "updated_at": {
+            "unix": 1519372377,
+            "text": "2018-02-23 07:52:57 +0000",
+            "iso_8601": "2018-02-23T07:52:57Z"
+        },
+        "subject": "Additional European equity stories post the release of the Daily European equity opening news",
+        "content": "<p>Shire (SHP LN) &ndash; The FDA is expected to provide a decision on Lanadelumab by Aug. 26<sup>th</sup> 2018, based on the Prescription Drug User Fee Act. (Newswires)</p>\r\n\r\n<p>RBS (RBS LN) &ndash; FY 2017 net interest income GBP 8.99bln vs. Exp. GBP 8.99bln, FY attributable profit GBP 752mln vs. Prev. loss of GBP 7bln. CET1 ratio 15.9%. GBP 765mln conduct and litigation charges in Q4. Provides no update on the timing of their settlement with the US DoJ. (Newswires)</p>\r\n\r\n<p>IAG (IAG LN) &ndash; FY 2017 revenue EUR 20.3bln vs. Exp. EUR 23bln, operating profit EUR 3.02bln vs. Exp. EUR 3.05bln and FY net EUR 2.02bln vs. Prev. EUR 1.95bln. (Newswires)</p>\r\n\r\n<p>Pearson (PSON LN) &ndash; FY 2017 Revenue GBP 4.51bln vs. Exp. GBP 4.57bln, adj. operating profit GBP 576mln vs. Exp. GBP 562.9mln and EPS GBP 0.541 vs. Exp. GBP 0.588. (Newswires) &nbsp;</p>\r\n\r\n<p>Telecom Italia (TIT IM) &ndash; The Co.&rsquo;s JV with Canal+ on content is no longer happening, according to press reports. (Newswires)</p>\r\n\r\n<p>Repsol (REP SM) &ndash; Co. are set to initiate a share buyback program, according to reports. (Newswires)</p>\r\n\r\n<p>SES (SESG FP) &ndash; FY revenue EUR 2.04bln vs. Exp. EUR 2.03bln. FY net profit attributable to shareholders EUR 596.1mln vs. Exp. EUR 472mln. FY EBITDA EUR 1.32bln vs. Exp. EUR 1.32bln. (Newswires) &nbsp;</p>\r\n\r\n<p>Aviva (AV/ LN) &ndash; Co. have announced the sale of its insurance/pensions JV for EUR 202mln. (Newswires)</p>\r\n\r\n<p>Standard Life Aberdeen (SLA LN) &ndash; Adj. profit before tax GBP 1.039bln vs. Prev. GBP 1.054bln. FY dividend +7.5% to GBP 0.213/shr. Total adj. operating income +4% to GBP 2.928bln vs. Prev. GBP 2.820bln. with fee revenue +3% to GBP 2.763bln.&nbsp;Co. confirmed sale of insurance unit to Phoenix (PHNX LN), total consideration of GBP 3.24bln. (Newswires)</p>\r\n\r\n<p>William Hill (WMH LN) &ndash; FY net revenue GBP 1.7111bln vs. Prev. GBP 1.603bln. FY Adj. profit GBP 291.3mln vs. Prev. GBP 261.5mln, FY loss before interest and tax GBP 43.7mln vs. Prev. GBP 225.6mln and full-year dividend up 6% to GBP 0.13/shr. (Newswires)</p>\r\n\r\n<p>Rightmove (RMV LN) &ndash; FY revenue GBP 243.3mln vs. Prev. GBP 220mln. FY underlying operating profit +11% to GBP 184.4mln. Final dividend GBP 0.36/shr. Positive outlook remains for UK online property advertising market. (Newswires)</p>\r\n\r\n<p>BHP (BLT LN)/ Exxon (XOM) &ndash; The two companies reached a joint decision in abandoning the sale of their Australian oil fields after running a 20-month sale process. (Newswires)</p>\r\n\r\n<p>Telefonica Deutschland (O2D GY) &ndash; Co. stated they expect a boost of EUR 600mln to OIBDA between 2019 and 2022. (Newswires)</p>\r\n\r\n<p>TENARIS (TEN IM) UPGRADED TO OUTPERFORM FROM NEUTRAL AT CREDIT SUISSE</p>\r\n\r\n<p>BHP (BLT LN) DOWNGRADED TO HOLD FROM BUY AT DEUTSCHE BANK</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "additional-european-equity-stories-post-the-release-of-the-daily-european-equity-opening-news-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 33,
+            "name": "European Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-23 14:55:00",
+        "gmt_time": "2018-02-23 06:55:00"
+    },
+    {
+        "id": 610925,
+        "updated_sequence": 782482,
+        "published_at": {
+            "unix": 1519368600,
+            "text": "2018-02-23 06:50:00 +0000",
+            "iso_8601": "2018-02-23T06:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1519368734,
+            "text": "2018-02-23 06:52:14 +0000",
+            "iso_8601": "2018-02-23T06:52:14Z"
+        },
+        "subject": "DAILY EUROPEAN EQUITY OPENING NEWS: Highlights include earnings from Swiss Re and news from Airbus and Telecom Italia",
+        "content": "<p><strong>**EUROPEAN EQUITY COVERAGE WILL ONLY COVER COMPANIES IN THE STOXX 600 OR COMPANIES OF SYSTEMIC IMPORTANCE TO PARTICULAR SECTORS**</strong></p>\r\n\r\n<p><strong>23<sup>rd</sup> February 2018</strong></p>\r\n\r\n<p><strong>The Daily European Equity Opening News is uploaded at 0700GMT/0100CST recapping all of the overnight equity news</strong></p>\r\n\r\n<p><strong>From 0700GMT/0100CST all equity news will be covered in real time over the audio and headline feed and the full audio rundown will be at 0715GMT/0115CST. </strong></p>\r\n\r\n<p><strong>There will be an additional audio rundown at 0750GMT/0150CST recapping any company news which has hit the wires since 0715GMT/0115CST ahead of the European equity open</strong></p>\r\n\r\n<p><strong>ASIA</strong></p>\r\n\r\n<p>Asian equities look set to close the week on a positive note as major bourses traded in the green amid the uptick in crude prices. ASX 200 (+0.8%) had been buoyed by energy and material names, moving within closing just shy of 6,000. Miners were led by BHP (+1.5%) and South 32 (+5%), while oil prices rose throughout the US session after the latest DoE crude inventory data showed US oil output had dropped. Elsewhere, the Nikkei 225 (+0.5%) edged higher with the gains led by defensive stocks with investors seemingly content to shrug off the notion of a more aggressive Fed unwinding stimulus more rapidly than expected. Chinese markets had been positive for much of the session with the Hang Seng rising 0.8%, while the Shanghai Comp had a somewhat choppy session.</p>\r\n\r\n<p><strong>FTSE</strong></p>\r\n\r\n<p><strong>Standard Life Aberdeen (SLA LN)</strong> &ndash; <strong>Phoenix (PHNX LN)</strong> is said to be in talks to buy the co.&rsquo;s insurance unit. Phoenix is said to be planning about a GBP 1bln capital increase for the deal. (Newswires)</p>\r\n\r\n<p>BROKER MOVES</p>\r\n\r\n<p><strong>BT (BT/A LN)</strong> UPGRADED TO BUY FROM HOLD AT BERENBERG</p>\r\n\r\n<p><strong>BAE SYSTEMS (BA/ LN)</strong> DOWNGRADED TO UNDERWEIGHT FROM NEUTRAL AT JP MORGAN CHASE</p>\r\n\r\n<p><strong>DAX</strong></p>\r\n\r\n<p><strong>Allianz (ALV GY)</strong> &ndash; EWE will put a minority stake worth USD 1.9bln on the block later this year. The sale is expected to draw interest from groups including Allianz Capital Partners. (Newswires)</p>\r\n\r\n<p>Norwegian state fund wants to increase investments in Germany</p>\r\n\r\n<p>OTHER GERMAN COMPANIES</p>\r\n\r\n<p><strong>Rhoen-Klinikum (RHK GY)</strong> &ndash; FY 2017 prelim revenue EUR 1.21bln vs. Exp. EUR 1.21bln and EBITDA EUR 98mln vs. Exp. EUR 100mln. (Newswires)</p>\r\n\r\n<p>BROKER MOVES</p>\r\n\r\n<p><strong>E.ON (EOAN GY)</strong> UPGRADED TO BUY FROM HOLD AT SOCGEN</p>\r\n\r\n<p><strong>CAC</strong></p>\r\n\r\n<p><strong>Airbus (AIR FP) - </strong>&nbsp;The co. is among 5 of the remaining bidders for Canada&rsquo;s jet unit, it is among Boeing (BA NY), Dassault Systemes (DSY FP), Lockheed Martin (LMT NY) and Saab (SAAB SW)</p>\r\n\r\n<p><strong>Valeo (FR FP) -</strong> FY revenue 18.6bln vs Exp. EUR 18.7bln, Net profit EUR 1bln vs Exp. EUR 1bln. (Newswires)</p>\r\n\r\n<p><strong>Saint-Gobain (SGO FP)</strong> &ndash; FY revenue EUR 40.81bln vs. Exp. EUR 41bln, EBITDA EUR 4.23bln vs. Exp. EUR 4.3bln and operating income EUR 3.03bln vs. Ex. EUR 3bln. (Newswires)</p>\r\n\r\n<p>OTHER FRENCH COMPANIES</p>\r\n\r\n<p><strong>Euler Hermes (ELE FP)</strong> &ndash; <strong>Allianz (ALV GY)</strong> has announced their intention to begin the process of a squeeze-out and delisting of the Co.&rsquo;s shares. (Newswires)</p>\r\n\r\n<p><strong>EDF (EDF FP)</strong> &ndash;&nbsp; French nuclear regulator chief Chevet says welding issues at Flamanville are more serious than originally thought. (Newswires)</p>\r\n\r\n<p><strong>ADP (ADP FP) &ndash;</strong> FY EBITDA 1.57bln vs Exp. EUR 1.5bln, revenue 3.62bln vs Exp. EUR 3.50bln. ADP Groupe traffic +7.4% at 228.2mln passengers, airport traffic +4.6% at 101.5mln passengers.&nbsp; (Newswires)</p>\r\n\r\n<p>BROKER MOVES</p>\r\n\r\n<p><strong>INGENICO (ING FP)</strong> DOWNGRADED TO NEUTRAL FROM BUY AT CITIGROUP</p>\r\n\r\n<p><strong>PAN-EUROPE</strong></p>\r\n\r\n<p><strong>Telecom Italia (TIT IM)</strong> &ndash; has hired advisers to spin-off its fixed-line network unit, according to sources. (Newswires)</p>\r\n\r\n<p>BROKER MOVES</p>\r\n\r\n<p><strong>DIA (DIA SM)</strong> UPGRADED TO BUY FROM HOLD AT DEUTSCHE BANK</p>\r\n\r\n<p><strong>SNAM (SRG IM)</strong> UPGRADED TO BUY FROM HOLD AT DEUTSCHE BANK</p>\r\n\r\n<p><strong>SMI</strong></p>\r\n\r\n<p><strong>Swiss Re (SREN SW</strong>) &ndash; 2017 net profit USD 331mln vs. Exp. USD 119mln. Co. proposes dividend at CHF 5.00/shr vs. Prev. CHF 4.85/shr. Co. plans a new share buyback up to CHF 1bln. (Newswires)</p>\r\n\r\n<p>OTHER SWISS COMPANIES</p>\r\n\r\n<p><strong>Sika (SIK SW)</strong> &ndash; FY EBIT +12.7% to CHF 896.3mln.FY 2017 net profit CHF 649mln. Board proposing 15.6% increase in gross dividend to CHF 111 per bearer share, CHF 18.50 per registered share. (Newswires)</p>\r\n\r\n<p>BROKER MOVES</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>SCANDINAVIA</strong></p>\r\n\r\n<p>BROKER MOVES</p>\r\n\r\n<p><strong>H&amp;M (HMB SS)</strong> DOWNGRADED TO UNDERPERFORM FROM SECTOR PERFORM AT RBC</p>\r\n\r\n<p><strong>US</strong></p>\r\n\r\n<p><strong>EQUITIES: SPX +0.1% at 2704, DJI +0.7% at 24961, NDX +0.4% at 6762</strong></p>\r\n\r\n<p>Top sectors: Energy +0.9%, Materials +0.6%, Industrials +0.4%</p>\r\n\r\n<p>Bottom sectors: Financials -0.6%, Healthcare -0.25% Tech -0.16%</p>\r\n\r\n<p>The EMINI S&amp;P 500 March 2018 contract was jittery; in early trade, investors were content to shrug-off the notion of a more aggressive Fed potentially withdrawing stimulus more rapidly than anticipated &ndash; certainly more rapidly than the central bank had forecast in its December projections. There was no new narrative for today&rsquo;s price action; once again, traders seem to be contending with the Fed at a time when some have been complaining about frothy valuations (for some time, it should be noted). There may have been some positioning-related elements keeping the bid in stocks: analysts at JPMorgan argued that their equity models suggest that systematic selling of US equities has significantly eased, and volatility-targeting strategies might now be building longs; the bank also said that next week&rsquo;s month-end is likely to see substantial buying from fixed-weight allocators, meaning that equity flows could be &ldquo;a headwind for any near-term bearish bias.&rdquo; The EMINI managed to print highs just above 2730 in afternoon trade before running out of steam, and in late trade, the March 2018 contract dropped to re-test the 2700 level, and that level was breached heading into the close.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "daily-european-equity-opening-news-highlights-include-earnings-from-swiss-re-and-news-from-airbus-and-telecom-italia-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 33,
+            "name": "European Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-23 14:50:00",
+        "gmt_time": "2018-02-23 06:50:00"
+    },
+    {
+        "id": 610924,
+        "updated_sequence": 782479,
+        "published_at": {
+            "unix": 1519366440,
+            "text": "2018-02-23 06:14:00 +0000",
+            "iso_8601": "2018-02-23T06:14:00Z"
+        },
+        "updated_at": {
+            "unix": 1519366509,
+            "text": "2018-02-23 06:15:09 +0000",
+            "iso_8601": "2018-02-23T06:15:09Z"
+        },
+        "subject": "DAILY EUROPEAN OPENING NEWS: Asian equities look set to close the week on a positive note as major bourses traded in the green",
+        "content": "<ul><li><strong>Asian equities look set to close the week on a positive note as major bourses traded in the green</strong></li>\r\n  <li><strong>EU citizens who arrive in Britain during the post-Brexit transition period will be allowed to stay permanently under a U-turn planned by UK PM May</strong></li>\r\n  <li><strong>Looking ahead, highlights include German GDP, Eurozone inflation, Riksbank minutes, Canadian CPI and a slew of speakers </strong></li>\r\n</ul>\r\n\r\n<p><strong>ASIA</strong></p>\r\n\r\n<p>Asian equities look set to close the week on a positive note as major bourses traded in the green amid the uptick in crude prices. <strong>ASX 200 (+0.8%) </strong>had<strong> </strong>been buoyed by energy and material names, moving within closing just shy of 6,000. Miners were led by BHP (+1.5%) and South 32 (+5%), while oil prices rose throughout the US session after the latest DoE crude inventory data showed US oil output had dropped. Elsewhere, the <strong>Nikkei 225 (+0.5%)</strong> edged higher with the gains led by defensive stocks with investors seemingly content to shrug off the notion of a more aggressive Fed unwinding stimulus more rapidly than expected. Chinese markets had been positive for much of the session with the Hang Seng rising 0.8%, while the Shanghai Comp had a somewhat choppy session. JGB yields dipped overnight, with the curve modestly flatter.</p>\r\n\r\n<p><strong>Japanese CPI, Ex Food and Energy YY (Jan) 0.4% vs. Exp. 0.3% (Prev. 0.3%)</strong></p>\r\n\r\n<p>Japanese CPI, Core Nationwide YY (Jan) 0.9% vs. Exp. 0.8% (Prev. 0.9%)</p>\r\n\r\n<p>Japanese CPI, Overall Nationwide (Jan) 1.4% vs. Exp. 1.3% (Prev. 1.0%); Highest since March 2015</p>\r\n\r\n<p>China revises January trade surplus higher to USD 20.35bln vs. prelim USD 20.34bln, according to customs. (Newswires)</p>\r\n\r\n<p><strong>UK/EU</strong></p>\r\n\r\n<p>EU citizens who arrive in Britain during the post-Brexit transition period will be allowed to stay permanently under a U-turn planned by UK PM May. (Times)</p>\r\n\r\n<p>UK PM May and 11 senior ministers have been thrashing out the UK&#39;s approach to Brexit in an eight-hour discussion at the PM&#39;s country retreat. The PM will set out the position in a speech next week, after a discussion by the full cabinet. (BBC)</p>\r\n\r\n<p>UK opposition leader Jeremy Corbyn could use a key Brexit speech on Monday to pave the way for Labour to inflict a Commons defeat on the government, by backing a rebel Tory amendment seeking to keep Britain in &ldquo;a customs union&rdquo;. (Guardian)</p>\r\n\r\n<p>ECB&#39;s Smets says EUR strength is not yet a concern and has full confidence that the ECB will reach inflation target. (Newswires)<br />&nbsp;</p>\r\n\r\n<p><strong>FX</strong></p>\r\n\r\n<p><a name=\"_Hlk503148913\"></a><a name=\"_Hlk503148890\"></a><a name=\"_Hlk503148850\">Across FX markets, price action had been relatively quiet for much of the session. Firmer than expected readings across the board for Japanese inflation data had been seemingly shrugged off by the <strong>JPY</strong> as inflation still remains far off the BoJ&rsquo;s 2% target. Elsewhere, <strong>NZD</strong> underperformed overnight despite better than expected retail sales data for Q4, with analysts suggesting that this is not enough to change the narrative for the RBNZ as price pressures continue to remain subdued. Alongside this, cross related buying in <strong>AUD</strong>/<strong>NZD</strong> kept the <strong>NZD</strong> pressured as the cross moved above 1.07 and in turn push <strong>NZD</strong> through 0.73. </a></p>\r\n\r\n<p><br /><strong>COMMODITIES</strong></p>\r\n\r\n<p><strong>WTI</strong> and <strong>Brent</strong> crude futures fell slightly overnight, however prices did trade within close proximity to yesterday&rsquo;s highs which had been led by yesterday&rsquo;s DoE data, which showed a larger than expected drawdown, while US crude output also dipped. Elsewhere, in the precious metals complex, gold prices were pressured amid the risk on tone seen in Asia, while the USD index also picked up overnight.</p>\r\n\r\n<p>Motiva Port Arthur Texas refinery (capacity 603k bpd) large crude unit is said to restart in early March, according to sources. (Newswires)</p>\r\n\r\n<p>Phillips 66 alliance louisiana refinery (capacity 260k bpd) is preparing for reformer and hydrotreater overhauls in March, according to sources. (Newswires)</p>\r\n\r\n<p><strong>GEOPOLITICAL</strong></p>\r\n\r\n<p>US is said to announce new sanctions on North Korea later today, according to sources. (Newswires)</p>\r\n\r\n<p><br /><strong>US</strong></p>\r\n\r\n<p>TREASURIES: US T-Note futures settle 7 ticks higher at 120-12+</p>\r\n\r\n<p>Treasury yields were a touch lower, and major curve spreads were mixed, on a day where the US Treasury&rsquo;s $258bln of supply was complete (including bills), and a hefty slate of corporate supply, which saw heavy issuance in the 5-, 10- and 30-year buckets. As that supply was launching in afternoon trade, there was some pressure on the Tplex, though the curve remained in positive territory.</p>\r\n\r\n<p>The US Treasury completed its supply with a lacklustre sale of 7-year notes on Thursday. The auction saw a tail of 0.7bps, cover was the lowest since November, and direct bidders took down their largest share since September. There was a little encouragement in the internals, after indirect participation didn&rsquo;t mirror what we saw out of the 2s and 5s auction this week, where it was notably high. Treasury prices were little changed following the sale.</p>\r\n\r\n<p>Fed&#39;s Kaplan (Non-Voter, Dove) stated that the view of 3 rate hikes is appropriate and could change if employment and inflation exceeds his forecasts. (Newswires)</p>\r\n\r\n<p>US Treasury Secretary Mnuchin says President Trump&#39;s policies will boost wages without inflation concerns. (Newswires)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "ransquawk",
+        "slug": "daily-european-opening-news-asian-equities-look-set-to-close-the-week-on-a-positive-note-as-major-bourses-traded-in-the-green-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-23 14:14:00",
+        "gmt_time": "2018-02-23 06:14:00"
+    },
+    {
+        "id": 610923,
+        "updated_sequence": 782476,
+        "published_at": {
+            "unix": 1519362000,
+            "text": "2018-02-23 05:00:00 +0000",
+            "iso_8601": "2018-02-23T05:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1519362030,
+            "text": "2018-02-23 05:00:30 +0000",
+            "iso_8601": "2018-02-23T05:00:30Z"
+        },
+        "subject": "Singapore CPI (Jan) Y/Y 0.0% vs. Exp. 0.54 (Prev. 0.4%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "singapore-cpi-jan-y-y-0-0-vs-exp-0-54-prev-0-4-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-23 13:00:00",
+        "gmt_time": "2018-02-23 05:00:00"
+    },
+    {
+        "id": 610922,
+        "updated_sequence": 782473,
+        "published_at": {
+            "unix": 1519356000,
+            "text": "2018-02-23 03:20:00 +0000",
+            "iso_8601": "2018-02-23T03:20:00Z"
+        },
+        "updated_at": {
+            "unix": 1519356112,
+            "text": "2018-02-23 03:21:52 +0000",
+            "iso_8601": "2018-02-23T03:21:52Z"
+        },
+        "subject": "ASIA-PAC MID-SESSION UPDATE: Asian equities set to close out the week on the front foot as investors shrug off the notion of a more aggressive Fed",
+        "content": "<p>Asian equities look set to close the week on a positive note as major bourses trade in the green. ASX 200 has been buoyed by energy and material names. Miners has been led by BHP and South 32, while oil prices rose throughout the US session after the latest DoE crude inventory data showed US oil output had dropped. Elsewhere, the Nikkei 225 edged higher with the gains led by defensive stocks, while investors seem content to shrug off the notion of a more aggressive Fed unwinding stimulus more rapidly than expected. Chinese markets have also confirmed to the positive tone, with the Shanghai Comp extending on yesterday stellar gains.</p>\r\n\r\n<p>Across FX markets, price action has been relatively quiet, JPY seemingly unfazed by the higher than expected inflation data out of Japan. NZD dipped despite solid retail sales data which came ahead of analysts estimates. However, this is not enough to change the narrative for the RBNZ, while price pressures continue to remain subdued, alongside this, AUD/NZD has seen a break above 1.07 which in turn has pressured NZD to move towards the 0.73 handle.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "asia-pac-mid-session-update-asian-equities-set-to-close-out-the-week-on-the-front-foot-as-investors-shrug-off-the-notion-of-a-more-aggressive-fed-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-23 11:20:00",
+        "gmt_time": "2018-02-23 03:20:00"
+    },
+    {
+        "id": 610921,
+        "updated_sequence": 782470,
+        "published_at": {
+            "unix": 1519355520,
+            "text": "2018-02-23 03:12:00 +0000",
+            "iso_8601": "2018-02-23T03:12:00Z"
+        },
+        "updated_at": {
+            "unix": 1519355586,
+            "text": "2018-02-23 03:13:06 +0000",
+            "iso_8601": "2018-02-23T03:13:06Z"
+        },
+        "subject": "China revises January trade surplus higher to USD 20.35bln vs. prelim USD 20.34bln, according to customs",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "china-revises-january-trade-surplus-higher-to-usd-20-35bln-vs-prelim-usd-20-34bln-according-to-customs-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-23 11:12:00",
+        "gmt_time": "2018-02-23 03:12:00"
+    },
+    {
+        "id": 610920,
+        "updated_sequence": 782467,
+        "published_at": {
+            "unix": 1519354980,
+            "text": "2018-02-23 03:03:00 +0000",
+            "iso_8601": "2018-02-23T03:03:00Z"
+        },
+        "updated_at": {
+            "unix": 1519355064,
+            "text": "2018-02-23 03:04:24 +0000",
+            "iso_8601": "2018-02-23T03:04:24Z"
+        },
+        "subject": "Australia Deputy PM Joyce has resigned as leader of National Party, but will remain in parliament",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "australia-deputy-pm-joyce-has-resigned-as-leader-of-national-party-but-will-remain-in-parliament-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-23 11:03:00",
+        "gmt_time": "2018-02-23 03:03:00"
+    },
+    {
+        "id": 610919,
+        "updated_sequence": 782464,
+        "published_at": {
+            "unix": 1519354800,
+            "text": "2018-02-23 03:00:00 +0000",
+            "iso_8601": "2018-02-23T03:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1519354870,
+            "text": "2018-02-23 03:01:10 +0000",
+            "iso_8601": "2018-02-23T03:01:10Z"
+        },
+        "subject": "Option expiries of note for today's 10.00am NY cut (1500GMT)",
+        "content": "<p>USD/JPY: 104.50 (USD 200m), 106.25 (USD 100m), 106.50 (USD 150m), 107.00 (USD 918m), 107.40 (USD 595m), 108.00 (USD 398m), 108.25 (USD 400m), 108.50 (USD 150m), 108.75 (USD 250m), 108.89 (USD 500m), 109.00 (USD 1700m), 109.25 (USD 250m), 110.00 (USD 250m)</p>\r\n\r\n<p>EUR/USD: 1.2275 (EUR 122.2m), 1.2300 (EUR 842m)</p>\r\n\r\n<p>EUR/JPY: 131.20 (EUR 120m)</p>\r\n\r\n<p>GBP/USD: 1.3900 (GBP 365m), 1.4050 (GBP 641m), 1.4282 (GBP 294.08m)</p>\r\n\r\n<p>GBP/JPY: 148.50 (GBP 150m)</p>\r\n\r\n<p>AUD/USD: 0.7825 (AUD 255.59m), 0.7950 (AUD 301.88m), 0.8020 (AUD 598.5m)</p>\r\n\r\n<p>AUD/JPY: 82.00 (AUD 620m), 82.50 (AUD 580m), 83.25 (AUD 400m)</p>\r\n\r\n<p>USD/CAD: 1.2445 (USD 100m)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "option-expiries-of-note-for-today-s-10-00am-ny-cut-1500gmt-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-23 11:00:00",
+        "gmt_time": "2018-02-23 03:00:00"
+    },
+    {
+        "id": 610918,
+        "updated_sequence": 782461,
+        "published_at": {
+            "unix": 1519350660,
+            "text": "2018-02-23 01:51:00 +0000",
+            "iso_8601": "2018-02-23T01:51:00Z"
+        },
+        "updated_at": {
+            "unix": 1519350733,
+            "text": "2018-02-23 01:52:13 +0000",
+            "iso_8601": "2018-02-23T01:52:13Z"
+        },
+        "subject": "China are to notify banks over supporting HNA Group (998 HK)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "china-are-to-notify-banks-over-supporting-hna-group-998-hk-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-23 09:51:00",
+        "gmt_time": "2018-02-23 01:51:00"
+    },
+    {
+        "id": 610917,
+        "updated_sequence": 782458,
+        "published_at": {
+            "unix": 1519348620,
+            "text": "2018-02-23 01:17:00 +0000",
+            "iso_8601": "2018-02-23T01:17:00Z"
+        },
+        "updated_at": {
+            "unix": 1519348661,
+            "text": "2018-02-23 01:17:41 +0000",
+            "iso_8601": "2018-02-23T01:17:41Z"
+        },
+        "subject": "PBoC sets CNY mid-point at 6.3482 (Prev. 6.3530)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pboc-sets-cny-mid-point-at-6-3482-prev-6-3530-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-23 09:17:00",
+        "gmt_time": "2018-02-23 01:17:00"
+    },
+    {
+        "id": 610916,
+        "updated_sequence": 782455,
+        "published_at": {
+            "unix": 1519348500,
+            "text": "2018-02-23 01:15:00 +0000",
+            "iso_8601": "2018-02-23T01:15:00Z"
+        },
+        "updated_at": {
+            "unix": 1519348625,
+            "text": "2018-02-23 01:17:05 +0000",
+            "iso_8601": "2018-02-23T01:17:05Z"
+        },
+        "subject": "PBOC are to inject CNY 110bln via 7-day reverse repos, CNY 80bln via 28-day reverse repos and CNY 40bln via 63-day reverse repos",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pboc-are-to-inject-cny-110bln-via-7-day-reverse-repos-cny-80bln-via-28-day-reverse-repos-and-cny-40bln-via-63-day-reverse-repos-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-23 09:15:00",
+        "gmt_time": "2018-02-23 01:15:00"
+    },
+    {
+        "id": 610915,
+        "updated_sequence": 782452,
+        "published_at": {
+            "unix": 1519348320,
+            "text": "2018-02-23 01:12:00 +0000",
+            "iso_8601": "2018-02-23T01:12:00Z"
+        },
+        "updated_at": {
+            "unix": 1519348422,
+            "text": "2018-02-23 01:13:42 +0000",
+            "iso_8601": "2018-02-23T01:13:42Z"
+        },
+        "subject": "BoJ Open Market Operation - JPY 250bln 1 - 3 Year - JPY 330bln 3 - 5 Year - JPY 190bln 10 - 25 Year - JPY 80bln 25+ Year",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "boj-open-market-operation-jpy-250bln-1-3-year-jpy-330bln-3-5-year-jpy-190bln-10-25-year-jpy-80bln-25-year-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-23 09:12:00",
+        "gmt_time": "2018-02-23 01:12:00"
+    },
+    {
+        "id": 610914,
+        "updated_sequence": 782449,
+        "published_at": {
+            "unix": 1519346880,
+            "text": "2018-02-23 00:48:00 +0000",
+            "iso_8601": "2018-02-23T00:48:00Z"
+        },
+        "updated_at": {
+            "unix": 1519346939,
+            "text": "2018-02-23 00:48:59 +0000",
+            "iso_8601": "2018-02-23T00:48:59Z"
+        },
+        "subject": "PRE-MARKET CHINESE STOCK NEWS",
+        "content": "<p>Poten Environment&#39;s (603603 CH) shareholder plans to unload up to 6% stake within six months. (Newswires)</p>\r\n\r\n<p>Chinese conglomerate Fosun (656 HK) Co. said it had completed a deal to become the majority shareholder in Lanvin. (Newswires)</p>\r\n\r\n<p>Rusal (486 HK) Q4 Adj. Ebitda USD 586mln vs. Exp. USD 588mln, revenue USD 2.75bln vs. Exp. USD 2.73bln, while global aluminium demand rose 6%. (Newswires)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-chinese-stock-news-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-23 08:48:00",
+        "gmt_time": "2018-02-23 00:48:00"
+    },
+    {
+        "id": 610913,
+        "updated_sequence": 782446,
+        "published_at": {
+            "unix": 1519345560,
+            "text": "2018-02-23 00:26:00 +0000",
+            "iso_8601": "2018-02-23T00:26:00Z"
+        },
+        "updated_at": {
+            "unix": 1519346254,
+            "text": "2018-02-23 00:37:34 +0000",
+            "iso_8601": "2018-02-23T00:37:34Z"
+        },
+        "subject": "US Treasury Secretary Mnuchin says President Trump's policies will boost wages without inflation concerns",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-treasury-secretary-mnuchin-says-president-trump-s-policies-will-boost-wages-without-inflation-concerns-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-23 08:26:00",
+        "gmt_time": "2018-02-23 00:26:00"
+    },
+    {
+        "id": 610912,
+        "updated_sequence": 782440,
+        "published_at": {
+            "unix": 1519344660,
+            "text": "2018-02-23 00:11:00 +0000",
+            "iso_8601": "2018-02-23T00:11:00Z"
+        },
+        "updated_at": {
+            "unix": 1519345078,
+            "text": "2018-02-23 00:17:58 +0000",
+            "iso_8601": "2018-02-23T00:17:58Z"
+        },
+        "subject": "Rusal (486 HK) Q4 Adj. Ebitda USD 586mln vs. Exp. USD 588mln, revenue USD 2.75bln vs. Exp. USD 2.73bln, while global aluminium demand rose 6%",
+        "content": "<p>- Co. names CFO Alexandra Bouriko to run as CEO from March 15th.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "rusal-486-hk-q4-adj-ebitda-usd-586mln-vs-exp-usd-588mln-revenue-usd-2-75bln-vs-exp-usd-2-73bln-while-global-aluminium-demand-rose-6-23-02-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-02-23 08:11:00",
+        "gmt_time": "2018-02-23 00:11:00"
+    }
+]

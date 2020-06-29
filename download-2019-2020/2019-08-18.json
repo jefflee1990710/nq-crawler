@@ -1,0 +1,410 @@
+[
+    {
+        "id": 882678,
+        "updated_sequence": 1911080,
+        "published_at": {
+            "unix": 1566172200,
+            "text": "2019-08-19 00:50:00 +0100",
+            "iso_8601": "2019-08-18T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1566172521,
+            "text": "2019-08-19 00:55:21 +0100",
+            "iso_8601": "2019-08-18T23:55:21Z"
+        },
+        "subject": "Japanese Adjusted Trade Balance (JPY)(Jul) -126.8B vs. Exp, -150.8B (-14.4B)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-adjusted-trade-balance-jpy-jul-126-8b-vs-exp-150-8b-14-4b-18-08-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-08-19 07:50:00",
+        "gmt_time": "2019-08-18 23:50:00"
+    },
+    {
+        "id": 882674,
+        "updated_sequence": 1911125,
+        "published_at": {
+            "unix": 1566171000,
+            "text": "2019-08-19 00:30:00 +0100",
+            "iso_8601": "2019-08-18T23:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1566180140,
+            "text": "2019-08-19 03:02:20 +0100",
+            "iso_8601": "2019-08-19T02:02:20Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIA, JAPANESE AND SOUTH KOREAN STOCK NEWS: ASIC plans to sue banks including Australia's big 4 in the upcoming weeks and months",
+        "content": "<p>AUSTRALIA</p><p>Beach Energy (BPT AT) - Co. H1 underlying net AUD 560.1mln vs. Prev. AUD 301.5mln Y/Y, rev. AUD 2.08bln vs. Prev. AUD 1.27bln Y/Y, raises 5yr production target to 34mln-40mln BOE from 30mln-36mln BOE. (Newswires)</p><p>Bluescope Steel (BSL AT) - Co. FY19 underlying net AUD 996.3mln vs. Exp. AUD 946mln, rev. AUD 12.53bln vs. Prev. AUD 11.49bln Y/Y. (Newswires)</p><p>Crown Resorts (CWN AT) - Co. announces settlement of Crown Sydney Sight Lines dispute. (Newswires)</p><p>Hills (HIL AT) - Co. strategic review recommends increased focus on growing health business, while it will halt manufacturing at the O’Sullivan Beach facility. (Newswires)</p><p>Lend Lease Corp (LLC AT) - Co. FY19 net AUD 467mln vs. Prev. AUD 793mln Y/Y, rev. AUD 16.5bln vs. Prev. AUD 16.6bln Y/Y, Co. stressed the strong position of its core business and confirmed several parties are conducting due diligence on its engineering unit. (Newswires)</p><p>Newcrest Mining (NCM AT) - Co. is to sell a minimum 26% of its 75% stake in the Gosowong gold and silver mine in Indonesia. (Newswires)</p><p>NIB Holdings (NHF AT) - Co. FY19 underlying oper. profit AUD 201.8mln vs. Exp. AUD 201.0mln, rev. AUD 2.46bln vs. Prev. AUD 2.30bln Y/Y. (Newswires)</p><p>Prime Media (PRT AT) - Co. is no longer viewed as a takeover target with Seven West Media (SWM AT) said to no longer be interested. (Newswires)</p><p>Westpac (WBC AT) - Co. Q3 risk weighted assets AUD 422.2bln vs. Prev. AUD 417.5bln Y/Y, Q3 impaired assets rose by AUD 100mln to AUD 1.9bln. (Newswires)</p><p>Worley Parsons (WOR AT) - Co. receives project management consultancy contract from Reliance Industries (RIL IS) for the MJ Field deep-water gas and condensate project. (Newswires)</p><p>Financials - Australia Securities and Investments Commission is reportedly to sue banks in the upcoming few weeks, while other reports noted that the regulator is planning to put up as many as 50 matters to the courts in approaching months and ASIC also stated that it will issue proceedings against the big 4 banks, AMP and Macquarie. (The Australian/AFR)</p><p>&nbsp;</p><p>JAPAN</p><p>Akebono Brake Industry (7238 JT) - Co. is still targeting for all banks to agree on turnaround plan. (Newswires)</p><p>FamilyMart Uny Holdings (8028 JT) - Co. plans to acquire 10.2% stake in Pan Pacific International. (Newswires)</p><p>SoftBank (9984 JT) - Co. reportedly plans to lend employees up to USD 20bln to buy stakes in the second Vision Fund. (Newswires)</p><p>Unizo Holdings (3258 JT) - Fortress Fund is to launch an offer to acquire all of Co. shares for JPY 4000/Shr and delist the Co. (Newswires)</p><p>&nbsp;</p><p>SOUTH KOREA</p><p>Automakers - South Korean automakers production capacity declined in H1 Y/Y, which reports noted signals another bad year after production capacity of the industry had already fallen to a 15-year low in 2018. (Yonhap)</p><p>Other News - South Korea Unification Minister pledged to make unswerving efforts for inter-Korean peace despite difficulties, while there were also reports that US Special Rep. for North Korea Biegun plans to travel to Japan and South Korea this week. (Newswires)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-australia-japanese-and-south-korean-stock-news-asic-plans-to-sue-banks-including-australia-s-big-4-in-the-upcoming-weeks-and-months-18-08-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-08-19 07:30:00",
+        "gmt_time": "2019-08-18 23:30:00"
+    },
+    {
+        "id": 882673,
+        "updated_sequence": 1911063,
+        "published_at": {
+            "unix": 1566170760,
+            "text": "2019-08-19 00:26:00 +0100",
+            "iso_8601": "2019-08-18T23:26:00Z"
+        },
+        "updated_at": {
+            "unix": 1566170858,
+            "text": "2019-08-19 00:27:38 +0100",
+            "iso_8601": "2019-08-18T23:27:38Z"
+        },
+        "subject": "China Global Times tweets that government document shows China will support financial products and funds' mutual recognition between Shenzhen and Hong Kong",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "china-global-times-tweets-that-government-document-shows-china-will-support-financial-products-and-funds-mutual-recognition-between-shenzhen-and-hong-kong-18-08-2019",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-08-19 07:26:00",
+        "gmt_time": "2019-08-18 23:26:00"
+    },
+    {
+        "id": 882672,
+        "updated_sequence": 1911060,
+        "published_at": {
+            "unix": 1566169920,
+            "text": "2019-08-19 00:12:00 +0100",
+            "iso_8601": "2019-08-18T23:12:00Z"
+        },
+        "updated_at": {
+            "unix": 1566169994,
+            "text": "2019-08-19 00:13:14 +0100",
+            "iso_8601": "2019-08-18T23:13:14Z"
+        },
+        "subject": "UK government plans to end freedom of movement for EU citizens on day 1 of Brexit",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "uk-government-plans-to-end-freedom-of-movement-for-eu-citizens-on-day-1-of-brexit-18-08-2019",
+        "hidden": false,
+        "section": {
+            "id": 38,
+            "name": "Brexit"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-08-19 07:12:00",
+        "gmt_time": "2019-08-18 23:12:00"
+    },
+    {
+        "id": 882670,
+        "updated_sequence": 1911054,
+        "published_at": {
+            "unix": 1566169260,
+            "text": "2019-08-19 00:01:00 +0100",
+            "iso_8601": "2019-08-18T23:01:00Z"
+        },
+        "updated_at": {
+            "unix": 1566169310,
+            "text": "2019-08-19 00:01:50 +0100",
+            "iso_8601": "2019-08-18T23:01:50Z"
+        },
+        "subject": "UK Rightmove House Prices (Aug) M/M -1.0% (Prev. -0.2%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "uk-rightmove-house-prices-aug-m-m-1-0-prev-0-2-18-08-2019",
+        "hidden": false,
+        "section": {
+            "id": 29,
+            "name": "UK Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-08-19 07:01:00",
+        "gmt_time": "2019-08-18 23:01:00"
+    },
+    {
+        "id": 882671,
+        "updated_sequence": 1911057,
+        "published_at": {
+            "unix": 1566169260,
+            "text": "2019-08-19 00:01:00 +0100",
+            "iso_8601": "2019-08-18T23:01:00Z"
+        },
+        "updated_at": {
+            "unix": 1566169316,
+            "text": "2019-08-19 00:01:56 +0100",
+            "iso_8601": "2019-08-18T23:01:56Z"
+        },
+        "subject": "UK Rightmove House Prices (Aug) Y/Y 1.2% (Prev. -0.2%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "uk-rightmove-house-prices-aug-y-y-1-2-prev-0-2-18-08-2019",
+        "hidden": false,
+        "section": {
+            "id": 29,
+            "name": "UK Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-08-19 07:01:00",
+        "gmt_time": "2019-08-18 23:01:00"
+    },
+    {
+        "id": 882666,
+        "updated_sequence": 1911042,
+        "published_at": {
+            "unix": 1566167400,
+            "text": "2019-08-18 23:30:00 +0100",
+            "iso_8601": "2019-08-18T22:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1566167471,
+            "text": "2019-08-18 23:31:11 +0100",
+            "iso_8601": "2019-08-18T22:31:11Z"
+        },
+        "subject": "New Zealand Performance of Services Index (Jul) 54.7 (Prev. 52.7)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "new-zealand-performance-of-services-index-jul-54-7-prev-52-7-18-08-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-08-19 06:30:00",
+        "gmt_time": "2019-08-18 22:30:00"
+    },
+    {
+        "id": 882665,
+        "updated_sequence": 1911039,
+        "published_at": {
+            "unix": 1566166500,
+            "text": "2019-08-18 23:15:00 +0100",
+            "iso_8601": "2019-08-18T22:15:00Z"
+        },
+        "updated_at": {
+            "unix": 1566166663,
+            "text": "2019-08-18 23:17:43 +0100",
+            "iso_8601": "2019-08-18T22:17:43Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASES CALENDAR NOW AVAILABLE IN THE RESEARCH SECTION: Highlights include New Zealand Services PMI and PPI data, Japanese Trade Balance, Exports and Imports",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asian-daily-economic-releases-calendar-now-available-in-the-research-section-highlights-include-new-zealand-services-pmi-and-ppi-data-japanese-trade-balance-exports-and-imports-18-08-2019",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-08-19 06:15:00",
+        "gmt_time": "2019-08-18 22:15:00"
+    },
+    {
+        "id": 882664,
+        "updated_sequence": 1911155,
+        "published_at": {
+            "unix": 1566166140,
+            "text": "2019-08-18 23:09:00 +0100",
+            "iso_8601": "2019-08-18T22:09:00Z"
+        },
+        "updated_at": {
+            "unix": 1566186518,
+            "text": "2019-08-19 04:48:38 +0100",
+            "iso_8601": "2019-08-19T03:48:38Z"
+        },
+        "subject": "US President Trump is said to have suggested the idea of stationing US Navy ships along the Venezuelan coastline to prevent goods from coming in and out of the country",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Axios",
+        "slug": "us-president-trump-is-said-to-have-suggested-the-idea-of-stationing-us-navy-ships-along-the-venezuelan-coastline-to-prevent-goods-from-coming-in-and-out-of-the-country-18-08-2019",
+        "hidden": false,
+        "section": {
+            "id": 23,
+            "name": "Geopolitical"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-08-19 06:09:00",
+        "gmt_time": "2019-08-18 22:09:00"
+    },
+    {
+        "id": 882663,
+        "updated_sequence": 1911123,
+        "published_at": {
+            "unix": 1566164940,
+            "text": "2019-08-18 22:49:00 +0100",
+            "iso_8601": "2019-08-18T21:49:00Z"
+        },
+        "updated_at": {
+            "unix": 1566178108,
+            "text": "2019-08-19 02:28:28 +0100",
+            "iso_8601": "2019-08-19T01:28:28Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p><strong>ASIA-PAC</strong></p><p>US President Trump reiterated he is not ready to make a deal with China and that China tariffs have cost nothing or very little, while he added the US does not want to do business with Huawei and a decision will be made on Monday. Trump also commented that Chinese President Xi has something in mind to do with trade and suggested we'll see what happens. Conversely, there were separate reports that the Trump administration will grant Huawei an additional 90-day extension on a licence which allows the Chinese tech firm to conduct some business with US customers. (Newswires)</p><p>White House Adviser Kudlow said US and Chinese negotiators will talk in the next week or 10 days and that if lower level talks pan out, we will still have a face to face meeting in September, while he added that China’s response to Hong Kong protests could impact trade discussions. (Newswires)</p><p>China Cabinet said it will use market-based reforms to lower real interest rates and will step up support for companies that have orders and credibility, while it added it will reform and improve lending interest rate formation mechanism. In related news, the PBoC announced a new interest rate reform plan including making Loan Prime Rate the new Benchmark Reference Rate to be used by banks for lending which is aimed at supporting funding for small businesses and is to be set monthly.(Newswires)</p><p>China on Friday opposed US arms sales to Taiwan and lodged solemn representations to the US side. (Newswires)</p><p>Hundreds of thousands of protesters marched along downtown Hong Kong on Sunday in what was the largest rally in weeks and which forced police to block roads. (Newswires)</p><p>India government is said to be concerned by recent stock market performance and weak investor sentiment according to an official, while the government are to hold meetings this week and want a comprehensive discussion on any package to revive growth. Furthermore, there were later source reports the government is also looking into exempting foreign portfolio trusts from high tax and easing bank credit. (Newswires)</p><p>&nbsp;</p><p><strong>UK/EU</strong></p><p>UK Chancellor Javid said he would not be doing his job if he did not consider how to take advantage of low borrowing costs and that a no-deal Brexit will require a significant economic package as a result. Javid said he wants to see lower taxes at a level that will pay for public service and he is yet to decide whether to hold an annual budget before or after the Brexit date, while he noted concerns about the global economy but stated UK fundamentals are strong. (Newswires)</p><p>UK opposition Labour party leader Corbyn said will do everything necessary to halt a no-deal Brexit. However, there were also separate reports that Liberal Democratic sources are reportedly increasingly convinced Labour Leader Corbyn is not serious about forming an anti no-deal alliance and the sources believe he is using it as a way to tell Remain voters he tried. (FT/Daily Mail)</p><p>German government is said to be prepared for deficit spending in the event of a recession, while there were also comments from German Finance Minister Scholz that they could spend up to EUR 50bln if needed and that the country has fiscal strength as well as ability to counter future economic crisis with full force. (Newswires/Der Spiegel)</p><p>Fitch affirmed Hungary at 'BBB'; Outlook Stable. (Newswires)</p><p>&nbsp;</p><p><strong>COMMODITIES</strong></p><p>Baker Hughes Rig Count: Oil rigs +6 at 770, Gas rigs -4 at 165, Total rigs +1 at 935. (Newswires)</p><p>OPEC monthly report stated 2019 oil demand growth is forecast at around 1.10mln BPD which is down 40k BPD from the prior report and said the outlook for oil market fundamentals seems somewhat bearish for the rest of 2019. OPEC added that OPEC crude production fell 246k BPD in June to 29.61mln BPD according to secondary sources and that OECD inventories rose in June to above 5-year average (the level targeted in the original supply cut deal). (Newswires)</p><p>PetroChina have halted direct oil purchases from Venezuela amid sanction concerns. (Newswires)</p><p>Protesters in Peru set fire to China National Petroleum Corp offices. (Newswires)</p><p>&nbsp;</p><p><strong>GEOPOLITICS</strong></p><p>US issued a warrant to seize the Iranian oil tanker Grace 1 which was just released by Gibraltar. (Newswires)</p><p>&nbsp;</p><p><strong>US</strong></p><p>Fed’s Mester (non-voter, hawk) said she would have preferred to hold US rates constant in July but it was a close call and that the salient question is whether to cut rates or keep them steady. Mester added she can see scenarios where rates are steady or move lower and that US economic risks are weighted to the downside, while she also stated that sometimes holding pat on rates is tightening policy and suggested a need to take time to assess economic conditions then move policy as appropriate. (Newswires)</p><p>Fed's Kashkari (non-voter, dove) said signals from the economy are mixed right now and businesses are spooked by the trade wars. Kashkari added that a recession is not his base case scenario though risks have risen a bit, while he suggested the Fed needs to pull-back on rates and probably needs to provide more support to the economy. (Newswires)</p><p>US House Ways and Means ranking member Brady said he is seeing a desire to get the USMCA deal approved this year. (Newswires)&nbsp;</p><ul><li>US Building Permits Number (Jul) 1.336M vs. Exp. 1.27M (Prev. 1.232M). (Newswires)</li><li>US Housing Starts Number (Jul) 1.191M vs. Exp. 1.257M (Prev. 1.253M, Rev. 1.241M)</li></ul><p>&nbsp;</p><p><strong>MARKET RECAP</strong></p><p>NVIDIA (NVDA) traded up top- and bottom-line earnings beats, while gaming revenue fell in line with expectations. NVDA was up over 8%, also boosted by positive trade headlines. General Electric (GE) rebounded from the prior day’s losses following the accountancy fraud report from Harry Markopolos; GE CEO bought more shares after the release of the report, and labelled it as pure ‘market manipulation’. Applied Materials (AMAT) were pressured despite earnings falling in line with expectations, as it stated the recovery in chip market is unlikely before 2020. Alliance Data Systems (ADS) were hit following a downgrade to hold from buy at Deutsche Bank. AbbVie (ABBV) were supported on its FDA NDA approval for its rheumatoid arthritis drug, Rinvoq. SPX +1.5% at 2889, Dow +1.2% at 25887, NDX +1.6% at 7604.</p><p>There was a steepening bias amid risk-on trade, extending Thursday’s steepening, as hints of fiscal stimulus and positive noises from US President Trump on trade helped yields rise after the stellar rally this week, which has seen US 10-year yields fall below 1.60%, and the long-end fall sub 2.0% (though the latter is above that mark at settlement on Friday). Housing data was mixed, but investors focused on the building permits beat rather than the housing starts miss, and yields saw upticks in wake of the data. There was, however, stabilization after a grim University of Michigan sentiment report. The Treasury curve took influence from Bunds in afternoon trade, after reports that the Germans were considering jettisoning its balanced budget objective if Germany falls into recession; the growth supportive approach helped Bund yields to rise, with Treasuries moving in sympathy, though the moves were pared back as trade lightened as traders headed for the exits for the week. Next week, the yield curve may refocus on more Fedspeak, with FOMC minutes and Jackson Hole on the slate. US T-note futures settled 1 tick lower at 130-29+.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-asia-pac-opening-news-18-08-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-08-19 05:49:00",
+        "gmt_time": "2019-08-18 21:49:00"
+    },
+    {
+        "id": 882662,
+        "updated_sequence": 1911026,
+        "published_at": {
+            "unix": 1566162240,
+            "text": "2019-08-18 22:04:00 +0100",
+            "iso_8601": "2019-08-18T21:04:00Z"
+        },
+        "updated_at": {
+            "unix": 1566162480,
+            "text": "2019-08-18 22:08:00 +0100",
+            "iso_8601": "2019-08-18T21:08:00Z"
+        },
+        "subject": "US President Trump reiterates he is not ready to make a deal with China and that China tariffs have cost nothing or very little, adds US does not want to do business with Huawei and decision will be made on Monday",
+        "content": "<p>Says:</p><ul><li>Chinese President Xi has something in mind to do with trade and China wants to make a deal, while Trump suggests we'll see what happens,&nbsp;</li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-president-trump-reiterates-he-is-not-ready-to-make-a-deal-with-china-and-that-china-tariffs-have-cost-nothing-or-very-little-adds-us-does-not-want-to-do-business-with-huawei-and-decision-will-be-made-on-monday-18-08-2019",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-08-19 05:04:00",
+        "gmt_time": "2019-08-18 21:04:00"
+    },
+    {
+        "id": 882484,
+        "updated_sequence": 1911018,
+        "published_at": {
+            "unix": 1566162000,
+            "text": "2019-08-18 22:00:00 +0100",
+            "iso_8601": "2019-08-18T21:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1566162000,
+            "text": "2019-08-18 22:00:00 +0100",
+            "iso_8601": "2019-08-18T21:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "<p><a href=\"https://asia.nikkei.com/Business/Companies/Nintendo-to-move-Switch-output-to-Vietnam-as-China-tariffs-loom\">Via Nikkei</a></p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-15-08-2019",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-08-19 05:00:00",
+        "gmt_time": "2019-08-18 21:00:00"
+    }
+]

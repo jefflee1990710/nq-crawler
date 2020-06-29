@@ -1,0 +1,682 @@
+[
+    {
+        "id": 681399,
+        "updated_sequence": 1079730,
+        "published_at": {
+            "unix": 1541375820,
+            "text": "2018-11-04 23:57:00 +0000",
+            "iso_8601": "2018-11-04T23:57:00Z"
+        },
+        "updated_at": {
+            "unix": 1541375878,
+            "text": "2018-11-04 23:57:58 +0000",
+            "iso_8601": "2018-11-04T23:57:58Z"
+        },
+        "subject": "US President Trump says doesn't like EU regulating Google (GOOG)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Axios",
+        "slug": "us-president-trump-says-doesn-t-like-eu-regulating-google-goog-04-11-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-11-05 07:57:00",
+        "gmt_time": "2018-11-04 23:57:00"
+    },
+    {
+        "id": 681398,
+        "updated_sequence": 1079725,
+        "published_at": {
+            "unix": 1541375520,
+            "text": "2018-11-04 23:52:00 +0000",
+            "iso_8601": "2018-11-04T23:52:00Z"
+        },
+        "updated_at": {
+            "unix": 1541375789,
+            "text": "2018-11-04 23:56:29 +0000",
+            "iso_8601": "2018-11-04T23:56:29Z"
+        },
+        "subject": "BoJ minutes from September meeting stated that most members shared the view that the year-on-year rate of change in the CPI was likely to increase gradually toward 2% and that it is appropriate to continue easing persistently",
+        "content": "<p>Says:<br />- Japan&#39;s economy is expanding moderately, exports and industrial production on an increasing trend.<br />- Financial conditions are highly accommodative.<br />- Most members agreed momentum to target was intact.</p>\r\n\r\n<p>Full minutes release:&nbsp;<a href=\"http://www.boj.or.jp/en/mopo/mpmsche_minu/minu_2018/g180919.pdf\">http://www.boj.or.jp/en/mopo/mpmsche_minu/minu_2018/g180919.pdf</a></p>\r\n\r\n<p>&nbsp;</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "boj-minutes-from-september-meeting-stated-that-most-members-shared-the-view-that-the-year-on-year-rate-of-change-in-the-cpi-was-likely-to-increase-gradually-toward-2-and-that-it-is-appropriate-to-continue-easing-persistently-04-11-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-11-05 07:52:00",
+        "gmt_time": "2018-11-04 23:52:00"
+    },
+    {
+        "id": 681397,
+        "updated_sequence": 1079719,
+        "published_at": {
+            "unix": 1541374980,
+            "text": "2018-11-04 23:43:00 +0000",
+            "iso_8601": "2018-11-04T23:43:00Z"
+        },
+        "updated_at": {
+            "unix": 1541375072,
+            "text": "2018-11-04 23:44:32 +0000",
+            "iso_8601": "2018-11-04T23:44:32Z"
+        },
+        "subject": "Subaru (7270 JT) to delay earnings release by 2 hours to 0600GMT on November 5th",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "subaru-7270-jt-to-delay-earnings-release-by-2-hours-to-0600gmt-on-november-5th-04-11-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-11-05 07:43:00",
+        "gmt_time": "2018-11-04 23:43:00"
+    },
+    {
+        "id": 681396,
+        "updated_sequence": 1079713,
+        "published_at": {
+            "unix": 1541374620,
+            "text": "2018-11-04 23:37:00 +0000",
+            "iso_8601": "2018-11-04T23:37:00Z"
+        },
+        "updated_at": {
+            "unix": 1541374733,
+            "text": "2018-11-04 23:38:53 +0000",
+            "iso_8601": "2018-11-04T23:38:53Z"
+        },
+        "subject": "Saudi Arabia is said to be looking at China as a long-term partner to help in the development of the Saudi economy",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "saudi-arabia-is-said-to-be-looking-at-china-as-a-long-term-partner-to-help-in-the-development-of-the-saudi-economy-04-11-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-11-05 07:37:00",
+        "gmt_time": "2018-11-04 23:37:00"
+    },
+    {
+        "id": 681395,
+        "updated_sequence": 1079716,
+        "published_at": {
+            "unix": 1541374620,
+            "text": "2018-11-04 23:37:00 +0000",
+            "iso_8601": "2018-11-04T23:37:00Z"
+        },
+        "updated_at": {
+            "unix": 1541374956,
+            "text": "2018-11-04 23:42:36 +0000",
+            "iso_8601": "2018-11-04T23:42:36Z"
+        },
+        "subject": "PREVIEW: BoJ minutes from September 18th-19th meeting due at 2350GMT/1750CST/0750HKT",
+        "content": "<p>The BoJ are to release the minutes from the September meeting, where the central bank kept policy unchanged with the bank rate kept at -0.1% and long-term yield target held at around 0.0% as expected. The central bank also left its forward guidance unchanged in which it will keep current extremely low rates for an extended period of time and maintained its pledge to buy JGBs in a flexible manner so holdings rise at an annual pace of about JPY 80tln.</p>\r\n\r\n<p>Furthermore, the previously released BoJ Summary of Opinions from the September meeting stated there is room to mull steps to make policy more flexible and that it is necessary to persistently maintain highly accommodative financial conditions while examining positive effects &amp; side effects, while the BoJ also reiterated the need to persistently continue with the current powerful monetary easing as the momentum toward 2 percent inflation is maintained.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "preview-boj-minutes-from-september-18th-19th-meeting-due-at-2350gmt-1750cst-0750hkt-04-11-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-11-05 07:37:00",
+        "gmt_time": "2018-11-04 23:37:00"
+    },
+    {
+        "id": 681394,
+        "updated_sequence": 1079779,
+        "published_at": {
+            "unix": 1541373600,
+            "text": "2018-11-04 23:20:00 +0000",
+            "iso_8601": "2018-11-04T23:20:00Z"
+        },
+        "updated_at": {
+            "unix": 1541378377,
+            "text": "2018-11-05 00:39:37 +0000",
+            "iso_8601": "2018-11-05T00:39:37Z"
+        },
+        "subject": "PRE-MARKET JAPANESE AND SOUTH KOREAN STOCK NEWS:  Earnings including Asahi and ANA",
+        "content": "<p>JAPAN</p>\r\n\r\n<p>ANA (9202 JT)<br />- Co. H1 net JPY 73.7bln vs. Prev. JPY 118.4bln Y/Y. (Newswires)</p>\r\n\r\n<p>Asahi Group Holdings (2502 JT)<br />- Co. 9-month net JPY 116.5bln vs. Prev. JPY 93.8bln Y/Y. (Newswires)</p>\r\n\r\n<p>Fast Retailing (9983 JT)<br />- Co. October domestic same store sales fell 10% Y/Y. (Newswires)</p>\r\n\r\n<p>Isuzu Motors (7202 JT)<br />- Co. H1 net JPY 56.4bln vs. Prev. JPY 52.7bln Y/Y. (Newswires)</p>\r\n\r\n<p>KYB (7242 JT)<br />- Co. expected to report H1 loss of around JPY 10bln vs, Prev. profit JPY 7.2bln following quality data cheating. (Nikkei)</p>\r\n\r\n<p>Nippon Steel &amp; Sumitomo Metal (5401 JT)<br />- Co. H1 net JPY 141.3bln vs. Prev. JPY 99.2bln Y/Y. (Newswires)</p>\r\n\r\n<p>Olympus (7733 JT)<br />- Co. to purchase medical device maker Medi-tate. (Newswires)</p>\r\n\r\n<p>Subaru (7270 JT)<br />- Co. may report a 30% Y/Y decline in oper. profit to JPY 250bln. (Nikkei)</p>\r\n\r\n<p>Toyota (7203 JT)<br />- Co. recalls more than 1mln vehicles due to airbag defects. (ABC)</p>\r\n\r\n<p>Other News<br />- GPIF reported 3.4% return of investment for July-September period. (Newswires)</p>\r\n\r\n<p><br />&nbsp;</p>\r\n\r\n<p>SOUTH KOREA</p>\r\n\r\n<p>Kakao (035720 KS)<br />- Co. in discussions to buy online eCommerce firm Kurly. (Newswires)</p>\r\n\r\n<p>Kumho Petrochemical (011780 KS)<br />- Co. Q3 net KRW 122.6bln vs. Prev. KRW 104.4bln Y/Y. (Newswires)</p>\r\n\r\n<p>Other News<br />- North Korea reportedly warned to resume its nuclear program if US sanctions continue, according to reports which cited the Foreign Ministry&rsquo;s Institute for American Studies Director Kwon Jong Gun. (KCNA)<br /><br />Data Recap<br />- South Korean FX Reserves (USD)(Oct) 402.75B (Prev. 403.0B). (Newswires)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-japanese-and-south-korean-stock-news-earnings-including-asahi-and-ana-04-11-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-11-05 07:20:00",
+        "gmt_time": "2018-11-04 23:20:00"
+    },
+    {
+        "id": 681393,
+        "updated_sequence": 1079701,
+        "published_at": {
+            "unix": 1541373060,
+            "text": "2018-11-04 23:11:00 +0000",
+            "iso_8601": "2018-11-04T23:11:00Z"
+        },
+        "updated_at": {
+            "unix": 1541373432,
+            "text": "2018-11-04 23:17:12 +0000",
+            "iso_8601": "2018-11-04T23:17:12Z"
+        },
+        "subject": "Press reports speculate that any agreement reached between President Trump and Chinese President Xi is likely to be a temporary truce instead of a significant step forward",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "press-reports-speculate-that-any-agreement-reached-between-president-trump-and-chinese-president-xi-is-likely-to-be-a-temporary-truce-instead-of-a-significant-step-forward-04-11-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-11-05 07:11:00",
+        "gmt_time": "2018-11-04 23:11:00"
+    },
+    {
+        "id": 681392,
+        "updated_sequence": 1079695,
+        "published_at": {
+            "unix": 1541371920,
+            "text": "2018-11-04 22:52:00 +0000",
+            "iso_8601": "2018-11-04T22:52:00Z"
+        },
+        "updated_at": {
+            "unix": 1541372010,
+            "text": "2018-11-04 22:53:30 +0000",
+            "iso_8601": "2018-11-04T22:53:30Z"
+        },
+        "subject": "DBS (DBS SP) Q3 net SGD 1.41bln vs. Prev. SGD 822mln Y/Y",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "dbs-dbs-sp-q3-net-sgd-1-41bln-vs-prev-sgd-822mln-y-y-04-11-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-11-05 06:52:00",
+        "gmt_time": "2018-11-04 22:52:00"
+    },
+    {
+        "id": 681391,
+        "updated_sequence": 1079692,
+        "published_at": {
+            "unix": 1541371020,
+            "text": "2018-11-04 22:37:00 +0000",
+            "iso_8601": "2018-11-04T22:37:00Z"
+        },
+        "updated_at": {
+            "unix": 1541371131,
+            "text": "2018-11-04 22:38:51 +0000",
+            "iso_8601": "2018-11-04T22:38:51Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIAN STOCK NEWS: Westpac reported relatively flat FY profit; oil prices slid further on Friday",
+        "content": "<p>ASX (ASX AT)<br />- Co. October average daily number of cash market trades rose 22% Y/Y, average daily value AUD 4.56bln vs. Prev. AUD 3.65bln Y/Y. (Newswires)</p>\r\n\r\n<p>Cochlear (COH AT)<br />- Co. lost patent infringement suit and is ordered to pay damages valued at USD 268mln. (Newswires)</p>\r\n\r\n<p>Macquarie (MQG AT) and Link Administration Holdings (LNK AT)<br />- Consortium submitted revised offer for Pexa valued at AUD 1.6bln. (Newswires)</p>\r\n\r\n<p>Qantas (QAN AT)<br />- Co. CEO warned a push by unions could cripple thousands of the airliner&rsquo;s small suppliers. (The Australian)</p>\r\n\r\n<p>Westpac Banking Corp (WBC AT)<br />- Co. FY18 cash profit AUD 8.07bln vs. Prev. AUD 8.06bln YY, statutory net rose 1% Y/Y to AUD 8.1bln, net oper. income AUD 22.1bln vs. Prev. AUD 21.8bln Y/Y. (Newswires)</p>\r\n\r\n<p>Property<br />- New South Wales is to conduct a change in stamp duties which will provide a tax break to future home buyers that will increase over time. (SMH)</p>\r\n\r\n<p>Energy<br />- WTI crude futures fell 1.3% to below USD 63.00/bbl.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-australian-stock-news-westpac-reported-relatively-flat-fy-profit-oil-prices-slid-further-on-friday-04-11-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-11-05 06:37:00",
+        "gmt_time": "2018-11-04 22:37:00"
+    },
+    {
+        "id": 681390,
+        "updated_sequence": 1079689,
+        "published_at": {
+            "unix": 1541370360,
+            "text": "2018-11-04 22:26:00 +0000",
+            "iso_8601": "2018-11-04T22:26:00Z"
+        },
+        "updated_at": {
+            "unix": 1541370434,
+            "text": "2018-11-04 22:27:14 +0000",
+            "iso_8601": "2018-11-04T22:27:14Z"
+        },
+        "subject": "PBoC may lower RRR for some banks in Q1 2019, according to China Securities Journal",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pboc-may-lower-rrr-for-some-banks-in-q1-2019-according-to-china-securities-journal-04-11-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-11-05 06:26:00",
+        "gmt_time": "2018-11-04 22:26:00"
+    },
+    {
+        "id": 681389,
+        "updated_sequence": 1079686,
+        "published_at": {
+            "unix": 1541369940,
+            "text": "2018-11-04 22:19:00 +0000",
+            "iso_8601": "2018-11-04T22:19:00Z"
+        },
+        "updated_at": {
+            "unix": 1541370050,
+            "text": "2018-11-04 22:20:50 +0000",
+            "iso_8601": "2018-11-04T22:20:50Z"
+        },
+        "subject": "Barclays says it continues to forecast AUD/NZD to rise towards 1.1100 in coming quarters and on Friday it recommended shorting NZD/USD at 0.6680 with a target of 0.6430 and stop at 0.6770",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "barclays-says-it-continues-to-forecast-aud-nzd-to-rise-towards-1-1100-in-coming-quarters-and-on-friday-it-recommended-shorting-nzd-usd-at-0-6680-with-a-target-of-0-6430-and-stop-at-0-6770-04-11-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-11-05 06:19:00",
+        "gmt_time": "2018-11-04 22:19:00"
+    },
+    {
+        "id": 681388,
+        "updated_sequence": 1079683,
+        "published_at": {
+            "unix": 1541369400,
+            "text": "2018-11-04 22:10:00 +0000",
+            "iso_8601": "2018-11-04T22:10:00Z"
+        },
+        "updated_at": {
+            "unix": 1541369495,
+            "text": "2018-11-04 22:11:35 +0000",
+            "iso_8601": "2018-11-04T22:11:35Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASES CALENDAR NOW AVAILABLE IN THE RESEARCH SECTION: Highlights include BoJ Minutes, Chinese Caixin Services and Composite PMIs, Speeched from BoJ Kuroda and Chinese President Xi Jinping",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asian-daily-economic-releases-calendar-now-available-in-the-research-section-highlights-include-boj-minutes-chinese-caixin-services-and-composite-pmis-speeched-from-boj-kuroda-and-chinese-president-xi-jinping-04-11-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-11-05 06:10:00",
+        "gmt_time": "2018-11-04 22:10:00"
+    },
+    {
+        "id": 681387,
+        "updated_sequence": 1079895,
+        "published_at": {
+            "unix": 1541369040,
+            "text": "2018-11-04 22:04:00 +0000",
+            "iso_8601": "2018-11-04T22:04:00Z"
+        },
+        "updated_at": {
+            "unix": 1541392024,
+            "text": "2018-11-05 04:27:04 +0000",
+            "iso_8601": "2018-11-05T04:27:04Z"
+        },
+        "subject": "Senior EU officials state that UK PM May's chances of reaching an Irish border deal are '50-50' and that competing red lines between UK and EU continue to be incompatible in important areas, according to Guardian",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Guardian ",
+        "slug": "senior-eu-officials-state-that-uk-pm-may-s-chances-of-reaching-an-irish-border-deal-are-50-50-and-that-competing-red-lines-between-uk-and-eu-continue-to-be-incompatible-in-important-areas-according-to-guardian-04-11-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-11-05 06:04:00",
+        "gmt_time": "2018-11-04 22:04:00"
+    },
+    {
+        "id": 681386,
+        "updated_sequence": 1079677,
+        "published_at": {
+            "unix": 1541368800,
+            "text": "2018-11-04 22:00:00 +0000",
+            "iso_8601": "2018-11-04T22:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1541368956,
+            "text": "2018-11-04 22:02:36 +0000",
+            "iso_8601": "2018-11-04T22:02:36Z"
+        },
+        "subject": "Australian CBA Australia Composite PMI (Oct F) 52.0 (Prev. 51.2)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "australian-cba-australia-composite-pmi-oct-f-52-0-prev-51-2-04-11-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-11-05 06:00:00",
+        "gmt_time": "2018-11-04 22:00:00"
+    },
+    {
+        "id": 681385,
+        "updated_sequence": 1079674,
+        "published_at": {
+            "unix": 1541368800,
+            "text": "2018-11-04 22:00:00 +0000",
+            "iso_8601": "2018-11-04T22:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1541368930,
+            "text": "2018-11-04 22:02:10 +0000",
+            "iso_8601": "2018-11-04T22:02:10Z"
+        },
+        "subject": "Australian CBA Australia Services PMI (Oct F)\t51.7 (Prev. 50.8)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "australian-cba-australia-services-pmi-oct-f-51-7-prev-50-8-04-11-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-11-05 06:00:00",
+        "gmt_time": "2018-11-04 22:00:00"
+    },
+    {
+        "id": 681384,
+        "updated_sequence": 1079671,
+        "published_at": {
+            "unix": 1541367900,
+            "text": "2018-11-04 21:45:00 +0000",
+            "iso_8601": "2018-11-04T21:45:00Z"
+        },
+        "updated_at": {
+            "unix": 1541368001,
+            "text": "2018-11-04 21:46:41 +0000",
+            "iso_8601": "2018-11-04T21:46:41Z"
+        },
+        "subject": "UK Brexit Secretary Raab wants the right to pull UK from backstop, according to Telegraph",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Telegraph ",
+        "slug": "uk-brexit-secretary-raab-wants-the-right-to-pull-uk-from-backstop-according-to-telegraph-04-11-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-11-05 05:45:00",
+        "gmt_time": "2018-11-04 21:45:00"
+    },
+    {
+        "id": 681383,
+        "updated_sequence": 1079848,
+        "published_at": {
+            "unix": 1541367300,
+            "text": "2018-11-04 21:35:00 +0000",
+            "iso_8601": "2018-11-04T21:35:00Z"
+        },
+        "updated_at": {
+            "unix": 1541386883,
+            "text": "2018-11-05 03:01:23 +0000",
+            "iso_8601": "2018-11-05T03:01:23Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p>ASIA-PAC</p>\r\n\r\n<p>US President Trump said on Friday that the US is much closer to doing something on trade with China and that he will make a very good deal with China, while he added he will have dinner with Xi at the G20 summit and that If the US can open up China and make it fair, he is willing to do it. (Newswires)</p>\r\n\r\n<p>White House NEC director Kudlow said he wants to keep expectations low on US - China talks and that he doesn&#39;t expect detailed trade deal from talks between Trump and Xi. Kudlow also commented that more tariffs on China are possible and Trump has not asked the cabinet to make a China trade plan, while he confirmed he hasn&#39;t seen any new proposals from China and is not as optimistic as before that a trade deal will be reached but added If talks improve then tariffs could be removed. (Newswires)</p>\r\n\r\n<p>Three senior administration officials told a White House correspondent on Friday that there is no indication of an imminent trade deal with China and that options are always being discussed behind the scenes, but no significant progress. (Twitter)</p>\r\n\r\n<p><br />UK</p>\r\n\r\n<p>UK PM May secured private concessions from Brussels that will keep Britain in a customs union and avoid a hard border, while reports also noted Britain is on course for a future economic partnership deal with the EU. (Sunday Times) However, some sources noted that Downing Street had&nbsp;dismissed this as speculation. (Twitter)</p>\r\n\r\n<p>UK Brexit Minister Raab said on Friday we have made it &quot;very clear&quot; we won&#39;t allow anything that jeopardizes the UK&#39;s integrity , while a UK cabinet minister also commented that the British government committed to getting over remaining difficulties ASAP and &nbsp;there has been positive progress in the last few weeks. (Newswires)</p>\r\n\r\n<p>Ireland PM Varadkar said Brexit has undermined &lsquo;Good Friday Agreement&rsquo; and is wearing on ties between Britain and Ireland, while he added we need guarantees that there will be no hard border in Ireland no matter what outcome. (Newswires)</p>\r\n\r\n<p>Irish Foreign Minister Coveney said on Friday it is possible to get a deal in November as they are very close, but not quite there yet, while Coveney added they have made a lot of progress in the recent weeks and EU&rsquo;s Barnier has shown flexibility. (Newswires)</p>\r\n\r\n<p><br />EU</p>\r\n\r\n<p>ECB&#39;s Rehn (Non-Voter, Dovish) said 1.6%-1.8% inflation is &quot;to my mind&quot; not yet below but close to 2% and suggested that a more symmetric assessment should be adopted. (Newswires)</p>\r\n\r\n<p>Sources said no decision will be made on the ECB TLTRO at the December policy meeting and one source said the TLTRO would help banks to avoid a &#39;cliff edge&#39; in 2020. Furthermore, another source said TLTRO only needed if policy transmission mechanism was hampered. (Newswires)<br />&nbsp;</p>\r\n\r\n<p>COMMODITIES</p>\r\n\r\n<p>Baker Hughes Rig Count (02/Nov): Oil rigs down 1 at 874, gas rigs unchanged at 193, total rigs down 1 at 1067. (Newswires)</p>\r\n\r\n<p>US President Trump confirmed that sanctions on Iran including energy, shipping and banking will take effect on November 5th. In related news, Iraqi officials said the US is to grant Baghdad a waiver over some Iran sanctions. (Newswires)</p>\r\n\r\n<p><br />GEOPOLITICAL</p>\r\n\r\n<p>North Korea reportedly warned to resume its nuclear program if US sanctions continue, according to reports which cited the Foreign Ministry&rsquo;s Institute for American Studies Director Kwon Jong Gun. (KCNA)<br />&nbsp;</p>\r\n\r\n<p>US</p>\r\n\r\n<p>US Non-Farm Payrolls Oct 250k vs. Exp. 190.0k (Prev. 134.0k, Rev. 118k); two-month net revisions 0k (Prev. 87k). (Newswires)<br />US Average Earnings YY Oct 3.1% vs. Exp. 3.1% (Prev. 2.8%)<br />US Unemployment Rate Oct 3.7% vs. Exp. 3.7% (Prev. 3.7%)<br />&nbsp;</p>\r\n\r\n<p>MARKET RECAP</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Some heavyweight earnings from stocks including Apple (AAPL) which tumbled, losing its USD 1trln status, after it lowered expectations for sales in the next quarter. Other earnings reports came from energy names Exxon Mobil (XOM) and Chevron (CVX) which both beat EPS estimates pushing them higher, Starbucks (SBUX) surged following strong sales in the US and China, and Kraft Heinz (KHZ) failed as a condiment to these gains after it traded lower on missing its EPS estimates. VeriSign (VRSN) was a top mover following regulatory approval for it to increase its prices. Synchrony Financial (SYF) took a dive after Walmart (WMT) announced it is suing it for breaching terms of their contract. SPX -0.65% at 2723, NDX -1.47% at 6965, DJI -0.44% at 25268.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-asia-pac-opening-news-04-11-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-11-05 05:35:00",
+        "gmt_time": "2018-11-04 21:35:00"
+    },
+    {
+        "id": 681382,
+        "updated_sequence": 1079663,
+        "published_at": {
+            "unix": 1541367000,
+            "text": "2018-11-04 21:30:00 +0000",
+            "iso_8601": "2018-11-04T21:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1541367085,
+            "text": "2018-11-04 21:31:25 +0000",
+            "iso_8601": "2018-11-04T21:31:25Z"
+        },
+        "subject": "Australian AiG Performance of Services Index (Mar) 51.1 (Prev. 52.5)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "australian-aig-performance-of-services-index-mar-51-1-prev-52-5-04-11-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-11-05 05:30:00",
+        "gmt_time": "2018-11-04 21:30:00"
+    },
+    {
+        "id": 681380,
+        "updated_sequence": 1079657,
+        "published_at": {
+            "unix": 1541365500,
+            "text": "2018-11-04 21:05:00 +0000",
+            "iso_8601": "2018-11-04T21:05:00Z"
+        },
+        "updated_at": {
+            "unix": 1541365659,
+            "text": "2018-11-04 21:07:39 +0000",
+            "iso_8601": "2018-11-04T21:07:39Z"
+        },
+        "subject": "Early strength in GBP/USD which is higher by around 0.5% following weekend reports that UK PM May secured private concessions from Brussels that will keep Britain in a customs union and avoid a hard border in Northern Ireland",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Sunday Times",
+        "slug": "early-strength-in-gbp-usd-which-is-higher-by-around-0-5-following-weekend-reports-that-uk-pm-may-secured-private-concessions-from-brussels-that-will-keep-britain-in-a-customs-union-and-avoid-a-hard-border-in-northern-ireland-04-11-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-11-05 05:05:00",
+        "gmt_time": "2018-11-04 21:05:00"
+    },
+    {
+        "id": 681182,
+        "updated_sequence": 1079646,
+        "published_at": {
+            "unix": 1541365200,
+            "text": "2018-11-04 21:00:00 +0000",
+            "iso_8601": "2018-11-04T21:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1541365200,
+            "text": "2018-11-04 21:00:00 +0000",
+            "iso_8601": "2018-11-04T21:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-01-11-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-11-05 05:00:00",
+        "gmt_time": "2018-11-04 21:00:00"
+    }
+]

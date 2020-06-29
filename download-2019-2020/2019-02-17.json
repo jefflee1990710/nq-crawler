@@ -1,0 +1,240 @@
+[
+    {
+        "id": 855523,
+        "updated_sequence": 1795432,
+        "published_at": {
+            "unix": 1550447460,
+            "text": "2019-02-17 23:51:00 +0000",
+            "iso_8601": "2019-02-17T23:51:00Z"
+        },
+        "updated_at": {
+            "unix": 1550447579,
+            "text": "2019-02-17 23:52:59 +0000",
+            "iso_8601": "2019-02-17T23:52:59Z"
+        },
+        "subject": "Japan government cuts assessment on machine orders in which it states that orders are stalling vs. prev. assessment of recovery",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japan-government-cuts-assessment-on-machine-orders-in-which-it-states-that-orders-are-stalling-vs-prev-assessment-of-recovery-17-02-2019",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-02-18 07:51:00",
+        "gmt_time": "2019-02-17 23:51:00"
+    },
+    {
+        "id": 855520,
+        "updated_sequence": 1795423,
+        "published_at": {
+            "unix": 1550446320,
+            "text": "2019-02-17 23:32:00 +0000",
+            "iso_8601": "2019-02-17T23:32:00Z"
+        },
+        "updated_at": {
+            "unix": 1550446463,
+            "text": "2019-02-17 23:34:23 +0000",
+            "iso_8601": "2019-02-17T23:34:23Z"
+        },
+        "subject": "PRE-MARKET JAPANESE AND SOUTH KOREAN STOCK NEWS: Ministop (9946 JT) revises FY19 net forecast to a loss of JPY 1.2bln vs. Prev. forecast of JPY 1.0mln profit",
+        "content": "<p>JAPAN</p>\r\n\r\n<p>Bridgestone Corp (5108 JT)<br />- Co. FY18 net JPY 291.6bln vs. Prev. JPY 288.3bln Y/Y, to conduct JPY 200bln share repurchase equivalent to as much as 7.6% of total. (Newswires)</p>\r\n\r\n<p>Ministop (9946 JT)<br />- Co. revises FY19 net forecast to a loss of JPY 1.2bln vs. Prev. forecast of JPY 1.0mln profit. (Newswires)</p>\r\n\r\n<p>Mizuho Financial Group (8411 JT)<br />- Around 50 regional banks are to deploy Mizuho&rsquo;s new cashless payment systems. (Newswires)</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>SOUTH KOREA</p>\r\n\r\n<p>LG Innotek (011070 KS)<br />- Co. plans KRW 282bln investment for a new facility which will focus on production of camera modules for mobile devices. (Newswires)</p>\r\n\r\n<p>Other News<br />- South Korea faces uncertainties related to trade and semiconductors, according to the Finance Ministry. (Yonhap)<br />- North Korea propaganda noted that ties with the US could experience a major breakthrough with the 2nd summit, while it also noted that North Korea has not built or tested nuclear weapons lately nor does it plan to use or spread these weapons. (Newswires)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-japanese-and-south-korean-stock-news-ministop-9946-jt-revises-fy19-net-forecast-to-a-loss-of-jpy-1-2bln-vs-prev-forecast-of-jpy-1-0mln-profit-17-02-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-02-18 07:32:00",
+        "gmt_time": "2019-02-17 23:32:00"
+    },
+    {
+        "id": 855519,
+        "updated_sequence": 1795417,
+        "published_at": {
+            "unix": 1550445060,
+            "text": "2019-02-17 23:11:00 +0000",
+            "iso_8601": "2019-02-17T23:11:00Z"
+        },
+        "updated_at": {
+            "unix": 1550445170,
+            "text": "2019-02-17 23:12:50 +0000",
+            "iso_8601": "2019-02-17T23:12:50Z"
+        },
+        "subject": "China Academy of Information and Communications Technology data showed China January smartphone shipments fell 11.4% to 32.15mln units",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "china-academy-of-information-and-communications-technology-data-showed-china-january-smartphone-shipments-fell-11-4-to-32-15mln-units-17-02-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-02-18 07:11:00",
+        "gmt_time": "2019-02-17 23:11:00"
+    },
+    {
+        "id": 855518,
+        "updated_sequence": 1795414,
+        "published_at": {
+            "unix": 1550444280,
+            "text": "2019-02-17 22:58:00 +0000",
+            "iso_8601": "2019-02-17T22:58:00Z"
+        },
+        "updated_at": {
+            "unix": 1550444306,
+            "text": "2019-02-17 22:58:26 +0000",
+            "iso_8601": "2019-02-17T22:58:26Z"
+        },
+        "subject": "DBS (DBS SP) Q1 net SGD 1.32bln vs. Prev. SGD 1.22bln Y/Y",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "dbs-dbs-sp-q1-net-sgd-1-32bln-vs-prev-sgd-1-22bln-y-y-17-02-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-02-18 06:58:00",
+        "gmt_time": "2019-02-17 22:58:00"
+    },
+    {
+        "id": 855517,
+        "updated_sequence": 1795411,
+        "published_at": {
+            "unix": 1550443860,
+            "text": "2019-02-17 22:51:00 +0000",
+            "iso_8601": "2019-02-17T22:51:00Z"
+        },
+        "updated_at": {
+            "unix": 1550444273,
+            "text": "2019-02-17 22:57:53 +0000",
+            "iso_8601": "2019-02-17T22:57:53Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIAN STOCK NEWS: Earnings from ANZ Bank and Westpac",
+        "content": "<p>Ansell (ANN AT)<br />- Co. H1 adj. net AUD 64mln vs. Prev. 67mln Y/Y. (Newswires)</p>\r\n\r\n<p>ANZ Bank (ANZ AT)<br />- Co. Q1 net AUD 467mln vs. Prev. AUD 510mln Y/Y, rev. AUD 1.03bln vs./ Prev. AUD 1.11bln Y/Y. (Newswires)</p>\r\n\r\n<p>Bank of Queensland (BOQ AT)<br />- Co. guides H1 net AUD 165mln-170mln, while it sees net interest income broadly inline Y/Y. (Newswires)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\r\n\r\n<p>Brambles (BXB AT)<br />- Co. H1 net AUD 504.4mln vs. Prev. AUD 518mln Y/Y. (Newswires)</p>\r\n\r\n<p>Coca-Cola Amatil (CCL AT)<br />- Co. received strong interest for its SPC business, while it is to recognize non-cash impairment of AUD 146.9mln in FY18 regarding SPC divestment. (Newswires)</p>\r\n\r\n<p>GWA Group (GWA AT)<br />- Co. H1 net AUD 26.6mln vs. Prev. AUD 24.8mln Y/Y. (Newswires)</p>\r\n\r\n<p>NIB Holdings (NHF AT)<br />- Co. H1 net AUD 74.5mln vs. Prev. AUD 70.9mln Y/Y, rev. AUD 1.21bln vs. Prev. AUD 1.1bln Y/Y. (Newswires)</p>\r\n\r\n<p>Westpac (WBC AT)<br />- Co. Q1 unauditied cash earnings AUD 2.04bln and statutory net AUD 1.95bln. (Newswires)<br />- Co. is expected to announces deal to offload financial planning business and dealer groups to Veridian Advisory. (Newswires)</p>\r\n\r\n<p>Energy<br />- WTI crude futures rose 2.5%. (Newswires)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-australian-stock-news-earnings-from-anz-bank-and-westpac-17-02-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-02-18 06:51:00",
+        "gmt_time": "2019-02-17 22:51:00"
+    },
+    {
+        "id": 855516,
+        "updated_sequence": 1795405,
+        "published_at": {
+            "unix": 1550441580,
+            "text": "2019-02-17 22:13:00 +0000",
+            "iso_8601": "2019-02-17T22:13:00Z"
+        },
+        "updated_at": {
+            "unix": 1550442627,
+            "text": "2019-02-17 22:30:27 +0000",
+            "iso_8601": "2019-02-17T22:30:27Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p>ASIA-PAC</p>\r\n\r\n<p>China and US have achieved consensus on some key issues in trade talks including technology transfer, IP protection, non-tariff barriers, services, agriculture and trade balance, while there were also reports citing White House Press Secretary Sanders that US and China had &quot;detailed and intensive discussions&quot; but &quot;much work remains&quot; and that trade discussions are to continue in Washington this week. (Newswires/Xinhua)</p>\r\n\r\n<p>US President Trump said China talks are going extremely well and we are a lot closer than we ever have been to having a real trade deal with China. President Trump also suggested there is a possibility that he will extend the China trade talks deadline and that he will have a meeting with Chinese President Xi sometime after the US-China trade talks in Washington. In related news, US Treasury Secretary Mnuchin and Trade Representative Lighthizer also stated that US and China made new progress in latest talks but added there is still much work to be done, while China President Xi noted that there has been new progress in important issues on trade talks. (Newswires)</p>\r\n\r\n<p>USTR Lighthizer said US and Canada file challenge to India&#39;s price supports for products including chickpeas, lentils, pigeon peas, and mung beans at WTO. (Newswires)</p>\r\n\r\n<p>Chinese New Yuan Loans (CNY)(Jan) 3230B vs. Exp. 2800B (Prev. 1080B). (Newswires)<br />Chinese Aggregate Financing (CNY)(Jan) 4640B vs. Exp. 3307B (Prev. 1590B)<br />Chinese M2 Money Supply (Jan) Y/Y 8.4% vs. Exp. 8.2% (Prev. 8.1%)</p>\r\n\r\n<p>Indian Trade Balance (USD)(Jan) -14.7B vs. Exp. -13.8B (Prev. -13.1B). (Newswires)<br />Indian Exports (USD)(Jan) 26.36B (Prev. 27.93B)<br />Indian Imports (USD)(Jan) 41.09B (Prev. 41.01B)</p>\r\n\r\n<p>New Zealand Performance of Services Index (Jan) 56.3 (Prev. 53.2). (Newswires)</p>\r\n\r\n<p><br />UK/EU</p>\r\n\r\n<p>UK PM May is reportedly facing a fresh showdown with Brexiteers in the Tory party after a cabinet minister suggested she may put her Brexit deal to parliament again without changes to the withdrawal text. (Guardian)</p>\r\n\r\n<p>Pro-Brexit lawmakers reportedly could live with a five-year time-limit on the Irish backstop, people familiar with the matter report. (Newswires)</p>\r\n\r\n<p>EU and UK Brexit discussions are planned for Monday in Brussels where Brexit Secretary Barclays will meet with EU&#39;s Chief Brexit Negotiator Barnier. (Newswires)</p>\r\n\r\n<p>US President Trump said we have a good trading relationship with the UK, while he added we are agreeing to move forward and preserve our trade agreement with the UK and that trade with the UK is set to increase. (Newswires)</p>\r\n\r\n<p>ECB&#39;s Coeure (neutral) said he has never been a fan of hiking rates to cut them later and that there might be scope for another round of TLTRO which the ECB are discussing. Furthermore, Coeure commented that the economic slowdown is stronger and broader than what we expected and inflation path will be shallower. (Newswires)</p>\r\n\r\n<p>S&amp;P raised Hungary to BBB from BBB-; Outlook revised to Stable from Positive, while Fitch affirmed Russia at &#39;BBB-&#39;; Outlook Positive. (Newswires)</p>\r\n\r\n<p>UK Retail Sales (Jan) M/M 1.0% vs. Exp. 0.2% (Prev. -0.9%, Rev. -0.7%). (Newswires)<br />UK Retail Sales (Jan) Y/Y 4.2% vs. Exp. 3.4% (Prev. 3.0%, Rev. 3.1%)</p>\r\n\r\n<p><br />COMMODITIES</p>\r\n\r\n<p>Baker Hughes US Rig Count (15 Feb): Oil rigs +3 to 857 and gas rigs -1 to 194; total rig count +2 to 1051. (Newswires)</p>\r\n\r\n<p><br />US</p>\r\n\r\n<p>US President Trump declared a National Emergency on Friday for border security which he stated was to protect from invasion of drugs and that is necessary for the Armed Forces to provide support given the gravity of the current emergency situation. &nbsp;Furthermore, President Trump added that he expects legal action to challenge his national emergency order and that it is likely to end up at the Supreme Court. (Newswires)</p>\r\n\r\n<p>US Commerce Department report which supports a 25% automobile tariff may be released as soon as today. (Newswires)</p>\r\n\r\n<p>Fed&#39;s Bostic (non-voter, dovish) sees one more rate hike this year and he stated does not have a hard number for the appropriate size of the Fed&#39;s balance sheet.&nbsp; Bostic also commented that he has seen no evidence that the US economy is slowing faster than expected and expects 2.3% to 2.5% growth this year. (Newswires)</p>\r\n\r\n<p>Fed&#39;s Daly (non-voter) said it is appropriate for the Fed to be patient and that no rate are hikes needed in 2019. (Newswires)</p>\r\n\r\n<p>US Industrial Production (Jan) M/M -0.6% vs. Exp. 0.1% (Prev. 0.3%, Rev. 0.1%)</p>\r\n\r\n<p><br />MARKET RECAP</p>\r\n\r\n<p>NVIDIA (NVDA) opened higher after beating EPS and revenue estimates as well as raising its FY19 sales forecast. Newell Brands (NWL) nosedived on missing revenue estimates and guiding sales negative for 2019. Deere (DE) dipped on the open after a significant miss on its EPS estimate. Pepsi (PEP), Arista Networks (ANET), Moody&rsquo;s (MCO) and CBS (CBS) all traded higher after reporting their earnings. Conversely, Applied Materials (AMAT) and XPO Logistics (XPO) underperformed after disappointing earnings reports. FedEx (FDX) and UPS (UPS) traded lower on the announcement Amazon (AMZN) was expanding its airline fleet to rely less on the shipping providers. Caesars (CZR) surged after activist investor Carl Icahn urged the co. to sell itself. Electronic Arts (EA) opened higher following reports it was in talks with Tencent to bring its new Apex Legends video game to China. Cowen upgraded Workday (WDAY) and downgraded Adobe (ADBE) causing them to rise and dip &ndash; respectively &ndash; on the open. Mattel (MAT) sunk after guiding FY19 sales flat in YY terms, gross sales to be lower. In M&amp;A, 9 senators urge regulators to reject T-Mobile (TMUS), Sprint (S) merger. SPX +1.1% at 2775, NDX +0.5% at 7055, DJI +1.75% at 25883.</p>\r\n\r\n<p>The T-Note gave back gains made in Asia trade to finish four ticks lower going into the holiday weekend, though most of the action through US trading was horizontal. ECB&rsquo;s Coeure hinted there could be further TLTROs in the pipeline, which saw the Bund tick lower, and the T-Note took its cue from that in thepre-market, before seeing positive ticks on soggy data. However, the UoM sentiment print was more positive, seeing the T-Note give up a couple of ticks. US T-note futures (H9) settled -4 ticks at 122-01+.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-asia-pac-opening-news-17-02-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-02-18 06:13:00",
+        "gmt_time": "2019-02-17 22:13:00"
+    },
+    {
+        "id": 855288,
+        "updated_sequence": 1795395,
+        "published_at": {
+            "unix": 1550440800,
+            "text": "2019-02-17 22:00:00 +0000",
+            "iso_8601": "2019-02-17T22:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1550440800,
+            "text": "2019-02-17 22:00:00 +0000",
+            "iso_8601": "2019-02-17T22:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-14-02-2019",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-02-18 06:00:00",
+        "gmt_time": "2019-02-17 22:00:00"
+    }
+]

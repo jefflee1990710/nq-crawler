@@ -1,0 +1,2324 @@
+[
+    {
+        "id": 902095,
+        "updated_sequence": 2045011,
+        "published_at": {
+            "unix": 1577224800,
+            "text": "2019-12-24 22:00:00 +0000",
+            "iso_8601": "2019-12-24T22:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1577224800,
+            "text": "2019-12-24 22:00:00 +0000",
+            "iso_8601": "2019-12-24T22:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-23-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-25 06:00:00",
+        "gmt_time": "2019-12-24 22:00:00"
+    },
+    {
+        "id": 902087,
+        "updated_sequence": 2045006,
+        "published_at": {
+            "unix": 1577217600,
+            "text": "2019-12-24 20:00:00 +0000",
+            "iso_8601": "2019-12-24T20:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1577217600,
+            "text": "2019-12-24 20:00:00 +0000",
+            "iso_8601": "2019-12-24T20:00:00Z"
+        },
+        "subject": "NEWSQUAWK CHRISTMAS PERIOD OPENING HOURS",
+        "content": "<p>Business as usual up to <strong>1845GMT Tuesday 24th December 2019</strong></p><p><strong>Closed for business 25th, 26th, 27th, 30th, 31st December 2019 and 1st January 2020</strong></p><p><strong>Normal service will resume at 0630GMT on Thursday&nbsp;2nd&nbsp;of January 2020 for the beginning of the EU Session</strong></p><p><strong>Market closures and desk opening hours</strong></p><p>&nbsp;</p><p><strong>24th December - </strong>Business as usual up to<strong>1845GMT Tuesday 24th December 2019</strong></p><p>Floor Trade</p><p>1. CME/CBOT –FX and Interest Rates close at 1800GMT/1200CST, Equities Futures and Options close at 1815GMT/1215CST</p><p>2. NYSE – Early close at 1800GMT</p><p>Electronic Trade</p><p>1. CME – Equity, interest rates, FX close 1815GMT/1215CST, Energy closes at 1845GMT/1245CST</p><p>2. ICE – <a href=\"https://www.theice.com/holiday-hours\">https://www.theice.com/holiday-hours</a></p><p>3. Eurex – Closed for trading in all derivatives</p><p>4. Euronext Derivatives – Instruments will begin closing at 1255GMT/0655CST</p><p>Cash Index:</p><p>1. FTSE – Close 1230GMT/0630CST onwards</p><p>2. Euronext Cash – All instruments will be closed by 1305GMT/0705CST</p><p>3. DAX - Closed</p><p>4. IBEX 35 – Close 1300GMT/0700CST</p><p>5. FTSE MIB - Close 1230GMT/0630CST onwards</p><p>6. SMI – Closed</p><p>7. Oslo Bors – Closed</p><p>8. OMX 30 – Closed</p><p>Asia-Pac</p><p>Australia – Close at 0330GMT/2110CST</p><p>Japan – Regular Hours</p><p>Hong Kong – Regular Hours</p><p>&nbsp;</p><p><strong>25th December – Desk Closed</strong></p><p>Floor Trade&nbsp;</p><p>1. CME/CBOT - Closed</p><p>2. NYSE – Closed</p><p>Electronic Trade</p><p>1. CME Globex – Equity, interest rates, FX closed. Opens 2300GMT/1700CST</p><p>2. ICE <a href=\"https://www.theice.com/holiday-hours\">https://www.theice.com/holiday-hours</a></p><p>3. Eurex – Closed</p><p>4. Euronext Derivatives - Closed</p><p>Cash Index: -</p><p>1. FTSE – Closed</p><p>2. Euronext Cash – Closed</p><p>3. DAX - Closed</p><p>4. IBEX 35 - Closed</p><p>5. FTSE MIB - Closed</p><p>6. SMI – Closed</p><p>7. Oslo Bors – Closed</p><p>8. OMX 30 – Closed</p><p>Asia-Pac</p><p>Australia - Closed</p><p>Japan – Regular Close</p><p>Hong Kong - Closed</p><p>&nbsp;</p><p><strong>26th December (Boxing Day) – Desk Closed</strong></p><p>Floor Trade&nbsp;</p><p>1. CME/CBOT – Regular hours</p><p>2. NYSE – Regular hours</p><p>Electronic Trade</p><p>1. CME Globex – Equity, interest rates, FX closed. Regular hours</p><p>2. ICE – <a href=\"https://www.theice.com/holiday-hours\">https://www.theice.com/holiday-hours</a></p><p>3. Eurex – Closed for trading and clearing (exercise, settlement and cash) in all derivatives</p><p>4. Euronext Derivatives - Closed</p><p>Cash Index: -</p><p>1. FTSE – Closed</p><p>2. Euronext Cash – Closed</p><p>3. DAX - Closed</p><p>4. IBEX 35 - Closed</p><p>5. FTSE MIB - Closed</p><p>6. SMI – Closed</p><p>7. Oslo Bors – Closed</p><p>8. OMX 30 – Closed</p><p>Asia-Pac</p><p>Australia - Closed</p><p>Japan – Regular Close</p><p>Hong Kong - Closed</p><p>&nbsp;</p><p><strong>27th and 30th December – Desk Closed</strong></p><p>Floor Trade&nbsp;</p><p>1. CME/CBOT – Regular hours</p><p>2. NYSE – Regular hours</p><p>Electronic Trade</p><p>1. CME Globex – Equities, Interest Rates, FX – Regular hours</p><p>2. ICE – <a href=\"https://www.theice.com/holiday-hours\">https://www.theice.com/holiday-hours</a></p><p>3. Eurex - Regular hours</p><p>4. Euronext Derivatives - Regular hours</p><p>Cash Index: -</p><p>1. FTSE – Regular hours</p><p>2. Euronext Cash – Regular Hours</p><p>3. DAX – Regular hours</p><p>4. IBEX 35 – Regular hours</p><p>5. FTSE MIB – Regular hours</p><p>6. SMI – Regular hours</p><p>7. Oslo Bors – Regular hours</p><p>8. OMX 30 - Regular hours</p><p>Australia – Regular Close</p><p>Japan – Regular Close</p><p>Hong Kong – Regular Close</p><p>&nbsp;</p><p><strong>31st December (NYE)– Desk Closed</strong></p><p>Floor Trade&nbsp;</p><p>1. CME/CBOT – FX and Interest Rates close at 1800GMT/1200CST</p><p>2. NYSE – Regular hours</p><p>Electronic Trade</p><p>1. CME Globex – Equities, Interest Rates, FX – Regular close</p><p>2. ICE – <a href=\"https://www.theice.com/holiday-hours\">https://www.theice.com/holiday-hours</a></p><p>3. Eurex – Closed for trading in all derivatives</p><p>4. Euronext Derivatives – Closes begin at 1255GMT/0655CST</p><p>Cash Index: -</p><p>1. FTSE – Close 1230GMT/0630CST onwards</p><p>2. Euronext Cash – Closes begin at 1305GMT/0705CST</p><p>3. DAX – Closed</p><p>4. IBEX 35 – Close 1300GMT/0700CST</p><p>5. FTSE MIB - Close 1230GMT/0630CST onwards</p><p>6. SMI – Closed</p><p>7. Oslo Bors – Closed</p><p>8. OMX 30 – Closed</p><p>Asia-Pac</p><p>Australia – Close at 0330GMT/2110CST</p><p>Japan - Closed</p><p>Hong Kong – Regular Close</p><p>&nbsp;</p><p><strong>1st January (NYD) – Desk Closed</strong></p><p>Floor Trade&nbsp;</p><p>1. CME/CBOT - Closed</p><p>2. NYSE – Closed</p><p>Electronic Trade</p><p>1. CME Globex – Equity, interest rates, FX closed. Opens 2300GMT/1700CST</p><p>2. ICE – <a href=\"https://www.theice.com/holiday-hours\">https://www.theice.com/holiday-hours</a></p><p>3. Eurex – Closed</p><p>4. Euronext Derivatives - Closed</p><p>Cash Index: -</p><p>1. FTSE – Closed</p><p>2. Euronext Cash – Closed</p><p>3. DAX – Closed</p><p>4. IBEX 35 - Closed</p><p>5. FTSE MIB - Closed</p><p>6. SMI – Closed</p><p>7. Oslo Bors – Closed</p><p>8. OMX 30 – Closed</p><p>Asia-Pac</p><p>Australia - Closed</p><p>Japan - Closed</p><p>Hong Kong - Closed</p><p>&nbsp;</p><p><strong>2nd January (Thursday) – Markets open. Desk will re-open at 0630GMT for the beginning of the European session&nbsp;</strong></p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "newsquawk-christmas-period-opening-hours-20_00pm_utc_23-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-25 04:00:00",
+        "gmt_time": "2019-12-24 20:00:00"
+    },
+    {
+        "id": 902179,
+        "updated_sequence": 2045004,
+        "published_at": {
+            "unix": 1577210700,
+            "text": "2019-12-24 18:05:00 +0000",
+            "iso_8601": "2019-12-24T18:05:00Z"
+        },
+        "updated_at": {
+            "unix": 1577210734,
+            "text": "2019-12-24 18:05:34 +0000",
+            "iso_8601": "2019-12-24T18:05:34Z"
+        },
+        "subject": "NOTE: Newsquawk Week In Focus preview and Central Bank Weekly Briefing will return in the New Year",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "note-newsquawk-week-in-focus-preview-and-central-bank-weekly-briefing-will-return-in-the-new-year-24-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-25 02:05:00",
+        "gmt_time": "2019-12-24 18:05:00"
+    },
+    {
+        "id": 902178,
+        "updated_sequence": 2045001,
+        "published_at": {
+            "unix": 1577210520,
+            "text": "2019-12-24 18:02:00 +0000",
+            "iso_8601": "2019-12-24T18:02:00Z"
+        },
+        "updated_at": {
+            "unix": 1577210630,
+            "text": "2019-12-24 18:03:50 +0000",
+            "iso_8601": "2019-12-24T18:03:50Z"
+        },
+        "subject": "Mini market wrap: Trump says phase one will eventually be signed by himself and China President Xi",
+        "content": "<p>A shortened Christmas eve session was categorized by a thin, holiday-like feel, with low volumes.</p><p><strong>EQUITIES:</strong> The bias was towards higher equity prices in the pre-market, though futures took a knock after US President Trump suggested that, although the phase one trade deal between US/China will be ultimately signed off by himself and China President Xi, there would also be a ‘quicker signing’, likely by USTR Lighthizer and China VP Liu; analysts had previously suggested that a Presidential sign-off in the first instance would be a more constructive outcome.</p><p><strong>TREASURIES: </strong>The fixed income complex pared modest losses after a stellar 5-year auction, although analysts were quick to attribute some of the positives on the thinner trading conditions; nevertheless, the complex went positive in wake of the auction, Treasuries went positive, with yields falling by around 2bps, although the shape of the curve was mixed but little changed . The Treasury will sell 7-year debt on Thursday (NOTE: The desk will be closed for this event).</p><p><strong>CRUDE:</strong> Oil benchmarks rose gradually over the course of the session, with WTI topping USD 61.00 per barrel, and Brent above USD 67.00. Analysts said the theme was still ‘trade hopes and supply cuts’. The API will, as usual, release its inventory report at 1630 ET on Tuesday, though the DOE will release its weekly inventory report on Friday (NOTE: the desk will be closed for both events). The Street this week expects headline crude stocks to draw by 1.8mln, distillates are seen building by 0.9mln, and gasoline is seen building by 2.0mln.</p><p><strong>FX:</strong> There was little by way of significant moves in FX, and ranges were thin. Lower equities and Treasuries catching a bid resulted in XAU upside, with the yellow metal rising above USD 1500 for the first time since early November.</p><p><strong>The Newsquawk desk has now shut for the Holidays; normal service will resume on 2nd January. Our full desk opening schedule can be </strong><a href=\"https://portal.newsquawk.com/headlines/newsquawk-christmas-period-opening-hours-11_49am_utc_24-12-2019\"><strong>accessed here</strong></a><strong>.</strong></p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "mini-market-wrap-trump-says-phase-one-will-eventually-be-signed-by-himself-and-china-president-xi-24-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-25 02:02:00",
+        "gmt_time": "2019-12-24 18:02:00"
+    },
+    {
+        "id": 902155,
+        "updated_sequence": 2044998,
+        "published_at": {
+            "unix": 1577209800,
+            "text": "2019-12-24 17:50:00 +0000",
+            "iso_8601": "2019-12-24T17:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1577209922,
+            "text": "2019-12-24 17:52:02 +0000",
+            "iso_8601": "2019-12-24T17:52:02Z"
+        },
+        "subject": " NEWSQUAWK CHRISTMAS PERIOD OPENING HOURS",
+        "content": "<p>Business as usual up to <strong>1845GMT Tuesday 24th December 2019</strong></p><p><strong>Closed for business 25th, 26th, 27th, 30th, 31st December 2019 and 1st January 2020</strong></p><p><strong>Normal service will resume at 0630GMT on Thursday&nbsp;2nd&nbsp;of January 2020 for the beginning of the EU Session</strong></p><p><strong>Market closures and desk opening hours</strong></p><p>&nbsp;</p><p><strong>24th December - </strong>Business as usual up to<strong>1845GMT Tuesday 24th December 2019</strong></p><p>Floor Trade</p><p>1. CME/CBOT –FX and Interest Rates close at 1800GMT/1200CST, Equities Futures and Options close at 1815GMT/1215CST</p><p>2. NYSE – Early close at 1800GMT</p><p>Electronic Trade</p><p>1. CME – Equity, interest rates, FX close 1815GMT/1215CST, Energy closes at 1845GMT/1245CST</p><p>2. ICE – <a href=\"https://www.theice.com/holiday-hours\">https://www.theice.com/holiday-hours</a></p><p>3. Eurex – Closed for trading in all derivatives</p><p>4. Euronext Derivatives – Instruments will begin closing at 1255GMT/0655CST</p><p>Cash Index:</p><p>1. FTSE – Close 1230GMT/0630CST onwards</p><p>2. Euronext Cash – All instruments will be closed by 1305GMT/0705CST</p><p>3. DAX - Closed</p><p>4. IBEX 35 – Close 1300GMT/0700CST</p><p>5. FTSE MIB - Closed</p><p>6. SMI – Closed</p><p>7. Oslo Bors – Closed</p><p>8. OMX 30 – Closed</p><p>Asia-Pac</p><p>Australia – Close at 0330GMT/2110CST</p><p>Japan – Regular Hours</p><p>Hong Kong – Regular Hours</p><p>&nbsp;</p><p><strong>25th December – Desk Closed</strong></p><p>Floor Trade&nbsp;</p><p>1. CME/CBOT - Closed</p><p>2. NYSE – Closed</p><p>Electronic Trade</p><p>1. CME Globex – Equity, interest rates, FX closed. Opens 2300GMT/1700CST</p><p>2. ICE <a href=\"https://www.theice.com/holiday-hours\">https://www.theice.com/holiday-hours</a></p><p>3. Eurex – Closed</p><p>4. Euronext Derivatives - Closed</p><p>Cash Index: -</p><p>1. FTSE – Closed</p><p>2. Euronext Cash – Closed</p><p>3. DAX - Closed</p><p>4. IBEX 35 - Closed</p><p>5. FTSE MIB - Closed</p><p>6. SMI – Closed</p><p>7. Oslo Bors – Closed</p><p>8. OMX 30 – Closed</p><p>Asia-Pac</p><p>Australia - Closed</p><p>Japan – Regular Close</p><p>Hong Kong - Closed</p><p>&nbsp;</p><p><strong>26th December (Boxing Day) – Desk Closed</strong></p><p>Floor Trade&nbsp;</p><p>1. CME/CBOT – Regular hours</p><p>2. NYSE – Regular hours</p><p>Electronic Trade</p><p>1. CME Globex – Equity, interest rates, FX closed. Regular hours</p><p>2. ICE – <a href=\"https://www.theice.com/holiday-hours\">https://www.theice.com/holiday-hours</a></p><p>3. Eurex – Closed for trading and clearing (exercise, settlement and cash) in all derivatives</p><p>4. Euronext Derivatives - Closed</p><p>Cash Index: -</p><p>1. FTSE – Closed</p><p>2. Euronext Cash – Closed</p><p>3. DAX - Closed</p><p>4. IBEX 35 - Closed</p><p>5. FTSE MIB - Closed</p><p>6. SMI – Closed</p><p>7. Oslo Bors – Closed</p><p>8. OMX 30 – Closed</p><p>Asia-Pac</p><p>Australia - Closed</p><p>Japan – Regular Close</p><p>Hong Kong - Closed</p><p>&nbsp;</p><p><strong>27th and 30th December – Desk Closed</strong></p><p>Floor Trade&nbsp;</p><p>1. CME/CBOT – Regular hours</p><p>2. NYSE – Regular hours</p><p>Electronic Trade</p><p>1. CME Globex – Equities, Interest Rates, FX – Regular hours</p><p>2. ICE – <a href=\"https://www.theice.com/holiday-hours\">https://www.theice.com/holiday-hours</a></p><p>3. Eurex - Regular hours</p><p>4. Euronext Derivatives - Regular hours</p><p>Cash Index: -</p><p>1. FTSE – Regular hours</p><p>2. Euronext Cash – Regular Hours</p><p>3. DAX – Regular hours</p><p>4. IBEX 35 – Regular hours</p><p>5. FTSE MIB – Regular hours</p><p>6. SMI – Regular hours</p><p>7. Oslo Bors – Regular hours</p><p>8. OMX 30 - Regular hours</p><p>Australia – Regular Close</p><p>Japan – Regular Close</p><p>Hong Kong – Regular Close</p><p>&nbsp;</p><p><strong>31st December (NYE)– Desk Closed</strong></p><p>Floor Trade&nbsp;</p><p>1. CME/CBOT – FX and Interest Rates close at 1800GMT/1200CST</p><p>2. NYSE – Regular hours</p><p>Electronic Trade</p><p>1. CME Globex – Equities, Interest Rates, FX – Regular close</p><p>2. ICE – <a href=\"https://www.theice.com/holiday-hours\">https://www.theice.com/holiday-hours</a></p><p>3. Eurex – Closed for trading in all derivatives</p><p>4. Euronext Derivatives – Closes begin at 1255GMT/0655CST</p><p>Cash Index: -</p><p>1. FTSE – Close 1230GMT/0630CST onwards</p><p>2. Euronext Cash – Closes begin at 1305GMT/0705CST</p><p>3. DAX – Closed</p><p>4. IBEX 35 – Close 1300GMT/0700CST</p><p>5. FTSE MIB - Close 1230GMT/0630CST onwards</p><p>6. SMI – Closed</p><p>7. Oslo Bors – Closed</p><p>8. OMX 30 – Closed</p><p>Asia-Pac</p><p>Australia – Close at 0330GMT/2110CST</p><p>Japan - Closed</p><p>Hong Kong – Regular Close</p><p>&nbsp;</p><p><strong>1st January (NYD) – Desk Closed</strong></p><p>Floor Trade&nbsp;</p><p>1. CME/CBOT - Closed</p><p>2. NYSE – Closed</p><p>Electronic Trade</p><p>1. CME Globex – Equity, interest rates, FX closed. Opens 2300GMT/1700CST</p><p>2. ICE – <a href=\"https://www.theice.com/holiday-hours\">https://www.theice.com/holiday-hours</a></p><p>3. Eurex – Closed</p><p>4. Euronext Derivatives - Closed</p><p>Cash Index: -</p><p>1. FTSE – Closed</p><p>2. Euronext Cash – Closed</p><p>3. DAX – Closed</p><p>4. IBEX 35 - Closed</p><p>5. FTSE MIB - Closed</p><p>6. SMI – Closed</p><p>7. Oslo Bors – Closed</p><p>8. OMX 30 – Closed</p><p>Asia-Pac</p><p>Australia - Closed</p><p>Japan - Closed</p><p>Hong Kong - Closed</p><p>&nbsp;</p><p><strong>2nd January (Thursday) – Markets open. Desk will re-open at 0630GMT for the beginning of the European session</strong></p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "newsquawk-christmas-period-opening-hours-11_49am_utc_24-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-25 01:50:00",
+        "gmt_time": "2019-12-24 17:50:00"
+    },
+    {
+        "id": 902177,
+        "updated_sequence": 2044996,
+        "published_at": {
+            "unix": 1577209740,
+            "text": "2019-12-24 17:49:00 +0000",
+            "iso_8601": "2019-12-24T17:49:00Z"
+        },
+        "updated_at": {
+            "unix": 1577209849,
+            "text": "2019-12-24 17:50:49 +0000",
+            "iso_8601": "2019-12-24T17:50:49Z"
+        },
+        "subject": "MOC: SPX 550mln to sell (vs. 5mln to buy at 1549); Dow 150mln to sell (vs 10mln to buy)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "moc-spx-550mln-to-sell-vs-5mln-to-buy-at-1549-dow-150mln-to-sell-vs-10mln-to-buy-24-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-25 01:49:00",
+        "gmt_time": "2019-12-24 17:49:00"
+    },
+    {
+        "id": 902176,
+        "updated_sequence": 2044991,
+        "published_at": {
+            "unix": 1577206680,
+            "text": "2019-12-24 16:58:00 +0000",
+            "iso_8601": "2019-12-24T16:58:00Z"
+        },
+        "updated_at": {
+            "unix": 1577206749,
+            "text": "2019-12-24 16:59:09 +0000",
+            "iso_8601": "2019-12-24T16:59:09Z"
+        },
+        "subject": "China Foreign Minister calls on US to deliver on agreements reached with NK at Singapore summit, and encourages the sides to work out a feasible roadmap for permanent peace, and de-nuclearisation on Korean peninsula ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "china-foreign-minister-calls-on-us-to-deliver-on-agreements-reached-with-nk-at-singapore-summit-and-encourages-the-sides-to-work-out-a-feasible-roadmap-for-permanent-peace-and-de-nuclearisation-on-korean-peninsula-24-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 23,
+            "name": "Geopolitical"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-25 00:58:00",
+        "gmt_time": "2019-12-24 16:58:00"
+    },
+    {
+        "id": 902175,
+        "updated_sequence": 2044988,
+        "published_at": {
+            "unix": 1577203260,
+            "text": "2019-12-24 16:01:00 +0000",
+            "iso_8601": "2019-12-24T16:01:00Z"
+        },
+        "updated_at": {
+            "unix": 1577203352,
+            "text": "2019-12-24 16:02:32 +0000",
+            "iso_8601": "2019-12-24T16:02:32Z"
+        },
+        "subject": "Russia's Finance Minister forecasts Russia potentially issuing a non-dollar eurobond in 2020 ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "russia-s-finance-minister-forecasts-russia-potentially-issuing-a-non-dollar-eurobond-in-2020-24-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 21,
+            "name": "Fixed Income"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-25 00:01:00",
+        "gmt_time": "2019-12-24 16:01:00"
+    },
+    {
+        "id": 902174,
+        "updated_sequence": 2044983,
+        "published_at": {
+            "unix": 1577199720,
+            "text": "2019-12-24 15:02:00 +0000",
+            "iso_8601": "2019-12-24T15:02:00Z"
+        },
+        "updated_at": {
+            "unix": 1577199852,
+            "text": "2019-12-24 15:04:12 +0000",
+            "iso_8601": "2019-12-24T15:04:12Z"
+        },
+        "subject": "US Sells USD 41bln in 5-year notes; Tail -1.6bps; B/C: 2.49x",
+        "content": "<ul><li>Tail: -1.6bps (prev. 0.3bps, six-auction avg. 0.2bps)</li><li>Bid-to-cover: 2.49x (prev. 2.5x, six-auction avg. 2.39x)</li><li>Dealers: 21.5% (prev. 21.6%, six-auction avg. 24.8%)</li><li>Direct: 16.1% (prev. 13.5%, six-auction avg. 15.2%)</li><li>Indirect: 62.4% (prev. 64.8%, six-auction avg. 59.9%)</li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-sells-usd-41bln-in-5-year-notes-tail-1-6bps-b-c-2-49x-24-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 21,
+            "name": "Fixed Income"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-24 23:02:00",
+        "gmt_time": "2019-12-24 15:02:00"
+    },
+    {
+        "id": 902170,
+        "updated_sequence": 2044969,
+        "published_at": {
+            "unix": 1577198340,
+            "text": "2019-12-24 14:39:00 +0000",
+            "iso_8601": "2019-12-24T14:39:00Z"
+        },
+        "updated_at": {
+            "unix": 1577199229,
+            "text": "2019-12-24 14:53:49 +0000",
+            "iso_8601": "2019-12-24T14:53:49Z"
+        },
+        "subject": "US President Trump says himself and China's Xi would sign a trade deal ultimately, although noting there would also be a quicker signing ",
+        "content": "<ul><li>Says deal is done, just working on the paperwork and that there will be a signing ceremony</li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>Some had stated a presidential signing of the trade deal would be seen as a positive. However, he notes there will be a quicker signing and the presidential signing would be at the end. Currently the signing is expected to take place in January with reports suggesting it would be signed by USTR Lighthizer and China Vice Premier Liu He</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1577198460,
+            "text": "2019-12-24 14:41:00 +0000",
+            "iso_8601": "2019-12-24T14:41:00Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-president-trump-says-himself-and-china-s-xi-would-sign-a-trade-deal-ultimately-although-noting-there-would-also-be-a-quicker-signing-24-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-24 22:39:00",
+        "gmt_time": "2019-12-24 14:39:00"
+    },
+    {
+        "id": 902169,
+        "updated_sequence": 2044960,
+        "published_at": {
+            "unix": 1577197980,
+            "text": "2019-12-24 14:33:00 +0000",
+            "iso_8601": "2019-12-24T14:33:00Z"
+        },
+        "updated_at": {
+            "unix": 1577198149,
+            "text": "2019-12-24 14:35:49 +0000",
+            "iso_8601": "2019-12-24T14:35:49Z"
+        },
+        "subject": "US President Trump says “We’ll see what happens” if there is a long range missile launch  form North Korea, noting we will deal with the Christmas surprise if there is one, adding it may be a nice surprise",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<p>Earlier, some outlets had cited satellite images purporting showing work on North Korean site linked to long-range missiles.</p>",
+        "analysis_updated_at": {
+            "unix": 1577198149,
+            "text": "2019-12-24 14:35:49 +0000",
+            "iso_8601": "2019-12-24T14:35:49Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-president-trump-says-we-ll-see-what-happens-if-there-is-a-long-range-missile-launch-form-north-korea-noting-we-will-deal-with-the-christmas-surprise-if-there-is-one-adding-it-may-be-a-nice-surprise-24-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 23,
+            "name": "Geopolitical"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-24 22:33:00",
+        "gmt_time": "2019-12-24 14:33:00"
+    },
+    {
+        "id": 902168,
+        "updated_sequence": 2044954,
+        "published_at": {
+            "unix": 1577196540,
+            "text": "2019-12-24 14:09:00 +0000",
+            "iso_8601": "2019-12-24T14:09:00Z"
+        },
+        "updated_at": {
+            "unix": 1577196619,
+            "text": "2019-12-24 14:10:19 +0000",
+            "iso_8601": "2019-12-24T14:10:19Z"
+        },
+        "subject": "US will auction USD 41bln of 5-year notes at 10:00 ET/1500 GMT",
+        "content": "<p>The Treasury will auction USD 40bln in 2s (Monday), USD 41bln in 5s (Tuesday) and USD 32bln of 7s (Thursday). The Auctions will raise a net USD 31.7bln at the month-end settlement.</p><p><strong>5-YEAR AUCTION HISTORY:</strong></p><ul><li>High-yield: (prev. 1.587%, six-auction avg. 1.623%)</li><li>Tail: (prev. 0.3bps, six-auction avg. 0.2bps)</li><li>Bid-to-cover: (prev. 2.5x, six-auction avg. 2.39x)</li><li>Dealers: (prev. 21.6%, six-auction avg. 24.8%)</li><li>Direct: (prev. 13.5%, six-auction avg. 15.2%)</li><li>Indirect: (prev. 64.8%, six-auction avg. 59.9%)</li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "us-will-auction-usd-41bln-of-5-year-notes-at-10-00-et-1500-gmt-24-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 21,
+            "name": "Fixed Income"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-24 22:09:00",
+        "gmt_time": "2019-12-24 14:09:00"
+    },
+    {
+        "id": 902167,
+        "updated_sequence": 2044949,
+        "published_at": {
+            "unix": 1577196000,
+            "text": "2019-12-24 14:00:00 +0000",
+            "iso_8601": "2019-12-24T14:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1577196086,
+            "text": "2019-12-24 14:01:26 +0000",
+            "iso_8601": "2019-12-24T14:01:26Z"
+        },
+        "subject": "Uber (UBER) co-founder Kalanick will resign from the board, effective immediately",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<p>NOTE: Recent reports has suggested that Kalanick has sold over 90% of his stake within Uber over the last seven weeks.</p>",
+        "analysis_updated_at": {
+            "unix": 1577196086,
+            "text": "2019-12-24 14:01:26 +0000",
+            "iso_8601": "2019-12-24T14:01:26Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "uber-uber-co-founder-kalanick-will-resign-from-the-board-effective-immediately-24-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-24 22:00:00",
+        "gmt_time": "2019-12-24 14:00:00"
+    },
+    {
+        "id": 902164,
+        "updated_sequence": 2044938,
+        "published_at": {
+            "unix": 1577194500,
+            "text": "2019-12-24 13:35:00 +0000",
+            "iso_8601": "2019-12-24T13:35:00Z"
+        },
+        "updated_at": {
+            "unix": 1577194623,
+            "text": "2019-12-24 13:37:03 +0000",
+            "iso_8601": "2019-12-24T13:37:03Z"
+        },
+        "subject": "Newsquawk Daily US Equity Opening News - 24th December 2019",
+        "content": "<p>To download the report, please click <a href=\"/research_sheets/23538/download\">here</a> If you would like to subscribe to receive the research sheets directly in your inbox, you can now do so under the <a href=\"/research_sheets\">Research Suite</a> section of the portal. To subscribe simply check the box next to \"Email these reports\" under the desired category.&nbsp;</p><ul><li>Of note for <strong>Semiconductors (SOX), </strong>Sony’s (SNE) semiconductor head stated the demand for image sensor is greater than the supply and thus, it is constantly working its chip factories to match the high demand for the image sensors used in mobile phone cameras.</li><li><strong>Amazon.com Inc. (AMZN)</strong> (Consumer Discretionary/Internet &amp; Direct Marketing Retail) Paul Davis, Bezos’ second hire in 1994, announced in an interview that Amazon market-place should be separated from its core retail business that socks and sells products itself, as he is troubled by reports on Amazon squeezing and exploiting the merchants that stock its digital shelves in ways that benefit Amazon above all else. (Recode)</li><li><strong>Advanced Micro Devices Inc (AMD) </strong>(Information Technology/Semiconductors) had its PT raised by RBC to USD 53 from USD 50 as the desk raised its price estimates for the full year. RBC highlighted a solid channel checks regarding gaming and its data center business.</li></ul><p>24th December 2019</p><ul><li>Of note for <strong>Semiconductors (SOX), </strong>Sony’s (SNE) semiconductor head stated the demand for image sensor is greater than the supply and thus, it is constantly working its chip factories to match the high demand for the image sensors used in mobile phone cameras.</li></ul><p>DOW</p><ul><li><strong>Apple Inc. (AAPL)</strong> (Information Technology/Technology Hardware, Storage &amp; Peripherals) iPhone XR has been the best-selling smartphone every quarter this year, according to 9to5Mac citing Counterpoint Research.</li><li><strong>Boeing Company (BA)</strong> (Industrials/Aerospace &amp; Defense) has told 737 suppliers to suspend shipments for a period of one month following the announcement it is to halt 737 MAX production in January. Also of note, sources state its new CEO Calhoun is facing pressure regarding the Embraer (ERJ) tie-up and investigators have reportedly asked for over 1.5mln pages of information on this. Elsewhere, Bernstein believe Calhoun is the right person to lead the company.</li><li><strong>Nike (NKE)</strong> (Consumer Discretionary/Apparel, Accessories &amp; Luxury Goods) had its PT increased at Argus to USD 115 from USD 105, where the analyst maintained his buy rating noting its strong brand performance highlighted in its latest earnings report. The analyst highlights the bargaining power as a supplier has been increased by some retailers who are looking to increase their sales by offering Nike products to increase footfall for the company.</li></ul><p>NASDAQ 100</p><ul><li><strong>Advanced Micro Devices Inc (AMD) </strong>(Information Technology/Semiconductors) had its PT raised by RBC to USD 53 from USD 50 as the desk raised its price estimates for the full year. RBC highlighted a solid channel checks regarding gaming and its data center business.</li><li><strong>Amazon.com Inc. (AMZN) </strong>(Consumer Discretionary/Internet &amp; Direct Marketing Retail) Paul Davis, Bezos’ second hire in 1994, announced in an interview that Amazon market-place should be separated from its core retail business that socks and sells products itself, as he is troubled by reports on Amazon squeezing and exploiting the merchants that stock its digital shelves in ways that benefit Amazon above all else. (Recode)</li><li><strong>Citrix Systems (CTXS)</strong> (Information Technology/Internet Software &amp; Services) flaw reportedly may expose thousands of companies to attacks, according to Bleeping Computer, who note the vulnerability could let attackers gain access to company’s internal network without a recognition log in.</li><li><strong>Gilead Sciences (GILD)</strong> (Health Care/Biotechnology) and Eisai entered into a distribution and co-promotion agreement for Filogitinib, an investigational JAK1 inhibitor in Japan for treatment of rheumatoid arthritis, although it is subject to regulatory approval.</li><li><strong>Lam Research (LRCX)</strong> (Information Technology/Semiconductor Equipment) CTO has sold 17.6k shares for USD 5.07mln, Chief Legal Officer sold 3.8k shares for USD 1.1mln.</li><li><strong>Netflix Inc. (NFLX)</strong> (Communication Services/Movies &amp; Entertainment) increased its total pay for CEO Hastings and Chief Content Officer Sarandos through annual stock options.</li><li><strong>O'Reilly Automotive (ORLY) </strong>(Consumer Discretionary/Specialty Stores) Chairman sold 18k shares for a total of USD 7.97mln.</li><li><strong>Tesla (TSLA) </strong>(Consumer Discretionary/Automobiles) received a note from Morgan Stanley, where analyst Adam Jonas believes 2020 offers a strong event path for the stock, he notes China milestones, the model Y and potentially new tech announcements, he expects a surge in sentiment in H120. However, the analyst still questions the sustainability of the sentiment surge and noted he is not bullish on the automaker in the long term.</li><li><strong>T-Mobile (TMUS) </strong>(Communication Services/Wireless Telecommunication Services) / Comcast Corp. (CMCSA) (Communication Services/Cable &amp; Satellite) – According the The Verge, citing a document from 2015, TMUS had been preparing for a merger with CMCSA in a move for a “winning position for the US business model”.</li></ul><p>S&amp;P 500</p><ul><li><strong>Hilton Worldwide Holdings Inc (HLT)</strong> (Consumer Discretionary/Hotels, Resorts &amp; Cruise Lines) is to introduce a new hotel brand aimed at young professionals as it aims to take on rivals such as <strong>Marriott International (MAR)</strong> (Consumer Discretionary/Hotels, Resorts and Cruise Lines). (WSJ)</li><li><strong>Keysight Technologies (KEYS)</strong> (Information Technology/Electronic Equipment &amp; Instruments) CFO has sold 23,254 shares for USD 103.1906/shr.</li><li><strong>LyondellBasell (LYB)</strong> (Materials/Specialty Chemicals) announced it has signed an MoU to form a 50/50 JV with Sinopec.</li></ul><p>OTHER</p><ul><li><strong>Cel-Csi (CVM)</strong> (Healthcare/Biotechnology) sold 606,395 shares in a public offering at USD 9.07 where gross proceeds are expected to hit USD 5.5mln.</li><li><strong>Nissan (NSANY)</strong> (Consumer Discretionary/Automobiles) vice COO has resigned from the company, in a move which could potentially hinder the company’s efforts to recover from scandal and slowing sales, the report states.</li><li><strong>Spirit Airlines (SAVE)</strong> (Industrials/Airlines) agreed to purchase 100 Airbus (AIR FP) A320 NEO aircrafts, with options to buy another 50, and are planned for delivery until 2027.</li><li><strong>Wesco (WCC)</strong> (Industrials/Trading Companies &amp; Distributors) confirmed it is to acquire <strong>Anixter International (AXE)</strong> (Information Technology/Electronic Equipment, Instruments &amp; Company), offering USD 90/shr for the company which equates to ~ USD 3bln.</li></ul><p>BROKER MOVES</p><p><strong>Upgrades</strong></p><ul><li>N/A</li></ul><p>&nbsp;</p><p><strong>Downgrades</strong></p><ul><li>AQUAVENTURE (WAAS) DOWNGRADED TO MARKET PERFORM FROM OUTPERFORM AT RAYMOND JAMES</li><li>AQUAVENTURE (WAAS) DOWNGRADED TO SECTOR PERFORM FROM OUTPERFORM AT RBC CAPITAL</li><li>AURORA CANNABIS (ACB) DOWNGRADEWD TO HOLD FROM BUY AT JEFFERIES</li><li>FEDEX (FDX) DOWNGRADED TO HOLD FROM BUY AT ARGUS</li><li>CINCINNATI BELL (CBB) DOWNGRADED TO NEUTRAL FROM BUY AT UBS</li><li>WRIGHT MEDICAL (WMGI) DOWNGRADED TO HOLD FROM BUY AT JEFFERIES</li></ul><p>&nbsp;</p><p><strong>Initiation</strong></p><ul><li>AMGEN (AMGN) RATED NEW MARKET PERFORM AT RAYMOND JAMES</li><li>KODIAK SCIENCES (KOD) RATED NEW OVERWEIGHT AT JPMORGAN; PT USD 82</li><li>OTONOMY (OTIC) RATED NEW OUTPERFORM AT OPPENHEIMER; PT USD 8</li><li>REGENERON (REGN) RATED NEW MARKET PERFORM AT RAYMOND JAMES</li><li>STEMLINE THERAPEUTICS (STML) RATED NEW OVERWEIGHT AT CANTOR; PT USD 18</li><li>Y-MABS THERAPEUTICS (YMAB) RATED NEW OVERWEIGHT AT JPMORGAN; PT USD 39</li></ul><p>&nbsp;</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "newsquawk-daily-us-equity-opening-news-24th-december-2019-24-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-24 21:35:00",
+        "gmt_time": "2019-12-24 13:35:00"
+    },
+    {
+        "id": 902163,
+        "updated_sequence": 2044935,
+        "published_at": {
+            "unix": 1577193660,
+            "text": "2019-12-24 13:21:00 +0000",
+            "iso_8601": "2019-12-24T13:21:00Z"
+        },
+        "updated_at": {
+            "unix": 1577193706,
+            "text": "2019-12-24 13:21:46 +0000",
+            "iso_8601": "2019-12-24T13:21:46Z"
+        },
+        "subject": "Desk is monitoring the protests in Hong Kong amid reports that the police are firing tear gas at protestors, China Global Times highlights protests are expected in Tsim Sha Tsui district where people traditionally gather on Christmas Eve",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "China Global Times/Sky",
+        "slug": "desk-is-monitoring-the-protests-in-hong-kong-amid-reports-that-the-police-are-firing-tear-gas-at-protestors-china-global-times-highlights-protests-are-expected-in-tsim-sha-tsui-district-where-people-traditionally-gather-on-christmas-eve-24-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 23,
+            "name": "Geopolitical"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-24 21:21:00",
+        "gmt_time": "2019-12-24 13:21:00"
+    },
+    {
+        "id": 902161,
+        "updated_sequence": 2044928,
+        "published_at": {
+            "unix": 1577189040,
+            "text": "2019-12-24 12:04:00 +0000",
+            "iso_8601": "2019-12-24T12:04:00Z"
+        },
+        "updated_at": {
+            "unix": 1577189127,
+            "text": "2019-12-24 12:05:27 +0000",
+            "iso_8601": "2019-12-24T12:05:27Z"
+        },
+        "subject": "February North Seas Crude Oil stream will reportedly load 18 cargoes, according to sources  ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "february-north-seas-crude-oil-stream-will-reportedly-load-18-cargoes-according-to-sources-24-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 20,
+            "name": "Commodities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-24 20:04:00",
+        "gmt_time": "2019-12-24 12:04:00"
+    },
+    {
+        "id": 902156,
+        "updated_sequence": 2044909,
+        "published_at": {
+            "unix": 1577188200,
+            "text": "2019-12-24 11:50:00 +0000",
+            "iso_8601": "2019-12-24T11:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1577188500,
+            "text": "2019-12-24 11:55:00 +0000",
+            "iso_8601": "2019-12-24T11:55:00Z"
+        },
+        "subject": "Boeing (BA) - Co's new CEO is reportedly facing pressure regarding the Embraer (ERJ) tie-up, investigators have reportedly asked for over 1.5mln pages of information on this., according to sources",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>Co's CEO Muilenburg stepped down yesterday, with Smith to serve as interim CEO until Calhoun takes over</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1577188500,
+            "text": "2019-12-24 11:55:00 +0000",
+            "iso_8601": "2019-12-24T11:55:00Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "boeing-ba-co-s-new-ceo-is-reportedly-facing-pressure-regarding-the-embraer-erj-tie-up-investigators-have-reportedly-asked-for-over-1-5mln-pages-of-information-on-this-according-to-sources-24-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-24 19:50:00",
+        "gmt_time": "2019-12-24 11:50:00"
+    },
+    {
+        "id": 902154,
+        "updated_sequence": 2044899,
+        "published_at": {
+            "unix": 1577185140,
+            "text": "2019-12-24 10:59:00 +0000",
+            "iso_8601": "2019-12-24T10:59:00Z"
+        },
+        "updated_at": {
+            "unix": 1577185253,
+            "text": "2019-12-24 11:00:53 +0000",
+            "iso_8601": "2019-12-24T11:00:53Z"
+        },
+        "subject": "Total (FP FP) state that its Grandpuit refinery will continue to produce at a reduce rate until the next union assembly which is on December 30th",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>Capacity of 99k BPD</li><li>Follows on from the CGT Union voting for strike action at the refinery over pension reforms</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1577185253,
+            "text": "2019-12-24 11:00:53 +0000",
+            "iso_8601": "2019-12-24T11:00:53Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "total-fp-fp-state-that-its-grandpuit-refinery-will-continue-to-produce-at-a-reduce-rate-until-the-next-union-assembly-which-is-on-december-30th-24-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 2,
+            "name": "CAC"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-24 18:59:00",
+        "gmt_time": "2019-12-24 10:59:00"
+    },
+    {
+        "id": 902153,
+        "updated_sequence": 2044896,
+        "published_at": {
+            "unix": 1577184180,
+            "text": "2019-12-24 10:43:00 +0000",
+            "iso_8601": "2019-12-24T10:43:00Z"
+        },
+        "updated_at": {
+            "unix": 1577184257,
+            "text": "2019-12-24 10:44:17 +0000",
+            "iso_8601": "2019-12-24T10:44:17Z"
+        },
+        "subject": "Newsquawk Daily US Opening News - 24th December 2019",
+        "content": "<p>To download the report, please click <a href=\"/research_sheets/23537/download\">here</a> If you would like to subscribe to receive the research sheets directly in your inbox, you can now do so under the <a href=\"/research_sheets\">Research Suite</a> section of the portal. To subscribe simply check the box next to \"Email these reports\" under the desired category.&nbsp;</p><ul><li><strong>&nbsp;European bourses are little changed with a number of market closures already underway</strong></li><li><strong>China Global Times tweeted that hopefully US can move faster towards lowering tariffs after China recently announced new tariff-cut plans on imports</strong></li><li><strong>FX markets are tentative/little changed with the debt complex painting a similar picture</strong></li><li><strong>Looking ahead, highlights include Richmond Fed, APIs, US 5yr. Note, there are several early market closures, all of which are detailed on our calendar/headline feed</strong></li></ul><p><strong>ASIA-PAC</strong></p><p><strong>Asian equity markets were mixed with price action range-bound amid the ongoing holiday lull and with several early market closures in the region for Christmas Eve. ASX 200 (+0.1%)</strong> was uneventful in today’s shortened trading session as outperformance in the commodity-related sectors counterbalanced weakness in tech and financials, while <strong>Nikkei 225 (Unch.) </strong>also meandered on the marginal ebbs and flows in the domestic currency with outdated BoJ minutes from the October meeting doing little to spur price action. <strong>Hang Seng (-0.2%) </strong>and<strong> Shanghai Comp. (+0.7%)</strong> conformed to the non-committal tone amid the reduced hours in Hong Kong and with mainland also kept indecisive after the PBoC skipped open market operations, although Chinese Premier Li noted that China will study further steps to lower financing costs including RRR and targeted RRR cuts. Finally, 10yr JGBs were initially lacklustre following the similar holiday-quietened trade in USTs and with demand sapped by a lack of buying from the BoJ which were only in the market for treasury discount bills, although prices were later supported following the 2yr auction results which were mixed but still attracted a higher b/c. &nbsp;&nbsp;&nbsp;</p><p>PBoC skipped open market operations for a net neutral daily position and announced CNY 6bln in 3-month central bank bill swaps. (Newswires) <strong>PBoC set USD/CNY reference rate at 7.0119 vs. Exp. 7.0126 (Prev. 7.0117)</strong></p><p>China Global Times tweeted comments from Chinese Premier Li that China pledges equal treatment for all enterprises under all forms of ownership and won't take on protectionism but instead it will stick to further opening-up despite deficit with Japan and South Korea, while the trilateral joint press statement from China, Japan and South Korea reaffirmed commitment to resolve North Korea issue and that they will try to facilitate US-North Korea dialogue. (Newswires/Twitter)</p><p><strong>China Global Times tweeted that hopefully US can move faster towards lowering tariffs after China recently announced new tariff-cut plans on imports</strong>, while it separately tweeted comments from China Foreign Minister Wang Yi who stated the US should work with China to get bilateral ties back on track. (Twitter) China Global Times tweeted that China expresses strong dissatisfaction with the US over the negative contents distorting and smearing China's military development and on issues regarding Taiwan, Hong Kong and Xinjiang, as well as prohibited purchase of Chinese products. Furthermore, the Global Times also tweeted that it is impossible for the US to rope in other countries to contain China and that neither Russia nor any other country is willing to become its pawn to contain China. (Twitter)</p><p>China's Cabinet states that the pressure regarding the stabilisation of employment is increasing. (Newswires)</p><p>BoJ Minutes from October Meeting stated most members recognized there had been no further increase in the possibility that the momentum towards achieving the price stability target would be lost and that it is appropriate to maintain current purchase guidelines. The Minutes added that some members noted BoJ must not hesitate to take additional easing if there was a greater chance momentum to reaching price target was lost, while members agreed that the economy had been on a moderate expanding trend with a virtuous cycle from income to spending operating, although exports, production, and business sentiment continued to be affected by the slowdown in overseas economies. (Newswires)&nbsp;</p><p><strong>UK/EU</strong></p><p>White House reportedly stepped up its warnings to the UK regarding permitting Huawei into its 5G networks which the US alleged is a risk for the British intelligence agencies. (FT)</p><p><strong>GEOPOLITICS</strong></p><p>Japanese PM Abe tells South Korean President Moon that he would like to improve ties between Tokyo-Seoul, according Yonhap. Subsequently, South Korean President Moon has urged Japanese PM Abe to completely retract export restrictions against South Korea, according to the Blue House. (Yonhap/Newswires) <i>For context, last week Japan lifted some of its export restrictions but South Korea said the measures are not sufficient for a fundamental resolution to the problem</i>.</p><p><strong>EQUITIES</strong></p><p>European equity markets tread water in the run up to the early Christmas closures and with a bulk of the regional bourses already away on holiday (full closure available on the Newsquawk headline feed). DAX, FTSE MIB and SMI cash markets are among those shut, whilst FTSE 100 (+0.1%), CAC 40 (Unch), AEX (Unch) and IBEX 35 (-0.3%) trade without a clear direction. The latter, however, experiences mild pressure on the back of index-heavy BBVA (-1.1%) - whose shares declined after sources stated that the ECB has asked Spain’s High Court to provide information regarding a probe into spying involving BBVA, to evaluate potential impact on the bank’s governance. Sectors are likewise largely uninspiring, but energy names see some outperformance as most oil-giants remain open – with Royal Dutch Shell (+0.8%) piggybacking on Sterling’s post-election declines and stable energy prices. In terms of other individual movers, PSA (-0.6%) resides towards to bottom of the CAC after the Co. was reiterated with an underperform rating at RBC. Meanwhile, Vivendi (-0.2%) shares are modestly subdued amid the ongoing spat with Mediaset regarding its pan-European merger plans which drew criticism from Vivendi.</p><p><strong>FX</strong></p><p>FX markets trade with no conviction ahead of the festive season with DXY just above its 200 DMA around 97.71/7; for reference, its 21 DMA resides at 97.61. Similarly, EUR/USD and GBP/USD move relatively sideways – although the former dipped below its 50 and 21 DMA which both reside around 1.1083 to a low of around 1.1071 before paring some downside, whilst the latter manages to remain afloat above yesterday’s 1.2905 low. Elsewhere, USD/JPY retains its 109.00+ status heading into the Christmas break having largely side-lined the out-of-date BoJ Minutes from its October meeting with the pair reflecting the non-committal risk tone across the holiday-thinned market. Meanwhile, the antipodeans remain choppy within tight 20-pip ranges, albeit the Kiwi saw mild impetus heading into the Asia close and currently hovers in proximity to yesterday’s high around 0.6640. The Aussie overall remains flat intraday amid a paucity of pertinent data releases and with no clear risk tone. Finally, USD/CNH heads into the partial session modestly north of the 7.00 mark after seeing another stable Yuan reference rate setting with the next level to the upside at 7.0163 (21 DMA), and with traders eyeing US-China developments early next year, particularly details surrounding the timing of the Phase One deal signing.</p><p>FIXED INCOME</p><p>Debt futures reflect the overall tentative feel in the market and with regional closures which see&nbsp;<strong>Bunds</strong>&nbsp;and&nbsp;<strong>BTPs</strong>&nbsp;out of action.&nbsp;<strong>Gilt</strong>&nbsp;futures have waned off yesterday’s 132.25 high and breached 132.00 to the downside with prices currently hovering around the 131.75 mark– that said, holiday conditions are likely to not prompt much price action in the contracts. State-side, the&nbsp;<strong>UST</strong>&nbsp;curve sees minimal flattening, whilst prices remain little deviated from the open around 128-05; some impetus may be derived from a USD 41bln 5-year auction later in the session.</p><p><strong>COMMODITIES&nbsp;</strong></p><p><strong>WTI</strong>&nbsp;and&nbsp;<strong>Brent</strong>&nbsp;futures hover in mild positive territory around the USD 60.50/bbl and USD 66.50/bbl levels respectively and both within tight USD 0.20/bbl ranges. News-flow has remained light as markets wrap up for the Christmas holidays and thus provide little impetus to the complex. Meanwhile,&nbsp;<strong>spotgold</strong>&nbsp;trades on a firmer footing having yesterday surpassed its trendline resistance at USD 1487/oz and briefly topping its 100 DMA (USD 1492.30/oz) in recent trade, although the move was fleeting. From a macro-perspective, there is little by way of fresh fundamental factors to prompt the upside in gold, but light volumes could result in unexplained price action. Elsewhere,&nbsp;<strong>copper</strong>&nbsp;prices are similarly in the green; prices are back above the 2.80/lb mark with possible upside derived by China’s Environment Ministry issuing 2020 scrap metal import quotas – which sees high-grade copper scrap allowances for just over 270k tonnes (vs. 560k tonnes of copper scrap quota in 2019) alluding to a potential rise in the red metal’s demand within China.&nbsp;</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "newsquawk-daily-us-opening-news-24th-december-2019-24-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-24 18:43:00",
+        "gmt_time": "2019-12-24 10:43:00"
+    },
+    {
+        "id": 902152,
+        "updated_sequence": 2044893,
+        "published_at": {
+            "unix": 1577183520,
+            "text": "2019-12-24 10:32:00 +0000",
+            "iso_8601": "2019-12-24T10:32:00Z"
+        },
+        "updated_at": {
+            "unix": 1577183598,
+            "text": "2019-12-24 10:33:18 +0000",
+            "iso_8601": "2019-12-24T10:33:18Z"
+        },
+        "subject": "Newsquawk EU Mid Session: Mass regional closures as markets wrap up for Christmas - 24th December 2019",
+        "content": "<p>To download the report, please click <a href=\"/research_sheets/23536/download\">here</a> If you would like to subscribe to receive the research sheets directly in your inbox, you can now do so under the <a href=\"/research_sheets\">Research Suite</a> section of the portal. To subscribe simply check the box next to \"Email these reports\" under the desired category.</p><p><strong>EQUITIES</strong></p><p><strong>European equity markets tread water in the run up to the early Christmas closures </strong>and with a bulk of the regional bourses already away on holiday (full closure available on the Newsquawk headline feed). DAX, FTSE MIB and SMI cash markets are among those shut, whilst FTSE 100 (+0.1%), CAC 40 (Unch), AEX (Unch) and IBEX 35 (-0.3%) trade without a clear direction. The latter, however, experiences mild pressure on the back of index-heavy BBVA (-1.1%) - whose shares declined after sources stated that the ECB has asked Spain’s High Court to provide information regarding a probe into spying involving BBVA, to evaluate potential impact on the bank’s governance. Sectors are likewise largely uninspiring, but energy names see some outperformance as most oil-giants remain open – with Royal Dutch Shell (+0.8%) piggybacking on Sterling’s post-election declines and stable energy prices. In terms of other individual movers, PSA (-0.6%) resides towards to bottom of the CAC after the Co. was reiterated with an underperform rating at RBC. Meanwhile, Vivendi (-0.2%) shares are modestly subdued amid the ongoing spat with Mediaset regarding its pan-European merger plans which drew criticism from Vivendi.</p><p><strong>FX</strong></p><p>FX markets trade with no conviction ahead of the festive season with <strong>DXY</strong> just above its 200 DMA around 97.71/7; for reference, its 21 DMA resides at 97.61. Similarly, <strong>EUR/USD</strong> and <strong>GBP/USD</strong> move relatively sideways – although the former dipped below its 50 and 21 DMA which both reside around 1.1083 to a low of around 1.1071 before paring some downside, whilst the latter manages to remain afloat above yesterday’s 1.2905 low. Elsewhere, <strong>USD/JPY</strong> retains its 109.00+ status heading into the Christmas break having largely side-lined the out-of-date BoJ Minutes from its October meeting with the pair reflecting the non-committal risk tone across the holiday-thinned market. Meanwhile, the <strong>antipodeans</strong> remain choppy within tight 20-pip ranges, albeit the <strong>Kiwi</strong> saw mild impetus heading into the Asia close and currently hovers in proximity to yesterday’s high around 0.6640. The <strong>Aussie</strong> overall remains flat intraday amid a paucity of pertinent data releases and with no clear risk tone. Finally, <strong>USD/CNH</strong> heads into the partial session modestly north of the 7.00 mark after seeing another stable Yuan reference rate setting with the next level to the upside at 7.0163 (21 DMA), and with traders eyeing US-China developments early next year, particularly details surrounding the timing of the Phase One deal signing.</p><p><strong>FIXED INCOME</strong></p><p>Debt futures reflect the overall tentative feel in the market and with regional closures which see <strong>Bunds</strong> and <strong>BTPs</strong> out of action. <strong>Gilt</strong> futures have waned off yesterday’s 132.25 high and breached 132.00 to the downside with prices currently hovering around the 131.75 mark– that said, holiday conditions are likely to not prompt much price action in the contracts. State-side, the <strong>UST</strong> curve sees minimal flattening, whilst prices remain little deviated from the open around 128-05; some impetus may be derived from a USD 41bln 5-year auction later in the session.</p><p><strong>COMMODITIES</strong></p><p><strong>WTI</strong> and <strong>Brent</strong> futures hover in mild positive territory around the USD 60.50/bbl and USD 66.50/bbl levels respectively and both within tight USD 0.20/bbl ranges. News-flow has remained light as markets wrap up for the Christmas holidays and thus provide little impetus to the complex. Meanwhile, <strong>spot</strong> <strong>gold</strong> trades on a firmer footing having yesterday surpassed its trendline resistance at USD 1487/oz and briefly topping its 100 DMA (USD 1492.30/oz) in recent trade, although the move was fleeting. From a macro-perspective, there is little by way of fresh fundamental factors to prompt the upside in gold, but light volumes could result in unexplained price action. Elsewhere, <strong>copper</strong> prices are similarly in the green; prices are back above the 2.80/lb mark with possible upside derived by China’s Environment Ministry issuing 2020 scrap metal import quotas – which sees high-grade copper scrap allowances for just over 270k tonnes (vs. 560k tonnes of copper scrap quota in 2019) alluding to a potential rise in the red metal’s demand within China.&nbsp;</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "newsquawk-eu-mid-session-mass-regional-closures-as-markets-wrap-up-for-christmas-24th-december-2019-24-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-24 18:32:00",
+        "gmt_time": "2019-12-24 10:32:00"
+    },
+    {
+        "id": 902150,
+        "updated_sequence": 2044887,
+        "published_at": {
+            "unix": 1577179020,
+            "text": "2019-12-24 09:17:00 +0000",
+            "iso_8601": "2019-12-24T09:17:00Z"
+        },
+        "updated_at": {
+            "unix": 1577179165,
+            "text": "2019-12-24 09:19:25 +0000",
+            "iso_8601": "2019-12-24T09:19:25Z"
+        },
+        "subject": "Heineken (HEIA NA) - Co. is said to be likely to launch a voluntary open offer to United Breweries for a 10-15% stake, according to sources cited by CBNC",
+        "content": "<ul><li><a href=\"https://twitter.com/CNBCTV18Live/status/1209402433471795201\">Link to tweet</a></li></ul>",
+        "reaction_details": "<ul><li>Little action seen in Heineken shares</li></ul>",
+        "reaction_updated_at": {
+            "unix": 1577179165,
+            "text": "2019-12-24 09:19:25 +0000",
+            "iso_8601": "2019-12-24T09:19:25Z"
+        },
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "CNBC",
+        "slug": "heineken-heia-na-co-is-said-to-be-likely-to-launch-a-voluntary-open-offer-to-united-breweries-for-a-10-15-stake-according-to-sources-cited-by-cbnc-24-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 34,
+            "name": "Global Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-24 17:17:00",
+        "gmt_time": "2019-12-24 09:17:00"
+    },
+    {
+        "id": 902149,
+        "updated_sequence": 2044880,
+        "published_at": {
+            "unix": 1577178240,
+            "text": "2019-12-24 09:04:00 +0000",
+            "iso_8601": "2019-12-24T09:04:00Z"
+        },
+        "updated_at": {
+            "unix": 1577178322,
+            "text": "2019-12-24 09:05:22 +0000",
+            "iso_8601": "2019-12-24T09:05:22Z"
+        },
+        "subject": "China's Cabinet states that the pressure regarding the stabilisation of employment is increasing",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "china-s-cabinet-states-that-the-pressure-regarding-the-stabilisation-of-employment-is-increasing-24-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-24 17:04:00",
+        "gmt_time": "2019-12-24 09:04:00"
+    },
+    {
+        "id": 902148,
+        "updated_sequence": 2044877,
+        "published_at": {
+            "unix": 1577178180,
+            "text": "2019-12-24 09:03:00 +0000",
+            "iso_8601": "2019-12-24T09:03:00Z"
+        },
+        "updated_at": {
+            "unix": 1577178292,
+            "text": "2019-12-24 09:04:52 +0000",
+            "iso_8601": "2019-12-24T09:04:52Z"
+        },
+        "subject": "Japanese PM Abe has confirmed to continue close coordination with South Korean President Moon",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>This comes after South Korean President Moon urged Japanese PM Abe to completely retract export restrictions against South Korea, according to the Blue House</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1577178292,
+            "text": "2019-12-24 09:04:52 +0000",
+            "iso_8601": "2019-12-24T09:04:52Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-pm-abe-has-confirmed-to-continue-close-coordination-with-south-korean-president-moon-24-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 23,
+            "name": "Geopolitical"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-24 17:03:00",
+        "gmt_time": "2019-12-24 09:03:00"
+    },
+    {
+        "id": 902022,
+        "updated_sequence": 2044869,
+        "published_at": {
+            "unix": 1577178000,
+            "text": "2019-12-24 09:00:00 +0000",
+            "iso_8601": "2019-12-24T09:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1577178000,
+            "text": "2019-12-24 09:00:00 +0000",
+            "iso_8601": "2019-12-24T09:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE HAS NOW FINISHED, PLEASE REVERT BACK TO YOUR ORIGINAL CHANNEL FOR COVERAGE ON THE UK & EUROPEAN SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-has-now-finished-please-revert-back-to-your-original-channel-for-coverage-on-the-uk-european-session-23-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-24 17:00:00",
+        "gmt_time": "2019-12-24 09:00:00"
+    },
+    {
+        "id": 902146,
+        "updated_sequence": 2044867,
+        "published_at": {
+            "unix": 1577175000,
+            "text": "2019-12-24 08:10:00 +0000",
+            "iso_8601": "2019-12-24T08:10:00Z"
+        },
+        "updated_at": {
+            "unix": 1577175044,
+            "text": "2019-12-24 08:10:44 +0000",
+            "iso_8601": "2019-12-24T08:10:44Z"
+        },
+        "subject": "Chevron's 240k bpd Richmond refinery has reported a unit upset that has lead to flaring",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "chevron-s-240k-bpd-richmond-refinery-has-reported-a-unit-upset-that-has-lead-to-flaring-24-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 20,
+            "name": "Commodities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-24 16:10:00",
+        "gmt_time": "2019-12-24 08:10:00"
+    },
+    {
+        "id": 902145,
+        "updated_sequence": 2044864,
+        "published_at": {
+            "unix": 1577173500,
+            "text": "2019-12-24 07:45:00 +0000",
+            "iso_8601": "2019-12-24T07:45:00Z"
+        },
+        "updated_at": {
+            "unix": 1577173683,
+            "text": "2019-12-24 07:48:03 +0000",
+            "iso_8601": "2019-12-24T07:48:03Z"
+        },
+        "subject": "South Korean President Moon has urged Japanese PM Abe to completely retract export restrictions against South Korea, according to the Blue House ",
+        "content": "<ul><li><a href=\"https://en.yna.co.kr/view/AEN20191224008300315?section=news\">Link&nbsp;</a></li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>This comes after Japanese PM Abe told South Korean President Moon that he would like to improve ties between Tokyo-Seoul</li><li>South Korea and Japan have agreed to continue dialogue in an attempt to ease tensions</li><li>Last week, Japan relaxed some of its export restrictions but South Korea said the measures are not sufficient for a fundamental resolution to the problem.</li></ul><p>&nbsp;</p>",
+        "analysis_updated_at": {
+            "unix": 1577173683,
+            "text": "2019-12-24 07:48:03 +0000",
+            "iso_8601": "2019-12-24T07:48:03Z"
+        },
+        "push_notify": false,
+        "source": "Yonhap",
+        "slug": "south-korean-president-moon-has-urged-japanese-pm-abe-to-completely-retract-export-restrictions-against-south-korea-according-to-the-blue-house-24-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-24 15:45:00",
+        "gmt_time": "2019-12-24 07:45:00"
+    },
+    {
+        "id": 902144,
+        "updated_sequence": 2044855,
+        "published_at": {
+            "unix": 1577171400,
+            "text": "2019-12-24 07:10:00 +0000",
+            "iso_8601": "2019-12-24T07:10:00Z"
+        },
+        "updated_at": {
+            "unix": 1577171425,
+            "text": "2019-12-24 07:10:25 +0000",
+            "iso_8601": "2019-12-24T07:10:25Z"
+        },
+        "subject": "Additional European equity stories post the release of the Daily European equity opening news",
+        "content": "<p><strong>BBVA (BBVA SM)</strong> – ECB has asked Spain’s High Court to provide information regarding a probe into spying involving BBVA, to evaluate potential impact on the bank’s governance, according to sources. (Newswires)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "additional-european-equity-stories-post-the-release-of-the-daily-european-equity-opening-news-24-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 33,
+            "name": "European Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-24 15:10:00",
+        "gmt_time": "2019-12-24 07:10:00"
+    },
+    {
+        "id": 902143,
+        "updated_sequence": 2044857,
+        "published_at": {
+            "unix": 1577169840,
+            "text": "2019-12-24 06:44:00 +0000",
+            "iso_8601": "2019-12-24T06:44:00Z"
+        },
+        "updated_at": {
+            "unix": 1577173337,
+            "text": "2019-12-24 07:42:17 +0000",
+            "iso_8601": "2019-12-24T07:42:17Z"
+        },
+        "subject": "DAILY EUROPEAN EQUITY OPENING NEWS",
+        "content": "<p><strong>**EUROPEAN EQUITY COVERAGE WILL ONLY COVER COMPANIES IN THE STOXX 600 OR COMPANIES OF SYSTEMIC IMPORTANCE TO PARTICULAR SECTORS**</strong></p><p>24th December 2019</p><p>The Daily European Equity Opening News is uploaded at 0700GMT/0100CST recapping all of the &nbsp;&nbsp;overnight equity news</p><p><strong>From 0700GMT/0100CST all equity news will be covered in real time over the audio and headline feed and the full audio rundown will be at 0715GMT/0115CST.</strong></p><p><strong>There will be an additional audio rundown at 0750GMT/0150CST recapping any company news which has hit the wires since 0715GMT/0115CST ahead of the European equity open</strong></p><p><strong>ASIA</strong></p><p>Asia equity markets were mixed with price action range-bound amid the ongoing holiday lull and with several early market closures in the region for Christmas Eve. ASX 200 (+0.1%) was uneventful in today’s shortened trading session as outperformance in the commodity-related sectors counterbalanced weakness in tech and financials, while Nikkei 225 (Unch.) also meandered on the marginal ebbs and flows in the domestic currency with outdated BoJ minutes from the October meeting doing little to spur price action. Hang Seng (-0.2%) and Shanghai Comp. (+0.4%) conformed to the non-committal tone amid the reduced hours in Hong Kong and with mainland also kept indecisive after the PBoC skipped open market operations, although Chinese Premier Li noted that China will study further steps to lower financing costs including RRR and targeted RRR cuts.</p><p>CHRISTMAS EVE HOLIDAY EU CLOSURES</p><p><strong>Electronic Trade</strong></p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Eurex</strong> – Closed for trading in all derivatives</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Euronext</strong> <strong>Derivatives</strong> – Instruments will begin closing at 1255GMT/0655CST</p><p><strong>Cash Index:</strong></p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>FTSE</strong> – Close 1230GMT/0630CST onwards</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Euronext</strong> <strong>Cash</strong> – All instruments will be closed by 1305GMT/0705CST</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>DAX</strong>, <strong>FTSE MIB, SMI</strong>, <strong>Olso</strong> <strong>Bors</strong>, <strong>OMX</strong> <strong>30</strong> - Closed</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>IBEX 35</strong> – Close 1300GMT/0700CST</p><p>&nbsp;</p><p><strong>FTSE 100</strong></p><p><strong>Rio Tinto (RIO LN) </strong>– Western Australian Government has approved Co’s USD 1bln Western Turner Syncline iron ore project which is expected to create over 1k construction jobs in Western Australia. (Mirage News)</p><p>OTHER UK COMPANIES</p><p>BROKER MOVES</p><p>&nbsp;</p><p><strong>DAX</strong></p><p><strong>BMW (BMW GY)</strong> – SEC has reportedly opened an investigation into whether the Co. manipulated its sales figures, according to sources. The regulator is looking into whether the Co. boosted sales figures by having their dealers falsely registered and exaggerated vehicles sales, sources stated. (WSJ) BMW spokesperson acknowledged the investigation and noted the group is fully cooperating. (Newswires)</p><p><strong>Deutsche Telekom (DTE GY)</strong> – T-Mobile (TMUS) reportedly considered a merger with Comcast (CMCSA) in 2015, according to internal documents which stated Deutsche Telekom considered the merger would not be afflicted by substantial regulation barriers., according to sources. (Newswires) For reference, Deutsche Telekom owns 63% of T-Mobile.</p><p>OTHER GERMAN COMPANIES</p><p>BROKER MOVES</p><p>&nbsp;</p><p><strong>CAC</strong></p><p><strong>Sanofi (SAN FP) </strong>– Sanofi-Aventis’ GENZYME has received FDA NDA approval for CLOLAR. (Newswires)</p><p>OTHER FRENCH COMPANIES</p><p>BROKER MOVES</p><p><strong>PSA (UG FP) </strong>REITERATED WITH UNDERPERFORM AT RBC</p><p>&nbsp;</p><p><strong>PAN EUROPE</strong></p><p><strong>Mediaset (MS IM)/ Vivendi (VIV FP)</strong> – Mediaset’s Board has rejected Vivendi’s criticism over the MFE pan-European merger project, adding that it considers Vivendi’s complaint as being “groundless and biased”. (Newswires)</p><p><strong>Telefonica (TEF SM)</strong> – Co. is to sell its Ecuadorian and Columbian towers for EUR 290mln. (Newswires)</p><p>BROKER MOVES</p><p>&nbsp;</p><p><strong>SMI</strong></p><p>OTHER SWISS COMPANIES</p><p>BROKER MOVES</p><p><strong>SCANDINAVIA</strong></p><p>BROKER MOVES</p><p><strong>US</strong></p><p><strong>* CLOSING LEVELS: * CLOSING LEVELS: SPX +0.1% at 3224, DJI +0.3% at 28552, NDX +0.2% at 8696. </strong>SECTORS: Consumer discretionary -0.1%, consumer staples -0.3%, energy +1.1%, financials -0.2%, health care +0.3%, industrials +0.6%, IT +0.3%, materials +0.4%, telecoms -0.3%, utilities -1.0%.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "daily-european-equity-opening-news-24-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 33,
+            "name": "European Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-24 14:44:00",
+        "gmt_time": "2019-12-24 06:44:00"
+    },
+    {
+        "id": 902142,
+        "updated_sequence": 2044859,
+        "published_at": {
+            "unix": 1577168940,
+            "text": "2019-12-24 06:29:00 +0000",
+            "iso_8601": "2019-12-24T06:29:00Z"
+        },
+        "updated_at": {
+            "unix": 1577173401,
+            "text": "2019-12-24 07:43:21 +0000",
+            "iso_8601": "2019-12-24T07:43:21Z"
+        },
+        "subject": "NEWSQUAWK CHRISTMAS PERIOD OPENING HOURS",
+        "content": "<p>Business as usual up to <strong>1845GMT Tuesday 24th December 2019</strong></p><p><strong>Closed for business 25th, 26th, 27th, 30th, 31st December 2019 and 1st January 2020</strong></p><p><strong>Normal service will resume at 0630GMT on Thursday&nbsp;2nd&nbsp;of January 2020 for the beginning of the EU Session</strong></p><p><strong>Market closures and desk opening hours</strong></p><p>&nbsp;</p><p><strong>24th December - </strong>Business as usual up to<strong>1845GMT Tuesday 24th December 2019</strong></p><p>Floor Trade</p><p>1. CME/CBOT –FX and Interest Rates close at 1800GMT/1200CST, Equities Futures and Options close at 1815GMT/1215CST</p><p>2. NYSE – Early close at 1800GMT</p><p>Electronic Trade</p><p>1. CME – Equity, interest rates, FX close 1815GMT/1215CST, Energy closes at 1845GMT/1245CST</p><p>2. ICE – <a href=\"https://www.theice.com/holiday-hours\">https://www.theice.com/holiday-hours</a></p><p>3. Eurex – Closed for trading in all derivatives</p><p>4. Euronext Derivatives – Instruments will begin closing at 1255GMT/0655CST</p><p>Cash Index:</p><p>1. FTSE – Close 1230GMT/0630CST onwards</p><p>2. Euronext Cash – All instruments will be closed by 1305GMT/0705CST</p><p>3. DAX - Closed</p><p>4. IBEX 35 – Close 1300GMT/0700CST</p><p>5. FTSE MIB - Closed</p><p>6. SMI – Closed</p><p>7. Oslo Bors – Closed</p><p>8. OMX 30 – Closed</p><p>Asia-Pac</p><p>Australia – Close at 0330GMT/2110CST</p><p>Japan – Regular Hours</p><p>Hong Kong – Regular Hours</p><p>&nbsp;</p><p><strong>25th December – Desk Closed</strong></p><p>Floor Trade&nbsp;</p><p>1. CME/CBOT - Closed</p><p>2. NYSE – Closed</p><p>Electronic Trade</p><p>1. CME Globex – Equity, interest rates, FX closed. Opens 2300GMT/1700CST</p><p>2. ICE <a href=\"https://www.theice.com/holiday-hours\">https://www.theice.com/holiday-hours</a></p><p>3. Eurex – Closed</p><p>4. Euronext Derivatives - Closed</p><p>Cash Index: -</p><p>1. FTSE – Closed</p><p>2. Euronext Cash – Closed</p><p>3. DAX - Closed</p><p>4. IBEX 35 - Closed</p><p>5. FTSE MIB - Closed</p><p>6. SMI – Closed</p><p>7. Oslo Bors – Closed</p><p>8. OMX 30 – Closed</p><p>Asia-Pac</p><p>Australia - Closed</p><p>Japan – Regular Close</p><p>Hong Kong - Closed</p><p>&nbsp;</p><p><strong>26th December (Boxing Day) – Desk Closed</strong></p><p>Floor Trade&nbsp;</p><p>1. CME/CBOT – Regular hours</p><p>2. NYSE – Regular hours</p><p>Electronic Trade</p><p>1. CME Globex – Equity, interest rates, FX closed. Regular hours</p><p>2. ICE – <a href=\"https://www.theice.com/holiday-hours\">https://www.theice.com/holiday-hours</a></p><p>3. Eurex – Closed for trading and clearing (exercise, settlement and cash) in all derivatives</p><p>4. Euronext Derivatives - Closed</p><p>Cash Index: -</p><p>1. FTSE – Closed</p><p>2. Euronext Cash – Closed</p><p>3. DAX - Closed</p><p>4. IBEX 35 - Closed</p><p>5. FTSE MIB - Closed</p><p>6. SMI – Closed</p><p>7. Oslo Bors – Closed</p><p>8. OMX 30 – Closed</p><p>Asia-Pac</p><p>Australia - Closed</p><p>Japan – Regular Close</p><p>Hong Kong - Closed</p><p>&nbsp;</p><p><strong>27th and 30th December – Desk Closed</strong></p><p>Floor Trade&nbsp;</p><p>1. CME/CBOT – Regular hours</p><p>2. NYSE – Regular hours</p><p>Electronic Trade</p><p>1. CME Globex – Equities, Interest Rates, FX – Regular hours</p><p>2. ICE – <a href=\"https://www.theice.com/holiday-hours\">https://www.theice.com/holiday-hours</a></p><p>3. Eurex - Regular hours</p><p>4. Euronext Derivatives - Regular hours</p><p>Cash Index: -</p><p>1. FTSE – Regular hours</p><p>2. Euronext Cash – Regular Hours</p><p>3. DAX – Regular hours</p><p>4. IBEX 35 – Regular hours</p><p>5. FTSE MIB – Regular hours</p><p>6. SMI – Regular hours</p><p>7. Oslo Bors – Regular hours</p><p>8. OMX 30 - Regular hours</p><p>Australia – Regular Close</p><p>Japan – Regular Close</p><p>Hong Kong – Regular Close</p><p>&nbsp;</p><p><strong>31st December (NYE)– Desk Closed</strong></p><p>Floor Trade&nbsp;</p><p>1. CME/CBOT – FX and Interest Rates close at 1800GMT/1200CST</p><p>2. NYSE – Regular hours</p><p>Electronic Trade</p><p>1. CME Globex – Equities, Interest Rates, FX – Regular close</p><p>2. ICE – <a href=\"https://www.theice.com/holiday-hours\">https://www.theice.com/holiday-hours</a></p><p>3. Eurex – Closed for trading in all derivatives</p><p>4. Euronext Derivatives – Closes begin at 1255GMT/0655CST</p><p>Cash Index: -</p><p>1. FTSE – Close 1230GMT/0630CST onwards</p><p>2. Euronext Cash – Closes begin at 1305GMT/0705CST</p><p>3. DAX – Closed</p><p>4. IBEX 35 – Close 1300GMT/0700CST</p><p>5. FTSE MIB - Close 1230GMT/0630CST onwards</p><p>6. SMI – Closed</p><p>7. Oslo Bors – Closed</p><p>8. OMX 30 – Closed</p><p>Asia-Pac</p><p>Australia – Close at 0330GMT/2110CST</p><p>Japan - Closed</p><p>Hong Kong – Regular Close</p><p>&nbsp;</p><p><strong>1st January (NYD) – Desk Closed</strong></p><p>Floor Trade&nbsp;</p><p>1. CME/CBOT - Closed</p><p>2. NYSE – Closed</p><p>Electronic Trade</p><p>1. CME Globex – Equity, interest rates, FX closed. Opens 2300GMT/1700CST</p><p>2. ICE – <a href=\"https://www.theice.com/holiday-hours\">https://www.theice.com/holiday-hours</a></p><p>3. Eurex – Closed</p><p>4. Euronext Derivatives - Closed</p><p>Cash Index: -</p><p>1. FTSE – Closed</p><p>2. Euronext Cash – Closed</p><p>3. DAX – Closed</p><p>4. IBEX 35 - Closed</p><p>5. FTSE MIB - Closed</p><p>6. SMI – Closed</p><p>7. Oslo Bors – Closed</p><p>8. OMX 30 – Closed</p><p>Asia-Pac</p><p>Australia - Closed</p><p>Japan - Closed</p><p>Hong Kong - Closed</p><p>&nbsp;</p><p><strong>2nd January (Thursday) – Markets open. Desk will re-open at 0630GMT for the beginning of the European session</strong></p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "newsquawk-christmas-period-opening-hours-24-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-24 14:29:00",
+        "gmt_time": "2019-12-24 06:29:00"
+    },
+    {
+        "id": 902141,
+        "updated_sequence": 2044852,
+        "published_at": {
+            "unix": 1577168820,
+            "text": "2019-12-24 06:27:00 +0000",
+            "iso_8601": "2019-12-24T06:27:00Z"
+        },
+        "updated_at": {
+            "unix": 1577170369,
+            "text": "2019-12-24 06:52:49 +0000",
+            "iso_8601": "2019-12-24T06:52:49Z"
+        },
+        "subject": "Japanese PM Abe tells South Korean President Moon that he would like to improve ties between Tokyo-Seoul, according Yonhap",
+        "content": "<ul><li><a href=\"https://en.yna.co.kr/view/AEN20191224006300315?section=news\">Link to article</a></li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>This comes amid the deteriorated relationship between Japan and South Korea in which the countries imposed import curbs in each other</li><li>South Korea and Japan have agreed to continue dialogue in an attempt to ease tensions</li><li>Last week, Japan relaxed some of its export restrictions but South Korea said the measures are not sufficient for a fundamental resolution to the problem.&nbsp;</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1577168940,
+            "text": "2019-12-24 06:29:00 +0000",
+            "iso_8601": "2019-12-24T06:29:00Z"
+        },
+        "push_notify": false,
+        "source": "Yonhap",
+        "slug": "japanese-pm-abe-tells-south-korean-president-moon-that-he-would-like-to-improve-ties-between-tokyo-seoul-according-yonhap-24-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-24 14:27:00",
+        "gmt_time": "2019-12-24 06:27:00"
+    },
+    {
+        "id": 902140,
+        "updated_sequence": 2044835,
+        "published_at": {
+            "unix": 1577168400,
+            "text": "2019-12-24 06:20:00 +0000",
+            "iso_8601": "2019-12-24T06:20:00Z"
+        },
+        "updated_at": {
+            "unix": 1577168456,
+            "text": "2019-12-24 06:20:56 +0000",
+            "iso_8601": "2019-12-24T06:20:56Z"
+        },
+        "subject": "Newsquawk Daily European Opening News - 24th December 2019",
+        "content": "<p>To download the report, please click <a href=\"/research_sheets/23534/download\">here</a> If you would like to subscribe to receive the research sheets directly in your inbox, you can now do so under the <a href=\"/research_sheets\">Research Suite</a> section of the portal. To subscribe simply check the box next to \"Email these reports\" under the desired category.&nbsp;</p><ul><li>Asian equity markets were mixed with price action range-bound amid the ongoing holiday lull</li><li>China Global Times tweeted that “hopefully the US can move faster towards lowering tariffs” after China recently announced new tariff-cut plans on imports</li><li>In FX markets, price action was contained with the DXY languishing below its 200DMA at 97.71</li><li>Looking ahead, highlights include Richmond Fed, APIs, US 5yr. Note, there are several early market closures, all of which are detailed on our calendar</li></ul><p>ASIA-PAC</p><p><strong>Asian equity markets were mixed with price action range-bound amid the ongoing holiday lull and with several early market closures in the region for Christmas Eve. ASX 200 (+0.1%)</strong> was uneventful in today’s shortened trading session as outperformance in the commodity-related sectors counterbalanced weakness in tech and financials, while <strong>Nikkei 225 (Unch.) </strong>also meandered on the marginal ebbs and flows in the domestic currency with outdated BoJ minutes from the October meeting doing little to spur price action. <strong>Hang Seng (-0.2%) </strong>and<strong> Shanghai Comp. (+0.4%)</strong> conformed to the non-committal tone amid the reduced hours in Hong Kong and with mainland also kept indecisive after the PBoC skipped open market operations, although Chinese Premier Li noted that China will study further steps to lower financing costs including RRR and targeted RRR cuts. Finally, 10yr JGBs were initially lacklustre following the similar holiday-quietened trade in USTs and with demand sapped by a lack of buying from the BoJ which were only in the market for treasury discount bills, although prices were later supported following the 2yr auction results which were mixed but still attracted a higher b/c. &nbsp;&nbsp;&nbsp;</p><p>PBoC skipped open market operations for a net neutral daily position and announced CNY 6bln in 3-month central bank bill swaps. (Newswires) <strong>PBoC set USD/CNY reference rate at 7.0119 vs. Exp. 7.0126 (Prev. 7.0117)</strong></p><p>China Global Times tweeted comments from Chinese Premier Li that China pledges equal treatment for all enterprises under all forms of ownership and won't take on protectionism but instead it will stick to further opening-up despite deficit with Japan and South Korea, while the trilateral joint press statement from China, Japan and South Korea reaffirmed commitment to resolve North Korea issue and that they will try to facilitate US-North Korea dialogue. (Newswires/Twitter)</p><p><strong>China Global Times tweeted that hopefully US can move faster towards lowering tariffs after China recently announced new tariff-cut plans on imports</strong>, while it separately tweeted comments from China Foreign Minister Wang Yi who stated the US should work with China to get bilateral ties back on track. (Twitter) China Global Times tweeted that China expresses strong dissatisfaction with the US over the negative contents distorting and smearing China's military development and on issues regarding Taiwan, Hong Kong and Xinjiang, as well as prohibited purchase of Chinese products. Furthermore, the Global Times also tweeted that it is impossible for the US to rope in other countries to contain China and that neither Russia nor any other country is willing to become its pawn to contain China. (Twitter)</p><p>BoJ Minutes from October Meeting stated most members recognized there had been no further increase in the possibility that the momentum towards achieving the price stability target would be lost and that it is appropriate to maintain current purchase guidelines. The Minutes added that some members noted BoJ must not hesitate to take additional easing if there was a greater chance momentum to reaching price target was lost, while members agreed that the economy had been on a moderate expanding trend with a virtuous cycle from income to spending operating, although exports, production, and business sentiment continued to be affected by the slowdown in overseas economies. (Newswires)&nbsp;</p><p>UK/EU</p><p>White House reportedly stepped up its warnings to the UK regarding permitting Huawei into its 5G networks which the US alleged is a risk for the British intelligence agencies. (FT)<strong>&nbsp;</strong></p><p><strong>FX</strong></p><p>Price action was contained ahead of the holidays in which the <strong>DXY</strong> languished below its 200DMA of 97.71 after the recent weak US Durable Goods Orders, while its transatlantic counterparts fared no better which EUR/USD at a sub-1.1100 level and with <strong>GBP</strong>/<strong>USD</strong> dejected after having extended its slide firmly beneath 1.3000. Elsewhere, <strong>USD</strong>/<strong>JPY</strong> and <strong>JPY</strong>-crosses reflected the non-committal risk tone and an uneventful BoJ Minutes from the October meeting, while <strong>antipodeans</strong> were also steady amid a lack of risk appetite and pertinent data releases, as well as the relatively stable <strong>CNY</strong> reference rate setting.</p><p>Banxico Governor De Leon said the central bank is not committed to rate moves in any direction and notes inflation is clearly on a downward trend, but risks remain. (Newswires)</p><p><strong>COMMODITIES</strong></p><p>Commodities were uneventful with <strong>WTI</strong> crude futures relatively flat throughout the session amid the holiday-thinned conditions and touted book squaring, with oil prices kept afloat as Wall St extended on its streak of records and as <strong>WTI</strong> found a base at the USD 60.50/bbl level. Elsewhere, <strong>gold</strong> took advantage of the humdrum trade in the greenback to extend on a monthly high and edged closer towards the USD 1500/oz level, while <strong>copper</strong> traded predominantly sideways as price moves restricted by the indecisive overnight risk tone but then saw a late marginal breakout from the range heading into the European open.&nbsp;</p><p>US&nbsp;</p><p>Yields were higher across the curve (by 1-3bps at settlement) in thin, holiday-trading conditions, with the T-Note future remaining within an 11-tick range; the curve was a touch flatter, however, but by under 1bps. The US' sale of 2-year notes was lacklustre, at the very least; the auction stopped on the screws, though cover was the softest in 11 years, signalling very little interest in the last 2s auction of the year. Dealer participation was beneath recent averages, directs was in line with recent averages, while the indirect bid was beneath recent averages. Note: The Treasury will also be selling USD 41bln in 5s on Tuesday, as well as USD 32bln of 7s on Thursday, with this week's auctions set to raise a net USD 31.7bln at the month-end settlement. T-notes (H0) settled 5 ticks lower at 128-03.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "newsquawk-daily-european-opening-news-24th-december-2019-24-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-24 14:20:00",
+        "gmt_time": "2019-12-24 06:20:00"
+    },
+    {
+        "id": 902139,
+        "updated_sequence": 2044832,
+        "published_at": {
+            "unix": 1577166480,
+            "text": "2019-12-24 05:48:00 +0000",
+            "iso_8601": "2019-12-24T05:48:00Z"
+        },
+        "updated_at": {
+            "unix": 1577166568,
+            "text": "2019-12-24 05:49:28 +0000",
+            "iso_8601": "2019-12-24T05:49:28Z"
+        },
+        "subject": "Adani Enterprises (ADE IS) founders are said to have pledged 33mln shares with IndusInd Bank for loan repayment",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "adani-enterprises-ade-is-founders-are-said-to-have-pledged-33mln-shares-with-indusind-bank-for-loan-repayment-24-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-24 13:48:00",
+        "gmt_time": "2019-12-24 05:48:00"
+    },
+    {
+        "id": 902138,
+        "updated_sequence": 2044829,
+        "published_at": {
+            "unix": 1577166300,
+            "text": "2019-12-24 05:45:00 +0000",
+            "iso_8601": "2019-12-24T05:45:00Z"
+        },
+        "updated_at": {
+            "unix": 1577166372,
+            "text": "2019-12-24 05:46:12 +0000",
+            "iso_8601": "2019-12-24T05:46:12Z"
+        },
+        "subject": "ASIA-PAC MARKET WRAP: Twas the eve before Christmas.....",
+        "content": "<p>Asia equity markets were mixed with price action range-bound amid the ongoing holiday lull and with several early market closures in the region for Christmas Eve. ASX 200 (+0.1%) was uneventful in today’s shortened trading session as outperformance in the commodity-related sectors counterbalanced weakness in tech and financials, while Nikkei 225 (Unch.) also meandered on the marginal ebbs and flows in the domestic currency with outdated BoJ minutes from the October meeting doing little to spur price action. Hang Seng (-0.2%) and Shanghai Comp. (+0.4%) conformed to the non-committal tone amid the reduced hours in Hong Kong and with mainland also kept indecisive after the PBoC skipped open market operations, although Chinese Premier Li noted that China will study further steps to lower financing costs including RRR and targeted RRR cuts. Finally, 10yr JGBs were initially lacklustre following the similar holiday-quietened trade in USTs and with demand sapped by a lack of buying from the BoJ which were only in the market for treasury discount bills, although prices were later supported following the 2yr auction results which were mixed but still attracted a higher b/c. &nbsp;&nbsp;&nbsp;</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "asia-pac-market-wrap-twas-the-eve-before-christmas-24-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-24 13:45:00",
+        "gmt_time": "2019-12-24 05:45:00"
+    },
+    {
+        "id": 902135,
+        "updated_sequence": 2044816,
+        "published_at": {
+            "unix": 1577164980,
+            "text": "2019-12-24 05:23:00 +0000",
+            "iso_8601": "2019-12-24T05:23:00Z"
+        },
+        "updated_at": {
+            "unix": 1577165096,
+            "text": "2019-12-24 05:24:56 +0000",
+            "iso_8601": "2019-12-24T05:24:56Z"
+        },
+        "subject": "Japanese Supermarket Sales (Nov) Y/Y -1.4% (Prev. -4.1%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-supermarket-sales-nov-y-y-1-4-prev-4-1-24-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-24 13:23:00",
+        "gmt_time": "2019-12-24 05:23:00"
+    },
+    {
+        "id": 902134,
+        "updated_sequence": 2044813,
+        "published_at": {
+            "unix": 1577164320,
+            "text": "2019-12-24 05:12:00 +0000",
+            "iso_8601": "2019-12-24T05:12:00Z"
+        },
+        "updated_at": {
+            "unix": 1577164534,
+            "text": "2019-12-24 05:15:34 +0000",
+            "iso_8601": "2019-12-24T05:15:34Z"
+        },
+        "subject": "Dubai sets official crude price for March at discount of USD 0.25/bbl to Oman prices",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "dubai-sets-official-crude-price-for-march-at-discount-of-usd-0-25-bbl-to-oman-prices-24-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 20,
+            "name": "Commodities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-24 13:12:00",
+        "gmt_time": "2019-12-24 05:12:00"
+    },
+    {
+        "id": 902133,
+        "updated_sequence": 2044810,
+        "published_at": {
+            "unix": 1577164020,
+            "text": "2019-12-24 05:07:00 +0000",
+            "iso_8601": "2019-12-24T05:07:00Z"
+        },
+        "updated_at": {
+            "unix": 1577164131,
+            "text": "2019-12-24 05:08:51 +0000",
+            "iso_8601": "2019-12-24T05:08:51Z"
+        },
+        "subject": "China Global Times tweeted that hopefully US can move faster towards lowering tariffs after China recently announced new tariff-cut plans on imports",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Twitter",
+        "slug": "china-global-times-tweeted-that-hopefully-us-can-move-faster-towards-lowering-tariffs-after-china-recently-announced-new-tariff-cut-plans-on-imports-24-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-24 13:07:00",
+        "gmt_time": "2019-12-24 05:07:00"
+    },
+    {
+        "id": 902132,
+        "updated_sequence": 2044818,
+        "published_at": {
+            "unix": 1577163840,
+            "text": "2019-12-24 05:04:00 +0000",
+            "iso_8601": "2019-12-24T05:04:00Z"
+        },
+        "updated_at": {
+            "unix": 1577165314,
+            "text": "2019-12-24 05:28:34 +0000",
+            "iso_8601": "2019-12-24T05:28:34Z"
+        },
+        "subject": "White House has reportedly stepped up its warnings to the UK regarding permitting Huawei into its 5G networks which the US alleged poses a risk for the British intelligence agencies, according to FT",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>As a reminder, the decision on whether to permit Huawei involvement in UK's &nbsp;5G network infrastructure was postponed just over a month prior to the UK election. .</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1577165314,
+            "text": "2019-12-24 05:28:34 +0000",
+            "iso_8601": "2019-12-24T05:28:34Z"
+        },
+        "push_notify": false,
+        "source": "FT",
+        "slug": "white-house-has-reportedly-stepped-up-its-warnings-to-the-uk-regarding-permitting-huawei-into-its-5g-networks-which-the-us-alleged-poses-a-risk-for-the-british-intelligence-agencies-according-to-ft-24-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-24 13:04:00",
+        "gmt_time": "2019-12-24 05:04:00"
+    },
+    {
+        "id": 902131,
+        "updated_sequence": 2044804,
+        "published_at": {
+            "unix": 1577163660,
+            "text": "2019-12-24 05:01:00 +0000",
+            "iso_8601": "2019-12-24T05:01:00Z"
+        },
+        "updated_at": {
+            "unix": 1577163781,
+            "text": "2019-12-24 05:03:01 +0000",
+            "iso_8601": "2019-12-24T05:03:01Z"
+        },
+        "subject": "Reports note fire at Posco (005490 KS) steel mill in Gwanyang",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Yonhap",
+        "slug": "reports-note-fire-at-posco-005490-ks-steel-mill-in-gwanyang-24-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-24 13:01:00",
+        "gmt_time": "2019-12-24 05:01:00"
+    },
+    {
+        "id": 902130,
+        "updated_sequence": 2044801,
+        "published_at": {
+            "unix": 1577163600,
+            "text": "2019-12-24 05:00:00 +0000",
+            "iso_8601": "2019-12-24T05:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1577163686,
+            "text": "2019-12-24 05:01:26 +0000",
+            "iso_8601": "2019-12-24T05:01:26Z"
+        },
+        "subject": "Japanese BoJ Core CPI (Nov) Y/Y 0.2% (Prev. 0.3%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-boj-core-cpi-nov-y-y-0-2-prev-0-3-24-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-24 13:00:00",
+        "gmt_time": "2019-12-24 05:00:00"
+    },
+    {
+        "id": 902129,
+        "updated_sequence": 2044798,
+        "published_at": {
+            "unix": 1577161260,
+            "text": "2019-12-24 04:21:00 +0000",
+            "iso_8601": "2019-12-24T04:21:00Z"
+        },
+        "updated_at": {
+            "unix": 1577161306,
+            "text": "2019-12-24 04:21:46 +0000",
+            "iso_8601": "2019-12-24T04:21:46Z"
+        },
+        "subject": "Mirvac (MGR AT) enters contract to buy 7-23 Spencer Street in Melbourne",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "mirvac-mgr-at-enters-contract-to-buy-7-23-spencer-street-in-melbourne-24-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-24 12:21:00",
+        "gmt_time": "2019-12-24 04:21:00"
+    },
+    {
+        "id": 902128,
+        "updated_sequence": 2044795,
+        "published_at": {
+            "unix": 1577160300,
+            "text": "2019-12-24 04:05:00 +0000",
+            "iso_8601": "2019-12-24T04:05:00Z"
+        },
+        "updated_at": {
+            "unix": 1577160484,
+            "text": "2019-12-24 04:08:04 +0000",
+            "iso_8601": "2019-12-24T04:08:04Z"
+        },
+        "subject": "WeWork co-founder Neumann's exit package could get sweeter if the Co. goes public, according to FT",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "wework-co-founder-neumann-s-exit-package-could-get-sweeter-if-the-co-goes-public-according-to-ft-24-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 34,
+            "name": "Global Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-24 12:05:00",
+        "gmt_time": "2019-12-24 04:05:00"
+    },
+    {
+        "id": 902127,
+        "updated_sequence": 2044792,
+        "published_at": {
+            "unix": 1577160060,
+            "text": "2019-12-24 04:01:00 +0000",
+            "iso_8601": "2019-12-24T04:01:00Z"
+        },
+        "updated_at": {
+            "unix": 1577160173,
+            "text": "2019-12-24 04:02:53 +0000",
+            "iso_8601": "2019-12-24T04:02:53Z"
+        },
+        "subject": "China, Japan and South Korea joint press statement reaffirms commitment to resolve North Korea issue and will try to facilitate US-North Korea dialogue",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "china-japan-and-south-korea-joint-press-statement-reaffirms-commitment-to-resolve-north-korea-issue-and-will-try-to-facilitate-us-north-korea-dialogue-24-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 23,
+            "name": "Geopolitical"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-24 12:01:00",
+        "gmt_time": "2019-12-24 04:01:00"
+    },
+    {
+        "id": 902126,
+        "updated_sequence": 2044789,
+        "published_at": {
+            "unix": 1577159340,
+            "text": "2019-12-24 03:49:00 +0000",
+            "iso_8601": "2019-12-24T03:49:00Z"
+        },
+        "updated_at": {
+            "unix": 1577159442,
+            "text": "2019-12-24 03:50:42 +0000",
+            "iso_8601": "2019-12-24T03:50:42Z"
+        },
+        "subject": "China CSRC seeks to create aircraft carrier size investment banks to rival foreign giants as it prepares to up its its financial industry to competition from abroad ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "china-csrc-seeks-to-create-aircraft-carrier-size-investment-banks-to-rival-foreign-giants-as-it-prepares-to-up-its-its-financial-industry-to-competition-from-abroad-24-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-24 11:49:00",
+        "gmt_time": "2019-12-24 03:49:00"
+    },
+    {
+        "id": 902125,
+        "updated_sequence": 2044786,
+        "published_at": {
+            "unix": 1577159160,
+            "text": "2019-12-24 03:46:00 +0000",
+            "iso_8601": "2019-12-24T03:46:00Z"
+        },
+        "updated_at": {
+            "unix": 1577159353,
+            "text": "2019-12-24 03:49:13 +0000",
+            "iso_8601": "2019-12-24T03:49:13Z"
+        },
+        "subject": "China Global Times tweets that Premier Li said China pledges equal treatment for all enterprises under all forms of ownership and won't take on protectionism but instead it will stick to further opening-up despite deficit with Japan and South Korea ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Twitter",
+        "slug": "china-global-times-tweets-that-premier-li-said-china-pledges-equal-treatment-for-all-enterprises-under-all-forms-of-ownership-and-won-t-take-on-protectionism-but-instead-it-will-stick-to-further-opening-up-despite-deficit-with-japan-and-sout-24-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-24 11:46:00",
+        "gmt_time": "2019-12-24 03:46:00"
+    },
+    {
+        "id": 902124,
+        "updated_sequence": 2044783,
+        "published_at": {
+            "unix": 1577158500,
+            "text": "2019-12-24 03:35:00 +0000",
+            "iso_8601": "2019-12-24T03:35:00Z"
+        },
+        "updated_at": {
+            "unix": 1577158832,
+            "text": "2019-12-24 03:40:32 +0000",
+            "iso_8601": "2019-12-24T03:40:32Z"
+        },
+        "subject": "Japan sells JPY 1.66tln in 2yr JGBs b/c 4.69 (Prev. 4.13), avg. yield -0.098% (Prev. -0.189%)",
+        "content": "<p>- Lowest accepted price 100.390 vs. Prev. 100.570.</p><p>- Average accepted price 100.395 vs. Prev. 100.581.</p><p>- Tail in price 0.005 vs. Prev. 0.011.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japan-sells-jpy-1-66tln-in-2yr-jgbs-b-c-4-69-prev-4-13-avg-yield-0-098-prev-0-189-24-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 21,
+            "name": "Fixed Income"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-24 11:35:00",
+        "gmt_time": "2019-12-24 03:35:00"
+    },
+    {
+        "id": 902123,
+        "updated_sequence": 2044778,
+        "published_at": {
+            "unix": 1577157900,
+            "text": "2019-12-24 03:25:00 +0000",
+            "iso_8601": "2019-12-24T03:25:00Z"
+        },
+        "updated_at": {
+            "unix": 1577157976,
+            "text": "2019-12-24 03:26:16 +0000",
+            "iso_8601": "2019-12-24T03:26:16Z"
+        },
+        "subject": "PRE-MARKET INDIAN STOCK NEWS: JSW Steel (JSTL IS) is to raise INR 30bln bridge loan to buy Bhushan Power and Steel",
+        "content": "<p>HDFC (HDFC IS) - Aditya Puri Family Trust sells partial stake in HDB Financial Services for INR 2.0bln. (Newswires)</p><p>JSW Steel (JSTL IS) - Co. is to raise INR 30bln bridge loan to buy Bhushan Power and Steel. (Newswires)</p><p>NIIT Technologies (NITEC IS) - Co. board approved proposal to repurchase nearly 2mln shares. (ET)</p><p>Other News - RBI purchased INR 100bln of long-term government securities and sold over INR 68bln of four short-term securities through the special open market operations as it had announced to do so last week. (ET)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-indian-stock-news-jsw-steel-jstl-is-is-to-raise-inr-30bln-bridge-loan-to-buy-bhushan-power-and-steel-24-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-24 11:25:00",
+        "gmt_time": "2019-12-24 03:25:00"
+    },
+    {
+        "id": 902122,
+        "updated_sequence": 2044775,
+        "published_at": {
+            "unix": 1577156520,
+            "text": "2019-12-24 03:02:00 +0000",
+            "iso_8601": "2019-12-24T03:02:00Z"
+        },
+        "updated_at": {
+            "unix": 1577156617,
+            "text": "2019-12-24 03:03:37 +0000",
+            "iso_8601": "2019-12-24T03:03:37Z"
+        },
+        "subject": "China Global Times tweets China expresses strong dissatisfaction with US over the negative contents distorting and smearing China's military development and on issues regarding Taiwan, HK and Xinjiang, as well as prohibited purchase of Chinese products",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Twitter",
+        "slug": "china-global-times-tweets-china-expresses-strong-dissatisfaction-with-us-over-the-negative-contents-distorting-and-smearing-china-s-military-development-and-on-issues-regarding-taiwan-hk-and-xinjiang-as-well-as-prohibited-purchase-of-chine-24-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-24 11:02:00",
+        "gmt_time": "2019-12-24 03:02:00"
+    },
+    {
+        "id": 902122,
+        "updated_sequence": 2044775,
+        "published_at": {
+            "unix": 1577156520,
+            "text": "2019-12-24 03:02:00 +0000",
+            "iso_8601": "2019-12-24T03:02:00Z"
+        },
+        "updated_at": {
+            "unix": 1577156617,
+            "text": "2019-12-24 03:03:37 +0000",
+            "iso_8601": "2019-12-24T03:03:37Z"
+        },
+        "subject": "China Global Times tweets China expresses strong dissatisfaction with US over the negative contents distorting and smearing China's military development and on issues regarding Taiwan, HK and Xinjiang, as well as prohibited purchase of Chinese products",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Twitter",
+        "slug": "china-global-times-tweets-china-expresses-strong-dissatisfaction-with-us-over-the-negative-contents-distorting-and-smearing-china-s-military-development-and-on-issues-regarding-taiwan-hk-and-xinjiang-as-well-as-prohibited-purchase-of-chine-24-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-24 11:02:00",
+        "gmt_time": "2019-12-24 03:02:00"
+    },
+    {
+        "id": 902121,
+        "updated_sequence": 2044772,
+        "published_at": {
+            "unix": 1577155800,
+            "text": "2019-12-24 02:50:00 +0000",
+            "iso_8601": "2019-12-24T02:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1577156219,
+            "text": "2019-12-24 02:56:59 +0000",
+            "iso_8601": "2019-12-24T02:56:59Z"
+        },
+        "subject": "ASIA-PAC MID-SESSION UPDATE: Twas the eve before Christmas...",
+        "content": "<p>Asia equity markets are lacklustre with price action tightly range-bound amid the ongoing holiday lull and with several early market closures in the region for Christmas Eve. ASX 200 (Unch.) is subdued in today’s shortened trading session with outperformance in the commodity-related sectors counterbalancing weakness in tech and financials, while Nikkei 225 (Unch.) also meanders on the marginal ebbs and flows in the domestic currency with outdated BoJ minutes from the October meeting doing little to spur price action. Hang Seng (-0.3%) and Shanghai Comp. (Unch) conform to the non-committal tone amid the reduced hours in Hong Kong and with mainland also kept indecisive after the PBoC skipped open market operations, although Chinese Premier Li said China will study further steps to lower financing costs including RRR and targeted RRR cuts.</p><p>In FX markets, price action has been contained ahead of the holidays with DXY languishing below its 200DMA of 97.71 after the recent weak US Durable Goods Orders which posted a surprise contraction, while its transatlantic counterparts fare no better which EUR/USD at a sub-1.1100 level and with GBP/USD dejected after having extended its slide firmly beneath 1.3000 in a continued fallout from the government’s parliamentary efforts to rule out an extension to the post-Brexit transition period. Elsewhere, USD/JPY and JPY-crosses have reflected the non-committal risk tone and an uneventful BoJ Minutes from the October meeting, while antipodeans are also steady amid a lack of risk appetite and relevant data releases, as well as the relatively stable CNY reference rate setting.</p><p>Finally, 10yr JGBs are uneventful following the similar holiday-quietened trade in USTs and non-committal tone in stocks, while demand is also sapped by a lack of BoJ buying with the central bank only in the market for treasury discount bills.&nbsp;</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "asia-pac-mid-session-update-twas-the-eve-before-christmas-24-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-24 10:50:00",
+        "gmt_time": "2019-12-24 02:50:00"
+    },
+    {
+        "id": 902120,
+        "updated_sequence": 2044765,
+        "published_at": {
+            "unix": 1577155140,
+            "text": "2019-12-24 02:39:00 +0000",
+            "iso_8601": "2019-12-24T02:39:00Z"
+        },
+        "updated_at": {
+            "unix": 1577155223,
+            "text": "2019-12-24 02:40:23 +0000",
+            "iso_8601": "2019-12-24T02:40:23Z"
+        },
+        "subject": "Kia Motors (000270 KS) union stages partial strike",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "kia-motors-000270-ks-union-stages-partial-strike-24-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-24 10:39:00",
+        "gmt_time": "2019-12-24 02:39:00"
+    },
+    {
+        "id": 902119,
+        "updated_sequence": 2044762,
+        "published_at": {
+            "unix": 1577154240,
+            "text": "2019-12-24 02:24:00 +0000",
+            "iso_8601": "2019-12-24T02:24:00Z"
+        },
+        "updated_at": {
+            "unix": 1577154290,
+            "text": "2019-12-24 02:24:50 +0000",
+            "iso_8601": "2019-12-24T02:24:50Z"
+        },
+        "subject": "Japanese PM Abe says wants to deepen cooperation on North Korea with China and South Korea, according to Kyodo",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-pm-abe-says-wants-to-deepen-cooperation-on-north-korea-with-china-and-south-korea-according-to-kyodo-24-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-24 10:24:00",
+        "gmt_time": "2019-12-24 02:24:00"
+    },
+    {
+        "id": 902118,
+        "updated_sequence": 2044759,
+        "published_at": {
+            "unix": 1577154120,
+            "text": "2019-12-24 02:22:00 +0000",
+            "iso_8601": "2019-12-24T02:22:00Z"
+        },
+        "updated_at": {
+            "unix": 1577154219,
+            "text": "2019-12-24 02:23:39 +0000",
+            "iso_8601": "2019-12-24T02:23:39Z"
+        },
+        "subject": "China Global Times tweets that China's total tax and fee cuts are expected to surpass CNY 2tln this year 2019 which accounts for more than 2% of its GDP citing a Ministry of Finance official report",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "china-global-times-tweets-that-china-s-total-tax-and-fee-cuts-are-expected-to-surpass-cny-2tln-this-year-2019-which-accounts-for-more-than-2-of-its-gdp-citing-a-ministry-of-finance-official-report-24-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-24 10:22:00",
+        "gmt_time": "2019-12-24 02:22:00"
+    },
+    {
+        "id": 902117,
+        "updated_sequence": 2044756,
+        "published_at": {
+            "unix": 1577151180,
+            "text": "2019-12-24 01:33:00 +0000",
+            "iso_8601": "2019-12-24T01:33:00Z"
+        },
+        "updated_at": {
+            "unix": 1577151280,
+            "text": "2019-12-24 01:34:40 +0000",
+            "iso_8601": "2019-12-24T01:34:40Z"
+        },
+        "subject": "Shenzhen Stock Exchange will launch a blockchain-related index today, according to a statement",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "shenzhen-stock-exchange-will-launch-a-blockchain-related-index-today-according-to-a-statement-24-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-24 09:33:00",
+        "gmt_time": "2019-12-24 01:33:00"
+    },
+    {
+        "id": 902116,
+        "updated_sequence": 2044753,
+        "published_at": {
+            "unix": 1577150940,
+            "text": "2019-12-24 01:29:00 +0000",
+            "iso_8601": "2019-12-24T01:29:00Z"
+        },
+        "updated_at": {
+            "unix": 1577151005,
+            "text": "2019-12-24 01:30:05 +0000",
+            "iso_8601": "2019-12-24T01:30:05Z"
+        },
+        "subject": "South Korean President Moon says will uphold free trade values with China and Japan and will overcome protectionism through cooperation",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "south-korean-president-moon-says-will-uphold-free-trade-values-with-china-and-japan-and-will-overcome-protectionism-through-cooperation-24-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-24 09:29:00",
+        "gmt_time": "2019-12-24 01:29:00"
+    },
+    {
+        "id": 902115,
+        "updated_sequence": 2044750,
+        "published_at": {
+            "unix": 1577150400,
+            "text": "2019-12-24 01:20:00 +0000",
+            "iso_8601": "2019-12-24T01:20:00Z"
+        },
+        "updated_at": {
+            "unix": 1577150453,
+            "text": "2019-12-24 01:20:53 +0000",
+            "iso_8601": "2019-12-24T01:20:53Z"
+        },
+        "subject": "Chinese Premier Li says China is willing to expand opening up",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "chinese-premier-li-says-china-is-willing-to-expand-opening-up-24-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-24 09:20:00",
+        "gmt_time": "2019-12-24 01:20:00"
+    },
+    {
+        "id": 902114,
+        "updated_sequence": 2044745,
+        "published_at": {
+            "unix": 1577150100,
+            "text": "2019-12-24 01:15:00 +0000",
+            "iso_8601": "2019-12-24T01:15:00Z"
+        },
+        "updated_at": {
+            "unix": 1577150193,
+            "text": "2019-12-24 01:16:33 +0000",
+            "iso_8601": "2019-12-24T01:16:33Z"
+        },
+        "subject": "PBoC skips open market operations for a net neutral daily position",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pboc-skips-open-market-operations-for-a-net-neutral-daily-position-24-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 15,
+            "name": "PBoC"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-24 09:15:00",
+        "gmt_time": "2019-12-24 01:15:00"
+    },
+    {
+        "id": 902113,
+        "updated_sequence": 2044742,
+        "published_at": {
+            "unix": 1577150100,
+            "text": "2019-12-24 01:15:00 +0000",
+            "iso_8601": "2019-12-24T01:15:00Z"
+        },
+        "updated_at": {
+            "unix": 1577150175,
+            "text": "2019-12-24 01:16:15 +0000",
+            "iso_8601": "2019-12-24T01:16:15Z"
+        },
+        "subject": "PBoC sets USD/CNY reference rate at 7.0119 vs. Exp. 7.0126 (Prev. 7.0117)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pboc-sets-usd-cny-reference-rate-at-7-0119-vs-exp-7-0126-prev-7-0117-24-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 15,
+            "name": "PBoC"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-24 09:15:00",
+        "gmt_time": "2019-12-24 01:15:00"
+    },
+    {
+        "id": 902112,
+        "updated_sequence": 2044739,
+        "published_at": {
+            "unix": 1577149620,
+            "text": "2019-12-24 01:07:00 +0000",
+            "iso_8601": "2019-12-24T01:07:00Z"
+        },
+        "updated_at": {
+            "unix": 1577149649,
+            "text": "2019-12-24 01:07:29 +0000",
+            "iso_8601": "2019-12-24T01:07:29Z"
+        },
+        "subject": "PBoC will conduct CNY 6bln in 3-month central bank bill swaps",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pboc-will-conduct-cny-6bln-in-3-month-central-bank-bill-swaps-24-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 15,
+            "name": "PBoC"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-24 09:07:00",
+        "gmt_time": "2019-12-24 01:07:00"
+    },
+    {
+        "id": 902111,
+        "updated_sequence": 2044736,
+        "published_at": {
+            "unix": 1577149440,
+            "text": "2019-12-24 01:04:00 +0000",
+            "iso_8601": "2019-12-24T01:04:00Z"
+        },
+        "updated_at": {
+            "unix": 1577149524,
+            "text": "2019-12-24 01:05:24 +0000",
+            "iso_8601": "2019-12-24T01:05:24Z"
+        },
+        "subject": "South Korea to allocate 71.4% of budget spending to H1 next year",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "south-korea-to-allocate-71-4-of-budget-spending-to-h1-next-year-24-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-24 09:04:00",
+        "gmt_time": "2019-12-24 01:04:00"
+    },
+    {
+        "id": 902110,
+        "updated_sequence": 2044747,
+        "published_at": {
+            "unix": 1577149320,
+            "text": "2019-12-24 01:02:00 +0000",
+            "iso_8601": "2019-12-24T01:02:00Z"
+        },
+        "updated_at": {
+            "unix": 1577150296,
+            "text": "2019-12-24 01:18:16 +0000",
+            "iso_8601": "2019-12-24T01:18:16Z"
+        },
+        "subject": "PRE-MARKET CHINESE STOCK NEWS: Chinese Premier Li said China will study further steps to lower financing costs via RRR cuts, targeted RRR cuts, discounting and re-lending ",
+        "content": "<p>China Green Holdings (904 HK) - Co. guides H1 net loss to widen 60%-70% Y/Y. (Newswires)</p><p>Guangzhou Auto (2238 HK) - Co. and SAIC (600104 CH) are to cooperate on key technologies. (Newswires)</p><p>Jiangsu Expressway (576 HK) - Co. along with Zhejiang Expressway and China Merchants Expressway will set up units for overseas acquisition project. (Newswires)</p><p>Auto - China Association of Automobile Manufacturers suggested that China 2019 auto sales are on course to decline 8%-9% Y/Y and forecasts 2020 sales to contract by 2%. (Newswires)</p><p>Other News</p><p>Chinese Premier Li said China will study further steps to lower financing costs via RRR cuts, targeted RRR cuts, discounting and re-lending, according to state media. (Newswires)</p><p>PBoC Q4 Survey showed entrepreneur confidence was lower Q/Q and households expect a worsening of unemployment. (Newswires)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-chinese-stock-news-chinese-premier-li-said-china-will-study-further-steps-to-lower-financing-costs-via-rrr-cuts-targeted-rrr-cuts-discounting-and-re-lending-24-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-24 09:02:00",
+        "gmt_time": "2019-12-24 01:02:00"
+    },
+    {
+        "id": 902109,
+        "updated_sequence": 2044730,
+        "published_at": {
+            "unix": 1577149200,
+            "text": "2019-12-24 01:00:00 +0000",
+            "iso_8601": "2019-12-24T01:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1577149321,
+            "text": "2019-12-24 01:02:01 +0000",
+            "iso_8601": "2019-12-24T01:02:01Z"
+        },
+        "subject": "LG Chem (051910 KS) comments on reports it is considering a spin off of EV battery business, says in is mulling various ways to boost battery competitiveness and no decision has been made",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "lg-chem-051910-ks-comments-on-reports-it-is-considering-a-spin-off-of-ev-battery-business-says-in-is-mulling-various-ways-to-boost-battery-competitiveness-and-no-decision-has-been-made-24-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-24 09:00:00",
+        "gmt_time": "2019-12-24 01:00:00"
+    },
+    {
+        "id": 902108,
+        "updated_sequence": 2044727,
+        "published_at": {
+            "unix": 1577148060,
+            "text": "2019-12-24 00:41:00 +0000",
+            "iso_8601": "2019-12-24T00:41:00Z"
+        },
+        "updated_at": {
+            "unix": 1577148155,
+            "text": "2019-12-24 00:42:35 +0000",
+            "iso_8601": "2019-12-24T00:42:35Z"
+        },
+        "subject": "China Global Times tweets that It is impossible for the US to rope in other countries to contain China and that neither Russia nor any other country is willing to become its pawn to contain China",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Twitter",
+        "slug": "china-global-times-tweets-that-it-is-impossible-for-the-us-to-rope-in-other-countries-to-contain-china-and-that-neither-russia-nor-any-other-country-is-willing-to-become-its-pawn-to-contain-china-24-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-24 08:41:00",
+        "gmt_time": "2019-12-24 00:41:00"
+    },
+    {
+        "id": 902107,
+        "updated_sequence": 2044724,
+        "published_at": {
+            "unix": 1577146980,
+            "text": "2019-12-24 00:23:00 +0000",
+            "iso_8601": "2019-12-24T00:23:00Z"
+        },
+        "updated_at": {
+            "unix": 1577147064,
+            "text": "2019-12-24 00:24:24 +0000",
+            "iso_8601": "2019-12-24T00:24:24Z"
+        },
+        "subject": "LG Electronics (066570 KS) is said to unveil a dual-screen 5G smartphone at the Mobile World Congress in February, according to industry sources",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "lg-electronics-066570-ks-is-said-to-unveil-a-dual-screen-5g-smartphone-at-the-mobile-world-congress-in-february-according-to-industry-sources-24-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-24 08:23:00",
+        "gmt_time": "2019-12-24 00:23:00"
+    },
+    {
+        "id": 902106,
+        "updated_sequence": 2044721,
+        "published_at": {
+            "unix": 1577146800,
+            "text": "2019-12-24 00:20:00 +0000",
+            "iso_8601": "2019-12-24T00:20:00Z"
+        },
+        "updated_at": {
+            "unix": 1577146902,
+            "text": "2019-12-24 00:21:42 +0000",
+            "iso_8601": "2019-12-24T00:21:42Z"
+        },
+        "subject": "PRE-MARKET TAIWAN AND SINGAPORE STOCK NEWS Taiwan Retail sector revenue rose 5.4% Y/Y in November to TWD 343.4bln",
+        "content": "<p>TAIWAN</p><p>OBI Pharma (4174 TT) - FDA granted orphan drug designation for Co.’s treatment of pancreatic cancer. (Newswires)</p><p>Retail - Retail sector revenue rose 5.4% Y/Y in November to TWD 343.4bln. (Newswires)</p><p>Data Recap&nbsp;</p><ul><li>Taiwan Industrial Production (Nov) Y/Y 2.2% vs. Exp. 0.6% (Prev. -2.9%, Rev. -2.6%). (Newswires)&nbsp;</li><li>Taiwan Unemployment Rate (Nov) 3.7% vs. Exp. 3.7% (Prev. 3.7%)</li></ul><p>&nbsp;</p><p>SINGAPORE</p><p>No notable stock news.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-taiwan-and-singapore-stock-news-taiwan-retail-sector-revenue-rose-5-4-y-y-in-november-to-twd-343-4bln-24-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-24 08:20:00",
+        "gmt_time": "2019-12-24 00:20:00"
+    },
+    {
+        "id": 902105,
+        "updated_sequence": 2044718,
+        "published_at": {
+            "unix": 1577146620,
+            "text": "2019-12-24 00:17:00 +0000",
+            "iso_8601": "2019-12-24T00:17:00Z"
+        },
+        "updated_at": {
+            "unix": 1577146679,
+            "text": "2019-12-24 00:17:59 +0000",
+            "iso_8601": "2019-12-24T00:17:59Z"
+        },
+        "subject": "PBoC is expected to set USD/CNY mid-point at 7.0126, according to a major newswire",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<p>- As a reminder, the reference rate was set at 7.0117 yesterday..</p>",
+        "analysis_updated_at": {
+            "unix": 1577146679,
+            "text": "2019-12-24 00:17:59 +0000",
+            "iso_8601": "2019-12-24T00:17:59Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pboc-is-expected-to-set-usd-cny-mid-point-at-7-0126-according-to-a-major-newswire-24-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 15,
+            "name": "PBoC"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-24 08:17:00",
+        "gmt_time": "2019-12-24 00:17:00"
+    },
+    {
+        "id": 902104,
+        "updated_sequence": 2044715,
+        "published_at": {
+            "unix": 1577145900,
+            "text": "2019-12-24 00:05:00 +0000",
+            "iso_8601": "2019-12-24T00:05:00Z"
+        },
+        "updated_at": {
+            "unix": 1577146000,
+            "text": "2019-12-24 00:06:40 +0000",
+            "iso_8601": "2019-12-24T00:06:40Z"
+        },
+        "subject": "US President Trump tweets \"NASDAQ UP 72.2% SINCE OUR GREAT 2016 ELECTION VICTORY! DOW UP 55.8%. The best is yet to come!\"",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Twitter",
+        "slug": "us-president-trump-tweets-nasdaq-up-72-2-since-our-great-2016-election-victory-dow-up-55-8-the-best-is-yet-to-come-24-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-24 08:05:00",
+        "gmt_time": "2019-12-24 00:05:00"
+    },
+    {
+        "id": 902103,
+        "updated_sequence": 2044712,
+        "published_at": {
+            "unix": 1577145660,
+            "text": "2019-12-24 00:01:00 +0000",
+            "iso_8601": "2019-12-24T00:01:00Z"
+        },
+        "updated_at": {
+            "unix": 1577145830,
+            "text": "2019-12-24 00:03:50 +0000",
+            "iso_8601": "2019-12-24T00:03:50Z"
+        },
+        "subject": "Asia equity markets begin positive after the fresh record levels on Wall St. but with gains limited amid early closures for several bourses in the region for Christmas Eve",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "asia-equity-markets-begin-positive-after-the-fresh-record-levels-on-wall-st-but-with-gains-limited-amid-early-closures-for-several-bourses-in-the-region-for-christmas-eve-24-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-24 08:01:00",
+        "gmt_time": "2019-12-24 00:01:00"
+    }
+]

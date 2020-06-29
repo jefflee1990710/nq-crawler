@@ -1,0 +1,580 @@
+[
+    {
+        "id": 663724,
+        "updated_sequence": 998918,
+        "published_at": {
+            "unix": 1529884620,
+            "text": "2018-06-25 00:57:00 +0100",
+            "iso_8601": "2018-06-24T23:57:00Z"
+        },
+        "updated_at": {
+            "unix": 1529884875,
+            "text": "2018-06-25 01:01:15 +0100",
+            "iso_8601": "2018-06-25T00:01:15Z"
+        },
+        "subject": "US President Trump is said to be planning new restrictions on tech exports to China and Chinese investment, with an announcement expected by end of the week, according to WSJ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "WSJ",
+        "slug": "us-president-trump-is-said-to-be-planning-new-restrictions-on-tech-exports-to-china-and-chinese-investment-with-an-announcement-expected-by-end-of-the-week-according-to-wsj-24-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 07:57:00",
+        "gmt_time": "2018-06-24 23:57:00"
+    },
+    {
+        "id": 663723,
+        "updated_sequence": 998912,
+        "published_at": {
+            "unix": 1529884200,
+            "text": "2018-06-25 00:50:00 +0100",
+            "iso_8601": "2018-06-24T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1529884566,
+            "text": "2018-06-25 00:56:06 +0100",
+            "iso_8601": "2018-06-24T23:56:06Z"
+        },
+        "subject": "BoJ Summary of Opinions from June 14th-15th meeting states it is appropriate to pursue powerful monetary easing with persistence under the current guideline as inflation a long way to price target",
+        "content": "<p>Says:<br />-&nbsp;The momentum toward achieving the price stability target of 2 percent is maintained.<br />-&nbsp;Japan&#39;s economy is expanding moderately, although&nbsp;adds it is necessary to carefully monitor future developments.<br />-&nbsp;Although Japan&#39;s GDP for March quarter of 2018 contracted for the first time in nine quarters, this largely reflects temporary factors such as irregular weather.</p>\r\n\r\n<p>Link to Summary of Opinions:&nbsp;<a href=\"https://www.boj.or.jp/en/mopo/mpmsche_minu/opinion_2018/opi180615.pdf\">https://www.boj.or.jp/en/mopo/mpmsche_minu/opinion_2018/opi180615.pdf</a></p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "boj-summary-of-opinions-from-june-14th-15th-meeting-states-it-is-appropriate-to-pursue-powerful-monetary-easing-with-persistence-under-the-current-guideline-as-inflation-a-long-way-to-price-target-24-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 07:50:00",
+        "gmt_time": "2018-06-24 23:50:00"
+    },
+    {
+        "id": 663722,
+        "updated_sequence": 998904,
+        "published_at": {
+            "unix": 1529884080,
+            "text": "2018-06-25 00:48:00 +0100",
+            "iso_8601": "2018-06-24T23:48:00Z"
+        },
+        "updated_at": {
+            "unix": 1529884146,
+            "text": "2018-06-25 00:49:06 +0100",
+            "iso_8601": "2018-06-24T23:49:06Z"
+        },
+        "subject": "APN Outdoor (APO AT) requests trading halt pending announcement related to JC Decaux (DEC FP) offer",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "apn-outdoor-apo-at-requests-trading-halt-pending-announcement-related-to-jc-decaux-dec-fp-offer-24-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 07:48:00",
+        "gmt_time": "2018-06-24 23:48:00"
+    },
+    {
+        "id": 663721,
+        "updated_sequence": 998901,
+        "published_at": {
+            "unix": 1529883240,
+            "text": "2018-06-25 00:34:00 +0100",
+            "iso_8601": "2018-06-24T23:34:00Z"
+        },
+        "updated_at": {
+            "unix": 1529883715,
+            "text": "2018-06-25 00:41:55 +0100",
+            "iso_8601": "2018-06-24T23:41:55Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIAN, JAPANESE AND SOUTH KOREAN STOCK NEWS: CBA to demerge wealth management and mortgage broking units; oOh!Media wins race for HT&E’s Adshel business with AUD 570mln all-cash offer ",
+        "content": "<p>AUSTRALIA</p>\r\n\r\n<p>ANZ Bank (ANZ AT)<br />- Co. agrees to sell its retail, commercial and SME banking business in Papua New Guinea, although it doesn&rsquo;t see the transaction to have a material impact. (Newswires)</p>\r\n\r\n<p>Australian Pharmaceutical Industries (API AT)<br />- Co. will buy Clearskincare Clinics valued at AUD 127.4mln. (Newswires)</p>\r\n\r\n<p>CIMIC (CIM AT)<br />- Co. receives contract to build stadium in Qatar for 2022 World Cup. (Newswires)</p>\r\n\r\n<p>Commonwealth Bank of Australia (CBA AT)<br />- Co. to demerge wealth management and mortgage broking units, will undertake strategic review of general insurance business including potential sale. (Newswires)<br />- Co. names David Cohen as its Deputy CEO and Nigel Williams as Chief Risk Officer.</p>\r\n\r\n<p>Gateway Lifestyle Operations (GTY AT)<br />- Hometown increased its bid for the Co. to AUD 2.35/Shr from AUD 2.10/Shr. (Newswires)</p>\r\n\r\n<p>HT&amp;E (HT1 AT)<br />- oOh!Media (OML AT) is said to have won the bid for HT&amp;E&rsquo;s Adshel business with AUD 570mln all-cash offer and will launch AUD 320mln equity raising to fund the deal. (Newswires)</p>\r\n\r\n<p>Metcash (MTS AT)<br />- Co. FY18 underlying net AUD 215.6mln vs. Exp. AUD 215.0mln, FY net loss attributable AUD 149.5mln vs. Prev. profit AUD 171.9mln. (Newswires)<br />- Co. FY18 rev. AUD 14.5bln vs. Prev. AUD 14.1bln Y/Y.<br />- Co. announces offmarket buyback valued at AUD 125mln.</p>\r\n\r\n<p>Energy<br />- Oil prices gained around 4% on Friday following OPEC announcement to increase output as the increase was less than some of the potential scenarios that were previously suggested. (Newswires)<br />&nbsp;</p>\r\n\r\n<p>JAPAN</p>\r\n\r\n<p>Nissan (7201 JT)<br />- Co. is to launch its proprietary hybrid powered car in Thailand next year. (Nikkei)</p>\r\n\r\n<p>Nitori (9843 JT)<br />- June same store sales fell 4.5% Y/Y. (Newswires)</p>\r\n\r\n<p>Other News<br />- Japan ruling LDP lawmaker Ishiba is said to consider running for LDP leader. (Newswires)<br />&nbsp;</p>\r\n\r\n<p>SOUTH KOREA</p>\r\n\r\n<p>Posco (005490 KS)<br />- Co. picked Posco Chemtech CEO Choi Jeong-woo as its next CEO. (Newswires)</p>\r\n\r\n<p>SK Holdings (003605 KS)<br />- Co. in discussions with Grab, Turo and SoCar as it seeks to widen scope of global mobility business through partnerships. (Newswires)</p>\r\n\r\n<p>Samsung Electronics (005930 KS)<br />- Co. Oper. profit in Q2 is likely to decline to KRW 15tln vs. Prev. KRW 15.6tln Q/Q, according to sources. (Yonhap)</p>\r\n\r\n<p>Woori Bank (000030 KS)<br />- Co. acquires VisonFund Cambodia. (Newswires)</p>\r\n\r\n<p>Lotte Group<br />- Co. Chairman Shin Dong-bin increased stake to around 10.5% from around 8.6%. (Newswires)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-australian-japanese-and-south-korean-stock-news-cba-to-demerge-wealth-management-and-mortgage-broking-units-ooh-media-wins-race-for-ht-e-s-adshel-business-with-aud-570mln-all-cash-offer-24-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 07:34:00",
+        "gmt_time": "2018-06-24 23:34:00"
+    },
+    {
+        "id": 663720,
+        "updated_sequence": 998895,
+        "published_at": {
+            "unix": 1529882520,
+            "text": "2018-06-25 00:22:00 +0100",
+            "iso_8601": "2018-06-24T23:22:00Z"
+        },
+        "updated_at": {
+            "unix": 1529882597,
+            "text": "2018-06-25 00:23:17 +0100",
+            "iso_8601": "2018-06-24T23:23:17Z"
+        },
+        "subject": "China is reportedly planning lower coal use in some areas to reduce pollution",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "china-is-reportedly-planning-lower-coal-use-in-some-areas-to-reduce-pollution-24-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 07:22:00",
+        "gmt_time": "2018-06-24 23:22:00"
+    },
+    {
+        "id": 663719,
+        "updated_sequence": 998972,
+        "published_at": {
+            "unix": 1529881620,
+            "text": "2018-06-25 00:07:00 +0100",
+            "iso_8601": "2018-06-24T23:07:00Z"
+        },
+        "updated_at": {
+            "unix": 1529899040,
+            "text": "2018-06-25 04:57:20 +0100",
+            "iso_8601": "2018-06-25T03:57:20Z"
+        },
+        "subject": "Goldman Sachs doesn't see OPEC deal altering market outlook and that physical oil market is still tightening, also says OPEC deal may represent beginning of unravelling of the output cut deal",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "goldman-sachs-doesn-t-see-opec-deal-altering-market-outlook-and-that-physical-oil-market-is-still-tightening-also-says-opec-deal-may-represent-beginning-of-unravelling-of-the-output-cut-deal-24-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 07:07:00",
+        "gmt_time": "2018-06-24 23:07:00"
+    },
+    {
+        "id": 663718,
+        "updated_sequence": 998889,
+        "published_at": {
+            "unix": 1529881560,
+            "text": "2018-06-25 00:06:00 +0100",
+            "iso_8601": "2018-06-24T23:06:00Z"
+        },
+        "updated_at": {
+            "unix": 1529881624,
+            "text": "2018-06-25 00:07:04 +0100",
+            "iso_8601": "2018-06-24T23:07:04Z"
+        },
+        "subject": "ANZ sees PBoC reducing RRR by another 50bps in October",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "anz-sees-pboc-reducing-rrr-by-another-50bps-in-october-24-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 07:06:00",
+        "gmt_time": "2018-06-24 23:06:00"
+    },
+    {
+        "id": 663717,
+        "updated_sequence": 998886,
+        "published_at": {
+            "unix": 1529881020,
+            "text": "2018-06-24 23:57:00 +0100",
+            "iso_8601": "2018-06-24T22:57:00Z"
+        },
+        "updated_at": {
+            "unix": 1529881128,
+            "text": "2018-06-24 23:58:48 +0100",
+            "iso_8601": "2018-06-24T22:58:48Z"
+        },
+        "subject": "Commonwealth Bank of Australia (CBA AT) to demerge wealth management and mortgage broking units, will undertake strategic review of general insurance business including potential sale",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "commonwealth-bank-of-australia-cba-at-to-demerge-wealth-management-and-mortgage-broking-units-will-undertake-strategic-review-of-general-insurance-business-including-potential-sale-24-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 06:57:00",
+        "gmt_time": "2018-06-24 22:57:00"
+    },
+    {
+        "id": 663716,
+        "updated_sequence": 998881,
+        "published_at": {
+            "unix": 1529879940,
+            "text": "2018-06-24 23:39:00 +0100",
+            "iso_8601": "2018-06-24T22:39:00Z"
+        },
+        "updated_at": {
+            "unix": 1529880047,
+            "text": "2018-06-24 23:40:47 +0100",
+            "iso_8601": "2018-06-24T22:40:47Z"
+        },
+        "subject": "Xiaomi announces global offering of 2.18bln shares at maximum offer price of HKD 22/Shr for its Hong Kong IPO",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "xiaomi-announces-global-offering-of-2-18bln-shares-at-maximum-offer-price-of-hkd-22-shr-for-its-hong-kong-ipo-24-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 06:39:00",
+        "gmt_time": "2018-06-24 22:39:00"
+    },
+    {
+        "id": 663715,
+        "updated_sequence": 998878,
+        "published_at": {
+            "unix": 1529878620,
+            "text": "2018-06-24 23:17:00 +0100",
+            "iso_8601": "2018-06-24T22:17:00Z"
+        },
+        "updated_at": {
+            "unix": 1529878761,
+            "text": "2018-06-24 23:19:21 +0100",
+            "iso_8601": "2018-06-24T22:19:21Z"
+        },
+        "subject": "PBoC said on Sunday that it will lower some banks' RRR by 50 basis points on July 5th",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pboc-said-on-sunday-that-it-will-lower-some-banks-rrr-by-50-basis-points-on-july-5th-24-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 06:17:00",
+        "gmt_time": "2018-06-24 22:17:00"
+    },
+    {
+        "id": 663714,
+        "updated_sequence": 998974,
+        "published_at": {
+            "unix": 1529878500,
+            "text": "2018-06-24 23:15:00 +0100",
+            "iso_8601": "2018-06-24T22:15:00Z"
+        },
+        "updated_at": {
+            "unix": 1529899205,
+            "text": "2018-06-25 05:00:05 +0100",
+            "iso_8601": "2018-06-25T04:00:05Z"
+        },
+        "subject": "US President Trump tweeted that US insists all countries that have placed trade barriers and tariffs on goods going into their country, remove them or be met with more than reciprocity by the US, while he added trade must be fair and not one-way",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Twitter",
+        "slug": "us-president-trump-tweeted-that-us-insists-all-countries-that-have-placed-trade-barriers-and-tariffs-on-goods-going-into-their-country-remove-them-or-be-met-with-more-than-reciprocity-by-the-us-while-he-added-trade-must-be-fair-and-not-one-24-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 06:15:00",
+        "gmt_time": "2018-06-24 22:15:00"
+    },
+    {
+        "id": 663713,
+        "updated_sequence": 998870,
+        "published_at": {
+            "unix": 1529877840,
+            "text": "2018-06-24 23:04:00 +0100",
+            "iso_8601": "2018-06-24T22:04:00Z"
+        },
+        "updated_at": {
+            "unix": 1529877900,
+            "text": "2018-06-24 23:05:00 +0100",
+            "iso_8601": "2018-06-24T22:05:00Z"
+        },
+        "subject": "Turkish Presidential Candidate Ince says it was not a fair race, but Erdogan won",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "turkish-presidential-candidate-ince-says-it-was-not-a-fair-race-but-erdogan-won-24-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 06:04:00",
+        "gmt_time": "2018-06-24 22:04:00"
+    },
+    {
+        "id": 663712,
+        "updated_sequence": 998867,
+        "published_at": {
+            "unix": 1529877720,
+            "text": "2018-06-24 23:02:00 +0100",
+            "iso_8601": "2018-06-24T22:02:00Z"
+        },
+        "updated_at": {
+            "unix": 1529877843,
+            "text": "2018-06-24 23:04:03 +0100",
+            "iso_8601": "2018-06-24T22:04:03Z"
+        },
+        "subject": "Hungary Consumer Confidence (Jun) -5.7 (Prev. -7.5)",
+        "content": "<p>-&nbsp;Hungary Business Confidence (Jun) 15.3&nbsp;(Prev. 13.8)<br />-&nbsp;Hungary Economic Sentiment&nbsp;(Jun) 9.8&nbsp;(Prev. 8.3)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "hungary-consumer-confidence-jun-5-7-prev-7-5-24-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 06:02:00",
+        "gmt_time": "2018-06-24 22:02:00"
+    },
+    {
+        "id": 663711,
+        "updated_sequence": 998864,
+        "published_at": {
+            "unix": 1529876880,
+            "text": "2018-06-24 22:48:00 +0100",
+            "iso_8601": "2018-06-24T21:48:00Z"
+        },
+        "updated_at": {
+            "unix": 1529876939,
+            "text": "2018-06-24 22:48:59 +0100",
+            "iso_8601": "2018-06-24T21:48:59Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASES CALENDAR NOW AVAILABLE IN THE RESEARCH SECTION: Highlights Include BoJ Summary of Opinions and Singapore CPI",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asian-daily-economic-releases-calendar-now-available-in-the-research-section-highlights-include-boj-summary-of-opinions-and-singapore-cpi-24-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 05:48:00",
+        "gmt_time": "2018-06-24 21:48:00"
+    },
+    {
+        "id": 663710,
+        "updated_sequence": 998861,
+        "published_at": {
+            "unix": 1529875680,
+            "text": "2018-06-24 22:28:00 +0100",
+            "iso_8601": "2018-06-24T21:28:00Z"
+        },
+        "updated_at": {
+            "unix": 1529876641,
+            "text": "2018-06-24 22:44:01 +0100",
+            "iso_8601": "2018-06-24T21:44:01Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p>EU</p>\r\n\r\n<p>US President Trump on Friday threatened a 20% tariff on all European cars coming into the US if trade barriers and tariffs on the US from EU are not &#39;broken down and removed&#39;. (Newswires)</p>\r\n\r\n<p><br />FX</p>\r\n\r\n<p>Turkey President Erdogan declared himself the winner of the Presidential election with 53% of the vote which if confirmed would avoid a 2nd round runoff, although the opposition have not yet conceded and believe the results are incomplete and may still be heading to a 2nd round. (Newswires<br />&nbsp;</p>\r\n\r\n<p>COMMODITIES</p>\r\n\r\n<p>OPEC agreed to raise output on Friday although the Communique did not specify size of supply production increase, while OPEC sources initially said the latest agreement will amount, in practice, to an increase supply of between 400k-600k BPD. (Newswires)</p>\r\n\r\n<p>Saudi Arabia Energy Minister Al Falih stated that it was a 1mln BPD production increase and that OPEC+ members will try to restore compliance to 100%, while Saudi Arabia also announced it will increase production. Furthermore, Al-Falih also commented that the total OPEC+ oil hike is closer to 1mln bpd than 600k and that it would be a concern if Friday&rsquo;s increase in prices were to become a trend. (Newswires)</p>\r\n\r\n<p>Iraqi Oil Minister said the real output increase is between 700-800k BPD and will test the market until September, while he added that any country that has excess compliance will have to return to 100%. (Newswires)</p>\r\n\r\n<p>US President Trump tweeted that he hopes OPEC will increase output substantially and that they need to keep prices down. (Newswires)</p>\r\n\r\n<p>Baker Hughes Rig Count (22 June) total rigs -7 to 1052, with oil rigs down by 1 to 862 which is the 1st reduction of oil rigs in 12 weeks. (Newswires)</p>\r\n\r\n<p><br />US/NORTH AMERICA</p>\r\n\r\n<p>Canada&rsquo;s NAFTA negotiator Verheul said on Friday that there were no active NAFTA talks at that moment. (Newswires)</p>\r\n\r\n<p>Russia&#39;s Economy Minister Oreshkin said Russia will increase tariffs on US autos. (Newswires)</p>\r\n\r\n<p>Canadian CPI Inflation YY (May) 2.2% vs. Exp. 2.5% (Prev. 2.2%). (Newswires)<br />Canadian Retail Sales MM (Apr) -1.2% vs. Exp. 0.0% (Prev. 0.6%, Rev. 0.8%)<br />&nbsp;</p>\r\n\r\n<p>MARKET RECAP</p>\r\n\r\n<p>US equity futures had a relatively quiet day; the Emini grinded higher overnight, but at the Wall St. open it fell ~10points in the first hour, before losses were erased as the day progressed. The Energy sector led the way on Friday trade, tracking higher oil prices after the OPEC meeting while Financials underperformed as well as the tech sector which was hampered by RedHat due to a poor earnings report, where its guidance was lower than Wall St expectations, seeing the stock trade lower by as much as 15%, despite beating its numbers on both top and bottom line. The poor outlook spilt over into some other software names such as Splunk (SPLK), Microsoft (MSFT) and VM Ware (VMW). Noteworthy for US auto names (but more so European ones), President Trump threatened a 20% tariff on EU autos imported into the US if trade barriers and tariffs were not lowered or removed. In an immediate reaction auto names spiked lower in both regions, however some of the losses were pared back and GM and FCAU closed higher, but F and HOG remained in the red. SPX +0.2% at 2754, NASDAQ 100 -0.3% at 7197, DJI +0.5% at 24581.</p>\r\n\r\n<p>Treasuries were flat on Friday, and volume was thin, though the complex does close higher for the second straight week, ahead of next week, where the US Treasury will auction more than $200bln of paper. Higher stocks initially had Treasuries on the back foot on Friday, and yields were also dancing to the tune of oil prices. But losses were pared as we headed into the close, with the curve steepening a touch on the day. US 10YR T-notes futures (Sep 2018) 1 tick lower at 119-26+.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-asia-pac-opening-news-24-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 05:28:00",
+        "gmt_time": "2018-06-24 21:28:00"
+    },
+    {
+        "id": 663546,
+        "updated_sequence": 998851,
+        "published_at": {
+            "unix": 1529874000,
+            "text": "2018-06-24 22:00:00 +0100",
+            "iso_8601": "2018-06-24T21:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1529874000,
+            "text": "2018-06-24 22:00:00 +0100",
+            "iso_8601": "2018-06-24T21:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-21-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 05:00:00",
+        "gmt_time": "2018-06-24 21:00:00"
+    },
+    {
+        "id": 663546,
+        "updated_sequence": 998851,
+        "published_at": {
+            "unix": 1529874000,
+            "text": "2018-06-24 22:00:00 +0100",
+            "iso_8601": "2018-06-24T21:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1529874000,
+            "text": "2018-06-24 22:00:00 +0100",
+            "iso_8601": "2018-06-24T21:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-21-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 05:00:00",
+        "gmt_time": "2018-06-24 21:00:00"
+    }
+]

@@ -1,0 +1,3128 @@
+[
+    {
+        "id": 663828,
+        "updated_sequence": 999401,
+        "published_at": {
+            "unix": 1529970600,
+            "text": "2018-06-26 00:50:00 +0100",
+            "iso_8601": "2018-06-25T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1529970819,
+            "text": "2018-06-26 00:53:39 +0100",
+            "iso_8601": "2018-06-25T23:53:39Z"
+        },
+        "subject": "Japanese Corporate Service Price (May) Y/Y 1.0% vs. Exp. 1.0% (Prev. 0.9%, Rev. 1.0%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-corporate-service-price-may-y-y-1-0-vs-exp-1-0-prev-0-9-rev-1-0-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-26 07:50:00",
+        "gmt_time": "2018-06-25 23:50:00"
+    },
+    {
+        "id": 663827,
+        "updated_sequence": 999395,
+        "published_at": {
+            "unix": 1529969700,
+            "text": "2018-06-26 00:35:00 +0100",
+            "iso_8601": "2018-06-25T23:35:00Z"
+        },
+        "updated_at": {
+            "unix": 1529969825,
+            "text": "2018-06-26 00:37:05 +0100",
+            "iso_8601": "2018-06-25T23:37:05Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIAN, JAPANESE AND SOUTH KOREAN STOCK NEWS: BHP (BHP AT) Samarco JV in settlement agreement with prosecutors related to dam disaster and is to file petition seeking to dismiss civil claim valued at BRL 20bln",
+        "content": "<p>AUSTRALIA</p>\r\n\r\n<p>Bank of Queensland (BOQ AT)<br />- Co. raised its rates on home loans in which it cited increased funding costs. (The Australian)</p>\r\n\r\n<p>BHP (BHP AT)<br />- Co. Samarco JV in settlement agreement with prosecutors related to dam disaster, while it is to file petition seeking to dismiss civil claim valued at BRL 20bln. (Newswires)</p>\r\n\r\n<p>Commonwealth Bank of Australia (CBA AT)<br />- QBE (QBE AT) and Allianz (ALV GY) are said to be interested in Co.&rsquo;s general insurance unit. (AFR)</p>\r\n\r\n<p>South32 (S32 AT)<br />- &nbsp;Block trade of 110mln shares traded following the close at AUD 3.58/Shr vs. last close AUD 3.61/Shr. (Newswires)</p>\r\n\r\n<p>Energy<br />- WTII fell 0.8% to briefly below USD 68.00/bbl. (Newswires)<br />&nbsp;</p>\r\n\r\n<p>JAPAN</p>\r\n\r\n<p>Asahi Co. (3333 JT)<br />- Co. Q1 net rose 14.7% Y/Y to JPY 2.3bln. (Newswires)</p>\r\n\r\n<p>Mitsubishi UFJ Financial Group (8306 JT)<br />- Co. will begin a digital wallet service in FY19. (Newswires)</p>\r\n\r\n<p>Nomura (8604 JT)<br />- Co. and RBS appeal regarding challenge to USD 839mln mortgage bond award was denied by the Supreme Court. (Newswires)</p>\r\n\r\n<p>Panasonic (6752 JT)<br />- Co. is said to enter the lodging business in which it will start with 10 buildings in Tokyo and Osaka. (Newswires)</p>\r\n\r\n<p>Shimamura (8227 JT)<br />- Co. Q1 oper. profit fell 31.7% Y/Y to JPY 7.2bln. (Newswires)</p>\r\n\r\n<p>SoftBank (9984 JT)<br />- Co. mobile division will file for IPO as early as next month. (Newswires)<br />&nbsp;</p>\r\n\r\n<p>SOUTH KOREA</p>\r\n\r\n<p>CJ Corp (001040 KS)<br />- Asiana Airlines (020560 KS) to sell CJ Logistics shares valued at KRW 63.8bln. (Newswires)</p>\r\n\r\n<p>Naver (035240 KS)<br />- Co. will invest KRW 150bln in online comic platform in an attempt to further penetrate markets abroad. (Newswires)</p>\r\n\r\n<p>Other News<br />- South Korean Finance Ministry is expected to announce its H2 economic policy plan next month. (Yonhap)<br />- South Korean Think Tank KIET sees GDP growth of 3% this year. (Newswires)</p>\r\n\r\n<p>Data Recap<br />- South Korean Consumer Confidence (Jun) 105.5 (Prev. 107.9). (Newswires)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-australian-japanese-and-south-korean-stock-news-bhp-bhp-at-samarco-jv-in-settlement-agreement-with-prosecutors-related-to-dam-disaster-and-is-to-file-petition-seeking-to-dismiss-civil-claim-valued-at-brl-20bln-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-26 07:35:00",
+        "gmt_time": "2018-06-25 23:35:00"
+    },
+    {
+        "id": 663826,
+        "updated_sequence": 999392,
+        "published_at": {
+            "unix": 1529969400,
+            "text": "2018-06-26 00:30:00 +0100",
+            "iso_8601": "2018-06-25T23:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1529969473,
+            "text": "2018-06-26 00:31:13 +0100",
+            "iso_8601": "2018-06-25T23:31:13Z"
+        },
+        "subject": "Australian ANZ Roy Morgan Consumer Confidence (Jun 24) W/W 121.4 (Prev. 122.1)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "australian-anz-roy-morgan-consumer-confidence-jun-24-w-w-121-4-prev-122-1-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-26 07:30:00",
+        "gmt_time": "2018-06-25 23:30:00"
+    },
+    {
+        "id": 663825,
+        "updated_sequence": 999389,
+        "published_at": {
+            "unix": 1529968860,
+            "text": "2018-06-26 00:21:00 +0100",
+            "iso_8601": "2018-06-25T23:21:00Z"
+        },
+        "updated_at": {
+            "unix": 1529968924,
+            "text": "2018-06-26 00:22:04 +0100",
+            "iso_8601": "2018-06-25T23:22:04Z"
+        },
+        "subject": "Syrian media report Israeli missiles strike a target near Damascus Airport",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "syrian-media-report-israeli-missiles-strike-a-target-near-damascus-airport-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-26 07:21:00",
+        "gmt_time": "2018-06-25 23:21:00"
+    },
+    {
+        "id": 663824,
+        "updated_sequence": 999386,
+        "published_at": {
+            "unix": 1529968080,
+            "text": "2018-06-26 00:08:00 +0100",
+            "iso_8601": "2018-06-25T23:08:00Z"
+        },
+        "updated_at": {
+            "unix": 1529968218,
+            "text": "2018-06-26 00:10:18 +0100",
+            "iso_8601": "2018-06-25T23:10:18Z"
+        },
+        "subject": "RBNZ Deputy Governor Bascand says too early to say if RBNZ should issue digital currency which could pose risks to financial stability",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "rbnz-deputy-governor-bascand-says-too-early-to-say-if-rbnz-should-issue-digital-currency-which-could-pose-risks-to-financial-stability-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-26 07:08:00",
+        "gmt_time": "2018-06-25 23:08:00"
+    },
+    {
+        "id": 663823,
+        "updated_sequence": 999383,
+        "published_at": {
+            "unix": 1529967960,
+            "text": "2018-06-26 00:06:00 +0100",
+            "iso_8601": "2018-06-25T23:06:00Z"
+        },
+        "updated_at": {
+            "unix": 1529968031,
+            "text": "2018-06-26 00:07:11 +0100",
+            "iso_8601": "2018-06-25T23:07:11Z"
+        },
+        "subject": "Russia and China are said to have been stock piling gold",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Twitter",
+        "slug": "russia-and-china-are-said-to-have-been-stock-piling-gold-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-26 07:06:00",
+        "gmt_time": "2018-06-25 23:06:00"
+    },
+    {
+        "id": 663822,
+        "updated_sequence": 999471,
+        "published_at": {
+            "unix": 1529967120,
+            "text": "2018-06-25 23:52:00 +0100",
+            "iso_8601": "2018-06-25T22:52:00Z"
+        },
+        "updated_at": {
+            "unix": 1529984829,
+            "text": "2018-06-26 04:47:09 +0100",
+            "iso_8601": "2018-06-26T03:47:09Z"
+        },
+        "subject": "ECB's Coeure says QE reinvestments to be around EUR 15bln/month during 2019",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "ecb-s-coeure-says-qe-reinvestments-to-be-around-eur-15bln-month-during-2019-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-26 06:52:00",
+        "gmt_time": "2018-06-25 22:52:00"
+    },
+    {
+        "id": 663821,
+        "updated_sequence": 999377,
+        "published_at": {
+            "unix": 1529965800,
+            "text": "2018-06-25 23:30:00 +0100",
+            "iso_8601": "2018-06-25T22:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1529965983,
+            "text": "2018-06-25 23:33:03 +0100",
+            "iso_8601": "2018-06-25T22:33:03Z"
+        },
+        "subject": "CME raises NYMEX crude oil future margins for August to USD 2750 per contract from USD 2550, raises gasoline futures maintenance margins for September to USD 3200 per contract from USD 3100",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "cme-raises-nymex-crude-oil-future-margins-for-august-to-usd-2750-per-contract-from-usd-2550-raises-gasoline-futures-maintenance-margins-for-september-to-usd-3200-per-contract-from-usd-3100-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-26 06:30:00",
+        "gmt_time": "2018-06-25 22:30:00"
+    },
+    {
+        "id": 663820,
+        "updated_sequence": 999374,
+        "published_at": {
+            "unix": 1529964900,
+            "text": "2018-06-25 23:15:00 +0100",
+            "iso_8601": "2018-06-25T22:15:00Z"
+        },
+        "updated_at": {
+            "unix": 1529964940,
+            "text": "2018-06-25 23:15:40 +0100",
+            "iso_8601": "2018-06-25T22:15:40Z"
+        },
+        "subject": "PBoC may further reduce RRR during H2, according to China Securities Journal",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pboc-may-further-reduce-rrr-during-h2-according-to-china-securities-journal-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-26 06:15:00",
+        "gmt_time": "2018-06-25 22:15:00"
+    },
+    {
+        "id": 663819,
+        "updated_sequence": 999371,
+        "published_at": {
+            "unix": 1529964240,
+            "text": "2018-06-25 23:04:00 +0100",
+            "iso_8601": "2018-06-25T22:04:00Z"
+        },
+        "updated_at": {
+            "unix": 1529964389,
+            "text": "2018-06-25 23:06:29 +0100",
+            "iso_8601": "2018-06-25T22:06:29Z"
+        },
+        "subject": "French Finance Minister Le Maire says hopes US realizes soon that tariffs are bad for its own economy and says will respond if under attack in regards to tariffs, adds time is running out on Brexit which is worrying",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "french-finance-minister-le-maire-says-hopes-us-realizes-soon-that-tariffs-are-bad-for-its-own-economy-and-says-will-respond-if-under-attack-in-regards-to-tariffs-adds-time-is-running-out-on-brexit-which-is-worrying-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-26 06:04:00",
+        "gmt_time": "2018-06-25 22:04:00"
+    },
+    {
+        "id": 663818,
+        "updated_sequence": 999368,
+        "published_at": {
+            "unix": 1529964000,
+            "text": "2018-06-25 23:00:00 +0100",
+            "iso_8601": "2018-06-25T22:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1529964092,
+            "text": "2018-06-25 23:01:32 +0100",
+            "iso_8601": "2018-06-25T22:01:32Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASES CALENDAR NOW AVAILABLE IN THE RESEARCH SECTION: Highlights Include BoJ Core CPI, Singapore Industrial Production and Central Bank Speakers",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asian-daily-economic-releases-calendar-now-available-in-the-research-section-highlights-include-boj-core-cpi-singapore-industrial-production-and-central-bank-speakers-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-26 06:00:00",
+        "gmt_time": "2018-06-25 22:00:00"
+    },
+    {
+        "id": 663817,
+        "updated_sequence": 999365,
+        "published_at": {
+            "unix": 1529963100,
+            "text": "2018-06-25 22:45:00 +0100",
+            "iso_8601": "2018-06-25T21:45:00Z"
+        },
+        "updated_at": {
+            "unix": 1529963169,
+            "text": "2018-06-25 22:46:09 +0100",
+            "iso_8601": "2018-06-25T21:46:09Z"
+        },
+        "subject": "RBNZ says NZD remains elevated and that policy will stay accommodative for considerable period",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "rbnz-says-nzd-remains-elevated-and-that-policy-will-stay-accommodative-for-considerable-period-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-26 05:45:00",
+        "gmt_time": "2018-06-25 21:45:00"
+    },
+    {
+        "id": 663816,
+        "updated_sequence": 999431,
+        "published_at": {
+            "unix": 1529961900,
+            "text": "2018-06-25 22:25:00 +0100",
+            "iso_8601": "2018-06-25T21:25:00Z"
+        },
+        "updated_at": {
+            "unix": 1529976360,
+            "text": "2018-06-26 02:26:00 +0100",
+            "iso_8601": "2018-06-26T01:26:00Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p>ASIA-PAC</p>\r\n\r\n<p>China President Xi reportedly told CEOs he is to strike back at the US and warned executives there is no more turning the other cheek, which means American firms could face regulatory delays and consumer backlash. (WSJ)</p>\r\n\r\n<p>PBoC is to cut the re-lending rate for SME loans by 50bps. (Newswires)<br />&nbsp;</p>\r\n\r\n<p>UK</p>\r\n\r\n<p>UK PM May told EU&rsquo;s Tusk that the UK will provide more detail on their vision for the future EU relationship in a white paper after the June council, according to a statement. (Newswires)</p>\r\n\r\n<p><br />EU</p>\r\n\r\n<p>ECB&#39;s Vasiliauskas stated the ECB could start to discuss lifting short-term interest rates from autumn 2019. (WSJ)</p>\r\n\r\n<p>ECB&#39;s Coeure said ECB expects policy rates to remain unchanged until at least through the summer of 2019. (Newswires)<br /><br />S&amp;P raised Greece rating to B+; Outlook Stable from B; Outlook Positive. (Newswires)</p>\r\n\r\n<p><br />FX</p>\r\n\r\n<p>An adviser to Mexico presidential front runner Lopez Obrador said they will do all they can to strengthen the MXN and that the currency is currently undervalued, while the adviser added the government would look to do this by creating investor confidence conditions and not through market intervention. (Newswires)<br />&nbsp;</p>\r\n\r\n<p>COMMODITIES</p>\r\n\r\n<p>US Energy Secretary Perry said the US will do everything it can to keep gasoline prices reasonable, while he added that OPEC and Non-OPEC deal to boost output &quot;may be a little short of what is needed&quot;. (Newswires)</p>\r\n\r\n<p><br />US</p>\r\n\r\n<p>US Treasury Secretary Mnuchin said the reports on investment restrictions in Bloomberg &amp; WSJ are false and that statement will be out will not be specific to China but to all countries that are trying to steal US technology. (Newswires)</p>\r\n\r\n<p>White House Trade Advisor Navarro said the US has no plans to impose investment restrictions but will defend itself against threats to its technology, while Navarro also noted today&#39;s equity slide is an overreaction. (Newswires)<br />&nbsp;</p>\r\n\r\n<p>MARKET RECAP</p>\r\n\r\n<p>US equity futures traded lower today following negative sentiment provided by US President Trump who threatened a &lsquo;more than reciprocity&rsquo; response to countries with tariffs and trade barriers against the US, while reports that the Trump Administration was mulling fresh curbs on companies with at least 25% Chinese ownership from purchasing US companies that possess &ldquo;industrially significant technology&rdquo; also weighed on sentiment from the open, which was then exacerbated after US Treasury Secretary Mnuchin stated the reports were false and that &ldquo;statement will be out not specific to China, but to all countries that are trying to steal our technology,&rdquo; raising fears of widespread action. This led to the Emini trading below the 50dma for the first time since 9th of May before sliding through the 100dma at 2709 to 2700.50. Later, comments from White House Trade Advisor Navarro helped to pared some of the losses. In terms of sectors, tech bore the brunt of the selling action, after the Trump measures were said to largely take aim at chipmakers while Energy was hit as it tracked crude lower post-OPEC+ meeting. Utilities outperformed given their defensive nature, with the UTY ETF rising to flirt with its 200dma (hasn&rsquo;t crossed that mark since December). SPX -1.4%, NDX 100 -2.2%, DJIA -1.3%.</p>\r\n\r\n<p>While stocks (and havens) were clearly shaken by the ramping up of global trade war tensions, the Treasury complex was more sanguine ahead of this week&rsquo;s supply, with yields falling modestly across the curve, and major curve spreads were little changed (still, there was attention on 2s5s and 2s10s which ticked slightly lower to the flattest in over a decade). Some of the Treasury bid deflated, however, after conciliatory comments by White House Trade Advisor Navarro. US 10YR T-notes futures (Sep 2018) 6+ ticks higher at 120-01.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-asia-pac-opening-news-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-26 05:25:00",
+        "gmt_time": "2018-06-25 21:25:00"
+    },
+    {
+        "id": 663815,
+        "updated_sequence": 999359,
+        "published_at": {
+            "unix": 1529961540,
+            "text": "2018-06-25 22:19:00 +0100",
+            "iso_8601": "2018-06-25T21:19:00Z"
+        },
+        "updated_at": {
+            "unix": 1529961614,
+            "text": "2018-06-25 22:20:14 +0100",
+            "iso_8601": "2018-06-25T21:20:14Z"
+        },
+        "subject": "Copart (CPRT) to replace Dr. Pepper Snapple Group (DPS) in S&P 500",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "copart-cprt-to-replace-dr-pepper-snapple-group-dps-in-s-p-500-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-26 05:19:00",
+        "gmt_time": "2018-06-25 21:19:00"
+    },
+    {
+        "id": 663814,
+        "updated_sequence": 999356,
+        "published_at": {
+            "unix": 1529961480,
+            "text": "2018-06-25 22:18:00 +0100",
+            "iso_8601": "2018-06-25T21:18:00Z"
+        },
+        "updated_at": {
+            "unix": 1529961547,
+            "text": "2018-06-25 22:19:07 +0100",
+            "iso_8601": "2018-06-25T21:19:07Z"
+        },
+        "subject": "UK House of Commons votes 415 vs. 119 in favour of the Heathrow Airport expansion plan",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "uk-house-of-commons-votes-415-vs-119-in-favour-of-the-heathrow-airport-expansion-plan-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-26 05:18:00",
+        "gmt_time": "2018-06-25 21:18:00"
+    },
+    {
+        "id": 663813,
+        "updated_sequence": 999474,
+        "published_at": {
+            "unix": 1529961360,
+            "text": "2018-06-25 22:16:00 +0100",
+            "iso_8601": "2018-06-25T21:16:00Z"
+        },
+        "updated_at": {
+            "unix": 1529985196,
+            "text": "2018-06-26 04:53:16 +0100",
+            "iso_8601": "2018-06-26T03:53:16Z"
+        },
+        "subject": "UK government is to introduce contingency plan for outsourcers, which would facilitate a rapid transfer of critical services in the event of an emergency",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "uk-government-is-to-introduce-contingency-plan-for-outsourcers-which-would-facilitate-a-rapid-transfer-of-critical-services-in-the-event-of-an-emergency-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-26 05:16:00",
+        "gmt_time": "2018-06-25 21:16:00"
+    },
+    {
+        "id": 663812,
+        "updated_sequence": 999350,
+        "published_at": {
+            "unix": 1529960700,
+            "text": "2018-06-25 22:05:00 +0100",
+            "iso_8601": "2018-06-25T21:05:00Z"
+        },
+        "updated_at": {
+            "unix": 1529960901,
+            "text": "2018-06-25 22:08:21 +0100",
+            "iso_8601": "2018-06-25T21:08:21Z"
+        },
+        "subject": "RBNZ releases Statement of Intent in which it outlines priorities for next 3 years and Governor Orr stated that they will communicate more widely and ensure that the Monetary Policy Committee is effective and transparent ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "rbnz-releases-statement-of-intent-in-which-it-outlines-priorities-for-next-3-years-and-governor-orr-stated-that-they-will-communicate-more-widely-and-ensure-that-the-monetary-policy-committee-is-effective-and-transparent-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-26 05:05:00",
+        "gmt_time": "2018-06-25 21:05:00"
+    },
+    {
+        "id": 663709,
+        "updated_sequence": 999334,
+        "published_at": {
+            "unix": 1529960400,
+            "text": "2018-06-25 22:00:00 +0100",
+            "iso_8601": "2018-06-25T21:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1529960400,
+            "text": "2018-06-25 22:00:00 +0100",
+            "iso_8601": "2018-06-25T21:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-24-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-26 05:00:00",
+        "gmt_time": "2018-06-25 21:00:00"
+    },
+    {
+        "id": 663545,
+        "updated_sequence": 999335,
+        "published_at": {
+            "unix": 1529960400,
+            "text": "2018-06-25 22:00:00 +0100",
+            "iso_8601": "2018-06-25T21:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1529960400,
+            "text": "2018-06-25 22:00:00 +0100",
+            "iso_8601": "2018-06-25T21:00:00Z"
+        },
+        "subject": "US SERVICE IS NOW CLOSED, PLEASE SWITCH OVER TO THE ASIA CHANNEL",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-service-is-now-closed-please-switch-over-to-the-asia-channel-21-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-26 05:00:00",
+        "gmt_time": "2018-06-25 21:00:00"
+    },
+    {
+        "id": 663810,
+        "updated_sequence": 999344,
+        "published_at": {
+            "unix": 1529960340,
+            "text": "2018-06-25 21:59:00 +0100",
+            "iso_8601": "2018-06-25T20:59:00Z"
+        },
+        "updated_at": {
+            "unix": 1529960642,
+            "text": "2018-06-25 22:04:02 +0100",
+            "iso_8601": "2018-06-25T21:04:02Z"
+        },
+        "subject": "Boeing (BA) approves quarterly dividend of USD 1.71/Shr",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "boeing-ba-approves-quarterly-dividend-of-usd-1-71-shr-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-26 04:59:00",
+        "gmt_time": "2018-06-25 20:59:00"
+    },
+    {
+        "id": 663807,
+        "updated_sequence": 999331,
+        "published_at": {
+            "unix": 1529959020,
+            "text": "2018-06-25 21:37:00 +0100",
+            "iso_8601": "2018-06-25T20:37:00Z"
+        },
+        "updated_at": {
+            "unix": 1529959123,
+            "text": "2018-06-25 21:38:43 +0100",
+            "iso_8601": "2018-06-25T20:38:43Z"
+        },
+        "subject": "S&P raised Greece rating to B+; Outlook Stable from B; Outlook Positive",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "s-p-raised-greece-rating-to-b-outlook-stable-from-b-outlook-positive-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 24,
+            "name": "Rating Agency comments"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-26 04:37:00",
+        "gmt_time": "2018-06-25 20:37:00"
+    },
+    {
+        "id": 663806,
+        "updated_sequence": 999328,
+        "published_at": {
+            "unix": 1529957220,
+            "text": "2018-06-25 21:07:00 +0100",
+            "iso_8601": "2018-06-25T20:07:00Z"
+        },
+        "updated_at": {
+            "unix": 1529957220,
+            "text": "2018-06-25 21:07:00 +0100",
+            "iso_8601": "2018-06-25T20:07:00Z"
+        },
+        "subject": "US MARKET WRAP 25 June 2018: Stocks slammed as trade tensions intensify",
+        "content": "<p><strong>* SNAP-SHOT:&nbsp;Equities down, Treasuries up, DXY down, Crude down.<br />* REAR-VIEW: Trump administration mulls fresh trade measures; China to strike back.<br />* AHEAD: API inventories; US consumer confidence; Fed speak (Kaplan, Bostic); ECB speak (Coeure, de Guindos); BOE speak (McCafferty, Haskel).</strong></p>\r\n\r\n<p><strong>* TRADE: </strong>Weekend news that the Trump Administration was mulling fresh curbs on companies with at least 25% Chinese ownership from purchasing US companies that possess &ldquo;industrially significant technology&rdquo; weighed on sentiment (Specifically, it seems as though the US is set to target Chinese entities that are significant for the &ldquo;Made in 2025&rdquo; initiative). US Treasury Secretary Mnuchin weighed in, stating that the reports were false, adding that &ldquo;statement will be out not specific to China, but to all countries that are trying to steal our technology,&rdquo; raising fears of widespread action, not just aimed at China. Elsewhere, US energy secretary Perry said that the US must ensure that the domestic steel industry is not hit by global trade disputes. Later, China President Xi told CEO&rsquo;s he is to strike back at the US, the WSJ reported, and said there will be &lsquo;no more turning the cheek&rsquo; which means that US firms might face regulatory delays, or consumer backlash. However, later in the session, White House Trade Advisor Navarro said US has no plans to impose investment restrictions, but US will defend itself against threats to its technology; Navarro also notes today&#39;s equity slide is an overreaction.</p>\r\n\r\n<p><strong>* CENTRAL BANK SPEAKERS: </strong>ECB&#39;s Vasiliauskas stated that the ECB could start to discuss lifting short-term interest rates from Autumn 2019; ECB&#39;s Praet said prolonging the purchase of assets for 2019 is an option. BoJ&#39;s Sakurai says inflation is still very low despite full employment.</p>\r\n\r\n<p><strong>* SPX -1.4%, NDX 100 -2.2%, DJI &nbsp;-1.3%. </strong>SECTORS: Cons Cyclicals -2.2%, Cons Non-Cyclicals: +0.5%, Energy: -2.2%, Financials: -1.0%, Health Care:&nbsp; &nbsp;-0.9%, Industrials: -1.2%, Materials: -1.5%, Telecoms: -0.1%, Tech: -2.3%, Utilities: +1.7%.</p>\r\n\r\n<p><strong>* FUTURES: </strong>US equity futures traded lower today following negative sentiment provided by US President Trump who threatened a &lsquo;more than reciprocity&rsquo; response to countries with tariffs and trade barriers against the US. This with the aforementioned trade story led to the Emini trading below the 50dma for the first time since 9th of May. In afternoon trade, the ES attempted a test of the 50dma, which coincided with the weighted average moving price, though ultimately failed, seeing ES slide through the 100dma at 2709 to 2700.50. Later, comments from White House Trade Advisor Navarro helped to pared some of the losses, helping ES move back above 2720.</p>\r\n\r\n<p><strong>* SECTORS: </strong>Unsurprisingly, tech bore the brunt of the selling action, after the Trump measures were aid to largely take aim at chipmakers; and Energy was hit post-OPEC+ meeting, tracking crude lower. Utilities outperformed given their defensive nature, with the UTY ETF rising to flirt with its 200dma (hasn&rsquo;t crossed that mark since December).</p>\r\n\r\n<p><strong>* EARNINGS: </strong>Carnival (CCL) beat on both the top and bottom line, however it released Q3 guidance below analyst expectations. This saw the stock underperform In the SPX where it saw intraday losses of ~10%, and also hampered other cruise names, NCLH &amp; RCL. On tomorrow&rsquo;s earning docket we are expecting numbers from Lennar (LEN) &amp; IHS Markit (INFO).</p>\r\n\r\n<p><strong>* M&amp;A: </strong>Campbell Soup (CPB) outperformed the SPX index today following source reports that Kraft Heinz (KHC) and General Mills (GIS) may be considering a bid for the name. This was followed by further source reports which stated CPB have not yet hired bankers for any deal. In smaller equity stories, Education Realty Trust (EDR) is to be acquired by Greystar-led fund for USD 41.50/share in a USD 4.6 Billion Transaction. Also, Blackstone (BX) is to acquire EDR&rsquo;s student housing portfolio for USD 1.2bln. Finally, Gray Television (GTN) is to acquire Raycom Media for USD 3.65bln to create the single largest owner of top-rated local television stations and digital assets in the US.</p>\r\n\r\n<p><strong>* STOCK SPECIFICS: </strong>The European Union raised tariffs on imports of Harley Davidson (HOG) motorcycles from 6% to 31% in response to US tariffs on EU steel and aluminium. The motorcycle manufacturer said the move would have an immediate and lasting detrimental impact to its business in the region, and it will shift some production outside of the US due to the tariffs. Other stock specifics focused on broker moves; Microsoft (MSFT) was upgraded at Atlantic, and Kroger (KR) was downgraded at Pivotal Research.&nbsp;</p>\r\n\r\n<p><strong>* US 10YR T-NOTES FUTURES (SEP 2018) 6+&nbsp;TICKS HIGHER AT 120-01.</strong> While stocks (and havens) were clearly shaken by the ramping up of global trade war tensions, the Treasury complex was more sanguine ahead of this week&rsquo;s supply, with yields falling modestly across the curve, and major curve spreads were little changed (still, there was attention on 2s5s and 2s10s which ticked slightly lower to the flattest in over a decade). Some of the Treasury bid deflated, however, after conciliatory comments by White House Trade advisor Navarro.</p>\r\n\r\n<p><strong>* THIS WEEK&rsquo;S TREASURY SUPPLY: </strong>The US Treasury will this week auction USD 116bln in supply this week (USD 34bln of new 2s on Tuesday, USD 36bln of new 5s on Wednesday, USD 30bln in new 7s on Thursday, as well as USD 16bln of 2-year FRN on Tuesday). TD Securities notes that with USD 64.3bln maturing at the mid-month settlement, net supply is implied at USD 51.7bln. The bank also expected the Treasury to announce a further increase in auction sizes in the coming months, continuing to cheapen front-end Treasuries vs OIS. The 2s auction may be supported by the relative stability in Fed hike expectations, along with renewed fears about global trade wars. Recent auctions in the 2-year sector have been well received, with last month&rsquo;s sale seeing the largest stop-through since July 2017, and means that over the last six auctions, the stop-out rate has come in on the screws. However, although direct bidders&rsquo; participation has been fairly stable, dealer takedown has been nudging up, while indirect participation has been edging down.</p>\r\n\r\n<p><strong>* WTI FUTURES (Q8) SETTLE 50c LOWER&nbsp; AT $68.08/BBL; BRENT (Q8) FUTURES SETTLE 82c LOWER AT $74.73/BBL. </strong>Markets continue to digest the outcomes of the OPEC/OPEC+ &lsquo;deal&rsquo;, with continued confusion on exactly how much supply will be released. The market has chosen to take the spirit of the forward guidance as a whole &ndash; Saudi&rsquo;s will do whatever is necessary to ensure the market remains balanced, and its oil minister said it would be troubling if the rise in oil prices became a trend; and accordingly, crude fell (more Brent than WTI) and backwardations narrowed. The Saudis and Russians have suggested a rise of 1mln BPD would be seen but, for what it is worth, most analysts have come to a consensus that the cartel is now targeting compliance, seeking a return back to 100%, which would see a &lsquo;net&rsquo; increase around 600k BPD from OPEC; it would, however, entail a production cut from non-OPEC, which UBS estimates is running at a 54% compliance rate, based on May 2018 numbers). On Monday, US energy secretary Perry said the oil market is stressed from the standpoint of supply, stating that the US will do everything it can to ensure gasoline prices are reasonable. On the OPEC/Non-OPEC deal, Perry said it fell short of what was needed. Following the recent conflict at Libyan oil ports, a Haftar spokesman stated they are to hand over control of the eastern ports to the NOC.</p>\r\n\r\n<p><strong>* INVENTORY EXPECTATIONS: </strong>This week, analysts expect crude stocks to draw by 2.5mln barrels, stocks at Cushing are seen drawing by 2.25mln, gasoline is expected to build by 1.2mln, while stocks of distillates are seen building by 600k.</p>\r\n\r\n<p><strong>* DXY: </strong>The index has marginally extended the downside of its range to sub-94.300 vs 94.700 at the other extreme and the broad Dollar is ending the first EU trading day of the week on a mixed footing having held gains vs all its G10 counterparts bar the safest of safe-havens earlier. US-specific macro impulses rather contrasting and not really impacting, but for the record the national activity index slipped below par, while home sales came in considerably better than forecast.</p>\r\n\r\n<p><strong>* JPY: </strong>The Japanese currency was in demand amid the demand for haven assets in wake of a ramping up of trade war rhetoric. The yen was supported by declining Treasury yields (albeit slight) but also gained as US equities slipped, particularly in the latter part of the US day, as the APAC session came into focus. Navarro comments in late trade helped USDJPY move back to neutral for the day, however.</p>\r\n\r\n<p><strong>* EUR: </strong>The single currency moved back above 1.17 for the first time since the ECB&rsquo;s policy meeting in mid-June, largely as a result of a sliding Greenback. EUR shrugged off a mixed German Ifo survey, but found some technical traction to climb over its 21 DMA (1.1673) and test multi-resistance points around 1.1680. 1.17 was still holding following positive comments from Navarro, that appeared to play down the WSJ reports, though is being tested strongly.</p>\r\n\r\n<p><strong>* GBP: </strong>Cable bounced from the low 1.3220 area towards 1.3300, but faded amidst ongoing Brexit uncertainty and press reports highlighting rebellions against UK PM May. GBP had another look to try and print fresh HOD after reports that PM May told the EU&rsquo;s Tusk that the UK will release in a white paper its vision for the post-Brexit relationship with the EU, though it will be published after the June Council meeting. GBP&rsquo;s gains against the EUR after the headline hit were fleeting, given the single currency was itself testing HOD against the buck at the time. 1.33 remains the focus, but the level hasn&rsquo;t been tested in US trade.&nbsp;</p>\r\n\r\n<p><strong>* NZD, CAD, AUD: </strong>All casualties of the heightened global protectionism dynamic, with the Kiwi unable to maintain 0.6900 vs its US peer, the Loonie back below 1.3300 and AUD looking vulnerable around 0.7400 again.</p>\r\n\r\n<p><strong>* TRY: </strong>The Lira&rsquo;s trading range was wide in wake of its Presidential election over the weekend, which saw the incumbent Erdogan&rsquo;s AKP win another term without the need for a second vote. The knee jerk was for TRY strength against the USD, falling to lows above 4.54, though gains were pared as the session progressed, with participants refocussing on the more activist role that the President will play in monetary policy, as he pledged to do so in his campaign; Erdogan favours low rates at a time when the Lira &ndash; and EMs in general &ndash; have come under pressure, seeing inflation rise in recent months.</p>\r\n\r\n<p><strong>* MXN: </strong>The peso has advanced to under 20 against the dollar, after an advisor to Lopez Obrador, the leading candidate in the upcoming Presidential elections, said that AMLO will do all he can to strengthen the peso, which he said was currently undervalued. The advisor talked about the need to create the conditions for investor confidence, and not via market interventions.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "us-market-wrap-25-june-2018-stocks-slammed-as-trade-tensions-intensify-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-26 04:07:00",
+        "gmt_time": "2018-06-25 20:07:00"
+    },
+    {
+        "id": 663805,
+        "updated_sequence": 999325,
+        "published_at": {
+            "unix": 1529956860,
+            "text": "2018-06-25 21:01:00 +0100",
+            "iso_8601": "2018-06-25T20:01:00Z"
+        },
+        "updated_at": {
+            "unix": 1529956879,
+            "text": "2018-06-25 21:01:19 +0100",
+            "iso_8601": "2018-06-25T20:01:19Z"
+        },
+        "subject": "ECB's Coeure says ECB expects policy rates to remain unchanged until at least through the summer of 2019",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "ecb-s-coeure-says-ecb-expects-policy-rates-to-remain-unchanged-until-at-least-through-the-summer-of-2019-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 17,
+            "name": "ECB"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-26 04:01:00",
+        "gmt_time": "2018-06-25 20:01:00"
+    },
+    {
+        "id": 663804,
+        "updated_sequence": 999322,
+        "published_at": {
+            "unix": 1529955360,
+            "text": "2018-06-25 20:36:00 +0100",
+            "iso_8601": "2018-06-25T19:36:00Z"
+        },
+        "updated_at": {
+            "unix": 1529955428,
+            "text": "2018-06-25 20:37:08 +0100",
+            "iso_8601": "2018-06-25T19:37:08Z"
+        },
+        "subject": "White House Trade Advisor Navarro says US has no plans to impose investment restrictions, but US will defend itself against threats to its technology; Navarro also notes today's equity slide is an overreaction",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "white-house-trade-advisor-navarro-says-us-has-no-plans-to-impose-investment-restrictions-but-us-will-defend-itself-against-threats-to-its-technology-navarro-also-notes-today-s-equity-slide-is-an-overreaction-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-26 03:36:00",
+        "gmt_time": "2018-06-25 19:36:00"
+    },
+    {
+        "id": 663803,
+        "updated_sequence": 999317,
+        "published_at": {
+            "unix": 1529951460,
+            "text": "2018-06-25 19:31:00 +0100",
+            "iso_8601": "2018-06-25T18:31:00Z"
+        },
+        "updated_at": {
+            "unix": 1529952076,
+            "text": "2018-06-25 19:41:16 +0100",
+            "iso_8601": "2018-06-25T18:41:16Z"
+        },
+        "subject": "WTI crude futures (Q8) settle 50c lower at USD 68.08; Brent crude futures settle 82c lower at USD 74.73",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<p>Markets continue to digest the outcomes of the OPEC/OPEC+ &lsquo;deal&rsquo;, with continued confusion on exactly how much supply will be released. The market has chosen to take the spirit of the forward guidance as a whole &ndash; Saudi&rsquo;s will do whatever is necessary to ensure the market remains balanced, and its oil minister said it would be troubling if the rise in oil prices became a trend; and accordingly, crude fell (more Brent than WTI) and backwardations narrowed. The Saudis and Russians have suggested a rise of 1mln BPD would be seen but, for what it is worth, most analysts have come to a consensus that the cartel is now targeting compliance, seeking a return back to 100%, which would see a &lsquo;net&rsquo; increase around 600k BPD from OPEC; it would, however, entail a production cut from non-OPEC, which UBS estimates is running at a 54% compliance rate, based on May 2018 numbers). On Monday, US energy secretary Perry said the oil market is stressed from the standpoint of supply, stating that the US will do everything it can to ensure gasoline prices are reasonable. On the OPEC/Non-OPEC deal, Perry said it fell short of what was needed. Following the recent conflict at Libyan oil ports, a Haftar spokesman stated they are to hand over control of the eastern ports to the NOC.</p>\r\n\r\n<p>API&rsquo;s: This week, analysts expect crude stocks to draw by 2.5mln barrels, stocks at Cushing are seen drawing by 2.25mln, gasoline is expected to build by 1.2mln, while stocks of distillates are seen building by 600k.</p>\r\n",
+        "analysis_updated_at": {
+            "unix": 1529951580,
+            "text": "2018-06-25 19:33:00 +0100",
+            "iso_8601": "2018-06-25T18:33:00Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "wti-crude-futures-q8-settle-50c-lower-at-usd-68-08-brent-crude-futures-settle-82c-lower-at-usd-74-73-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 20,
+            "name": "Commodities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-26 02:31:00",
+        "gmt_time": "2018-06-25 18:31:00"
+    },
+    {
+        "id": 663802,
+        "updated_sequence": 999309,
+        "published_at": {
+            "unix": 1529949840,
+            "text": "2018-06-25 19:04:00 +0100",
+            "iso_8601": "2018-06-25T18:04:00Z"
+        },
+        "updated_at": {
+            "unix": 1529949944,
+            "text": "2018-06-25 19:05:44 +0100",
+            "iso_8601": "2018-06-25T18:05:44Z"
+        },
+        "subject": "UK PM May told EU’s Tusk that the UK will provide more detail on their vision for the future EU relationship in a white paper after the June council, according to a UK statement \t",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "uk-pm-may-told-eu-s-tusk-that-the-uk-will-provide-more-detail-on-their-vision-for-the-future-eu-relationship-in-a-white-paper-after-the-june-council-according-to-a-uk-statement-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 38,
+            "name": "Brexit"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-26 02:04:00",
+        "gmt_time": "2018-06-25 18:04:00"
+    },
+    {
+        "id": 663801,
+        "updated_sequence": 999306,
+        "published_at": {
+            "unix": 1529948280,
+            "text": "2018-06-25 18:38:00 +0100",
+            "iso_8601": "2018-06-25T17:38:00Z"
+        },
+        "updated_at": {
+            "unix": 1529948354,
+            "text": "2018-06-25 18:39:14 +0100",
+            "iso_8601": "2018-06-25T17:39:14Z"
+        },
+        "subject": "Forces of Eastern Libyan commander Haftar are to hand the control of Eastern Libyan oil ports over to NOC, the state oil firm, according to a Haftar spokesman",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "forces-of-eastern-libyan-commander-haftar-are-to-hand-the-control-of-eastern-libyan-oil-ports-over-to-noc-the-state-oil-firm-according-to-a-haftar-spokesman-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 20,
+            "name": "Commodities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-26 01:38:00",
+        "gmt_time": "2018-06-25 17:38:00"
+    },
+    {
+        "id": 663800,
+        "updated_sequence": 999303,
+        "published_at": {
+            "unix": 1529947320,
+            "text": "2018-06-25 18:22:00 +0100",
+            "iso_8601": "2018-06-25T17:22:00Z"
+        },
+        "updated_at": {
+            "unix": 1529947405,
+            "text": "2018-06-25 18:23:25 +0100",
+            "iso_8601": "2018-06-25T17:23:25Z"
+        },
+        "subject": "Boardwalk Pipeline Partners (BWP) spikes on reports it is nearing settlement on Loews buyout lawsuit",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "boardwalk-pipeline-partners-bwp-spikes-on-reports-it-is-nearing-settlement-on-loews-buyout-lawsuit-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-26 01:22:00",
+        "gmt_time": "2018-06-25 17:22:00"
+    },
+    {
+        "id": 663799,
+        "updated_sequence": 999300,
+        "published_at": {
+            "unix": 1529945520,
+            "text": "2018-06-25 17:52:00 +0100",
+            "iso_8601": "2018-06-25T16:52:00Z"
+        },
+        "updated_at": {
+            "unix": 1529945574,
+            "text": "2018-06-25 17:52:54 +0100",
+            "iso_8601": "2018-06-25T16:52:54Z"
+        },
+        "subject": "SoftBank mobile unit to file for IPO as soon as July, Nikkei reports",
+        "content": "",
+        "reaction_details": "<p>Negative ticks for T-Mobile (TMUS) on the headline</p>\r\n",
+        "reaction_updated_at": {
+            "unix": 1529945574,
+            "text": "2018-06-25 17:52:54 +0100",
+            "iso_8601": "2018-06-25T16:52:54Z"
+        },
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Nikkei",
+        "slug": "softbank-mobile-unit-to-file-for-ipo-as-soon-as-july-nikkei-reports-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 34,
+            "name": "Global Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-26 00:52:00",
+        "gmt_time": "2018-06-25 16:52:00"
+    },
+    {
+        "id": 663799,
+        "updated_sequence": 999300,
+        "published_at": {
+            "unix": 1529945520,
+            "text": "2018-06-25 17:52:00 +0100",
+            "iso_8601": "2018-06-25T16:52:00Z"
+        },
+        "updated_at": {
+            "unix": 1529945574,
+            "text": "2018-06-25 17:52:54 +0100",
+            "iso_8601": "2018-06-25T16:52:54Z"
+        },
+        "subject": "SoftBank mobile unit to file for IPO as soon as July, Nikkei reports",
+        "content": "",
+        "reaction_details": "<p>Negative ticks for T-Mobile (TMUS) on the headline</p>\r\n",
+        "reaction_updated_at": {
+            "unix": 1529945574,
+            "text": "2018-06-25 17:52:54 +0100",
+            "iso_8601": "2018-06-25T16:52:54Z"
+        },
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Nikkei",
+        "slug": "softbank-mobile-unit-to-file-for-ipo-as-soon-as-july-nikkei-reports-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 34,
+            "name": "Global Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-26 00:52:00",
+        "gmt_time": "2018-06-25 16:52:00"
+    },
+    {
+        "id": 663798,
+        "updated_sequence": 999297,
+        "published_at": {
+            "unix": 1529944800,
+            "text": "2018-06-25 17:40:00 +0100",
+            "iso_8601": "2018-06-25T16:40:00Z"
+        },
+        "updated_at": {
+            "unix": 1529944851,
+            "text": "2018-06-25 17:40:51 +0100",
+            "iso_8601": "2018-06-25T16:40:51Z"
+        },
+        "subject": "Najarian Brothers mention unusual option activity in Omnicom (OMC) on CNBC",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "najarian-brothers-mention-unusual-option-activity-in-omnicom-omc-on-cnbc-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-26 00:40:00",
+        "gmt_time": "2018-06-25 16:40:00"
+    },
+    {
+        "id": 663797,
+        "updated_sequence": 999294,
+        "published_at": {
+            "unix": 1529943840,
+            "text": "2018-06-25 17:24:00 +0100",
+            "iso_8601": "2018-06-25T16:24:00Z"
+        },
+        "updated_at": {
+            "unix": 1529944543,
+            "text": "2018-06-25 17:35:43 +0100",
+            "iso_8601": "2018-06-25T16:35:43Z"
+        },
+        "subject": "Lopez Obrador advisor says they will do all it can to strengthen the MXN, and says it is currently undervalued. The government would look to do this by creating investor confidence conditions, and not through market intervention ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "lopez-obrador-advisor-says-they-will-do-all-it-can-to-strengthen-the-mxn-and-says-it-is-currently-undervalued-the-government-would-look-to-do-this-by-creating-investor-confidence-conditions-and-not-through-market-intervention-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-26 00:24:00",
+        "gmt_time": "2018-06-25 16:24:00"
+    },
+    {
+        "id": 663796,
+        "updated_sequence": 999289,
+        "published_at": {
+            "unix": 1529941500,
+            "text": "2018-06-25 16:45:00 +0100",
+            "iso_8601": "2018-06-25T15:45:00Z"
+        },
+        "updated_at": {
+            "unix": 1529941737,
+            "text": "2018-06-25 16:48:57 +0100",
+            "iso_8601": "2018-06-25T15:48:57Z"
+        },
+        "subject": "China President Xi has told CEO’s he is to strike back at the US, according to WSJ",
+        "content": "<ul><li><a href=\"https://www.wsj.com/articles/chinas-xi-tells-ceos-hell-strike-back-at-u-s-1529941334\">Click here for link</a></li>\r\n  <li>Warns executives there is no more turning the other cheek, which means american firms could face regulatory delays and consumer backlash&nbsp;</li>\r\n</ul>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "WSJ",
+        "slug": "china-president-xi-has-told-ceo-s-he-is-to-strike-back-at-the-us-according-to-wsj-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 23:45:00",
+        "gmt_time": "2018-06-25 15:45:00"
+    },
+    {
+        "id": 663794,
+        "updated_sequence": 999277,
+        "published_at": {
+            "unix": 1529940780,
+            "text": "2018-06-25 16:33:00 +0100",
+            "iso_8601": "2018-06-25T15:33:00Z"
+        },
+        "updated_at": {
+            "unix": 1529940878,
+            "text": "2018-06-25 16:34:38 +0100",
+            "iso_8601": "2018-06-25T15:34:38Z"
+        },
+        "subject": "Citron research has called PolarityTE (COOL) a fraud",
+        "content": "<ul><li><a href=\"https://citronresearch.com/citron-exposes-history-of-fraud-behind-polarityte/\">Click here for link</a></li>\r\n</ul>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Citron",
+        "slug": "citron-research-has-called-polarityte-cool-a-fraud-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 23:33:00",
+        "gmt_time": "2018-06-25 15:33:00"
+    },
+    {
+        "id": 663795,
+        "updated_sequence": 999280,
+        "published_at": {
+            "unix": 1529940600,
+            "text": "2018-06-25 16:30:00 +0100",
+            "iso_8601": "2018-06-25T15:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1529941194,
+            "text": "2018-06-25 16:39:54 +0100",
+            "iso_8601": "2018-06-25T15:39:54Z"
+        },
+        "subject": "EUROPEAN PRELIMINARY CASH EQUITY CLOSE: EURO STOXX 50 (-1.90%), FTSE 100 (-2.27%), DAX (-2.43%), CAC (-1.92%), IBEX (-1.74%), FTSE MIB (-2.36%), SMI (-1.85%) ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "european-preliminary-cash-equity-close-euro-stoxx-50-1-90-ftse-100-2-27-dax-2-43-cac-1-92-ibex-1-74-ftse-mib-2-36-smi-1-85-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 33,
+            "name": "European Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 23:30:00",
+        "gmt_time": "2018-06-25 15:30:00"
+    },
+    {
+        "id": 663793,
+        "updated_sequence": 999268,
+        "published_at": {
+            "unix": 1529938140,
+            "text": "2018-06-25 15:49:00 +0100",
+            "iso_8601": "2018-06-25T14:49:00Z"
+        },
+        "updated_at": {
+            "unix": 1529938292,
+            "text": "2018-06-25 15:51:32 +0100",
+            "iso_8601": "2018-06-25T14:51:32Z"
+        },
+        "subject": "US Energy Secretary Perry says the US will do everything they can to keep gasoline prices reasonable, adds that OPEC and Non-OPEC deal to boost output \"may be a little short of what is needed\"",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-energy-secretary-perry-says-the-us-will-do-everything-they-can-to-keep-gasoline-prices-reasonable-adds-that-opec-and-non-opec-deal-to-boost-output-may-be-a-little-short-of-what-is-needed-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 20,
+            "name": "Commodities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 22:49:00",
+        "gmt_time": "2018-06-25 14:49:00"
+    },
+    {
+        "id": 663792,
+        "updated_sequence": 999270,
+        "published_at": {
+            "unix": 1529937840,
+            "text": "2018-06-25 15:44:00 +0100",
+            "iso_8601": "2018-06-25T14:44:00Z"
+        },
+        "updated_at": {
+            "unix": 1529938304,
+            "text": "2018-06-25 15:51:44 +0100",
+            "iso_8601": "2018-06-25T14:51:44Z"
+        },
+        "subject": "US Treasury Secretary Mnuchin says the stories on investment restrictions in Bloomberg & WSJ are false, Statement will be out not specific to China, but to all countries that are trying to steal our technology.",
+        "content": "<ul><li><a href=\"https://twitter.com/stevenmnuchin1/status/1011258207182966786\">Click here for tweet</a></li>\r\n  <li>Says:&nbsp;</li>\r\n  <li>The leaker either doesn&rsquo;t exist or know the subject very well. Statement will be out not specific to China, but to all countries that are trying to steal our technology.</li>\r\n</ul>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<p>This comes after reports in WSJ stated&nbsp;US President Trump is said to be planning new restrictions on tech exports to China and Chinese investment with an announcement expected by end of the week. Furthermore, repots stated the US Treasury is devising rules to block firms with 25% Chinese ownership from acquiring companies involved in industrially significant technologies and that it plans using International Emergency Economic Powers Act 1977 to impose investment restrictions.</p>\r\n",
+        "analysis_updated_at": {
+            "unix": 1529937960,
+            "text": "2018-06-25 15:46:00 +0100",
+            "iso_8601": "2018-06-25T14:46:00Z"
+        },
+        "push_notify": false,
+        "source": "Twitter",
+        "slug": "us-treasury-secretary-mnuchin-says-the-stories-on-investment-restrictions-in-bloomberg-wsj-are-false-statement-will-be-out-not-specific-to-china-but-to-all-countries-that-are-trying-to-steal-our-technology-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 22:44:00",
+        "gmt_time": "2018-06-25 14:44:00"
+    },
+    {
+        "id": 663790,
+        "updated_sequence": 999245,
+        "published_at": {
+            "unix": 1529937000,
+            "text": "2018-06-25 15:30:00 +0100",
+            "iso_8601": "2018-06-25T14:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1529937054,
+            "text": "2018-06-25 15:30:54 +0100",
+            "iso_8601": "2018-06-25T14:30:54Z"
+        },
+        "subject": "Daily FX Wrap: relatively rangebound, but mostly risk-off Monday session",
+        "content": "<p>DXY</p>\r\n\r\n<p>The index has marginally extended the downside of its range to sub-94.300 vs 94.700 at the other extreme and the broad Dollar is ending the first EU trading day of the week on a mixed footing having held gains vs all its G10 counterparts bar the safest of safe-havens earlier. US-specific macro impulses rather contrasting and not really impacting, but for the record the national activity index slipped below par, while home sales came in considerably better than forecast.&nbsp;</p>\r\n\r\n<p>JPY&nbsp; &nbsp;&nbsp;</p>\r\n\r\n<p>Maintained pole position throughout on ramped up US trade and investment proposals (threats) vs China, which are almost guaranteed to garner a response and prompted another bout of risk aversion to overshadow any positivity emanating from the PBoC&rsquo;s targeted RRR cut over the weekend. However, having pulled back from above 110.00 to sub-109.50 at one stage, the pair oscillated in an even tighter range around 109.50 and close to a key (Fib) chart pivot.</p>\r\n\r\n<p>EUR/GBP</p>\r\n\r\n<p>Both choppy vs the Greenback and weaker in early exchanges before regaining composure and probing higher. The single currency largely shrugged off a mixed German Ifo survey, but found some technical traction to climb over its 21 DMA (1.1673) and test multi-resistance points around 1.1681 after a fleeting look at 1.1700. Similarly, Cable bounced from the low 1.3220 area towards 1.3300, but faded amidst ongoing Brexit uncertainty and press reports highlighting rebellions against UK PM May.</p>\r\n\r\n<p>NZD/CAD/AUD</p>\r\n\r\n<p>All casualties of the heightened global protectionism dynamic, with the Kiwi unable to maintain 0.6900 vs its US peer, the Loonie back below 1.3300 and Aud looking vulnerable around 0.7400 again.</p>\r\n\r\n<p>TRY</p>\r\n\r\n<p>A real roller-coaster ride for the Lira with the weekend elections showing clear victory for President Erdogan and the prospect of 2nd counts negated initially greeted warmly by speculators. However, the euphoria did not last long as Usd/Try rebounded sharply back over 4.7200 from just below 4.5400 amidst ongoing economic and fiscal malaise.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "ransquawk",
+        "slug": "daily-fx-wrap-relatively-rangebound-but-mostly-risk-off-monday-session-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 22:30:00",
+        "gmt_time": "2018-06-25 14:30:00"
+    },
+    {
+        "id": 663789,
+        "updated_sequence": 999242,
+        "published_at": {
+            "unix": 1529936220,
+            "text": "2018-06-25 15:17:00 +0100",
+            "iso_8601": "2018-06-25T14:17:00Z"
+        },
+        "updated_at": {
+            "unix": 1529936337,
+            "text": "2018-06-25 15:18:57 +0100",
+            "iso_8601": "2018-06-25T14:18:57Z"
+        },
+        "subject": "Eutelsat (ETL FP) confirms they are currently looking at possible offers for Inmarsat (ISAT LN)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "eutelsat-etl-fp-confirms-they-are-currently-looking-at-possible-offers-for-inmarsat-isat-ln-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 33,
+            "name": "European Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 22:17:00",
+        "gmt_time": "2018-06-25 14:17:00"
+    },
+    {
+        "id": 663788,
+        "updated_sequence": 999239,
+        "published_at": {
+            "unix": 1529935860,
+            "text": "2018-06-25 15:11:00 +0100",
+            "iso_8601": "2018-06-25T14:11:00Z"
+        },
+        "updated_at": {
+            "unix": 1529936113,
+            "text": "2018-06-25 15:15:13 +0100",
+            "iso_8601": "2018-06-25T14:15:13Z"
+        },
+        "subject": "US Supreme Court backs American Express (AXP) on credit card merchant fees",
+        "content": "",
+        "reaction_details": "<ul><li>In an immediate reaction, company shares spiked higher&nbsp;from USD 95.75 to USD 99.90</li>\r\n</ul>\r\n",
+        "reaction_updated_at": {
+            "unix": 1529936113,
+            "text": "2018-06-25 15:15:13 +0100",
+            "iso_8601": "2018-06-25T14:15:13Z"
+        },
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-supreme-court-backs-american-express-axp-on-credit-card-merchant-fees-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 22:11:00",
+        "gmt_time": "2018-06-25 14:11:00"
+    },
+    {
+        "id": 663781,
+        "updated_sequence": 999205,
+        "published_at": {
+            "unix": 1529933400,
+            "text": "2018-06-25 14:30:00 +0100",
+            "iso_8601": "2018-06-25T13:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1529933497,
+            "text": "2018-06-25 14:31:37 +0100",
+            "iso_8601": "2018-06-25T13:31:37Z"
+        },
+        "subject": "Fixed and FX latest: bonds decoupling, DXY dipping again ",
+        "content": "<p>Bunds and Gilts have now both turned full circle from early session safe-haven highs to trade a few ticks below parity and just off new session bases at 162.02 and 122.60 respectively, as core debt continues to detach from traditional inverse-correlations and risk-on/off dynamics. However, the broad Usd remains depressed ahead of new home sales data and post the national activity index that fell into negative territory, with Eur/Usd recently through several chart resistance points to test 1.1700, albeit briefly.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "fixed-and-fx-latest-bonds-decoupling-dxy-dipping-again-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 21:30:00",
+        "gmt_time": "2018-06-25 13:30:00"
+    },
+    {
+        "id": 663780,
+        "updated_sequence": 999192,
+        "published_at": {
+            "unix": 1529932860,
+            "text": "2018-06-25 14:21:00 +0100",
+            "iso_8601": "2018-06-25T13:21:00Z"
+        },
+        "updated_at": {
+            "unix": 1529933004,
+            "text": "2018-06-25 14:23:24 +0100",
+            "iso_8601": "2018-06-25T13:23:24Z"
+        },
+        "subject": "Eutelsat (ETL FP) is said to be considering a takeover for Inmarsat (ISAT LN)",
+        "content": "",
+        "reaction_details": "<ul><li>In reaction to the news Inmarsat shares spiked higher from GBP 5.97 to GBP 6.23 while Eutelsat shares moved lower from EUR 17.85 to EUR 17.57.&nbsp;</li>\r\n</ul>\r\n",
+        "reaction_updated_at": {
+            "unix": 1529933003,
+            "text": "2018-06-25 14:23:23 +0100",
+            "iso_8601": "2018-06-25T13:23:23Z"
+        },
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "eutelsat-etl-fp-is-said-to-be-considering-a-takeover-for-inmarsat-isat-ln-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 33,
+            "name": "European Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 21:21:00",
+        "gmt_time": "2018-06-25 13:21:00"
+    },
+    {
+        "id": 663779,
+        "updated_sequence": 999186,
+        "published_at": {
+            "unix": 1529932500,
+            "text": "2018-06-25 14:15:00 +0100",
+            "iso_8601": "2018-06-25T13:15:00Z"
+        },
+        "updated_at": {
+            "unix": 1529932633,
+            "text": "2018-06-25 14:17:13 +0100",
+            "iso_8601": "2018-06-25T13:17:13Z"
+        },
+        "subject": "Carnival (CCL LN) Q2 Adj. EPS USD 0.78 vs. Exp. USD 0.60, revenue USD 4.4bln vs. Exp. USD 4.32bln Q2",
+        "content": "<ul><li>Sees Q3 EPS USD 0.2.25-2.29 vs. Exp. USD 2.47.</li>\r\n</ul>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "carnival-ccl-ln-q2-adj-eps-usd-0-78-vs-exp-usd-0-60-revenue-usd-4-4bln-vs-exp-usd-4-32bln-q2-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 21:15:00",
+        "gmt_time": "2018-06-25 13:15:00"
+    },
+    {
+        "id": 663778,
+        "updated_sequence": 999178,
+        "published_at": {
+            "unix": 1529931540,
+            "text": "2018-06-25 13:59:00 +0100",
+            "iso_8601": "2018-06-25T12:59:00Z"
+        },
+        "updated_at": {
+            "unix": 1529931611,
+            "text": "2018-06-25 14:00:11 +0100",
+            "iso_8601": "2018-06-25T13:00:11Z"
+        },
+        "subject": "BoJ's Sakurai says inflation is still very low despite full employment",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "boj-s-sakurai-says-inflation-is-still-very-low-despite-full-employment-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 14,
+            "name": "BoJ"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 20:59:00",
+        "gmt_time": "2018-06-25 12:59:00"
+    },
+    {
+        "id": 663777,
+        "updated_sequence": 999202,
+        "published_at": {
+            "unix": 1529931480,
+            "text": "2018-06-25 13:58:00 +0100",
+            "iso_8601": "2018-06-25T12:58:00Z"
+        },
+        "updated_at": {
+            "unix": 1529933324,
+            "text": "2018-06-25 14:28:44 +0100",
+            "iso_8601": "2018-06-25T13:28:44Z"
+        },
+        "subject": "Additional US Equity Stories: LMT",
+        "content": "<ul><li>Lockheed Martin (LMT) wins USD 1.2bln contract to build 70 F16 Block aircraft for Bahrain. (Newswires)</li>\r\n  <li>Campbell Soup (CPB) - Co. has not yet hired bankers for any deal, according to sources. (CNBC)</li>\r\n  <li>General Electric (GE) - Advent confirms they are to purchases GE&#39;s industrial gas engines business for USD 3.25bln. (Newswires)</li>\r\n</ul>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "additional-us-equity-stories-lmt-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 20:58:00",
+        "gmt_time": "2018-06-25 12:58:00"
+    },
+    {
+        "id": 663776,
+        "updated_sequence": 999200,
+        "published_at": {
+            "unix": 1529931240,
+            "text": "2018-06-25 13:54:00 +0100",
+            "iso_8601": "2018-06-25T12:54:00Z"
+        },
+        "updated_at": {
+            "unix": 1529933224,
+            "text": "2018-06-25 14:27:04 +0100",
+            "iso_8601": "2018-06-25T13:27:04Z"
+        },
+        "subject": "RANsquawk Daily US Equity Opening News - 25th June 2018 Campbell Soup (CPB) – Kraft Heinz (KHC) is said to be interested in buying Campbell Soup. A source believes CPB will begin the sales process soon. General Mills (GIS) also seen as a possible buyer",
+        "content": "<p>To download the report, please click <a href=\"/research_sheets/19470/download\">here</a><br />If you would like to subscribe to receive the research sheets directly in your inbox, you can now do so under the <a href=\"/research_sheets\">Research Suite</a> section of the portal.<br />To subscribe simply check the box next to &quot;Email these reports&quot; under the desired category.</p>\r\n\r\n<ul><li>Campbell Soup (CPB) &ndash; Kraft Heinz (KHC) is said to be interested in buying Campbell Soup. A source believes CPB will begin the sales process soon. General Mills (GIS) also seen as a possible buyer.</li>\r\n  <li>MICROSOFT (MSFT) UPGRADED TO OVERWEIGHT FROM NEUTRAL AT ATLANTIC EQUITIES</li>\r\n  <li>KROGER (KR) DOWNGRADED TO HOLD FROM BUY AT PIVOTAL RESEARCH</li>\r\n</ul>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>DJIA</p>\r\n\r\n<ul><li>Boeing (BA) &ndash; South Korean military selects Boeing to supply maritime patrol aircraft in a 1.9 trillion won deal (USD 1.52bln). Separately, after last week taking its first delivery of 150 737 MAX aircraft, India&rsquo;s Jet Airways is set to buy an additional 75 units of the model. (Newswires)</li>\r\n  <li>ExxonMobil (XOM) &ndash; The energy firm will not submit a claim for lost revenue due to the Dutch government&rsquo;s moves to halt gas production at the Groningen gas field by 2030, Dutch economy ministry said. (Newswires)</li>\r\n  <li>General Electric (GE) &ndash; GE said to be close to selling its industrial gas engines business to private equity firm Advent International; could fetch USD 3bln, reports WSJ citing sources. (WSJ)</li>\r\n  <li>Intel (INTC) &ndash; Analysts say the chipmaker&rsquo;s ongoing issues regarding its next generation chips will allow competitors Advanced Micro Devices (AMD) and Qualcomm (QCOM) to challenge its dominant position in shrinking circuitry on its chips, WSJ reports. (WSJ)</li>\r\n  <li>JPMorgan (JPM) &ndash; Big banks are set to get the green light from the Fed to raise dividends and share repurchases. Barron&rsquo;s reports that JPM could raise its dividend by around 50%. Separately, a subsidiary of JPMorgan agrees to sell its minority stake in Saudi Investment Bank for USD 203mln. (Barron&rsquo;s)</li>\r\n  <li>Pfizer (PFE) &ndash; Australia&rsquo;s competition regulators seek ruling from Australia&rsquo;s High Court on whether the drug maker used its market power to limit competition for cholesterol drug Lipitor. (Newswires)</li>\r\n</ul>\r\n\r\n<p>S&amp;P500</p>\r\n\r\n<ul><li>US companies (SPX, SPY) &ndash; US President Trump said to plan new curbs on Chinese investment in US companies and would block firms with at least 25% Chinese ownership from acquiring companies considered &ldquo;industrially significant&rdquo;. (Newswires)</li>\r\n  <li>Amazon (AMZN), Berkshire Hathaway (BRKA, BRKB), JPMorgan (JPM) &ndash; The venture formed by the three companies is set to take aim at the healthcare system in a move to try and cut wasteful spending, WSJ reported citing source. (WSJ)</li>\r\n  <li>Auto names (GM, F) &ndash; A senior EU official stated that the bloc will respond to any trade tariffs impose by the US on European automakers, following US President Trump&rsquo;s threats last week to slap a 20% tariff on EU-made vehicles coming into the US. (Newswires)</li>\r\n  <li>Campbell Soup (CPB) &ndash; Kraft Heinz (KHC) is said to be interested in buying Campbell Soup. A source believes CPB will begin the sales process soon. General Mills (GIS) also seen as a possible buyer. (Newswires)</li>\r\n  <li>CBS Corp. (CBS) &ndash; AT&amp;T (T) expressed an interest in buying CBS before striking a deal to buy Time Warner (TWX) and reportedly met with Shari Redstone; Redstone is said to have rejected overtures in 2016, but did not inform the CBS board, or its CEO. (WSJ)</li>\r\n  <li>Citigroup (C) &ndash; Big banks are set to get the green light from the Fed to raise dividends and share repurchases. Barron&rsquo;s reports that Citi could raise its share repurchase authority by 10%. (Barron&rsquo;s)</li>\r\n  <li>Delta Air Lines (DAL) &ndash; The airline along with KLM expresses opposition towards plans to name Philippe Capron as new Air France KLM CEO, following comments from the French economy minister that Capron was under consideration. (Newswires)</li>\r\n  <li>Discovery Inc. (DISCA, DISCK) &ndash; The cable provider will team with Germany&rsquo;s ProSiebenSat to build a streaming platform in Germany. (Newswires)</li>\r\n  <li>Eli Lilly (LLY) &ndash; The pharmaceutical&rsquo;s diabetes drug Trulicity has shown promise in delivering efficacy in Type 2 diabetes and is now set to move to Phase 3 clinical trials. Additionally, new data has reportedly reinforced the potential of the company&rsquo;s Ultra Rapid Lispro in diabetes. (Newswires)</li>\r\n  <li>Harley-Davidson (HOG) &ndash; The European Union has raised tariffs on imports of HOG motorcycles into the EU from 6% to 31% in response to US tariffs on EU steel and aluminium. The motorcycle manufacturer said the move would have an immediate and lasting detrimental impact to its business in the region, and it will shift some production outside of the US due to the tariffs. (Newswires/FT)</li>\r\n  <li>Twitter (TWTR) &ndash; The social media company receives a positive mention in Barron&rsquo;s. (Barron&rsquo;s)</li>\r\n  <li>Wells Fargo (WFC), American Express (AXP) &ndash; WFC and AXP introduce a newly enhanced Propel Card, a no annual fee rewards card which offers some of the most inclusive reward categories. (Newswires)</li>\r\n  <li>Xerox Corp (XRX) &ndash; Following the suit filed by Fujifilm (FUJIY) last week, XRX CEO and Vice Chairman sent a letter to Fujifilm arguing that Fujifilm should note that internal accounting issues at Fuji Xerox were a result of Fuji&rsquo;s mismanagement, which made it impossible to close the announced transaction, and XRX cannot stand by and let them further harm our its brand. (Newswires)</li>\r\n</ul>\r\n\r\n<p>NASDAQ 100</p>\r\n\r\n<ul><li>Amazon (AMZN) &ndash; US Amazon Prime members will be eligible for savings at Whole Foods. (Newswires)</li>\r\n  <li>Amgen (AMGN) &ndash; The Biotech company announced its drug Repatha significantly reduced low-density lipoprotein cholesterol and non-high-density lipoprotein cholesterol in patients with Type 2 diabetes. (Newswires)</li>\r\n  <li>Comcast (CMCSA) &ndash; Universal&rsquo;s Jurassic World: Fallen Kingdom takes the top spot at the box office, taking USD 150mln and has grossed more than USD 700mln globally. (Newswires)</li>\r\n</ul>\r\n\r\n<p>OTHER NEWS</p>\r\n\r\n<ul><li>Education Realty Trust (EDR) &ndash; Community housing company EdR to be acquired by Greystar-led fund for USD 41.50/share in a USD 4.6 Billion Transaction. Separately, Blackstone (BX) to acquire EDR&rsquo;s student housing portfolio for USD 1.2bln. (Newswires)</li>\r\n  <li>Gray Television (GTN) &ndash; Co. to acquire Raycom Media for USD 3.65bln and will create the single largest owner of top-rated local television stations and digital assets in the US. (Newswires)</li>\r\n  <li>Mednax (MD) &ndash; The healthcare company receives a cautious mention in Barron&rsquo;s. (Barron&rsquo;s)</li>\r\n</ul>\r\n\r\n<p>BROKER MOVES</p>\r\n\r\n<p>Upgrades</p>\r\n\r\n<ul><li>ALARM.COM (ALRM) UPGRADED TO STRONG BUY FROM OUTPERFORM AT RAYMOND JAMES</li>\r\n  <li>BLACK STONE MINERALS (BSM) UPGRADED TO OUTPERFORM FROM SECTOR PERFORM AT SCOTIABANK</li>\r\n  <li>BORGWARNER (BWA) UPGRADED TO BUY FROM NEUTRAL AT GOLDMAN SACHS</li>\r\n  <li>CIENA (CIEN) UPGRADED TO OVERWEIGHT FROM EQUAL WEIGHT AT MORGAN STANLEY</li>\r\n  <li>CRITEO (CRTO) UPGRADED TO OUTPERFORM FROM MARKET PERFORM AT RAYMOND JAMES</li>\r\n  <li>FEDERAL REALTY (FRT) UPGRADED TO BUY FROM HOLD AT SUNTRUST</li>\r\n  <li>FEDERAL REALTY (FRT) UPGRADED TO BUY FROM NEUTRAL AT DA DAVIDSON</li>\r\n  <li>FIRST SOLAR (FSLR) UPGRADED TO BUY FROM NEUTRAL AT BOFA/MERRILL</li>\r\n  <li>HIGHPOINT RESOURCES (HPR) UPGRADED TO BUY FROM NEUTRAL AT LADENBURG</li>\r\n  <li>MICROSOFT (MSFT) UPGRADED TO OVERWEIGHT FROM NEUTRAL AT ATLANTIC EQUITIES</li>\r\n  <li>NORFOLK SOUTHERN (NSC) UPGRADED TO BUY FROM NEUTRAL AT CITI</li>\r\n  <li>NUTRIEN (NTR) UPGRADED TO STRONG BUY FROM OUTPERFORM AT RAYMOND JAMES</li>\r\n  <li>QUEST DIAGNOSTICS (DGX) UPGRADED TO OVERWEIGHT FROM EQUAL WEIGHT AT BARCLAYS</li>\r\n  <li>SOUTHERN COMPANY (SO) UPGRADED TO NEUTRAL FROM SELL AT CITI</li>\r\n</ul>\r\n\r\n<p>Downgrades</p>\r\n\r\n<ul><li>ALLEGHENY TECHNOLOGIES (ATI) DOWNGRADED TO NEUTRAL FROM BUY AT LONGBOW</li>\r\n  <li>CARMAX (KMX) DOWNGRADED TO NEUTRAL FROM BUY AT GUGGENHEIM</li>\r\n  <li>CARMAX (KMX) DOWNGRADED TO NEUTRAL ON VALUATION AT BUCKINGHAM</li>\r\n  <li>CARPENTER TECHNOLOGY (CRS) DOWNGRADED TO NEUTRAL FROM BUY AT LONGBOW</li>\r\n  <li>ESTEE LAUDER (EL) DOWNGRADED TO EQUAL WEIGHT FROM OVERWEIGHT AT MORGAN STALNEY</li>\r\n  <li>INTEL (INTC) DOWNGRADED TO NEUTRAL FROM BUY AT NOMURA INSTINET</li>\r\n  <li>KROGER (KR) DOWNGRADED TO HOLD FROM BUY AT PIVOTAL RESEARCH</li>\r\n  <li>MALVERN BANCORP (MLVF) DOWNGRADED TO HOLD FROM BUY AT SANDLER O&#39;NEILL</li>\r\n  <li>OGE ENERGY (OGR) DOWNGRADED TO NEUTRAL FROM BUY AT GOLDMAN SACHS</li>\r\n  <li>OMEGA HEALTHCARE (OHI) DOWNGRADED TO MARKET PERFORM FROM OUTPERFORM AT WELLS FARGO</li>\r\n  <li>O&#39;REILLY AUTOMOTIVE (ORLY) DOWNGRADED TO NEUTRAL FROM BUY AT MOFFETTNATHANSON</li>\r\n  <li>YIRENDAI (YRD) DOWNGRADED TO EQUAL WEIGHT FROM OVERWEIGHT AT MORGAN STANLEY</li>\r\n</ul>\r\n\r\n<p>Initiations</p>\r\n\r\n<ul><li>ALBEMARLE (ALB) INITIATED WITH A BUY AT BOFA/MERRILL</li>\r\n  <li>ALIBABA (BABA) INITIATED WITH A BUY AT ARGUS</li>\r\n  <li>AVENUE THERAPEUTICS (ATXI) INITIATED WITH A BUY AT H.C. WAINWRIGHT</li>\r\n  <li>AVID BIOSERVICES (CDMO) RATED NEW BUY AT JANNEY</li>\r\n  <li>LIMONEIRA (LMNR) RATED NEW OVERWEIGHT AT STEPHENS; PT USD 30</li>\r\n  <li>LSC COMMUNICATIONS (LKSD) INITIATED WITH A BUY AT BUCKINGHAM</li>\r\n  <li>NEW RELIC (NEWR) INITIATED WITH A BUY AT DEUTSCHE BANK</li>\r\n  <li>NEW RELIC (NEWR) RATED NEW BUY AT DEUTSCHE BANK; PT USD 125</li>\r\n  <li>PVH CORP. (PVH) INITIATED WITH A SELL AT GOLDMAN SACHS</li>\r\n  <li>REDHILL BIOPHARMA ADRS (RDHL IT) RATED NEW BUY AT LADENBURG THALMANN</li>\r\n  <li>TAPESTRY (TPR) INITIATED WITH A CONVICTION BUY AT GOLDMAN SACHS</li>\r\n  <li>TIFFANY (TIF) INITIATED WITH A BUY AT GOLDMAN SACHS</li>\r\n  <li>TWILIO (TWLO) RATED NEW OVERWEIGHT AT PIPER JAFFRAY; PT USD 70</li>\r\n  <li>VEEVA (VEEV) RATED NEW BUY AT SUNTRUST; PT US 100</li>\r\n  <li>VF CORP. (VFC) INITIATED WITH A BUY AT GOLDMAN SACHS</li>\r\n</ul>\r\n\r\n<p>Ex-Dividends</p>\r\n\r\n<ul><li>KORN/FERRY INTERNATIONAL (KFY) - USD 0.10.</li>\r\n  <li>RETAIL PROPERTIES OF AMERICA INC (RPAI) - USD 0.17.</li>\r\n</ul>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "ransquawk-daily-us-equity-opening-news-25th-june-2018-campbell-soup-cpb-kraft-heinz-khc-is-said-to-be-interested-in-buying-campbell-soup-a-source-believes-cpb-will-begin-the-sales-process-soon-general-mills-gis-also-seen-as-a-pos-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 20:54:00",
+        "gmt_time": "2018-06-25 12:54:00"
+    },
+    {
+        "id": 663774,
+        "updated_sequence": 999166,
+        "published_at": {
+            "unix": 1529928120,
+            "text": "2018-06-25 13:02:00 +0100",
+            "iso_8601": "2018-06-25T12:02:00Z"
+        },
+        "updated_at": {
+            "unix": 1529928168,
+            "text": "2018-06-25 13:02:48 +0100",
+            "iso_8601": "2018-06-25T12:02:48Z"
+        },
+        "subject": "Sanofi (SAN FP) say Toujeo met its primary endpoint",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "sanofi-san-fp-say-toujeo-met-its-primary-endpoint-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 33,
+            "name": "European Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 20:02:00",
+        "gmt_time": "2018-06-25 12:02:00"
+    },
+    {
+        "id": 663773,
+        "updated_sequence": 999161,
+        "published_at": {
+            "unix": 1529927160,
+            "text": "2018-06-25 12:46:00 +0100",
+            "iso_8601": "2018-06-25T11:46:00Z"
+        },
+        "updated_at": {
+            "unix": 1529927312,
+            "text": "2018-06-25 12:48:32 +0100",
+            "iso_8601": "2018-06-25T11:48:32Z"
+        },
+        "subject": "Scotiabank FX Daily - Trade Worries Renew Risk Aversion, Lift JPY",
+        "content": "<ul><li>&nbsp; USD gains limited as positioning shift leaves market exposed to data risks.</li>\r\n  <li>&nbsp; CAD recovery after weak data Friday lifts near-term outlook ahead of Poloz.</li>\r\n  <li>&nbsp; EUR better supported on dips after last week&rsquo;s bullish reversal.</li>\r\n  <li>&nbsp; GBP firmer, focus on this week&#39;s comments from BoE policy makers.</li>\r\n  <li>&nbsp; JPY firmer on risk aversion but trading well within recent ranges.</li>\r\n  <li>&nbsp; AUD consolidates as risk aversion curbs gains through 0.7450.</li>\r\n  <li>&nbsp; MXN eases after two failed tests of 20 area.</li>\r\n</ul>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "scotiabank",
+        "slug": "scotiabank-fx-daily-trade-worries-renew-risk-aversion-lift-jpy-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 19:46:00",
+        "gmt_time": "2018-06-25 11:46:00"
+    },
+    {
+        "id": 663772,
+        "updated_sequence": 999163,
+        "published_at": {
+            "unix": 1529923740,
+            "text": "2018-06-25 11:49:00 +0100",
+            "iso_8601": "2018-06-25T10:49:00Z"
+        },
+        "updated_at": {
+            "unix": 1529927369,
+            "text": "2018-06-25 12:49:29 +0100",
+            "iso_8601": "2018-06-25T11:49:29Z"
+        },
+        "subject": "Chinese Government said to have softened its stance on its Made in China 2025 message",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<p>This is after US President Trump&#39;s planned&nbsp;new curbs on Chinese Investment&nbsp;and Tech Exports to China. The twin initiatives, set to be announced by the end of the week, are set to slow&nbsp;plans outlined in its &ldquo;Made in China 2025&rdquo; report to become a global leader in 10 broad areas of technology, including IT, aerospace, electric vehicles and biotechnology.</p>\r\n",
+        "analysis_updated_at": {
+            "unix": 1529924760,
+            "text": "2018-06-25 12:06:00 +0100",
+            "iso_8601": "2018-06-25T11:06:00Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "chinese-government-said-to-have-softened-its-stance-on-its-made-in-china-2025-message-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 18:49:00",
+        "gmt_time": "2018-06-25 10:49:00"
+    },
+    {
+        "id": 663771,
+        "updated_sequence": 999149,
+        "published_at": {
+            "unix": 1529922720,
+            "text": "2018-06-25 11:32:00 +0100",
+            "iso_8601": "2018-06-25T10:32:00Z"
+        },
+        "updated_at": {
+            "unix": 1529923121,
+            "text": "2018-06-25 11:38:41 +0100",
+            "iso_8601": "2018-06-25T10:38:41Z"
+        },
+        "subject": "RANsquawk Daily US Opening News - 25th June 2018",
+        "content": "<p>To download the report, please click <a href=\"/research_sheets/19469/download\">here</a><br />If you would like to subscribe to receive the research sheets directly in your inbox, you can now do so under the <a href=\"/research_sheets\">Research Suite</a> section of the portal.<br />To subscribe simply check the box next to &quot;Email these reports&quot; under the desired category.</p>\r\n\r\n<ul><li>Trump is said to be planning new restrictions on tech exports to China</li>\r\n  <li>PBoC says they are to cut the re-lending rate for SME loans by 50bps, following the RRR cut over the weekend</li>\r\n  <li>Looking ahead, highlights include, US New Home Sales and BoJ&rsquo;s Sakurai speaking</li>\r\n</ul>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>ASIA</strong></p>\r\n\r\n<p>Asian equity markets began the week down as the region digested a targeted RRR reduction by the PBoC with reports the US is planning new restrictions on tech exports to China and on Chinese investment, which are expected to be announced by end of the week. ASX 200 (-0.2%) and Nikkei 225 (-0.8%) both initially opened higher with gains led by the energy sector in the wake of the OPEC+ agreement to raise output so they no longer overshoot on production cuts. The actual communique didn&rsquo;t explicitly state an amount for the output increase, although the touted figures by ministers were much less than some of the previously suggested scenarios of as much as 1.8mln bpd, which in turn lifted crude by around 4% on Friday. However, gains in the bourses were later pared as trade tensions returned to the fore with the US Treasury said to be devising rules to restrict China investment under the International Emergency Economic Powers Act of 1977. Elsewhere, the Hang Seng (-1.2%) was among the laggards as money market rates in Hong Kong printed fresh decade highs, while Shanghai Comp. (-1.0%) was choppy as support from the PBoC&rsquo;s policy efforts tussled with renewed trade concerns. Finally, 10yr JGBs were uneventful with prices flat near last week&rsquo;s best levels amid the cautious risk tone. The release of the Summary of Opinions also failed to spur demand as the BoJ stuck to its rehashed statements, and the central bank&rsquo;s presence in the market was largely ignored as it was only seeking Treasury discount bills.&nbsp;&nbsp;&nbsp;&nbsp;</p>\r\n\r\n<p>PBoC announced that it will lower some banks&#39; RRR by 50 basis points on July 5th. (Xinhua)</p>\r\n\r\n<p>PBoC is to cut the re-lending rate for SME loans by 50bps. (Newswires)</p>\r\n\r\n<p>PBoC skipped open market operations for a daily net drain of CNY 10bln. (Newswires)</p>\r\n\r\n<p>PBoC set CNY mid-point at 6.4893 (Prev. 6.4804)</p>\r\n\r\n<p>BoJ Summary of Opinions from June 14th-15th meeting stated it is appropriate to pursue powerful monetary easing with persistence under the current guideline as inflation is a long way from target but added the momentum towards achieving 2% is maintained. Furthermore, Summary of Opinions stated that although Japan&#39;s GDP for the March quarter of 2018 contracted for the first time in nine quarters, this largely reflects temporary factors such as irregular weather. (Newswires)</p>\r\n\r\n<p><strong>TRADE</strong></p>\r\n\r\n<p>US President Trump is said to be planning new restrictions on tech exports to China and Chinese investment with an announcement expected by end of the week. Furthermore, repots stated the US Treasury is devising rules to block firms with 25% Chinese ownership from acquiring companies involved in industrially significant technologies and that it plans using International Emergency Economic Powers Act 1977 to impose investment restrictions. (WSJ)</p>\r\n\r\n<p>US President Trump tweeted that the US is insisting all countries that have placed trade barriers and tariffs on goods going into their country, remove them or be met with more than reciprocity by the US, while he added trade must be fair and not one-way. (Twitter)</p>\r\n\r\n<p><strong>CENTRAL BANKS</strong></p>\r\n\r\n<p>ECB&#39;s Vasiliauskas states the ECB could start to discuss lifting short-term interest rates from autumn 2019. (WSJ)</p>\r\n\r\n<p>ECB&#39;s Praet (Dovish) says prolonging the purchase of assets for 2019 is an option. (Espresso)</p>\r\n\r\n<p>EU/UK/US</p>\r\n\r\n<p>At least 50 UK Conservative MPs are willing to rebel against the government if PM May fails to inject more money into defence, an ally of Gavin Williamson, the defence secretary, said last night. (Times)</p>\r\n\r\n<p>Over 50 Conservative MPs are prepared to block any attempt to remove Britain from the EU without a deal &mdash; including some sitting ministers &mdash; according to senior Conservative politicians. (FT)</p>\r\n\r\n<p>UK Trade Secretary Fox told Sky he would accept an extended Brexit transition period given it was for technical reasons. (Sky News)</p>\r\n\r\n<p>German Ifo Expectations New (Jun) 98.6 vs. Exp. 98.1 (Prev. 98.5, Rev. 98.6)</p>\r\n\r\n<p>German Ifo Current Conditions New (Jun) 105.1 vs. Exp. 105.7 (Prev. 106.0, Rev. 106.1)</p>\r\n\r\n<p>German Ifo Business Climate New (Jun) 101.8 vs. Exp. 101.8 (Prev. 102.2, Rev. 102.3)</p>\r\n\r\n<p><strong>EQUITIES</strong></p>\r\n\r\n<p>European equities kickstart the week on the backfoot (Eurostoxx 50 -0.9%) as trade war woes dampen sentiment across the board. Overnight, it was stated that the Trump administration is reportedly planning to bar a number of Chinese companies from investing in US tech while blocking exports to China. The two measures are to be announced at the end of the week. In the wake of this, the IT sector in Europe underperforms. In terms of stock specifics, Prysmian (-7.6%) rests at the foot of the Stoxx 600 amid additional FY costs and a cut in the company&rsquo;s EBITDA outlook. On the flip side, IWG (+3.1%) is on a firmer footing following confirmation that PE firm Terra Firma has approached the company about a possible bid.</p>\r\n\r\n<p><strong>FX</strong></p>\r\n\r\n<p>JPY - The standout G10 performer and refuge for investors as the US continues its trade offensive against China with fresh export embargoes and tighter tech investment rules, as Usd/Jpy retreats from 110.00+ levels again and currently re-tests Fib support around 109.50 following a brief dip below. Market contacts also report widespread offers in Jpy crosses, and especially vs the Eur.</p>\r\n\r\n<p>EUR - Undermined by the broad downturn in risk sentiment and aforementioned LHS flows vs the Jpy, but off lows in wake of a mixed German Ifo survey and softer Usd overall, with the headline pair circa 1.1650 vs 1.1630 at one stage. However, the upside looks technically challenging towards 1.1700 with daily chart resistance and a Fib all aligning together at 1.1681.</p>\r\n\r\n<p>CHF - Firmer overall due to its own safe-haven characteristics, but not as strong as the Jpy given latest SNB pledges to prevent the Franc from appreciating too much, with Usd/Chf hovering just below 0.9900 and Eur/Chf pivoting either side of 1.1500 after decent offers from 1.1520 down to the big figure.</p>\r\n\r\n<p>CAD/AUD - Marginal underperformers, as the Loonie loses underlying support amidst a post-OPEC+ pull-back in oil prices and slips back towards 1.3300 vs its US rival, while the Aud is back below 0.7450.</p>\r\n\r\n<p>NZD/GBP - The Kiwi is just keeping its head above 0.6900 vs the Usd ahead of Wednesday&rsquo;s RBNZ policy meeting even though this is widely expected to maintain the status quo on rates and a wait-and-see stance, while Cable is pivoting around 1.3250 in the run up to more UK-specific events later this week.</p>\r\n\r\n<p>TRY &ndash; Some fleeting respite for the Lira after conclusive 50%+ wins for President Erdogan at the weekend elections, with Usd/Try down under 4.5500 at one stage, but the Lira already losing recovery momentum as relief gives way to reality and ongoing problems for Turkey on the economic and fiscal fronts. Usd/Try back up near 4.6800 in more recent trade</p>\r\n\r\n<p>FIXED INCOME</p>\r\n\r\n<p>Bunds and Gilts have lost momentum after their early safe-haven forays, but retain an underlying bid off fresh lows for the session at 162.11 and 122.79 respectively (+1 and +6 ticks vs +47 and +42 ticks at one stage). Nothing really new or obvious to spark the retracement, but Italian debt has pared some losses towards 126.00 vs just below 125.50 at worst vs EU cash equities that are nudging new troughs. Note also, large downside interest via options with set 161/159 put spreads bought in Bunds for 25k times.</p>\r\n\r\n<p>Elsewhere, US Treasuries are sitting relatively midway between overnight ranges awaiting some independent impetus that could come from housing data later, but more likely hefty supply that kicks off from tomorrow.</p>\r\n\r\n<p>COMMODITIES</p>\r\n\r\n<p>Commodities trade mixed with WTI (+USD 0.21/bbl) now in the green, albeit off Friday&rsquo;s highs. Brent (-USD 1.01/bbl) on the other hand is lower as the global benchmark reacts to the OPEC and OPEC+ meetings at the back-end of last week. The oil producers agreed on an output hike, though no specific numbers were confirmed. The output increase is yet to be distributed amongst the members. Saudi Energy Minister Al-Falih said on Saturday that the increase is to be closer to 1mln BPD than to 600K BPD.</p>\r\n\r\n<p>The metal complex looks relatively mixed, gold and copper trades flat, synchronised with the uneventful dollar moves. Elsewhere, Shanghai steel rebar prices dropped for a second consecutive session following a rise in steel product inventories raising concerns about oversupply and weakening demand in the market.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "ransquawk-daily-us-opening-news-25th-june-2018-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 18:32:00",
+        "gmt_time": "2018-06-25 10:32:00"
+    },
+    {
+        "id": 663770,
+        "updated_sequence": 999143,
+        "published_at": {
+            "unix": 1529920260,
+            "text": "2018-06-25 10:51:00 +0100",
+            "iso_8601": "2018-06-25T09:51:00Z"
+        },
+        "updated_at": {
+            "unix": 1529920383,
+            "text": "2018-06-25 10:53:03 +0100",
+            "iso_8601": "2018-06-25T09:53:03Z"
+        },
+        "subject": "Chinese Premier Li says they plan to buy lots of planes this year, with Airbus (AIR FP) quoted as a focus",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "chinese-premier-li-says-they-plan-to-buy-lots-of-planes-this-year-with-airbus-air-fp-quoted-as-a-focus-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 33,
+            "name": "European Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 17:51:00",
+        "gmt_time": "2018-06-25 09:51:00"
+    },
+    {
+        "id": 663769,
+        "updated_sequence": 999133,
+        "published_at": {
+            "unix": 1529919540,
+            "text": "2018-06-25 10:39:00 +0100",
+            "iso_8601": "2018-06-25T09:39:00Z"
+        },
+        "updated_at": {
+            "unix": 1529919647,
+            "text": "2018-06-25 10:40:47 +0100",
+            "iso_8601": "2018-06-25T09:40:47Z"
+        },
+        "subject": "RANsquawk EU Mid Session - 25th June 2018",
+        "content": "<p>To download the report, please click <a href=\"/research_sheets/19468/download\">here</a><br />If you would like to subscribe to receive the research sheets directly in your inbox, you can now do so under the <a href=\"/research_sheets\">Research Suite</a> section of the portal.<br />To subscribe simply check the box next to &quot;Email these reports&quot; under the desired category.</p>\r\n\r\n<p><strong>EQUITIES</strong></p>\r\n\r\n<p>European equities kickstart the week on the backfoot (Eurostoxx 50 -0.9%) as trade war woes dampen sentiment across the board. Overnight, it was stated that the Trump administration is reportedly planning to bar a number of Chinese companies from investing in US tech while blocking exports to China. The two measures are to be announced at the end of the week. In the wake of this, the IT sector in Europe underperforms. In terms of stock specifics, Prysmian (-6.8%) rests at the foot of the Stoxx 600 amid additional FY costs and a cut in the company&rsquo;s EBITDA outlook. On the flip side, IWG (+3.2%) is on a firmer footing following confirmation that PE firm Terra Firma has approached the company about a possible bid.&nbsp;</p>\r\n\r\n<p><strong>FX</strong></p>\r\n\r\n<p>JPY - The standout G10 performer and refuge for investors as the US continues its trade offensive against China with fresh export embargoes and tighter tech investment rules, as Usd/Jpy retreats from 110.00+ levels again and currently re-tests Fib support around 109.50 following a brief dip below. Market contacts also report widespread offers in Jpy crosses, and especially vs the Eur.</p>\r\n\r\n<p>EUR - Undermined by the broad downturn in risk sentiment and aforementioned LHS flows vs the Jpy, but off lows in wake of a mixed German Ifo survey and softer Usd overall, with the headline pair circa 1.1650 vs 1.1630 at one stage. However, the upside looks technically challenging towards 1.1700 with daily chart resistance and a Fib all aligning together at 1.1681.</p>\r\n\r\n<p>CHF - Firmer overall due to its own safe-haven characteristics, but not as strong as the Jpy given latest SNB pledges to prevent the Franc from appreciating too much, with Usd/Chf hovering just below 0.9900 and Eur/Chf pivoting either side of 1.1500 after decent offers from 1.1520 down to the big figure.</p>\r\n\r\n<p>CAD/AUD - Marginal underperformers, as the Loonie loses underlying support amidst a post-OPEC+ pull-back in oil prices and slips back towards 1.3300 vs its US rival, while the Aud is back below 0.7450.</p>\r\n\r\n<p>NZD/GBP - The Kiwi is just keeping its head above 0.6900 vs the Usd ahead of Wednesday&rsquo;s RBNZ policy meeting even though this is widely expected to maintain the status quo on rates and a wait-and-see stance, while Cable is pivoting around 1.3250 in the run up to more UK-specific events later this week.</p>\r\n\r\n<p>TRY - Some respite for the Lira after conclusive 50%+ wins for President Erdogan at the weekend elections, with Usd/Try down under 4.5500 at one stage, but the Lira already losing recovery momentum and relief gives way to reality and ongoing problems for Turkey on the economic and fiscal fronts.</p>\r\n\r\n<p><strong>FIXED INCOME</strong></p>\r\n\r\n<p>Bunds and Gilts have lost momentum after their early safe-haven forays, but retain an underlying bid off fresh lows for the session at 162.19 and 122.79 respectively (+9 and +6 ticks vs +47 and +42 ticks at one stage). Nothing really new or obvious to spark the retracement, but Italian debt has pared some losses towards 126.00 vs just below 125.50 at worst vs EU cash equities that are nudging new troughs. Note also, large downside interest via options with set 161/159 put spreads bought in Bunds for 25k times.</p>\r\n\r\n<p>Elsewhere, US Treasuries are sitting relatively midway between overnight ranges awaiting some independent impetus that could come from housing data later, but more likely hefty supply that kicks off from tomorrow.</p>\r\n\r\n<p><strong>COMMODITIES</strong></p>\r\n\r\n<p>Commodities trade mixed with WTI&nbsp; (+USD 0.34/bbl) now in the green, albeit off Friday&rsquo;s highs. Brent (-USD 0.98/bbl) on the other hand is lower as the global benchmark reacts to the OPEC and OPEC+ meetings at the back-end of last week. The oil producers agreed on an output hike, though no specific numbers were confirmed. The output increase is yet to be distributed amongst the members. Saudi Energy Minister Al-Falih said on Saturday that the increase is to be closer to 1mln BPD than to 600K BPD.</p>\r\n\r\n<p>The metal complex looks relatively mixed, gold and copper trades flat, synchronised with the uneventful dollar moves. Elsewhere, Shanghai steel rebar prices dropped for a second consecutive session following a rise in steel product inventories raising concerns about oversupply and weakening demand in the market.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "ransquawk-eu-mid-session-25th-june-2018-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 17:39:00",
+        "gmt_time": "2018-06-25 09:39:00"
+    },
+    {
+        "id": 663768,
+        "updated_sequence": 999127,
+        "published_at": {
+            "unix": 1529918220,
+            "text": "2018-06-25 10:17:00 +0100",
+            "iso_8601": "2018-06-25T09:17:00Z"
+        },
+        "updated_at": {
+            "unix": 1529918306,
+            "text": "2018-06-25 10:18:26 +0100",
+            "iso_8601": "2018-06-25T09:18:26Z"
+        },
+        "subject": "Fixed Income: core debt fading after early FTQ ascent",
+        "content": "<p>Bunds and Gilts have lost momentum after their early safe-haven forays, but retain an underlying bid off fresh lows for the session at 162.23 and 122.79 respectively (+13 and +6 ticks vs +47 and +42 ticks at one stage). Nothing really new or obvious to spark the retracement, but Italian debt has pared some losses towards 126.00 vs just below 125.50 at worst vs EU cash equities that are nudging new troughs. Elsewhere, US Treasuries are sitting relatively midway between overnight ranges awaiting some independent impetus that could come from housing data later, but more likely hefty supply that kicks off from tomorrow.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "fixed-income-core-debt-fading-after-early-ftq-ascent-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 17:17:00",
+        "gmt_time": "2018-06-25 09:17:00"
+    },
+    {
+        "id": 663633,
+        "updated_sequence": 999121,
+        "published_at": {
+            "unix": 1529917200,
+            "text": "2018-06-25 10:00:00 +0100",
+            "iso_8601": "2018-06-25T09:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1529917200,
+            "text": "2018-06-25 10:00:00 +0100",
+            "iso_8601": "2018-06-25T09:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE HAS NOW FINISHED, PLEASE REVERT BACK TO YOUR ORIGINAL CHANNEL FOR COVERAGE ON THE UK & EUROPEAN SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-has-now-finished-please-revert-back-to-your-original-channel-for-coverage-on-the-uk-european-session-22-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 17:00:00",
+        "gmt_time": "2018-06-25 09:00:00"
+    },
+    {
+        "id": 663766,
+        "updated_sequence": 999119,
+        "published_at": {
+            "unix": 1529916960,
+            "text": "2018-06-25 09:56:00 +0100",
+            "iso_8601": "2018-06-25T08:56:00Z"
+        },
+        "updated_at": {
+            "unix": 1529917066,
+            "text": "2018-06-25 09:57:46 +0100",
+            "iso_8601": "2018-06-25T08:57:46Z"
+        },
+        "subject": "ECB's Vasiliauskas states the ECB could start to discuss lifting short-term interest rates from autumn 2019, according to WSJ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "WSJ",
+        "slug": "ecb-s-vasiliauskas-states-the-ecb-could-start-to-discuss-lifting-short-term-interest-rates-from-autumn-2019-according-to-wsj-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 17,
+            "name": "ECB"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 16:56:00",
+        "gmt_time": "2018-06-25 08:56:00"
+    },
+    {
+        "id": 663765,
+        "updated_sequence": 999116,
+        "published_at": {
+            "unix": 1529916060,
+            "text": "2018-06-25 09:41:00 +0100",
+            "iso_8601": "2018-06-25T08:41:00Z"
+        },
+        "updated_at": {
+            "unix": 1529916181,
+            "text": "2018-06-25 09:43:01 +0100",
+            "iso_8601": "2018-06-25T08:43:01Z"
+        },
+        "subject": "Citi's trade of the week: Buy NOK/SEK at 1.0947, target 1.12, stop 1.0820",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "citi-s-trade-of-the-week-buy-nok-sek-at-1-0947-target-1-12-stop-1-0820-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 39,
+            "name": "Bank Research"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 16:41:00",
+        "gmt_time": "2018-06-25 08:41:00"
+    },
+    {
+        "id": 663764,
+        "updated_sequence": 999113,
+        "published_at": {
+            "unix": 1529915880,
+            "text": "2018-06-25 09:38:00 +0100",
+            "iso_8601": "2018-06-25T08:38:00Z"
+        },
+        "updated_at": {
+            "unix": 1529915972,
+            "text": "2018-06-25 09:39:32 +0100",
+            "iso_8601": "2018-06-25T08:39:32Z"
+        },
+        "subject": "FX Morning Colour: A yen for the Jpy, and a liking for the Lira",
+        "content": "<p>JPY</p>\r\n\r\n<p>The standout G10 performer and refuge for investors as the US continues its trade offensive against China with fresh export embargoes and tighter tech investment rules, as Usd/Jpy retreats from 110.00+ levels again and currently re-tests Fib support around 109.50 following a brief dip below. Market contacts also report widespread offers in Jpy crosses, and especially vs the Eur.</p>\r\n\r\n<p>EUR &nbsp;</p>\r\n\r\n<p>Undermined by the broad downturn in risk sentiment and aforementioned LHS flows vs the Jpy, but off lows in wake of a mixed German Ifo survey and softer Usd overall, with the headline pair circa 1.1650 vs 1.1630 at one stage. However, the upside looks technically challenging towards 1.1700 with daily chart resistance and a Fib all aligning together at 1.1681.</p>\r\n\r\n<p>CHF</p>\r\n\r\n<p>Firmer overall due to its own safe-haven characteristics, but not as strong as the Jpy given latest SNB pledges to prevent the Franc from appreciating too much, with Usd/Chf hovering just below 0.9900 and Eur/Chf pivoting either side of 1.1500 after decent offers from 1.1520 down to the big figure.</p>\r\n\r\n<p>CAD/AUD</p>\r\n\r\n<p>Marginal underperformers, as the Loonie loses underlying support amidst a post-OPEC+ pull-back in oil prices and slips back towards 1.3300 vs its US rival, while the Aud is back below 0.7450.</p>\r\n\r\n<p>NZD/GBP</p>\r\n\r\n<p>The Kiwi is just keeping its head above 0.6900 vs the Usd ahead of Wednesday&rsquo;s RBNZ policy meeting even though this is widely expected to maintain the status quo on rates and a wait-and-see stance, while Cable is pivoting around 1.3250 in the run up to more UK-specific events later this week.</p>\r\n\r\n<p>TRY</p>\r\n\r\n<p>Some respite for the Lira after conclusive 50%+ wins for President Erdogan at the weekend elections, with Usd/Try down under 4.5500 at one stage, but the Lira already losing recovery momentum and relief gives way to reality and ongoing problems for Turkey on the economic and fiscal fronts.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "fx-morning-colour-a-yen-for-the-jpy-and-a-liking-for-the-lira-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 16:38:00",
+        "gmt_time": "2018-06-25 08:38:00"
+    },
+    {
+        "id": 663763,
+        "updated_sequence": 999107,
+        "published_at": {
+            "unix": 1529914140,
+            "text": "2018-06-25 09:09:00 +0100",
+            "iso_8601": "2018-06-25T08:09:00Z"
+        },
+        "updated_at": {
+            "unix": 1529914498,
+            "text": "2018-06-25 09:14:58 +0100",
+            "iso_8601": "2018-06-25T08:14:58Z"
+        },
+        "subject": "PBoC is to cut the re-lending rate for SME loans by 50bps",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>This follows the PBoC perfoming a targeted&nbsp;RRR cut by 50bps over the weekend to unlock around&nbsp;USD 108bln of liquidity</li>\r\n</ul>\r\n",
+        "analysis_updated_at": {
+            "unix": 1529914320,
+            "text": "2018-06-25 09:12:00 +0100",
+            "iso_8601": "2018-06-25T08:12:00Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pboc-is-to-cut-the-re-lending-rate-for-sme-loans-by-50bps-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 15,
+            "name": "PBoC"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 16:09:00",
+        "gmt_time": "2018-06-25 08:09:00"
+    },
+    {
+        "id": 663759,
+        "updated_sequence": 999086,
+        "published_at": {
+            "unix": 1529912340,
+            "text": "2018-06-25 08:39:00 +0100",
+            "iso_8601": "2018-06-25T07:39:00Z"
+        },
+        "updated_at": {
+            "unix": 1529912431,
+            "text": "2018-06-25 08:40:31 +0100",
+            "iso_8601": "2018-06-25T07:40:31Z"
+        },
+        "subject": "Morgan Stanley's trade of the week: Short EUR/JPY at market, target 122.00, stop 128.90",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "morgan-stanley-s-trade-of-the-week-short-eur-jpy-at-market-target-122-00-stop-128-90-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 39,
+            "name": "Bank Research"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 15:39:00",
+        "gmt_time": "2018-06-25 07:39:00"
+    },
+    {
+        "id": 663758,
+        "updated_sequence": 999083,
+        "published_at": {
+            "unix": 1529912100,
+            "text": "2018-06-25 08:35:00 +0100",
+            "iso_8601": "2018-06-25T07:35:00Z"
+        },
+        "updated_at": {
+            "unix": 1529912191,
+            "text": "2018-06-25 08:36:31 +0100",
+            "iso_8601": "2018-06-25T07:36:31Z"
+        },
+        "subject": "UK debt and STIR futures: safe-haven bid gathering momentum",
+        "content": "<p>Gilts encountered some offers around 123.00 having resumed Liffe at 122.99 and easing back to 122.90 temporarily, but like Bunds the 10 year UK bond has advanced further amidst the latest broad downturn in risk sentiment to hit 123.15 (+42 ticks), while its Eurozone equivalent effectively breaches near term resistance around 162.56 to post a fresh intraday best at 162.57 (+47 ticks). Returning to Liffe, the Short Sterling strip has been 3 ticks ahead so far, and unwinding a bit more of the post-BoE downside on a blank day in the UK, but busier line-up from Tuesday onwards culminating in the final Q1 GDP release on Friday and including potential comments from new BoE hawk Haldane.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "uk-debt-and-stir-futures-safe-haven-bid-gathering-momentum-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 15:35:00",
+        "gmt_time": "2018-06-25 07:35:00"
+    },
+    {
+        "id": 663757,
+        "updated_sequence": 999080,
+        "published_at": {
+            "unix": 1529912100,
+            "text": "2018-06-25 08:35:00 +0100",
+            "iso_8601": "2018-06-25T07:35:00Z"
+        },
+        "updated_at": {
+            "unix": 1529912161,
+            "text": "2018-06-25 08:36:01 +0100",
+            "iso_8601": "2018-06-25T07:36:01Z"
+        },
+        "subject": "Saudi's Aramco CEO says they are currently producing 10mln BPD and can produce up to 12mln BPD",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "saudi-s-aramco-ceo-says-they-are-currently-producing-10mln-bpd-and-can-produce-up-to-12mln-bpd-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 20,
+            "name": "Commodities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 15:35:00",
+        "gmt_time": "2018-06-25 07:35:00"
+    },
+    {
+        "id": 663756,
+        "updated_sequence": 999077,
+        "published_at": {
+            "unix": 1529910660,
+            "text": "2018-06-25 08:11:00 +0100",
+            "iso_8601": "2018-06-25T07:11:00Z"
+        },
+        "updated_at": {
+            "unix": 1529910685,
+            "text": "2018-06-25 08:11:25 +0100",
+            "iso_8601": "2018-06-25T07:11:25Z"
+        },
+        "subject": "ECB says banks borrowed EUR 77mln at marginal rate & deposited EUR 642.406bln",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "ecb-says-banks-borrowed-eur-77mln-at-marginal-rate-deposited-eur-642-406bln-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 17,
+            "name": "ECB"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 15:11:00",
+        "gmt_time": "2018-06-25 07:11:00"
+    },
+    {
+        "id": 663755,
+        "updated_sequence": 999074,
+        "published_at": {
+            "unix": 1529910420,
+            "text": "2018-06-25 08:07:00 +0100",
+            "iso_8601": "2018-06-25T07:07:00Z"
+        },
+        "updated_at": {
+            "unix": 1529910477,
+            "text": "2018-06-25 08:07:57 +0100",
+            "iso_8601": "2018-06-25T07:07:57Z"
+        },
+        "subject": "Morning EU Movers: IWG (IWG LN) +5.2%, WPP (WPP LN) +0.6%, Roche (ROG SW) +0.3%, Daimler (DAI GY) -0.9%, Prysmian (PSY IM) -4.4%",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "morning-eu-movers-iwg-iwg-ln-5-2-wpp-wpp-ln-0-6-roche-rog-sw-0-3-daimler-dai-gy-0-9-prysmian-psy-im-4-4-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 33,
+            "name": "European Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 15:07:00",
+        "gmt_time": "2018-06-25 07:07:00"
+    },
+    {
+        "id": 663752,
+        "updated_sequence": 999071,
+        "published_at": {
+            "unix": 1529907840,
+            "text": "2018-06-25 07:24:00 +0100",
+            "iso_8601": "2018-06-25T06:24:00Z"
+        },
+        "updated_at": {
+            "unix": 1529910340,
+            "text": "2018-06-25 08:05:40 +0100",
+            "iso_8601": "2018-06-25T07:05:40Z"
+        },
+        "subject": "New Zealand deputy PM does not think rates will rise any time soon",
+        "content": "<p>Comments come ahead of Wednesday&#39;s RBNZ policy meeting that is widely expected to confirm an ongoing on hold stance</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "new-zealand-deputy-pm-does-not-think-rates-will-rise-any-time-soon-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 11,
+            "name": "RBNZ"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 14:24:00",
+        "gmt_time": "2018-06-25 06:24:00"
+    },
+    {
+        "id": 663751,
+        "updated_sequence": 999063,
+        "published_at": {
+            "unix": 1529906520,
+            "text": "2018-06-25 07:02:00 +0100",
+            "iso_8601": "2018-06-25T06:02:00Z"
+        },
+        "updated_at": {
+            "unix": 1529909800,
+            "text": "2018-06-25 07:56:40 +0100",
+            "iso_8601": "2018-06-25T06:56:40Z"
+        },
+        "subject": "Additional European equity stories post the release of the Daily European equity opening news",
+        "content": "<p>IWG (IWG LN) - The co. has confirmed that its has received an approach from Terra Firma. (Newswires)</p>\r\n\r\n<p>Lufthansa (LHA GY) - The co. is seeking talks with the Italian Government over Alitalia. (Newswires)</p>\r\n\r\n<p>JC Decaux (DEC FP) &ndash; The co. is said to have agreed to buy APN at a higher price. JC Decaux has confirmed they are in discussions. (Newswires)</p>\r\n\r\n<p>Norwegian Air (NAS NO) &ndash; The co.&rsquo;s CEO has said it is too early to sell the co. (Newswires)</p>\r\n\r\n<p>Campari (CPR IM) &ndash; The co. has said they could reorganise with an internal merger. (Newswires)</p>\r\n\r\n<p>Credit Agricole (ACA FP) &ndash; the co. has said it is to provide its German unit with more capital. (Newswires)</p>\r\n\r\n<p>Daimler (DAI GY) &ndash; The co. has stopped the deliveries of some Mercedes diesel models. (Newswires)</p>\r\n\r\n<p>Melrose (MRO LN) &ndash; The co. has announce that it has received clearance from the committee on foreign investment in the US for its GKN offer. (Newswires)</p>\r\n\r\n<p>Old Mutual (OML LN) &ndash; The co. has announced a final offer price of 145 pence/share for Quilter. Elsewhere, Old Mutual shares have been suspended from the UK official list and from trading on LSE main market.&nbsp;(Newswires)</p>\r\n\r\n<p>ROLLS ROYCE (RR/ LN) UPGRADED TO HOLD FROM REDUCE AT KEPLER CHEUVREUX</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "additional-european-equity-stories-post-the-release-of-the-daily-european-equity-opening-news-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 33,
+            "name": "European Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 14:02:00",
+        "gmt_time": "2018-06-25 06:02:00"
+    },
+    {
+        "id": 663753,
+        "updated_sequence": 999066,
+        "published_at": {
+            "unix": 1529905920,
+            "text": "2018-06-25 06:52:00 +0100",
+            "iso_8601": "2018-06-25T05:52:00Z"
+        },
+        "updated_at": {
+            "unix": 1529909821,
+            "text": "2018-06-25 07:57:01 +0100",
+            "iso_8601": "2018-06-25T06:57:01Z"
+        },
+        "subject": "Bunds: tracking firmer US Treasury leads on latest risk-off impulses",
+        "content": "<p>Ongoing US-China trade wars and another bout of weakness in Italian BTPs following weekend regional elections that saw the League clean up and even claim victory in traditionally staunch left-wing areas, has boosted demand for core bonds to the benefit of the 10 year German benchmark. &nbsp;Hence, a firm bounce off last Friday&rsquo;s Eurex close and extended gains to a 162.41 high (+31 ticks) before fading again ahead of 162.50 and some technical resistance that has been capping rallies of late. Ahead, Germany&rsquo;s Ifo survey will be eyed after weaker than forecast ZEW readings, and given a typically light Monday agenda overall.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "bunds-tracking-firmer-us-treasury-leads-on-latest-risk-off-impulses-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 13:52:00",
+        "gmt_time": "2018-06-25 05:52:00"
+    },
+    {
+        "id": 663750,
+        "updated_sequence": 999025,
+        "published_at": {
+            "unix": 1529905800,
+            "text": "2018-06-25 06:50:00 +0100",
+            "iso_8601": "2018-06-25T05:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1529905951,
+            "text": "2018-06-25 06:52:31 +0100",
+            "iso_8601": "2018-06-25T05:52:31Z"
+        },
+        "subject": "DAILY EUROPEAN EQUITY OPENING NEWS",
+        "content": "<p>**EUROPEAN EQUITY COVERAGE WILL ONLY COVER COMPANIES IN THE STOXX 600 OR COMPANIES OF SYSTEMIC IMPORTANCE TO PARTICULAR SECTORS**</p>\r\n\r\n<p>25th June 2018</p>\r\n\r\n<p>The Daily European Equity Opening News is uploaded at 0700BST/0100CDT recapping all of the overnight equity news</p>\r\n\r\n<p>From 0700BST/0100CDT all equity news will be covered in real time over the audio and headline feed and the full audio rundown will be at 0715BST/0115CDT.</p>\r\n\r\n<p>There will be an additional audio rundown at 0750BST/0150CDT recapping any company news which has hit the wires since 0715BST/0115CDT ahead of the European equity open</p>\r\n\r\n<p><strong>ASIA</strong></p>\r\n\r\n<p>Asian equity markets began the week mixed as the region digested a targeted RRR reduction by the PBoC with reports the US is planning new restrictions on tech exports to China and on Chinese investment, which are expected to be announced by end of the week. ASX 200 (-0.2%) and Nikkei 225 (-0.4%) both initially opened higher with gains led by the energy sector in the wake of the OPEC+ agreement to raise output so they no longer overshoot on production cuts. The actual communique didn&rsquo;t explicitly state an amount for the output increase, although the touted figures by ministers were much less than some of the previously suggested scenarios of as much as 1.8mln bpd, which in turn lifted crude by around 4% on Friday. However, gains in the bourses were later pared as trade tensions returned to the fore with the US Treasury said to be devising rules to restrict China investment under the International Emergency Economic Powers Act of 1977. Elsewhere, the Hang Seng (-0.7%) was among the laggards as money market rates in Hong Kong printed fresh decade highs, while Shanghai Comp. (+0.2%) was choppy as support from the PBoC&rsquo;s policy efforts tussled with renewed trade concerns. Finally, 10yr JGBs were uneventful with prices flat near last week&rsquo;s best levels amid the cautious risk tone. The release of the Summary of Opinions also failed to spur demand as the BoJ stuck to its rehashed statements, and the central bank&rsquo;s presence in the market was largely ignored as it was only seeking Treasury discount bills.&nbsp;&nbsp;&nbsp;&nbsp;</p>\r\n\r\n<p><strong>FTSE</strong></p>\r\n\r\n<p>UK Gambling names &ndash; Figures seen have suggested that up to GBP 2.5bln will be bet on the World Cup, up 50% on prev. (Times)</p>\r\n\r\n<p>WPP (WPP LN) &ndash; Hedge fund investors have made a USD1.33bln bet vs. the co. as they struggle after Sorrells exit. (Times)</p>\r\n\r\n<p>BT (BT/A LN) &ndash; The co. has appointed Credit Suisse to find BT Italia a new owner as it looks to shed off this branch in order to raise capital. (Times)</p>\r\n\r\n<p>CRH (CRH LN) &ndash; The US Justice Department has said the co. has to divest out of Rock Gap Quarry as part of the acquisition of Pounding Mill Quarry Corp. (Newswires)</p>\r\n\r\n<p>Lloyds Banking Group (LLOY LN) &ndash; A group of British Lawmakers have called for an investigation into the co.&rsquo;s controversial Reading unit and its auditor KPMG. (Newswires)</p>\r\n\r\n<p>Aviva (AV/ LN) &ndash; The co. has announced a restructuring plan in order to boosted performance, including creating additional teams. (Newswires)</p>\r\n\r\n<p>OTHER UK COMPANIES</p>\r\n\r\n<p>IWG (IWG LN) - PE Firm Terra Firma has reportedly approached the name about a possible bid, according to sources. (Newswires)</p>\r\n\r\n<p>Premier Foods (PFD LN) &ndash; The co.&rsquo;s second largest shareholder, Oasis Management, has called for the axing of CEO Darby. (FT)</p>\r\n\r\n<p>BROKER MOVES</p>\r\n\r\n<p><strong>DAX</strong></p>\r\n\r\n<p>Deutsche Telekom (DTE GY) &ndash; The co. has won approval for a device to enhance the digital exchange of 70mln public patients&rsquo; health data. (Handelsblatt)</p>\r\n\r\n<p>RWE (RWE GY) &ndash; The co. is looking at USD 1.75bln in green energy investments after a deal to break up its Innogy unit. (Newswires)</p>\r\n\r\n<p>Volkswagen (VOW3 GY) &ndash; The co. is debating whether to claim damages from its former CEO Winterkorn. Elsewhere, they are also looking to boost used car sales through increases in customer premiums. (Newswires)</p>\r\n\r\n<p>OTHER GERMAN COMPANIES</p>\r\n\r\n<p>Ceconomy (CEC GY) &ndash; The co. could face double digit million euro losses after selling its loss making branch Media Markt. (Newswires)</p>\r\n\r\n<p><strong>CAC</strong></p>\r\n\r\n<p>Airbus (AIR FP) &ndash; UK Trade Secretary Fox has said that Airbus&rsquo; warnings are &ldquo;completely irresponsible&rdquo;. (Sky News)</p>\r\n\r\n<p>Sanofi (SAN FP)/Evotec (EVT GY) &ndash; The co.&rsquo;s have reached a milestone in their diabetes alliance, with Evotec receiving EUR 3mln from Sanofi. (Newswires)</p>\r\n\r\n<p>OTHER FRENCH COMPANIES</p>\r\n\r\n<p>Air France (AF FP) &ndash; Veolia (VIE FP) CFO Capron is reportedly viewed as a potential future candidate for CEO at the Co. (Newswires)</p>\r\n\r\n<p>BROKER MOVES</p>\r\n\r\n<p>ACCOR (AC FP) UPGRADED TO HOLD FROM SELL AT BERENBERG</p>\r\n\r\n<p>REXEL (RXL FP) UPGRADED TO BUY FROM HOLD AT HEALVEA-BAADER BANK</p>\r\n\r\n<p>LVMH (MC FP) INIAITIED WITH A BUY RATING AT JEFFERIES</p>\r\n\r\n<p><strong>SMI</strong></p>\r\n\r\n<p>Roche (ROG SW) &ndash; The co. say Tecentriq has shown much longer life expectancy when used with chemotherapy, and also reduced the risk of disease worsening or death, compared to just chemotherapy. (Newswires)</p>\r\n\r\n<p>Swiss Life (SLHN SW) &ndash; The co. has Acquires Beos, Germany&rsquo;s largest corporate real estate investment managing co. for an undisclosed amount, subject to approval by the competition authority. (Newswires)</p>\r\n\r\n<p><strong>SCANDINAVIA</strong></p>\r\n\r\n<p>Telenor (TEL NO) &ndash; Co. has redeemed around 16.2mln shares held by the Kingdom of Norway, whilst cancelling around 13.8mln shares. (Newswires)</p>\r\n\r\n<p><strong>PAN EUROPE</strong></p>\r\n\r\n<p>Intesa Sanpaolo (ISP IM) - BlackRock (BLK) said to take a 30% stake in Intesa Sanpaolo (ISP IM) wealth management unit. (Newswires)</p>\r\n\r\n<p>Prysmian (PSY IM) &ndash; The co has said cable problems in Scotland and Wales will lead to an additional EUR50mln in costs this year, and reduce EBITDA. (Newswires)</p>\r\n\r\n<p>UniCredit (UCG IM) &ndash; The British hedge fund Caius Capital is calling for the Co. investors to increase pressure on Co. to convert EUR 3bln of complex instruments into common equity. (FT)</p>\r\n\r\n<p>Banca Monte dei&nbsp; Paschi di Siena (BMPS IM) &ndash; The co. has sold 95% of junior notes in its EUR 24bln bad loans securitisation to Italian recovery fund.</p>\r\n\r\n<p>Telecom Italia (TIT IM) &ndash; Vivendi are trying to regain control of the co, with Chairman Conti also trying to mend relations with CEO Genish after comments on market speculation about the co. (La Stampa/Newswires)</p>\r\n\r\n<p>Luxottica (LUX IM) &ndash; The co. bought the world&rsquo;s largest manufacturer of sun lenses Barberini for USD 163mln. (Newswires)</p>\r\n\r\n<p><strong>US</strong></p>\r\n\r\n<p>* SPX +0.2% at 2754, NASDAQ 100 -0.3% at 7197, DJI +0.5% at 24581. SECTORS: Cons Cyclicals -0.1%, Cons Non-Cyclicals: +0.9%, Energy: +2.2%, Financials: -0.5%, Health Care: -0.4%, Industrials: +0.3%, Materials: +1.4%, Telecoms: +1.2%, Tech: -0.4%, Utilities: +0.7%.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "daily-european-equity-opening-news-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 33,
+            "name": "European Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 13:50:00",
+        "gmt_time": "2018-06-25 05:50:00"
+    },
+    {
+        "id": 663749,
+        "updated_sequence": 999030,
+        "published_at": {
+            "unix": 1529904960,
+            "text": "2018-06-25 06:36:00 +0100",
+            "iso_8601": "2018-06-25T05:36:00Z"
+        },
+        "updated_at": {
+            "unix": 1529906103,
+            "text": "2018-06-25 06:55:03 +0100",
+            "iso_8601": "2018-06-25T05:55:03Z"
+        },
+        "subject": "RANsquawk Daily European Opening News - 25th June 2018",
+        "content": "<p>To download the report, please click <a href=\"/research_sheets/19466/download\">here</a><br />If you would like to subscribe to receive the research sheets directly in your inbox, you can now do so under the <a href=\"/research_sheets\">Research Suite</a> section of the portal.<br />To subscribe simply check the box next to &quot;Email these reports&quot; under the desired category.</p>\r\n\r\n<ul><li>Asian equity markets began the week mixed as the region digested a targeted RRR reduction by the PBoC and reports the US is planning new restrictions on China</li>\r\n  <li>US President Trump is said to be planning new restrictions on tech exports to China and Chinese investment with an announcement expected by end of the week</li>\r\n  <li>Looking ahead, highlights include German IFO</li>\r\n</ul>\r\n\r\n<p><strong>TRADE</strong></p>\r\n\r\n<p>US President Trump is said to be planning new restrictions on tech exports to China and Chinese investment with an announcement expected by end of the week. Furthermore, repots stated the US Treasury is devising rules to block firms with 25% Chinese ownership from acquiring companies involved in industrially significant technologies and that it plans using International Emergency Economic Powers Act 1977 to impose investment restrictions. (WSJ)</p>\r\n\r\n<p>US President Trump tweeted that the US is insisting all countries that have placed trade barriers and tariffs on goods going into their country, remove them or be met with more than reciprocity by the US, while he added trade must be fair and not one-way. (Twitter)</p>\r\n\r\n<p><strong>ASIA</strong></p>\r\n\r\n<p>Asian equity markets began the week mixed as the region digested a targeted RRR reduction by the PBoC with reports the US is planning new restrictions on tech exports to China and on Chinese investment, which are expected to be announced by end of the week. ASX 200 (-0.2%) and Nikkei 225 (-0.4%) both initially opened higher with gains led by the energy sector in the wake of the OPEC+ agreement to raise output so they no longer overshoot on production cuts. The actual communique didn&rsquo;t explicitly state an amount for the output increase, although the touted figures by ministers were much less than some of the previously suggested scenarios of as much as 1.8mln bpd, which in turn lifted crude by around 4% on Friday. However, gains in the bourses were later pared as trade tensions returned to the fore with the US Treasury said to be devising rules to restrict China investment under the International Emergency Economic Powers Act of 1977. Elsewhere, the Hang Seng (-0.7%) was among the laggards as money market rates in Hong Kong printed fresh decade highs, while Shanghai Comp. (+0.2%) was choppy as support from the PBoC&rsquo;s policy efforts tussled with renewed trade concerns. Finally, 10yr JGBs were uneventful with prices flat near last week&rsquo;s best levels amid the cautious risk tone. The release of the Summary of Opinions also failed to spur demand as the BoJ stuck to its rehashed statements, and the central bank&rsquo;s presence in the market was largely ignored as it was only seeking Treasury discount bills.&nbsp;&nbsp;&nbsp; &nbsp;<br />&nbsp;</p>\r\n\r\n<p>PBoC announced that it will lower some banks&#39; RRR by 50 basis points on July 5th. (Xinhua)</p>\r\n\r\n<p>PBoC skipped open market operations for a daily net drain of CNY 10bln. (Newswires)</p>\r\n\r\n<p>PBoC set CNY mid-point at 6.4893 (Prev. 6.4804)</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>BoJ Summary of Opinions from June 14th-15th meeting stated it is appropriate to pursue powerful monetary easing with persistence under the current guideline as inflation is a long way from target but added the momentum towards achieving 2% is maintained. Furthermore, Summary of Opinions stated that although Japan&#39;s GDP for the March quarter of 2018 contracted for the first time in nine quarters, this largely reflects temporary factors such as irregular weather. (Newswires)</p>\r\n\r\n<p><br /><strong>UK/EU</strong></p>\r\n\r\n<p>At least 50 UK Conservative MPs are willing to rebel against the government if PM May fails to inject more money into defence, an ally of Gavin Williamson, the defence secretary, said last night. (Times)</p>\r\n\r\n<p>Over 50 Conservative MPs are prepared to block any attempt to remove Britain from the EU without a deal &mdash; including some sitting ministers &mdash; according to senior Conservative politicians. (FT)</p>\r\n\r\n<p>UK PM May&#39;s plans for a customs partnership are &quot;bureaucratic, unwieldy and impractical&quot;, according to Andrea Leadsom, the Leader of the Commons. (Telegraph)</p>\r\n\r\n<p>UK Trade Secretary Fox told Sky he would accept an extended Brexit transition period given it was for technical reasons. (Sky News)</p>\r\n\r\n<p>ECB&#39;s Praet (Dovish) says prolonging the purchase of assets for 2019 is an option. (Espresso)</p>\r\n\r\n<p><strong>FX</strong></p>\r\n\r\n<p>In FX markets, most major currencies were uneventful with the DXY flat around 94.50 and with its counterparts across the pond kept sideways overnight at the mid-1.1600 and mid-1.3200 handles for EUR/USD and GBP/USD respectively. Elsewhere, USD/CAD was slightly higher but with price action relatively low-key in comparison to the volatility last Friday triggered by weak data and oil strength, while JPY benefitted from safe-haven flows which dragged USD/JPY further below the 110.00 level. However, the biggest movers in FX came from EM with CNY weaker on the PBoC&rsquo;s quasi-loosening and with TRY buoyed after President Erdogan won the election on Sunday with more than 50% of votes to avoid the need for a 2nd round run-off.</p>\r\n\r\n<p>Turkey President Erdogan won the Presidential election with 53% of the vote which means that a 2nd round runoff is unnecessary, while his closest rival Ince said it was not a fair race but declared that Erdogan won. (Newswires)</p>\r\n\r\n<p><strong>COMMODITIES</strong></p>\r\n\r\n<p>Commodities were subdued with WTI crude futures taking a breather from last week&rsquo;s OPEC-inspired rally which saw prices rally around 4% to briefly above USD 69.00/bbl. Conversely, Brent crude gave up its gains with prices down as much as 2% as participants mulled over the OPEC+ agreement in which no exact amount was specified for the output increase, while there were also comments from the Saudi Energy Minister who suggested concern regarding price rallies. Gold was also lacklustre overnight and failed to benefit from the cautious risk tone while copper was indecisive amid the opposing forces from China&rsquo;s targeted RRR cut and potential fresh trade measures against China.</p>\r\n\r\n<p>Saudi Energy Minister Al-Falih stated that the total OPEC+ oil hike is closer to 1mln bpd than 600k and that it would be a concern if Friday&rsquo;s increase in prices were to become a trend. (Newswires)</p>\r\n\r\n<p>Goldman Sachs said it doesn&#39;t see OPEC deal altering market outlook and that physical oil market is still tightening, while it also commented that OPEC deal may represent beginning of the unravelling of the output cut deal. (Newswires)</p>\r\n\r\n<p>Baker Hughes Rig Count (22 June) total rigs -7 to 1052, with oil rigs down by 1 to 862 which is the 1st reduction of oil rigs in 12 weeks. (Newswires)<br />&nbsp;</p>\r\n\r\n<p><strong>GEOPOLITCAL</strong></p>\r\n\r\n<p>US is expected to provide North Korean timeline soon, which is expected to include specific asks from North Korea with the purpose to assess the nation&#39;s level of commitment. (Newswires)<br />&nbsp;</p>\r\n\r\n<p><strong>US</strong></p>\r\n\r\n<p>Treasuries were flat on Friday and volume was thin, though the complex did close higher for the second straight week, ahead of next week, where the US Treasury will auction more than $200bln of paper. Higher stocks initially had Treasuries on the back foot on Friday, and yields were also dancing to the tune of oil prices. But losses were pared as we headed into the close, with the curve steepening a touch on the day. US 10YR T-notes futures (Sep 2018) 1 tick lower at 119-26+.</p>\r\n\r\n<p>Reports noted that new federal prosecutors have started to participate in Special Counsel Mueller&#39;s cases which suggests could be a sign Mueller is considering winding down investigations before handing off prosecutions to other parts of the DOJ. (Newswires)</p>\r\n\r\n<p>Canada&rsquo;s NAFTA negotiator Verheul said on Friday that there were no active NAFTA talks at that moment. (Newswires)</p>\r\n\r\n<p>Russia&#39;s Economy Minister Oreshkin said Russia will increase tariffs on US autos. (Newswires)</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "ransquawk-daily-european-opening-news-25th-june-2018-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 13:36:00",
+        "gmt_time": "2018-06-25 05:36:00"
+    },
+    {
+        "id": 663748,
+        "updated_sequence": 999028,
+        "published_at": {
+            "unix": 1529903220,
+            "text": "2018-06-25 06:07:00 +0100",
+            "iso_8601": "2018-06-25T05:07:00Z"
+        },
+        "updated_at": {
+            "unix": 1529906050,
+            "text": "2018-06-25 06:54:10 +0100",
+            "iso_8601": "2018-06-25T05:54:10Z"
+        },
+        "subject": "ECB's Praet (Dovish) says prolonging the purchase of assets for 2019 is an option",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "ecb-s-praet-dovish-says-prolonging-the-purchase-of-assets-for-2019-is-an-option-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 17,
+            "name": "ECB"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 13:07:00",
+        "gmt_time": "2018-06-25 05:07:00"
+    },
+    {
+        "id": 663747,
+        "updated_sequence": 999006,
+        "published_at": {
+            "unix": 1529902800,
+            "text": "2018-06-25 06:00:00 +0100",
+            "iso_8601": "2018-06-25T05:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1529902988,
+            "text": "2018-06-25 06:03:08 +0100",
+            "iso_8601": "2018-06-25T05:03:08Z"
+        },
+        "subject": "Japanese Coincident Index (Apr F) 117.5 (Prev.\t117.7)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-coincident-index-apr-f-117-5-prev-117-7-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 13:00:00",
+        "gmt_time": "2018-06-25 05:00:00"
+    },
+    {
+        "id": 663746,
+        "updated_sequence": 999003,
+        "published_at": {
+            "unix": 1529902800,
+            "text": "2018-06-25 06:00:00 +0100",
+            "iso_8601": "2018-06-25T05:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1529902943,
+            "text": "2018-06-25 06:02:23 +0100",
+            "iso_8601": "2018-06-25T05:02:23Z"
+        },
+        "subject": "Japanese Leading Index (Apr F) 106.2 (Prev. 105.6)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-leading-index-apr-f-106-2-prev-105-6-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 13:00:00",
+        "gmt_time": "2018-06-25 05:00:00"
+    },
+    {
+        "id": 663743,
+        "updated_sequence": 998994,
+        "published_at": {
+            "unix": 1529902680,
+            "text": "2018-06-25 05:58:00 +0100",
+            "iso_8601": "2018-06-25T04:58:00Z"
+        },
+        "updated_at": {
+            "unix": 1529902758,
+            "text": "2018-06-25 05:59:18 +0100",
+            "iso_8601": "2018-06-25T04:59:18Z"
+        },
+        "subject": "ASIA-PAC MARKET WRAP: Asia traded mixed following PBoC RRR cut and renewed trade concerns",
+        "content": "<p>Asia equity markets began the week mixed as the region digested a targeted RRR reduction by the PBoC with reports the US is planning new restrictions on tech exports to China and on Chinese investment, which are expected to be announced by end of the week. ASX 200 (-0.2%) and Nikkei 225 (-0.4%) both initially opened higher with gains led by the energy sector in the wake of the OPEC+ agreement to raise output so they no longer overshoot on production cuts. The actual communique didn&rsquo;t explicitly state an amount for the output increase, although the touted figures by ministers were much less than some of the previously suggested scenarios of as much as 1.8mln bpd, which in turn lifted crude by around 4% on Friday. However, gains in the bourses were later pared as trade tensions returned to the fore with the US Treasury said to be devising rules to restrict China investment under the International Emergency Economic Powers Act of 1977. Elsewhere, the Hang Seng (-0.7%) was among the laggards as money market rates in Hong Kong printed fresh decade highs, while Shanghai Comp. (+0.2%) was choppy as support from the PBoC&rsquo;s policy efforts tussled with renewed trade concerns. Finally, 10yr JGBs were uneventful with prices flat near last week&rsquo;s best levels amid the cautious risk tone. The release of the Summary of Opinions also failed to spur demand as the BoJ stuck to its rehashed statements, and the central bank&rsquo;s presence in the market was largely ignored as it was only seeking Treasury discount bills.&nbsp;&nbsp;&nbsp; &nbsp;</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-market-wrap-asia-traded-mixed-following-pboc-rrr-cut-and-renewed-trade-concerns-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 12:58:00",
+        "gmt_time": "2018-06-25 04:58:00"
+    },
+    {
+        "id": 663742,
+        "updated_sequence": 998989,
+        "published_at": {
+            "unix": 1529900520,
+            "text": "2018-06-25 05:22:00 +0100",
+            "iso_8601": "2018-06-25T04:22:00Z"
+        },
+        "updated_at": {
+            "unix": 1529900612,
+            "text": "2018-06-25 05:23:32 +0100",
+            "iso_8601": "2018-06-25T04:23:32Z"
+        },
+        "subject": "Indonesia Imports (May) Y/Y 28.1% vs. Exp. 13.9% (Prev. 34.7%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "indonesia-imports-may-y-y-28-1-vs-exp-13-9-prev-34-7-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 12:22:00",
+        "gmt_time": "2018-06-25 04:22:00"
+    },
+    {
+        "id": 663741,
+        "updated_sequence": 998986,
+        "published_at": {
+            "unix": 1529900520,
+            "text": "2018-06-25 05:22:00 +0100",
+            "iso_8601": "2018-06-25T04:22:00Z"
+        },
+        "updated_at": {
+            "unix": 1529900564,
+            "text": "2018-06-25 05:22:44 +0100",
+            "iso_8601": "2018-06-25T04:22:44Z"
+        },
+        "subject": "Indonesia Trade Balance (May) -1.52B vs. Exp. -0.38B (Prev. -1.62B)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "indonesia-trade-balance-may-1-52b-vs-exp-0-38b-prev-1-62b-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 12:22:00",
+        "gmt_time": "2018-06-25 04:22:00"
+    },
+    {
+        "id": 663740,
+        "updated_sequence": 998991,
+        "published_at": {
+            "unix": 1529900400,
+            "text": "2018-06-25 05:20:00 +0100",
+            "iso_8601": "2018-06-25T04:20:00Z"
+        },
+        "updated_at": {
+            "unix": 1529900675,
+            "text": "2018-06-25 05:24:35 +0100",
+            "iso_8601": "2018-06-25T04:24:35Z"
+        },
+        "subject": "China Vice Premier Liu He says China and EU agree in opposing trade protectionism and to swap list of offer on bilateral investment deal",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "china-vice-premier-liu-he-says-china-and-eu-agree-in-opposing-trade-protectionism-and-to-swap-list-of-offer-on-bilateral-investment-deal-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 12:20:00",
+        "gmt_time": "2018-06-25 04:20:00"
+    },
+    {
+        "id": 663739,
+        "updated_sequence": 998980,
+        "published_at": {
+            "unix": 1529900220,
+            "text": "2018-06-25 05:17:00 +0100",
+            "iso_8601": "2018-06-25T04:17:00Z"
+        },
+        "updated_at": {
+            "unix": 1529900299,
+            "text": "2018-06-25 05:18:19 +0100",
+            "iso_8601": "2018-06-25T04:18:19Z"
+        },
+        "subject": "Indonesia Exports (May) Y/Y 12.5% vs. Exp. 8.4% (Prev. 9.0%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "indonesia-exports-may-y-y-12-5-vs-exp-8-4-prev-9-0-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 12:17:00",
+        "gmt_time": "2018-06-25 04:17:00"
+    },
+    {
+        "id": 663738,
+        "updated_sequence": 998970,
+        "published_at": {
+            "unix": 1529897460,
+            "text": "2018-06-25 04:31:00 +0100",
+            "iso_8601": "2018-06-25T03:31:00Z"
+        },
+        "updated_at": {
+            "unix": 1529897749,
+            "text": "2018-06-25 04:35:49 +0100",
+            "iso_8601": "2018-06-25T03:35:49Z"
+        },
+        "subject": "PRE-MARKET INDIA STOCK NEWS: Reliance Industries (RIL IS) is said to consider IPO for Jio unit",
+        "content": "<p>Dr Reddy&rsquo;s (DRRD IS)<br />- Co. lost patent dispute with Eli Lilly regarding Alimta drug. (ET)</p>\r\n\r\n<p>IDBI Bank (IDBI IS)<br />- India&rsquo;s government held preliminary discussions regarding potential infusion of fresh capital to the bank from state-owned LIC. (ET)</p>\r\n\r\n<p>Infosys (INFO IS)<br />- Whistleblower sends letter to SEC and regulators in which it requests regulators require the Co. to inform shareholders reason behind 20F filing delay and if it is connected to the resignation of the co.-chairman. (Newswires)</p>\r\n\r\n<p>Reliance Industries (RIL IS)<br />- Co. is said to consider IPO for Jio unit. (Newswires)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-india-stock-news-reliance-industries-ril-is-is-said-to-consider-ipo-for-jio-unit-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 11:31:00",
+        "gmt_time": "2018-06-25 03:31:00"
+    },
+    {
+        "id": 663737,
+        "updated_sequence": 998964,
+        "published_at": {
+            "unix": 1529896920,
+            "text": "2018-06-25 04:22:00 +0100",
+            "iso_8601": "2018-06-25T03:22:00Z"
+        },
+        "updated_at": {
+            "unix": 1529896974,
+            "text": "2018-06-25 04:22:54 +0100",
+            "iso_8601": "2018-06-25T03:22:54Z"
+        },
+        "subject": "US SEC completes accounting probe into Toshiba (6502 JT) in which no warning or fine was issued",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-sec-completes-accounting-probe-into-toshiba-6502-jt-in-which-no-warning-or-fine-was-issued-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 11:22:00",
+        "gmt_time": "2018-06-25 03:22:00"
+    },
+    {
+        "id": 663735,
+        "updated_sequence": 998958,
+        "published_at": {
+            "unix": 1529895720,
+            "text": "2018-06-25 04:02:00 +0100",
+            "iso_8601": "2018-06-25T03:02:00Z"
+        },
+        "updated_at": {
+            "unix": 1529895763,
+            "text": "2018-06-25 04:02:43 +0100",
+            "iso_8601": "2018-06-25T03:02:43Z"
+        },
+        "subject": "BoK says economy improved mildly in some regions during Q2 ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "bok-says-economy-improved-mildly-in-some-regions-during-q2-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 11:02:00",
+        "gmt_time": "2018-06-25 03:02:00"
+    },
+    {
+        "id": 663736,
+        "updated_sequence": 998961,
+        "published_at": {
+            "unix": 1529895720,
+            "text": "2018-06-25 04:02:00 +0100",
+            "iso_8601": "2018-06-25T03:02:00Z"
+        },
+        "updated_at": {
+            "unix": 1529895886,
+            "text": "2018-06-25 04:04:46 +0100",
+            "iso_8601": "2018-06-25T03:04:46Z"
+        },
+        "subject": "US is expected to provide North Korea timeline soon, which is expected to include specific asks from North Korea with the purpose to assess the nation's level of commitment",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-is-expected-to-provide-north-korea-timeline-soon-which-is-expected-to-include-specific-asks-from-north-korea-with-the-purpose-to-assess-the-nation-s-level-of-commitment-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 11:02:00",
+        "gmt_time": "2018-06-25 03:02:00"
+    },
+    {
+        "id": 663735,
+        "updated_sequence": 998958,
+        "published_at": {
+            "unix": 1529895720,
+            "text": "2018-06-25 04:02:00 +0100",
+            "iso_8601": "2018-06-25T03:02:00Z"
+        },
+        "updated_at": {
+            "unix": 1529895763,
+            "text": "2018-06-25 04:02:43 +0100",
+            "iso_8601": "2018-06-25T03:02:43Z"
+        },
+        "subject": "BoK says economy improved mildly in some regions during Q2 ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "bok-says-economy-improved-mildly-in-some-regions-during-q2-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 11:02:00",
+        "gmt_time": "2018-06-25 03:02:00"
+    },
+    {
+        "id": 663734,
+        "updated_sequence": 998977,
+        "published_at": {
+            "unix": 1529894820,
+            "text": "2018-06-25 03:47:00 +0100",
+            "iso_8601": "2018-06-25T02:47:00Z"
+        },
+        "updated_at": {
+            "unix": 1529899857,
+            "text": "2018-06-25 05:10:57 +0100",
+            "iso_8601": "2018-06-25T04:10:57Z"
+        },
+        "subject": "ASIA-PAC MID-SESSION UPDATE: Asia stocks trade subdued as prospects of fresh US trade measures on China overshadow PBoC RRR cut",
+        "content": "<p>Asia equity markets begin&nbsp;the week cautious as the region digests a targeted RRR reduction by the PBoC with reports the US is planning new restrictions on tech exports to China and on Chinese investment, which are expected to be announced by end of the week. ASX 200 (-0.2%) and Nikkei 225 (-0.4%) both initially opened higher with gains led by the energy sector in the wake of the OPEC+ agreement to raise output so they no longer overshoot on production cuts. The actual communique didn&rsquo;t explicitly state an amount for the output increase, although the touted figures by ministers were much less than some of the previously suggested scenarios of as much as 1.8mln bpd, which in turn lifted crude by around 4% on Friday. However, gains in the bourses were later pared as trade tensions returned to the fore with the US Treasury said to be devising rules to restrict China investment under the International Emergency Economic Powers Act of 1977. Elsewhere, the Hang Seng (-0.7%) conforms to the overall weakness, while Shanghai Comp. (-0.2%) is choppy with trade concerns overshadowing the PBoC&rsquo;s policy efforts.</p>\r\n\r\n<p>In FX markets, most major currencies are uneventful with the DXY flat around 94.50 and with its counterparts across the pond trading sideways overnight in the mid-1.1600 and mid-1.3200 handles for EUR/USD and GBP/USD respectively. Elsewhere, USD/CAD is slightly higher but with price action relatively low-key in comparison to the volatility last Friday triggered by weak data and oil strength, while JPY benefits from safe-haven flows with USD/JPY retreating further below the 110.00 level. However, the biggest movers in FX came from EM with CNY weaker on the PBoC&rsquo;s quasi-loosening and with TRY buoyed after President Erdogan won the election on Sunday with more than 50% of votes to avoid the need for a 2nd round run-off.</p>\r\n\r\n<p>Finally, 10yr JGBs are uneventful with prices flat near last week&rsquo;s best levels amid the cautious risk tone. The release of the Summary of Opinions also failed to spur demand as the BoJ stuck to its rehashed statements, and the central bank&rsquo;s presence in the market was largely ignored as it was only seeking to buy Treasury discount bills. &nbsp;&nbsp;&nbsp;</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-mid-session-update-asia-stocks-trade-subdued-as-prospects-of-fresh-us-trade-measures-on-china-overshadow-pboc-rrr-cut-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 10:47:00",
+        "gmt_time": "2018-06-25 02:47:00"
+    },
+    {
+        "id": 663733,
+        "updated_sequence": 998950,
+        "published_at": {
+            "unix": 1529893860,
+            "text": "2018-06-25 03:31:00 +0100",
+            "iso_8601": "2018-06-25T02:31:00Z"
+        },
+        "updated_at": {
+            "unix": 1529893937,
+            "text": "2018-06-25 03:32:17 +0100",
+            "iso_8601": "2018-06-25T02:32:17Z"
+        },
+        "subject": "HT&E (HT1 AT) Chairman is to retire",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "ht-e-ht1-at-chairman-is-to-retire-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 10:31:00",
+        "gmt_time": "2018-06-25 02:31:00"
+    },
+    {
+        "id": 663732,
+        "updated_sequence": 998947,
+        "published_at": {
+            "unix": 1529892120,
+            "text": "2018-06-25 03:02:00 +0100",
+            "iso_8601": "2018-06-25T02:02:00Z"
+        },
+        "updated_at": {
+            "unix": 1529892292,
+            "text": "2018-06-25 03:04:52 +0100",
+            "iso_8601": "2018-06-25T02:04:52Z"
+        },
+        "subject": "Reports note that new federal prosecutors have started to participate in Special Counsel Mueller's cases which reports note could be a sign Mueller is considering winding down investigations before handing off prosecutions to other parts of the DOJ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "reports-note-that-new-federal-prosecutors-have-started-to-participate-in-special-counsel-mueller-s-cases-which-reports-note-could-be-a-sign-mueller-is-considering-winding-down-investigations-before-handing-off-prosecutions-to-other-parts-of-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 10:02:00",
+        "gmt_time": "2018-06-25 02:02:00"
+    },
+    {
+        "id": 663731,
+        "updated_sequence": 998944,
+        "published_at": {
+            "unix": 1529890620,
+            "text": "2018-06-25 02:37:00 +0100",
+            "iso_8601": "2018-06-25T01:37:00Z"
+        },
+        "updated_at": {
+            "unix": 1529890669,
+            "text": "2018-06-25 02:37:49 +0100",
+            "iso_8601": "2018-06-25T01:37:49Z"
+        },
+        "subject": "ANZ Bank pushes back forecast for RBNZ rate hike to November 2019 from August 2019",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "anz-bank-pushes-back-forecast-for-rbnz-rate-hike-to-november-2019-from-august-2019-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 09:37:00",
+        "gmt_time": "2018-06-25 01:37:00"
+    },
+    {
+        "id": 663730,
+        "updated_sequence": 998941,
+        "published_at": {
+            "unix": 1529889300,
+            "text": "2018-06-25 02:15:00 +0100",
+            "iso_8601": "2018-06-25T01:15:00Z"
+        },
+        "updated_at": {
+            "unix": 1529889401,
+            "text": "2018-06-25 02:16:41 +0100",
+            "iso_8601": "2018-06-25T01:16:41Z"
+        },
+        "subject": "PBoC sets CNY mid-point at 6.4893 (Prev. 6.4804)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pboc-sets-cny-mid-point-at-6-4893-prev-6-4804-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 09:15:00",
+        "gmt_time": "2018-06-25 01:15:00"
+    },
+    {
+        "id": 663729,
+        "updated_sequence": 998935,
+        "published_at": {
+            "unix": 1529889120,
+            "text": "2018-06-25 02:12:00 +0100",
+            "iso_8601": "2018-06-25T01:12:00Z"
+        },
+        "updated_at": {
+            "unix": 1529889189,
+            "text": "2018-06-25 02:13:09 +0100",
+            "iso_8601": "2018-06-25T01:13:09Z"
+        },
+        "subject": "PBoC skips open market operations for a daily net drain of CNY 10bln",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pboc-skips-open-market-operations-for-a-daily-net-drain-of-cny-10bln-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 09:12:00",
+        "gmt_time": "2018-06-25 01:12:00"
+    },
+    {
+        "id": 663728,
+        "updated_sequence": 998938,
+        "published_at": {
+            "unix": 1529888880,
+            "text": "2018-06-25 02:08:00 +0100",
+            "iso_8601": "2018-06-25T01:08:00Z"
+        },
+        "updated_at": {
+            "unix": 1529889351,
+            "text": "2018-06-25 02:15:51 +0100",
+            "iso_8601": "2018-06-25T01:15:51Z"
+        },
+        "subject": "PRE-MARKET CHINESE  STOCK NEWS: PBoC announced 50bps targeted RRR cut; US plans new restrictions on tech exports to China and Chinese investment which are set to be announced by end of the week",
+        "content": "<p>Aluminium Corp. of China (2600 HK)<br />- Controlling shareholder Chinalco will increase holdings in the Co. for between CNY 400mln-CNY 1.0bln within 12 months. (Newswires)<br /><br />China Gas Holdings (384 HK)<br />- Co. FY17/18 net HKD 6.1bln vs. Exp. HKD 6.2bln, rev. HKD 52.8bln vs. Exp. HKD 43.3bln. (Newswires)</p>\r\n\r\n<p>HNA Holding Group (521 HK)<br />- Co. planning to offload stake in 245 Park Avenue. (Newswires)</p>\r\n\r\n<p>HNA Infrastructure (357 HK)<br />- Co. is planning to spend CNY 10.4bln to acquire project Co. which has nearly 75% stake in Hong Kong International Construction Investment Management. (Newswires)</p>\r\n\r\n<p>Financials/Property<br />- Certain Hong Kong banks are to lower commissions at mortgage broker units. (Newswires)<br />_ China Xi&rsquo;an City is said to suspend companies from purchasing homes. (China Securities Journal)</p>\r\n\r\n<p>Telecoms<br />- China Mobile (941 HK) and China Unicom (762 HK) announced on Friday to scrap charges for domestic roaming data use starting July 1st. (China Economic Net)</p>\r\n\r\n<p>Other News<br />- PBoC said on Sunday that it will lower some banks&#39; RRR by 50 basis points on July 5th. (Xinhua)<br />- US President Trump is said to be planning new restrictions on tech exports to China and Chinese investment with an announcement expected by end of the week. Furthermore, repots stated the US Treasury is devising rules to block firms with 25% Chinese ownership from acquiring companies involved in industrially significant technologies and that it plans using International Emergency Economic Powers Act 1977 to impose investment restrictions. (WSJ)</p>\r\n\r\n<p>Data Recap<br />- Hong Kong Current Account (Q1) 16.3B (Prev. 16.0B). (Newswires)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-chinese-stock-news-pboc-announced-50bps-targeted-rrr-cut-us-plans-new-restrictions-on-tech-exports-to-china-and-chinese-investment-which-are-set-to-be-announced-by-end-of-the-week-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 09:08:00",
+        "gmt_time": "2018-06-25 01:08:00"
+    },
+    {
+        "id": 663727,
+        "updated_sequence": 998927,
+        "published_at": {
+            "unix": 1529886720,
+            "text": "2018-06-25 01:32:00 +0100",
+            "iso_8601": "2018-06-25T00:32:00Z"
+        },
+        "updated_at": {
+            "unix": 1529886953,
+            "text": "2018-06-25 01:35:53 +0100",
+            "iso_8601": "2018-06-25T00:35:53Z"
+        },
+        "subject": "PRE-MARKET TAIWAN AND SINGAPORE NEWS: Compal (2324 TT) is planning on increasing prices during Q3 to help offset passive component price increases",
+        "content": "<p>TAIWAN</p>\r\n\r\n<p>Compal (2324 TT)<br />- Co. is planning on increasing prices during Q3 to help offset passive component price increases. (Taipei Times)</p>\r\n\r\n<p>Data Recap<br />- Taiwan Unemployment Rate (May) 3.7% (Prev. 3.7%). (Newswires)</p>\r\n\r\n<p><br />SINGAPORE</p>\r\n\r\n<p>Noble Group (NOBL SP)<br />- Co. announces deferral of distribution regarding USD 400mln of perpetual capital securities. (Newswires)<br />- Co. unit Maylion adds a further 52.5% stake in East Energy Resources. (Newswires)</p>\r\n\r\n<p>RH PetroGas (RHP SP)<br />- Co. receives 20yr terms for Kepala Burung and Salawati Kepala Burung production sharing contracts. (Newswires)</p>\r\n\r\n<p>Sembcorp Industries (SCI SP)<br />- Co. awarded 50MW solar project in Singapore, although no terms were disclosed. (Newswires)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-taiwan-and-singapore-news-compal-2324-tt-is-planning-on-increasing-prices-during-q3-to-help-offset-passive-component-price-increases-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 08:32:00",
+        "gmt_time": "2018-06-25 00:32:00"
+    },
+    {
+        "id": 663726,
+        "updated_sequence": 998929,
+        "published_at": {
+            "unix": 1529886360,
+            "text": "2018-06-25 01:26:00 +0100",
+            "iso_8601": "2018-06-25T00:26:00Z"
+        },
+        "updated_at": {
+            "unix": 1529887159,
+            "text": "2018-06-25 01:39:19 +0100",
+            "iso_8601": "2018-06-25T00:39:19Z"
+        },
+        "subject": "US Treasury is said to be devising rules to block firms with 25% Chinese ownership from acquiring companies involved in industrially significant technologies & plans using International Emergency Economic Powers Act 1977 to impose investment restrictions",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "WSJ",
+        "slug": "us-treasury-is-said-to-be-devising-rules-to-block-firms-with-25-chinese-ownership-from-acquiring-companies-involved-in-industrially-significant-technologies-plans-using-international-emergency-economic-powers-act-1977-to-impose-investment-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 08:26:00",
+        "gmt_time": "2018-06-25 00:26:00"
+    },
+    {
+        "id": 663725,
+        "updated_sequence": 998921,
+        "published_at": {
+            "unix": 1529884860,
+            "text": "2018-06-25 01:01:00 +0100",
+            "iso_8601": "2018-06-25T00:01:00Z"
+        },
+        "updated_at": {
+            "unix": 1529885176,
+            "text": "2018-06-25 01:06:16 +0100",
+            "iso_8601": "2018-06-25T00:06:16Z"
+        },
+        "subject": "Asia stocks begin the week mostly higher following PBoC RRR cut and the similar performance in US last Friday where energy was underpinned by OPEC+ agreement and DJIA snapped an 8-day losing streak; ASX 200 (+0.3%), Nikkei 225 (+0.1%), KOSPI (-0.6%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-stocks-begin-the-week-mostly-higher-following-pboc-rrr-cut-and-the-similar-performance-in-us-last-friday-where-energy-was-underpinned-by-opec-agreement-and-djia-snapped-an-8-day-losing-streak-asx-200-0-3-nikkei-225-0-1-kospi-25-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-25 08:01:00",
+        "gmt_time": "2018-06-25 00:01:00"
+    }
+]

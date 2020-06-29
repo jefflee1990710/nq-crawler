@@ -1,0 +1,376 @@
+[
+    {
+        "id": 892198,
+        "updated_sequence": 1971690,
+        "published_at": {
+            "unix": 1571615700,
+            "text": "2019-10-21 00:55:00 +0100",
+            "iso_8601": "2019-10-20T23:55:00Z"
+        },
+        "updated_at": {
+            "unix": 1571615752,
+            "text": "2019-10-21 00:55:52 +0100",
+            "iso_8601": "2019-10-20T23:55:52Z"
+        },
+        "subject": "South Korea October 1st-20th declined 19.5% Y/Y, Imports fell 20.1% Y/Y",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "south-korea-october-1st-20th-declined-19-5-y-y-imports-fell-20-1-y-y-20-10-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-10-21 07:55:00",
+        "gmt_time": "2019-10-20 23:55:00"
+    },
+    {
+        "id": 892194,
+        "updated_sequence": 1971920,
+        "published_at": {
+            "unix": 1571614800,
+            "text": "2019-10-21 00:40:00 +0100",
+            "iso_8601": "2019-10-20T23:40:00Z"
+        },
+        "updated_at": {
+            "unix": 1571616479,
+            "text": "2019-10-21 01:07:59 +0100",
+            "iso_8601": "2019-10-21T00:07:59Z"
+        },
+        "subject": "PRE-MARKET JAPANESE AND SOUTH KOREAN STOCK NEWS: Japan Tobacco (2914 JT) September cigarette sales volumes fell over 27% Y/Y",
+        "content": "<p>JAPAN</p><p>East Japan Railway (9020 JT) - Co. faces potential JPY 29bln bill if its bullet trains damaged by the typhoon, need to be replaced. (Nikkei)</p><p>Japan Tobacco (2914 JT) - Co. September cigarette sales volumes fell 8.7% Y/Y. (Newswires)</p><p>Mitsubishi Heavy Industries (7011 JT) - Co. plans to postpone SpaceJet plane deliveries for a 6th occasion. (Nikkei)</p><p>Nissan (7201 JT) - Co. CEO said the automaker is on the right path for recovery although it may be a gradual process. (Newswires)</p><p>SoftBank (9984 JT) - Japan’s Finance Ministry plans to shut a tax loop hole which had allowed SoftBank to pay no taxes last year through asset shifting within the group and negating profits in other sectors. (Nikkei)</p><p>Sumitomo Corp (8053 JT) - Co. and NEC (6701 JT) agreed to a contract to develop a satellite for Vietnam’s government. (Nikkei)</p><p>Other News - BoJ Governor Kuroda says will certainly lower short and medium-term rates as part of easing if needed, adds we already have a flexible framework that allows us to accelerate ETF purchases if markets become too volatile. (Newswires)</p><p>&nbsp;</p><p>SOUTH KOREA</p><p>Mando (204320 KS) - Planning to sell steering by wire system to Canoo. (Newswires) POSCO (005490 KS) - POSCO E&amp;C completed power plant construction in Panama. (Newswires)</p><p>Samsung Electronics (005930 KS) - Co. is said to target sales of foldable phones at 6mln units in 2020. (Newswires)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-japanese-and-south-korean-stock-news-japan-tobacco-2914-jt-september-cigarette-sales-volumes-fell-over-27-y-y-20-10-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-10-21 07:40:00",
+        "gmt_time": "2019-10-20 23:40:00"
+    },
+    {
+        "id": 892193,
+        "updated_sequence": 1971653,
+        "published_at": {
+            "unix": 1571612580,
+            "text": "2019-10-21 00:03:00 +0100",
+            "iso_8601": "2019-10-20T23:03:00Z"
+        },
+        "updated_at": {
+            "unix": 1571612697,
+            "text": "2019-10-21 00:04:57 +0100",
+            "iso_8601": "2019-10-20T23:04:57Z"
+        },
+        "subject": "BHP (BHP AT) signs 4 renewable power agreement related to Chile operations which is to be value accretive even with provisions, with Co. to recognize USD 780mln in provisions related to coal contract cancellations",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "bhp-bhp-at-signs-4-renewable-power-agreement-related-to-chile-operations-which-is-to-be-value-accretive-even-with-provisions-with-co-to-recognize-usd-780mln-in-provisions-related-to-coal-contract-cancellations-20-10-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-10-21 07:03:00",
+        "gmt_time": "2019-10-20 23:03:00"
+    },
+    {
+        "id": 892190,
+        "updated_sequence": 1971644,
+        "published_at": {
+            "unix": 1571611500,
+            "text": "2019-10-20 23:45:00 +0100",
+            "iso_8601": "2019-10-20T22:45:00Z"
+        },
+        "updated_at": {
+            "unix": 1571611557,
+            "text": "2019-10-20 23:45:57 +0100",
+            "iso_8601": "2019-10-20T22:45:57Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIAN STOCK NEWS: Perseus Mining (PRU AT) Q1 gold output 65.8k ounces vs. Prev. 72.5k ounces Y/Y",
+        "content": "<p>Cromwell Property Group (CMW AT) - Co. elected director Leon Blitz for Deputy Chairman role. (Newswires)</p><p>Lynas (LYC AT) - Co. Q1 rev. AUD 99.1mln vs. Prev. AUD 106mln Y/Y. (Newswires)</p><p>Perseus Mining (PRU AT) - Co. Q1 gold output 65.8k ounces vs. Prev. 72.5k ounces Y/Y. (Newswires)</p><p>Stockland (SGP AT) - Co. said results are solid and that distribution payout is lower end of 75%-85% range in its Q1 update. (Newswires)</p><p>Treasury Wine Estates (TWE AT) - Co. CEO Clarke is to retire in Q1 FY21. (Newswires)</p><p>Other News - Westpac analysts said it is possible the RBA adopts asset purchase program next year and expects RBA to see 0.5% as lower bound for the cash rate. (Newswires)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-australian-stock-news-perseus-mining-pru-at-q1-gold-output-65-8k-ounces-vs-prev-72-5k-ounces-y-y-20-10-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-10-21 06:45:00",
+        "gmt_time": "2019-10-20 22:45:00"
+    },
+    {
+        "id": 892189,
+        "updated_sequence": 1971641,
+        "published_at": {
+            "unix": 1571610240,
+            "text": "2019-10-20 23:24:00 +0100",
+            "iso_8601": "2019-10-20T22:24:00Z"
+        },
+        "updated_at": {
+            "unix": 1571610315,
+            "text": "2019-10-20 23:25:15 +0100",
+            "iso_8601": "2019-10-20T22:25:15Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASES CALENDAR NOW AVAILABLE IN THE RESEARCH SECTION: Highlights include Japanese GDP, Chinese House Prices and PBoC Loan Prime Rate",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asian-daily-economic-releases-calendar-now-available-in-the-research-section-highlights-include-japanese-gdp-chinese-house-prices-and-pboc-loan-prime-rate-20-10-2019",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-10-21 06:24:00",
+        "gmt_time": "2019-10-20 22:24:00"
+    },
+    {
+        "id": 892188,
+        "updated_sequence": 1971638,
+        "published_at": {
+            "unix": 1571610120,
+            "text": "2019-10-20 23:22:00 +0100",
+            "iso_8601": "2019-10-20T22:22:00Z"
+        },
+        "updated_at": {
+            "unix": 1571610169,
+            "text": "2019-10-20 23:22:49 +0100",
+            "iso_8601": "2019-10-20T22:22:49Z"
+        },
+        "subject": "Westpac says it is possible RBA adopts asset purchase program next year",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "westpac-says-it-is-possible-rba-adopts-asset-purchase-program-next-year-20-10-2019",
+        "hidden": false,
+        "section": {
+            "id": 12,
+            "name": "RBA"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-10-21 06:22:00",
+        "gmt_time": "2019-10-20 22:22:00"
+    },
+    {
+        "id": 892187,
+        "updated_sequence": 1971635,
+        "published_at": {
+            "unix": 1571609700,
+            "text": "2019-10-20 23:15:00 +0100",
+            "iso_8601": "2019-10-20T22:15:00Z"
+        },
+        "updated_at": {
+            "unix": 1571609856,
+            "text": "2019-10-20 23:17:36 +0100",
+            "iso_8601": "2019-10-20T22:17:36Z"
+        },
+        "subject": "GBP/USD extends on losses and has now fallen below the 1.2900 handle amid continued pressure following the Brexit vote postponement from over the weekend and amid comments by DUP's Shannon which reiterated the party's opposition to the deal",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "gbp-usd-extends-on-losses-and-has-now-fallen-below-the-1-2900-handle-amid-continued-pressure-following-the-brexit-vote-postponement-from-over-the-weekend-and-amid-comments-by-dup-s-shannon-which-reiterated-the-party-s-opposition-to-the-deal-20-10-2019",
+        "hidden": false,
+        "section": {
+            "id": 38,
+            "name": "Brexit"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-10-21 06:15:00",
+        "gmt_time": "2019-10-20 22:15:00"
+    },
+    {
+        "id": 892186,
+        "updated_sequence": 1971632,
+        "published_at": {
+            "unix": 1571607660,
+            "text": "2019-10-20 22:41:00 +0100",
+            "iso_8601": "2019-10-20T21:41:00Z"
+        },
+        "updated_at": {
+            "unix": 1571608612,
+            "text": "2019-10-20 22:56:52 +0100",
+            "iso_8601": "2019-10-20T21:56:52Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p><strong>ASIA-PAC</strong></p><p>US President Trump thinks a US-China trade deal will get signed easily by the time of the APEC summit in Chile. (Newswires)</p><p>China Vice Premier Liu He reiterated that China will work with the US to address each other’s concerns on the basis of equality. In other news, it was reported that Huawei is in early stage talks with US telecom firms on licensing its 5G technology. (Newswires)</p><p>Japan's Government lowered its assessment of the economy in its monthly report in which downgraded its view on production and corporate sentiment citing weakness in exports but still sees a moderate recovery (Newswires)</p><p>RBI MPC member Dua said there is policy space to further cut policy repo rate to boost domestic growth within flexible inflation targeting mandate, according to the RBI Minutes. (Newswires)&nbsp;</p><p>&nbsp;</p><p><strong>UK/EU</strong></p><p>UK Parliament vote on the Brexit deal was postponed on Saturday after lawmakers voted (322-306) in favour of passing the Letwin amendment which withholds approval of the Brexit deal until legislation to ratify it is passed and which effectively forced PM Johnson to request a Brexit extension to January 31st under the Benn Act. Following this, PM Johnson stated that the legislation will be tabled in the upcoming week and sent a letter to the EU requesting a Brexit extension which he did not sign, while he sent 2 other letters where he stated that the extension request was from Parliament and urged the EU not to grant the extension. (Newswires)</p><p>EU leaders held a brief meeting on Sunday regarding the Brexit in which they said they will play for time rather than rush to decide on PM Johnson’s “extension request”, while other reports suggested the EU is poised to grant the extension in which diplomatic sources stated the UK could leave sooner if the deal is ratified prior to the end of the extension. (Newswires/Sunday Times)</p><p>UK Foreign Secretary Raab suggested that the government has the numbers to pass the deal in Commons and is confident the UK will leave on October 31st. In related news, Cabinet Minister Gove also stated that the UK will still leave on October 31st and that Parliament cannot change the government’s policy or determination, while there were separate comments from Letwin that he will back PM Johnson’s Brexit deal. (Newswires)</p><p>BoE Governor Carney sees many different monetary policy paths post-Brexit, while he responded that he will not be pre-committing and cited lingering global trade concerns when asked about the potential for post-Brexit hikes. (Newswires)</p><p>ECB's Draghi said the ECB Governing Council stands ready to adjust all of its instruments as appropriate and that the effectiveness of monetary policy can and should be enhanced. (Newswires)</p><p>ECB’s Holzmann (Hawk) said ECB should lower its inflation target in the upcoming policy review and that he would support a target of 1.5% or even lower, while he sees indications that EZ economic improvement is on its way and that an orderly Brexit would help. (Newswires)</p><p>German Finance Minister Scholz said the EU is working intensively with the US to reach an agreement on trade and believes a solution can be reached. (Newswires)</p><p>Fitch affirmed UK sovereign rating at AA; Outlook maintained at Watch Negative. (Newswires)</p><p>&nbsp;</p><p><strong>COMMODITIES</strong></p><p>Baker Hughes Rig Count: oil rigs +1 at 713, Nat-gas rigs -6 at 137, Total US rigs -5 at 851. (Newswires)</p><p>&nbsp;</p><p><strong>GEOPOLITICS</strong></p><p>US President Trump said he spoke to Turkish President Erdogan who very much wants the ceasefire or pause to work and so do the Kurds, while he later commented that the US is in a very powerful position to put sanctions on Turkey and other nations if needed. (Newswires) <strong>US</strong></p><p>Fed’s Clarida (Voter, Neutral) said policy is not a pre-set course and decisions will be made \"meeting by meeting\", while he added the US economy in good place with no evidence of strong labour market putting pressure on inflation. However, Clarida also noted that growth in H2 will be slower than H1, that global manufacturing is slipping and that they have seen a downshift in overall growth relative to the July meeting. (Newswires)</p><p>Fed's George (voter, hawk, dissenter) said her outlook for monetary policy does not call for a monetary policy response and that strong consumer is key to her outlook, while she warned that cutting rates as insurance risks overheating sectors that are performing well and encourages risk-taking and leveraging. (Newswires)</p><p>Fed's Kaplan (Non-Voter, Dove) said he will decide about whether or not the Fed should cut at the October meeting, while he added he was more convinced of the need to act in July &amp; September although is more balanced now. Kaplan also stated his base case was for no more rate cuts in 2019 but one more by end of 2020 and suggested it may be wise \"to take a little time\" in watching data before next move.</p><p>Fed's Kashkari (Non-voter, Dove) said the US economy is sending 'mixed signals’ and that he views the US consumer as strong but businesses were nervous and pulling back on spending and hiring. Kashkari added he expects to undershoot the Fed's 2% inflation target for the foreseeable future and that a further rate cut would on the margin help to boost the economy. (Newswires)&nbsp;</p><p>US President Trump’s allies are reportedly compiling a list of potential candidates to replace Acting White House Chief of Staff Mulvaney. (Newswires)</p><p>&nbsp;</p><p><strong>MARKET RECAP</strong></p><p>DJ heavyweight Boeing (BA) was hit during hours following reports that instant messages from 2016 shows that employees misled the FAA about a key safety system on the 737 MAX jet, with the FAA now reviewing to determine what action is appropriate. Consumer staples were among the better performers, following earnings from Coca Cola (KO), which beat on revenues while EPS fell in line, adding it sees at least 5% growth in organic revenues in non-gaap terms; sees at least 12% growth in comp FX neutral net revenues in non-gaap terms in FY 2019. American Express (AXP) saw choppy trade at the open however eventually closed lower despite beats on both top and bottom lines, with some citing the lack of an outlook upgrade as a negative. State Street (STT) rallied and was a key outperformer in the SPX on Friday, following top and bottom line beats, although NII did decline to 644mln from 672mln. Kansas City Southern (KSU) and Intuitve Surgical (ISRG) also outperformers following strong earnings. Healthcare was lower led by Johnson and Johnson (JNJ) as it is voluntarily recalling a single lot of baby powder in the US after an FDA test indicated the presence of sub-trace levels of chrysotile asbestos. Tesla (TSLA) traded lower amid reports from Elektrek it is pushing back the delivery times in the US, however it is due to a surge in demand in Europe and the other markets, so perhaps all is not doom and gloom. L Brands (LB) took a hit after a downgrade at Credit Suisse as analyst Binetti believes the structural challenges are set to increase and expects 2020 figures to be revised significantly lower. Binetti also downgraded fellow retailer, Gap (GPS). S&amp;P 500 -0.4% at 2986, Dow Jones -0.9% at 26772, NASDAQ-100 -0.9% at 7868.</p><p>The Treasury curve bull-steepened on Friday, with yields falling across the curve after softer than expected China GDP, while equity downside also contributed to the upside. Remarks from Fed officials did not deliver any explicit signal ahead of the blackout period, though none leaned too heavily on market pricing, which is pricing a 25bps rate cut with a very high degree of certainty; and this is in keeping with recent commentary (Evans sees no further cuts this year, Kaplan is agnostic, Williams is yet to decide, Powell last week said he was taking it meeting-by-meeting, and Clarida today provided two-way arguments); amid Clarida’s remarks, the TPLEX was stable though equities came under pressure. US T-notes (Z9) settled 4 ticks higher at 130-01.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-asia-pac-opening-news-20-10-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-10-21 05:41:00",
+        "gmt_time": "2019-10-20 21:41:00"
+    },
+    {
+        "id": 892185,
+        "updated_sequence": 1976832,
+        "published_at": {
+            "unix": 1571607240,
+            "text": "2019-10-20 22:34:00 +0100",
+            "iso_8601": "2019-10-20T21:34:00Z"
+        },
+        "updated_at": {
+            "unix": 1571629903,
+            "text": "2019-10-21 04:51:43 +0100",
+            "iso_8601": "2019-10-21T03:51:43Z"
+        },
+        "subject": "Daily Telegraph's Yorke tweets \"Another DUP figure says they’ll unleash “guerrilla  warfare” in Parliament to block the Brexit deal unless Boris Johnson goes back to Brussels and addresses their concerns...party is looking at multiple options this week\"",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Twitter/Daily Telegraph",
+        "slug": "daily-telegraph-s-yorke-tweets-another-dup-figure-says-they-ll-unleash-guerrilla-warfare-in-parliament-to-block-the-brexit-deal-unless-boris-johnson-goes-back-to-brussels-and-addresses-their-concerns-party-is-looking-at-multiple-option-20-10-2019",
+        "hidden": false,
+        "section": {
+            "id": 38,
+            "name": "Brexit"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-10-21 05:34:00",
+        "gmt_time": "2019-10-20 21:34:00"
+    },
+    {
+        "id": 892184,
+        "updated_sequence": 1971622,
+        "published_at": {
+            "unix": 1571607120,
+            "text": "2019-10-20 22:32:00 +0100",
+            "iso_8601": "2019-10-20T21:32:00Z"
+        },
+        "updated_at": {
+            "unix": 1571607237,
+            "text": "2019-10-20 22:33:57 +0100",
+            "iso_8601": "2019-10-20T21:33:57Z"
+        },
+        "subject": "Daily Telegraph Political Correspondent Yorke tweets \"Senior DUP figure tells Telegraph the party could back a customs union amendment to the WAB in order to ensure whole of the U.K. leaves EU under same customs arrangements\"",
+        "content": "<p>Adds \"Party will discuss issue over next 24-48 hours\".</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Twitter",
+        "slug": "daily-telegraph-political-correspondent-yorke-tweets-senior-dup-figure-tells-telegraph-the-party-could-back-a-customs-union-amendment-to-the-wab-in-order-to-ensure-whole-of-the-u-k-leaves-eu-under-same-customs-arrangements-20-10-2019",
+        "hidden": false,
+        "section": {
+            "id": 38,
+            "name": "Brexit"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-10-21 05:32:00",
+        "gmt_time": "2019-10-20 21:32:00"
+    },
+    {
+        "id": 891997,
+        "updated_sequence": 1971614,
+        "published_at": {
+            "unix": 1571605200,
+            "text": "2019-10-20 22:00:00 +0100",
+            "iso_8601": "2019-10-20T21:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1571605200,
+            "text": "2019-10-20 22:00:00 +0100",
+            "iso_8601": "2019-10-20T21:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "<p><a href=\"https://asia.nikkei.com/Business/Companies/Nintendo-to-move-Switch-output-to-Vietnam-as-China-tariffs-loom\">Via Nikkei</a></p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-17-10-2019",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-10-21 05:00:00",
+        "gmt_time": "2019-10-20 21:00:00"
+    }
+]

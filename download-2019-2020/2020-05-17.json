@@ -1,0 +1,652 @@
+[
+    {
+        "id": 926293,
+        "updated_sequence": 2304995,
+        "published_at": {
+            "unix": 1589759400,
+            "text": "2020-05-18 00:50:00 +0100",
+            "iso_8601": "2020-05-17T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1589759527,
+            "text": "2020-05-18 00:52:07 +0100",
+            "iso_8601": "2020-05-17T23:52:07Z"
+        },
+        "subject": "Japan Q1 exports declined 6.0% Q/Q",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japan-q1-exports-declined-6-0-q-q-17-05-2020",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-05-18 07:50:00",
+        "gmt_time": "2020-05-17 23:50:00"
+    },
+    {
+        "id": 926286,
+        "updated_sequence": 2304972,
+        "published_at": {
+            "unix": 1589759220,
+            "text": "2020-05-18 00:47:00 +0100",
+            "iso_8601": "2020-05-17T23:47:00Z"
+        },
+        "updated_at": {
+            "unix": 1589759250,
+            "text": "2020-05-18 00:47:30 +0100",
+            "iso_8601": "2020-05-17T23:47:30Z"
+        },
+        "subject": "RBNZ buys NZD 450mln of government bonds in QE operations",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "rbnz-buys-nzd-450mln-of-government-bonds-in-qe-operations-17-05-2020",
+        "hidden": false,
+        "section": {
+            "id": 11,
+            "name": "RBNZ"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-05-18 07:47:00",
+        "gmt_time": "2020-05-17 23:47:00"
+    },
+    {
+        "id": 926287,
+        "updated_sequence": 2304975,
+        "published_at": {
+            "unix": 1589759220,
+            "text": "2020-05-18 00:47:00 +0100",
+            "iso_8601": "2020-05-17T23:47:00Z"
+        },
+        "updated_at": {
+            "unix": 1589759298,
+            "text": "2020-05-18 00:48:18 +0100",
+            "iso_8601": "2020-05-17T23:48:18Z"
+        },
+        "subject": "RBA adds AUD 199mln to the banking system through repos vs. Prev. AUD 475mln",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "rba-adds-aud-199mln-to-the-banking-system-through-repos-vs-prev-aud-475mln-17-05-2020",
+        "hidden": false,
+        "section": {
+            "id": 12,
+            "name": "RBA"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-05-18 07:47:00",
+        "gmt_time": "2020-05-17 23:47:00"
+    },
+    {
+        "id": 926285,
+        "updated_sequence": 2305002,
+        "published_at": {
+            "unix": 1589759100,
+            "text": "2020-05-18 00:45:00 +0100",
+            "iso_8601": "2020-05-17T23:45:00Z"
+        },
+        "updated_at": {
+            "unix": 1589760759,
+            "text": "2020-05-18 01:12:39 +0100",
+            "iso_8601": "2020-05-18T00:12:39Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIA, JAPAN AND SOUTH KOREA STOCK NEWS: Earnings including Japan Post Holdings, MUFG, Jack Ma to leave SoftBank board and Co. is to conduct JPY 500bln buyback",
+        "content": "<p>AUSTRALIA</p><p>Caltex (CTX AT)/Ampol (ALD AT) - Caltex may wait to sell its petrol station portfolio until market conditions improve or spin it off at that time. (Newswires)</p><p>AusNet Services (AST AT) - Co. could announce a capital raise. (Newswires)</p><p>Nine Entertainment (NEC AT) - Co. and Foxtel are said to be close to reaching a broadcast deal with NRL. (AFR)</p><p>Ramsay Health Care (RHC AT) - Co. finalizes agreement with UK NHS and Western Australian Ministry of Health to make facilities and services available during the coronavirus pandemic in which it will receive cost recovery for its services ranging from operating costs to rent and interest. (Newswires)</p><p>Virgin Australia (VAH AT) - Bain, BGH Capital, Indigo Partners and Cyrus Capital Partner have moved into the 2nd round of bidding with final bids due on June 12th. (AFR)</p><p>Other News - Australia is said to feel like China is ignoring attempts and calls to ease trade tensions. (Newswires)</p><p>&nbsp;</p><p>JAPAN</p><p>Japan Post Bank (7182 JT) - Co. FY net JPY 273.4bln vs. Prev. JPY 266.2bln Y/Y, guides next FY net at JPY 200bln. (Newswires)</p><p>Japan Post Holdings (6178 JT) - Co. FY net JPY 483.7bln vs. Prev. JPY 479.4bln Y/Y, guides next FY net at JPY 280bln. (Newswires)</p><p>Japan Post Insurance (7181 JT) - Co. FY net JPY 150.7bln vs. Prev. JPY 120.5bln Y/Y, guides next FY net at JPY 124bln. (Newswires)</p><p>Mitsubishi UFJ Financial Group (8306 JT) - Co. FY net JPY 528.2bln vs. Prev. JPY 872.7bln Y/Y, guides next FY net at JPY 550bln. (Newswires)</p><p>Nippon Paint (4612 JT) - Co. Q1 net JPY 7.5bln vs. Prev. JPY 10.7bln Y/Y. (Newswires)</p><p>Nissan Chemical Industries (4021 JT) - Co. FY net JPY 30.8bln vs. Prev. JPY 29.4bln Y/Y. (Newswires)</p><p>NTT (9432 JT) - Co. FY net JPY 855.3bln vs. Prev. JPY 854.6bln Y/Y. (Newswires)</p><p>Renesas (9501 JT) - Co. will withdraw from laser diode and photo diode businesses. (Newswires)</p><p>Showa Denko (4004 JT) - Co. Q1 net JPY 2.7bln vs. Prev. JPY 33.1bln Y/Y. (Newswires)</p><p>SoftBank (9984 JT) - Jack Ma will resign from SoftBank Group board on June 25th, Co. will repurchase up to 6.7% of shares for JPY 500bln. (Newswires)</p><p>Sumitomo Chemical (4005 JT) - Co. FY net JPY 30.9bln vs. Prev. JPY 118.0bln Y/Y. (Newswires)</p><p>T&amp;D Holdings (8795 JT) - Co. FY net JPY 67.1bln vs. Prev. JPY 72.8bln Y/Y. (Newswires)</p><p>TEPCO (9501 JT) - Co. FY net JPY 50.7bln vs. Prev. JPY 232.4bln Y/Y. (Newswires)</p><p>Other News - Japan, China and South Korea are in discussions on easing business travel curbs that were imposed due to coronavirus. There were also separate reports that China is said to be examining boosting ties with Japan amid increasing tensions with US. (Newswires)</p><p>&nbsp;</p><p>SOUTH KOREA</p><p>Asiana Airlines (020560 KS) - Co. Q1 net loss KRW 652.1bln, consolidated operating loss KRW 292bln vs. Prev. profit KRW 7.2bln Y/Y. (Newswires)</p><p>Doosan Heavy (034020 KS) - Co. Q1 net loss KRW 427.4bln vs. Prev. loss JPY 38.5bln Y/Y. (Newswires)</p><p>Hanwha (000880 KS) - Co. Q1 net KRW 184.7bln vs. Prev. KRW 173.9bln Y/Y. (Newswires)</p><p>Mirae Asset Daewoo (006800 KS) - Co. Q1 net fell 36% Y/Y to JPY 107bln. (Newswires)</p><p>Samsung Life Insurance (032830 KS) - Co. Q1 net fell 45% Y/Y to KRW 229.9bln. (Newswires)</p><p>Other News - South Korea's Finance Ministry is set to sharply reduce this year's economic growth outlook from prior 2.4% forecast due to growing fallout from the coronavirus pandemic, according to sources. (Yonhap)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-australia-japan-and-south-korea-stock-news-earnings-including-japan-post-holdings-mufg-jack-ma-to-leave-softbank-board-and-co-is-to-conduct-jpy-500bln-buyback-17-05-2020",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-05-18 07:45:00",
+        "gmt_time": "2020-05-17 23:45:00"
+    },
+    {
+        "id": 926284,
+        "updated_sequence": 2304964,
+        "published_at": {
+            "unix": 1589757720,
+            "text": "2020-05-18 00:22:00 +0100",
+            "iso_8601": "2020-05-17T23:22:00Z"
+        },
+        "updated_at": {
+            "unix": 1589757778,
+            "text": "2020-05-18 00:22:58 +0100",
+            "iso_8601": "2020-05-17T23:22:58Z"
+        },
+        "subject": "RBA says excess cash at exchange settlement accounts at AUD 69.1bln vs. Prev.  AUD 71.9bln",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "rba-says-excess-cash-at-exchange-settlement-accounts-at-aud-69-1bln-vs-prev-aud-71-9bln-17-05-2020",
+        "hidden": false,
+        "section": {
+            "id": 12,
+            "name": "RBA"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-05-18 07:22:00",
+        "gmt_time": "2020-05-17 23:22:00"
+    },
+    {
+        "id": 926283,
+        "updated_sequence": 2304966,
+        "published_at": {
+            "unix": 1589757120,
+            "text": "2020-05-18 00:12:00 +0100",
+            "iso_8601": "2020-05-17T23:12:00Z"
+        },
+        "updated_at": {
+            "unix": 1589758514,
+            "text": "2020-05-18 00:35:14 +0100",
+            "iso_8601": "2020-05-17T23:35:14Z"
+        },
+        "subject": "Fed Chair Powell says Fed is not out of ammunition and can do more if needed in which he suggests there are no limits to what we can do, adds projections of 20%-25% unemployment peak sounds about right but notes US not at risk of 2nd Great Depression",
+        "content": "<p>Says:</p><ul><li>May well be that Fed and Congress have more to do to respond to economic fallout from pandemic.</li><li>Companies and families may need 3-6 months more of financial help to avoid insolvency while health authorities work on controlling the virus.</li><li>Can expand existing programmes or add to new ones, as well as increase purchases as required.</li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "fed-chair-powell-says-fed-is-not-out-of-ammunition-and-can-do-more-if-needed-in-which-he-suggests-there-are-no-limits-to-what-we-can-do-adds-projections-of-20-25-unemployment-peak-sounds-about-right-but-notes-us-not-at-risk-of-2nd-great-d-17-05-2020",
+        "hidden": false,
+        "section": {
+            "id": 18,
+            "name": "Fed"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-05-18 07:12:00",
+        "gmt_time": "2020-05-17 23:12:00"
+    },
+    {
+        "id": 926282,
+        "updated_sequence": 2304954,
+        "published_at": {
+            "unix": 1589756880,
+            "text": "2020-05-18 00:08:00 +0100",
+            "iso_8601": "2020-05-17T23:08:00Z"
+        },
+        "updated_at": {
+            "unix": 1589756980,
+            "text": "2020-05-18 00:09:40 +0100",
+            "iso_8601": "2020-05-17T23:09:40Z"
+        },
+        "subject": "Apple (AAPL) says around 100 stores worldwide have reopened, while it adds that it will continue to refine safety measures and will close stores if needed",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "apple-aapl-says-around-100-stores-worldwide-have-reopened-while-it-adds-that-it-will-continue-to-refine-safety-measures-and-will-close-stores-if-needed-17-05-2020",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-05-18 07:08:00",
+        "gmt_time": "2020-05-17 23:08:00"
+    },
+    {
+        "id": 926281,
+        "updated_sequence": 2304951,
+        "published_at": {
+            "unix": 1589756760,
+            "text": "2020-05-18 00:06:00 +0100",
+            "iso_8601": "2020-05-17T23:06:00Z"
+        },
+        "updated_at": {
+            "unix": 1589756826,
+            "text": "2020-05-18 00:07:06 +0100",
+            "iso_8601": "2020-05-17T23:07:06Z"
+        },
+        "subject": "Fed Chair Powell reiterates US will not have negative interest rates and post coronavirus recovery could last through 2021",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "fed-chair-powell-reiterates-us-will-not-have-negative-interest-rates-and-post-coronavirus-recovery-could-last-through-2021-17-05-2020",
+        "hidden": false,
+        "section": {
+            "id": 18,
+            "name": "Fed"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-05-18 07:06:00",
+        "gmt_time": "2020-05-17 23:06:00"
+    },
+    {
+        "id": 926280,
+        "updated_sequence": 2304948,
+        "published_at": {
+            "unix": 1589756280,
+            "text": "2020-05-17 23:58:00 +0100",
+            "iso_8601": "2020-05-17T22:58:00Z"
+        },
+        "updated_at": {
+            "unix": 1589756364,
+            "text": "2020-05-17 23:59:24 +0100",
+            "iso_8601": "2020-05-17T22:59:24Z"
+        },
+        "subject": "US President Trump tweets \"The number of Coronavirus cases is strongly trending downward throughout the United States, with few exceptions. Very good news, indeed!\"",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Twitter",
+        "slug": "us-president-trump-tweets-the-number-of-coronavirus-cases-is-strongly-trending-downward-throughout-the-united-states-with-few-exceptions-very-good-news-indeed-17-05-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-05-18 06:58:00",
+        "gmt_time": "2020-05-17 22:58:00"
+    },
+    {
+        "id": 926279,
+        "updated_sequence": 2304945,
+        "published_at": {
+            "unix": 1589755920,
+            "text": "2020-05-17 23:52:00 +0100",
+            "iso_8601": "2020-05-17T22:52:00Z"
+        },
+        "updated_at": {
+            "unix": 1589755995,
+            "text": "2020-05-17 23:53:15 +0100",
+            "iso_8601": "2020-05-17T22:53:15Z"
+        },
+        "subject": "Japan is reportedly mulling relaxing travel restrictions for China and South Korea",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Mainichi",
+        "slug": "japan-is-reportedly-mulling-relaxing-travel-restrictions-for-china-and-south-korea-17-05-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-05-18 06:52:00",
+        "gmt_time": "2020-05-17 22:52:00"
+    },
+    {
+        "id": 926278,
+        "updated_sequence": 2304942,
+        "published_at": {
+            "unix": 1589754600,
+            "text": "2020-05-17 23:30:00 +0100",
+            "iso_8601": "2020-05-17T22:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1589754683,
+            "text": "2020-05-17 23:31:23 +0100",
+            "iso_8601": "2020-05-17T22:31:23Z"
+        },
+        "subject": "New Zealand Services Index (Apr) 25.9 (Prev. 52.1)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "new-zealand-services-index-apr-25-9-prev-52-1-17-05-2020",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-05-18 06:30:00",
+        "gmt_time": "2020-05-17 22:30:00"
+    },
+    {
+        "id": 926277,
+        "updated_sequence": 2304939,
+        "published_at": {
+            "unix": 1589754300,
+            "text": "2020-05-17 23:25:00 +0100",
+            "iso_8601": "2020-05-17T22:25:00Z"
+        },
+        "updated_at": {
+            "unix": 1589754482,
+            "text": "2020-05-17 23:28:02 +0100",
+            "iso_8601": "2020-05-17T22:28:02Z"
+        },
+        "subject": "Early upside seen in oil prices with WTI crude futures up 2.5% since the reopen of futures trading to reclaim the USD 30/bbl level, while mild gains also seen in US equity futures which are higher about 0.4%",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "early-upside-seen-in-oil-prices-with-wti-crude-futures-up-2-5-since-the-reopen-of-futures-trading-to-reclaim-the-usd-30-bbl-level-while-mild-gains-also-seen-in-us-equity-futures-which-are-higher-about-0-4-17-05-2020",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-05-18 06:25:00",
+        "gmt_time": "2020-05-17 22:25:00"
+    },
+    {
+        "id": 926276,
+        "updated_sequence": 2304936,
+        "published_at": {
+            "unix": 1589753880,
+            "text": "2020-05-17 23:18:00 +0100",
+            "iso_8601": "2020-05-17T22:18:00Z"
+        },
+        "updated_at": {
+            "unix": 1589753976,
+            "text": "2020-05-17 23:19:36 +0100",
+            "iso_8601": "2020-05-17T22:19:36Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASES CALENDAR IS NOW AVAILABLE IN THE RESEARCH SECTION: Highlights include: New Zealand Services Index, Japanese GDP, Singapore Exports, Fed Chair Powell Appears on CBS",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "asian-daily-economic-releases-calendar-is-now-available-in-the-research-section-highlights-include-new-zealand-services-index-japanese-gdp-singapore-exports-fed-chair-powell-appears-on-cbs-17-05-2020",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-05-18 06:18:00",
+        "gmt_time": "2020-05-17 22:18:00"
+    },
+    {
+        "id": 926275,
+        "updated_sequence": 2304933,
+        "published_at": {
+            "unix": 1589753100,
+            "text": "2020-05-17 23:05:00 +0100",
+            "iso_8601": "2020-05-17T22:05:00Z"
+        },
+        "updated_at": {
+            "unix": 1589753181,
+            "text": "2020-05-17 23:06:21 +0100",
+            "iso_8601": "2020-05-17T22:06:21Z"
+        },
+        "subject": "RBNZ says ICBC (1398 HK) has been registered to provide banking services in New Zealand",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "rbnz-says-icbc-1398-hk-has-been-registered-to-provide-banking-services-in-new-zealand-17-05-2020",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-05-18 06:05:00",
+        "gmt_time": "2020-05-17 22:05:00"
+    },
+    {
+        "id": 926274,
+        "updated_sequence": 2305046,
+        "published_at": {
+            "unix": 1589752920,
+            "text": "2020-05-17 23:02:00 +0100",
+            "iso_8601": "2020-05-17T22:02:00Z"
+        },
+        "updated_at": {
+            "unix": 1589762696,
+            "text": "2020-05-18 01:44:56 +0100",
+            "iso_8601": "2020-05-18T00:44:56Z"
+        },
+        "subject": "Hong Kong will extend social distancing measures by another 2 weeks, according to SCMP",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "SCMP",
+        "slug": "hong-kong-will-extend-social-distancing-measures-by-another-2-weeks-according-to-scmp-17-05-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-05-18 06:02:00",
+        "gmt_time": "2020-05-17 22:02:00"
+    },
+    {
+        "id": 926273,
+        "updated_sequence": 2304925,
+        "published_at": {
+            "unix": 1589751960,
+            "text": "2020-05-17 22:46:00 +0100",
+            "iso_8601": "2020-05-17T21:46:00Z"
+        },
+        "updated_at": {
+            "unix": 1589752115,
+            "text": "2020-05-17 22:48:35 +0100",
+            "iso_8601": "2020-05-17T21:48:35Z"
+        },
+        "subject": "PBoC adviser Ma Jun says PBoC should avoild buying special treasury bonds as it could fuel inflation and asset bubbles that could result in depreciation of CNY, adds PBoC could lower RRR or provide liquidity via some mechanisms to support their purchases",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pboc-adviser-ma-jun-says-pboc-should-avoild-buying-special-treasury-bonds-as-it-could-fuel-inflation-and-asset-bubbles-that-could-result-in-depreciation-of-cny-adds-pboc-could-lower-rrr-or-provide-liquidity-via-some-mechanisms-to-support-th-17-05-2020",
+        "hidden": false,
+        "section": {
+            "id": 15,
+            "name": "PBoC"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-05-18 05:46:00",
+        "gmt_time": "2020-05-17 21:46:00"
+    },
+    {
+        "id": 926272,
+        "updated_sequence": 2304918,
+        "published_at": {
+            "unix": 1589750400,
+            "text": "2020-05-17 22:20:00 +0100",
+            "iso_8601": "2020-05-17T21:20:00Z"
+        },
+        "updated_at": {
+            "unix": 1589750485,
+            "text": "2020-05-17 22:21:25 +0100",
+            "iso_8601": "2020-05-17T21:21:25Z"
+        },
+        "subject": "China's Global Times tweets that Washington is engaged in its political season and hopes to cash big on the China hate hype for domestic diversions in order to avoid culpability for its failures with saving Americans from coronavirus",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Twitter",
+        "slug": "china-s-global-times-tweets-that-washington-is-engaged-in-its-political-season-and-hopes-to-cash-big-on-the-china-hate-hype-for-domestic-diversions-in-order-to-avoid-culpability-for-its-failures-with-saving-americans-from-coronavirus-17-05-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-05-18 05:20:00",
+        "gmt_time": "2020-05-17 21:20:00"
+    },
+    {
+        "id": 926271,
+        "updated_sequence": 2304915,
+        "published_at": {
+            "unix": 1589750040,
+            "text": "2020-05-17 22:14:00 +0100",
+            "iso_8601": "2020-05-17T21:14:00Z"
+        },
+        "updated_at": {
+            "unix": 1589750152,
+            "text": "2020-05-17 22:15:52 +0100",
+            "iso_8601": "2020-05-17T21:15:52Z"
+        },
+        "subject": "ANZ Bank forecasts RBNZ to boost QE programme in August",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>As a reminder, the RBNZ boosted its QE programme last week to NZD 60bln from NZD 33bln and included purchases of &nbsp;government inflation indexed bonds.&nbsp;</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1589750152,
+            "text": "2020-05-17 22:15:52 +0100",
+            "iso_8601": "2020-05-17T21:15:52Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "anz-bank-forecasts-rbnz-to-boost-qe-programme-in-august-17-05-2020",
+        "hidden": false,
+        "section": {
+            "id": 11,
+            "name": "RBNZ"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-05-18 05:14:00",
+        "gmt_time": "2020-05-17 21:14:00"
+    },
+    {
+        "id": 926270,
+        "updated_sequence": 2305108,
+        "published_at": {
+            "unix": 1589749200,
+            "text": "2020-05-17 22:00:00 +0100",
+            "iso_8601": "2020-05-17T21:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1589774666,
+            "text": "2020-05-18 05:04:26 +0100",
+            "iso_8601": "2020-05-18T04:04:26Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p><strong>CORONAVIRUS UPDATE / RESPONSES</strong></p><p>US President Trump said almost every state has taken steps to begin reopening and that he hopes to get a vaccine by year-end. President Trump also said China is buying a lot of US products and reiterated that the virus came from China and should have been stopped in China. Furthermore, President Trump commented that he has lost a little flavour for the China trade deal but separately noted 2021 will be a great year from an economic standpoint and that the US is ready to begin moving forward, while he was also said to mull making the funding cut for the WHO permanent. (Newswires)</p><p>US House on Friday narrowly passed the new USD 3tln coronavirus stimulus relief bill which was largely along party lines with the vote count at 208-199. (Newswires)</p><p>US House Ways and Means Committee’s Brady said tax incentives that accelerate return of production lines to the US from China are a pretty smart thing to do and that payroll tax holiday is better than another round of direct cheques to Americans. (Fox)</p><p>Florida Governor said restaurants can operate at 50% capacity from next week, while theme parks (DIS, SIX, AMC) can submit their reopening plans. (Newswires)</p><p>Italy’s government approved the decree to lift some coronavirus-related restrictions beginning this Monday, while facilities such as gyms, swimming pools and sports centres will reopen from May 25th although travel between regions will remain banned until June 3rd. (Newswires)</p><p>Spanish PM Sanchez said they are seeking to extend its State of Emergency by 1 month to combat the coronavirus. (Newswires)</p><p>UK PM Johnson spokesperson said different regions of the UK may lift restrictions at different speeds depending on the spread of COVID-19. There were also comments from UK Health Minister Hancock said the UK is ready to begin moving to the next stage of easing, while it was also reported that the government believes its R0 is now between 0.7-1.0 (prev. 0.5-0.9). (Newswires)</p><p>Great Britain reported 170 coronavirus related deaths which was the lowest since late March, although it did not include Northern Ireland figures. (AFP)</p><p>&nbsp;</p><p><strong>ASIA-PAC</strong></p><p>US moved to prevent Huawei from acquiring semiconductors and chipsets made using US software/technology, according to the Commerce Department which warned it expects Huawei license extension will be final '90-day extension'. (Newswires)</p><p>US Secretary of State Pompeo stated that Beijing threatened to interfere with the work of journalists in Hong Kong which could affect US assessment of Hong Kong’s autonomy and status. (Newswires)</p><p>China will activate the \"unreliable entity list\" if US further blocks key technology supply to Huawei and will restrict or investigate US companies such as Qualcomm (QCOM), Cisco and Apple (AAPL), as well as suspend purchase of Boeing (BA) planes, according to Global Times Hu Xijin. (Twitter)</p><p>German MEP Weber stated that the EU should place a temporary ban on Chinese takeovers of EU firms and that he is in favour of a 12-month ban. (Newswires)</p><p>Indian Trade Balance (USD)(Apr) -6.76B vs. Exp. -7.50B (Prev. -9.76B). (Newswires) Indian Exports (USD)(Apr) 10.36B (Prev. 21.41B) Indian Imports (USD)(Apr) 17.12B (Prev. 31.16B)</p><p>&nbsp;</p><p><strong>UK/EU</strong></p><p>BoE’s Haldane suggested the Bank was looking at options beyond and alongside negative rates, while he noted there is more that can be done in the gilt side and corporate bond side of QE. (Telegraph)</p><p>UK has reportedly increased planning for a no-deal Brexit with senior government sources stating that the UK was preparing to walk away from discussions with Brussels in the next month unless the EU gives ground. (Times)</p><p>UK Brexit Negotiator Frost said he regrets that they have made very little progress towards an agreement and major obstacle to this is the EU's insistence on including a set of novel and unbalanced proposals on the so-called \"level playing field\". (Newswires)</p><p>UK Senior Official close to Brexit talks said there is no half-way house on level playing field and fisheries and that the UK remains optimistic about chances of a deal, while the official added the UK would not accept an extension if offered and that Brexit talks are not near failure.&nbsp; (Newswires)</p><p>EU's Brexit negotiator Barnier confirmed very little progress has been made and that EU will be stepping up no-deal preparations. Barnier claimed that the UK refuses to engage in conversation on level playing field and governance but noted that some progress was made with regards to fishing rights. (Newswires)</p><p>EU Commission Chief Gentiloni said the Commission will present its recovery fund proposal in the last week of May. (Newswires)</p><p>ESM Board of Governor confirmed the credit line that it had approved is to be made available to all ESM members in which a total of EUR 250bln in targeted support will be available, with EUR 100bln towards a safety net for workers. (Newswires)</p><p>German Finance Minister Scholz said they are planning supplementary budget that may comprise of around EUR 100bln of extra debt and that they need at least EUR 50bln for the planned stimulus Budget amid massive shortfall in payed tax. (Spiegel)</p><p>Germany might allow its debt/GDP ratio to rise above 80% to fund stimulus measures. (Newswires)</p><p>Fitch affirmed France at AA; Outlook Revised to Negative from Stable and affirmed Austria at AA+: Outlook Revised to Stable from Positive, while S&amp;P affirmed Netherlands at AAA; Outlook Stable. (Newswires)</p><ul><li>German GDP Flash (Q1) Q/Q -2.2% vs. Exp. -2.2% (Rev. -0.1%). (Newswires)</li><li>German GDP Flash (Q1) Y/Y -1.9% vs. Exp. -1.6% (Prev. 0.3%, Rev. 0.2%)</li><li>EU GDP Flash Estimate (Q1) Q/Q -3.8% vs. Exp. -3.8% (Prev. -3.8%) EU GDP Flash Estimate (Q1) Y/Y -3.2% vs. Exp. -3.3% (Prev. -3.3%)</li><li>EU Employment Flash (Q1) Q/Q -0.2% vs. Exp. -0.4% (Prev. 0.3%)</li><li>EU Employment Flash (Q1) Y/Y 0.3% vs. Exp. 0.2% (Prev. 1.1%)</li></ul><p>&nbsp;</p><p><strong>COMMODITIES</strong></p><p>Baker Hughes US rig count: oil rigs -34 at 258, nat gas rigs -1 at 79, total rigs -35 at 339. (Newswires)</p><p>OPEC+ may reportedly extend its current production cuts to year-end, according to energy intel. However, there were separate comments from OPEC Secretary General Barkindo that it is premature to say OPEC+ may keep the 9.7mln BPD cut beyond June, while he also stated that OPEC countries are rapidly reducing production and will look at all options during the June meeting contingent on the pandemic's development. (Newswires/Twitter)</p><p>&nbsp;</p><p><strong>GEOPOLITICS</strong></p><p>China’s Global Times Editor called for China to step up its nuclear weapons and deterrence in which he stated the US is very powerful and being unfriendly towards China, and that China needs enough capability so that US does not proactively attack China under any circumstances. (Twitter)</p><p>&nbsp;</p><p><strong>US</strong></p><p>Fed Financial Stability Report said the financial sector faces \"significant\" vulnerabilities due to the pandemic, as businesses and households deal with fragile finances for the foreseeable future. Fed added that pandemic strains on household and business balance sheets likely created fragilities that could last for some time, while the banking sector could experience strains due tp the economic and financial shocks. (Newswires)</p><p>Fed Chair Powell stated the economy will rebound steadily during H2 this year but noted that it will take a while to recover the lost GDP, while he added that a recovery needs people to feel confident about safety and that full confidence may have to wait until there is a vaccine. (Newswires)</p><p>White House NEC Director Kudlow said the US economy is still in a freefall amid the lockdowns and suggested they may see some better numbers but have not turned the corner yet. Kudlow added that cutting corporate tax rate in half for companies moving back to US is something to look at and that maybe in a few weeks the White House will negotiate on economic relief package although another USD 3tln in virus release seems \"off target\". Furthermore, Kudlow also stated that US and China are still working on trade. (Newswires)</p><p>US is expected to revise its Paycheck Protection Program to provide more flexibility and time for businesses to spend the funds. (WSJ)</p><p>US Industrial Production (Apr) M/M -11.2% vs. Exp. -11.5% (Prev. -5.4%, Rev. -4.5%). (Newswires)</p><p>US Retail Sales (Apr) M/M -16.4% vs. Exp. -12.0% (Prev. -8.7%, Rev. -8.3%)</p><p>US NY Fed Manufacturing (May) -48.5 vs. Exp. -63.5 (Prev. -78.2)</p><p>Stock News - Saudi Arabia sovereign wealth fund purchases stakes in Boeing (BA), Citi (C) and Disney (DIS), while it was also reported that Berkshire Hathaway (BRK/A) exited the most of its Goldman Sach’s stake. (Newsw/ires/FT)</p><p>&nbsp;</p><p><strong>MARKET RECAP</strong></p><p>Risk was knocked in pre-market trade after negative US/China headlines, although US stocks found their way back to neutral after Europe left, with the gains coinciding with remarks from US President Trump, who announced ‘Operation Warp Speed’ where he reiterated recent hopes a vaccine could be found by the end of the year, and said the government was focussing on 14 hopeful treatments, and suggested that the US government might invest in these treatments; other officials suggested that testing would become widespread. The optimism also helped bonds stay towards the low of the session, though they were going horizontal after Michigan consumer sentiment data, which surprised to the upside. The US is moving to prevent Huawei from acquiring semiconductors (SOX) and chipsets made using US software/technology. In response, China will activate the “unreliable entity list” if US further blocks key technology supply to Huawei; will restrict or investigate US companies such as Qualcomm (QCOM), Cisco (CSCO) and Apple (AAPL), and suspend purchases of Boeing (BA) planes. Taiwan Semiconductor (TSM) confirms reports it is to build a chip factory in Arizona. Nike (NKE) announced the virus is having a material impact on its business, but it has started to reopen stores in over 15 countries. However, there is continued strong demand for its online shops. FDA has warned that Abbott’s (ABT) Coronavirus test could be inaccurate, in fitting with prior reports, while Sorrento Therapeutics (SRNE) has reportedly discovered an antibody that could protect against the coronavirus, according to Fox. SPX +0.43% at 2865, NDQ +0.64% at 9153, DJIA +0.25% at 23685.</p><p>T-Notes ultimately sold off on Friday with the curve slightly steeper; 2s little changed while 10s and 30s up by a couple of bps. There had initially been a bid in the complex in European trade amid risk off conditions induced by the latest US/Huawei restriction headlines. However, as equity futures began to recoup losses shortly after the US cash equity open, duration came under pressure, reversing the gains from overnight. The move marks a slight paring of the strong bull-flattening seen through the record Treasury refunding auction this week and perhaps was part due to some position unwinding as we head into the weekend. Furthermore, the new USD 20bln 20-year auction looms on the horizon (scheduled for Wednesday), with today’s modest rate back-up perhaps some concession ahead of the new coupon for the market to digest – although if this week was anything to go by, demand for duration has been solid. Note also that the Fed cut its daily USTs/TIPS purchases for the week ahead again - USD 6bln from 7bln – but the curve was little changed post the announcement, where duration had already modestly sold off ahead of the release. US T-note futures (M0) settled 3 ticks lower at 139-10+.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-asia-pac-opening-news-17-05-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-05-18 05:00:00",
+        "gmt_time": "2020-05-17 21:00:00"
+    }
+]

@@ -1,0 +1,478 @@
+[
+    {
+        "id": 667834,
+        "updated_sequence": 1016277,
+        "published_at": {
+            "unix": 1532908200,
+            "text": "2018-07-30 00:50:00 +0100",
+            "iso_8601": "2018-07-29T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1532908288,
+            "text": "2018-07-30 00:51:28 +0100",
+            "iso_8601": "2018-07-29T23:51:28Z"
+        },
+        "subject": "Japanese Large Retailers' Sales (Jun) Y/Y 1.5% vs. Exp. 1.6% (Prev. -2.0%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-large-retailers-sales-jun-y-y-1-5-vs-exp-1-6-prev-2-0-29-07-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-07-30 07:50:00",
+        "gmt_time": "2018-07-29 23:50:00"
+    },
+    {
+        "id": 667833,
+        "updated_sequence": 1016274,
+        "published_at": {
+            "unix": 1532908200,
+            "text": "2018-07-30 00:50:00 +0100",
+            "iso_8601": "2018-07-29T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1532908250,
+            "text": "2018-07-30 00:50:50 +0100",
+            "iso_8601": "2018-07-29T23:50:50Z"
+        },
+        "subject": "Japanese Retail Sales (Jun) M/M 1.5% vs. Exp. 1.5% (Prev. -1.7%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-retail-sales-jun-m-m-1-5-vs-exp-1-5-prev-1-7-29-07-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-07-30 07:50:00",
+        "gmt_time": "2018-07-29 23:50:00"
+    },
+    {
+        "id": 667831,
+        "updated_sequence": 1016268,
+        "published_at": {
+            "unix": 1532907480,
+            "text": "2018-07-30 00:38:00 +0100",
+            "iso_8601": "2018-07-29T23:38:00Z"
+        },
+        "updated_at": {
+            "unix": 1532907650,
+            "text": "2018-07-30 00:40:50 +0100",
+            "iso_8601": "2018-07-29T23:40:50Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIAN, JAPANESE AND SOUTH KOREAN STOCK NEWS: Healthscope agrees to sell pathology business for AUD 279mln, earnings from Hitachi, Hyundai Steel and Yahoo Japan",
+        "content": "<p>AUSTRALIA</p>\r\n\r\n<p>Ardent Leisure Group (AAD AT)<br />- Co. guides FY18 net loss between AUD 84mln-94mln. (Newswires)</p>\r\n\r\n<p>Austal (ASB AT)<br />- Co. awarded patrol boat contract valued at AUD 100mln. (Newswires)<br /><br />Caltex (CTX AT)<br />- Co. reports June unlagged CRM USD 8.25/bbl vs. Prev. USD 12.02/bbl M/M and that sales from production in both May and June were both higher M/M and Y/Y. (Newswires)</p>\r\n\r\n<p>Healthscope (HSO AT)<br />- Co. announces sale of pathology business to TPG in deal valued at AUD 279mln. (The Australian)</p>\r\n\r\n<p>Origin Energy (ORG AT)<br />- Co. is reportedly set to get more than AUD 500mln cash from the Australia Pacific LNG export project in Queensland for 2018. (The Australian)</p>\r\n\r\n<p>Syrah Resources (SYR AT)<br />- Co. lowers FY18 output guidance to 135k-145k tons vs. Prev. 160k-180k tons. (Newswires)</p>\r\n\r\n<p>Telstra (TLS AT)<br />- Co. CFO Bray is to resign and will be replaced by COO Denholm who will be CFO &amp; Head of Strategy. (Newswires)</p>\r\n\r\n<p>Other News<br />- Australian PM Turnbull is said to be facing pressure to drop pursuit of lowering corporate taxes after the opposition Labor party strong at byelections over the weekend. (AFR)</p>\r\n\r\n<p>Energy<br />- WTI crude futures declined over 1% to below USD 69/bbl. (Newswires)</p>\r\n\r\n<p>JAPAN</p>\r\n\r\n<p>Central Japan Railway (9022 JT)<br />- Co. Q1 net JPY 122.7bln vs. Prev. JPY 118.2bln Y/Y. (Newswires)</p>\r\n\r\n<p>Dainippon Sumitomo Pharma (4506 JT)<br />- Co. Q1 net JPY 15.3bln vs. Exp. JPY 11.8bln. (Newswires)</p>\r\n\r\n<p>East Japan Railway (9020 JT)<br />- Co. Q1 net JPY 78.2bln vs. Prev. JPY 86.3bln Y/Y. (Newswires)</p>\r\n\r\n<p>Hitachi (6501 JT)<br />- Co. Q1 net JPY 105.3bln vs. Prev. JPY 75.1bln Y/Y. (Newswires)</p>\r\n\r\n<p>Kansai Electric Power (9503 JT)<br />- Co. Q1 net JPY 26.7bln vs. Prev. JPY 32.6bln Y/Y. (Newswires)</p>\r\n\r\n<p>Kawasaki Heavy (7012 JT)<br />- Co. is said to have received a rail car order valued at USD 240mln. (Newswires)</p>\r\n\r\n<p>Komatsu (6301 JT)<br />- Co. Q1 net JPY 63.0bln vs. Prev. JPY 36.4bln Y/Y. (Newswires)</p>\r\n\r\n<p>SoftBank (9984 JT)<br />- Co. unit Arm Holdings is to buy US based data analytic firm Treasure data in deal valued at USD 600mln. (Newswires)</p>\r\n\r\n<p>Sumitomo Mitsui Trust Holdings (8309 JT)<br />- Co. Q1 net JPY 44.5bln vs. Prev. JPY 40.1bln Y/Y. (Newswires)</p>\r\n\r\n<p>Yahoo Japan (4689 JT)<br />- Co. Q1 net JPY 32.7bln vs. Exp. JPY 30.4bln. (Newswires)</p>\r\n\r\n<p>SOUTH KOREA</p>\r\n\r\n<p>Hyundai Steel (004020 KS)<br />- Co. parent net KRW 176.3bln vs. Prev. KRW 135.5bln Y/Y. (Newswires)</p>\r\n\r\n<p>LG Electronics (066570 KS)<br />- Co. said it will begin selling a 2nd super-premium smartphone with a zirconium ceramic back. (Yonhap)</p>\r\n\r\n<p>Lotte Shopping (023530 KS)<br />- Co. is planning to offload its China department store business. (Chosun)</p>\r\n\r\n<p>Samsung Card (029780 KS)<br />- Co. Q2 net KRW 82.8bln vs. Exp. KRW 87.5bln. (Newswires)</p>\r\n\r\n<p>Samsung Electronics (005930 KS)<br />- Co. reportedly to make a large investment in South Korea. (Newswires)</p>\r\n\r\n<p>Seoul Semiconductor (046890 KS)<br />- Co. Q2 net KRW 290mln vs. Prev. KRW 267bln Y/Y, oper. profit KRW 176bln vs. Prev. JPY 241bln Y/Y. (Newswires)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-australian-japanese-and-south-korean-stock-news-healthscope-agrees-to-sell-pathology-business-for-aud-279mln-earnings-from-hitachi-hyundai-steel-and-yahoo-japan-29-07-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-07-30 07:38:00",
+        "gmt_time": "2018-07-29 23:38:00"
+    },
+    {
+        "id": 667830,
+        "updated_sequence": 1016265,
+        "published_at": {
+            "unix": 1532907240,
+            "text": "2018-07-30 00:34:00 +0100",
+            "iso_8601": "2018-07-29T23:34:00Z"
+        },
+        "updated_at": {
+            "unix": 1532907326,
+            "text": "2018-07-30 00:35:26 +0100",
+            "iso_8601": "2018-07-29T23:35:26Z"
+        },
+        "subject": "Barclays says trade of the week is short GBP/USD with target at 1.2810 and stop at 1.3260",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "barclays-says-trade-of-the-week-is-short-gbp-usd-with-target-at-1-2810-and-stop-at-1-3260-29-07-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-07-30 07:34:00",
+        "gmt_time": "2018-07-29 23:34:00"
+    },
+    {
+        "id": 667829,
+        "updated_sequence": 1016262,
+        "published_at": {
+            "unix": 1532906880,
+            "text": "2018-07-30 00:28:00 +0100",
+            "iso_8601": "2018-07-29T23:28:00Z"
+        },
+        "updated_at": {
+            "unix": 1532907020,
+            "text": "2018-07-30 00:30:20 +0100",
+            "iso_8601": "2018-07-29T23:30:20Z"
+        },
+        "subject": "BNZ sees possibility of NZD being short-squeezed after data showed net short positions near a record",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "bnz-sees-possibility-of-nzd-being-short-squeezed-after-data-showed-net-short-positions-near-a-record-29-07-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-07-30 07:28:00",
+        "gmt_time": "2018-07-29 23:28:00"
+    },
+    {
+        "id": 667828,
+        "updated_sequence": 1016259,
+        "published_at": {
+            "unix": 1532905680,
+            "text": "2018-07-30 00:08:00 +0100",
+            "iso_8601": "2018-07-29T23:08:00Z"
+        },
+        "updated_at": {
+            "unix": 1532905773,
+            "text": "2018-07-30 00:09:33 +0100",
+            "iso_8601": "2018-07-29T23:09:33Z"
+        },
+        "subject": "Italian Deputy PM Di Maio stated a referendum whether Italy should leave the Euro is not in governing contract and will not be pursued",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "italian-deputy-pm-di-maio-stated-a-referendum-whether-italy-should-leave-the-euro-is-not-in-governing-contract-and-will-not-be-pursued-29-07-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-07-30 07:08:00",
+        "gmt_time": "2018-07-29 23:08:00"
+    },
+    {
+        "id": 667827,
+        "updated_sequence": 1016256,
+        "published_at": {
+            "unix": 1532904780,
+            "text": "2018-07-29 23:53:00 +0100",
+            "iso_8601": "2018-07-29T22:53:00Z"
+        },
+        "updated_at": {
+            "unix": 1532904851,
+            "text": "2018-07-29 23:54:11 +0100",
+            "iso_8601": "2018-07-29T22:54:11Z"
+        },
+        "subject": "China Securities Journal commentary states PBoC could reduce RRR during Q3",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "china-securities-journal-commentary-states-pboc-could-reduce-rrr-during-q3-29-07-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-07-30 06:53:00",
+        "gmt_time": "2018-07-29 22:53:00"
+    },
+    {
+        "id": 667827,
+        "updated_sequence": 1016256,
+        "published_at": {
+            "unix": 1532904780,
+            "text": "2018-07-29 23:53:00 +0100",
+            "iso_8601": "2018-07-29T22:53:00Z"
+        },
+        "updated_at": {
+            "unix": 1532904851,
+            "text": "2018-07-29 23:54:11 +0100",
+            "iso_8601": "2018-07-29T22:54:11Z"
+        },
+        "subject": "China Securities Journal commentary states PBoC could reduce RRR during Q3",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "china-securities-journal-commentary-states-pboc-could-reduce-rrr-during-q3-29-07-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-07-30 06:53:00",
+        "gmt_time": "2018-07-29 22:53:00"
+    },
+    {
+        "id": 667826,
+        "updated_sequence": 1016253,
+        "published_at": {
+            "unix": 1532904660,
+            "text": "2018-07-29 23:51:00 +0100",
+            "iso_8601": "2018-07-29T22:51:00Z"
+        },
+        "updated_at": {
+            "unix": 1532904742,
+            "text": "2018-07-29 23:52:22 +0100",
+            "iso_8601": "2018-07-29T22:52:22Z"
+        },
+        "subject": "ANZ Bank says EUR/USD to reach 1.2500 in the medium-term",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "anz-bank-says-eur-usd-to-reach-1-2500-in-the-medium-term-29-07-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-07-30 06:51:00",
+        "gmt_time": "2018-07-29 22:51:00"
+    },
+    {
+        "id": 667825,
+        "updated_sequence": 1016250,
+        "published_at": {
+            "unix": 1532904120,
+            "text": "2018-07-29 23:42:00 +0100",
+            "iso_8601": "2018-07-29T22:42:00Z"
+        },
+        "updated_at": {
+            "unix": 1532904200,
+            "text": "2018-07-29 23:43:20 +0100",
+            "iso_8601": "2018-07-29T22:43:20Z"
+        },
+        "subject": "CNY faces increasing depreciation risk in the near-term, according to China Securities Journal",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "cny-faces-increasing-depreciation-risk-in-the-near-term-according-to-china-securities-journal-29-07-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-07-30 06:42:00",
+        "gmt_time": "2018-07-29 22:42:00"
+    },
+    {
+        "id": 667824,
+        "updated_sequence": 1016247,
+        "published_at": {
+            "unix": 1532902380,
+            "text": "2018-07-29 23:13:00 +0100",
+            "iso_8601": "2018-07-29T22:13:00Z"
+        },
+        "updated_at": {
+            "unix": 1532902474,
+            "text": "2018-07-29 23:14:34 +0100",
+            "iso_8601": "2018-07-29T22:14:34Z"
+        },
+        "subject": "US NEC Director Kudlow says trade discussions with EU regarding energy and agriculture will begin immediately ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-nec-director-kudlow-says-trade-discussions-with-eu-regarding-energy-and-agriculture-will-begin-immediately-29-07-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-07-30 06:13:00",
+        "gmt_time": "2018-07-29 22:13:00"
+    },
+    {
+        "id": 667823,
+        "updated_sequence": 1016244,
+        "published_at": {
+            "unix": 1532902140,
+            "text": "2018-07-29 23:09:00 +0100",
+            "iso_8601": "2018-07-29T22:09:00Z"
+        },
+        "updated_at": {
+            "unix": 1532902238,
+            "text": "2018-07-29 23:10:38 +0100",
+            "iso_8601": "2018-07-29T22:10:38Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASES CALENDAR NOW AVAILABLE IN THE RESEARCH SECTION: Highlights Include Japanese Retail Sales and Netherlands Retail Sales",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asian-daily-economic-releases-calendar-now-available-in-the-research-section-highlights-include-japanese-retail-sales-and-netherlands-retail-sales-29-07-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-07-30 06:09:00",
+        "gmt_time": "2018-07-29 22:09:00"
+    },
+    {
+        "id": 667822,
+        "updated_sequence": 1016241,
+        "published_at": {
+            "unix": 1532900700,
+            "text": "2018-07-29 22:45:00 +0100",
+            "iso_8601": "2018-07-29T21:45:00Z"
+        },
+        "updated_at": {
+            "unix": 1532901425,
+            "text": "2018-07-29 22:57:05 +0100",
+            "iso_8601": "2018-07-29T21:57:05Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p>UK</p>\r\n\r\n<p>UK PM May is being accused of a kamikaze-style approach to a no-deal Brexit by Brexiteers who state the government have only highlighted the negative impact to the UK from a no-deal in its reports, while they had hoped for the government&rsquo;s preparations to include the negative impact a no-deal would have on the EU which may have provided the UK more leverage in negotiations. (Telegraph)<br /><br />Italy reportedly provided some hope for UK PM May after Italian Deputy PM Salvini stated the government would support the UK in trade discussions and accused the EU of attempting to swindle UK Brexit voters. (Newswires)</p>\r\n\r\n<p><br />EU</p>\r\n\r\n<p>S&amp;P affirmed Slovakia at A+; Outlook Stable, while Fitch also affirmed Slovakia at A+; Outlook Stable and affirmed Sweden at AAA; Outlook Stable. (Newswires)</p>\r\n\r\n<p>Italy&rsquo;s PM Conte stated Italy remains committed to NATO and the Euro, while there were also reports on Friday that Former Five Star Movement leader Grillo urged for a referendum on the exit from the Euro. (Newswires)<br />&nbsp;</p>\r\n\r\n<p>COMMODITIES</p>\r\n\r\n<p>US Baker Hughes Total Rig Count (27 Jul) 1048 (Prev. 1046). (Newswires)<br />&nbsp;</p>\r\n\r\n<p>GEOPOLITICAL</p>\r\n\r\n<p>US Defence Secretary Mattis said reports of possible US strikes on Iran are complete fiction, while there were also reports that US President wants to set up an alliance with 6 Arab Gulf states to align against Iran. (Newswires)<br />&nbsp;</p>\r\n\r\n<p>US</p>\r\n\r\n<p>US President Trump threatened he would be willing to allow for a government shutdown if the Democrats do not provide the votes for border security which includes building the Wall. (Twitter).</p>\r\n\r\n<p>OMB Director Mulvaney said President Trump respects the Fed&#39;s independence, while he added that 4% growth is manageable and that he has confidence growth is sustainable. (Newswires)</p>\r\n\r\n<p>Mexico Economy Minister Guajardo said working teams are ready to begin talks and land some of the specifics of a new NAFTA agreement, while he added that Mexico has agreed to begin less complex NAFTA talks and then move on to more complex issues. (Newswires)<br /><br />Data Recap<br />US GDP Advance Q2 4.1% vs. Exp. 4.1% (Prev. 2.0%, Rev. 2.2%)<br />US GDP Sales Advance Q2 5.1% vs. Exp. 3.7% (Prev. 2.0%, Rev. 1.9%)<br />US Core PCE Prices Advance Q2 2.0% vs. Exp. 2.2% (Prev. 2.3%, Rev. 2.2%)</p>\r\n\r\n<p><br />MARKET RECAP</p>\r\n\r\n<p>After the US cash equity open on Friday, the ES -- which was going sideways overnight -- saw selling action. A combination of reasons was being thrown around: the FAANG weakness (add Twitter to that mix) this week was said to weigh on investor confidence, the VIX rose towards highs of the week, while haven currencies (JPY) were bid, while oil was sliding (Oil drillers add rigs for the first week in three, Baker Hughes said). Some also suggest that, ahead of next week&#39;s central bank activity (BOJ, FOMC, BOE), investors were taking chips off the table. Elsewhere, LAM Research (LRCX) was among the leaders after beating on the top and bottom-lines, and with management declaring the September quarter as the bottom, which helped boost other tech stocks. Although Chevron (CVX) missed expectations, its chairman noted that earnings were up significantly on the year, benefiting from higher crude prices and higher production, as well as strong operations. Zimmer Biomet Holdings (ZBH) was higher, with numbers aided by knee and hip products. Expedia (EXPE) beat on EPS, in line on revenues. On the other side of the coin, Twitter (TWTR) user data disappointed, sending shares lower; Edwards Lifesciences reported lower than expected revenue, while Intel (INTC) beat on top and bottom-lines, boosted guidance, but said that new chips wouldn&#39;t be rolled out until next year, pressuring shares on concerns that the chipmaker would be vulnerable to rivals who are pushing in on its space. CBS (CBS) posted losses of 6% after CEO Moonves was said to be accused of sexual misconduct; Viacom (VIAB) gained and was up 4% on the back of the news. N.Y. state rescinded approval of the merger between Charter (CHTR) (Spectrum) and Time Warner Cable, citing repeated failure to meet agreed-to targets. SPX -0.65% at 2819, NDX -1.40% at 7297, DJI -0.29% at 25452.</p>\r\n\r\n<p>The complex was higher, with the curve garnering some support as the tech slide continued, though volume was thin, and yields only came in modestly; at one point, however, three-year yields found fresh highs not seen in over a decade. There was choppy trade around the GDP release (bias to the upside), but ultimately, there was not a lot to sing home about. Attention on next week&rsquo;s quarterly refunding and FOMC, and, given its impact on Treasuries recently, the BOJ meeting at the early part of the week. US 10YR T-notes futures (U8) settled 3 ticks higher at 119-14.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-asia-pac-opening-news-29-07-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-07-30 05:45:00",
+        "gmt_time": "2018-07-29 21:45:00"
+    },
+    {
+        "id": 667642,
+        "updated_sequence": 1016233,
+        "published_at": {
+            "unix": 1532898000,
+            "text": "2018-07-29 22:00:00 +0100",
+            "iso_8601": "2018-07-29T21:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1532898000,
+            "text": "2018-07-29 22:00:00 +0100",
+            "iso_8601": "2018-07-29T21:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-26-07-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-07-30 05:00:00",
+        "gmt_time": "2018-07-29 21:00:00"
+    }
+]

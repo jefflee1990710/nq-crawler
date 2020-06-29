@@ -1,0 +1,656 @@
+[
+    {
+        "id": 928770,
+        "updated_sequence": 2315696,
+        "published_at": {
+            "unix": 1590969480,
+            "text": "2020-06-01 00:58:00 +0100",
+            "iso_8601": "2020-05-31T23:58:00Z"
+        },
+        "updated_at": {
+            "unix": 1590970605,
+            "text": "2020-06-01 01:16:45 +0100",
+            "iso_8601": "2020-06-01T00:16:45Z"
+        },
+        "subject": "Washington DC is to begin curfew at 2300EDT and the DC National Guard will be activated, according to the Mayor's Office",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>As a reminder, it was reported violent protests following the death of George Floyd have widened to over 30 cities forcing a deployment of the National Guard which have responded with firing rubber bullets and tear gas, as well as other measures.</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1590970605,
+            "text": "2020-06-01 01:16:45 +0100",
+            "iso_8601": "2020-06-01T00:16:45Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "washington-dc-is-to-begin-curfew-at-2300edt-and-the-dc-national-guard-will-be-activated-according-to-the-mayor-s-office-31-05-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-06-01 07:58:00",
+        "gmt_time": "2020-05-31 23:58:00"
+    },
+    {
+        "id": 928768,
+        "updated_sequence": 2315642,
+        "published_at": {
+            "unix": 1590969000,
+            "text": "2020-06-01 00:50:00 +0100",
+            "iso_8601": "2020-05-31T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1590969053,
+            "text": "2020-06-01 00:50:53 +0100",
+            "iso_8601": "2020-05-31T23:50:53Z"
+        },
+        "subject": "Japanese Company Profits (Q1) Y/Y -32.0% (Prev. -4.6%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-company-profits-q1-y-y-32-0-prev-4-6-31-05-2020",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-06-01 07:50:00",
+        "gmt_time": "2020-05-31 23:50:00"
+    },
+    {
+        "id": 928769,
+        "updated_sequence": 2315645,
+        "published_at": {
+            "unix": 1590969000,
+            "text": "2020-06-01 00:50:00 +0100",
+            "iso_8601": "2020-05-31T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1590969065,
+            "text": "2020-06-01 00:51:05 +0100",
+            "iso_8601": "2020-05-31T23:51:05Z"
+        },
+        "subject": "Japanese Company Sales (Q1) Y/Y -3.5% (Prev. -6.4%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-company-sales-q1-y-y-3-5-prev-6-4-31-05-2020",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-06-01 07:50:00",
+        "gmt_time": "2020-05-31 23:50:00"
+    },
+    {
+        "id": 928766,
+        "updated_sequence": 2315632,
+        "published_at": {
+            "unix": 1590968460,
+            "text": "2020-06-01 00:41:00 +0100",
+            "iso_8601": "2020-05-31T23:41:00Z"
+        },
+        "updated_at": {
+            "unix": 1590968525,
+            "text": "2020-06-01 00:42:05 +0100",
+            "iso_8601": "2020-05-31T23:42:05Z"
+        },
+        "subject": "RBA adds AUD 508mln to the banking system through repos vs. Prev. AUD 1.78bln",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "rba-adds-aud-508mln-to-the-banking-system-through-repos-vs-prev-aud-1-78bln-31-05-2020",
+        "hidden": false,
+        "section": {
+            "id": 12,
+            "name": "RBA"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-06-01 07:41:00",
+        "gmt_time": "2020-05-31 23:41:00"
+    },
+    {
+        "id": 928765,
+        "updated_sequence": 2315647,
+        "published_at": {
+            "unix": 1590968340,
+            "text": "2020-06-01 00:39:00 +0100",
+            "iso_8601": "2020-05-31T23:39:00Z"
+        },
+        "updated_at": {
+            "unix": 1590969463,
+            "text": "2020-06-01 00:57:43 +0100",
+            "iso_8601": "2020-05-31T23:57:43Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIA, JAPAN AND SOUTH KOREA STOCK NEWS: Earnings including Hitachi, Fuji Electric, Olympus and Yamaha Motor",
+        "content": "<p>AUSTRALIA</p><p>Boral (BLD AT) - Co. completes execution of bilateral 2-year AUD 365mln debt facilities which will replace AUD 750mln of debt facilities due to expire in July 2021. (Newswires)</p><p>Monadelphous Group (MND AT) - Co. awarded construction and maintenance contracts valued at around AUD 150mln. (Newswires)</p><p>Onevue Holdings (OVH AT) - Co. is to be acquired by Iress (IRE AT) for AUD 0.40/shr. (Newswires)</p><p>Peninsula Energy (PEN AT) - Co. announced 8-for-5 entitlement offer at 7.1 Aussie cents per share. (Newswires)</p><p>Rio Tinto (RIO AT) - Co. issued an apology after blowing up a 46,000-year-old Aboriginal cave site in Western Australia, vowing to urgently review its plans for other sites nearby and its approach to dealing with heritage matters. (SMH)</p><p>Vicinity Centres (VCX AT) - Co. trading halted as it announces to launch institutional placement to raise AUD 1.2bln and share purchase plan to raise up to AUD 200mln. (Newswires)</p><p>Virgin Australia (VAH AT) - Brookfield proposes to inject over AUD 500mln upfront to recapitalize the airline. (Newswires)</p><p>&nbsp;</p><p>JAPAN</p><p>Fuji Electric Holding (6504 JT) - Co. FY net JPY 28.8bln vs. Prev. JPY 40.3bln Y/Y, does not provide outlook. (Newswires)</p><p>Hitachi (6501 JT) - Co. FY net JPY 87.6bln vs. Prev. JPY 222.6bln Y/Y, guides next FY net JPY 335.0bln Y/Y and is undecided on next FY dividend payment. (Newswires)</p><p>Intelligence (4757 JT) - Co. reported to acquire 60% interest in Chapter Two Holdings. (Newswires)</p><p>Japan Tobacco (2914 JT) - Co. and British American Tobacco (BATS LN) are taking legal action on South Africa’s ban tobacco sales since March due to the coronavirus. (Newswires)</p><p>Olympus (7733 JT) - Co. FY net JPY 51.7bln vs. Prev. JPY 8.2bln Y/Y. (Newswires)</p><p>Renesas (6723 JT) - Co. guides Q2 rev. at JPY 152.5bln-160.5bln and notes that some effects from weakening demand have begun to surface. (Newswires)</p><p>Universal Entertainment Corp (6425 JT) - Co. FY net JPY 3.1bln vs. Prev. loss JPY 4.1bln Y/Y. (Newswires)</p><p>Yamaha Motor (7272 JT) - Co. Q1 net JPY 9.6bln vs. Prev. JPY 28.3bln Y/Y, will not pay interim dividend. (Newswires)</p><p>BoJ Bond Purchases - BoJ kept its purchase intentions for June mostly unchanged although narrowed 3yr-5yr purchases to JPY 200bln-450bln (Prev. JPY 200bln-500bln) and adjusted purchases for 5yr-10yr JGBs to JPY 250bln-550bln (Prev. JPY 200bln-500bln. (Newswires)</p><p>Other News - Japan’s Kitakyushu province announced coronavirus cluster at elementary school. (Newswires)</p><p>&nbsp;</p><p>SOUTH KOREA</p><p>Hyundai Motor (005380 KS) - Co. partners with Hanwha Q Cells on developing energy storage systems with used EV batteries. (Newswires)</p><p>Ssangyong Motor (003620 KS) - Co. enters agreement to sell property in Seoul for KRW 180bln. (Newswires)</p><p>Extra Budget - South Korea will submit 3rd extra budget to parliament on June 4th. (Newswires)</p><p>Other News - South Korea Health Minister said they will further enhance quarantine steps aimed at preventing spread of coronavirus especially in facilities considered high-risk. (Newswires)&nbsp;</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-australia-japan-and-south-korea-stock-news-earnings-including-hitachi-fuji-electric-olympus-and-yamaha-motor-31-05-2020",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-06-01 07:39:00",
+        "gmt_time": "2020-05-31 23:39:00"
+    },
+    {
+        "id": 928764,
+        "updated_sequence": 2315626,
+        "published_at": {
+            "unix": 1590967200,
+            "text": "2020-06-01 00:20:00 +0100",
+            "iso_8601": "2020-05-31T23:20:00Z"
+        },
+        "updated_at": {
+            "unix": 1590967284,
+            "text": "2020-06-01 00:21:24 +0100",
+            "iso_8601": "2020-05-31T23:21:24Z"
+        },
+        "subject": "RBA says excess cash at exchange settlement accounts at AUD 48.7bln vs. Prev.  AUD 53.6bln",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "rba-says-excess-cash-at-exchange-settlement-accounts-at-aud-48-7bln-vs-prev-aud-53-6bln-31-05-2020",
+        "hidden": false,
+        "section": {
+            "id": 12,
+            "name": "RBA"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-06-01 07:20:00",
+        "gmt_time": "2020-05-31 23:20:00"
+    },
+    {
+        "id": 928763,
+        "updated_sequence": 2315623,
+        "published_at": {
+            "unix": 1590967140,
+            "text": "2020-06-01 00:19:00 +0100",
+            "iso_8601": "2020-05-31T23:19:00Z"
+        },
+        "updated_at": {
+            "unix": 1590967223,
+            "text": "2020-06-01 00:20:23 +0100",
+            "iso_8601": "2020-05-31T23:20:23Z"
+        },
+        "subject": "China's Global Times tweets China may scale back direct lending to Latin America to minimize credit risks according to Chinese experts, but the long-term infrastructure projects will likely boost local economies after the Covid-19 outbreak is contained",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Twitter",
+        "slug": "china-s-global-times-tweets-china-may-scale-back-direct-lending-to-latin-america-to-minimize-credit-risks-according-to-chinese-experts-but-the-long-term-infrastructure-projects-will-likely-boost-local-economies-after-the-covid-19-outbreak-i-31-05-2020",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-06-01 07:19:00",
+        "gmt_time": "2020-05-31 23:19:00"
+    },
+    {
+        "id": 928762,
+        "updated_sequence": 2315620,
+        "published_at": {
+            "unix": 1590967020,
+            "text": "2020-06-01 00:17:00 +0100",
+            "iso_8601": "2020-05-31T23:17:00Z"
+        },
+        "updated_at": {
+            "unix": 1590967133,
+            "text": "2020-06-01 00:18:53 +0100",
+            "iso_8601": "2020-05-31T23:18:53Z"
+        },
+        "subject": "LA County imposes a curfew from 1800 on Sunday to 0600 on Monday, according to CBS LA",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "la-county-imposes-a-curfew-from-1800-on-sunday-to-0600-on-monday-according-to-cbs-la-31-05-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-06-01 07:17:00",
+        "gmt_time": "2020-05-31 23:17:00"
+    },
+    {
+        "id": 928761,
+        "updated_sequence": 2315617,
+        "published_at": {
+            "unix": 1590966420,
+            "text": "2020-06-01 00:07:00 +0100",
+            "iso_8601": "2020-05-31T23:07:00Z"
+        },
+        "updated_at": {
+            "unix": 1590966744,
+            "text": "2020-06-01 00:12:24 +0100",
+            "iso_8601": "2020-05-31T23:12:24Z"
+        },
+        "subject": "Walmart (WMT) is said to close stores nationwide due to protests, according to Twitter reports citing CBS",
+        "content": "<p>Link<a href=\"https://twitter.com/BreakingNAlerts/status/1267232032150687744\"> here</a></p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Twitter",
+        "slug": "walmart-wmt-is-said-to-close-stores-nationwide-due-to-protests-according-to-twitter-reports-citing-cbs-31-05-2020",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-06-01 07:07:00",
+        "gmt_time": "2020-05-31 23:07:00"
+    },
+    {
+        "id": 928760,
+        "updated_sequence": 2315612,
+        "published_at": {
+            "unix": 1590966000,
+            "text": "2020-06-01 00:00:00 +0100",
+            "iso_8601": "2020-05-31T23:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1590966058,
+            "text": "2020-06-01 00:00:58 +0100",
+            "iso_8601": "2020-05-31T23:00:58Z"
+        },
+        "subject": "Australian CBA Manufacturing PMI (May F) 44.0 (Prev. 42.8)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "australian-cba-manufacturing-pmi-may-f-44-0-prev-42-8-31-05-2020",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-06-01 07:00:00",
+        "gmt_time": "2020-05-31 23:00:00"
+    },
+    {
+        "id": 928759,
+        "updated_sequence": 2315609,
+        "published_at": {
+            "unix": 1590965460,
+            "text": "2020-05-31 23:51:00 +0100",
+            "iso_8601": "2020-05-31T22:51:00Z"
+        },
+        "updated_at": {
+            "unix": 1590965513,
+            "text": "2020-05-31 23:51:53 +0100",
+            "iso_8601": "2020-05-31T22:51:53Z"
+        },
+        "subject": "South Korea will submit 3rd extra budget to parliament on June 4th",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "south-korea-will-submit-3rd-extra-budget-to-parliament-on-june-4th-31-05-2020",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-06-01 06:51:00",
+        "gmt_time": "2020-05-31 22:51:00"
+    },
+    {
+        "id": 928757,
+        "updated_sequence": 2315603,
+        "published_at": {
+            "unix": 1590963900,
+            "text": "2020-05-31 23:25:00 +0100",
+            "iso_8601": "2020-05-31T22:25:00Z"
+        },
+        "updated_at": {
+            "unix": 1590963942,
+            "text": "2020-05-31 23:25:42 +0100",
+            "iso_8601": "2020-05-31T22:25:42Z"
+        },
+        "subject": "Curfew to begin at 1930EDT in Tampa, Florida",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "curfew-to-begin-at-1930edt-in-tampa-florida-31-05-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-06-01 06:25:00",
+        "gmt_time": "2020-05-31 22:25:00"
+    },
+    {
+        "id": 928756,
+        "updated_sequence": 2315600,
+        "published_at": {
+            "unix": 1590963660,
+            "text": "2020-05-31 23:21:00 +0100",
+            "iso_8601": "2020-05-31T22:21:00Z"
+        },
+        "updated_at": {
+            "unix": 1590963821,
+            "text": "2020-05-31 23:23:41 +0100",
+            "iso_8601": "2020-05-31T22:23:41Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASES CALENDAR IS NOW AVAILABLE IN THE RESEARCH SECTION: Highlights include: Australian AiG Manufacturing Index, Japanese Capital Spending, Regional PMIs and Chinese Caixin Manufacturing PMI, New Zealand holiday",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "asian-daily-economic-releases-calendar-is-now-available-in-the-research-section-highlights-include-australian-aig-manufacturing-index-japanese-capital-spending-regional-pmis-and-chinese-caixin-manufacturing-pmi-new-zealand-holiday-31-05-2020",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-06-01 06:21:00",
+        "gmt_time": "2020-05-31 22:21:00"
+    },
+    {
+        "id": 928755,
+        "updated_sequence": 2315794,
+        "published_at": {
+            "unix": 1590963540,
+            "text": "2020-05-31 23:19:00 +0100",
+            "iso_8601": "2020-05-31T22:19:00Z"
+        },
+        "updated_at": {
+            "unix": 1590983612,
+            "text": "2020-06-01 04:53:32 +0100",
+            "iso_8601": "2020-06-01T03:53:32Z"
+        },
+        "subject": "US Secretary of State Pompeo tweets Chinese Communist Party has come to view itself as intent upon the destruction of Western ideas, democracies and values, adds it puts Americans at risk, whether it’s stealing IP or destroying US jobs",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Twitter",
+        "slug": "us-secretary-of-state-pompeo-tweets-chinese-communist-party-has-come-to-view-itself-as-intent-upon-the-destruction-of-western-ideas-democracies-and-values-adds-it-puts-americans-at-risk-whether-it-s-stealing-ip-or-destroying-us-jobs-31-05-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-06-01 06:19:00",
+        "gmt_time": "2020-05-31 22:19:00"
+    },
+    {
+        "id": 928754,
+        "updated_sequence": 2315594,
+        "published_at": {
+            "unix": 1590963060,
+            "text": "2020-05-31 23:11:00 +0100",
+            "iso_8601": "2020-05-31T22:11:00Z"
+        },
+        "updated_at": {
+            "unix": 1590963232,
+            "text": "2020-05-31 23:13:52 +0100",
+            "iso_8601": "2020-05-31T22:13:52Z"
+        },
+        "subject": "US President Trump was urged by numerous advisers during past few days to tone down his violent rhetoric amid concern it could escalate racial tensions and hurt him politically after he recently tweeted \"When the looting starts, the shooting starts\"",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Axios",
+        "slug": "us-president-trump-was-urged-by-numerous-advisers-during-past-few-days-to-tone-down-his-violent-rhetoric-amid-concern-it-could-escalate-racial-tensions-and-hurt-him-politically-after-he-recently-tweeted-when-the-looting-starts-the-shooting-31-05-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-06-01 06:11:00",
+        "gmt_time": "2020-05-31 22:11:00"
+    },
+    {
+        "id": 928753,
+        "updated_sequence": 2315591,
+        "published_at": {
+            "unix": 1590962460,
+            "text": "2020-05-31 23:01:00 +0100",
+            "iso_8601": "2020-05-31T22:01:00Z"
+        },
+        "updated_at": {
+            "unix": 1590962607,
+            "text": "2020-05-31 23:03:27 +0100",
+            "iso_8601": "2020-05-31T22:03:27Z"
+        },
+        "subject": "US equity futures reopen lower with both Emini S&P and Dow futures down around 0.5% after the mixed Chinese PMI figures over the weekend and widespread US riots",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "us-equity-futures-reopen-lower-with-both-emini-s-p-and-dow-futures-down-around-0-5-after-the-mixed-chinese-pmi-figures-over-the-weekend-and-widespread-us-riots-31-05-2020",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-06-01 06:01:00",
+        "gmt_time": "2020-05-31 22:01:00"
+    },
+    {
+        "id": 928752,
+        "updated_sequence": 2315586,
+        "published_at": {
+            "unix": 1590962220,
+            "text": "2020-05-31 22:57:00 +0100",
+            "iso_8601": "2020-05-31T21:57:00Z"
+        },
+        "updated_at": {
+            "unix": 1590962281,
+            "text": "2020-05-31 22:58:01 +0100",
+            "iso_8601": "2020-05-31T21:58:01Z"
+        },
+        "subject": "Apple (AAPL) is to keep a number of US stores closed on Sunday",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "apple-aapl-is-to-keep-a-number-of-us-stores-closed-on-sunday-31-05-2020",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-06-01 05:57:00",
+        "gmt_time": "2020-05-31 21:57:00"
+    },
+    {
+        "id": 928751,
+        "updated_sequence": 2315799,
+        "published_at": {
+            "unix": 1590959940,
+            "text": "2020-05-31 22:19:00 +0100",
+            "iso_8601": "2020-05-31T21:19:00Z"
+        },
+        "updated_at": {
+            "unix": 1590983815,
+            "text": "2020-06-01 04:56:55 +0100",
+            "iso_8601": "2020-06-01T03:56:55Z"
+        },
+        "subject": "OPEC+ source says OPEC will discuss extending the current 9.7mln bpd cuts for 1-2 months and will also discuss option of holding JMMC monthly to help maintain a stringent grasp on compliance levels, according to Energy Intel's Bakr",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>As a reminder, there were reports that OPEC+ is close to bringing the next meeting forward to June 4th following a proposal from the Algerian Energy Minister, while Russia is said to have no objection to the proposal.</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1590960180,
+            "text": "2020-05-31 22:23:00 +0100",
+            "iso_8601": "2020-05-31T21:23:00Z"
+        },
+        "push_notify": false,
+        "source": "Energy Intel",
+        "slug": "opec-source-says-opec-will-discuss-extending-the-current-9-7mln-bpd-cuts-for-1-2-months-and-will-also-discuss-option-of-holding-jmmc-monthly-to-help-maintain-a-stringent-grasp-on-compliance-levels-according-to-energy-intel-s-bakr-31-05-2020",
+        "hidden": false,
+        "section": {
+            "id": 20,
+            "name": "Commodities"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-06-01 05:19:00",
+        "gmt_time": "2020-05-31 21:19:00"
+    },
+    {
+        "id": 928750,
+        "updated_sequence": 2315588,
+        "published_at": {
+            "unix": 1590958800,
+            "text": "2020-05-31 22:00:00 +0100",
+            "iso_8601": "2020-05-31T21:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1590962362,
+            "text": "2020-05-31 22:59:22 +0100",
+            "iso_8601": "2020-05-31T21:59:22Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p><strong>CORONAVIRUS UPDATE / RESPONSES</strong></p><p>US President Trump said he is terminating the relationship between the US and WHO, while he had accused China of taking control of the WHO. In other news, President Trump is planning to delay the next G7 meeting until September and wants to include Australia, India, Russia and South Korea. (Newswires)</p><p>NY Governor Cuomo said NYC is on course for phase one reopening in the second week of June and New York Major de Blasio also expects the City to begin reopening in the next two weeks. (Newswires)</p><p>UK coronavirus death toll rose to 38,489 from 38,376. (Newswires)</p><p>Beijing-based company Sinovac which currently has a coronavirus vaccine in stage 2 trials, are \"99%\" sure it will be effective, according to Sky News. (Newswires)</p><p>&nbsp;</p><p><strong>ASIA-PAC</strong></p><ul><li>Chinese Manufacturing PMI (May) 50.6 vs. Exp. 51.1 (Prev. 50.8). (Newswires)</li><li>Chinese Non-Manufacturing PMI (May) 53.6 vs. Exp. 53.5 (Prev. 53.2)</li><li>Chinese Composite PMI (May) 53.4 (Prev. 53.4)</li></ul><p>US President Trump said China broke their word to ensure the autonomy of Hong Kong and that China unlawfully claimed territory in the Pacific Ocean, while he accused China of covering up the \"Wuhan Virus\", as well as espionage and stealing industrial secrets. (Newswires)</p><p>US President Trump said the administration will begin the process to eliminate policy exemptions that give Hong Kong special treatment and will take steps to sanction HK and PRC officials involved in eroding the autonomy. President Trump added that they will change the travel advisory for Hong Kong to reflect increased danger of surveillance and will suspend entry of particular foreign nationals from China identified by the US as possible security risks. (Newswires)</p><p>US President Trump is instructing working group to study differing practices of Chinese companies listed on US stock markets (BABA, JD, NTES, BIDU) and said that China action on Hong Kong is a plain violation of treaty obligations. Furthermore, it was separately reported that US President Trump signed a law to halt the entry of certain students and researchers from China as expected, while US is reportedly preparing a wide range of economic retaliation against China according to sources. (Newswires)</p><p>US President Trump is reportedly not planning to quit the Phase One deal according to source reports. In other news, US President Trump and UK PM Johnson agreed to cooperate closely responding to any action on China that undermines the Sino-British joint declaration, while the two also discussed progress in trade talks and telecommunications security. (Newswires)</p><p>A senior diplomat in Hong Kong reportedly suggested that the most likely scenario is a gradual decrease of the preferential trade system and not abolishing it completely overnight. (SCMP)</p><p>China Foreign Ministry said it reserves the right to take countermeasures against the UK if Britain offers permanent residency to Hong Kong citizens. (Newswires)</p><p>PBoC said current financial risks are overall controllable but will step up the evaluation of financial risks and properly dispose of them, while it will adopt comprehensive measures to step up the disposal of non-performing loans. PBoC said will steadily push forward the development of the asset management product market, as well as deepen reforms of small and medium-sized banks and work to replenish their capital. (Newswires)</p><p>A senior Chinese researcher close to the PBoC said Beijing should just take a “benign neglect” policy over the yuan value and let the market forces decide the exchange rate between yuan and dollar. (SCMP)</p><p>Chinese economists suggest CNY could depreciate further to more than 7.2000 per USD amid the escalating US-China tensions although long-term volatility will be controllable. (Global Times)</p><ul><li>Indian GDP (Q4) Y/Y 3.1% vs. Exp. 2.1% (Prev. 4.7%, Rev. 4.1%). (Newswires)</li></ul><p>&nbsp;</p><p><strong>UK/EU</strong></p><p>UK Chancellor Sunak said employers will have to pay 10% of furloughed staff wages in September and 20% in October, while furloughed employees will be allowed to work part time from July which is one month earlier than planned. Furthermore, it was also reported that the Chancellor is working on an emergency budget statement which will be unveiled in July and which targets saving 2mln jobs at risk due to the coronavirus outbreak. (Newswires)</p><p>UK reportedly accuses EU of stretching out trade discussions until November in the hope UK will cave in at the last minute, while there were separate reports of comments from EU Brexit Negotiator Barnier who suggested the UK need to be more realistic regarding trade demands and that the EU wants an agreement but it cannot be at any cost and they will never accept anything which makes the single market more fragile. (Telegraph/Sunday Times)</p><p>Irish PM Varadkar said we need to step up planning for a no trade deal scenario, while EU advisor Stefaan De Rynck said it is a tall order to reach a Brexit agreement on fisheries by the deadline and that there is no appetite on the EU side to revise the mandate. (Newswires)</p><p>EU will reject UK demands for stronger legal protection for UK regional products such as Stilton cheese and Scottish whisky in trade negotiations next week. (Telegraph)</p><p>EU Budget Commissioner Hahn calls for a tax on around 70k large firms in Europe that have a global turnover of EUR 750mln to access the single market in which the funds could be used for a recovery fund, with a target of having a functioning, steady new flow of resources to the budget by end-2027 at the latest. (FT)</p><p>Spain’s PM Sanchez is to ask lawmakers to approve final extension to the state of emergency to June 21st, while the government is reportedly hoping for EUR 140bln of aid from the EU COVID-19 recovery fund. (Newswires)</p><ul><li>EU HICP Flash (May) Y/Y 0.1% vs. Exp. 0.1% (Prev. 0.3%). (Newswires)</li></ul><p>&nbsp;</p><p><strong>COMMODITIES</strong></p><p>Baker Hughes Rig Count (May 29): oil rigs -15 to 222, nat gas -2 to 77 and total -17 to 301. (Newswires)</p><p>OPEC+ is reportedly close to bringing the next meeting forward to June 4th following a proposal from the Algerian Energy Minister, while Russia is said to have no objection to the proposal. (Newswires)</p><p>Russia's Rosneft reportedly told the Russian Energy Ministry that it would be hard to maintain oil output cuts to the end of the year as it does not have enough crude to ship to customers as part of long-term supply deals, according to sources. (Newswires)</p><p>&nbsp;</p><p><strong>GEOPOLITICS</strong></p><p>Beijing has reportedly been making plans for an air defence identification zone in the South China Sea since 2010 which would cover Pratas, Paracel and the Spratly Islands in the contested region, according to PLA source. (SCMP)</p><p>&nbsp;</p><p><strong>US</strong></p><p>Fed Chair Powell said Fed is strongly committed to using its tools and this is an emergency of a nature we haven't seen before, while he acknowledged the Fed crossed red lines but that it was appropriate. Powell added that the Fed is days away from making the first loans in the Main Street Facility in which he could imagine expanding the facility and stated it is challenging trying to figure out the kind of credit products appropriate for the Main Street Facility. (Newswires)</p><p>Fed's Mester (voter, hawk) said it is hard to imagine a fast v-shaped recovery with the consumer remaining cautious and views yield curve control (YCC) as a support for forward guidance should it be adopted. (Newswires)</p><p>NY Fed raised weekly Treasuries/TIPS purchases to USD 22.5bln (prev. 20bln) and cut daily purchases to USD 4.5bln for next week (prev. USD 5bln). (Newswires)</p><p>US riots following the death of George Floyd have widened to over 30 cities forcing a deployment of the National Guard which have responded with firing rubber bullets and tear gas, as well as other measures. (Newswires)</p><ul><li>US Chicago PMI (May) 32.3 vs. Exp. 40.0 (Prev. 35.4). (Newswires)</li><li>US University of Michigan Sentiment Final (May) 72.3 vs. Exp. 74.0 (Prev. 73.7)</li><li>US Advance Goods Trade Balance (Apr) -69.68B (Prev. -64.38B, Rev. -64.98B)</li><li>US Wholesale Inventories Advance (Apr) 0.4% (Prev. -0.8%, Rev. -1.0%)</li><li>US Retail Inventories Ex-Auto Adv (Apr) -1.1% (Prev. -1.0%, Rev. -0.8%)</li></ul><p>&nbsp;</p><p><strong>MARKET RECAP</strong></p><p>The two main risk events for Friday – Fed chair Powell’s remarks on the economy, and US President Trump’s remarks on China – turned out to both be benign. On the former, the Fed chair revealed little in the way of reads we could use ahead of the June FOMC, reiterating negative rates was not appropriate at the moment; with an aggressive reading one might argue that his remarks were consistent with a future YCC tool. Markets traded choppy ahead of President Trump’s remarks, however, much of the meat was leaked in advance via sources, and all the measures were generally ones that markets had digested with ease over the last couple of weeks. While Trump had more spikey rhetoric, there was no ‘nuclear’ action that the President announced (for instance, sanctions against key China officials, any immediate disruption of capital flows, any immediate delisting of Chinese companies, and there was nothing that threatened Hong Kong’s access to dollars). Accordingly, equities saw a relief rally into the final part of trade, and there was some modest selling in Treasuries. SPX +0.5% at 3,044, NDX +1.5% at 9,556, DJI -0.1% at 25,383.</p><p>The TPLEX caught a bid to end the week amid month-end flows and tentative risk appetite ahead of Trump announcements and the weekend. By settlement, the curve had flattened, with yields lower between 1-4bps across the curve. Real money was reported to have been behind the bid amid duration extension due to portfolio rebalancing, at the same time fast money/spec accounts were said to be sellers, keeping pressure on yields. However, the selling pressure abated into the latter part of the session seeing the curve bull flatten further. Additionally, the bid was supported further due Treasury supply out the way, as well as little corporate issuance on the radar today. NY Fed announced its week ahead Treasury/TIPS purchases too, where the total weekly purchases will rise to USD 22.5bln (prev. 20bln), while owing to this week’s market holiday on Monday, next week’s daily purchases will fall to USD 4.5bln from 5bln. The Fed also released data on its SMCCF, where as of Thursday, it held USD 1.177bln across corporate bonds. The Fed also released ETF holding breakdowns, albeit only up till May 19th, where its largest holdings in corporate bond ETFs appeared most correlated to those with the largest AUM, with the IG Corp ETF LQD being the largest holding, followed by LQD, VCIT, DCSH, and HYG (the largest US corporate HY ETF). US T-note futures (U0) settled 13 ticks higher at 139-02.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-asia-pac-opening-news-31-05-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-06-01 05:00:00",
+        "gmt_time": "2020-05-31 21:00:00"
+    }
+]

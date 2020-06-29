@@ -1,0 +1,618 @@
+[
+    {
+        "id": 886846,
+        "updated_sequence": 1928507,
+        "published_at": {
+            "unix": 1568591700,
+            "text": "2019-09-16 00:55:00 +0100",
+            "iso_8601": "2019-09-15T23:55:00Z"
+        },
+        "updated_at": {
+            "unix": 1568591927,
+            "text": "2019-09-16 00:58:47 +0100",
+            "iso_8601": "2019-09-15T23:58:47Z"
+        },
+        "subject": "China Premier Li says maintaining economic growth at 6% or higher is very difficult",
+        "content": "<p>Says:</p><ul><li>Chinese economy faces certain downward pressure due to slowing global growth, protectionism and unilateralism.</li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "china-premier-li-says-maintaining-economic-growth-at-6-or-higher-is-very-difficult-15-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-16 07:55:00",
+        "gmt_time": "2019-09-15 23:55:00"
+    },
+    {
+        "id": 886845,
+        "updated_sequence": 1928502,
+        "published_at": {
+            "unix": 1568591580,
+            "text": "2019-09-16 00:53:00 +0100",
+            "iso_8601": "2019-09-15T23:53:00Z"
+        },
+        "updated_at": {
+            "unix": 1568591674,
+            "text": "2019-09-16 00:54:34 +0100",
+            "iso_8601": "2019-09-15T23:54:34Z"
+        },
+        "subject": "US President Trump and Japanese PM Abe are to issue joint statement regarding agreement not to hike tariffs on Japan autos",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-president-trump-and-japanese-pm-abe-are-to-issue-joint-statement-regarding-agreement-not-to-hike-tariffs-on-japan-autos-15-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-16 07:53:00",
+        "gmt_time": "2019-09-15 23:53:00"
+    },
+    {
+        "id": 886844,
+        "updated_sequence": 1928499,
+        "published_at": {
+            "unix": 1568590800,
+            "text": "2019-09-16 00:40:00 +0100",
+            "iso_8601": "2019-09-15T23:40:00Z"
+        },
+        "updated_at": {
+            "unix": 1568591398,
+            "text": "2019-09-16 00:49:58 +0100",
+            "iso_8601": "2019-09-15T23:49:58Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIA AND SOUTH KOREAN STOCK NEWS: Oil prices surge after Saudi refinery attacks, Virgin Australia (VAH AT) is to buyback 35% stake in Velocity frequent flyer program from Affinity",
+        "content": "<p>AUSTRALIA</p><p>Bellamy’s Australia (BALA T) - Co. will be acquired by Mengniu Dairy (2319 HK) for AUD 13.25/Shr. (Newswires)</p><p>LNG (LNG AT) - Co. agrees to supply deal in Vietnam with Delta Offshore Energy. (Newswires)</p><p>Orocobre (ORE AT) - Co. received regulatory clearance to complete purchase of Nyanzaga Mining. (Newswires)</p><p>Pacific Energy (PEA AT) - Co. board recommends revised offer from QIC. (Newswires)</p><p>Sims Metal Management (SGM AT) - Co. warned H1 is expected to be materially lower Y/Y in which it stated ferrous and non-ferrous prices are having the biggest impact as well as reduced demand for steel and aluminium amid US-China trade war. Furthermore, there were reports Co. is to make a material announcement related to acquisition or asset sales. (AFR)</p><p>TPG Telecom (TPM AT) - ACCC provided documentation which showed the Co. deliberately amended financial models to boost the net present value of an investment in mobile spectrum to secure capital. (Newswires)</p><p>Virgin Australia (VAH AT) - Co. is to buyback 35% stake in Velocity frequent flyer program from Affinity. (AFR)</p><p>Energy - Oil prices rose as much as 20% following the Saudi oil refineries attack. (Newswires)</p><p>Other News - Australian intelligence determined China was behind a major cyberattack on Australian Parliament which political parties discovered in February but decided not to reveal findings to protect relation ship with its top trading partner China. (Newswires)</p><p>&nbsp;</p><p>SOUTH KOREA</p><p>SK Innovation (096770 KS) - Co. has been selected to supply battery pack for Ferrari’s first plug-in hybrid electric vehicle. (Newswires)</p><p>Tobacco - South Korea tobacco imports rose to record high and showed the largest Y/Y growth since 1995 amid e-cigarette boom. (Newswires)</p><p>Geopolitics - North Korea leader Kim sent a letter which proposes that US President Trump visit Pyongyang. (Newswires)</p><p>Other News - South Korea President Moon’s office stated that job growth is showing clear signs of improvement with the government planning to roll-out pre-emptive measures to help cushion the impact from inevitable restructuring of some troubled businesses. (Newswires)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-australia-and-south-korean-stock-news-oil-prices-surge-after-saudi-refinery-attacks-virgin-australia-vah-at-is-to-buyback-35-stake-in-velocity-frequent-flyer-program-from-affinity-15-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-16 07:40:00",
+        "gmt_time": "2019-09-15 23:40:00"
+    },
+    {
+        "id": 886843,
+        "updated_sequence": 1928494,
+        "published_at": {
+            "unix": 1568590260,
+            "text": "2019-09-16 00:31:00 +0100",
+            "iso_8601": "2019-09-15T23:31:00Z"
+        },
+        "updated_at": {
+            "unix": 1568590453,
+            "text": "2019-09-16 00:34:13 +0100",
+            "iso_8601": "2019-09-15T23:34:13Z"
+        },
+        "subject": "US President Trump suggests that it is Fake News that he is willing to meet with Iran with “No Conditions” and that it is an incorrect statement as usual",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Twitter",
+        "slug": "us-president-trump-suggests-that-it-is-fake-news-that-he-is-willing-to-meet-with-iran-with-no-conditions-and-that-it-is-an-incorrect-statement-as-usual-15-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 23,
+            "name": "Geopolitical"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-16 07:31:00",
+        "gmt_time": "2019-09-15 23:31:00"
+    },
+    {
+        "id": 886842,
+        "updated_sequence": 1928601,
+        "published_at": {
+            "unix": 1568588520,
+            "text": "2019-09-16 00:02:00 +0100",
+            "iso_8601": "2019-09-15T23:02:00Z"
+        },
+        "updated_at": {
+            "unix": 1568605238,
+            "text": "2019-09-16 04:40:38 +0100",
+            "iso_8601": "2019-09-16T03:40:38Z"
+        },
+        "subject": "British Chambers of Commerce cuts 2019 growth forecast to 1.2% from 1.3%, 2020 growth forecast cut to 0.8% from 1.0%, adds outlook assumes UK avoids a no-deal Brexit",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "british-chambers-of-commerce-cuts-2019-growth-forecast-to-1-2-from-1-3-2020-growth-forecast-cut-to-0-8-from-1-0-adds-outlook-assumes-uk-avoids-a-no-deal-brexit-15-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-16 07:02:00",
+        "gmt_time": "2019-09-15 23:02:00"
+    },
+    {
+        "id": 886841,
+        "updated_sequence": 1928488,
+        "published_at": {
+            "unix": 1568588460,
+            "text": "2019-09-16 00:01:00 +0100",
+            "iso_8601": "2019-09-15T23:01:00Z"
+        },
+        "updated_at": {
+            "unix": 1568588570,
+            "text": "2019-09-16 00:02:50 +0100",
+            "iso_8601": "2019-09-15T23:02:50Z"
+        },
+        "subject": "UK Rightmove House Prices (Sep) Y/Y 0.2% (Prev. 1.2%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "uk-rightmove-house-prices-sep-y-y-0-2-prev-1-2-15-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 29,
+            "name": "UK Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-16 07:01:00",
+        "gmt_time": "2019-09-15 23:01:00"
+    },
+    {
+        "id": 886840,
+        "updated_sequence": 1928485,
+        "published_at": {
+            "unix": 1568588460,
+            "text": "2019-09-16 00:01:00 +0100",
+            "iso_8601": "2019-09-15T23:01:00Z"
+        },
+        "updated_at": {
+            "unix": 1568588554,
+            "text": "2019-09-16 00:02:34 +0100",
+            "iso_8601": "2019-09-15T23:02:34Z"
+        },
+        "subject": "UK Rightmove House Prices (Sep) M/M -0.2% (Prev. -1.0%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "uk-rightmove-house-prices-sep-m-m-0-2-prev-1-0-15-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 29,
+            "name": "UK Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-16 07:01:00",
+        "gmt_time": "2019-09-15 23:01:00"
+    },
+    {
+        "id": 886839,
+        "updated_sequence": 1928482,
+        "published_at": {
+            "unix": 1568587860,
+            "text": "2019-09-15 23:51:00 +0100",
+            "iso_8601": "2019-09-15T22:51:00Z"
+        },
+        "updated_at": {
+            "unix": 1568588014,
+            "text": "2019-09-15 23:53:34 +0100",
+            "iso_8601": "2019-09-15T22:53:34Z"
+        },
+        "subject": "US President Trump tweeted there is reason to believe that we know the culprit, are locked and loaded depending on verification, but are waiting to hear from the Kingdom as to who they believe was the cause of this attack and under what terms to proceed",
+        "content": "<p>Says:</p><ul><li>Plenty of oil.</li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Twitter",
+        "slug": "us-president-trump-tweeted-there-is-reason-to-believe-that-we-know-the-culprit-are-locked-and-loaded-depending-on-verification-but-are-waiting-to-hear-from-the-kingdom-as-to-who-they-believe-was-the-cause-of-this-attack-and-under-what-term-15-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 23,
+            "name": "Geopolitical"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-16 06:51:00",
+        "gmt_time": "2019-09-15 22:51:00"
+    },
+    {
+        "id": 886838,
+        "updated_sequence": 1928474,
+        "published_at": {
+            "unix": 1568587560,
+            "text": "2019-09-15 23:46:00 +0100",
+            "iso_8601": "2019-09-15T22:46:00Z"
+        },
+        "updated_at": {
+            "unix": 1568587628,
+            "text": "2019-09-15 23:47:08 +0100",
+            "iso_8601": "2019-09-15T22:47:08Z"
+        },
+        "subject": " A large percentage of Saudi Arabia's crude that went offline could be lost for some time, according to FT citing sources briefed on the situation",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "FT",
+        "slug": "a-large-percentage-of-saudi-arabia-s-crude-that-went-offline-could-be-lost-for-some-time-according-to-ft-citing-sources-briefed-on-the-situation-15-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 20,
+            "name": "Commodities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-16 06:46:00",
+        "gmt_time": "2019-09-15 22:46:00"
+    },
+    {
+        "id": 886837,
+        "updated_sequence": 1928467,
+        "published_at": {
+            "unix": 1568586600,
+            "text": "2019-09-15 23:30:00 +0100",
+            "iso_8601": "2019-09-15T22:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1568586648,
+            "text": "2019-09-15 23:30:48 +0100",
+            "iso_8601": "2019-09-15T22:30:48Z"
+        },
+        "subject": "New Zealand Performance of Services Index (Aug) 54.6 (Prev. 54.7)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "new-zealand-performance-of-services-index-aug-54-6-prev-54-7-15-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-16 06:30:00",
+        "gmt_time": "2019-09-15 22:30:00"
+    },
+    {
+        "id": 886836,
+        "updated_sequence": 1928469,
+        "published_at": {
+            "unix": 1568586300,
+            "text": "2019-09-15 23:25:00 +0100",
+            "iso_8601": "2019-09-15T22:25:00Z"
+        },
+        "updated_at": {
+            "unix": 1568586677,
+            "text": "2019-09-15 23:31:17 +0100",
+            "iso_8601": "2019-09-15T22:31:17Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASES CALENDAR NOW AVAILABLE IN THE RESEARCH SECTION: Highlights include Chinese Industrial Production and Retail Sales",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asian-daily-economic-releases-calendar-now-available-in-the-research-section-highlights-include-chinese-industrial-production-and-retail-sales-15-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-16 06:25:00",
+        "gmt_time": "2019-09-15 22:25:00"
+    },
+    {
+        "id": 886835,
+        "updated_sequence": 1928459,
+        "published_at": {
+            "unix": 1568585100,
+            "text": "2019-09-15 23:05:00 +0100",
+            "iso_8601": "2019-09-15T22:05:00Z"
+        },
+        "updated_at": {
+            "unix": 1568585331,
+            "text": "2019-09-15 23:08:51 +0100",
+            "iso_8601": "2019-09-15T22:08:51Z"
+        },
+        "subject": "Oil prices surge at the reopen with WTI crude futures up by 12.5% following the attacks on Saudi's oil refineries, while US equity futures decline by about 0.5% and gold is up by USD 12/oz on geopolitical concerns with some pointing the blame on Iran",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "oil-prices-surge-at-the-reopen-with-wti-crude-futures-up-by-12-5-following-the-attacks-on-saudi-s-oil-refineries-while-us-equity-futures-decline-by-about-0-5-and-gold-is-up-by-usd-12-oz-on-geopolitical-concerns-with-some-pointing-the-blam-15-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-16 06:05:00",
+        "gmt_time": "2019-09-15 22:05:00"
+    },
+    {
+        "id": 886834,
+        "updated_sequence": 1928461,
+        "published_at": {
+            "unix": 1568584740,
+            "text": "2019-09-15 22:59:00 +0100",
+            "iso_8601": "2019-09-15T21:59:00Z"
+        },
+        "updated_at": {
+            "unix": 1568585693,
+            "text": "2019-09-15 23:14:53 +0100",
+            "iso_8601": "2019-09-15T22:14:53Z"
+        },
+        "subject": "US President Trump says he has authorized release of oil from Strategic Petroleum Reserve if needed at a to be determined amount following attack on Saudi oil facilities",
+        "content": "<p>Says:&nbsp;</p><p>Has informed all appropriate agencies to expedite approvals of the oil pipelines currently in the permitting process in Texas and various other states.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-president-trump-says-he-has-authorized-release-of-oil-from-strategic-petroleum-reserve-if-needed-at-a-to-be-determined-amount-following-attack-on-saudi-oil-facilities-15-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 20,
+            "name": "Commodities"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-16 05:59:00",
+        "gmt_time": "2019-09-15 21:59:00"
+    },
+    {
+        "id": 886833,
+        "updated_sequence": 1928476,
+        "published_at": {
+            "unix": 1568583780,
+            "text": "2019-09-15 22:43:00 +0100",
+            "iso_8601": "2019-09-15T21:43:00Z"
+        },
+        "updated_at": {
+            "unix": 1568587765,
+            "text": "2019-09-15 23:49:25 +0100",
+            "iso_8601": "2019-09-15T22:49:25Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p><strong>ASIA-PAC</strong></p><p>China State Council will exclude some agricultural products including soybeans and pork from additional tariffs on US goods. (Xinhua)</p><p>China Global Times Editor stated that based on what he knows, China’s government encourages Chinese companies to buy certain amount of US farm products, including soybeans and pork, which will also be exempted from additional tariffs, while he added that it is hoped the US side can keep goodwill reciprocity with China through practical actions. (Twitter)</p><p>China warned US warships sailing through the South China sea after reports that a US Navy Warship conducted a \"Freedom of Navigation\" on Friday. (Newswires)</p><ul><li>Indian Trade Balance (USD)(Aug) -13.5B vs. Exp. -13.6B (Prev. -13.4B)</li><li>Indian Exports (USD)(Aug) 26.13B (Prev. 26.33B)</li><li>Indian Imports (USD)(Aug) 39.58B (Prev. 39.76B)</li></ul><p>&nbsp;</p><p><strong>UK/EU</strong></p><p>UK PM Johnson said there is an approximate shape of a deal to be done on Brexit and is cautiously optimistic about a deal. (Newswires)</p><p>EU Commissioner Hogan said recent events in the UK parliament increase the chances of a further Brexit delay, while an EU Diplomat said talks with UK European Advisor Frost were the best so far but are not yet the beginning of a solution. (Newswires/Telegraph)</p><p>ECB's Rehn said the ECB's package was a response to the shortfall in inflation and that rate tiering provides the ECB with more space to cut rates further if necessary, while there were separate comments from ECB's Coeure that there is a very strong and unanimous view among ECB members that fiscal policy must take charge. Conversely, ECB's Weidmann said the ECB went overboard with the stimulus package and will make sure hikes are not delayed for too long, while ECB's Knot suggested the ECB's measures are not in line with the economic situation, that the Eurozone is growing at full capacity and that restarting QE is not the right instrument. (Newswires/Bild)</p><p>French Finance Minister Le Maire said ECB's Monetary policy should be complimented with fiscal measures and investment revised growth, but also stated he is cautious about changing EU fiscal rules as the overhaul could take too long. Furthermore, Le Maire commented that one option on energy taxation could be an EU airlines tax and that banks should reduce the costs of international transactions. (Newswires)</p><p>French Finance Ministry sources stated 2020 budget is to be based on deficit of 2.2% (April est. 2.0%), while growth is seen at 1.4% in 2019 (Unch.) and 1.3% in 2020 (Prev. 1.4%). Furthermore, it is expected to save EUR 3bln from lower borrowing costs in 2019 and EUR 8bln in 2020. (Newswires)</p><p>&nbsp;</p><p><strong>COMMODITIES</strong></p><p>2 Saudi refineries were hit by drone attacks which cut more than 5mln bbls of output or half of Saudi's daily production. The attack was claimed to have been conducted by Houthi rebels although US have also pointed the blame at Iran which Iran have denied and think the US could be seeking a pretext to retaliate against Iran. Furthermore, sources familiar also suggested they are fairly certain the attack on Saudi oil facilities was the work of Iranian Revolutionary Guards, while Saudi Arabia expects to restore a third of the disrupted output on Monday.</p><p>Baker Hughes Oil rigs -5 at 733, Gas rigs -7 at 153, Total rigs -12 at 886. (Newswires)</p><p>US Energy Secretary Perry said he will meet Saudi counterpart on Monday and discuss working towards a civilian nuclear agreement, while he added that Iran has yet to show it is willing to participate in the global community and that the US should use its tools to ensure Iran does participate. (Newswires)</p><p>&nbsp;</p><p><strong>GEOPOLITICS</strong></p><p>US Treasury Secretary Mnuchin waned European companies will be targeted by US sanctions if they operate in Iran. In related news, France, Britain, Germany and the EU say they are \"deeply concerned\" by Iran's announcements and actions in walking back on the Nuclear Deal commitments, particularly Iran's decision to install advanced centrifuges. (Newswires/Sky)</p><p>US issued further North Korean sanctions on NK hacking groups, targeting one individual and three entities. (Newswires)</p><p>Turkish President Erdogan said he is to discuss with US President Trump the purchase of the US Patriot missile defence system and is to meet with Trump at the UN, while he suggested that a personal bond with Trump could overcome potential US sanctions. (Newswires)&nbsp;</p><p>&nbsp;</p><p><strong>US</strong></p><p>US NEC Director Kudlow said a new US tax plan will be unveiled some time in the middle of next year and that US President Trump decided against an executive order to allow capital gains tax indexing as it would not benefit the middle class enough. Furthermore, Kudlow said he doesn't see a recession and expects a Fed rate cut as does the market. (Newswires)</p><ul><li>US Retail Sales (Aug) M/M 0.4% vs. Exp. 0.2% (Prev. 0.7%, Rev. 0.8%). (Newswires)</li><li>US University of Michigan Sentiment (Sep P) 92.0 vs. Exp. 90.9 (Prev. 89.8)</li></ul><p>&nbsp;</p><p><strong>MARKET RECAP</strong></p><p>Apple (AAPL) weighed on indices after a PT cut at Goldman on EPS concerns from the latest TV+ trial bundle; Apple later denied the claims which saw some of the losses pare slightly. Big tech (FB, GOOGL, AMZN, AAPL) opened lower amid a US House panel probing antitrust behaviour; Netflix (NFLX) bucked the FAANG trend after a positive mention at Piper Jaffray. Financials were an outperforming sector given the steeper yield curve. Broadcom (AVGO) opened lower after missing Revenue estimates for Q3 and its FY guidance. Higher copper prices on trade truce optimism boosted Freeport-McMoRan (FCX). Progressive (PGR) underperformed after disappointing August figures. Altria (MO) dipped after reports Juul, which it owns a 35% stake in, had taken a large valuation cut in the secondary market. Tyson Foods (TSN) benefitted from China excluding pork from tariffs. PG&amp;E (PCG) spiked higher after reaching a settlement for its wildfire insurance claims. S&amp;P 500 -0.1% at 3007, NASDAQ-100 -0.3% at 7893, Dow Jones 0.1% at 27220.</p><p>Yields continued their “back-up” to end the week amid further signs of progress on the US-China trade front. The large moves lower in the TPLEX came after the latest University of Michigan Survey, where losses extended as the Europeans closed up for the weekend. Treasuries were also taking some cues from EGB selling, as participants digest the latest ECB tiering system which gives leeway to banks to reallocate their reserves at the ECB at the tiered rate instead of in negative yielding government debt. US Treasury Secretary Mnuchin again stated that the US is looking whether there is proper demand for a 50-year bond and that the treasury will consider 100-year bonds. At settlement the curve had bear steepened significantly with yields up over 10bp in the belly to long end of the curve. US T-notes (z9) settled 27+ ticks lower at 128-18+.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-asia-pac-opening-news-15-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-16 05:43:00",
+        "gmt_time": "2019-09-15 21:43:00"
+    },
+    {
+        "id": 886832,
+        "updated_sequence": 1928448,
+        "published_at": {
+            "unix": 1568583000,
+            "text": "2019-09-15 22:30:00 +0100",
+            "iso_8601": "2019-09-15T21:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1568583091,
+            "text": "2019-09-15 22:31:31 +0100",
+            "iso_8601": "2019-09-15T21:31:31Z"
+        },
+        "subject": "EU officials deny UK PM Johnson's claim there has been real signs of movement and that huge progress is being made on removing the backstop",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "eu-officials-deny-uk-pm-johnson-s-claim-there-has-been-real-signs-of-movement-and-that-huge-progress-is-being-made-on-removing-the-backstop-15-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 38,
+            "name": "Brexit"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-16 05:30:00",
+        "gmt_time": "2019-09-15 21:30:00"
+    },
+    {
+        "id": 886831,
+        "updated_sequence": 1928478,
+        "published_at": {
+            "unix": 1568582760,
+            "text": "2019-09-15 22:26:00 +0100",
+            "iso_8601": "2019-09-15T21:26:00Z"
+        },
+        "updated_at": {
+            "unix": 1568587808,
+            "text": "2019-09-15 23:50:08 +0100",
+            "iso_8601": "2019-09-15T22:50:08Z"
+        },
+        "subject": "Twitter reports note sources familiar stated that they are fairly certain the attack on Saudi oil facilities was the work of Iranian Revolutionary Guards",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<p>This follows a drone attack on 2 Saudi oil facilities which cut 5.7mln bbls of output which is over half of Saudi's daily production. The attack was thought to be conducted by Houthi rebels although US have also pointed the blame at Iran which Iran have denied.</p>",
+        "analysis_updated_at": {
+            "unix": 1568583000,
+            "text": "2019-09-15 22:30:00 +0100",
+            "iso_8601": "2019-09-15T21:30:00Z"
+        },
+        "push_notify": false,
+        "source": "Twitter",
+        "slug": "twitter-reports-note-sources-familiar-stated-that-they-are-fairly-certain-the-attack-on-saudi-oil-facilities-was-the-work-of-iranian-revolutionary-guards-15-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 23,
+            "name": "Geopolitical"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-16 05:26:00",
+        "gmt_time": "2019-09-15 21:26:00"
+    },
+    {
+        "id": 886830,
+        "updated_sequence": 1928603,
+        "published_at": {
+            "unix": 1568581680,
+            "text": "2019-09-15 22:08:00 +0100",
+            "iso_8601": "2019-09-15T21:08:00Z"
+        },
+        "updated_at": {
+            "unix": 1568606109,
+            "text": "2019-09-16 04:55:09 +0100",
+            "iso_8601": "2019-09-16T03:55:09Z"
+        },
+        "subject": "UK PM Johnson says he believes he can strike an EU deal within weeks but adds UK will leave on October 31st deal or no-deal",
+        "content": "<p>Says:</p><ul><li>Intends to go to EU summit on October 17th and finalize an agreement if we can make enough progress, adds leaving without a deal is not outcome he wants but preparations are by now very extensive.</li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Telegraph ",
+        "slug": "uk-pm-johnson-says-he-believes-he-can-strike-an-eu-deal-within-weeks-but-adds-uk-will-leave-on-october-31st-deal-or-no-deal-15-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 38,
+            "name": "Brexit"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-16 05:08:00",
+        "gmt_time": "2019-09-15 21:08:00"
+    },
+    {
+        "id": 886625,
+        "updated_sequence": 1928434,
+        "published_at": {
+            "unix": 1568581200,
+            "text": "2019-09-15 22:00:00 +0100",
+            "iso_8601": "2019-09-15T21:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1568581200,
+            "text": "2019-09-15 22:00:00 +0100",
+            "iso_8601": "2019-09-15T21:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "<p><a href=\"https://asia.nikkei.com/Business/Companies/Nintendo-to-move-Switch-output-to-Vietnam-as-China-tariffs-loom\">Via Nikkei</a></p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-12-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-16 05:00:00",
+        "gmt_time": "2019-09-15 21:00:00"
+    }
+]

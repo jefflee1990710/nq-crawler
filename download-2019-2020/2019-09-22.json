@@ -1,0 +1,546 @@
+[
+    {
+        "id": 887945,
+        "updated_sequence": 1933039,
+        "published_at": {
+            "unix": 1569196380,
+            "text": "2019-09-23 00:53:00 +0100",
+            "iso_8601": "2019-09-22T23:53:00Z"
+        },
+        "updated_at": {
+            "unix": 1569196509,
+            "text": "2019-09-23 00:55:09 +0100",
+            "iso_8601": "2019-09-22T23:55:09Z"
+        },
+        "subject": "South Korea Sep. 1st-20th Trade Balance at surplus of USD 1.65bln, Exports fell 21.8% Y/Y and Imports fell 11.1% Y/Y",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "south-korea-sep-1st-20th-trade-balance-at-surplus-of-usd-1-65bln-exports-fell-21-8-y-y-and-imports-fell-11-1-y-y-22-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-23 07:53:00",
+        "gmt_time": "2019-09-22 23:53:00"
+    },
+    {
+        "id": 887944,
+        "updated_sequence": 1933036,
+        "published_at": {
+            "unix": 1569194880,
+            "text": "2019-09-23 00:28:00 +0100",
+            "iso_8601": "2019-09-22T23:28:00Z"
+        },
+        "updated_at": {
+            "unix": 1569196238,
+            "text": "2019-09-23 00:50:38 +0100",
+            "iso_8601": "2019-09-22T23:50:38Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIA AND SOUTH KOREAN STOCK NEWS: ANZ Bank (ANZ AT) completed the divestment of its Papua New Guinea unit to Kina Securities; Japan is closed for holiday",
+        "content": "<p>AUSTRALIA</p><p>ANZ Bank (ANZ AT) - Co. completed the divestment of its Papua New Guinea unit to Kina Securities. (Newswires)</p><p>Nine Entertainment (NEC AT) - Macquarie Media (MRN AT) shareholder John Singleton agreed to sell stake to Nine Entertainment. (Newswires)</p><p>Northern Star Resources (NST AT) - Co. declared its previously announced takeover of Echo Resources is now unconditional. (Newswires)</p><p>Seven West Media (SWM AT) - Co. is expected to announce restructuring before end of October including job cuts. (Newswires)</p><p>Virgin Australia (VAH AT) - Co. is expected to use debt for the acquisition of remaining 35% stake in Velocity. (AFR)</p><p>Financials - Australia Council of Financial Regulators said it welcomes recent progress by banks in lengthening maturity of offshore term debt and that they discussed package of possible regulatory reforms for financial market infrastructure to be released later in 2019. (Newswires)</p><p>Other News - Australian PM Morrison commented that US President Trump is doing a lot of deals with Australia in his state visit to Washington. (Newswires)</p><p>&nbsp;</p><p>SOUTH KOREA</p><p>Celltrion (06820 KS) - Co. unit receives CHMP Positive Opinion on its infliximab biosimilar for rheumatoid arthritis treatment. (Newswires)</p><p>Kolon Life Science (102940 KS) - Kolon Tissuegene receives continue clinical hold notice from the US FDA and will submit additional documentation to FDA. (Newswires)</p><p>Agriculture - South Korea culled thousands of pigs for a 5th consecutive day to prevent the spread of swine fever. (Yonhap)</p><p>Other News - North Korea media resumed its criticism of South Korea in which it stated that South Korea can never evade responsibility for worsening the situation in the Korean Peninsula. (Newswires)</p><p>&nbsp;</p><p>JAPAN (Closed)</p><p>Hitachi (6501 JT) - Co. is said to raise JPY 1tln through loans and bonds by May 2022. (Nikkei)</p><p>Honda (7267 JT) - Co. and SoftBank (9984 JT) are to launch a motorbike sharing service in Japan. (Nikkei)</p><p>Mitsubishi Corp (8058 JT) - Co. Petro-Diamond unit is to record loss of around USD 320mln from trading of crude oil derivates and noted that a worker made unauthorized trades. (Newswires)</p><p>Nippon Express (9062 JT) - Co. to acquire 22% stake in Future Supply Chain Solutions for INR 2.5bln. (Newswires)</p><p>Nissha Printing (7915 JT) - Co. is to record one-time gain of JPY 5.0bln from sale of its plant. (Newswires)</p><p>SoftBank Group (9984 JT) - Co. is looking at about 40 companies in Brazil for potential investment. (Newswires)</p><p>Sompo Holdings (8630 JT) - Co. sees JPY 110bln in losses from Typhoon Faxai. (Newswires)</p><p>Tokyo Electron (8035 JT) - Co. announced that it has decided to merge 2 of is US unit’s subsidiaries. (Newswires)</p><p>Tokyo Gas (9531 JT) - Co. lost 370k customers in January to June. (Nikkei)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-australia-and-south-korean-stock-news-anz-bank-anz-at-completed-the-divestment-of-its-papua-new-guinea-unit-to-kina-securities-japan-is-closed-for-holiday-22-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-23 07:28:00",
+        "gmt_time": "2019-09-22 23:28:00"
+    },
+    {
+        "id": 887943,
+        "updated_sequence": 1933108,
+        "published_at": {
+            "unix": 1569194100,
+            "text": "2019-09-23 00:15:00 +0100",
+            "iso_8601": "2019-09-22T23:15:00Z"
+        },
+        "updated_at": {
+            "unix": 1569211061,
+            "text": "2019-09-23 04:57:41 +0100",
+            "iso_8601": "2019-09-23T03:57:41Z"
+        },
+        "subject": "ECB's Vasle says economic conditions are very complicated and there is likely a need for further ECB action",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "ecb-s-vasle-says-economic-conditions-are-very-complicated-and-there-is-likely-a-need-for-further-ecb-action-22-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 17,
+            "name": "ECB"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-23 07:15:00",
+        "gmt_time": "2019-09-22 23:15:00"
+    },
+    {
+        "id": 887942,
+        "updated_sequence": 1933026,
+        "published_at": {
+            "unix": 1569193200,
+            "text": "2019-09-23 00:00:00 +0100",
+            "iso_8601": "2019-09-22T23:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1569193453,
+            "text": "2019-09-23 00:04:13 +0100",
+            "iso_8601": "2019-09-22T23:04:13Z"
+        },
+        "subject": "Australian CBA Composite PMI (Sep P) 51.9 (Prev. 49.3)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "australian-cba-composite-pmi-sep-p-51-9-prev-49-3-22-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-23 07:00:00",
+        "gmt_time": "2019-09-22 23:00:00"
+    },
+    {
+        "id": 887941,
+        "updated_sequence": 1933028,
+        "published_at": {
+            "unix": 1569193200,
+            "text": "2019-09-23 00:00:00 +0100",
+            "iso_8601": "2019-09-22T23:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1569193468,
+            "text": "2019-09-23 00:04:28 +0100",
+            "iso_8601": "2019-09-22T23:04:28Z"
+        },
+        "subject": "Australian CBA Services PMI (Sep P) 52.5 vs. Exp. 45.3 (Prev. 49.1)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "australian-cba-services-pmi-sep-p-52-5-vs-exp-45-3-prev-49-1-22-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-23 07:00:00",
+        "gmt_time": "2019-09-22 23:00:00"
+    },
+    {
+        "id": 887940,
+        "updated_sequence": 1933018,
+        "published_at": {
+            "unix": 1569193200,
+            "text": "2019-09-23 00:00:00 +0100",
+            "iso_8601": "2019-09-22T23:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1569193264,
+            "text": "2019-09-23 00:01:04 +0100",
+            "iso_8601": "2019-09-22T23:01:04Z"
+        },
+        "subject": "Australian CBA Manufacturing PMI (Sep P) 49.4 vs. Exp. 50.9 (Prev. 50.9)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "australian-cba-manufacturing-pmi-sep-p-49-4-vs-exp-50-9-prev-50-9-22-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-23 07:00:00",
+        "gmt_time": "2019-09-22 23:00:00"
+    },
+    {
+        "id": 887939,
+        "updated_sequence": 1933015,
+        "published_at": {
+            "unix": 1569192600,
+            "text": "2019-09-22 23:50:00 +0100",
+            "iso_8601": "2019-09-22T22:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1569192695,
+            "text": "2019-09-22 23:51:35 +0100",
+            "iso_8601": "2019-09-22T22:51:35Z"
+        },
+        "subject": "Exxon restarts Beaumont Texas Refinery large crude unit",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "exxon-restarts-beaumont-texas-refinery-large-crude-unit-22-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 20,
+            "name": "Commodities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-23 06:50:00",
+        "gmt_time": "2019-09-22 22:50:00"
+    },
+    {
+        "id": 887938,
+        "updated_sequence": 1933010,
+        "published_at": {
+            "unix": 1569191460,
+            "text": "2019-09-22 23:31:00 +0100",
+            "iso_8601": "2019-09-22T22:31:00Z"
+        },
+        "updated_at": {
+            "unix": 1569191532,
+            "text": "2019-09-22 23:32:12 +0100",
+            "iso_8601": "2019-09-22T22:32:12Z"
+        },
+        "subject": "Chinese manufacturers are actively searching for real estate space in Thailand amid US tariffs",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "chinese-manufacturers-are-actively-searching-for-real-estate-space-in-thailand-amid-us-tariffs-22-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-23 06:31:00",
+        "gmt_time": "2019-09-22 22:31:00"
+    },
+    {
+        "id": 887937,
+        "updated_sequence": 1933007,
+        "published_at": {
+            "unix": 1569191400,
+            "text": "2019-09-22 23:30:00 +0100",
+            "iso_8601": "2019-09-22T22:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1569191435,
+            "text": "2019-09-22 23:30:35 +0100",
+            "iso_8601": "2019-09-22T22:30:35Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASES CALENDAR NOW AVAILABLE IN THE RESEARCH SECTION: Highlights include Australia CBA PMIs, Netherlands, GDP Singapore CPI ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asian-daily-economic-releases-calendar-now-available-in-the-research-section-highlights-include-australia-cba-pmis-netherlands-gdp-singapore-cpi-22-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-23 06:30:00",
+        "gmt_time": "2019-09-22 22:30:00"
+    },
+    {
+        "id": 887936,
+        "updated_sequence": 1933002,
+        "published_at": {
+            "unix": 1569190200,
+            "text": "2019-09-22 23:10:00 +0100",
+            "iso_8601": "2019-09-22T22:10:00Z"
+        },
+        "updated_at": {
+            "unix": 1569190307,
+            "text": "2019-09-22 23:11:47 +0100",
+            "iso_8601": "2019-09-22T22:11:47Z"
+        },
+        "subject": "UK press reports state that legal experts expect the Supreme Court to rule against PM Johnson who would then be forced to recall MPs to Parliament",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "uk-press-reports-state-that-legal-experts-expect-the-supreme-court-to-rule-against-pm-johnson-who-would-then-be-forced-to-recall-mps-to-parliament-22-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 38,
+            "name": "Brexit"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-23 06:10:00",
+        "gmt_time": "2019-09-22 22:10:00"
+    },
+    {
+        "id": 887936,
+        "updated_sequence": 1933002,
+        "published_at": {
+            "unix": 1569190200,
+            "text": "2019-09-22 23:10:00 +0100",
+            "iso_8601": "2019-09-22T22:10:00Z"
+        },
+        "updated_at": {
+            "unix": 1569190307,
+            "text": "2019-09-22 23:11:47 +0100",
+            "iso_8601": "2019-09-22T22:11:47Z"
+        },
+        "subject": "UK press reports state that legal experts expect the Supreme Court to rule against PM Johnson who would then be forced to recall MPs to Parliament",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "uk-press-reports-state-that-legal-experts-expect-the-supreme-court-to-rule-against-pm-johnson-who-would-then-be-forced-to-recall-mps-to-parliament-22-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 38,
+            "name": "Brexit"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-23 06:10:00",
+        "gmt_time": "2019-09-22 22:10:00"
+    },
+    {
+        "id": 887935,
+        "updated_sequence": 1932999,
+        "published_at": {
+            "unix": 1569190140,
+            "text": "2019-09-22 23:09:00 +0100",
+            "iso_8601": "2019-09-22T22:09:00Z"
+        },
+        "updated_at": {
+            "unix": 1569190195,
+            "text": "2019-09-22 23:09:55 +0100",
+            "iso_8601": "2019-09-22T22:09:55Z"
+        },
+        "subject": "New Zealand Shadow Board recommends no change at the upcoming RBNZ policy review",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "new-zealand-shadow-board-recommends-no-change-at-the-upcoming-rbnz-policy-review-22-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 11,
+            "name": "RBNZ"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-23 06:09:00",
+        "gmt_time": "2019-09-22 22:09:00"
+    },
+    {
+        "id": 887934,
+        "updated_sequence": 1933012,
+        "published_at": {
+            "unix": 1569188760,
+            "text": "2019-09-22 22:46:00 +0100",
+            "iso_8601": "2019-09-22T21:46:00Z"
+        },
+        "updated_at": {
+            "unix": 1569192085,
+            "text": "2019-09-22 23:41:25 +0100",
+            "iso_8601": "2019-09-22T22:41:25Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p><strong>ASIA-PAC</strong></p><p>US President Trump said he has an amazing relationship with Chinese President Xi but are having a little spat, while he added Chinese agricultural purchases will not be enough and that he wants a complete deal. Furthermore, Trump reiterated he does not need a deal before the 2020 election and is not interested in a limited China deal, while he added China is 'eating' the tariffs. (Newswires)</p><p>US granted temporary tariff exemption on over 400 types of Chinese products after having received more than 1,100 exclusion requests made by companies and other entities in US. (Newswires)</p><p>Montana Farm Bureau said the Chinese delegation cancelled its US farm visit to Montana and its agriculture officials are returning to China sooner than expected. However, reports over the weekend stated the delegation of Chinese agriculture officials didn’t cancel the trip because of any new difficulty in the trade talks but instead cancelled amid concerns it could turn into a media circus and to avoid misimpression China was trying to meddle in US domestic politics. (Newswires)</p><p>US and China deputy level talks were said to be constructive and the sides agreed to continue discussions on relevant issues, according to Chinese state media. (Newswires)</p><p>US are unlikely to remove tariffs on imports of Japanese auto-parts in the trade agreement which is scheduled to be signed next week, according to reports citing sources. (Japan Times)</p><p>Protesters and polices clashed again over the weekend during a 16th week of protests. (Newswires)</p><p>&nbsp;</p><p><strong>UK/EU</strong></p><p>UK PM Johnson told colleagues he does not expect to be able to reach full “legally operable” deal covering Irish border at meeting of EU leaders. (FT)</p><p>UK Brexit negotiator Barclay said he believes a deal with the EU is possible, while he stated that we are getting into the details of the talks and that technical meetings will occur again next week. Furthermore, Barclay confirmed that UK PM Johnson is expected to meet EU Council Tusk at the UN next week and suggested there is a clear message from EC President Juncker and PM Johnson that a deal is doable. (Newswires)</p><p>UK Brexit proposals reportedly don’t amount to a legally operational solution and fall short of satisfying objective of backstop, according to reports citing a leaked document. In related news, the UK is said to have responded that the ideas put forward to avoid a hard border are serious and workable, while it is focussed on actually getting a deal in the room and trust the EU Commission will do the same. (Newswires)</p><p>ITV's Peston tweeted that it is crystal clear the EU and UK are as far from a deal as ever and that sources stated PM Johnson's 'non-paper' border proposals were seen in Brussels as a waste of time. (Newswires)</p><p>German Chancellor Merkel said we remain committed to balanced budget and not incurring new debt, while Finance Min Scholz said we will finance climate package with taxes. (Newswires)</p><p>S&amp;P raised Spain's rating from A- to A; Outlook Stable, while Fitch affirmed Denmark at AAA; Outlook Stable. (Newswires)</p><p>&nbsp;</p><p><strong>FX</strong></p><p>Israel Joint List party are to back center-left’s Benny Gantz to form a new government. (Newswires)</p><ul><li>Canadian Retail Sales (Jul) M/M 0.4% vs. Exp. 0.6% (Rev. -0.1%). (Newswires)</li><li>Canadian Retail Sales Ex-Autos (Jul) M/M -0.1% vs. Exp. 0.3% (Prev. 0.9%)</li></ul><p>&nbsp;</p><p><strong>COMMODITIES</strong></p><p>Aramco is in emergency discussions and are offering to premium rates for parts and repair work in an effort to resume output quickly amid concerns repairs may last many months instead of the maximum 10 weeks the Co. has promised. In related news, some ARAMCO board members are said to be horrified Co. could communicate such optimistic assessments on returning output to normal, while technical experts share the view with some Saudi officials it could take 8 months. (WSJ/Newswires)</p><p>Saudi Aramco notified Japan's top oil distributor JXTG Nippon Oil &amp; Energy regarding a potential change in shipments in which it wants to change the oil grade it supplies to from light to heavy and medium beginning next month which reports indicates ARAMCO is having a hard time restoring its production as quickly as it has promised. (Nikkei)</p><p>Baker Hughes (Sep 13): Oil rigs -14 at 719, Nat Gas rigs -5 at 148, Total rigs -18 at 868. (Newswires)</p><p>Total Port Arthur Texas refinery is raising production after storm Imelda, while Valero Port Arthur Texas refinery has resumed production of its crude unit. (Newswires)</p><p>&nbsp;</p><p><strong>GEOPOLITICS</strong></p><p>US President Trump said the US has just sanctioned the Iranian National Bank, while Treasury Secretary Mnuchin commented the latest round of sanctions against Iran are \"very big\" and remove the last source of funding for the country. (Newswires)</p><p>US Secretary of State Pompeo said US is still seeking top avoid war with Iran but added that additional troops being deployed to the region are for deterrence and defence. (Newswires)</p><p>US has positioned the USS Nitze destroyer armed with surface to air missiles, off the northeast coast of Saudi Arabia to cover the gap in Saudi Air Defences. (CBS)</p><p>Iran is to keep reducing its nuclear deal commitments on a 60-day basis although no decision has been decided on its 4th stage of reductions, according to reports citing an Iranian Envoy. (Sputnik)</p><p>Yemen Houthis are reportedly to stop targeting Saudi territories and expect those targeting Yemen to announce something similar. However, there were separate reports that Yemen have warned foreign diplomats that Iran is preparing a follow-up strike to the missile and drone attack on Saudi’s oil facilities. (Al Masirah/WSJ)</p><p>&nbsp;</p><p><strong>US</strong></p><p>New York Fed announced they will be conducting overnight repo-operations every trading day until 10th October at a minimum amount of USD 75bln, with three 14-day term operations of at least USD 30bln next week</p><p>Fed's Bullard (Dove, voted 50bps cut) said he forecasts one more rate cut in 2019. (Newswires)</p><p>Fed's Rosengren (voter, hawkish dissenter) said building permits and initial claims for unemployment insurance are not signalling a recession, while he also stated PPI and Dallas Trimmed Mean inflation measures are firm and does not see another rate cut unless the financial conditions change. (Fox)</p><p>Fed's Williams (voter) questioned the hesitance of banks in the repo market and suggested the need to focus on how the market functions and not the level of reserves at the Fed. (FT)</p><p>Fed's Clarida (voter) said the economy is in a good place but with the expansion there are some risks and noted there is a range of views on the Fed's committee but are in agreement we are in a good place. Fed Clarida also said the Fed will discuss the size of the balance sheet in the October meeting and that any further expansions of size of the balance sheet will be \"Central banking 101\" not QE. (Newswires)</p><p>Fed's Kaplan (non-voter) said he has pencilled in no more rate cut this year and one next year, while he added the Fed should seriously examine plans to allow balance sheet increase with the increase in demand for reserves. Kaplan also stated he is not opposed to nor leaning towards further rate cuts this year and will be open minded and will not prejudge, while he earlier suggested he would rather take modest, limited action and that if we wait to see evidence of a weak consumer, the Fed will have waited too long. (Newswires)&nbsp;</p><p>&nbsp;</p><p><strong>MARKET RECAP</strong></p><p>Netflix (NFLX) tumbled as its CEO announced a challenging outlook due to growing competition and Evercore suggested a risk of disappointing Q3 international subscribers. Roku (ROKU) nosedived on Pinnacle initiating the streaming device maker at a Sell rating, citing increasing competition. PG&amp;E (PCG) suffered from a new USD 24bln wildfire victim reorganisation plan. Eli Lilly (LLY) opened higher after receiving label approval from European regulators for a diabetes treatment. Merck (MRK) was bolstered by the FDA expanded label use for two HIV treatments. United Rentals (URI) benefited from an upgrade to a Buy rating at Goldman Sachs. Regeneron (REGN) outperformed after receiving European recommended approval for another use of its Dupixient. Xilinx (XLNX) opened on the backfoot after its CFO departed unexpectedly. Harley Davidson (HOG) was firmer due to UBS forecasting a less-severe outlook. Wayfair (W) was initiated with a Sell rating at Berenberg, citing competition. S&amp;P 500 -0.5% at 2992, NASDAQ-100 -1% at 7824, Dow Jones -0.6% at 26934.</p><p>Treasuries caught a bid in the tail-end of the session and going into the weekend (after trading mainly sideways) in the latest risk-off flows as the Chinese delegation announced it was leaving the US earlier than it had anticipated. There was some support for the TPLEX earlier, taking cues from Bunds, after Germany announced new climate budget plans would be financed via taxes, otherwise little else had much effect on Friday. At settlement yields were lower by around 3bps with spreads mixed. US T-note futures (z9) settled 3 ticks higher at 129-22.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-asia-pac-opening-news-22-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-23 05:46:00",
+        "gmt_time": "2019-09-22 21:46:00"
+    },
+    {
+        "id": 887933,
+        "updated_sequence": 1932993,
+        "published_at": {
+            "unix": 1569187800,
+            "text": "2019-09-22 22:30:00 +0100",
+            "iso_8601": "2019-09-22T21:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1569188129,
+            "text": "2019-09-22 22:35:29 +0100",
+            "iso_8601": "2019-09-22T21:35:29Z"
+        },
+        "subject": "Some ARAMCO board members are said to be horrified Co. could communicate such optimistic assessments  of a maximum of 10 weeks to return output to normal, while technical experts share the view with some Saudi officials it could take 8 months",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "some-aramco-board-members-are-said-to-be-horrified-co-could-communicate-such-optimistic-assessments-of-a-maximum-of-10-weeks-to-return-output-to-normal-while-technical-experts-share-the-view-with-some-saudi-officials-it-could-take-8-month-22-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 20,
+            "name": "Commodities"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-23 05:30:00",
+        "gmt_time": "2019-09-22 21:30:00"
+    },
+    {
+        "id": 887932,
+        "updated_sequence": 1932990,
+        "published_at": {
+            "unix": 1569186240,
+            "text": "2019-09-22 22:04:00 +0100",
+            "iso_8601": "2019-09-22T21:04:00Z"
+        },
+        "updated_at": {
+            "unix": 1569186347,
+            "text": "2019-09-22 22:05:47 +0100",
+            "iso_8601": "2019-09-22T21:05:47Z"
+        },
+        "subject": "Indonesia report on Lion Air crash is expected to fault Boeing (BA) 737 MAX design and cite pilot as well as maintenance lapses, according to sources",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "indonesia-report-on-lion-air-crash-is-expected-to-fault-boeing-ba-737-max-design-and-cite-pilot-as-well-as-maintenance-lapses-according-to-sources-22-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-23 05:04:00",
+        "gmt_time": "2019-09-22 21:04:00"
+    },
+    {
+        "id": 887741,
+        "updated_sequence": 1932984,
+        "published_at": {
+            "unix": 1569186000,
+            "text": "2019-09-22 22:00:00 +0100",
+            "iso_8601": "2019-09-22T21:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1569186000,
+            "text": "2019-09-22 22:00:00 +0100",
+            "iso_8601": "2019-09-22T21:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "<p><a href=\"https://asia.nikkei.com/Business/Companies/Nintendo-to-move-Switch-output-to-Vietnam-as-China-tariffs-loom\">Via Nikkei</a></p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-19-09-2019",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-09-23 05:00:00",
+        "gmt_time": "2019-09-22 21:00:00"
+    }
+]

@@ -1,0 +1,618 @@
+[
+    {
+        "id": 665231,
+        "updated_sequence": 1005370,
+        "published_at": {
+            "unix": 1531093800,
+            "text": "2018-07-09 00:50:00 +0100",
+            "iso_8601": "2018-07-08T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1531094114,
+            "text": "2018-07-09 00:55:14 +0100",
+            "iso_8601": "2018-07-08T23:55:14Z"
+        },
+        "subject": "Japanese Current Account Balance (JPY)(May) 1938.3B vs. Exp. 1266.0B (Prev. 1845.1B)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-current-account-balance-jpy-may-1938-3b-vs-exp-1266-0b-prev-1845-1b-08-07-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-07-09 07:50:00",
+        "gmt_time": "2018-07-08 23:50:00"
+    },
+    {
+        "id": 665233,
+        "updated_sequence": 1005361,
+        "published_at": {
+            "unix": 1531093800,
+            "text": "2018-07-09 00:50:00 +0100",
+            "iso_8601": "2018-07-08T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1531094076,
+            "text": "2018-07-09 00:54:36 +0100",
+            "iso_8601": "2018-07-08T23:54:36Z"
+        },
+        "subject": "Japanese Trade Balance BOP Basis (JPY)(May) -303.9B vs. Exp. -483.1B (Prev. 573.8B)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-trade-balance-bop-basis-jpy-may-303-9b-vs-exp-483-1b-prev-573-8b-08-07-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-07-09 07:50:00",
+        "gmt_time": "2018-07-08 23:50:00"
+    },
+    {
+        "id": 665232,
+        "updated_sequence": 1005358,
+        "published_at": {
+            "unix": 1531093800,
+            "text": "2018-07-09 00:50:00 +0100",
+            "iso_8601": "2018-07-08T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1531094063,
+            "text": "2018-07-09 00:54:23 +0100",
+            "iso_8601": "2018-07-08T23:54:23Z"
+        },
+        "subject": "Japanese Adjusted Current Account Balance (JPY)(May) 1.85T vs. Exp. 1.18T (Prev. 1.89T)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-adjusted-current-account-balance-jpy-may-1-85t-vs-exp-1-18t-prev-1-89t-08-07-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-07-09 07:50:00",
+        "gmt_time": "2018-07-08 23:50:00"
+    },
+    {
+        "id": 665235,
+        "updated_sequence": 1005367,
+        "published_at": {
+            "unix": 1531093800,
+            "text": "2018-07-09 00:50:00 +0100",
+            "iso_8601": "2018-07-08T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1531094092,
+            "text": "2018-07-09 00:54:52 +0100",
+            "iso_8601": "2018-07-08T23:54:52Z"
+        },
+        "subject": "Japanese Bank Lending Ex. Trusts (Jun) Y/Y 2.1% (Prev. 1.9%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-bank-lending-ex-trusts-jun-y-y-2-1-prev-1-9-08-07-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-07-09 07:50:00",
+        "gmt_time": "2018-07-08 23:50:00"
+    },
+    {
+        "id": 665234,
+        "updated_sequence": 1005364,
+        "published_at": {
+            "unix": 1531093800,
+            "text": "2018-07-09 00:50:00 +0100",
+            "iso_8601": "2018-07-08T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1531094085,
+            "text": "2018-07-09 00:54:45 +0100",
+            "iso_8601": "2018-07-08T23:54:45Z"
+        },
+        "subject": "Japanese Bank Lending Incl. Trusts (Jun) Y/Y 2.2% vs. Exp. 2.0% (Prev. 2.0%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-bank-lending-incl-trusts-jun-y-y-2-2-vs-exp-2-0-prev-2-0-08-07-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-07-09 07:50:00",
+        "gmt_time": "2018-07-08 23:50:00"
+    },
+    {
+        "id": 665230,
+        "updated_sequence": 1005352,
+        "published_at": {
+            "unix": 1531093380,
+            "text": "2018-07-09 00:43:00 +0100",
+            "iso_8601": "2018-07-08T23:43:00Z"
+        },
+        "updated_at": {
+            "unix": 1531093501,
+            "text": "2018-07-09 00:45:01 +0100",
+            "iso_8601": "2018-07-08T23:45:01Z"
+        },
+        "subject": "Jacob Rees-Mogg says UK PM May's Brexit plan must be bad if Davis cannot support it and that a serious mistake by PM May led to Davis quitting",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "jacob-rees-mogg-says-uk-pm-may-s-brexit-plan-must-be-bad-if-davis-cannot-support-it-and-that-a-serious-mistake-by-pm-may-led-to-davis-quitting-08-07-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-07-09 07:43:00",
+        "gmt_time": "2018-07-08 23:43:00"
+    },
+    {
+        "id": 665229,
+        "updated_sequence": 1005347,
+        "published_at": {
+            "unix": 1531093020,
+            "text": "2018-07-09 00:37:00 +0100",
+            "iso_8601": "2018-07-08T23:37:00Z"
+        },
+        "updated_at": {
+            "unix": 1531093020,
+            "text": "2018-07-09 00:37:00 +0100",
+            "iso_8601": "2018-07-08T23:37:00Z"
+        },
+        "subject": "Chinese refiner reportedly stops purchases of US oil and may switch to Iran oil instead",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "chinese-refiner-reportedly-stops-purchases-of-us-oil-and-may-switch-to-iran-oil-instead-08-07-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-07-09 07:37:00",
+        "gmt_time": "2018-07-08 23:37:00"
+    },
+    {
+        "id": 665228,
+        "updated_sequence": 1005412,
+        "published_at": {
+            "unix": 1531092780,
+            "text": "2018-07-09 00:33:00 +0100",
+            "iso_8601": "2018-07-08T23:33:00Z"
+        },
+        "updated_at": {
+            "unix": 1531101845,
+            "text": "2018-07-09 03:04:05 +0100",
+            "iso_8601": "2018-07-09T02:04:05Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIA, JAPANESE AND SOUTH KOREAN STOCK NEWS: Energy names after WTI crude futures rose over 1% and briefly reclaimed USD 74.00/bbl",
+        "content": "<p>AUSTRALIA</p>\r\n\r\n<p>APA Group (APA AT)<br />- There is said to be at least 4 bidders preparing for auction of Co. assets. (AFR)</p>\r\n\r\n<p>BHP (BHP AT)<br />- BP (BP/ LN) is reportedly the front runner to acquire Co.&rsquo;s US onshore shale assets. (Newswires)</p>\r\n\r\n<p>Dacian Gold (DCN AT)<br />- Co. announces high-grade intersection from Cameron Well site. (Newswires)</p>\r\n\r\n<p>Independence Group (IGO AT)<br />- Co. Q4 Nova nickel production rose 23% Q/Q. (Newswires)</p>\r\n\r\n<p>Yancoal Australia (YAL AT)<br />- Co. may begin standing down of employees in its Austar operations. (Newswires)</p>\r\n\r\n<p>Energy<br />- WTI crude rose 1.3% to briefly over USD 74/bbl. (Newswires)<br /><br />&nbsp;</p>\r\n\r\n<p><br />JAPAN</p>\r\n\r\n<p>AGC (5201 JT)<br />- Co. H1 oper. profit may have increase 30% Y/Y to JPY 63bln vs. Prev. forecast of 12% Y/Y growth to JPY 55bln. (Newswires)</p>\r\n\r\n<p>Chiyoda (8185 JT)<br />- Co. Q1 net JPY 1.8bln vs. Prev. JPY 2.5bln Y/Y, Oper. profit JPY 2.1bln vs. Prev. JPY 3.5bln Y/Y, Rev. JPY 32.6bln vs. Prev. JPY 35.8bln Y/Y. (Newswires)</p>\r\n\r\n<p>Hitachi (6501 JT)<br />- Co. establishes business alliance with Besterra related to dismantling of nuclear power equipment. (Newswires)</p>\r\n\r\n<p>Honda Motor (7267 JT)<br />- Co. is to partner with Panasonic (6752 JT) on portable lithium-ion batteries. (Newswires)</p>\r\n\r\n<p>Other News<br />- GPIF reported largest gain in 3 years of 6.9% for FY18. (Newswires)<br />- Flooding and landslides hit&nbsp;Japan which resulted to at least&nbsp;85 deaths. (Newswires)<br />&nbsp;</p>\r\n\r\n<p>SOUTH KOREA</p>\r\n\r\n<p>LG Electronics (066570 KS)<br />- Co. reported on Friday Q2 prelim. Oper. profit at KRW 771bln vs. Exp. KRW 821bln, Rev. KRW 15.0tln vs. Exp. KRW 15.5tln. (Newswires)</p>\r\n\r\n<p>LG Innotek (011070 KS)<br />- Co. announced range of LEDs generating light sources that help plants grow faster than sunlight. (Newswires)<br /><br />Samsung Electronics (005930 KS)<br />- Samsung&rsquo;s Jay Y. Lee is travelling to India amid plans to lay further groundwork to further expand in the country&rsquo;s smartphone market. (Newswires)</p>\r\n\r\n<p>Airlines<br />- Asiana Airlines (020560 KS) and Korean Air (003490 KS) workers held a joint rally in protest against management and recent scandals including the in-flight meals disruption. (Newswires)</p>\r\n\r\n<p>Other News<br />- North Korean Foreign Ministry stated discussions with US Secretary of State Pompeo were &#39;regrettable&#39; and accused the US of unilateral demands for denuclearization. (Newswires)</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-australia-japanese-and-south-korean-stock-news-energy-names-after-wti-crude-futures-rose-over-1-and-briefly-reclaimed-usd-74-00-bbl-08-07-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-07-09 07:33:00",
+        "gmt_time": "2018-07-08 23:33:00"
+    },
+    {
+        "id": 665227,
+        "updated_sequence": 1005341,
+        "published_at": {
+            "unix": 1531091520,
+            "text": "2018-07-09 00:12:00 +0100",
+            "iso_8601": "2018-07-08T23:12:00Z"
+        },
+        "updated_at": {
+            "unix": 1531091581,
+            "text": "2018-07-09 00:13:01 +0100",
+            "iso_8601": "2018-07-08T23:13:01Z"
+        },
+        "subject": "Reports note that Brexit Minister Steve Baker will be resigning with Brexit Secretary Davis",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "reports-note-that-brexit-minister-steve-baker-will-be-resigning-with-brexit-secretary-davis-08-07-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-07-09 07:12:00",
+        "gmt_time": "2018-07-08 23:12:00"
+    },
+    {
+        "id": 665226,
+        "updated_sequence": 1005338,
+        "published_at": {
+            "unix": 1531090980,
+            "text": "2018-07-09 00:03:00 +0100",
+            "iso_8601": "2018-07-08T23:03:00Z"
+        },
+        "updated_at": {
+            "unix": 1531091165,
+            "text": "2018-07-09 00:06:05 +0100",
+            "iso_8601": "2018-07-08T23:06:05Z"
+        },
+        "subject": "British Chambers of Commerce says UK manufacturing and services companies domestic sales pick up slightly during Q2 but UK business investment plans and confidence weakened, adds BoE rhetoric around hiking rates seems ill-judged",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "british-chambers-of-commerce-says-uk-manufacturing-and-services-companies-domestic-sales-pick-up-slightly-during-q2-but-uk-business-investment-plans-and-confidence-weakened-adds-boe-rhetoric-around-hiking-rates-seems-ill-judged-08-07-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-07-09 07:03:00",
+        "gmt_time": "2018-07-08 23:03:00"
+    },
+    {
+        "id": 665225,
+        "updated_sequence": 1005335,
+        "published_at": {
+            "unix": 1531090380,
+            "text": "2018-07-08 23:53:00 +0100",
+            "iso_8601": "2018-07-08T22:53:00Z"
+        },
+        "updated_at": {
+            "unix": 1531090478,
+            "text": "2018-07-08 23:54:38 +0100",
+            "iso_8601": "2018-07-08T22:54:38Z"
+        },
+        "subject": "One other minister is said to be leaving the government along with Brexit Secretary Davis",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "BBC",
+        "slug": "one-other-minister-is-said-to-be-leaving-the-government-along-with-brexit-secretary-davis-08-07-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-07-09 06:53:00",
+        "gmt_time": "2018-07-08 22:53:00"
+    },
+    {
+        "id": 665224,
+        "updated_sequence": 1005332,
+        "published_at": {
+            "unix": 1531089540,
+            "text": "2018-07-08 23:39:00 +0100",
+            "iso_8601": "2018-07-08T22:39:00Z"
+        },
+        "updated_at": {
+            "unix": 1531089796,
+            "text": "2018-07-08 23:43:16 +0100",
+            "iso_8601": "2018-07-08T22:43:16Z"
+        },
+        "subject": "UK Brexit Secretary Davis has reportedly resigned, according to twitter reports citing Telegraph",
+        "content": "",
+        "reaction_details": "<p>- GBP/USD fell by 19 pips to 1.3293 from 1.3312 in the minute following the report.</p>\r\n",
+        "reaction_updated_at": {
+            "unix": 1531089795,
+            "text": "2018-07-08 23:43:15 +0100",
+            "iso_8601": "2018-07-08T22:43:15Z"
+        },
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Telegraph",
+        "slug": "uk-brexit-secretary-davis-has-reportedly-resigned-according-to-twitter-reports-citing-telegraph-08-07-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-07-09 06:39:00",
+        "gmt_time": "2018-07-08 22:39:00"
+    },
+    {
+        "id": 665223,
+        "updated_sequence": 1005326,
+        "published_at": {
+            "unix": 1531089240,
+            "text": "2018-07-08 23:34:00 +0100",
+            "iso_8601": "2018-07-08T22:34:00Z"
+        },
+        "updated_at": {
+            "unix": 1531089413,
+            "text": "2018-07-08 23:36:53 +0100",
+            "iso_8601": "2018-07-08T22:36:53Z"
+        },
+        "subject": "Trump administration may halt risk adjustment payments concerning the Affordable Care Act",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "trump-administration-may-halt-risk-adjustment-payments-concerning-the-affordable-care-act-08-07-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-07-09 06:34:00",
+        "gmt_time": "2018-07-08 22:34:00"
+    },
+    {
+        "id": 665222,
+        "updated_sequence": 1005323,
+        "published_at": {
+            "unix": 1531087920,
+            "text": "2018-07-08 23:12:00 +0100",
+            "iso_8601": "2018-07-08T22:12:00Z"
+        },
+        "updated_at": {
+            "unix": 1531088046,
+            "text": "2018-07-08 23:14:06 +0100",
+            "iso_8601": "2018-07-08T22:14:06Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASES CALENDAR NOW AVAILABLE IN THE RESEARCH SECTION: Highlights Include Japanese Current Account, Bank Lending, Eco Watchers Survey and BoJ Governor Kuroda Speech",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asian-daily-economic-releases-calendar-now-available-in-the-research-section-highlights-include-japanese-current-account-bank-lending-eco-watchers-survey-and-boj-governor-kuroda-speech-08-07-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-07-09 06:12:00",
+        "gmt_time": "2018-07-08 22:12:00"
+    },
+    {
+        "id": 665221,
+        "updated_sequence": 1005320,
+        "published_at": {
+            "unix": 1531087380,
+            "text": "2018-07-08 23:03:00 +0100",
+            "iso_8601": "2018-07-08T22:03:00Z"
+        },
+        "updated_at": {
+            "unix": 1531087509,
+            "text": "2018-07-08 23:05:09 +0100",
+            "iso_8601": "2018-07-08T22:05:09Z"
+        },
+        "subject": "ECB's Coeure says ECB is not complacent to trade-war risks and that June decision considered trade and other risks, while he added that Euro zone economy remains strong and that rate guidance has been effective",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "ecb-s-coeure-says-ecb-is-not-complacent-to-trade-war-risks-and-that-june-decision-considered-trade-and-other-risks-while-he-added-that-euro-zone-economy-remains-strong-and-that-rate-guidance-has-been-effective-08-07-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-07-09 06:03:00",
+        "gmt_time": "2018-07-08 22:03:00"
+    },
+    {
+        "id": 665220,
+        "updated_sequence": 1005317,
+        "published_at": {
+            "unix": 1531086180,
+            "text": "2018-07-08 22:43:00 +0100",
+            "iso_8601": "2018-07-08T21:43:00Z"
+        },
+        "updated_at": {
+            "unix": 1531087057,
+            "text": "2018-07-08 22:57:37 +0100",
+            "iso_8601": "2018-07-08T21:57:37Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p>UK</p>\r\n\r\n<p>UK government said Brexit negotiating position commits UK to ongoing harmonisation with EU on goods that are needed for frictionless trade and that it wants to work with EU on introduction of a facilitated customs arrangement which would remove need for all border checks between UK and EU as if a combined customs territory. The government added it&nbsp;will seek a different position for services which means the UK will not have current levels of access to the EU and that its Brexit negotiating position would end free movement of labour and return control of immigration. (Newswires)</p>\r\n\r\n<p>UK Environment Minister Gove said the Brexit plan is a realistic compromise, while he also commented the UK will not walk away from the negotiations now but should be willing to if a &quot;proper&quot; withdrawal from the EU cannot be reached. (Newswires/BBC)</p>\r\n\r\n<p>UK PM May is said to have promised to fire UK Foreign Minister Johnson if he undermines the new Brexit negotiating position, according to reports on Friday. (The Times)</p>\r\n\r\n<p>Jacob Rees-Mogg is to vote against UK PM May&#39;s Brexit plan, according to reports in Telegraph. Separately, there were also reports that Brexiteer MPs threaten to topple PM May and replace her with Jacob Rees-Mogg in anger at the PM&rsquo;s Chequers deal. (Telegraph/Sun)</p>\r\n\r\n<p>EU countries were said to be lobbying EU Brexit negotiator Barnier not to reject the UK White Paper. (Newswires)</p>\r\n\r\n<p>US Ambassador to UK Woody Johnson said people in all government departments are looking how to put together a UK-US trade deal. (Newswires)</p>\r\n\r\n<p><br />COMMODITIES</p>\r\n\r\n<p>US Baker Hughes Rig Count (6 July): Total rigs +5 to 1052 (Prev. 1047). (Newswires)</p>\r\n\r\n<p>Oil prices could hit USD 100/bbl if Iranian supply is cut, according to reports. (SHANA)</p>\r\n\r\n<p>GEOPOLITICAL</p>\r\n\r\n<p>North Korean Foreign Ministry stated discussions with US Secretary of State Pompeo were &#39;regrettable&#39; and accused the US of unilateral demands for denuclearization. (Newswires)</p>\r\n\r\n<p>Syria stated that Israel launched a strike on a T-4 military base in Homs, Syria. (SANA)</p>\r\n\r\n<p><br />US</p>\r\n\r\n<p>Russia imposed 25% to 40% import duties on some US products targeting equipment for construction, oil &amp; gas and mining on Friday. (Newswires)</p>\r\n\r\n<p>US Non-Farm Payrolls (Jun) 213k vs. Exp. 195k (Prev. 223k, Rev. 244k); 2-month net revision +37k<br />US Unemployment Rate (Jun) 4.00% vs. Exp. 3.80% (Prev. 3.80%)<br />US Participation Rate (Jun): 62.9% (Prev. 62.7%)<br />US Average Earnings (Jun) Y/Y 2.70% vs. Exp. 2.80% (Prev. 2.70%)<br />US International Trade (USD)(May) -43.1B vs. Exp. -43.7B (Prev. -46.2B, Rev. -46.1B)</p>\r\n\r\n<p><br />MARKET RECAP</p>\r\n\r\n<p>ES futures were trading on the back foot pre-market, however, were buoyed by a goldilocks job report which saw the ES maintain a bid through North American morning trade. In the afternoon, amid thin trading conditions, ES was consolidating sideways around the 2760 level, and closes out the cash session near highs of the day. On the week, ES finishes positive snapping two weeks of declines. Biogen (BIIB) led the SPX and lifted the other biotech stocks after it announced final positive results for a mid-stage trial of an Alzheimer drug. Tech stocks rallied led by Apple (AAPL) and Microsoft (MSFT). Boeing (BA) was lower amid its large dependence on China, but reversed losses seen in early trade as equities rose. Elsewhere, JPMorgan (JPM) and the Industrial and Commercial Bank of China were said to be showing interest in acquiring a stake in Deutsche Bank (DBK GY), though JPMorgan have since denied the reports. SPX +0.9% at 2760, NASDAQ COMP at +1.4% at 7689, DJI +0.4% at 24454.</p>\r\n\r\n<p>Treasuries drifted mildly higher and the yield curve continued to flatten, though the complex gave up most of the gains seen after the solid NFP report and as equities continued to climb higher. Yields across the curve were higher by c.1bps. 10s30 narrowed by c.1bps whilst all the other spread widened by less than 1bps. US 10YR T-notes futures (u8) settles 3 ticks higher at 120-11.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-asia-pac-opening-news-08-07-2018",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-07-09 05:43:00",
+        "gmt_time": "2018-07-08 21:43:00"
+    },
+    {
+        "id": 665219,
+        "updated_sequence": 1005311,
+        "published_at": {
+            "unix": 1531084320,
+            "text": "2018-07-08 22:12:00 +0100",
+            "iso_8601": "2018-07-08T21:12:00Z"
+        },
+        "updated_at": {
+            "unix": 1531084450,
+            "text": "2018-07-08 22:14:10 +0100",
+            "iso_8601": "2018-07-08T21:14:10Z"
+        },
+        "subject": "Jacob Rees-Mogg is to vote against UK PM May's Brexit plan, according to reports in Telegraph",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Telegraph ",
+        "slug": "jacob-rees-mogg-is-to-vote-against-uk-pm-may-s-brexit-plan-according-to-reports-in-telegraph-08-07-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-07-09 05:12:00",
+        "gmt_time": "2018-07-08 21:12:00"
+    },
+    {
+        "id": 665079,
+        "updated_sequence": 1005305,
+        "published_at": {
+            "unix": 1531083600,
+            "text": "2018-07-08 22:00:00 +0100",
+            "iso_8601": "2018-07-08T21:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1531083600,
+            "text": "2018-07-08 22:00:00 +0100",
+            "iso_8601": "2018-07-08T21:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-05-07-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-07-09 05:00:00",
+        "gmt_time": "2018-07-08 21:00:00"
+    }
+]

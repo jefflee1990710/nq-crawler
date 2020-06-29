@@ -1,0 +1,210 @@
+[
+    {
+        "id": 863349,
+        "updated_sequence": 1827541,
+        "published_at": {
+            "unix": 1554681480,
+            "text": "2019-04-08 00:58:00 +0100",
+            "iso_8601": "2019-04-07T23:58:00Z"
+        },
+        "updated_at": {
+            "unix": 1554681893,
+            "text": "2019-04-08 01:04:53 +0100",
+            "iso_8601": "2019-04-08T00:04:53Z"
+        },
+        "subject": "South Korea's Hanjin Group Chairman has passed away",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<p>Of &nbsp;note, Hanjin Group's units include Hanjin Heavy Industries &amp; Construction (097230 KS), Hanjin Shipping (117930 KS) and Korean Air Lines (003490 KS).</p>",
+        "analysis_updated_at": {
+            "unix": 1554681892,
+            "text": "2019-04-08 01:04:52 +0100",
+            "iso_8601": "2019-04-08T00:04:52Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "south-korea-s-hanjin-group-chairman-has-passed-away-07-04-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-04-08 07:58:00",
+        "gmt_time": "2019-04-07 23:58:00"
+    },
+    {
+        "id": 863347,
+        "updated_sequence": 1827533,
+        "published_at": {
+            "unix": 1554679860,
+            "text": "2019-04-08 00:31:00 +0100",
+            "iso_8601": "2019-04-07T23:31:00Z"
+        },
+        "updated_at": {
+            "unix": 1554679987,
+            "text": "2019-04-08 00:33:07 +0100",
+            "iso_8601": "2019-04-07T23:33:07Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIA, JAPANESE AND SOUTH KOREAN STOCK NEWS: National Australia Bank (NAB AT) is in talks to sell New Zealand life insurance unit to Partners Life; LG Electronics (066570 KS) guides Q1 oper. profit to decline 19% Y/Y but top estimates",
+        "content": "<p>AUSTRALIA</p><p>Automotive Holdings (AHG AT) - Co. will move forward with plans to sell its refrigerated logistics business. (Newswires)</p><p>BHP (BHP AT) - Co. is planning toi cut more than 700 finance and IT jobs. (The Australian)</p><p>National Australia Bank (NAB AT) - Co. is in talks to sell New Zealand life insurance unit to Partners Life. (Newswires)</p><p>Resolute Mining (RSG AT) - Co. announces March quarter gold output rose 33% Q/Q to 98.1k ounces. (Newswires)</p><p>Basic materials/Energy - Australia March Port Hedland iron ore shipments to China 30.7mln tons vs. Prev. 33.5mln tons M/M. (Newswires) - WTI crude futures rose around 2% to above USD 63.00/bbl.</p><p>&nbsp;</p><p>JAPAN</p><p>Akebono Brake Industry (7238 JT) - Co. is considering shutting 3 factories in US and Europe. (Newswires)</p><p>Denso Corp (6902 JT) - Co. is to invest JPY 180bln over 3 years to produce more components for hybrid and electric vehicles. (Nikkei)</p><p>Panasonic (6752 JT) - Co. has begun test operations of an EV charging station in India. (Newswires)</p><p>&nbsp;</p><p>SOUTH KOREA</p><p>Hyundai Motor (006380 KS) and Kia Motors (000270 KS) - Co.s total US SUV sales during the Q1 surpassed 155k vehicles and represented a 7-year high in terms of market share. (Yonhap)</p><p>LG Electronics (066570 KS) - Co. guides Q1 oper. profit is likely to decline 19% Y/Y to KRW 900bln vs. Exp. KRW 808bln, rev. to decline 1.4% Y/Y to KRW 14.9tln vs. Exp. KRW 15.3tln. (Newswires)&nbsp;</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-australia-japanese-and-south-korean-stock-news-national-australia-bank-nab-at-is-in-talks-to-sell-new-zealand-life-insurance-unit-to-partners-life-lg-electronics-066570-ks-guides-q1-oper-profit-to-decline-19-y-y-but-top-e-07-04-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-04-08 07:31:00",
+        "gmt_time": "2019-04-07 23:31:00"
+    },
+    {
+        "id": 863346,
+        "updated_sequence": 1827526,
+        "published_at": {
+            "unix": 1554674460,
+            "text": "2019-04-07 23:01:00 +0100",
+            "iso_8601": "2019-04-07T22:01:00Z"
+        },
+        "updated_at": {
+            "unix": 1554674547,
+            "text": "2019-04-07 23:02:27 +0100",
+            "iso_8601": "2019-04-07T22:02:27Z"
+        },
+        "subject": "UK opposition Labour Party's Shadow Attorney General says PM May has not moved an inch on her red lines so far",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "uk-opposition-labour-party-s-shadow-attorney-general-says-pm-may-has-not-moved-an-inch-on-her-red-lines-so-far-07-04-2019",
+        "hidden": false,
+        "section": {
+            "id": 38,
+            "name": "Brexit"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-04-08 06:01:00",
+        "gmt_time": "2019-04-07 22:01:00"
+    },
+    {
+        "id": 863345,
+        "updated_sequence": 1827514,
+        "published_at": {
+            "unix": 1554674040,
+            "text": "2019-04-07 22:54:00 +0100",
+            "iso_8601": "2019-04-07T21:54:00Z"
+        },
+        "updated_at": {
+            "unix": 1554674140,
+            "text": "2019-04-07 22:55:40 +0100",
+            "iso_8601": "2019-04-07T21:55:40Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASES CALENDAR NOW AVAILABLE IN THE RESEARCH SECTION: Highlights include Japanese Current Account Balance and Bok Governor Kuroda Speech",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asian-daily-economic-releases-calendar-now-available-in-the-research-section-highlights-include-japanese-current-account-balance-and-bok-governor-kuroda-speech-07-04-2019",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-04-08 05:54:00",
+        "gmt_time": "2019-04-07 21:54:00"
+    },
+    {
+        "id": 863344,
+        "updated_sequence": 1827529,
+        "published_at": {
+            "unix": 1554673140,
+            "text": "2019-04-07 22:39:00 +0100",
+            "iso_8601": "2019-04-07T21:39:00Z"
+        },
+        "updated_at": {
+            "unix": 1554675263,
+            "text": "2019-04-07 23:14:23 +0100",
+            "iso_8601": "2019-04-07T22:14:23Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p><strong>ASIA-PAC</strong></p><p>US President Trump said he does not want to predict that a deal with China will be reached. Elsewhere, there were also comments from NEC Director Kudlow that US-China talks are moving in the right direction although issues remained and that top officials from both sides are to have teleconference talks in the approaching week, while he also stated that a deadline was never set for talks. (Newswires)</p><p>China and EU leaders' plans for a joint statement hit an impasse amid opposing views on the extent of how much access to China's market should be improved. (SCMP)</p><p>China is to cut social insurance contributions of businesses by CNY 300bln in an effort to reduce the tax burden and social insurance contribution of businesses. (Xinhua) Chinese FX Reserves (Monthly)* Mar 3.099Trl vs. Exp. 3.095Trl (Prev. 3.09Trl). (Newswires)</p><p><strong>UK/EU</strong></p><p>UK PM May's letter to EU's Tusk proposed an extension for Brexit until 30th June 2019 with potential to terminate early should a deal be ratified before then. Furthermore, it was reported that the letter stated the UK will begin to prepare to host European elections and that the UK needs to provide a clear plan by Tuesday (the day before the EU Council meeting). (Newswires)</p><p>UK government spokesperson said the government is prepared to seek changes to the political declaration in order to deliver a deal that is acceptable to both sides. (FT)</p><p>The EU thinks UK PM May's request for a short delay to Brexit is \"very risky\". (BuzzFeed)</p><p>UK opposition Labour party said \"we are disappointed that the government has not offered real change or compromise and urge the PM to come forward with genuine changes, according to BI's Payne, while ITV Political Editor Peston also noted the UK government and opposition Labour party talks to end Brexit deadlock are close to collapsing. (Business Insider/ITV)</p><p>Fitch affirmed Belgium at 'AA-'; Outlook Stable. (Newswires)&nbsp;</p><p>FX</p><ul><li>Canadian Employment Change Mar -7.2k vs. Exp. 1.0k (Prev. 55.9k). (Newswires)</li><li>Canadian Unemployment Rate Mar 5.8% vs. Exp. 5.8% (Prev. 5.8%)</li><li>Canadian Participation Rate Mar 65.7% vs. Exp. 65.7% (Prev. 65.8%)&nbsp;</li></ul><p>&nbsp;</p><p><strong>COMMODITIES</strong></p><p>Baker Hughes (April 5): oil rigs +15 at 851, gas rigs +4 at 194, total rigs +19 at 1025. (Newswires)</p><p>OPEC crude output fell 570k bpd to 30.23mln bpd in March, according to the latest S&amp;P Global Platts survey. (Newswires)</p><p>White House planning an executive order which aims to boost pipeline construction and lower energy prices. (CNBC)</p><p>US was reportedly mulling further sanctions on Venezuela financial sector and is also sanctioning 34 ships owned/operated by PDVSA. (Newswires)</p><p><strong>US</strong></p><p>US President Trump suggested the Fed should lower rates and should shift from quantitative tightening to quantitative easing. (Newswires)</p><p>US NEC Director Kudlow said that there is no need to raise rates without inflation and economy could do with a rate cut, while he added that there is room to lower Fed's target rate but it is on the Fed's time-scale. Furthermore, Kudlow also noted that the President will not invoke the closure of the US-Mexico border right now. (Newswires)</p><ul><li>US Non-Farm Payrolls Mar 196k vs. Exp. 180.0k (Prev. 20.0k, Rev. 33k); Two month net revisions +14K (Prev. +12k). (Newswires)&nbsp;</li><li>US Unemployment Rate Mar 3.8% vs. Exp. 3.8% (Prev. 3.8%)&nbsp;</li><li>US Average Earnings YY Mar 3.2% vs. Exp. 3.4% (Prev. 3.4%)&nbsp;</li></ul><p>&nbsp;</p><p><strong>MARKET RECAP</strong></p><p>Intel (INTC) was on the backfoot to after a downgrade at Wells Fargo, which cited weak chip demand, and AMD (AMD) gaining market share. Dow (DOW) was initiated with a Sell rating at JPMorgan which saw it underperform. Viacom (VIAB) caught a bid after RBC upgraded the broadcaster on hopes of a merger deal. Snap (SNAP) surged after announcing new products, and positive mentions at BofA and JMP Securities. A stronger than expected US labour report saw inflows into cyclical sectors with energy leading, EOG resources (EOG), Marathon (MPC), Schlumberger (SLB) and Occidental (OXY) were some of the top movers; it is worth noting that a JPM research piece had been circulating in the pre-market commenting on how US energy stocks are trading at low valuations in comparison to recent periods of oil prices trading at their current levels. SPX +0.5% at 2893, NDX +0.5% at 7579, DJI +0.2% at 26425.</p><p>Overnight, Treasuries had a downward bias after US President Trump talked about reaching a trade deal with China within four weeks, while his Chinese counterpart were also optimistic. Selling resumed after German industrial production beat expectations, after a run where manufacturing data had been grim (however, the sector remains in recession). There was two-way action during the payrolls report, with upside being seen on a weaker wages number, though sellers were latching on to the above-trend headline. The probability of a Fed rate cut this year rose to 75% after the data, though pared back to around 50% as the dust settled. The Treasury complex remained near highs after Trump reiterated his preference for loose monetary policy. At settlement, curve spreads were slightly narrower. US T-note futures (M9) settled 1+ ticks higher at 123-19.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-asia-pac-opening-news-07-04-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-04-08 05:39:00",
+        "gmt_time": "2019-04-07 21:39:00"
+    },
+    {
+        "id": 863139,
+        "updated_sequence": 1827503,
+        "published_at": {
+            "unix": 1554670800,
+            "text": "2019-04-07 22:00:00 +0100",
+            "iso_8601": "2019-04-07T21:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1554670800,
+            "text": "2019-04-07 22:00:00 +0100",
+            "iso_8601": "2019-04-07T21:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-04-04-2019",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-04-08 05:00:00",
+        "gmt_time": "2019-04-07 21:00:00"
+    }
+]

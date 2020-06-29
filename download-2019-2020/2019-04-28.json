@@ -1,0 +1,274 @@
+[
+    {
+        "id": 866326,
+        "updated_sequence": 1840886,
+        "published_at": {
+            "unix": 1556495340,
+            "text": "2019-04-29 00:49:00 +0100",
+            "iso_8601": "2019-04-28T23:49:00Z"
+        },
+        "updated_at": {
+            "unix": 1556509502,
+            "text": "2019-04-29 04:45:02 +0100",
+            "iso_8601": "2019-04-29T03:45:02Z"
+        },
+        "subject": "Goldman Sachs sees EUR/USD declining to 1.10 in next 3 months and DXY rising to 99.00, while it suggests global growth is unlikely to be strong enough to weigh on the greenback",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "goldman-sachs-sees-eur-usd-declining-to-1-10-in-next-3-months-and-dxy-rising-to-99-00-while-it-suggests-global-growth-is-unlikely-to-be-strong-enough-to-weigh-on-the-greenback-28-04-2019",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-04-29 07:49:00",
+        "gmt_time": "2019-04-28 23:49:00"
+    },
+    {
+        "id": 866325,
+        "updated_sequence": 1840805,
+        "published_at": {
+            "unix": 1556494620,
+            "text": "2019-04-29 00:37:00 +0100",
+            "iso_8601": "2019-04-28T23:37:00Z"
+        },
+        "updated_at": {
+            "unix": 1556494961,
+            "text": "2019-04-29 00:42:41 +0100",
+            "iso_8601": "2019-04-28T23:42:41Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIA AND SOUTH KOREAN STOCK NEWS: Japan is closed for Golden Week ",
+        "content": "<p>AUSTRALIA</p><p>Coles (COL AT) - Co. total Q3 sales AUD 8.88bln vs. Exp. AUD 8.00bln, supermarket comparable sales growth at 2.4%. (Newswires)</p><p>Orica (ORI AT) - Co. will recognize AUD 191mln non-cash impairment for Q1. (Newswires)</p><p>Pilbara Minerals - Co. is said to receive interest from Wesfarmers (WES AT) and a Chinese buyer for its Pilgangoora lithium project seen to be valued at AUD 3.0bln. (Newswires)</p><p>Telstra (TLS AT) - Co. is considering an investment with News Corp. valued at AUD 500mln in Foxtel. (AFR)</p><p>WorleyParsons (WOR AT) - Co. completes acquisition of Jacobs ECR division for AUD 3.2bln and sees synergies of AUD 130mln. (Newswires)&nbsp;&nbsp;&nbsp;&nbsp;</p><p>Other News - Australia’s ruling coalition is said to narrow the gap and is now said to trail Labor party by 49-51 in polls ahead of the elections next month. (Newswires)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p><p>&nbsp;</p><p>SOUTH KOREA</p><p>Amorepacific (090430 KS) - Co. Q1 net KRW 123.5bln vs. Exp. KRW 152.0bln. (Newswires)</p><p>Celltrion (068270 KS) - Co. receives FDA ANDA approval for LINEZOLID. (Newswires)</p><p>Hyundai Mobis (012330 KS) - Co. Q1 net KRW 485.8bln vs. Prev. KRW 465.9bln Y/Y. (Newswires)</p><p>Korea Gas (036460 KS) - Co. is to invest KRW 4.7tln on 25 hydrogen-producing facilities by 2030. (Newswires)</p><p>Samsung Biologics (207940 KS) - Co. unit Samsung Bioepis received FDA approval for its Eticovo BLA drugs. (Newswires)</p><p>Samsung Card (029780 KS) - Co. Q1 net KRW 120bln vs. Exp. KRW 100bln. (Newswires)</p><p>Other News - South Korean Finance Minister Hong said will prepare measures to boost exports for key sectors during next 2 months. (Newswires)</p><p>Data Recap - South Korean Department Store Sales (Mar) 2.3% (Prev. -8.1%). (Newswires)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-australia-and-south-korean-stock-news-japan-is-closed-for-golden-week-28-04-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-04-29 07:37:00",
+        "gmt_time": "2019-04-28 23:37:00"
+    },
+    {
+        "id": 866324,
+        "updated_sequence": 1840800,
+        "published_at": {
+            "unix": 1556492820,
+            "text": "2019-04-29 00:07:00 +0100",
+            "iso_8601": "2019-04-28T23:07:00Z"
+        },
+        "updated_at": {
+            "unix": 1556492985,
+            "text": "2019-04-29 00:09:45 +0100",
+            "iso_8601": "2019-04-28T23:09:45Z"
+        },
+        "subject": "South Korean Finance Minister Hong says will prepare measures to boost exports for key sectors during next 2 months",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "south-korean-finance-minister-hong-says-will-prepare-measures-to-boost-exports-for-key-sectors-during-next-2-months-28-04-2019",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-04-29 07:07:00",
+        "gmt_time": "2019-04-28 23:07:00"
+    },
+    {
+        "id": 866323,
+        "updated_sequence": 1840797,
+        "published_at": {
+            "unix": 1556490780,
+            "text": "2019-04-28 23:33:00 +0100",
+            "iso_8601": "2019-04-28T22:33:00Z"
+        },
+        "updated_at": {
+            "unix": 1556491079,
+            "text": "2019-04-28 23:37:59 +0100",
+            "iso_8601": "2019-04-28T22:37:59Z"
+        },
+        "subject": "Coles (COL AT) reports total Q3 sales AUD 8.88bln and supermarket comparable sales growth of 2.4%",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "coles-col-at-reports-total-q3-sales-aud-8-88bln-and-supermarket-comparable-sales-growth-of-2-4-28-04-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-04-29 06:33:00",
+        "gmt_time": "2019-04-28 22:33:00"
+    },
+    {
+        "id": 866322,
+        "updated_sequence": 1840792,
+        "published_at": {
+            "unix": 1556489460,
+            "text": "2019-04-28 23:11:00 +0100",
+            "iso_8601": "2019-04-28T22:11:00Z"
+        },
+        "updated_at": {
+            "unix": 1556489521,
+            "text": "2019-04-28 23:12:01 +0100",
+            "iso_8601": "2019-04-28T22:12:01Z"
+        },
+        "subject": "Spanish incumbent PM and Socialist leader Sanchez says will form a pro-European government",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "spanish-incumbent-pm-and-socialist-leader-sanchez-says-will-form-a-pro-european-government-28-04-2019",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-04-29 06:11:00",
+        "gmt_time": "2019-04-28 22:11:00"
+    },
+    {
+        "id": 866321,
+        "updated_sequence": 1840787,
+        "published_at": {
+            "unix": 1556488200,
+            "text": "2019-04-28 22:50:00 +0100",
+            "iso_8601": "2019-04-28T21:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1556488290,
+            "text": "2019-04-28 22:51:30 +0100",
+            "iso_8601": "2019-04-28T21:51:30Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASES CALENDAR NOW AVAILABLE IN THE RESEARCH SECTION: Highlights include very light calendar with no tier 1 data scheduled, while Japan and India are closed",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asian-daily-economic-releases-calendar-now-available-in-the-research-section-highlights-include-very-light-calendar-with-no-tier-1-data-scheduled-while-japan-and-india-are-closed-28-04-2019",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-04-29 05:50:00",
+        "gmt_time": "2019-04-28 21:50:00"
+    },
+    {
+        "id": 866320,
+        "updated_sequence": 1840789,
+        "published_at": {
+            "unix": 1556487720,
+            "text": "2019-04-28 22:42:00 +0100",
+            "iso_8601": "2019-04-28T21:42:00Z"
+        },
+        "updated_at": {
+            "unix": 1556489413,
+            "text": "2019-04-28 23:10:13 +0100",
+            "iso_8601": "2019-04-28T22:10:13Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p><strong>ASIA-PAC</strong></p><p>Chinese Industrial Profits YTD (Mar) Y/Y -3.3% (Prev. -14.0%). (Newswires)</p><p>NEC Director Kudlow stated that US President Trump would like to meet with Chinese President Xi in order to seal a trade deal, but we are not there yet. Kudlow also commented that he hopes additional progress will be made following visit exchange and that China needs a good deal more than the US but does want a good deal for both sides. (Newswires)</p><p>US President Trump said Japan is to invest USD 40bln in new auto factories in the US and that the US has a chance of reaching a very good trade agreement with Japan. (Newswires)&nbsp;</p><p>BoJ announced its bond purchases plans for next month in which it kept nearly all amounts unchanged aside from 10yr-25yr JGBs which it plans JPY 100-250bln of 10-25yr JGBs 4 times in May vs. Prev. JPY 150-250bln 4 times in April. (Newswires)</p><p>&nbsp;</p><p><strong>UK/EU</strong></p><p>UK PM May spokesperson said more talks will happen with Labour this week, while UK Chancellor Hammond said he had a \"productive\" meeting with his labour counterpart and is optimistic they can reach a common ground albeit necessitating compromise from both sides. However, there were also reports over the weekend that Labour again accused the government of refusing to compromise on its red lines in cross-party talks. (Newswires/Sky News)</p><p>UK opposition Labour is prepared to sign up to a Brexit deal with the government without the promise of a referendum attached if cross-party talks make significant progress in the coming days according to one of the party’s negotiators, while it was separately reported that Labour deputy leader Watson stepped up calls for his party to promise a referendum on any Brexit deal in its European elections manifesto. (Guardian/BBC)</p><p>Spain’s election over the weekend showed no party won a majority but with the incumbent Socialists under PM Sanchez emerging as the only party with a chance of forming a governing coalition as they are set to win 123 out of the 350 seats in parliament, while conservatives are set to win 65 seats, centre right at 57 seats and far fright at 24 seats with 95% votes counted. (Newswires)</p><p>Fitch affirmed UK at AA; Outlook Negative and affirmed Netherlands at AAA; Outlook Stable. (Newswires)</p><p>S&amp;P affirmed UK at AA; Outlook Negative and affirmed Italy at BBB; Outlook Negative. (Newswires)</p><p>&nbsp;</p><p><strong>COMMODITIES</strong></p><p>Baker Hughes US Rig Count (26 April 2019): Total rigs -21 at 991 (Prev. 1012), oil rigs -20 at 805 (Prev. 825), gas rigs -1 at 186 (Prev. 187). (Newswires)</p><p>US President Trump said he called OPEC and told them to bring oil prices down. In other news, a Trump official said there is no wind down period or short-term waiver being contemplated for China's purchasing of oil from Iran and that it should be easy for China to comply with sanctions as doing business with the US is more important for China than Iran. (Newswires)&nbsp;</p><p>&nbsp;</p><p><strong>US</strong></p><p>NEC Director Kudlow said the US economy is gaining momentum not losing it and that he continues to advocate for a rate cut from the Fed. Furthermore, Kudlow commented that the Fed is independent but he is allowed an opinion and that he does not buy in to the narrative that faster growth leads to faster inflation. (Newswires)</p><ul><li>US GDP Advance (Q1) 3.2% vs. Exp. 2.0% (Prev. 2.2%). (Newswires)&nbsp;</li><li>US Core PCE Prices Advance (Q1) 1.3% vs. Exp. 1.6% (Prev. 1.8%)</li></ul><p>&nbsp;</p><p><strong>MARKET RECAP</strong></p><p>Amazon (AMZN) traded choppy but finished higher after the ecommerce giant reported earnings that beat both top and bottom lines whilst announcing that it would work on reducing Prime free delivery time from 2 to 1-day shipping. Reports emerged that Intel (INTC) and Apple (AAPL) held talks last year for Apple to buy Intel’s smartphone modem business with Goldman Sachs hired to sell the unit which could reportedly fetch a few billion dollars. Walmart (WMT) shares fell following Amazon’s (AMZN) announcement. Ford Motor Co. (Ford) was the top performer in the S&amp;P500 after the automaker reported a significant beat on both top and bottom-line expectations whilst reporting strong F-Series pick-up truck sales in the US. Automakers more generally outperformed, with General Motors (GM) also trading higher on the day. Colgate Palmolive (CL) traded higher after the consumer product maker reported earnings that were largely in line with expectations and the CEO expressed pleasure with organic sales growth in both emerging and developed markets. The positive mood helped lift the wider consumer staples sector, with P&amp;G (PG) and Kimberly Clark (KMB), also finishing higher on the day. On a less positive note, Intel Corp’s (INTC) share price was hit despite beating analyst’s top and bottom-line expectations, after the chipmaker revised down Q2 and FY guidance. American Airlines (AAL) opened lower after the airline lowered full year guidance, saying it had cancelled 1200 planes due to the Boeing (BA) 737 Max grounding. Exxon Mobil (XOM) traded lower throughout the session after reported earnings that missed profit and revenue expectations. Chevron (CVX), who reported mixed earnings and released no extra colour regarding the Anadarko bid, also moved lower. More broadly, Energy stocks, including the above and Conoco Phillips (COP), were dragged lower as crude prices fell by north of 3% on the day. Archer Daniels Midland (ADM) shares fell after the food processor reported earnings that missed on both top and bottom-line expectations. SPX +0.5% at 2940, NDX +0.1% at 7826, DJI +0.3% at 26542.</p><p>Despite a solid GDP headline, the Treasury complex caught a bid in wake of the Q1 report, with analysts suggesting some of the internals of the report were not as encouraging as the headline. Yields were lower across the curve, and by settlement, the curve had bull steepened. The focus now turns to next week's FOMC, (virtually no chance of a hike - will the Fed acknowledge upward data surprises, and recharacterize its view of the economy? as well as the April Employment Situation Report. US T-note futures (M9) settle 9 ticks higher at123-21+.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-asia-pac-opening-news-28-04-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-04-29 05:42:00",
+        "gmt_time": "2019-04-28 21:42:00"
+    },
+    {
+        "id": 866107,
+        "updated_sequence": 1840776,
+        "published_at": {
+            "unix": 1556485200,
+            "text": "2019-04-28 22:00:00 +0100",
+            "iso_8601": "2019-04-28T21:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1556485200,
+            "text": "2019-04-28 22:00:00 +0100",
+            "iso_8601": "2019-04-28T21:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-25-04-2019",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-04-29 05:00:00",
+        "gmt_time": "2019-04-28 21:00:00"
+    }
+]

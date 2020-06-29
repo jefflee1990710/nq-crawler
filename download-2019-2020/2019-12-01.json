@@ -1,0 +1,444 @@
+[
+    {
+        "id": 898429,
+        "updated_sequence": 2013394,
+        "published_at": {
+            "unix": 1575244200,
+            "text": "2019-12-01 23:50:00 +0000",
+            "iso_8601": "2019-12-01T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1575244287,
+            "text": "2019-12-01 23:51:27 +0000",
+            "iso_8601": "2019-12-01T23:51:27Z"
+        },
+        "subject": "Japanese Company Profits (Q3) Y/Y -5.3% (Prev. -12.0%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-company-profits-q3-y-y-5-3-prev-12-0-01-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-02 07:50:00",
+        "gmt_time": "2019-12-01 23:50:00"
+    },
+    {
+        "id": 898428,
+        "updated_sequence": 2013391,
+        "published_at": {
+            "unix": 1575244200,
+            "text": "2019-12-01 23:50:00 +0000",
+            "iso_8601": "2019-12-01T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1575244275,
+            "text": "2019-12-01 23:51:15 +0000",
+            "iso_8601": "2019-12-01T23:51:15Z"
+        },
+        "subject": "Japanese Capital Spending Ex. Software (Q3) Y/Y 7.7% (Prev. -1.7%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-capital-spending-ex-software-q3-y-y-7-7-prev-1-7-01-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-02 07:50:00",
+        "gmt_time": "2019-12-01 23:50:00"
+    },
+    {
+        "id": 898431,
+        "updated_sequence": 2013400,
+        "published_at": {
+            "unix": 1575244200,
+            "text": "2019-12-01 23:50:00 +0000",
+            "iso_8601": "2019-12-01T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1575244645,
+            "text": "2019-12-01 23:57:25 +0000",
+            "iso_8601": "2019-12-01T23:57:25Z"
+        },
+        "subject": "Japanese Loans & Discounts Corp (Oct) Y/Y 2.2% (Prev. 1.9%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-loans-discounts-corp-oct-y-y-2-2-prev-1-9-01-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-02 07:50:00",
+        "gmt_time": "2019-12-01 23:50:00"
+    },
+    {
+        "id": 898430,
+        "updated_sequence": 2013397,
+        "published_at": {
+            "unix": 1575244200,
+            "text": "2019-12-01 23:50:00 +0000",
+            "iso_8601": "2019-12-01T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1575244294,
+            "text": "2019-12-01 23:51:34 +0000",
+            "iso_8601": "2019-12-01T23:51:34Z"
+        },
+        "subject": "Japanese Company Sales (Q3) Y/Y -2.6% (Prev. 0.4%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-company-sales-q3-y-y-2-6-prev-0-4-01-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-02 07:50:00",
+        "gmt_time": "2019-12-01 23:50:00"
+    },
+    {
+        "id": 898426,
+        "updated_sequence": 2013385,
+        "published_at": {
+            "unix": 1575243600,
+            "text": "2019-12-01 23:40:00 +0000",
+            "iso_8601": "2019-12-01T23:40:00Z"
+        },
+        "updated_at": {
+            "unix": 1575243923,
+            "text": "2019-12-01 23:45:23 +0000",
+            "iso_8601": "2019-12-01T23:45:23Z"
+        },
+        "subject": "PRE-MARKET JAPANESE AND SOUTH KOREAN STOCK NEWS: South Korea exports declined for a 12th consecutive month",
+        "content": "<p>JAPAN</p><p>Kyushu Electric Power (9508 JT) - Co. is to acquire 12.5% stake in Westmoreland Power. (Newswires)</p><p>Mitsui &amp; Co. (8031 JT) - Co. Asia-Pac CEO says targeting investments in Southeast Asia and South Asia as part of expansion plans. (Newswires)</p><p>Nissan (7201 JT) - Co. alliance with Renault is to launch a new Co. for next-generation tech. (Newswires)</p><p>SoftBank (9984 JT) - Co. pulled out of discussions to take over KPMG’s Number Twenty Club in London. (Newswires)</p><p>Other News - BoJ Governor Kuroda said they are not considering additional easing at this time nor is it at the stage to consider an exit, while he reiterated stance that it would be necessary and possible to ease further if risks increases that momentum towards inflation target is lost. (Newswires)</p><p>BoJ Purchases - BoJ announced its purchase intentions for December which include JPY 300bln-550bln in 1-3yr JGBs 4 times a month, JPY 200bln-450bln in 3-5yr JGBs 4 times a month, JPY 200bln-500bln in 5-10yr JGBs 4 times a month and JPY 50bln-150bln in 10yr-25yr JGBs 3 times a month. (Newswires)</p><p>&nbsp;</p><p>SOUTH KOREA</p><p>SK Innovation (096770 KS) - Co. plans to invest around USD 1.1bln on a battery plant in Yancheng, China. In other news, Co.’s SK Energy unit said its desulfurization facility in South Korea will be completed by January. (Newswires)</p><p>Data Recap - South Korean Trade Balance (USD)(Nov P) 3.37B (Prev. 5.34B). (Newswires) - South Korean Exports (Nov P) Y/Y -14.3% vs. Exp. -10.2% (Prev. -14.8%) - South Korean Imports (Nov P) Y/Y -13.0% vs. Exp. -11.9% (Prev. -14.6%)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-japanese-and-south-korean-stock-news-south-korea-exports-declined-for-a-12th-consecutive-month-01-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-02 07:40:00",
+        "gmt_time": "2019-12-01 23:40:00"
+    },
+    {
+        "id": 898425,
+        "updated_sequence": 2013380,
+        "published_at": {
+            "unix": 1575242280,
+            "text": "2019-12-01 23:18:00 +0000",
+            "iso_8601": "2019-12-01T23:18:00Z"
+        },
+        "updated_at": {
+            "unix": 1575243000,
+            "text": "2019-12-01 23:30:00 +0000",
+            "iso_8601": "2019-12-01T23:30:00Z"
+        },
+        "subject": "US-China deal was reportedly now stalled because of Hong Kong legislation according to Axios citing a source close to President Trump's negotiating team, although article notes phase one deal would probably happen year-end at the earliest",
+        "content": "<p>Says</p><p>A source close to Trump's negotiating team told me the China deal was now \"stalled because of Hong Kong legislation\" and that time is needed \"to allow Xi's domestic politics to calm.\" The \"Phase One\" deal with China would probably happen \"year-end at the earliest,\" and Trump is expected to hold off on his planned December tariffs to keep the deal alive.</p><p>Link to article: &nbsp;<a href=\"https://www.axios.com/trump-usmca-china-trade-deals-06d9cb6c-923b-4d63-9532-50d38af69f37.html?utm_source=twitter&amp;utm_medium=twsocialshare&amp;utm_campaign=organic\">https://www.axios.com/trump-usmca-china-trade-deals-06d9cb6c-923b-4d63-9532-50d38af69f37.html?utm_source=twitter&amp;utm_medium=twsocialshare&amp;utm_campaign=organic</a></p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires/Axios",
+        "slug": "us-china-deal-was-reportedly-now-stalled-because-of-hong-kong-legislation-according-to-axios-citing-a-source-close-to-president-trump-s-negotiating-team-although-article-notes-phase-one-deal-would-probably-happen-year-end-at-the-earliest-01-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-02 07:18:00",
+        "gmt_time": "2019-12-01 23:18:00"
+    },
+    {
+        "id": 898424,
+        "updated_sequence": 2013417,
+        "published_at": {
+            "unix": 1575242100,
+            "text": "2019-12-01 23:15:00 +0000",
+            "iso_8601": "2019-12-01T23:15:00Z"
+        },
+        "updated_at": {
+            "unix": 1575245950,
+            "text": "2019-12-02 00:19:10 +0000",
+            "iso_8601": "2019-12-02T00:19:10Z"
+        },
+        "subject": "North Korea has added additional concrete pads to shoot missiles from mobile launchers with the aim said to be to prevent the launch location from being detected in advance, according to report citing Asahi",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Twitter",
+        "slug": "north-korea-has-added-additional-concrete-pads-to-shoot-missiles-from-mobile-launchers-with-the-aim-said-to-be-to-prevent-the-launch-location-from-being-detected-in-advance-according-to-report-citing-asahi-01-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 23,
+            "name": "Geopolitical"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-02 07:15:00",
+        "gmt_time": "2019-12-01 23:15:00"
+    },
+    {
+        "id": 898423,
+        "updated_sequence": 2013370,
+        "published_at": {
+            "unix": 1575241800,
+            "text": "2019-12-01 23:10:00 +0000",
+            "iso_8601": "2019-12-01T23:10:00Z"
+        },
+        "updated_at": {
+            "unix": 1575241998,
+            "text": "2019-12-01 23:13:18 +0000",
+            "iso_8601": "2019-12-01T23:13:18Z"
+        },
+        "subject": "US House judiciary committee deadline passes without comment from President Trump or his team whether he or his legal counsel will participate in an impeachment hearing on Wednesday",
+        "content": "<p>In related news, Axios tweeted that White House lawyers are skeptical about cooperating in the impeachment hearings, instead focusing on how to prepare for the eventual Senate battle.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-house-judiciary-committee-deadline-passes-without-comment-from-president-trump-or-his-team-whether-he-or-his-legal-counsel-will-participate-in-an-impeachment-hearing-on-wednesday-01-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-02 07:10:00",
+        "gmt_time": "2019-12-01 23:10:00"
+    },
+    {
+        "id": 898422,
+        "updated_sequence": 2013367,
+        "published_at": {
+            "unix": 1575241200,
+            "text": "2019-12-01 23:00:00 +0000",
+            "iso_8601": "2019-12-01T23:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1575241386,
+            "text": "2019-12-01 23:03:06 +0000",
+            "iso_8601": "2019-12-01T23:03:06Z"
+        },
+        "subject": "Australia CoreLogic House Px (Nov) M/M 2.0% (Prev. 1.4%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "australia-corelogic-house-px-nov-m-m-2-0-prev-1-4-01-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-02 07:00:00",
+        "gmt_time": "2019-12-01 23:00:00"
+    },
+    {
+        "id": 898419,
+        "updated_sequence": 2013358,
+        "published_at": {
+            "unix": 1575240240,
+            "text": "2019-12-01 22:44:00 +0000",
+            "iso_8601": "2019-12-01T22:44:00Z"
+        },
+        "updated_at": {
+            "unix": 1575240314,
+            "text": "2019-12-01 22:45:14 +0000",
+            "iso_8601": "2019-12-01T22:45:14Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIAN STOCK NEWS: WTI crude futures declined 4.6% on Friday ",
+        "content": "<p>GrainCorp (GNC AT) - Co. is said to have continued interest in its malt business. (Newswires)</p><p>Incitec Pivot (IPL AT) - Co. fertilizer unit first round bids are due mid-January. (Newswires)</p><p>Karoon Gas (KAR AT) - Co. is said to be planning to give up its EPP4 exploration permit in Great Australian Bight at the request of shareholders. (Newswires)</p><p>NAB (NAB AT) - Co. new CEO McEwan begin first week on the job. (Newswires)</p><p>Woolworth (WOW AT) - Co. has been notified about class action related to salaried payments which it said was without merit. (Newswires)</p><p>Energy WTI crude futures declined 4.6% on Friday with pressure shortly after the energy cash market open amid holiday-thinned trade and month-end factor with the selling exacerbated after Russian Energy Minister Novak stated he favours taking a decision on the extension of OPEC+ deal closer to 1st April 2020. (Newswires)</p><p>ExxonMobil (XOM) cancelled plans to build the gas import terminal on Victorian coast amid a lack of interest from potential partners. (Newswires)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-australian-stock-news-wti-crude-futures-declined-4-6-on-friday-01-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-02 06:44:00",
+        "gmt_time": "2019-12-01 22:44:00"
+    },
+    {
+        "id": 898418,
+        "updated_sequence": 2013352,
+        "published_at": {
+            "unix": 1575238680,
+            "text": "2019-12-01 22:18:00 +0000",
+            "iso_8601": "2019-12-01T22:18:00Z"
+        },
+        "updated_at": {
+            "unix": 1575238823,
+            "text": "2019-12-01 22:20:23 +0000",
+            "iso_8601": "2019-12-01T22:20:23Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASES CALENDAR NOW AVAILABLE IN THE RESEARCH SECTION: Highlights include Australian Building Approvals, Japanese Manufacturing PMI, Chinese Caixin Manufacturing PMI",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asian-daily-economic-releases-calendar-now-available-in-the-research-section-highlights-include-australian-building-approvals-japanese-manufacturing-pmi-chinese-caixin-manufacturing-pmi-01-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-02 06:18:00",
+        "gmt_time": "2019-12-01 22:18:00"
+    },
+    {
+        "id": 898417,
+        "updated_sequence": 2013354,
+        "published_at": {
+            "unix": 1575237600,
+            "text": "2019-12-01 22:00:00 +0000",
+            "iso_8601": "2019-12-01T22:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1575238910,
+            "text": "2019-12-01 22:21:50 +0000",
+            "iso_8601": "2019-12-01T22:21:50Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p><strong>ASIA-PAC</strong></p><p>US is reportedly mulling new regulations to further restrict Huawei suppliers according to sources. In related news, the Chinese Ambassador visited Huawei CFO in Vancouver on Thursday and stated that Beijing will continue to urge Canada \"to correct its mistake”. (Newswires)</p><p>China Global Times noted that the trade deal must include a tariff rollback with Beijing insisting that a pledge to scrap new tariffs in December cannot replace rolling back existing tariffs in a phase one agreement. (SCMP)</p><p>China reportedly deployed an airship on an outpost in the South China Sea, according to reports citing satellite imagery. (SCMP)</p><p>Police clashed with protesters over the weekend as protests continued following the recent lull in violence. (Newswires)</p><ul><li>Chinese Manufacturing PMI (Nov) 50.2 vs. Exp. 49.5 (Prev. 49.3). (Newswires)</li><li>Chinese Non-Manufacturing PMI (Nov) 54.4 vs. Exp. 52.0 (Prev. 52.8)</li><li>Chinese Composite PMI (Nov) 53.7 (Prev. 52.0)</li><li>Australian AiG Performance of Manufacturing Index (Nov) 48.1 (Prev. 51.6)</li><li>Australian CBA Manufacturing PMI (Nov F) 49.9 (Prev. 49.9)</li><li>New Zealand New Zealand Terms of Trade (Q3) Q/Q 1.9% vs. Exp. 0.7% (Prev. 1.6%)</li><li>South Korean Trade Balance (USD)(Nov P) 3.37B (Prev. 5.34B)</li><li>South Korean Exports (Nov P) Y/Y -14.3% vs. Exp. -10.2% (Prev. -14.8%)</li><li>South Korean Imports (Nov P) Y/Y -13.0% vs. Exp. -11.9% (Prev. -14.6%)</li><li>Indian GDP (Q2) Y/Y 4.5% vs. Exp. 4.7% (Prev. 5.0%)</li></ul><p>&nbsp;</p><p><strong>UK/EU</strong></p><p>A knife attacker killed 2 and injured several others before being shot and killed by armed police officers on Friday in the London Bridge area, which IS have claimed the responsibility for. (Newswires)</p><p>UK Election Panelbase poll: Conservatives 42% (unch.), Labour 34% (+2), Lib Dems 13% (-1) and Brexit Party 4% (+1), conducted November 27th-28th. (Newswires)</p><p>UK Election YouGov/Sunday Times poll: Conservatives 43% (Unch.), Labour 34% (+2), Lib Dems (13% (Unch) and Brexit Party 2% (-2), conducted November 28th-29th. (Sunday Times/Twitter)</p><p>UK Conservative Party announced new state aid rules to come into effect after Brexit to make it faster and easier for the government to intervene to protect jobs when an industry is in trouble. (Newswires)</p><p>ECB Board Nominee Schnabel said September stimulus can be justified by current inflation data as well as the outlook inflation over the medium term, while Schnabel added accommodative monetary policy stimulus continues. (Newswires)</p><p>ECB Board Nominee Panetta said the ECB must constantly be alert to potential unintended consequence of monetary policy on the financial system and that incoming information indicates growth slowdown proving to be more protracted than expected. Panetta added that Monetary policy support is required to ensure that financial conditions remain favourable and that September measures by the ECB were appropriate as well as proportionate. (Newswires)</p><ul><li>EU HICP Flash (Nov) Y/Y 1.0% vs. Exp. 0.9% (Prev. 0.7%). (Newswires)</li><li>EU Unemployment Rate (Oct) 7.5% vs. Exp. 7.5% (Prev. 7.5%, Rev. 7.6%)</li></ul><p>&nbsp;</p><p><strong>FX</strong></p><p>Canadian GDP Annualized (Q3) 1.3% vs. Exp. 1.2% (Prev. 3.7%, Rev. 3.5%). (Newswires)&nbsp;</p><p>&nbsp;</p><p><strong>COMMODITIES</strong></p><p>OPEC November output fell 110k BPD MM to 29.57mln BPD due to lower supply from Angola, Saudi, Iraq and Nigeria according to a major newswire survey. (Newswires)</p><p>Russian Energy Minister Novak said he favours taking a decision on the extension of OPEC+ deal closer to 1st April 2020, while he also stated that new gas talks with Ukraine are possible next week. (Newswires/RIA) EIA stated that US crude oil production during September rose to 12.463mln BPD vs. 12.397mln BPD in August, while US total oil demand in September was up 0.7% or 138k BPD Y/Y to at 20.221mln BPD and US crude exports rose to 3.092mln BPD in September from 2.727mln BPD in August. (Newswires)</p><p>&nbsp;</p><p><strong>US</strong></p><p>Canada PM Trudeau said there is a little more work to do on the USMCA deal and that Canada is extremely supportive of Mexico's steps towards labour reforms. (Newswires)&nbsp;</p><p>&nbsp;</p><p><strong>MARKET RECAP</strong></p><p>Adobe Analytics reported Black Friday sales as being on track to reach a record USD 7.4bln, of note for retailers (WMT, AMZN). Tech Data (TECD) surged after it agreed to be acquired Apollo (APO) for USD 145/share, beating Warren Buffet’s (BRK.B) USD 140 offer. Energy stocks took a hit from the lower crude prices, although, Chevron (CVX) announced it would be selling its stakes in two Nigerian offshore assets. United Steel (X) tumbled on the open following reports its largest plant had been forced to shut due to flooding from a pipe leak. PG&amp;E (PCG) took a hit after a bankruptcy judge ruled in favour of victims from fires. Freeport-McMoRan (FCX) was hindered from weaker metals prices. S&amp;P 500 -0.4% at 3141, NASDAQ-100 -0.5% at 8404, Dow Jones -0.4% at 28051.</p><p>T-Notes traded flat to close the final trading session of the week. The complex took its cues in a thin liquidity environment given the early Thanksgiving closure, which also saw a lack of pertinent updates. Treasury futures sold off in the tail-end of the European session, however as the early close approached, some of the losses were pared. By settlement yields were little changed on the day.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-asia-pac-opening-news-01-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-02 06:00:00",
+        "gmt_time": "2019-12-01 22:00:00"
+    },
+    {
+        "id": 898178,
+        "updated_sequence": 2013341,
+        "published_at": {
+            "unix": 1575237600,
+            "text": "2019-12-01 22:00:00 +0000",
+            "iso_8601": "2019-12-01T22:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1575237600,
+            "text": "2019-12-01 22:00:00 +0000",
+            "iso_8601": "2019-12-01T22:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-28-11-2019",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-02 06:00:00",
+        "gmt_time": "2019-12-01 22:00:00"
+    }
+]

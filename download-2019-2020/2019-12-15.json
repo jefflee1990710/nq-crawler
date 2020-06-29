@@ -1,0 +1,648 @@
+[
+    {
+        "id": 900954,
+        "updated_sequence": 2039858,
+        "published_at": {
+            "unix": 1576454220,
+            "text": "2019-12-15 23:57:00 +0000",
+            "iso_8601": "2019-12-15T23:57:00Z"
+        },
+        "updated_at": {
+            "unix": 1576454347,
+            "text": "2019-12-15 23:59:07 +0000",
+            "iso_8601": "2019-12-15T23:59:07Z"
+        },
+        "subject": "US expelled 2 Chinese Embassy officials suspected of espionage following an incident in September in which the officials and their wives improperly drove onto a military facility in Virginia, according to WSJ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "WSJ",
+        "slug": "us-expelled-2-chinese-embassy-officials-suspected-of-espionage-following-an-incident-in-september-in-which-the-officials-and-their-wives-improperly-drove-onto-a-military-facility-in-virginia-according-to-wsj-15-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-16 07:57:00",
+        "gmt_time": "2019-12-15 23:57:00"
+    },
+    {
+        "id": 900952,
+        "updated_sequence": 2039852,
+        "published_at": {
+            "unix": 1576453860,
+            "text": "2019-12-15 23:51:00 +0000",
+            "iso_8601": "2019-12-15T23:51:00Z"
+        },
+        "updated_at": {
+            "unix": 1576453960,
+            "text": "2019-12-15 23:52:40 +0000",
+            "iso_8601": "2019-12-15T23:52:40Z"
+        },
+        "subject": "BoJ Tankan survey shows Japanese firms expect consumer prices to rise 0.8% 1 year from now vs. 0.9% in Prev. survey, while firms see inflation to rise 1.0% in 3 years from now and 1.1% in 5 years from now which are unchanged from prior surveys",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "boj-tankan-survey-shows-japanese-firms-expect-consumer-prices-to-rise-0-8-1-year-from-now-vs-0-9-in-prev-survey-while-firms-see-inflation-to-rise-1-0-in-3-years-from-now-and-1-1-in-5-years-from-now-which-are-unchanged-from-prior-surve-15-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 14,
+            "name": "BoJ"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-16 07:51:00",
+        "gmt_time": "2019-12-15 23:51:00"
+    },
+    {
+        "id": 900952,
+        "updated_sequence": 2039852,
+        "published_at": {
+            "unix": 1576453860,
+            "text": "2019-12-15 23:51:00 +0000",
+            "iso_8601": "2019-12-15T23:51:00Z"
+        },
+        "updated_at": {
+            "unix": 1576453960,
+            "text": "2019-12-15 23:52:40 +0000",
+            "iso_8601": "2019-12-15T23:52:40Z"
+        },
+        "subject": "BoJ Tankan survey shows Japanese firms expect consumer prices to rise 0.8% 1 year from now vs. 0.9% in Prev. survey, while firms see inflation to rise 1.0% in 3 years from now and 1.1% in 5 years from now which are unchanged from prior surveys",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "boj-tankan-survey-shows-japanese-firms-expect-consumer-prices-to-rise-0-8-1-year-from-now-vs-0-9-in-prev-survey-while-firms-see-inflation-to-rise-1-0-in-3-years-from-now-and-1-1-in-5-years-from-now-which-are-unchanged-from-prior-surve-15-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 14,
+            "name": "BoJ"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-16 07:51:00",
+        "gmt_time": "2019-12-15 23:51:00"
+    },
+    {
+        "id": 900948,
+        "updated_sequence": 2039840,
+        "published_at": {
+            "unix": 1576453320,
+            "text": "2019-12-15 23:42:00 +0000",
+            "iso_8601": "2019-12-15T23:42:00Z"
+        },
+        "updated_at": {
+            "unix": 1576453397,
+            "text": "2019-12-15 23:43:17 +0000",
+            "iso_8601": "2019-12-15T23:43:17Z"
+        },
+        "subject": "UK opposition Labour Party leader Corbyn will stay on as party leader until the end of March, according to PoliticsHome",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "uk-opposition-labour-party-leader-corbyn-will-stay-on-as-party-leader-until-the-end-of-march-according-to-politicshome-15-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-16 07:42:00",
+        "gmt_time": "2019-12-15 23:42:00"
+    },
+    {
+        "id": 900947,
+        "updated_sequence": 2039837,
+        "published_at": {
+            "unix": 1576452900,
+            "text": "2019-12-15 23:35:00 +0000",
+            "iso_8601": "2019-12-15T23:35:00Z"
+        },
+        "updated_at": {
+            "unix": 1576453174,
+            "text": "2019-12-15 23:39:34 +0000",
+            "iso_8601": "2019-12-15T23:39:34Z"
+        },
+        "subject": "PRE-MARKET JAPANESE AND SOUTH KOREAN STOCK NEWS: South Korea government approved LG Uplus (032640 KS) merger with CJ Hellovision (037560 KS",
+        "content": "<p>JAPAN</p><p>Kumiai Chemical Industry (4996 JT) - Co. reports FY18/19 net JPY 6.8bln vs. Prev. JPY 4.7bln Y/Y, rev. JPY 103.4bln vs. Prev. JPY 96.9bln Y/Y. (Newswires)</p><p>Tech - Japan government proposed law that would require major information technology firms to report contract terms with online vendors and app developers which is aimed at cracking down on unfair practices by large tech firms including Amazon (AMZN). (Nikkei)</p><p>Pharmaceuticals - Japan is to reduce official drug prices by 1.55% in FY20/21. (Newswires)</p><p>Trade - Japan is to seek an instant and complete removal of auto tariffs as it negotiates a trade treaty with the UK which they hope will take effect at the start of 2021. (Nikkei)</p><p>Other News - Japan’s government is said to forecast FY20/21 real GDP at 1.4% vs. Prev. forecast 1.2%, while there were separate reports the Finance Ministry released details of its extra budget and formalized JPY 4.5tln of extra spending. (Newswires)</p><p>&nbsp;</p><p>SOUTH KOREA</p><p>LG Uplus (032640 KS) - South Korea government approved Co. merger with CJ Hellovision (037560 KS), while LG Uplus plans to invest KRW 2.6tln over the next 5 years to offer upgraded services following the merger approval. (Yonhap)</p><p>Lotte Chemical (011170 KS) - Co. is seeking to expand its US ethane cracker factory. (Newswires)</p><p>Samsung Electronics (005930 KS) - Co. won a deal to supply 4G and 5G network equipment to Canada’s Videotron. (Yonhap)</p><p>Other News - North Korea is said to have conducted another test at its long-range rocket site which it said would strengthen its nuclear deterrent, while it added that hostile forces including US should refrain from provocation if they want to end the year peacefully. (Newswires)</p><p>&nbsp;</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-japanese-and-south-korean-stock-news-south-korea-government-approved-lg-uplus-032640-ks-merger-with-cj-hellovision-037560-ks-15-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-16 07:35:00",
+        "gmt_time": "2019-12-15 23:35:00"
+    },
+    {
+        "id": 900946,
+        "updated_sequence": 2039832,
+        "published_at": {
+            "unix": 1576452300,
+            "text": "2019-12-15 23:25:00 +0000",
+            "iso_8601": "2019-12-15T23:25:00Z"
+        },
+        "updated_at": {
+            "unix": 1576452422,
+            "text": "2019-12-15 23:27:02 +0000",
+            "iso_8601": "2019-12-15T23:27:02Z"
+        },
+        "subject": "Senior UK Cabinet Minister Gove reiterated pledge for the UK to have a trade deal with EU by end of next year, despite reservations in Brussels whether this is feasible",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Guardian",
+        "slug": "senior-uk-cabinet-minister-gove-reiterated-pledge-for-the-uk-to-have-a-trade-deal-with-eu-by-end-of-next-year-despite-reservations-in-brussels-whether-this-is-feasible-15-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 38,
+            "name": "Brexit"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-16 07:25:00",
+        "gmt_time": "2019-12-15 23:25:00"
+    },
+    {
+        "id": 900945,
+        "updated_sequence": 2039829,
+        "published_at": {
+            "unix": 1576451160,
+            "text": "2019-12-15 23:06:00 +0000",
+            "iso_8601": "2019-12-15T23:06:00Z"
+        },
+        "updated_at": {
+            "unix": 1576451233,
+            "text": "2019-12-15 23:07:13 +0000",
+            "iso_8601": "2019-12-15T23:07:13Z"
+        },
+        "subject": "NZIER lowers New Zealand 2019/20 GDP growth forecast to 2.2% from 2.3%",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "nzier-lowers-new-zealand-2019-20-gdp-growth-forecast-to-2-2-from-2-3-15-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-16 07:06:00",
+        "gmt_time": "2019-12-15 23:06:00"
+    },
+    {
+        "id": 900944,
+        "updated_sequence": 2039826,
+        "published_at": {
+            "unix": 1576450860,
+            "text": "2019-12-15 23:01:00 +0000",
+            "iso_8601": "2019-12-15T23:01:00Z"
+        },
+        "updated_at": {
+            "unix": 1576450972,
+            "text": "2019-12-15 23:02:52 +0000",
+            "iso_8601": "2019-12-15T23:02:52Z"
+        },
+        "subject": "Australian Pharmaceuticals (API AT) exits its stake in Sigma Pharmaceuticals (SIG AT) in which it sells 137.3mln shares in the latter",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "australian-pharmaceuticals-api-at-exits-its-stake-in-sigma-pharmaceuticals-sig-at-in-which-it-sells-137-3mln-shares-in-the-latter-15-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-16 07:01:00",
+        "gmt_time": "2019-12-15 23:01:00"
+    },
+    {
+        "id": 900943,
+        "updated_sequence": 2039823,
+        "published_at": {
+            "unix": 1576450440,
+            "text": "2019-12-15 22:54:00 +0000",
+            "iso_8601": "2019-12-15T22:54:00Z"
+        },
+        "updated_at": {
+            "unix": 1576450598,
+            "text": "2019-12-15 22:56:38 +0000",
+            "iso_8601": "2019-12-15T22:56:38Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIAN STOCK NEWS: Northern Star Resources (NST AT) halted pending significant transaction",
+        "content": "<p>Northern Star Resources (NST AT) - Co. halted pending significant transaction. (Newswires)</p><p>Perenti Global (ASL AT) - Co. guides FY20 underlying net AUD 115mln-120mln. (Newswires)</p><p>Panoramic Resources (PAN AT) - Co. has commissioned independent experts report regarding fairness and reasonableness of takeover bid by Independence Group (IGO AT). (Newswires)</p><p>Resolute Mining (RSG AT) - Co. appoints a new CFO. (Newswires)</p><p>Woolworths (WOW AT) - Co. is generally pleased with trading to date. (Newswires)</p><p>Other News - Australian Treasurer Frydenberg said global tensions are weighing heavily on sentiment and government is restoring finances to pay down debt. (Newswires)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-australian-stock-news-northern-star-resources-nst-at-halted-pending-significant-transaction-15-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-16 06:54:00",
+        "gmt_time": "2019-12-15 22:54:00"
+    },
+    {
+        "id": 900942,
+        "updated_sequence": 2039816,
+        "published_at": {
+            "unix": 1576449480,
+            "text": "2019-12-15 22:38:00 +0000",
+            "iso_8601": "2019-12-15T22:38:00Z"
+        },
+        "updated_at": {
+            "unix": 1576449600,
+            "text": "2019-12-15 22:40:00 +0000",
+            "iso_8601": "2019-12-15T22:40:00Z"
+        },
+        "subject": "Boeing (BA) is mulling cutting or stopping its 737 MAX production, according to WSJ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "WSJ",
+        "slug": "boeing-ba-is-mulling-cutting-or-stopping-its-737-max-production-according-to-wsj-15-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-16 06:38:00",
+        "gmt_time": "2019-12-15 22:38:00"
+    },
+    {
+        "id": 900953,
+        "updated_sequence": 2039855,
+        "published_at": {
+            "unix": 1576449360,
+            "text": "2019-12-15 22:36:00 +0000",
+            "iso_8601": "2019-12-15T22:36:00Z"
+        },
+        "updated_at": {
+            "unix": 1576454124,
+            "text": "2019-12-15 23:55:24 +0000",
+            "iso_8601": "2019-12-15T23:55:24Z"
+        },
+        "subject": "Qantas (QAN AT) unit Jetstar is cutting 10% of flights in January to avoid disrupting customers at short notice, adds earnings impact from January and December disruptions is estimated at AUD 20mln-25mln",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "qantas-qan-at-unit-jetstar-is-cutting-10-of-flights-in-january-to-avoid-disrupting-customers-at-short-notice-adds-earnings-impact-from-january-and-december-disruptions-is-estimated-at-aud-20mln-25mln-15-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-16 06:36:00",
+        "gmt_time": "2019-12-15 22:36:00"
+    },
+    {
+        "id": 900941,
+        "updated_sequence": 2039818,
+        "published_at": {
+            "unix": 1576449360,
+            "text": "2019-12-15 22:36:00 +0000",
+            "iso_8601": "2019-12-15T22:36:00Z"
+        },
+        "updated_at": {
+            "unix": 1576449638,
+            "text": "2019-12-15 22:40:38 +0000",
+            "iso_8601": "2019-12-15T22:40:38Z"
+        },
+        "subject": "Australia cuts 2019/20 economic growth forecast to 2.25% from 2.75% in its MYEFO, while wage growth forecast was lowered to 2.50% from 2.75%",
+        "content": "<p>Sees 2021 budget surplus at AUD 6.1bln vs. Prev. forecast AUD 11.0bln.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "australia-cuts-2019-20-economic-growth-forecast-to-2-25-from-2-75-in-its-myefo-while-wage-growth-forecast-was-lowered-to-2-50-from-2-75-15-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-16 06:36:00",
+        "gmt_time": "2019-12-15 22:36:00"
+    },
+    {
+        "id": 900940,
+        "updated_sequence": 2039806,
+        "published_at": {
+            "unix": 1576448400,
+            "text": "2019-12-15 22:20:00 +0000",
+            "iso_8601": "2019-12-15T22:20:00Z"
+        },
+        "updated_at": {
+            "unix": 1576448511,
+            "text": "2019-12-15 22:21:51 +0000",
+            "iso_8601": "2019-12-15T22:21:51Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASE CALENDAR IS AVAILABLE IN THE RESEARCH SECTION OF THE WEBSITE: Highlights include Chinese House Prices, Industrial Production and Retail Sales; Japanese PMIs",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "asian-daily-economic-release-calendar-is-available-in-the-research-section-of-the-website-highlights-include-chinese-house-prices-industrial-production-and-retail-sales-japanese-pmis-15-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-16 06:20:00",
+        "gmt_time": "2019-12-15 22:20:00"
+    },
+    {
+        "id": 900939,
+        "updated_sequence": 2039963,
+        "published_at": {
+            "unix": 1576448100,
+            "text": "2019-12-15 22:15:00 +0000",
+            "iso_8601": "2019-12-15T22:15:00Z"
+        },
+        "updated_at": {
+            "unix": 1576462293,
+            "text": "2019-12-16 02:11:33 +0000",
+            "iso_8601": "2019-12-16T02:11:33Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS:",
+        "content": "<p><strong>ASIA-PAC</strong></p><p>US President Trump tweeted that US has agreed a Phase One deal with China in which December 15 tariffs will not go ahead and that the sides will begin negotiations on the Phase Two Deal immediately rather than waiting until after the 2020 Election. Furthermore, President Trump announced the US would be maintaining the existing 25% tariffs which currently covers USD 250bln worth of Chinese imports and will cut the remaining tariffs which currently stands at 15% on USD 125bln of Chinese imports to 7.5%, while he later stated that he thinks China will hit USD 50bln in purchases of US agricultural purchases. (Newswires)</p><p>USTR Lighthizer said China agreed to purchase USD 40bln of agriculture in the first year with best efforts to increase that to USD 50bln, while he confirmed there will be additional negotiations and that the December 15th tariffs are cancelled. Lighthizer added the deal will be signed by trade principals in Washington first week of January and he does not expect a presidential signing, while he also stated it is China’s expectation that there will be further phases and further reductions in tariffs. (Newswires)</p><p>USTR press statement noted the US will be maintaining 25% on approximately USD 250bln of Chinese imports along with 7.5% tariffs on approximately USD 120bln of Chinese imports, according to Axios. (Twitter)</p><p>China Foreign Minister Wang Yi said a Phase one US-China agreement is major good news for the entire world.&nbsp; There were also separate comments from China's Vice Commerce Minister that the US will follow through on its promise to cancel tariffs on a phased basis and that the agreement is consistent with China's goal of reform, while China's Vice Finance Minister said China has decided to cancel tariffs scheduled for Sunday and that both sides agreed not to impose the Sunday tariffs. (Newswires)</p><p>China Global Times warned agreement on the text of the US deal does not mean that all trade issues can be resolved and any “accidents” could happen during the implementation citing experts, while an expert close to China's Commerce Ministry also stated the US tariff rollback is a goodwill gesture which is an improvement but is not enough. (Twitter)</p><p>Westpac adjusts RBNZ rate cut forecasts and now sees a 25bps cut in August from Prev. forecast of a cut in February. (Newswires)</p><ul><li>New Zealand Performance of Services Index (Nov) 53.3 (Prev. 55.4, Rev. Prev. 55.3). (Newswires)</li><li>Indian Trade Balance (USD)(Nov) -12.12B vs. Exp. -12.3B (Prev. -11.01B). (Newswires)</li><li>Indian Exports (USD)(Nov) 25.98B (Prev. 26.38B)</li><li>Indian Imports (USD)(Nov) 38.11B (Prev. 37.39B)</li></ul><p>&nbsp;</p><p><strong>UK/EU</strong></p><p>UK Final Election Results: Conservative 365, Labour 203, SNP 48, Liberal Democrats 11, DUP 8, Other 15; Tory majority of 80 seats. (Newswires)</p><p>EU leaders spoke on Brexit following the election and have agreed to go ahead with trade talks after the ratification and effective implementation of the exit deal, according to an EU diplomatic source. (Newswires)</p><p>US is reportedly weighing 100% tariffs on more EU products including whiskies and Cognac amid the fallout of its Airbus (AIR FP) dispute according to CNBC citing documents, while the new items being considered for tariffs up to 100% range from Spanish olive oil and French Swiss cheese to Irish and Scotch whiskies. (Newswires)</p><p>DBRS maintained UK rating at AAA with Stable Trend. (Newswires)</p><p>Fitch affirmed France at AA; Outlook Stable and affirmed Spain at A-; Outlook Stable. (Newswires)&nbsp;</p><p>&nbsp;</p><p><strong>COMMODITIES</strong></p><p>Baker Hughes Rig Count Oil +4 at 667, natural gas -4 at 129 and total unchanged at 799 rigs. (Newswires)&nbsp;</p><p>&nbsp;</p><p><strong>GEOPOLITICS</strong></p><p>Turkey is said to be \"very close\" to signing a deal for the second batch of Russian-made S-400 missile system which could be signed before April. In other news, Turkey President Erdogan threatened to shut down the Incirlik Airbase where US military stores nuclear weapons if sanctions are placed on Turkey. (Newswires)</p><p>North Korea is said to have conducted another test at its long-range rocket site which it said would strengthen its nuclear deterrent, while it added that hostile forces including US should refrain from provocation if they want to end the year peacefully. (Newswires)</p><p>&nbsp;</p><p><strong>US</strong></p><p>Fed's Williams said the housing market is picking up from a year ago and consumer spending is strong, while he expects the US economy to grow by about 2% over the next couple of years and suggested low and stable inflation isn't a concern but wants to avoid falling inflation. (Newswires)</p><ul><li>US Retail Sales MM (Nov) 0.2% vs. Exp. 0.5% (Prev. 0.3%, Rev. 0.4%). (Newswires)</li></ul><p>&nbsp;</p><p><strong>MARKET RECAP</strong></p><p>Apple (AAPL) caught a relief rally as it narrowly avoided the December 15th tariffs. CenterPoint (CNP) was bid on reports it was in settlement talks in its rates lawsuit in Houston. Facebook (FB) extended its losses from Thursday amid the FTC looking to act against it over antitrust concerns. Financials (BKX, XLF) were hit on the flattening of the yield curve. Lululemon (LULU) opened lower due to large block trade below its market price. PPL Corp (PPL) was supported by its exposure to the UK after the Tory landslide election victory supporting the utilities sector. Sarepta Therapeutics (SRPT) spiked higher on an early FDA approval. Tapestry (TPR) was offered amid a key brand leader departure. Gilead (GILD) sold off on a Credit Suisse downgrade, whilst the bank supported Biogen (BIIB), upgrading it. HanesBrands (HBI) dipped on a BofAML downgrade. S&amp;P 500 (Unch.), DJIA (Unch.), NDX (+0.25%).</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-asia-pac-opening-news-15-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-16 06:15:00",
+        "gmt_time": "2019-12-15 22:15:00"
+    },
+    {
+        "id": 900938,
+        "updated_sequence": 2039800,
+        "published_at": {
+            "unix": 1576447740,
+            "text": "2019-12-15 22:09:00 +0000",
+            "iso_8601": "2019-12-15T22:09:00Z"
+        },
+        "updated_at": {
+            "unix": 1576447787,
+            "text": "2019-12-15 22:09:47 +0000",
+            "iso_8601": "2019-12-15T22:09:47Z"
+        },
+        "subject": "Italy cabinet approves emergency decree to bail out Banca Popolare Di Bari, according to a government source",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "italy-cabinet-approves-emergency-decree-to-bail-out-banca-popolare-di-bari-according-to-a-government-source-15-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-16 06:09:00",
+        "gmt_time": "2019-12-15 22:09:00"
+    },
+    {
+        "id": 900936,
+        "updated_sequence": 2039794,
+        "published_at": {
+            "unix": 1576447200,
+            "text": "2019-12-15 22:00:00 +0000",
+            "iso_8601": "2019-12-15T22:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1576447427,
+            "text": "2019-12-15 22:03:47 +0000",
+            "iso_8601": "2019-12-15T22:03:47Z"
+        },
+        "subject": "Australian CBA Services PMI (Dec P) 49.5 (Prev. 49.7)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "australian-cba-services-pmi-dec-p-49-5-prev-49-7-15-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-16 06:00:00",
+        "gmt_time": "2019-12-15 22:00:00"
+    },
+    {
+        "id": 900731,
+        "updated_sequence": 2039785,
+        "published_at": {
+            "unix": 1576447200,
+            "text": "2019-12-15 22:00:00 +0000",
+            "iso_8601": "2019-12-15T22:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1576447200,
+            "text": "2019-12-15 22:00:00 +0000",
+            "iso_8601": "2019-12-15T22:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-12-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-16 06:00:00",
+        "gmt_time": "2019-12-15 22:00:00"
+    },
+    {
+        "id": 900937,
+        "updated_sequence": 2039797,
+        "published_at": {
+            "unix": 1576447200,
+            "text": "2019-12-15 22:00:00 +0000",
+            "iso_8601": "2019-12-15T22:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1576447441,
+            "text": "2019-12-15 22:04:01 +0000",
+            "iso_8601": "2019-12-15T22:04:01Z"
+        },
+        "subject": "Australian CBA Composite PMI (Dec P) 49.4 (Prev. 49.7)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "australian-cba-composite-pmi-dec-p-49-4-prev-49-7-15-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-16 06:00:00",
+        "gmt_time": "2019-12-15 22:00:00"
+    },
+    {
+        "id": 900935,
+        "updated_sequence": 2039791,
+        "published_at": {
+            "unix": 1576447200,
+            "text": "2019-12-15 22:00:00 +0000",
+            "iso_8601": "2019-12-15T22:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1576447385,
+            "text": "2019-12-15 22:03:05 +0000",
+            "iso_8601": "2019-12-15T22:03:05Z"
+        },
+        "subject": "Australian CBA Manufacturing PMI (Dec P) 49.4 (Prev. 49.9)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "australian-cba-manufacturing-pmi-dec-p-49-4-prev-49-9-15-12-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-12-16 06:00:00",
+        "gmt_time": "2019-12-15 22:00:00"
+    }
+]

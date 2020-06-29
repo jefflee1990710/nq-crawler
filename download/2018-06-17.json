@@ -1,0 +1,580 @@
+[
+    {
+        "id": 662842,
+        "updated_sequence": 994884,
+        "published_at": {
+            "unix": 1529279580,
+            "text": "2018-06-18 00:53:00 +0100",
+            "iso_8601": "2018-06-17T23:53:00Z"
+        },
+        "updated_at": {
+            "unix": 1529279675,
+            "text": "2018-06-18 00:54:35 +0100",
+            "iso_8601": "2018-06-17T23:54:35Z"
+        },
+        "subject": "East Japan Railway (9020 JT) suspends some of its Shinkansen services from Tokyo following earthquake report",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "east-japan-railway-9020-jt-suspends-some-of-its-shinkansen-services-from-tokyo-following-earthquake-report-17-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-18 07:53:00",
+        "gmt_time": "2018-06-17 23:53:00"
+    },
+    {
+        "id": 662841,
+        "updated_sequence": 994878,
+        "published_at": {
+            "unix": 1529279400,
+            "text": "2018-06-18 00:50:00 +0100",
+            "iso_8601": "2018-06-17T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1529279545,
+            "text": "2018-06-18 00:52:25 +0100",
+            "iso_8601": "2018-06-17T23:52:25Z"
+        },
+        "subject": "Japanese Adjusted Trade Balance (JPY)(May) -296.8B vs. Exp. 144.1B (Prev. 550.0B)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japanese-adjusted-trade-balance-jpy-may-296-8b-vs-exp-144-1b-prev-550-0b-17-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-18 07:50:00",
+        "gmt_time": "2018-06-17 23:50:00"
+    },
+    {
+        "id": 662837,
+        "updated_sequence": 994866,
+        "published_at": {
+            "unix": 1529279280,
+            "text": "2018-06-18 00:48:00 +0100",
+            "iso_8601": "2018-06-17T23:48:00Z"
+        },
+        "updated_at": {
+            "unix": 1529279358,
+            "text": "2018-06-18 00:49:18 +0100",
+            "iso_8601": "2018-06-17T23:49:18Z"
+        },
+        "subject": "Atlas Iron (AGO AT) shares on trading halt pending announcement on control transaction proposal",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "atlas-iron-ago-at-shares-on-trading-halt-pending-announcement-on-control-transaction-proposal-17-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-18 07:48:00",
+        "gmt_time": "2018-06-17 23:48:00"
+    },
+    {
+        "id": 662836,
+        "updated_sequence": 994863,
+        "published_at": {
+            "unix": 1529278800,
+            "text": "2018-06-18 00:40:00 +0100",
+            "iso_8601": "2018-06-17T23:40:00Z"
+        },
+        "updated_at": {
+            "unix": 1529278892,
+            "text": "2018-06-18 00:41:32 +0100",
+            "iso_8601": "2018-06-17T23:41:32Z"
+        },
+        "subject": "British Chambers of Commerce says UK economy looks set for weakest growth since 2009 amid uncertainties related to Brexit, higher energy prices and trade war concerns",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "british-chambers-of-commerce-says-uk-economy-looks-set-for-weakest-growth-since-2009-amid-uncertainties-related-to-brexit-higher-energy-prices-and-trade-war-concerns-17-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-18 07:40:00",
+        "gmt_time": "2018-06-17 23:40:00"
+    },
+    {
+        "id": 662835,
+        "updated_sequence": 994860,
+        "published_at": {
+            "unix": 1529278260,
+            "text": "2018-06-18 00:31:00 +0100",
+            "iso_8601": "2018-06-17T23:31:00Z"
+        },
+        "updated_at": {
+            "unix": 1529278300,
+            "text": "2018-06-18 00:31:40 +0100",
+            "iso_8601": "2018-06-17T23:31:40Z"
+        },
+        "subject": "Watpac (WTP AT) receives AUD 110mln contract",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "watpac-wtp-at-receives-aud-110mln-contract-17-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-18 07:31:00",
+        "gmt_time": "2018-06-17 23:31:00"
+    },
+    {
+        "id": 662834,
+        "updated_sequence": 994857,
+        "published_at": {
+            "unix": 1529277600,
+            "text": "2018-06-18 00:20:00 +0100",
+            "iso_8601": "2018-06-17T23:20:00Z"
+        },
+        "updated_at": {
+            "unix": 1529277727,
+            "text": "2018-06-18 00:22:07 +0100",
+            "iso_8601": "2018-06-17T23:22:07Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIAN, JAPANESE AND SOUTH KOREAN STOCK NEWS: South32 to acquire Arizona Mining for USD 1.3bln; WTI fell nearly 4% on Friday",
+        "content": "<p>AUSTRALIA</p>\r\n\r\n<p>Ausdrill (ASL AT)<br />- Co. picks Mark Norwell for CEO and MD positions. (Newswires)</p>\r\n\r\n<p>Galaxy Resources (GXY AT)<br />- Co. in agreement for sale of royalty entitlement from Mt Cattlin mine. (Newswires)</p>\r\n\r\n<p>Origin Energy (PRG AT)<br />- Co. sues ATO related to AUD 331mln of deductions from NSW coal-fired power station. (Newswires)</p>\r\n\r\n<p>Senex Energy (SXY AT)<br />- Co. in agreement with Jemena on partnership to accelerate Atlas project development in which Jemena will fund capex of about AUD 140mln. (Newswires)</p>\r\n\r\n<p>South32 (S32 AT)<br />- Co. to acquire Arizona Mining for USD 1.3bln. (Newswires)</p>\r\n\r\n<p>Energy<br />- WTI crude futures fell 3.8%. (Newswires)<br />&nbsp;</p>\r\n\r\n<p>JAPAN</p>\r\n\r\n<p>Hitachi (6501 JT)<br />- Co. is said to target a margin of 10% although the timing was uncertain and it reiterated it is mulling JPY 1tln worth of acquisitions. (Newswires)</p>\r\n\r\n<p>Nissan (7201 JT)<br />- Co. and Renault (RNO FP) have suspended fuel cell vehicle plan and the project with Daimler and Ford will concentrate on EVs. (Nikkei)</p>\r\n\r\n<p>Other News<br />- Officials are seeking to organize a summit between PM Abe and North Korean Leader Kim. (Newswires)<br />&nbsp;</p>\r\n\r\n<p>SOUTH KOREA</p>\r\n\r\n<p>Samsung Electronics (005930 KS)<br />- Co. ordered to pay USD 400mln to licensing division of KAIST university in South Korea for infringing patent related to semiconductor technology. (Newswires)</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-australian-japanese-and-south-korean-stock-news-south32-to-acquire-arizona-mining-for-usd-1-3bln-wti-fell-nearly-4-on-friday-17-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-18 07:20:00",
+        "gmt_time": "2018-06-17 23:20:00"
+    },
+    {
+        "id": 662833,
+        "updated_sequence": 994854,
+        "published_at": {
+            "unix": 1529276460,
+            "text": "2018-06-18 00:01:00 +0100",
+            "iso_8601": "2018-06-17T23:01:00Z"
+        },
+        "updated_at": {
+            "unix": 1529276578,
+            "text": "2018-06-18 00:02:58 +0100",
+            "iso_8601": "2018-06-17T23:02:58Z"
+        },
+        "subject": "Earthquake reported to hit Osaka Japan with a preliminary magnitude of 5.9; no tsunami warning issued",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "NHK",
+        "slug": "earthquake-reported-to-hit-osaka-japan-with-a-preliminary-magnitude-of-5-9-no-tsunami-warning-issued-17-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-18 07:01:00",
+        "gmt_time": "2018-06-17 23:01:00"
+    },
+    {
+        "id": 662831,
+        "updated_sequence": 994848,
+        "published_at": {
+            "unix": 1529276460,
+            "text": "2018-06-18 00:01:00 +0100",
+            "iso_8601": "2018-06-17T23:01:00Z"
+        },
+        "updated_at": {
+            "unix": 1529276489,
+            "text": "2018-06-18 00:01:29 +0100",
+            "iso_8601": "2018-06-17T23:01:29Z"
+        },
+        "subject": "UK Rightmove House Prices (Jun) M/M 0.4% (Prev. 0.8%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "uk-rightmove-house-prices-jun-m-m-0-4-prev-0-8-17-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-18 07:01:00",
+        "gmt_time": "2018-06-17 23:01:00"
+    },
+    {
+        "id": 662832,
+        "updated_sequence": 994851,
+        "published_at": {
+            "unix": 1529276460,
+            "text": "2018-06-18 00:01:00 +0100",
+            "iso_8601": "2018-06-17T23:01:00Z"
+        },
+        "updated_at": {
+            "unix": 1529276497,
+            "text": "2018-06-18 00:01:37 +0100",
+            "iso_8601": "2018-06-17T23:01:37Z"
+        },
+        "subject": "UK Rightmove House Prices (Jun) Y/Y 1.7% (Prev. 1.1%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "uk-rightmove-house-prices-jun-y-y-1-7-prev-1-1-17-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-18 07:01:00",
+        "gmt_time": "2018-06-17 23:01:00"
+    },
+    {
+        "id": 662830,
+        "updated_sequence": 994845,
+        "published_at": {
+            "unix": 1529274600,
+            "text": "2018-06-17 23:30:00 +0100",
+            "iso_8601": "2018-06-17T22:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1529275470,
+            "text": "2018-06-17 23:44:30 +0100",
+            "iso_8601": "2018-06-17T22:44:30Z"
+        },
+        "subject": "New Zealand Performance of Services Index (May)\t57.3 (Prev. 55.9)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "new-zealand-performance-of-services-index-may-57-3-prev-55-9-17-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-18 06:30:00",
+        "gmt_time": "2018-06-17 22:30:00"
+    },
+    {
+        "id": 662829,
+        "updated_sequence": 994839,
+        "published_at": {
+            "unix": 1529274000,
+            "text": "2018-06-17 23:20:00 +0100",
+            "iso_8601": "2018-06-17T22:20:00Z"
+        },
+        "updated_at": {
+            "unix": 1529274082,
+            "text": "2018-06-17 23:21:22 +0100",
+            "iso_8601": "2018-06-17T22:21:22Z"
+        },
+        "subject": "Libya's NOC warns fires at Ras Lanuf Oil Port could spread to other containers, prevent exports from the terminal",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "libya-s-noc-warns-fires-at-ras-lanuf-oil-port-could-spread-to-other-containers-prevent-exports-from-the-terminal-17-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-18 06:20:00",
+        "gmt_time": "2018-06-17 22:20:00"
+    },
+    {
+        "id": 662828,
+        "updated_sequence": 994836,
+        "published_at": {
+            "unix": 1529273820,
+            "text": "2018-06-17 23:17:00 +0100",
+            "iso_8601": "2018-06-17T22:17:00Z"
+        },
+        "updated_at": {
+            "unix": 1529273902,
+            "text": "2018-06-17 23:18:22 +0100",
+            "iso_8601": "2018-06-17T22:18:22Z"
+        },
+        "subject": "US-led coalition aircraft bombed one of Syria military positions in Eastern Syria, according to state media citing a military source",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-led-coalition-aircraft-bombed-one-of-syria-military-positions-in-eastern-syria-according-to-state-media-citing-a-military-source-17-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-18 06:17:00",
+        "gmt_time": "2018-06-17 22:17:00"
+    },
+    {
+        "id": 662827,
+        "updated_sequence": 994833,
+        "published_at": {
+            "unix": 1529273280,
+            "text": "2018-06-17 23:08:00 +0100",
+            "iso_8601": "2018-06-17T22:08:00Z"
+        },
+        "updated_at": {
+            "unix": 1529273559,
+            "text": "2018-06-17 23:12:39 +0100",
+            "iso_8601": "2018-06-17T22:12:39Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASES CALENDAR NOW AVAILABLE IN THE RESEARCH SECTION: Highlights Include New Zealand Services PMI and Japanese Trade Data; China, Hong Kong, Taiwan and Indonesia are closed",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asian-daily-economic-releases-calendar-now-available-in-the-research-section-highlights-include-new-zealand-services-pmi-and-japanese-trade-data-china-hong-kong-taiwan-and-indonesia-are-closed-17-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-18 06:08:00",
+        "gmt_time": "2018-06-17 22:08:00"
+    },
+    {
+        "id": 662826,
+        "updated_sequence": 994842,
+        "published_at": {
+            "unix": 1529272500,
+            "text": "2018-06-17 22:55:00 +0100",
+            "iso_8601": "2018-06-17T21:55:00Z"
+        },
+        "updated_at": {
+            "unix": 1529274580,
+            "text": "2018-06-17 23:29:40 +0100",
+            "iso_8601": "2018-06-17T22:29:40Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p>TRADE</p>\r\n\r\n<p>US confirmed it will implement 25% tariffs on USD 50bln of Chinese imports, while US President Trump said further tariffs will be applied if China retaliates. US announced a target list of Chinese goods for tariffs which will include high-tech goods on China&rsquo;s 2025 Plan. According to reports, the first set of tariffs will be placed on 818 of goods totalling USD 34bln which will be applied from the 6th July and the second set will be USD 16bln on 284 product lines which will be announced at a later date. (Newswires)</p>\r\n\r\n<p>China announced USD 50bln of retaliatory tariffs on US 659 agricultural and autos goods from 6th July. Mofcom also stated they will impose 25% tariffs on chemicals, medical equipment, energy products and chemicals, while China will also impose tariffs on US crude oil, natgas and some refined products at a later date. (Newswires)<br />&nbsp;</p>\r\n\r\n<p>UK/EU</p>\r\n\r\n<p>Irish PM Varadkar said he is not convinced there have been sufficient progress in Brexit talks yet. (Newswires)</p>\r\n\r\n<p>Fitch affirmed Denmark at AAA; Outlook Stable and affirmed Ireland at A+; Outlook Stable. (Newswires)</p>\r\n\r\n<p>Greek PM Tsipras survived a no-confidence vote on Saturday with the motion defeated through voting of 153 vs.127. (Newswires)</p>\r\n\r\n<p><br />COMMODITIES</p>\r\n\r\n<p>US Baker Hughes Total Rig Count (15 Jun) 1059 (Prev. 1062). (Newswires)<br />US Baker Hughes Oil Rig Count (15 Jun) 863 (Prev. 862)<br />US Baker Hughes Gas Rig Count (15 Jun) 194 (Prev. 198)</p>\r\n\r\n<p>Russian Energy Minister Novak said Russia and Saudi Arabia agreed OPEC+ should be institutionalised and extended to 2019 and beyond. In addition, reports also noted that Novak also stated OPEC and non-OPEC countries will discuss raising the oil output by 1.5 million barrels per day (bpd) in the third quarter only. However, Iran stated that 3 OPEC members will veto a proposed increase to output. (Newswires)</p>\r\n\r\n<p><br />US</p>\r\n\r\n<p>Fed&#39;s Kaplan (Non-Voter, Neutral) said Fed should be moving gradually on hikes and that he doesn&#39;t want to prejudge if the Fed should pause at neutral or not, while he also stated that near-term outlook is strong and that the base case is for three hikes in 2018. Kaplan also suggested that the yield curve has been flattening due to sluggish expectations about the future and that the Fed will not knowingly raise interest rates in a manner that inverts the yield curve. (Newswires)</p>\r\n\r\n<p>US Treasury Secretary Mnuchin is said to have warned President Trump of dire economic consequences and possible market collapse if China tariffs were imposed. (Fox)</p>\r\n\r\n<p>US Manufacturing Output MM (May) -0.7% vs. Exp. 0.1% (Prev. 0.5%, Rev. 0.6%). (Newswires)<br />US Industrial Production MM (May) -0.1% vs. Exp. 0.2% (Prev. 0.7%, Rev. 0.9%)<br />&nbsp;</p>\r\n\r\n<p>MARKET RECAP</p>\r\n\r\n<p>US equity futures endure a choppy session, falling from premarket levels beneath the key ~2790 area, before basing above 2770 after the US announced tariffs on China. We entered a consolidation pattern, before seeing sharp gains higher in late trade towards 2785, which traders were attributing to a mixture of technical, as well as quad witching day; however ES retreated from those levels after a list of products the China would impose tariffs on emerged. Shares with a large exposure to China were hit after the US announced tariffs on Chinese goods, and warned against retaliation; IE JD.com (JD), Alibaba (BABA) and Baidu (BIDU) were particularly hit. Steel companies AK Steel (AKS), US Steel (X), Nucor (NUE) and Steel Dynamics (STLD) were also whacked. M&amp;A news today focused on NXP Semiconductors (NXPI) and Qualcomm (QCOM) where initial reports stated it received approval from China, however sources familiar with the matter stated this was not the case and approval is still needed. In other stock Specifics: Adobe (ADBE) reported its numbers after market on Thursday, and they were better than expected, with the company also providing firmer guidance for Q3. On a negative note, the CFO did announce the closing of &lsquo;Magento&rsquo; is likely to be slightly dilutive to the Q3 EPS target next quarter. Nonetheless, many large banks/brokers did increase their price targets on Abode. Elsewhere, Apple (AAPL) is reportedly planning to focus on cheaper display screens for its next line up, which hit the price of Universal Display (OLED). SPX -0.1%, NASDAQ COMP -0.2%, DJI -0.3%.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-asia-pac-opening-news-17-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-18 05:55:00",
+        "gmt_time": "2018-06-17 21:55:00"
+    },
+    {
+        "id": 662825,
+        "updated_sequence": 994822,
+        "published_at": {
+            "unix": 1529272080,
+            "text": "2018-06-17 22:48:00 +0100",
+            "iso_8601": "2018-06-17T21:48:00Z"
+        },
+        "updated_at": {
+            "unix": 1529272161,
+            "text": "2018-06-17 22:49:21 +0100",
+            "iso_8601": "2018-06-17T21:49:21Z"
+        },
+        "subject": "Colombia's right-wing candidate Duque wins President election with 54.3% vs. 41.5% for leftist Petro",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "colombia-s-right-wing-candidate-duque-wins-president-election-with-54-3-vs-41-5-for-leftist-petro-17-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-18 05:48:00",
+        "gmt_time": "2018-06-17 21:48:00"
+    },
+    {
+        "id": 662824,
+        "updated_sequence": 994819,
+        "published_at": {
+            "unix": 1529271060,
+            "text": "2018-06-17 22:31:00 +0100",
+            "iso_8601": "2018-06-17T21:31:00Z"
+        },
+        "updated_at": {
+            "unix": 1529271160,
+            "text": "2018-06-17 22:32:40 +0100",
+            "iso_8601": "2018-06-17T21:32:40Z"
+        },
+        "subject": "Iran says 3 OPEC members will veto Saudi-proposed increase to output",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "iran-says-3-opec-members-will-veto-saudi-proposed-increase-to-output-17-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-18 05:31:00",
+        "gmt_time": "2018-06-17 21:31:00"
+    },
+    {
+        "id": 662691,
+        "updated_sequence": 994813,
+        "published_at": {
+            "unix": 1529269200,
+            "text": "2018-06-17 22:00:00 +0100",
+            "iso_8601": "2018-06-17T21:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1529269200,
+            "text": "2018-06-17 22:00:00 +0100",
+            "iso_8601": "2018-06-17T21:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-14-06-2018",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2018-06-18 05:00:00",
+        "gmt_time": "2018-06-17 21:00:00"
+    }
+]

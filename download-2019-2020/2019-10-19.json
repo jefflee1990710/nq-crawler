@@ -1,0 +1,70 @@
+[
+    {
+        "id": 892191,
+        "updated_sequence": 1971647,
+        "published_at": {
+            "unix": 1571526060,
+            "text": "2019-10-20 00:01:00 +0100",
+            "iso_8601": "2019-10-19T23:01:00Z"
+        },
+        "updated_at": {
+            "unix": 1571612494,
+            "text": "2019-10-21 00:01:34 +0100",
+            "iso_8601": "2019-10-20T23:01:34Z"
+        },
+        "subject": "UK Rightmove House Prices (Oct) M/M 0.6% (Prev. -0.2%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "uk-rightmove-house-prices-oct-m-m-0-6-prev-0-2-20-10-2019",
+        "hidden": false,
+        "section": {
+            "id": 29,
+            "name": "UK Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-10-20 07:01:00",
+        "gmt_time": "2019-10-19 23:01:00"
+    },
+    {
+        "id": 892192,
+        "updated_sequence": 1971650,
+        "published_at": {
+            "unix": 1571526060,
+            "text": "2019-10-20 00:01:00 +0100",
+            "iso_8601": "2019-10-19T23:01:00Z"
+        },
+        "updated_at": {
+            "unix": 1571612506,
+            "text": "2019-10-21 00:01:46 +0100",
+            "iso_8601": "2019-10-20T23:01:46Z"
+        },
+        "subject": "UK Rightmove House Prices (Oct) Y/Y -0.2% (Prev. 0.2%)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "uk-rightmove-house-prices-oct-y-y-0-2-prev-0-2-20-10-2019",
+        "hidden": false,
+        "section": {
+            "id": 29,
+            "name": "UK Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-10-20 07:01:00",
+        "gmt_time": "2019-10-19 23:01:00"
+    }
+]

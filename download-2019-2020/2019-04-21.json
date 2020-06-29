@@ -1,0 +1,346 @@
+[
+    {
+        "id": 865352,
+        "updated_sequence": 1836477,
+        "published_at": {
+            "unix": 1555891020,
+            "text": "2019-04-22 00:57:00 +0100",
+            "iso_8601": "2019-04-21T23:57:00Z"
+        },
+        "updated_at": {
+            "unix": 1555891116,
+            "text": "2019-04-22 00:58:36 +0100",
+            "iso_8601": "2019-04-21T23:58:36Z"
+        },
+        "subject": "Philippines Budget Deficit for March narrowed to 58.4bln vs. Prev. deficit of 76.4bln",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "philippines-budget-deficit-for-march-narrowed-to-58-4bln-vs-prev-deficit-of-76-4bln-21-04-2019",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-04-22 07:57:00",
+        "gmt_time": "2019-04-21 23:57:00"
+    },
+    {
+        "id": 865351,
+        "updated_sequence": 1836472,
+        "published_at": {
+            "unix": 1555890540,
+            "text": "2019-04-22 00:49:00 +0100",
+            "iso_8601": "2019-04-21T23:49:00Z"
+        },
+        "updated_at": {
+            "unix": 1555890609,
+            "text": "2019-04-22 00:50:09 +0100",
+            "iso_8601": "2019-04-21T23:50:09Z"
+        },
+        "subject": "US is expected to end sanctions waivers for Iranian oil imports which may be announced on Monday",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "us-is-expected-to-end-sanctions-waivers-for-iranian-oil-imports-which-may-be-announced-on-monday-21-04-2019",
+        "hidden": false,
+        "section": {
+            "id": 20,
+            "name": "Commodities"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-04-22 07:49:00",
+        "gmt_time": "2019-04-21 23:49:00"
+    },
+    {
+        "id": 865350,
+        "updated_sequence": 1836469,
+        "published_at": {
+            "unix": 1555890420,
+            "text": "2019-04-22 00:47:00 +0100",
+            "iso_8601": "2019-04-21T23:47:00Z"
+        },
+        "updated_at": {
+            "unix": 1555890478,
+            "text": "2019-04-22 00:47:58 +0100",
+            "iso_8601": "2019-04-21T23:47:58Z"
+        },
+        "subject": "South Korea April 1st-20th exports were lower by 8.7% Y/Y, while imports were lower by 1.2% Y/Y",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "south-korea-april-1st-20th-exports-were-lower-by-8-7-y-y-while-imports-were-lower-by-1-2-y-y-21-04-2019",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-04-22 07:47:00",
+        "gmt_time": "2019-04-21 23:47:00"
+    },
+    {
+        "id": 865349,
+        "updated_sequence": 1836466,
+        "published_at": {
+            "unix": 1555890180,
+            "text": "2019-04-22 00:43:00 +0100",
+            "iso_8601": "2019-04-21T23:43:00Z"
+        },
+        "updated_at": {
+            "unix": 1555890247,
+            "text": "2019-04-22 00:44:07 +0100",
+            "iso_8601": "2019-04-21T23:44:07Z"
+        },
+        "subject": "US will try to force Iranian exports to zero, according to Washington Post citing sources",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Washington Post",
+        "slug": "us-will-try-to-force-iranian-exports-to-zero-according-to-washington-post-citing-sources-21-04-2019",
+        "hidden": false,
+        "section": {
+            "id": 20,
+            "name": "Commodities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-04-22 07:43:00",
+        "gmt_time": "2019-04-21 23:43:00"
+    },
+    {
+        "id": 865348,
+        "updated_sequence": 1836463,
+        "published_at": {
+            "unix": 1555889580,
+            "text": "2019-04-22 00:33:00 +0100",
+            "iso_8601": "2019-04-21T23:33:00Z"
+        },
+        "updated_at": {
+            "unix": 1555889809,
+            "text": "2019-04-22 00:36:49 +0100",
+            "iso_8601": "2019-04-21T23:36:49Z"
+        },
+        "subject": "PRE-MARKET JAPANESE AND SOUTH KOREAN STOCK NEWS: Mitsubishi UFJ Financial Group (8306 JT) will book around JPY 100bln in write-downs and other charges related to its credit card business",
+        "content": "<p>JAPAN</p><p>ACOM (8572 JT) - Co. cuts FY18/19 net guidance to JPY 37.7bln from JPY 63.6bln, raises rev. to JPY 277bln from JPY 270bln and notes JPY 39.4bln provision related to loss on interest payment. (Newswires)</p><p>Daiwa House Industry (1925 JT) - Co. cut FY18/19 net guidance to JPY 235bln from JPY 240bln, although raises oper. profit to JPY 370bln from 354bln and revenue to JPY 4.12tln from JPY 4.05tln. (Newswires)</p><p>JX holdings (5020 JT) - Co. sale of Caserones project could be valued at USD 1.0bln. (Newswires)</p><p>Mitsubishi UFJ Financial Group (8306 JT) - Co. will book around JPY 100bln in write-downs and other charges related to its credit card business. (Nikkei)</p><p>Nintendo (7974 JT) - Co. has chosen to work with Tencent (700 HK) on a fresh attempt to crack China’s video game market. (Nikkei)</p><p>Oriental Land (4661 JT) - Co. may report operating profit of more than JPY 125bln. (Nikkei)</p><p>Sumitomo Dainippon Pharma (4506 JT) - Co. raises FY19/20 net JPY 48.6bln vs. Prev. JPY 35.0bln, cuts rev. to JPY 459bln vs. Prev. JPY 467bln Y/Y. (Newswires)</p><p>JGB Purchases - BoJ cut purchases of 10yr-25yr JGBs to JPY 160bln from JPY 180bln and purchased of 25yr+ JGBs to JPY 40bln from JPY 50bln in its Rinban operation on Friday, which some analysts viewed as a form of tapering. (Newswires)</p><p>Politics - Japanese ruling LDP Party lost Lower House by-elections for Okinawa and Osaka. (Newswires)</p><p>Other News - BoJ is said to be considering reducing its economic growth forecast in upcoming Outlook Report following recent weaker exports and industrial production. (Newswires)</p><p>&nbsp;</p><p>SOUTH KOREA</p><p>Hana Financial Group (086790 KS) - Co. Q1 net KRW 564bln vs. Prev. KRW 683bln Y/Y, rev. KRW 9.90tln vs. Prev. KRW 7.76tln Y/Y. (Newswires)</p><p>Lotte Corp (004990 KS) - Hana Financial was the highest bidder for Lotte Card. (Newswires)</p><p>Other News - South Korean First Vice Minister of Economy and Finance Lee Ho-Seung said exports are likely to improve in H2 and that demand for semiconductors are to gradually pick up. (Newswires)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-japanese-and-south-korean-stock-news-mitsubishi-ufj-financial-group-8306-jt-will-book-around-jpy-100bln-in-write-downs-and-other-charges-related-to-its-credit-card-business-21-04-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-04-22 07:33:00",
+        "gmt_time": "2019-04-21 23:33:00"
+    },
+    {
+        "id": 865347,
+        "updated_sequence": 1836458,
+        "published_at": {
+            "unix": 1555886880,
+            "text": "2019-04-21 23:48:00 +0100",
+            "iso_8601": "2019-04-21T22:48:00Z"
+        },
+        "updated_at": {
+            "unix": 1555886980,
+            "text": "2019-04-21 23:49:40 +0100",
+            "iso_8601": "2019-04-21T22:49:40Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASES CALENDAR NOW AVAILABLE IN THE RESEARCH SECTION: Highlights include very light calendar with Australia, New Zealand, Hong Kong, Europe and UK all closed for Easter Monday",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asian-daily-economic-releases-calendar-now-available-in-the-research-section-highlights-include-very-light-calendar-with-australia-new-zealand-hong-kong-europe-and-uk-all-closed-for-easter-monday-21-04-2019",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-04-22 06:48:00",
+        "gmt_time": "2019-04-21 22:48:00"
+    },
+    {
+        "id": 865346,
+        "updated_sequence": 1836455,
+        "published_at": {
+            "unix": 1555886400,
+            "text": "2019-04-21 23:40:00 +0100",
+            "iso_8601": "2019-04-21T22:40:00Z"
+        },
+        "updated_at": {
+            "unix": 1555886578,
+            "text": "2019-04-21 23:42:58 +0100",
+            "iso_8601": "2019-04-21T22:42:58Z"
+        },
+        "subject": "Japan Finance Ministry Currency Chief Asakawa says cannot relax during long holiday due to FOMC, US jobs data and China PMI releases",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>As a reminder, Japan will be shut from 29th April-May 6th for Golden Week.</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1555886577,
+            "text": "2019-04-21 23:42:57 +0100",
+            "iso_8601": "2019-04-21T22:42:57Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japan-finance-ministry-currency-chief-asakawa-says-cannot-relax-during-long-holiday-due-to-fomc-us-jobs-data-and-china-pmi-releases-21-04-2019",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-04-22 06:40:00",
+        "gmt_time": "2019-04-21 22:40:00"
+    },
+    {
+        "id": 865345,
+        "updated_sequence": 1836450,
+        "published_at": {
+            "unix": 1555885980,
+            "text": "2019-04-21 23:33:00 +0100",
+            "iso_8601": "2019-04-21T22:33:00Z"
+        },
+        "updated_at": {
+            "unix": 1555886087,
+            "text": "2019-04-21 23:34:47 +0100",
+            "iso_8601": "2019-04-21T22:34:47Z"
+        },
+        "subject": "Shanghai Futures Exchange plans to increase trading limit for Crude Oil futures for May delivery to 10% from Prev. 7% effective on Friday",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "shanghai-futures-exchange-plans-to-increase-trading-limit-for-crude-oil-futures-for-may-delivery-to-10-from-prev-7-effective-on-friday-21-04-2019",
+        "hidden": false,
+        "section": {
+            "id": 20,
+            "name": "Commodities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-04-22 06:33:00",
+        "gmt_time": "2019-04-21 22:33:00"
+    },
+    {
+        "id": 865344,
+        "updated_sequence": 1836474,
+        "published_at": {
+            "unix": 1555884300,
+            "text": "2019-04-21 23:05:00 +0100",
+            "iso_8601": "2019-04-21T22:05:00Z"
+        },
+        "updated_at": {
+            "unix": 1555890775,
+            "text": "2019-04-22 00:52:55 +0100",
+            "iso_8601": "2019-04-21T23:52:55Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p><strong>ASIA-PAC</strong></p><ul><li>Japanese National CPI (Mar) Y/Y 0.5% vs. Exp. 0.5% (Prev. 0.2%). (Newswires)</li><li>Japanese National CPI Ex. Fresh Food (Mar) Y/Y 0.8% vs. Exp. 0.7% (Prev. 0.7%)</li><li>Japanese National CPI Ex. Fresh Food &amp; Energy (Mar) Y/Y 0.4% vs. Exp. 0.4% (Prev. 0.4%)</li></ul><p>&nbsp;</p><p><strong>UK/EU</strong></p><p>UK PM May is to be told to step down by June or face being ousted with 1922 committee Chair Brady to tell her that 70% of ruling lawmakers want her to step down for messing up the Brexit process and amid a significant drop in support for the Conservative Party. Furthermore, reports noted that the 1922 committee will meet on Tuesday to decide on whether to allow a new vote of no confidence against May before December. (Times)</p><p>A vote on PM May's future among the party's grassroots supporters which could speed up her departure from office is reportedly weeks away after a petition received enough support from enough local party chairmen. This means the National Conservative Convention is obligated to call an \"extraordinary general meeting\" regarding allowing a no confidence vote to be conducted and could pressure Conservative MPs to change the leadership rules to permit them to hold an early vote on PM May’s leadership. (Telegraph)&nbsp;</p><p>&nbsp;</p><p><strong>COMMODITIES</strong></p><p>Baker Hughes Rig Count: oil rigs -8 at 825 (Prev. 833), gas rigs -2 at 187 (Prev. 189), Total rigs -10 at 1012. (Newswires)</p><p>Eastern Libyan National Army stepped up its assault on Tripoli with airs strikes and heavy clashes reported over the weekend. (Newswires)</p><p><strong>GEOPOLITICS</strong></p><p>Pentagon confirmed North Korea test launch and stated it wasn’t a ballistic missile, while South Korea’s military said the weapon tested by North Korea is thought to have been a guided weapon for ground combat and not a ballistic missile which suggests it was a conventional weapon and not subject to international sanctions. (Newswires)</p><p><strong>GLOBAL NEWS</strong></p><p>More than 200 were reported to have been killed and over 450 were injured from multiple explosions thought to be caused mostly by suicide bombers on Easter Sunday, which targeted churches and hotels in Sri Lanka. (Newswires)</p><p>Comedian Volodymyr Zelenskiy won Ukraine’s Presidential race after receiving 73% of the vote vs. incumbent Petro Poroshenko with 25% of the vote. (Newswires)</p><p>&nbsp;</p><p><strong>US</strong></p><p>Fed's Bostic (non-voter, dove) said rates are close to neutral if not already there, while he added that it is not clear the signal from the yield curve is the same as in the past. (Newswires)</p><p>Fed's Kaplan (non-voter, dove) said current fed funds rate is currently appropriate for the economy, while he added rates might be mildly accommodative and thinks rates are in the neighbourhood of neutral. Furthermore, Kaplan stated that growth estimates have been firming since start of the year and that he is getting more confident about 2019 growth, but also stated that improving economic growth is unlikely to change his view that short-term interest rates are where they should be. (Newswires/WSJ)</p><ul><li>US Markit Manufacturing PMI Flash (Apr) 52.4 vs. Exp. 52.8 (Prev. 52.4)</li><li>US Markit Services PMI Flash (Apr) 52.9 vs. Exp. 55.0 (Prev. 55.3)</li><li>US Markit Comp Flash PMI (Apr) 52.8 (Prev. 54.6)</li><li>US Housing Starts Number (Mar) 1.139M vs. Exp. 1.23M (Prev. 1.162M, Rev. 1.142M), weakest since May 2017.</li><li>US Building Permits: Number (Mar) 1.269M vs. Exp. 1.3M (Prev. 1.291M)</li><li>US Retail Sales MM (Mar) 1.6% vs. Exp. 0.9% (Prev. -0.2%)</li></ul><p>&nbsp;</p><p><strong>MARKET RECAP</strong></p><p>US Markets were closed on Friday for Good Friday.</p><p>&nbsp;</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-asia-pac-opening-news-21-04-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-04-22 06:05:00",
+        "gmt_time": "2019-04-21 22:05:00"
+    },
+    {
+        "id": 865264,
+        "updated_sequence": 1836439,
+        "published_at": {
+            "unix": 1555880400,
+            "text": "2019-04-21 22:00:00 +0100",
+            "iso_8601": "2019-04-21T21:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1555880400,
+            "text": "2019-04-21 22:00:00 +0100",
+            "iso_8601": "2019-04-21T21:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-18-04-2019",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-04-22 05:00:00",
+        "gmt_time": "2019-04-21 21:00:00"
+    }
+]

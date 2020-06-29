@@ -1,0 +1,70 @@
+[
+    {
+        "id": 864459,
+        "updated_sequence": 1836433,
+        "published_at": {
+            "unix": 1555705800,
+            "text": "2019-04-19 21:30:00 +0100",
+            "iso_8601": "2019-04-19T20:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1555719444,
+            "text": "2019-04-20 01:17:24 +0100",
+            "iso_8601": "2019-04-20T00:17:24Z"
+        },
+        "subject": "AUDIO SERVICE HAS NOW CLOSED FOR THE WEEK. THE ASIA DESK WILL REOPEN ON SUNDAY AT 2200GMT, EUROPEAN SERVICE WILL RESUME ON MONDAY AT 0630GMT. HAVE A PLEASANT WEEKEND.",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "audio-service-has-now-closed-for-the-week-the-asia-desk-will-reopen-on-sunday-at-2200gmt-european-service-will-resume-on-monday-at-0630gmt-have-a-pleasant-weekend-12-04-2019",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-04-20 04:30:00",
+        "gmt_time": "2019-04-19 20:30:00"
+    },
+    {
+        "id": 865142,
+        "updated_sequence": 1836158,
+        "published_at": {
+            "unix": 1555664400,
+            "text": "2019-04-19 10:00:00 +0100",
+            "iso_8601": "2019-04-19T09:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1555675425,
+            "text": "2019-04-19 13:03:45 +0100",
+            "iso_8601": "2019-04-19T12:03:45Z"
+        },
+        "subject": "ASIA-PAC SERVICE HAS NOW FINISHED, PLEASE REVERT BACK TO YOUR ORIGINAL CHANNEL FOR COVERAGE ON THE UK & EUROPEAN SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-has-now-finished-please-revert-back-to-your-original-channel-for-coverage-on-the-uk-european-session-18-04-2019",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-04-19 17:00:00",
+        "gmt_time": "2019-04-19 09:00:00"
+    }
+]

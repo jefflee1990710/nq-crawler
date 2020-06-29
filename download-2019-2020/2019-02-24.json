@@ -1,0 +1,286 @@
+[
+    {
+        "id": 856576,
+        "updated_sequence": 1799952,
+        "published_at": {
+            "unix": 1551050640,
+            "text": "2019-02-24 23:24:00 +0000",
+            "iso_8601": "2019-02-24T23:24:00Z"
+        },
+        "updated_at": {
+            "unix": 1551054460,
+            "text": "2019-02-25 00:27:40 +0000",
+            "iso_8601": "2019-02-25T00:27:40Z"
+        },
+        "subject": "PRE-MARKET JAPANESE AND SOUTH KOREAN STOCK NEWS: BoJ Governor Kuroda stated that the BoJ will 'of course' mull additional easing if the economy loses momentum towards hitting price goal",
+        "content": "<p><strong>JAPAN</strong></p>\r\n\r\n<p>STOCKS</p>\r\n\r\n<p>Nissan Motor (7201 JT)<br />- Governance committee is reportedly likely to propose that outside directors make up majority of company board. (Newswires)</p>\r\n\r\n<p>Otsuka Holdings (4578 JT)<br />- Health Canada has approved Co.&rsquo;s REXULTI (brexpiprazole) as adjunctive treatment for major depression. (Newswires)</p>\r\n\r\n<p>Hitachi (6501 JT)<br />- Co. reportedly has no plans to purchase shares in Poland&rsquo;s Prime Car Management. (Newswires)</p>\r\n\r\n<p>OTHER NEWS</p>\r\n\r\n<p>-BoJ Governor Kuroda stated that the BoJ will &#39;of course&#39; mull additional easing if the economy loses momentum towards hitting price goal, and added it is inappropriate to change the BoJ&#39;s current policy framework before reaching 2% inflation; according to Asahi. (Newswires)</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>SOUTH KOREA</strong></p>\r\n\r\n<p>STOCKS</p>\r\n\r\n<p>SK Telecom (017670 KS)<br />- Co. has created an eSports JV with Comcast Spectator. (Yonhap)</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>OTHER NEWS</p>\r\n\r\n<p>-US President Trump tweeted that he and North Korean leader Kim Jung Un both expect a continuation of progress made at the first US-North Korea Summit in Singapore. (Twitter)</p>\r\n\r\n<p>-Trump administration is said to be considering softer demands from North Korea ahead of the Summit with Kim Jong Un. (Newswires)</p>\r\n\r\n<p>-South Korea is to offer firms incentives such as tax reductions and industrial park rental fee discounts. (Yonhap)&nbsp;</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-japanese-and-south-korean-stock-news-boj-governor-kuroda-stated-that-the-boj-will-of-course-mull-additional-easing-if-the-economy-loses-momentum-towards-hitting-price-goal-24-02-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-02-25 07:24:00",
+        "gmt_time": "2019-02-24 23:24:00"
+    },
+    {
+        "id": 856575,
+        "updated_sequence": 1799928,
+        "published_at": {
+            "unix": 1551048660,
+            "text": "2019-02-24 22:51:00 +0000",
+            "iso_8601": "2019-02-24T22:51:00Z"
+        },
+        "updated_at": {
+            "unix": 1551049581,
+            "text": "2019-02-24 23:06:21 +0000",
+            "iso_8601": "2019-02-24T23:06:21Z"
+        },
+        "subject": "US President Trump says he will be delaying the US increase in China tariffs, and assuming US and China make additional progress, Trump will be planning a Summit with Chinese President Xi at Mar-a-Lago; via Twitter",
+        "content": "<ul><li><a href=\"https://twitter.com/realDonaldTrump/status/1099803719435239426\">Click here for the tweet</a></li>\r\n</ul>\r\n",
+        "reaction_details": "<ul><li>In an immediate reaction, AUD/USD popped higher from 0.7140 to a high of 0.7154</li>\r\n</ul>\r\n",
+        "reaction_updated_at": {
+            "unix": 1551048840,
+            "text": "2019-02-24 22:54:00 +0000",
+            "iso_8601": "2019-02-24T22:54:00Z"
+        },
+        "analysis_details": "<ul><li>The deadline for trade talks were originally for March 1st</li>\r\n</ul>\r\n",
+        "analysis_updated_at": {
+            "unix": 1551049320,
+            "text": "2019-02-24 23:02:00 +0000",
+            "iso_8601": "2019-02-24T23:02:00Z"
+        },
+        "push_notify": true,
+        "source": "Twitter",
+        "slug": "us-president-trump-says-he-will-be-delaying-the-us-increase-in-china-tariffs-and-assuming-us-and-china-make-additional-progress-trump-will-be-planning-a-summit-with-chinese-president-xi-at-mar-a-lago-via-twitter-24-02-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-02-25 06:51:00",
+        "gmt_time": "2019-02-24 22:51:00"
+    },
+    {
+        "id": 856574,
+        "updated_sequence": 1799954,
+        "published_at": {
+            "unix": 1551048420,
+            "text": "2019-02-24 22:47:00 +0000",
+            "iso_8601": "2019-02-24T22:47:00Z"
+        },
+        "updated_at": {
+            "unix": 1551054473,
+            "text": "2019-02-25 00:27:53 +0000",
+            "iso_8601": "2019-02-25T00:27:53Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIA STOCK NEWS: Australian shares are poised to open higher, amid positioning for positive news on the US-China trade talks. (AFR)",
+        "content": "<p>STOCKS</p>\r\n\r\n<p>Banks<br />- Australian Labour leader Shorten is reportedly expected to announce a levy of AUD 640mln on banks to fund support for banking misconduct victims. (Newswires)</p>\r\n\r\n<p>Superloop (SLC AT)<br />- Co. are expected to announce an AUD 30mln equity raise. (AFR)</p>\r\n\r\n<p>MacMahon Holdings (MAH AT)<br />- H1 revenue AUD 542.2mln vs. Prev. AUD 270mln. Net AUD 23.5mln, +180% Y/Y. (Newswires)</p>\r\n\r\n<p>Amaysim Australia (AYS AT)<br />-Co. are to launch equity raising through rights issues via Macquarie. (Newswires)</p>\r\n\r\n<p>Chorus Limited (CNU AT)<br />- H1 revenue AUD 489mln vs. Prev. AUD 499mln. EBITDA AUD 318mln vs. Prev. AUD 329mln. (Newswires)</p>\r\n\r\n<p>Macquarie (MQG AT)<br />- Co. announced AUD 500mln capital note offering. (Newswires)</p>\r\n\r\n<p>QBE Insurance (QBE AT)<br />- FY 18 adj. net USD 567mln vs. Prev. loss USD 1.2bln. Cash profits USD 715mln vs. Prev. loss USD 262mln. (Newswires)</p>\r\n\r\n<p>Boral (BLD AT)<br />- H1 revenue AUD 2.99bln vs. Prev. AUD 2.94bln. Net AUD 236.5mln vs. Prev. AUD 173mln. (Newswires)</p>\r\n\r\n<p>G8 Education (GEM AT)<br />- FY18 revenue AUD 857mln vs. Prev. AUD 795.8mln. EBIT AUD 136.3mln vs. Prev. AUD 156.0mln. (Newswires)</p>\r\n\r\n<p>OM Holdings (OMH AT)<br />- FY 18 revenue AUD 1.51bln vs. Prev. AUD 988.2mln. Adj. EBITDA AUD 339.7mln vs. Prev. AUD 186.1mln. (Newswires)</p>\r\n\r\n<p>Lend Lease (LLC AT)<br />- H1 revenue AUD 7.77bln vs. Prev. AUD 8.63bln. EBITDA AUD 83.1mln vs. Prev. AUD 720.6mln. (Newswires)</p>\r\n\r\n<p>Bluescope Steel (BSL AT)<br />- H1 revenue AUD 6.40bln vs. Prev. AUD 5.48bln. Net AUD 624.3mln vs. Prev. AID 441.2mln. (Newswires)</p>\r\n\r\n<p>Brambles Limited (BXB AT)<br />- Co. has entered into an agreement o sell IFCO to Triton and Luxina for a value of USD 2.51bln, with USD 1.95bln to be returned to shareholders through special dividend and buyback. (Newswires)</p>\r\n\r\n<p>BROKER MOVES</p>\r\n\r\n<p>INTEGRAL DIAGNOSTICS (IDX AT) DOWNGRADED TO ACCUMULATE FROM BUY AT ORD MINNETT</p>\r\n\r\n<p>SANTOS (STO AT) INITIATED BUY AT DEUTSCHE BANK</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-australia-stock-news-australian-shares-are-poised-to-open-higher-amid-positioning-for-positive-news-on-the-us-china-trade-talks-afr-24-02-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-02-25 06:47:00",
+        "gmt_time": "2019-02-24 22:47:00"
+    },
+    {
+        "id": 856573,
+        "updated_sequence": 1799912,
+        "published_at": {
+            "unix": 1551048300,
+            "text": "2019-02-24 22:45:00 +0000",
+            "iso_8601": "2019-02-24T22:45:00Z"
+        },
+        "updated_at": {
+            "unix": 1551048461,
+            "text": "2019-02-24 22:47:41 +0000",
+            "iso_8601": "2019-02-24T22:47:41Z"
+        },
+        "subject": "Nordea trade recommendation: Long AUD/NZD, target 1.0650 [currently 1.0406], citing difference in Australian and New Zealand economic surprise indices and lack of spillover into RBA and RBNZ pricing",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "nordea-trade-recommendation-long-aud-nzd-target-1-0650-currently-1-0406-citing-difference-in-australian-and-new-zealand-economic-surprise-indices-and-lack-of-spillover-into-rba-and-rbnz-pricing-24-02-2019",
+        "hidden": false,
+        "section": {
+            "id": 39,
+            "name": "Bank Research"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-02-25 06:45:00",
+        "gmt_time": "2019-02-24 22:45:00"
+    },
+    {
+        "id": 856572,
+        "updated_sequence": 1799924,
+        "published_at": {
+            "unix": 1551048000,
+            "text": "2019-02-24 22:40:00 +0000",
+            "iso_8601": "2019-02-24T22:40:00Z"
+        },
+        "updated_at": {
+            "unix": 1551049029,
+            "text": "2019-02-24 22:57:09 +0000",
+            "iso_8601": "2019-02-24T22:57:09Z"
+        },
+        "subject": "US has made substantial progress with China on structural issues such as intellectual property protection, technology transfer, agriculture, services, currency, and many other issues; US President Trump tweets",
+        "content": "<ul><li><a href=\"https://twitter.com/realDonaldTrump/status/1099800961089003522\">Click here for the tweet</a></li>\r\n</ul>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>Over the weekend, US President Trump tweeted that trade talks with China have been very productive, furthermore a source familiar with the talks noted that progress has been made across the board in trade dialogue. On Friday, at the US-China press conference in Washington, he said it is more likely than not that a trade deal will happen and added that Huawei and ZTE may or may not be not be included in the deal, this has not been discussed. Trump said a meeting with Chinese President Xi would probably be at Mar-A-Lago in March.</li>\r\n  <li>China President Xi said, in a letter to Trump, that negotiators have made significant progress, and added that each side will redouble efforts to meet each other half way.</li>\r\n  <li>US Chamber of Commerce official said he does not expect any further tariffs or increase in current tariffs provided that talks are constructive; expects the talks to go past the March 1 deadline, but not much has been heard on digital trade and data flows.</li>\r\n</ul>\r\n",
+        "analysis_updated_at": {
+            "unix": 1551048300,
+            "text": "2019-02-24 22:45:00 +0000",
+            "iso_8601": "2019-02-24T22:45:00Z"
+        },
+        "push_notify": true,
+        "source": "Twitter",
+        "slug": "us-has-made-substantial-progress-with-china-on-structural-issues-such-as-intellectual-property-protection-technology-transfer-agriculture-services-currency-and-many-other-issues-us-president-trump-tweets-24-02-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-02-25 06:40:00",
+        "gmt_time": "2019-02-24 22:40:00"
+    },
+    {
+        "id": 856331,
+        "updated_sequence": 1799896,
+        "published_at": {
+            "unix": 1551045600,
+            "text": "2019-02-24 22:00:00 +0000",
+            "iso_8601": "2019-02-24T22:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1551045600,
+            "text": "2019-02-24 22:00:00 +0000",
+            "iso_8601": "2019-02-24T22:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-21-02-2019",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-02-25 06:00:00",
+        "gmt_time": "2019-02-24 22:00:00"
+    },
+    {
+        "id": 856570,
+        "updated_sequence": 1799892,
+        "published_at": {
+            "unix": 1551045360,
+            "text": "2019-02-24 21:56:00 +0000",
+            "iso_8601": "2019-02-24T21:56:00Z"
+        },
+        "updated_at": {
+            "unix": 1551045459,
+            "text": "2019-02-24 21:57:39 +0000",
+            "iso_8601": "2019-02-24T21:57:39Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASES CALENDAR NOW AVAILABLE IN THE RESEARCH SECTION: Highlights include Japanese Leading Index and Australian 2039 Bond Auction",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asian-daily-economic-releases-calendar-now-available-in-the-research-section-highlights-include-japanese-leading-index-and-australian-2039-bond-auction-24-02-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-02-25 05:56:00",
+        "gmt_time": "2019-02-24 21:56:00"
+    },
+    {
+        "id": 856567,
+        "updated_sequence": 1799889,
+        "published_at": {
+            "unix": 1551044520,
+            "text": "2019-02-24 21:42:00 +0000",
+            "iso_8601": "2019-02-24T21:42:00Z"
+        },
+        "updated_at": {
+            "unix": 1551045006,
+            "text": "2019-02-24 21:50:06 +0000",
+            "iso_8601": "2019-02-24T21:50:06Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p><strong>25th February 2019</strong></p>\r\n\r\n<p><strong>TRADE</strong></p>\r\n\r\n<p>US-China trade talks in Washington were extended into the weekend, however, sources stated that the two sides have not yet agreed on the enforcement of a currency pact which would ensure China will not manipulate the Yuan. A tariff deadline extension was not announced at Friday&#39;s US-China press conference. (Newswires)</p>\r\n\r\n<p>US President Trump tweeted that trade talks with China have been very productive, furthermore a source familiar with the talks noted that progress has been made across the board in trade dialogue. On Friday, at the US-China press conference in Washington, he said it is more likely than not that a trade deal will happen and added that Huawei and ZTE may or may not be not be included in the deal, this has not been discussed. Trump said a meeting with Chinese President Xi would probably be at Mar-A-Lago in March. He also said he does not like memorandums of understanding, they would be short term, wants a long-term deal. (Newswires)</p>\r\n\r\n<p>China President Xi said, in a letter to Trump, that negotiators have made significant progress, and added that each side will redouble efforts to meet each other half way. (Newswires)</p>\r\n\r\n<p>Chinese Vice Premier Liu said from China&#39;s perspective, a deal is very likely to happen. (Newswires)</p>\r\n\r\n<p>USTR Lighthizer said a lot of progress has been made with China on technology transfers but &quot;major hurdles&quot; remain. Meanwhile, US Commerce Secretary Ross noted that there is a lot more to be done to get a deal done (Newswires)</p>\r\n\r\n<p>US Chamber of Commerce official does not expect any further tariffs or increase in current tariffs provided that talks are constructive; expects the talks to go past the March 1 deadline, but not much has been heard on digital trade and data flows. (Newswires)</p>\r\n\r\n<p>US-China trade talks are positive, a USDA official said, but added that there is still no clarity from Beijing on intellectual property, tech transfers, and structural changes. (Newswires)</p>\r\n\r\n<p>China has committed to buying up to USD 1.2trln of US goods; according to CNBC citing sources. (CNBC)</p>\r\n\r\n<p><strong>ASIA-PAC</strong></p>\r\n\r\n<p>BoJ Governor Kuroda stated that the BoJ will &#39;of course&#39; mull additional easing if the economy loses momentum towards hitting price goal, and added it is inappropriate to change the BoJ&#39;s current policy framework before reaching 2% inflation; according to Asahi. (Newswires)</p>\r\n\r\n<p>India Finance Minister said India will use all instruments at its command against Pakistan. (Newswires)</p>\r\n\r\n<p>Pakistan army stated that they are preparing to defend against any Indian attack, they also warn of a &lsquo;full spectrum&rsquo; response. (Newswires)</p>\r\n\r\n<p><strong>UK</strong></p>\r\n\r\n<p>EU are reportedly mulling a proposal for a Brexit delay until 2021 as leaders are said to be determined to avoid uncertainty of three-month extension requests; according to The Guardian citing EU sources. (The Guardian)</p>\r\n\r\n<p>Brexit is to be delayed for up to two months under plans being considered by UK PM May in a bid to avoid resignations by ministers; according to The Telegraph. (The Telegraph)</p>\r\n\r\n<p>UK PM May confirmed that a meaningful vote will not take place this week whilst also saying she will not rule out extending Article 50. She said MPs will be able to have a final vote on the Brexit deal by March 12th. Furthermore, senior government sources stated that the Premier could signal this week that she is taking a no-deal Brexit off the table. (BBC/Newswires)</p>\r\n\r\n<p>Labour MPs Phil Wilson and Peter Kyle are tabling an amendment that backs PM May&#39;s current Brexit deal with the condition of a second Brexit referendum. Wilson said that he is winning over support from Labour leader Corbyn&#39;s team and Tory cabinet ministers. (The Times)</p>\r\n\r\n<p>UK PM May has been warned by ministers that she has until Tuesday to announce a Brexit delay or she will face a mass rebellion that risks collapsing the government. (The Telegraph)</p>\r\n\r\n<p>Senior UK ministers warned that extending Article 50 could lead to further temporary extensions that would become permanent and stop Brexit altogether. (The Telegraph)</p>\r\n\r\n<p>Senior UK Ministers Greg Clark, Amber Rudd and David Gauke said they will vote for a Brexit delay if there is no breakthrough in negotiations. Five cabinet ministers have called on Work and Pensions Secretary Amber Rudd to be sacked after she threatened to vote for the delay. (The Times)</p>\r\n\r\n<p><strong>GEOPOLITICS</strong></p>\r\n\r\n<p>US President Trump tweeted that he and North Korean leader Kim Jung Un both expect a continuation of progress made at the first US-North Korea Summit in Singapore. (Twitter)</p>\r\n\r\n<p>US Vice President Pence is to announce on Monday &ldquo;concrete steps&rdquo; and &ldquo;clear actions&rdquo; in support of Venezuela; according to a senior US official. (Newswires)</p>\r\n\r\n<p><strong>EU</strong></p>\r\n\r\n<p>German Economy Minister Altmaier said there is a long way to go to reach a trade deal with the US, (Newswires)</p>\r\n\r\n<p>ECB&#39;s Villeroy (Dovish) stated that the ECB need to assess to what extent the recent slowdown and inflation are temporary, adding that the ECB should look at a whole spectrum of possible tools, including different forms of LTRO. (Newswires)</p>\r\n\r\n<p>ECB&#39;s Nowotny (Hawk) said the resumption of the ECB&#39;s Asset Purchase Program is not necessary and adds that the ECB has no conclusions yet on TLTRO and if the slowdown is driven by one-offs, TLTRO may not be needed. He added that German growth expectations are likely to be revised down. (Newswires)</p>\r\n\r\n<p>Germany and France have agreed on a joint proposal for the creation of a EZ budget; size is to be determined in negotiations for the next EU budget; according to a German government document. (Newswires)</p>\r\n\r\n<p>Fitch affirmed Italy at &ldquo;BBB&rdquo;; Outlook Negative (Newswires)<br />Fitch Upgrades Hungary to &ldquo;BBB&rdquo;; Outlook Stable<br />S&amp;P affirmed Sweden at AAA; Outlook Stable<br />S&amp;P affirmed Switzerland at AAA; Outlook Stable</p>\r\n\r\n<p>DATA RECAP</p>\r\n\r\n<p>EU HICP Final YY Jan 1.4% vs. Exp. 1.4% (Prev. 1.4%) (Newswires)</p>\r\n\r\n<p><br /><strong>COMMODITIES</strong></p>\r\n\r\n<p>Iranian Supreme National Security Council Secretary said Iran has designed and put into practice initiatives to neutralise the US sanctions against Iranian oil exports. He also noted that Iran has options to stop oil flow if threatened, other than closing Strait of Hormuz. (Tasnim)</p>\r\n\r\n<p>Libya&rsquo;s NOC Head said El-Sharara 300k BPD oil field remains closed as armed men are still at the field. (Newswires)</p>\r\n\r\n<p>Baker Hughes Rig Count (22 Feb): Crude rigs -4 at 853, gas rigs unchanged at 194, total rigs -4 at 1047. (Newswires)</p>\r\n\r\n<p>Chile&#39;s Mines Minister maintained 2019 copper price prediction of USD 3.05/pound; amidst ongoing US-China trade negotiations. (Newswires)</p>\r\n\r\n<p><br /><strong>US</strong></p>\r\n\r\n<p>Fed&#39;s Clarida (Voter, Neutral) said the Fed is launching a broad review of policy framework, mulling changes to inflation-targeting framework; will consider new tools to ease policy if needed, such as capping treasury yields. (Newswires)</p>\r\n\r\n<p>Fed&#39;s Quarles (Voter, Neutral) said he probably underestimated the difficulty of communications on the balance sheet; thinks balance sheet should move to shorter maturities. He added that it is appropriate to keep the balance sheet large enough to buffer against shocks to reserve supply and one option of ending balance sheet run off this year is to hold a fixed level of total assets for a time. (Newswires)</p>\r\n\r\n<p>Fed&rsquo;s Williams (Voter, Hawkish) said the Fed must ensure that inflation does not get anchored below target, adds that we must remain vigilant about a possible inflation surge. (Newswires)</p>\r\n\r\n<p>Fed&#39;s Bullard (voter, dove) said he does not want policy tools at cross purposes; doesn&#39;t want to cut the balance sheet and rates at the same time.&nbsp; He added that now that rates are higher, changes to balance sheet will only have minor impact. (Newswires)</p>\r\n\r\n<p>Fed&#39;s Harker (Non-voter, Hawkish) says QT should end in 2019, says slow and steady approach will reduce uncertainty, and added that the Fed should be cautious with balance sheet wind down. (Newswires)</p>\r\n\r\n<p>New York Fed raised GDP Nowcast 2018 (Q4) to 2.3% (prev. 2.2%), raises 2019 (Q1) to 1.2% (prev. 1.1%)(Newswires)</p>\r\n\r\n<p>Fed in report to congress says the US economy appears to have maintained a &#39;solid pace&#39; of growth in the second half of 2018; estimating just under 3% growth for the year. Partial govenment shutdown has likely held down growth in Q1 &quot;somewhat&quot;; mostly due to lost work of Federal workers and contractors. Fed reiterated data dependence regarding timing and size of future adjustments of interest rates. Longer-run size of balance sheet will be &quot;considerably larger&quot; than pre-crisis. (Newswires)</p>\r\n\r\n<p>US and Saudi have signed USD 28bln worth of bi-lateral agreements on economic cooperation; according to SPA. (Newswires)</p>\r\n\r\n<p>DATA RECAP</p>\r\n\r\n<p>Canadian Retail Sales MM Dec -0.1% vs. Exp. -0.3% (Prev. -0.9%) (Newswires)<br />Canadian Retail Sales Ex-Autos MM Dec -0.5% vs. Exp. -0.3% (Prev. -0.6%, Rev. -0.7%)</p>\r\n\r\n<p><strong>EM</strong></p>\r\n\r\n<p>Brazil&#39;s Senate President says pension reform proposal could pass congress by June. However, a senior member of President Bolsonaro&#39;s party said Brazil&#39;s pension reform bill will not pass the lower chamber, unless military reform is included with this. (Newswires)</p>\r\n\r\n<p><br /><strong>MARKET RECAP</strong></p>\r\n\r\n<p>Intuit (INTU) surged today after beating top and bottom-line estimates as well as raising its EPS guidance. Kraft Heinz (KHC) lost approximately one quarter of its market value after announcing it was being probed by the SEC over its accounting controls, as well as reporting disappointing earnings; other packaged foods names also followed suit such as Campbell Soup (CPB), J. M. Smucker (SJM), General Mills (GIS) and Kellogg (K). Newmont Mining (NEM) caught a bid after Barrick Gold (GOLD) announced plans of an all-stock merger deal. Intel (INTC) opened higher with thanks to an upgrade at Morgan Stanley; Nvidia (NVDA) and Micron Technology (MU) rose on the back of this too. Wayfair (W) had its market value increase by approximately one whole third after reporting strong earnings and a growing user base. E-cigarette co. Juul Labs said it expects strong revenue this year causing stake holder Altria (MO) to drift higher on Friday. * SPX +0.64% at 2793, NDX +0.79% at 7091, DJI +0.70% at 26032. SECTORS: Energy +0.33%, Materials +0.39%, Industrials +0.63%, Cons Discretionary +0.58%, Cons Staples -0.28%, Healthcare +0.93%, Financials -0.23%, Tech +1.29%, Telecoms +1.05%, Utilities +0.60%.</p>\r\n\r\n<p>Yields fell by 2.5-4bps across the curve on Friday. Gains were pressured with newswires attributing selling to optimism over US/China trade talks, which have been extended as policymakers say progress is being made, though failed to provide many specifics. Fed speak tended to focus on broader themes around policy frameworks rather than the current monetary policy/economic outlook; next week&#39;s dual testimony from Fed chair Powell is now eyed for cues about Fed policy. At settlement, major US curve spreads were little changed, with a slightly steeper bias. US T-note futures (h9) settled +7+ ticks at 122-04+.</p>\r\n",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-asia-pac-opening-news-24-02-2019",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-02-25 05:42:00",
+        "gmt_time": "2019-02-24 21:42:00"
+    }
+]

@@ -1,0 +1,482 @@
+[
+    {
+        "id": 867406,
+        "updated_sequence": 1845421,
+        "published_at": {
+            "unix": 1557100200,
+            "text": "2019-05-06 00:50:00 +0100",
+            "iso_8601": "2019-05-05T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1557100837,
+            "text": "2019-05-06 01:00:37 +0100",
+            "iso_8601": "2019-05-06T00:00:37Z"
+        },
+        "subject": "China is said to be mulling cancelling trade discussions this week following US President Trump's tariff threats, according to WSJ",
+        "content": "",
+        "reaction_details": "<ul><li>AUD/USD moved lower by a total 19 pips to 0.6972 from 0.6991 in the 7 minutes following the report, while Emini S&amp;P fell by a total 11 points to 2897 within the same timeframe.</li></ul>",
+        "reaction_updated_at": {
+            "unix": 1557100680,
+            "text": "2019-05-06 00:58:00 +0100",
+            "iso_8601": "2019-05-05T23:58:00Z"
+        },
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": true,
+        "source": "WSJ",
+        "slug": "china-is-said-to-be-mulling-cancelling-trade-discussions-this-week-following-us-president-trump-s-tariff-threats-according-to-wsj-05-05-2019",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-05-06 07:50:00",
+        "gmt_time": "2019-05-05 23:50:00"
+    },
+    {
+        "id": 867405,
+        "updated_sequence": 1845412,
+        "published_at": {
+            "unix": 1557099240,
+            "text": "2019-05-06 00:34:00 +0100",
+            "iso_8601": "2019-05-05T23:34:00Z"
+        },
+        "updated_at": {
+            "unix": 1557099298,
+            "text": "2019-05-06 00:34:58 +0100",
+            "iso_8601": "2019-05-05T23:34:58Z"
+        },
+        "subject": "Magellan Financial Group (MFG AT) April FUM AUD 83.2bln vs. Prev. AUD 79.4bln",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "magellan-financial-group-mfg-at-april-fum-aud-83-2bln-vs-prev-aud-79-4bln-05-05-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-05-06 07:34:00",
+        "gmt_time": "2019-05-05 23:34:00"
+    },
+    {
+        "id": 867404,
+        "updated_sequence": 1845409,
+        "published_at": {
+            "unix": 1557099000,
+            "text": "2019-05-06 00:30:00 +0100",
+            "iso_8601": "2019-05-05T23:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1557099221,
+            "text": "2019-05-06 00:33:41 +0100",
+            "iso_8601": "2019-05-05T23:33:41Z"
+        },
+        "subject": "Eastern Libya forces led by Khalifa Haftar are conducting airstrikes on targets in Tripoli and said they have destroyed the Government of National Accord's operation headquarters",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "eastern-libya-forces-led-by-khalifa-haftar-are-conducting-airstrikes-on-targets-in-tripoli-and-said-they-have-destroyed-the-government-of-national-accord-s-operation-headquarters-05-05-2019",
+        "hidden": false,
+        "section": {
+            "id": 23,
+            "name": "Geopolitical"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-05-06 07:30:00",
+        "gmt_time": "2019-05-05 23:30:00"
+    },
+    {
+        "id": 867403,
+        "updated_sequence": 1845406,
+        "published_at": {
+            "unix": 1557098760,
+            "text": "2019-05-06 00:26:00 +0100",
+            "iso_8601": "2019-05-05T23:26:00Z"
+        },
+        "updated_at": {
+            "unix": 1557098852,
+            "text": "2019-05-06 00:27:32 +0100",
+            "iso_8601": "2019-05-05T23:27:32Z"
+        },
+        "subject": "A source familiar with President Trump thoughts on tariffs, said that Chinese have been backing away from agreements the US negotiating team believed they had already made, according to Axios",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Axios",
+        "slug": "a-source-familiar-with-president-trump-thoughts-on-tariffs-said-that-chinese-have-been-backing-away-from-agreements-the-us-negotiating-team-believed-they-had-already-made-according-to-axios-05-05-2019",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-05-06 07:26:00",
+        "gmt_time": "2019-05-05 23:26:00"
+    },
+    {
+        "id": 867402,
+        "updated_sequence": 1845403,
+        "published_at": {
+            "unix": 1557097140,
+            "text": "2019-05-05 23:59:00 +0100",
+            "iso_8601": "2019-05-05T22:59:00Z"
+        },
+        "updated_at": {
+            "unix": 1557097375,
+            "text": "2019-05-06 00:02:55 +0100",
+            "iso_8601": "2019-05-05T23:02:55Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIAN STOCK NEWS: Westpac (WBC AT) H1 statutory net fell 24% Y/Y to AUD 3.17bln",
+        "content": "<p>AUSTRALIA</p><p>Boart Longyear (BLY AT) - Co. Q1 net loss AUD 6.0mln vs. Prev. loss AUD 17.9mln Y/Y, rev. AUD 190mln vs. Prev. AUD 188mln Y/Y. (Newswires)</p><p>Healius (HLS AT) - Co. is said to have received some informal approaches of interest from private equity groups. (Newswires)</p><p>Perseus Mining (PRU AT) - Co. approved construction of the Yaoure gold mine with capital costs seen at AUD 265mln. (Newswires)</p><p>Westpac (WBC AT) - Co. H1 statutory net fell 24% Y/Y to AUD 3.17bln, net oper. rev. AUD 9.9bln vs. Prev. AUD 11.1bln, proposes interim dividend of AUD 0.94/Shr. (Newswires)</p><p>Other News - Australian PM Morrison reportedly softened the ground for an RBA rate cut this week as he suggested difficult years ahead amid risks to the economy amid trade dispute and the opposition Labor party’s tax proposals on property, while he also suggested an interest rate cut would obviously make mortgages cheaper. (AFR)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-australian-stock-news-westpac-wbc-at-h1-statutory-net-fell-24-y-y-to-aud-3-17bln-05-05-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-05-06 06:59:00",
+        "gmt_time": "2019-05-05 22:59:00"
+    },
+    {
+        "id": 867401,
+        "updated_sequence": 1845398,
+        "published_at": {
+            "unix": 1557096720,
+            "text": "2019-05-05 23:52:00 +0100",
+            "iso_8601": "2019-05-05T22:52:00Z"
+        },
+        "updated_at": {
+            "unix": 1557096968,
+            "text": "2019-05-05 23:56:08 +0100",
+            "iso_8601": "2019-05-05T22:56:08Z"
+        },
+        "subject": "Occidental Petroleum Corp (OXY) revises offer to buy Anadarko (APC) to USD 59.00/Shr cash and 0.2934 shares from USD 38.00/Shr and 0.6094 shares, which is around 23.3% premium to the offer from Chevron (CVX)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "occidental-petroleum-corp-oxy-revises-offer-to-buy-anadarko-apc-to-usd-59-00-shr-cash-and-0-2934-shares-from-usd-38-00-shr-and-0-6094-shares-which-is-around-23-3-premium-to-the-offer-from-chevron-cvx-05-05-2019",
+        "hidden": false,
+        "section": {
+            "id": 30,
+            "name": "US Equities"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-05-06 06:52:00",
+        "gmt_time": "2019-05-05 22:52:00"
+    },
+    {
+        "id": 867400,
+        "updated_sequence": 1845392,
+        "published_at": {
+            "unix": 1557095880,
+            "text": "2019-05-05 23:38:00 +0100",
+            "iso_8601": "2019-05-05T22:38:00Z"
+        },
+        "updated_at": {
+            "unix": 1557095961,
+            "text": "2019-05-05 23:39:21 +0100",
+            "iso_8601": "2019-05-05T22:39:21Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASES CALENDAR NOW AVAILABLE IN THE RESEARCH SECTION: Highlights include Chinese Caixin Services and Composite PMI, Japan, South Korea and UK observe public holidays",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asian-daily-economic-releases-calendar-now-available-in-the-research-section-highlights-include-chinese-caixin-services-and-composite-pmi-japan-south-korea-and-uk-observe-public-holidays-05-05-2019",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-05-06 06:38:00",
+        "gmt_time": "2019-05-05 22:38:00"
+    },
+    {
+        "id": 867399,
+        "updated_sequence": 1845389,
+        "published_at": {
+            "unix": 1557095400,
+            "text": "2019-05-05 23:30:00 +0100",
+            "iso_8601": "2019-05-05T22:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1557095540,
+            "text": "2019-05-05 23:32:20 +0100",
+            "iso_8601": "2019-05-05T22:32:20Z"
+        },
+        "subject": "UK PM May reportedly held secret discussions concerning a 3-way referendum in which she carried out scenario planning with aides and ministers in the event they cannot prevent a parliamentary vote on a 2nd referendum",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Telegraph ",
+        "slug": "uk-pm-may-reportedly-held-secret-discussions-concerning-a-3-way-referendum-in-which-she-carried-out-scenario-planning-with-aides-and-ministers-in-the-event-they-cannot-prevent-a-parliamentary-vote-on-a-2nd-referendum-05-05-2019",
+        "hidden": false,
+        "section": {
+            "id": 38,
+            "name": "Brexit"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-05-06 06:30:00",
+        "gmt_time": "2019-05-05 22:30:00"
+    },
+    {
+        "id": 867398,
+        "updated_sequence": 1845384,
+        "published_at": {
+            "unix": 1557094260,
+            "text": "2019-05-05 23:11:00 +0100",
+            "iso_8601": "2019-05-05T22:11:00Z"
+        },
+        "updated_at": {
+            "unix": 1557094330,
+            "text": "2019-05-05 23:12:10 +0100",
+            "iso_8601": "2019-05-05T22:12:10Z"
+        },
+        "subject": "New Zealand Shadow Board reiterates no recommended changes in RBNZ rates",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "new-zealand-shadow-board-reiterates-no-recommended-changes-in-rbnz-rates-05-05-2019",
+        "hidden": false,
+        "section": {
+            "id": 11,
+            "name": "RBNZ"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-05-06 06:11:00",
+        "gmt_time": "2019-05-05 22:11:00"
+    },
+    {
+        "id": 867397,
+        "updated_sequence": 1845381,
+        "published_at": {
+            "unix": 1557093600,
+            "text": "2019-05-05 23:00:00 +0100",
+            "iso_8601": "2019-05-05T22:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1557093810,
+            "text": "2019-05-05 23:03:30 +0100",
+            "iso_8601": "2019-05-05T22:03:30Z"
+        },
+        "subject": "US equity futures slump at the reopen with Emini S&P down 40 points or 1.5% and mini Dow futures lower around 400 points, while WTI crude futures are lower 2% and T-notes are higher by 12+ ticks after President Trump tweeted US will raise tariffs on China",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": true,
+        "source": "RANsquawk",
+        "slug": "us-equity-futures-slump-at-the-reopen-with-emini-s-p-down-40-points-or-1-5-and-mini-dow-futures-lower-around-400-points-while-wti-crude-futures-are-lower-2-and-t-notes-are-higher-by-12-ticks-after-president-trump-tweeted-us-will-raise-ta-05-05-2019",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-05-06 06:00:00",
+        "gmt_time": "2019-05-05 22:00:00"
+    },
+    {
+        "id": 867396,
+        "updated_sequence": 1845386,
+        "published_at": {
+            "unix": 1557093300,
+            "text": "2019-05-05 22:55:00 +0100",
+            "iso_8601": "2019-05-05T21:55:00Z"
+        },
+        "updated_at": {
+            "unix": 1557094423,
+            "text": "2019-05-05 23:13:43 +0100",
+            "iso_8601": "2019-05-05T22:13:43Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p><strong>ASIA-PAC</strong></p><p>US President Trump stated over the weekend that the US will raise the 10% tariffs on USD 200bln of Chinese goods to 25% beginning on Friday and suggested that USD 325bln of additional goods from China which remain untaxed, will be shortly at a rate of 25%, while he suggested the trade agreement with China is proceeding too slowly and firmly rejects efforts to renegotiate. Furthermore, there were also reports that President Trump was told by aides that significant hurdles remain to reaching a trade agreement with China. (Newswires/Twitter)</p><p>US President Trump said on Friday they are doing fine with China regarding talks and that progress towards a deal are going \"pretty well\", while he added that a deal may happen in a couple of weeks although US will be fine if it doesn't happen. (Newswires)</p><p>US VP Pence said on Friday that US and China are still working on enforcement issues, while he added that the US are able to put further tariffs on China if necessary and that President Trump is very hopeful on China trade talks. In related news, NEC Director Kudlow commented that the US is not softening its stance on anything regarding trade talks with China. (Newswires)</p><p>US reportedly believes that the upcoming week’s US-China trade talks to end the trade war have been tempered by Beijing’s negotiators, who have suggested the tactic to “generate pressure” should not be taken “seriously”. (SCMP)</p><p>&nbsp;</p><p><strong>UK/EU</strong></p><p>UK PM May is said to be optimistic she is nearing a deal with the opposition Labour party on Brexit, while Foreign Minister Hunt commented that there is a glimmer of hope the government can reach a Brexit compromise with Labour. (Newswires/BuzzFeed)</p><p>UK government sources were said to be playing down the chances of a Brexit deal with Labour by the middle of the upcoming week and it was suggested that it’ll be the end of the week, or the following week, before we know whether an agreement is on the cards, according to PoliticsHome's Schofield. (Twitter)</p><p>UK Shadow Chancellor McDonnell poured cold water on PM May’s plan for a temporary customs union in exchange for Labour support and likened the cross-party discussions as similar to entering a contract with a company going into administration. In related news, Shadow Health Secretary Ashworth also dismissed talk of an early compromise and suggested that PM May’s proposals would risk US health giants getting their hands on the NHS, while it was also reported that Labour MPs will not back the Brexit deal without a 2nd referendum. (The Guardian/Independent)</p><p>UK Chancellor Hammond is mulling a significant hike to the minimum wage to GBP 9.61 per hour from current GBP 8.21 per hour. (The Guardian)</p><p>Portuguese PM Costa said the motion passed on Thursday is financially unsustainable and that they always balanced budget consolidation with other measures, while he warned that the government would be forced to resign if Parliament gives final approval to the budget. (Newswires)</p><p>UK Markit/CIPS Services PMI (Apr) 50.4 vs. Exp. 50.5 (Prev. 48.9). (Newswires)&nbsp;</p><p>&nbsp;</p><p><strong>COMMODITIES</strong></p><p>Baker Hughes (May 3): oil rigs +2 at 807, gas rigs -3 at 183, total rigs at 990. (Newswires)</p><p>Iran's crude oil exports to drop to 400-700k BPD in May, according to OPEC Sources citing an Iranian Official. (Newswires)</p><p>&nbsp;</p><p><strong>GEOPOLITICS</strong></p><p>US renewed sanction waiver allowing UK, Russia, China and France to continue non-proliferation work with Iran, although it could place sanctions if Iran exchanges enriched uranium for natural uranium and will permit a continuation of projects that restrict Iran's ability to restart its defunct nuclear weapons program. (Newswires)</p><p>US President Trump tweeted that North Korea leader Kim knows that “I am with him &amp; does not want to break his promise to me”, while he added a deal will happen. In related news, there were reports over the weekend that North Korea test fired several short-range missiles which travelled 70km-200km eastwards. (Newswires/Twitter)</p><p>US President Trump spoke to Russian President Putin about a potential new nuclear agreement with US, Russia and China or extending the current agreement, while Trump is said to have urged Putin to put pressure on North Korea to denuclearise and described the talk as productive. (Newswires)</p><p>Venezuelan Interim President Guaido suggested that they are \"very close\" to a Venezuelan regime change. (Newswires)</p><p>&nbsp;</p><p><strong>US</strong></p><p>Fed's Bullard (Voter, Dove) said he is open to rate cut if inflation is still low after the summer, while he added that Fed policy is a little tight and that low inflation as well as inflation expectations are concerning. (Newswires)</p><p>Fed's Clarida (Voter, Neutral) said inflation is muted but sees inflation expectations as stable, while he described the US economy as being at, or close to, the Fed's objectives on both inflation and unemployment. Furthermore, Clarida suggested the economy is in a \"very good place\" and the Fed can afford to monitor incoming data. (Newswires)</p><p>Fed's Evans (Voter, Neutral) says an interest rate cut may be needed if the economy softens and that hikes may be needed if inflation moves strongly upwards. Evans added that downside risk appear larger than the upside risks and a prudent approach to policy is warranted. (Newswires)</p><p>Fed's Kaplan (Voter, Neutral) said the Fed is in the neighbourhood of neutral rates and that he views economic growth at roughly 2.25% this year, while he is worried about weak growth in the Eurozone and its effect on the US. (Newswires)</p><p>Fed’s Daly (Non-Voter, Dove) said inflation has consistently fallen below the Fed target and stated the economy is in a good state so now is the time to examine the Fed framework, while she added that an average inflation target would be a more attractive option. (Newswires)</p><p>Fed's Mester (Non-voter, Hawk) said she does not believe in a rate cut yet. (Newswires)</p><p>Thomas A. Roe Institute for Economic Policy Studies Director Paul Winfree is being considered for the Federal Reserve, according to sources. (WSJ)</p><p>Data Recap</p><ul><li>US Non-Farm Payrolls (Apr) 263k vs. Exp. 185.0k (Prev. 196.0k, Rev. 189k), Two-month net revisions +16K (Prev. +14K)&nbsp;</li><li>US Unemployment Rate (Apr) 3.6% vs. Exp. 3.8% (Prev. 3.8%)&nbsp;</li><li>US Average Earnings (Apr) M/M 0.2% vs. Exp. 0.3% (Prev. 0.1%, Rev. 0.2%)&nbsp;</li><li>US Average Earnings (Apr) Y/Y 3.2% vs. Exp. 3.3% (Prev. 3.2%)&nbsp;</li><li>US Adv Goods Trade Balance (Mar) -71.45B (Prev. -80.39B, Rev. -80.38B)&nbsp;</li><li>US ISM Non-Manufacturing PMI (Apr) 55.5 vs. Exp. 57.0 (Prev. 56.1)&nbsp;</li><li>US Markit Services PMI (Apr F) 53.0 (Prev. 52.9)&nbsp;</li><li>US Markit Comp PMI (Apr F) 53.0 (Prev. 52.8)&nbsp;</li></ul><p>&nbsp;</p><p><strong>MARKET RECAP</strong></p><p>JP Morgan Chase (JPM) opened higher after the investment bank signed a memorandum of understanding with Microsoft to develop its blockchain business, shrugging off news that the firm expect aggregate legal losses to total USD 1.4bln. Microsoft (MSFT) shares also moved higher. Amazon (AMZN) gained in the pre-market after Warren Buffet said that Berkshire Hathaway had been buying shares in the e-commerce co. Facebook (FB) moved higher on reports that the social media giant is in talks with MA V looks to build crypto payments system. American Express (AXP) opened higher on an upgrade at Morgan Stanley. Activision (ATVI) opened lower despite beating analyst expectations on both the top &amp; bottom lines. Tesla (TSLA) moved higher on reports that the electric automaker were to boost their convertible notes offering to USD 1.6bln with CEO Musk now set to buy 25k shares. Arista Networks (ANET) fell substantially at the open, despite beating on the bottom line, as the firm downgraded Q2 guidance. EOG Resources (EOG) opened higher after the hydro-carbon exploration co reported earnings that beat on the bottom line and the firm raised its dividend. Fox Corp (FOX, FOXA) shares reversed early losses after the broadcaster announced plans to build a new media centre in Arizona. Monster (MNST) jumped at the open on better than expected top and bottom-line earnings. Herbalife Nutrition (HLF) opened lower after the firm missed analyst expectations on both the top and bottom lines and cut FY19 guidance. Cigna Corp’s (CI) stock price suffered on a downgraded at Goldman Sachs. Energy names, including Chevron (CVX), ExxonMobil (XOM) and ConocoPhillips (COP) rose as crude prices grinded higher. SPX +1% at 2945, NDX +1.6% at 7846, DJI +0.8% at 26504.</p><p>UST futures closed out the week lower on the day after a blow-out headline figure for NFPs, which saw some volatile action upon the release as average hourly earnings missed on their 0.3% and 3.3% forecast (0.2% and 3.2% respectively). Thus, 10yr yields didn’t sustain their initial bid and failed to break its 50DMA, with the bounce linked a block of 6k TYM9 supposedly lifted by a hedge fund. Thereafter, 7k USM9s were bought ahead of the ISM results, with the fixed income complex gaining speed afters some disappointing results. Fed speakers then took centre stage, with a largely neutral tone exhibited that fell in-line with FOMC guidance, ex-Evans, leading T-notes to trade within ranges heading into the close. US T-note futures (m9) settle 13 ticks higher at 61.94.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-asia-pac-opening-news-05-05-2019",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-05-06 05:55:00",
+        "gmt_time": "2019-05-05 21:55:00"
+    },
+    {
+        "id": 867395,
+        "updated_sequence": 1845375,
+        "published_at": {
+            "unix": 1557092040,
+            "text": "2019-05-05 22:34:00 +0100",
+            "iso_8601": "2019-05-05T21:34:00Z"
+        },
+        "updated_at": {
+            "unix": 1557092105,
+            "text": "2019-05-05 22:35:05 +0100",
+            "iso_8601": "2019-05-05T21:35:05Z"
+        },
+        "subject": "Westpac (WBC AT) H1 statutory net fell 24% Y/Y to AUD 3.17bln, proposes interim dividend of AUD 0.94/Shr",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "westpac-wbc-at-h1-statutory-net-fell-24-y-y-to-aud-3-17bln-proposes-interim-dividend-of-aud-0-94-shr-05-05-2019",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-05-06 05:34:00",
+        "gmt_time": "2019-05-05 21:34:00"
+    },
+    {
+        "id": 867205,
+        "updated_sequence": 1845359,
+        "published_at": {
+            "unix": 1557090000,
+            "text": "2019-05-05 22:00:00 +0100",
+            "iso_8601": "2019-05-05T21:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1557090000,
+            "text": "2019-05-05 22:00:00 +0100",
+            "iso_8601": "2019-05-05T21:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-02-05-2019",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-05-06 05:00:00",
+        "gmt_time": "2019-05-05 21:00:00"
+    },
+    {
+        "id": 867394,
+        "updated_sequence": 1845372,
+        "published_at": {
+            "unix": 1557090000,
+            "text": "2019-05-05 22:00:00 +0100",
+            "iso_8601": "2019-05-05T21:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1557091505,
+            "text": "2019-05-05 22:25:05 +0100",
+            "iso_8601": "2019-05-05T21:25:05Z"
+        },
+        "subject": "Early flows seen into safe haven JPY, while high-beta currencies are pressured on return from the weekend after President Trump tweeted that US tariffs on Chinese goods will be increased",
+        "content": "<p>US President Trump tweeted that For '10 months, China has been paying Tariffs to the USA of 25% on 50 Billion Dollars of High Tech, and 10% on 200 Billion Dollars of other goods. These payments are partially responsible for our great economic results. The 10% will go up to 25% on Friday. 325 Billions Dollars... of additional goods sent to us by China remain untaxed, but will be shortly, at a rate of 25%. The Tariffs paid to the USA have had little impact on product cost, mostly borne by China. The Trade Deal with China continues, but too slowly, as they attempt to renegotiate. No!' (Twitter)</p><p>Furthermore, there were also reports that President Trump was told by aides that significant hurdles remain to reaching a trade agreement with China.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "early-flows-seen-into-safe-haven-jpy-while-high-beta-currencies-are-pressured-on-return-from-the-weekend-after-president-trump-tweeted-that-us-tariffs-on-chinese-goods-will-be-increased-05-05-2019",
+        "hidden": false,
+        "section": {
+            "id": 27,
+            "name": "Economic Commentary"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2019-05-06 05:00:00",
+        "gmt_time": "2019-05-05 21:00:00"
+    }
+]

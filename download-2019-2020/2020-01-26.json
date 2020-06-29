@@ -1,0 +1,566 @@
+[
+    {
+        "id": 905437,
+        "updated_sequence": 2084356,
+        "published_at": {
+            "unix": 1580083080,
+            "text": "2020-01-26 23:58:00 +0000",
+            "iso_8601": "2020-01-26T23:58:00Z"
+        },
+        "updated_at": {
+            "unix": 1580085028,
+            "text": "2020-01-27 00:30:28 +0000",
+            "iso_8601": "2020-01-27T00:30:28Z"
+        },
+        "subject": "China National Health Commission confirms 2744 cases of coronavirus and death toll at 80 as of the end of January 26th",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>As a reminder, China had previously confirmed 1975 cases and 56 deaths as of end-Jan. 25th.</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1580085028,
+            "text": "2020-01-27 00:30:28 +0000",
+            "iso_8601": "2020-01-27T00:30:28Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "china-national-health-commission-confirms-2744-cases-of-coronavirus-and-death-toll-at-80-as-of-the-end-of-january-26th-26-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-27 07:58:00",
+        "gmt_time": "2020-01-26 23:58:00"
+    },
+    {
+        "id": 905436,
+        "updated_sequence": 2084336,
+        "published_at": {
+            "unix": 1580082600,
+            "text": "2020-01-26 23:50:00 +0000",
+            "iso_8601": "2020-01-26T23:50:00Z"
+        },
+        "updated_at": {
+            "unix": 1580082725,
+            "text": "2020-01-26 23:52:05 +0000",
+            "iso_8601": "2020-01-26T23:52:05Z"
+        },
+        "subject": "China extends Lunar New Year holiday to February 2nd to contain coronavirus, according to Xinhua",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>As a reminder, Chinese markets had been set to re-open this Friday, &nbsp;although that will now be pushed back to next Monday.</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1580082724,
+            "text": "2020-01-26 23:52:04 +0000",
+            "iso_8601": "2020-01-26T23:52:04Z"
+        },
+        "push_notify": false,
+        "source": "Xinhua",
+        "slug": "china-extends-lunar-new-year-holiday-to-february-2nd-to-contain-coronavirus-according-to-xinhua-26-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-27 07:50:00",
+        "gmt_time": "2020-01-26 23:50:00"
+    },
+    {
+        "id": 905435,
+        "updated_sequence": 2084331,
+        "published_at": {
+            "unix": 1580082420,
+            "text": "2020-01-26 23:47:00 +0000",
+            "iso_8601": "2020-01-26T23:47:00Z"
+        },
+        "updated_at": {
+            "unix": 1580082513,
+            "text": "2020-01-26 23:48:33 +0000",
+            "iso_8601": "2020-01-26T23:48:33Z"
+        },
+        "subject": "PRE-MARKET JAPANESE STOCK NEWS: Japan FSA is to require banks to hold additional capital for stock losses which is viewed as an effort to discourage practice of cross-shareholdings; South Korea is closed",
+        "content": "<p>Fast Retailing (9983 JT) - Co. temporarily shuts 17 Uniqlo stores in Wuhan due to coronavirus worries. (Newswires)</p><p>GMO Internet (9449 JT) - Co. had 90% of its workforce work from home for next 2 weeks due to coronavirus. (Newswires)</p><p>Matsui Securities (8628 JT) - Co.9-month parent net fell 44.2% Y/Y to JPY 4.40bln. (Newswires)</p><p>Nippon Paint (4612 JT) - Co. lowers FY net forecast to JPY 35.5bln from JPY 39.0bln but raises rev. forecast to JPY 694bln from JPY 640bln. (Newswires)</p><p>Nissan (7201 JT) - Co. engineering head will meet with counterpart from Renault (RNO FP) as they seek to revive R&amp;D projects for the alliance. (Newswires)</p><p>Other News - Japan FSA is to require banks to hold additional capital for stock losses which is viewed as an effort to discourage practice of cross-shareholdings. (Newswires)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "pre-market-japanese-stock-news-japan-fsa-is-to-require-banks-to-hold-additional-capital-for-stock-losses-which-is-viewed-as-an-effort-to-discourage-practice-of-cross-shareholdings-south-korea-is-closed-26-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-27 07:47:00",
+        "gmt_time": "2020-01-26 23:47:00"
+    },
+    {
+        "id": 905434,
+        "updated_sequence": 2084403,
+        "published_at": {
+            "unix": 1580081520,
+            "text": "2020-01-26 23:32:00 +0000",
+            "iso_8601": "2020-01-26T23:32:00Z"
+        },
+        "updated_at": {
+            "unix": 1580098690,
+            "text": "2020-01-27 04:18:10 +0000",
+            "iso_8601": "2020-01-27T04:18:10Z"
+        },
+        "subject": "UK PM Johnson is expected to decide as early as this week regarding US request to ban Huawei from the UK 5G network which could impact the UK-US \"special relationship\", according to Axios",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Axios",
+        "slug": "uk-pm-johnson-is-expected-to-decide-as-early-as-this-week-regarding-us-request-to-ban-huawei-from-the-uk-5g-network-which-could-impact-the-uk-us-special-relationship-according-to-axios-26-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-27 07:32:00",
+        "gmt_time": "2020-01-26 23:32:00"
+    },
+    {
+        "id": 905433,
+        "updated_sequence": 2084325,
+        "published_at": {
+            "unix": 1580081400,
+            "text": "2020-01-26 23:30:00 +0000",
+            "iso_8601": "2020-01-26T23:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1580081553,
+            "text": "2020-01-26 23:32:33 +0000",
+            "iso_8601": "2020-01-26T23:32:33Z"
+        },
+        "subject": "Unpublished manuscript from former National Security Adviser Bolton states President Trump told him in August that he wanted to continue freezing security aid to Ukraine until they helped with investigations into Democrats including the Bidens",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "NYT",
+        "slug": "unpublished-manuscript-from-former-national-security-adviser-bolton-states-president-trump-told-him-in-august-that-he-wanted-to-continue-freezing-security-aid-to-ukraine-until-they-helped-with-investigations-into-democrats-including-the-bide-26-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-27 07:30:00",
+        "gmt_time": "2020-01-26 23:30:00"
+    },
+    {
+        "id": 905432,
+        "updated_sequence": 2084367,
+        "published_at": {
+            "unix": 1580080860,
+            "text": "2020-01-26 23:21:00 +0000",
+            "iso_8601": "2020-01-26T23:21:00Z"
+        },
+        "updated_at": {
+            "unix": 1580092604,
+            "text": "2020-01-27 02:36:44 +0000",
+            "iso_8601": "2020-01-27T02:36:44Z"
+        },
+        "subject": "Italy League Leader Salvini says not ready to concede defeat in Emilia Romagna regional election and is awaiting fuller count",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>Reports suggested that the Centre-Left were ahead by 10 points against the League in Emilia Romagna, while the League are set for a comfortable win in Calabria.</li><li>These regional elections are seen as a key test for Italy's fragile coalition which reports suggested could collapse if the League win these key regional votes, while Salvini had also threatened to evict the government if his party are victorious in the 2 regions.</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1580081280,
+            "text": "2020-01-26 23:28:00 +0000",
+            "iso_8601": "2020-01-26T23:28:00Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "italy-league-leader-salvini-says-not-ready-to-concede-defeat-in-emilia-romagna-regional-election-and-is-awaiting-fuller-count-26-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-27 07:21:00",
+        "gmt_time": "2020-01-26 23:21:00"
+    },
+    {
+        "id": 905431,
+        "updated_sequence": 2084317,
+        "published_at": {
+            "unix": 1580080260,
+            "text": "2020-01-26 23:11:00 +0000",
+            "iso_8601": "2020-01-26T23:11:00Z"
+        },
+        "updated_at": {
+            "unix": 1580080669,
+            "text": "2020-01-26 23:17:49 +0000",
+            "iso_8601": "2020-01-26T23:17:49Z"
+        },
+        "subject": "China Hubei province notes 1423 new conronavirus cases and 76 deaths as of the end of January 26th, according to a statement",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>As a reminder, other reports noted that the total confirmed cases in mainland China was at over 2000 and the number of deaths at 56, while twitter sources later noted the death toll has increased to 80.</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1580080440,
+            "text": "2020-01-26 23:14:00 +0000",
+            "iso_8601": "2020-01-26T23:14:00Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "china-hubei-province-notes-1423-new-conronavirus-cases-and-76-deaths-as-of-the-end-of-january-26th-according-to-a-statement-26-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-27 07:11:00",
+        "gmt_time": "2020-01-26 23:11:00"
+    },
+    {
+        "id": 905430,
+        "updated_sequence": 2084310,
+        "published_at": {
+            "unix": 1580080080,
+            "text": "2020-01-26 23:08:00 +0000",
+            "iso_8601": "2020-01-26T23:08:00Z"
+        },
+        "updated_at": {
+            "unix": 1580080220,
+            "text": "2020-01-26 23:10:20 +0000",
+            "iso_8601": "2020-01-26T23:10:20Z"
+        },
+        "subject": "Twitter sources state the epicenter of the coronavirus confirmed 371 new cases and 24 deaths to increase the death toll to 80",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "twitter-sources-state-the-epicenter-of-the-coronavirus-confirmed-371-new-cases-and-24-deaths-to-increase-the-death-toll-to-80-26-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-27 07:08:00",
+        "gmt_time": "2020-01-26 23:08:00"
+    },
+    {
+        "id": 905429,
+        "updated_sequence": 2084307,
+        "published_at": {
+            "unix": 1580079660,
+            "text": "2020-01-26 23:01:00 +0000",
+            "iso_8601": "2020-01-26T23:01:00Z"
+        },
+        "updated_at": {
+            "unix": 1580080023,
+            "text": "2020-01-26 23:07:03 +0000",
+            "iso_8601": "2020-01-26T23:07:03Z"
+        },
+        "subject": "Risk off sentiment observed across asset classes at the reopen of electronic trade with US equity futures down 0.9% and WTI declining by nearly 2%, while T-notes are higher by around 13 ticks and spot gold up by USD 9/oz amid heigtened coronavirus fears",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>As a reminder, China China warned that the coronavirus is getting stronger and the number of cases could increase, while the total confirmed cases in mainland China was at 2062 and the number of deaths at 56 (Prev. 903 cases and 25 deaths reported on Friday). In addition there were further cases reported abroad including the 5th confirmed case in US.</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1580080022,
+            "text": "2020-01-26 23:07:02 +0000",
+            "iso_8601": "2020-01-26T23:07:02Z"
+        },
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "risk-off-sentiment-observed-across-asset-classes-at-the-reopen-of-electronic-trade-with-us-equity-futures-down-0-9-and-wti-declining-by-nearly-2-while-t-notes-are-higher-by-around-13-ticks-and-spot-gold-up-by-usd-9-oz-amid-heigtened-coron-26-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-27 07:01:00",
+        "gmt_time": "2020-01-26 23:01:00"
+    },
+    {
+        "id": 905428,
+        "updated_sequence": 2084294,
+        "published_at": {
+            "unix": 1580077860,
+            "text": "2020-01-26 22:31:00 +0000",
+            "iso_8601": "2020-01-26T22:31:00Z"
+        },
+        "updated_at": {
+            "unix": 1580078009,
+            "text": "2020-01-26 22:33:29 +0000",
+            "iso_8601": "2020-01-26T22:33:29Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASES: No data scheduled, Australia, China, Hong Kong, Singapore, South Korea and Taiwan are all closed today",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "asian-daily-economic-releases-no-data-scheduled-australia-china-hong-kong-singapore-south-korea-and-taiwan-are-all-closed-today-26-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 26,
+            "name": "Newsquawk Update"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-27 06:31:00",
+        "gmt_time": "2020-01-26 22:31:00"
+    },
+    {
+        "id": 905427,
+        "updated_sequence": 2084291,
+        "published_at": {
+            "unix": 1580077680,
+            "text": "2020-01-26 22:28:00 +0000",
+            "iso_8601": "2020-01-26T22:28:00Z"
+        },
+        "updated_at": {
+            "unix": 1580077782,
+            "text": "2020-01-26 22:29:42 +0000",
+            "iso_8601": "2020-01-26T22:29:42Z"
+        },
+        "subject": "Saudi Energy Minister says Saudi and OPEC+ producers have capability and flexibility required to respond to any developments by taking necessary action to support oil market stability if required",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "saudi-energy-minister-says-saudi-and-opec-producers-have-capability-and-flexibility-required-to-respond-to-any-developments-by-taking-necessary-action-to-support-oil-market-stability-if-required-26-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 20,
+            "name": "Commodities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-27 06:28:00",
+        "gmt_time": "2020-01-26 22:28:00"
+    },
+    {
+        "id": 905426,
+        "updated_sequence": 2084288,
+        "published_at": {
+            "unix": 1580077260,
+            "text": "2020-01-26 22:21:00 +0000",
+            "iso_8601": "2020-01-26T22:21:00Z"
+        },
+        "updated_at": {
+            "unix": 1580077359,
+            "text": "2020-01-26 22:22:39 +0000",
+            "iso_8601": "2020-01-26T22:22:39Z"
+        },
+        "subject": "Saudi Energy Minister says closely observing developments in global oil market resulting from gloomy expectations regarding impact from coronavirus",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "saudi-energy-minister-says-closely-observing-developments-in-global-oil-market-resulting-from-gloomy-expectations-regarding-impact-from-coronavirus-26-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 20,
+            "name": "Commodities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-27 06:21:00",
+        "gmt_time": "2020-01-26 22:21:00"
+    },
+    {
+        "id": 905425,
+        "updated_sequence": 2084426,
+        "published_at": {
+            "unix": 1580077080,
+            "text": "2020-01-26 22:18:00 +0000",
+            "iso_8601": "2020-01-26T22:18:00Z"
+        },
+        "updated_at": {
+            "unix": 1580106192,
+            "text": "2020-01-27 06:23:12 +0000",
+            "iso_8601": "2020-01-27T06:23:12Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p><strong>ASIA-PAC</strong></p><p>China warned that the coronavirus is getting stronger and the number of cases could increase, while the total confirmed cases in mainland China was at 2062 and the number of deaths at 56. (Newswires/Sky)</p><p>US confirmed the country’s 5th coronavirus case, while it was reportedly arranging a charter flight to evacuate its diplomats and citizens from Wuhan. (Newswires)</p><p>France declared the first confirmed case of coronavirus in Bordeaux on Friday and another case was declared around Paris, according to the French Health Minister who noted it is likely there will be other cases. (Newswires)</p><p>US Treasury Secretary Mnuchin said there is no difference in views on the timing for kicking off phase two trade discussions, while he believes that China will issue further tariff waivers. (Newswires)</p><p>India is said to be likely to raise custom duties on over 50 items on February 1st budget in an attempt to curb cheap imports from China, ASEAN countries and elsewhere in which it targets around USD 56bln worth of imports at 5-10%, according to sources. (Newswires)</p><p>&nbsp;</p><p><strong>UK/EU</strong></p><p>UK Brexit Secretary Barclay said the UK will layout more details next month regarding its objective for a FTA with the EU. (Newswires)</p><p>EU is to request its partners around the world to temporarily treat UK as part of the bloc in a diplomatic note to be sent to over 160 countries as it tries to navigate through the transition period. (FT)&nbsp;</p><p>EU will seek to sanction the UK for breaching any deal on a future relationship as it looks to prevent \"competitive undercutting or freeriding\" from UK companies post-Brexit, according to a report citing an internal document. (FT)</p><p>ECB’s Villeroy (Hawkish) said fiscal stimulus should be quicker and stronger in Europe, while he added the ECB need to better measure inflation expectations. (Newswires)</p><p>ECB’s Knot (Hawk) stated there are some signs that underlying inflation is rising but noted it is too early to be optimistic, while Knot also said he sees no reason to expect a fundamental change interest rates for the years ahead. (Newswires)</p><p>Fitch raised Greece to BB from BB-; Outlook revised to Stable from Positive, while it affirmed Finland at AA+; Outlook revised to Stable from Positive. (Newswires)</p><ul><li>UK Flash Manufacturing PMI (Jan) 49.8 vs. Exp. 48.9 (Prev. 47.5). (Newswires)</li><li>UK Flash Services PMI (Jan) 52.9 vs. Exp. 51.0 (Prev. 50.0)</li><li>UK Flash Composite PMI (Jan) 52.4 vs. Exp. 50.6 (Prev. 49.3)</li><li>EU Markit Manufacturing Flash PMI (Jan) 47.8 vs. Exp. 46.8 (Prev. 46.3)</li><li>EU Markit Services Flash PMI (Jan) 52.2 vs. Exp. 52.8 (Prev. 52.8)</li><li>EU Markit Composite Flash PMI (Jan) 50.9 vs. Exp. 51.2 (Prev. 50.9)</li></ul><p>&nbsp;</p><p><strong>COMMODITIES</strong></p><p>Baker Hughes Rig Count Oil +3 at 676, Nat gas -5 at 115, Total -2 at 794. (Newswires)</p><p>OPEC+ have reportedly discussed an output cut extension until the end of 2020 and may review quotas in June, while OPEC+ are said to be unlikely to ease cuts in March as markets are still bearish, according to reports citing sources. (Tass)</p><p>&nbsp;</p><p><strong>GEOPOLITICS</strong></p><p>Iran nuclear agency deputy chief said they have the capacity to enrich uranium at any percentage if the government decides to. (Newswires)</p><p>There was an attack on the US embassy in Baghdad, Iraq where 3 rockets hit the embassy, while other reports noted there were injuries and increased US military activity following the strike. (Newswires)</p><p>Turkish President Erdogan said LIbya's Haftar is continuing attacks and cannot be trusted to adhere to a ceasefire. (Newswires)</p><p><strong>GLOBAL NEWS</strong></p><p>A magnitude 6.8 earthquake occurred in Turkey on Friday which has so far claimed 38 lives. (Newswires)</p><p>&nbsp;</p><p><strong>US</strong></p><p>US President Trump’s administration widened its steel and aluminium tariffs to include certain imported nails, staples, electrical wires and some downstream components used in autos and tractors. In other news, US President Trump said US could save 50% on drugs purchased from abroad and that the administration will announce drug price policy changes soon. (Newswires)</p><ul><li>US Markit Manufacturing PMI Flash (Jan) 51.7 vs. Exp. 52.5 (Prev. 52.4). (Newswires)</li><li>US Markit Services PMI Flash (Jan) 53.2 vs. Exp. 52.9 (Prev. 52.8)</li><li>US Markit Composite Flash PMI (Jan) 53.1 (Prev. 52.7)</li></ul><p>&nbsp;</p><p><strong>MARKET RECAP</strong></p><p>Intel (INTC) reported a stellar quarter and guidance, with strong growth in its cloud and data centre unit, seeing the stock surge, as well as supporting competitors such as Nvidia (NVDA). American Express (AXP) was another top Dow performer after beating top and bottom, helped by allow tax rate, in addition to firm guidance. Boeing (BA) reversed its losses after the FAA suggested that mid-year 737 MAX approval timeline was “conservative”. Broadcom (AVGO) made solid gains after it entered a multi-year supply contract with Apple (AAPL), leading to losses in Skyworks (SWKS) as pessimism grew on how much iPhone-related business it can now tap. SPX -0.90% AT 3295; DOW -0.58% AT 28990; NDX -0.82% AT 9141.</p><p>The TPLEX was bid on Friday, particularly in the long end, as risk appetite dissolved due to the ongoing coronavirus. The move higher in the T-Note coincided with Spoos being offered (falling beneath 3200) in the latter part of the European session, the move lower in yields was exacerbated following the US PMIs, which were by no means disastrous, appeared more of an obstacle for participants to get out the way before moving into Treasuries ahead of the weekend – where concerns linger on the threats posed globally by the coronavirus. Note that some heavy block trades were noted after the T-Note passed the 130-00 level; some analysts note a slew of short covering as prices move closer to concentrated option strikes, specifically 130-16 and 130-25, although the key 1.67% figure in the 10-year yield served as resistance for the benchmark, but loomed close in the tail end of the day. By settlement, the Treasury curve had bull-flattened, where the 2s10s fell just beneath the 20bps figure: 2-year yield down 2bps and 10-year yield down 5bps. US T-note futures (H0) settled 16 ticks higher at 130-09.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "daily-asia-pac-opening-news-26-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-27 06:18:00",
+        "gmt_time": "2020-01-26 22:18:00"
+    },
+    {
+        "id": 905424,
+        "updated_sequence": 2084282,
+        "published_at": {
+            "unix": 1580076540,
+            "text": "2020-01-26 22:09:00 +0000",
+            "iso_8601": "2020-01-26T22:09:00Z"
+        },
+        "updated_at": {
+            "unix": 1580076638,
+            "text": "2020-01-26 22:10:38 +0000",
+            "iso_8601": "2020-01-26T22:10:38Z"
+        },
+        "subject": "Italy's centre-left are ahead of League in Emilia Romagna, although League is set for an easy win in Calabria in the regional votes",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "italy-s-centre-left-are-ahead-of-league-in-emilia-romagna-although-league-is-set-for-an-easy-win-in-calabria-in-the-regional-votes-26-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-27 06:09:00",
+        "gmt_time": "2020-01-26 22:09:00"
+    },
+    {
+        "id": 905423,
+        "updated_sequence": 2084279,
+        "published_at": {
+            "unix": 1580076240,
+            "text": "2020-01-26 22:04:00 +0000",
+            "iso_8601": "2020-01-26T22:04:00Z"
+        },
+        "updated_at": {
+            "unix": 1580076456,
+            "text": "2020-01-26 22:07:36 +0000",
+            "iso_8601": "2020-01-26T22:07:36Z"
+        },
+        "subject": "Early flows into the safehaven JPY to start the trading week following an increase in the number of coronavirus cases to over 2000 and with the death toll at 56, while China also warns virus is getting stronger and infections could rise",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "early-flows-into-the-safehaven-jpy-to-start-the-trading-week-following-an-increase-in-the-number-of-coronavirus-cases-to-over-2000-and-with-the-death-toll-at-56-while-china-also-warns-virus-is-getting-stronger-and-infections-could-rise-26-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-27 06:04:00",
+        "gmt_time": "2020-01-26 22:04:00"
+    },
+    {
+        "id": 905249,
+        "updated_sequence": 2084273,
+        "published_at": {
+            "unix": 1580076000,
+            "text": "2020-01-26 22:00:00 +0000",
+            "iso_8601": "2020-01-26T22:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1580076000,
+            "text": "2020-01-26 22:00:00 +0000",
+            "iso_8601": "2020-01-26T22:00:00Z"
+        },
+        "subject": "ASIA-PAC SERVICE IS NOW LIVE FOR TODAY'S SESSION",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "RANsquawk",
+        "slug": "asia-pac-service-is-now-live-for-today-s-session-23-01-2020",
+        "hidden": false,
+        "section": {
+            "id": 36,
+            "name": "Asian News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-01-27 06:00:00",
+        "gmt_time": "2020-01-26 22:00:00"
+    }
+]

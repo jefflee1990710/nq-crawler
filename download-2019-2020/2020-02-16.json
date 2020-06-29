@@ -1,0 +1,422 @@
+[
+    {
+        "id": 909064,
+        "updated_sequence": 2112299,
+        "published_at": {
+            "unix": 1581897180,
+            "text": "2020-02-16 23:53:00 +0000",
+            "iso_8601": "2020-02-16T23:53:00Z"
+        },
+        "updated_at": {
+            "unix": 1581897247,
+            "text": "2020-02-16 23:54:07 +0000",
+            "iso_8601": "2020-02-16T23:54:07Z"
+        },
+        "subject": "Chevron's 225k BPD Richmond California refinery has reported a plant upset ",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "chevron-s-225k-bpd-richmond-california-refinery-has-reported-a-plant-upset-16-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 20,
+            "name": "Commodities"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 07:53:00",
+        "gmt_time": "2020-02-16 23:53:00"
+    },
+    {
+        "id": 909055,
+        "updated_sequence": 2112270,
+        "published_at": {
+            "unix": 1581894960,
+            "text": "2020-02-16 23:16:00 +0000",
+            "iso_8601": "2020-02-16T23:16:00Z"
+        },
+        "updated_at": {
+            "unix": 1581895033,
+            "text": "2020-02-16 23:17:13 +0000",
+            "iso_8601": "2020-02-16T23:17:13Z"
+        },
+        "subject": "PRE-MARKET JAPANESE AND SOUTH KOREA STOCK NEWS: Japan and China have agreed to continue preparations for Chinese President Xi’s state visit despite the virus outbreak. (Japan Times)",
+        "content": "<p><strong>JAPAN</strong></p><p>Sony (6758 JT) – Co. is reportedly unable to et PlayStation 5 manufacturing costs below USD 450/unit. (Newswires)</p><p>Softbank (9984 JT) – Reports note that Chairman Son’s other projects have faced difficulties not too dissimilar to WeWok. (Newswires)</p><p>NHK Spring (5951 JT) – Two former executives have been indicated for alleged price fixing. (Newswires)</p><p>FUJITSU (6207 JT) REITERATED WITH OVERWEIGHT AT JPMORGAN CHASE</p><p>Other News</p><p>- Japan will be monitoring lending rates of merged regional banks. (Nikkei)</p><p>- Japan and China have agreed to continue preparations for Chinese President Xi’s state visit despite the virus outbreak. (Japan Times)</p><p>- Japanese PM Abe’s Cabinet approval rating fell to 41%, -8.3 points, representing the sharpest fall in two years. 82.5% of those in the poll stated that they are worried or “worried to an extent” about the impact of the nCoV outbreak. (Japan Times)</p><p>&nbsp;</p><p><strong>SOUTH KOREA</strong></p><p>LG Chem (051910 KS) – Co. has received favourable interim ruling in trades secret case with South Korea. (Newswires)</p><p>Samsung Electronics (005935 KS) – Co. will resume operations at its TV factory in Tianjin. (Newswires)</p><p>Celltrion (068270 KS) – Co. has showcased positive 1yr result for novel subcutaneous formation of infliximab with active Crohn’s disease. (Newswires)</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "pre-market-japanese-and-south-korea-stock-news-japan-and-china-have-agreed-to-continue-preparations-for-chinese-president-xi-s-state-visit-despite-the-virus-outbreak-japan-times-16-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 07:16:00",
+        "gmt_time": "2020-02-16 23:16:00"
+    },
+    {
+        "id": 909054,
+        "updated_sequence": 2112267,
+        "published_at": {
+            "unix": 1581894660,
+            "text": "2020-02-16 23:11:00 +0000",
+            "iso_8601": "2020-02-16T23:11:00Z"
+        },
+        "updated_at": {
+            "unix": 1581894924,
+            "text": "2020-02-16 23:15:24 +0000",
+            "iso_8601": "2020-02-16T23:15:24Z"
+        },
+        "subject": "Syrian army forces target the Turkish point stationed in the area of Sheikh Aqeel north of Aleppo city with a number of artillery shells, according to Sky News Arabia citing field sources",
+        "content": "<ul><li><a href=\"https://twitter.com/SkyNewsArabia_B/status/1229181216856907778\">Link to tweet</a></li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>This comes after Syrian government strengthened their position in Aleppo over the weekend by capturing the strategic Al-Zahra’a Association Quarter in the northwestern part of Aleppo city, neighbouring Idlib</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1581894924,
+            "text": "2020-02-16 23:15:24 +0000",
+            "iso_8601": "2020-02-16T23:15:24Z"
+        },
+        "push_notify": false,
+        "source": "Twitter",
+        "slug": "syrian-army-forces-target-the-turkish-point-stationed-in-the-area-of-sheikh-aqeel-north-of-aleppo-city-with-a-number-of-artillery-shells-according-to-sky-news-arabia-citing-field-sources-16-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 23,
+            "name": "Geopolitical"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 07:11:00",
+        "gmt_time": "2020-02-16 23:11:00"
+    },
+    {
+        "id": 909052,
+        "updated_sequence": 2112259,
+        "published_at": {
+            "unix": 1581893520,
+            "text": "2020-02-16 22:52:00 +0000",
+            "iso_8601": "2020-02-16T22:52:00Z"
+        },
+        "updated_at": {
+            "unix": 1581893807,
+            "text": "2020-02-16 22:56:47 +0000",
+            "iso_8601": "2020-02-16T22:56:47Z"
+        },
+        "subject": "China's coronavirus death toll reaches 1765, according to the Chinese government cited by AFP",
+        "content": "<ul><li><a href=\"https://twitter.com/AFP/status/1229176635531890690\">Link to tweet</a></li></ul>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>On February 14th, China’s total coronavirus cases was at 66492 and death toll at 1523</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1581893580,
+            "text": "2020-02-16 22:53:00 +0000",
+            "iso_8601": "2020-02-16T22:53:00Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "china-s-coronavirus-death-toll-reaches-1765-according-to-the-chinese-government-cited-by-afp-16-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 06:52:00",
+        "gmt_time": "2020-02-16 22:52:00"
+    },
+    {
+        "id": 909051,
+        "updated_sequence": 2112254,
+        "published_at": {
+            "unix": 1581893220,
+            "text": "2020-02-16 22:47:00 +0000",
+            "iso_8601": "2020-02-16T22:47:00Z"
+        },
+        "updated_at": {
+            "unix": 1581893498,
+            "text": "2020-02-16 22:51:38 +0000",
+            "iso_8601": "2020-02-16T22:51:38Z"
+        },
+        "subject": "China's Hubei province reports 1933 new coronavirus cases and 100 additional deaths as of February 16th with total of 58182 cases and 1696 deaths in the province, according to the local health commissioner",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "<ul><li>This is compared to 2420 new coronavirus cases and 139 additional deaths as of February 14th</li></ul>",
+        "analysis_updated_at": {
+            "unix": 1581893340,
+            "text": "2020-02-16 22:49:00 +0000",
+            "iso_8601": "2020-02-16T22:49:00Z"
+        },
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "china-s-hubei-province-reports-1933-new-coronavirus-cases-and-100-additional-deaths-as-of-february-16th-with-total-of-58182-cases-and-1696-deaths-in-the-province-according-to-the-local-health-commissioner-16-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": true,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 06:47:00",
+        "gmt_time": "2020-02-16 22:47:00"
+    },
+    {
+        "id": 909050,
+        "updated_sequence": 2112249,
+        "published_at": {
+            "unix": 1581891960,
+            "text": "2020-02-16 22:26:00 +0000",
+            "iso_8601": "2020-02-16T22:26:00Z"
+        },
+        "updated_at": {
+            "unix": 1581892092,
+            "text": "2020-02-16 22:28:12 +0000",
+            "iso_8601": "2020-02-16T22:28:12Z"
+        },
+        "subject": "PRE-MARKET AUSTRALIAN STOCK NEWS: ASX poised for a softer open with investors cautious as markets teeters near record highs. (The Australian)",
+        "content": "<p>Bendingo and Adelaide Bank (BEN AT) – H1 net AUD 145.8mln vs. Prev. 203.2mln. Cash earnings AUD 215.4mln vs. Prev. AUD 219.8mln. Revenue AUD 834.2mln vs. Prev. AUD 790.2mln. CET1 ratio +24bps to 9.0%. NIM 2.37% vs. Prev. 2.35%. Capital raising comprises fully underwritten USD 250mln institutional share placement. Co. cuts interim dividend. (Newswires/AFR)</p><p>Regis Resources (RRL AT) – H1 net AUD 93.4mln, EBITDA AUD 185.6mln vs. Prev. AUD 370.8mln. (Newswires)</p><p>GWA Group (GWA AT) – H1 net AUD 23.3mln vs. Prev. AUD 26.6mln. Revenue AUD 206.3mln vs. Prev. AUD 182.6mln. (Newswires)</p><p>Saracen Mineral Holdings (SAR AT) – Q1 net AUD 83mln vs. Prev. AUD 43.5mln. Revenue AUD 409.9mln vs. Prev. AUD 281.9mln. (Newswires)</p><p>Elanor Investor (ENN AT) – HY revenue from ordinary activities +1.5% YY to SD 37.8mln. (Newswires)</p><p>Austbroker Holdings (AUB AT) – Co. has announced 8.8mln share offering priced at AUD 12.65/shr. (Newswires)</p><p>Phoslock Environment (PET AT) – Co. notes that its China office has resumed work and says sales guidance has not been affected. (Newswires)</p><p>Macquarie Group (MQG AT) – Co. says capital notes offering prices upsized at AUD 425mln vs. Prev. AUD 400mln and margin of 2.90%. (Newswires)</p><p>Oil prices - WTI and Brent futures rose by ~USD 0.8/bbl heading into Friday's close with prices bouyed by the overall sentiment.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "pre-market-australian-stock-news-asx-poised-for-a-softer-open-with-investors-cautious-as-markets-teeters-near-record-highs-the-australian-16-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 31,
+            "name": "Asian Equities"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 06:26:00",
+        "gmt_time": "2020-02-16 22:26:00"
+    },
+    {
+        "id": 909049,
+        "updated_sequence": 2112246,
+        "published_at": {
+            "unix": 1581891660,
+            "text": "2020-02-16 22:21:00 +0000",
+            "iso_8601": "2020-02-16T22:21:00Z"
+        },
+        "updated_at": {
+            "unix": 1581891723,
+            "text": "2020-02-16 22:22:03 +0000",
+            "iso_8601": "2020-02-16T22:22:03Z"
+        },
+        "subject": "Japan reports 70 additional coronavirus cases on Diamond Princess cruise ship, taking the total to 355 - largest outside China",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "japan-reports-70-additional-coronavirus-cases-on-diamond-princess-cruise-ship-taking-the-total-to-355-largest-outside-china-16-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 06:21:00",
+        "gmt_time": "2020-02-16 22:21:00"
+    },
+    {
+        "id": 909045,
+        "updated_sequence": 2112242,
+        "published_at": {
+            "unix": 1581890400,
+            "text": "2020-02-16 22:00:00 +0000",
+            "iso_8601": "2020-02-16T22:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1581890400,
+            "text": "2020-02-16 22:00:00 +0000",
+            "iso_8601": "2020-02-16T22:00:00Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASE CALENDAR IS AVAILABLE IN THE RESEARCH SECTION OF THE WEBSITE: Highlights include Japan, Singapore and Thailand GDP",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "asian-daily-economic-release-calendar-is-available-in-the-research-section-of-the-website-highlights-include-japan-singapore-and-thailand-gdp-16-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 06:00:00",
+        "gmt_time": "2020-02-16 22:00:00"
+    },
+    {
+        "id": 909044,
+        "updated_sequence": 2112243,
+        "published_at": {
+            "unix": 1581890400,
+            "text": "2020-02-16 22:00:00 +0000",
+            "iso_8601": "2020-02-16T22:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1581890400,
+            "text": "2020-02-16 22:00:00 +0000",
+            "iso_8601": "2020-02-16T22:00:00Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p><strong>17th February 2020&nbsp;</strong></p><p><strong>CORONAVIRUS UPDATE</strong></p><p>China's Hubei province reported 2420 new coronavirus cases and 139 additional deaths as of February 14th vs. Prev. 4823 additional cases and 116 deaths on February 13th. Furthermore, China’s total coronavirus cases is now at 66492 and death toll at 1523. (Newswires)</p><p>China Global Times tweeted \"Chinese experts said that there may be a surge on nCoV confirmed recently as more cities outside Wuhan in Hubei include clinically diagnosed cases and medical staff may face more pressure.\". (Twitter)</p><p>US President Trump on the coronavirus reiterated that \"China is very capable and that they will get to it\". (CNBC)</p><p>Chinese Diplomat Wang Yi said the nCoV epidemic is overall under control; some countries overreacted to the outbreak. (Newswires)</p><p>WHO's Tedros said he anticipates that a full team of WHO-led experts will arrive in China this weekend to help probe the coronavirus. (Newswires)</p><p><strong>ASIA-PAC</strong></p><p>China has decided to further allow imports of poultry from the US following a series of risk assessments. Chinese officials and analysts have maintained that fulfil its Phase One commitment once the epidemic is over and has so far refrained from invoking a force majeure clause in the agreement to consult with US officials. (Global Times)</p><p>Chinese Diplomat Wang Yi said China is focused on implementing Phase One trade deal with the US; as Phase One is implemented, China will consider starting Phase Two. (Newswires)</p><p>China will further implement measures this year to reduce corporate taxes and cut some government expenses to cushion the burden of the virus outbreak, according to Chinese Finance Minister Liu Kun. (Newswires)</p><p>China's Premier Li said that they are striving to achieve both economic and social development targets for 2020, State TV. (Newswires)</p><p>GOP Senator Rick Scott proposed a bill to restrict US sales to Huawei, cutting the minimum requirement of US made parts from 25% to 10% in its products. (The Hill)</p><p>China's auto sales are likely to fall in excess in H120 due to the coronavirus, could be as low as 5% for the period should the virus be under control prior to April, according to the Industry Association. (Newswires)</p><p>Data Recap - Indian Trade Deficit Govt -USD* (Jan) 15.17B vs. Exp. 11.58B (Prev. 11.25B) (Newswires) - Indian Exports - USD* (Jan) 25.97B (Prev. 27.36B) - Indian Imports - USD* (Jan) 41.14B (Prev. 38.61B) - Indian FX Reserves, USD* w/e 473B (Prev. 471.3B) - Indian Deposit Growth* w/e 9.9% (Prev. 9.5%)</p><p><strong>EU</strong></p><p>The Trump Administration said it would increase tariffs on EU aircrafts beginning March 18th on planes from France, Germany, Spain and the UK, which will be subject to 15% tariffs vs. Prev. 10% that took effect in October. USTR noted that it remains open to a negotiated settlement. (WSJ)</p><p>UK Chancellor Sunak is preparing to loosen the UK's fiscal rules in the budget under pressure from No. 10, according to FT. Officials note that an option for flexibility could be a “balanced budget” target on a rolling 5yr basis, and a target range of +/- 1% could be introduced. Officials also said that no new framework has been formally discussed with the Chancellor. (FT)</p><p>UK Transport Secretary Shapps stated that the Government’s budget may be delayed following the resignation of former Chancellor Javid. (BBC)</p><p>UK Chief Brexit Negotiator Frost will be giving a speech today in which he is expected to say the chances of a deal with the EU are being undermined by Brussels that the UK should stick to EU rules. Frost will call on the EU to offer UK a deal similar to those struck by Canada, Japan and South Korea. Meanwhile, reports note that the EU are yet to reach a full accord on their language of a mandate but are not showing any intentions of backing away from level playing field requirements. (FT)</p><p>UK PM Johnson spokesperson, when asked whether the budget is still planned for March 11th, says preparatory work is continuing at pace. (Newswires)</p><p>Italian PM Conte has denied speculations that he was looking to put together a new coalition. (Newswires)</p><p>S&amp;P affirmed Sweden at AAA/A-1+; outlook stable. (Newswires)</p><p>S&amp;P affirmed Hungary at BBB; outlook revised to “Positive” from “Stable”. (Newswires)</p><p>Fitch affirmed Hungary at BBB; outlook Stable. (Newswires)</p><p>Data Recap:</p><p>- EU GDP Flash Estimate QQ (Q4) 0.1% vs. Exp. 0.1% (Prev. 0.1%). (Newswires) - EU GDP Flash Estimate YY (Q4) 0.9% vs. Exp. 1.0% (Prev. 1.0%) - EU Employment Flash QQ (Q4) 0.3% vs. Exp. 0.10% (Prev. 0.10%) - EU Employment Flash YY (Q4) 1.0% vs. Exp. 0.80% (Prev. 0.90%)</p><p><strong>COMMODITIES</strong></p><p>OPEC delegates suggest OPEC+ is mulling cancelling plans for an emergency earlier meeting, keeping the March 5-6 dates instead. (Newswires)</p><p>Russian Oil Companies believe that the rouble rate is an important factor in Russia's stance regarding OPEC+ deal; growing oil glut is strengthening the case for Russia to cut oil output in tandem with OPEC, Oil Source. (Newswires)</p><p>Baker Hughes (14th Feb): Oil -2 at 678, natgas -1 at 110, total at 790, unchanged. (Newswires)</p><p><strong>GEOPOLITICAL&nbsp;</strong></p><p>Leader of one of the main Iranian-backed Shia militia groups, Harakat Hezbollah, has declared that a “countdown has begun” regarding attacks on US forces in Iraq. (Twitter)</p><p>Yemen Houthi Military spokesperson said they have downed a tornado warplane, belonging to \"enemy forces\" in Al-Jawf, Saudi Arabia. (Newswires)</p><p>Rockets have dropped near the US Embassy in Iraq, according to officials – no injuries were reported. (Newswires)</p><p>Iranian President Rouhani said that Iran will never yield to US pressure for talks. (Newswires)</p><p><strong>US&nbsp;</strong></p><p>White House is reportedly considering incentives to encourage stock buying, according to CNBC citing sources. (CNBC)</p><p>Fed’s Mester (Voter, Hawk) said she does not believe the expansion is tiring and is positive on the US consumer, seen signs of manufacturing stabilising. She added that monetary policy is in a good place, reiterates Fed's guidance that unless there is a material change to the outlook, policy will remain the same. Mester also added that she is not a fan of negative rates. On the domestic economy, Mester noted that inflation is low but believes it will hit the 2% target at year-end of early next year. She said coronavirus is a risk for growth but has not marked down her 2020 forecast because of the coronavirus. Mester reiterated that the overnight operations and treasury bill purchases are not QE. (Newswires)</p><p>Fed's Kashkari (Voter, Dove) says there is still slack in the labour market. (Newswires)</p><p>Data Recap:</p><p>- US Industrial Production MM (Jan) -0.3% vs. Exp. -0.2% (Prev. -0.3%, Rev. -0.4%) (Newswires) - US Retail Sales MM (Jan) 0.3% vs. Exp. 0.3% (Prev. 0.3%, Rev. 0.2%) - US Retail Sales Ex-Autos MM (Jan) 0.3% vs. Exp. 0.3% (Prev. 0.7%, Rev. 0.6%)</p><p><strong>MARKET RECAP&nbsp;</strong></p><p><strong>* CLOSING LEVELS: SPX +0.16% at 3379, DJIA -0.09% at 29,398, NDX +0.29% at 9,624.</strong> : United Airlines (UAL) announced it delayed the return of the 737 MAX to September 4th, weighing on Boeing (BA). Southwest Airlines (LUV) machinists union stated it has invoked its right to mediation to resolve contract dispute following two years of negotiations. eBay (EBAY) was firmer after it announced the acquisition of StubHub has been completed, which impacted its revenue guidance, however, it increased its share repurchase programme to USD 4.5bln from USD 1.5bln, which saw eBay provide better than expected EPS guidance. Tesla (TSLA) priced its 2.67mln secondary shares at USD 767, whilst separate reports noted the automaker is recalling 3k Model X vehicles in China. The information reported at the close last night that Facebook (FB) has released a new app which largely resembles Pinterest (PINS), weighing on the photo-sharing platform. Royal Caribbean (RCL) announced it expects to take a USD 0.65/shr impact due to the coronavirus. Of note for Semiconductors, WSJ reported the US Pentagon has dropped its opposition to tightening Chinese company's access to shipments from US chipmakers (SOX, QCOM, INTC, AMD), citing people familiar with the matter. This was followed this reports that GOP Senator Rick Scott proposed a bill to restrict US sales to Huawei, cutting the minimum requirement of US made parts from 25% to 10% in its products.</p><p><strong>*US T-NOTE FUTURES (H20) SETTLED 7 TICKS HIGHER AT 130-31+</strong>: The TPLEX bull flattened on Friday as participants took a more risk averse stance ahead of the weekend. The bid gained traction from early European trade, with the 10-year yield finding its lows at 1.573%, remaining nearby till settlement. After a few sessions of T-Note selling, the bid today is likely part due to some position squaring, mediocre data, as well as traders looking to cut their risk exposure over the weekend, where the known unknown is whether the nCoV will escalate further, pressing more fears of pandemic rather than the current epidemic. Additionally, following the duration-heavy supply from the Treasury in the past few sessions, the selling pressure (exacerbated by dealer hedging) will have subsided. By settlement, the whole curve was flatter, seeing the 2s10s narrow by 1.5bps, leaving the 10-year yield at 1.59%. One desk highlights that the 10-year yield has now settled higher for the third straight weekly close, nodding to an easing of concerns.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "daily-asia-pac-opening-news-16-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 06:00:00",
+        "gmt_time": "2020-02-16 22:00:00"
+    },
+    {
+        "id": 909045,
+        "updated_sequence": 2112242,
+        "published_at": {
+            "unix": 1581890400,
+            "text": "2020-02-16 22:00:00 +0000",
+            "iso_8601": "2020-02-16T22:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1581890400,
+            "text": "2020-02-16 22:00:00 +0000",
+            "iso_8601": "2020-02-16T22:00:00Z"
+        },
+        "subject": "ASIAN DAILY ECONOMIC RELEASE CALENDAR IS AVAILABLE IN THE RESEARCH SECTION OF THE WEBSITE: Highlights include Japan, Singapore and Thailand GDP",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "asian-daily-economic-release-calendar-is-available-in-the-research-section-of-the-website-highlights-include-japan-singapore-and-thailand-gdp-16-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 7,
+            "name": "Market Analysis"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 06:00:00",
+        "gmt_time": "2020-02-16 22:00:00"
+    },
+    {
+        "id": 909044,
+        "updated_sequence": 2112243,
+        "published_at": {
+            "unix": 1581890400,
+            "text": "2020-02-16 22:00:00 +0000",
+            "iso_8601": "2020-02-16T22:00:00Z"
+        },
+        "updated_at": {
+            "unix": 1581890400,
+            "text": "2020-02-16 22:00:00 +0000",
+            "iso_8601": "2020-02-16T22:00:00Z"
+        },
+        "subject": "DAILY ASIA-PAC OPENING NEWS",
+        "content": "<p><strong>17th February 2020&nbsp;</strong></p><p><strong>CORONAVIRUS UPDATE</strong></p><p>China's Hubei province reported 2420 new coronavirus cases and 139 additional deaths as of February 14th vs. Prev. 4823 additional cases and 116 deaths on February 13th. Furthermore, China’s total coronavirus cases is now at 66492 and death toll at 1523. (Newswires)</p><p>China Global Times tweeted \"Chinese experts said that there may be a surge on nCoV confirmed recently as more cities outside Wuhan in Hubei include clinically diagnosed cases and medical staff may face more pressure.\". (Twitter)</p><p>US President Trump on the coronavirus reiterated that \"China is very capable and that they will get to it\". (CNBC)</p><p>Chinese Diplomat Wang Yi said the nCoV epidemic is overall under control; some countries overreacted to the outbreak. (Newswires)</p><p>WHO's Tedros said he anticipates that a full team of WHO-led experts will arrive in China this weekend to help probe the coronavirus. (Newswires)</p><p><strong>ASIA-PAC</strong></p><p>China has decided to further allow imports of poultry from the US following a series of risk assessments. Chinese officials and analysts have maintained that fulfil its Phase One commitment once the epidemic is over and has so far refrained from invoking a force majeure clause in the agreement to consult with US officials. (Global Times)</p><p>Chinese Diplomat Wang Yi said China is focused on implementing Phase One trade deal with the US; as Phase One is implemented, China will consider starting Phase Two. (Newswires)</p><p>China will further implement measures this year to reduce corporate taxes and cut some government expenses to cushion the burden of the virus outbreak, according to Chinese Finance Minister Liu Kun. (Newswires)</p><p>China's Premier Li said that they are striving to achieve both economic and social development targets for 2020, State TV. (Newswires)</p><p>GOP Senator Rick Scott proposed a bill to restrict US sales to Huawei, cutting the minimum requirement of US made parts from 25% to 10% in its products. (The Hill)</p><p>China's auto sales are likely to fall in excess in H120 due to the coronavirus, could be as low as 5% for the period should the virus be under control prior to April, according to the Industry Association. (Newswires)</p><p>Data Recap - Indian Trade Deficit Govt -USD* (Jan) 15.17B vs. Exp. 11.58B (Prev. 11.25B) (Newswires) - Indian Exports - USD* (Jan) 25.97B (Prev. 27.36B) - Indian Imports - USD* (Jan) 41.14B (Prev. 38.61B) - Indian FX Reserves, USD* w/e 473B (Prev. 471.3B) - Indian Deposit Growth* w/e 9.9% (Prev. 9.5%)</p><p><strong>EU</strong></p><p>The Trump Administration said it would increase tariffs on EU aircrafts beginning March 18th on planes from France, Germany, Spain and the UK, which will be subject to 15% tariffs vs. Prev. 10% that took effect in October. USTR noted that it remains open to a negotiated settlement. (WSJ)</p><p>UK Chancellor Sunak is preparing to loosen the UK's fiscal rules in the budget under pressure from No. 10, according to FT. Officials note that an option for flexibility could be a “balanced budget” target on a rolling 5yr basis, and a target range of +/- 1% could be introduced. Officials also said that no new framework has been formally discussed with the Chancellor. (FT)</p><p>UK Transport Secretary Shapps stated that the Government’s budget may be delayed following the resignation of former Chancellor Javid. (BBC)</p><p>UK Chief Brexit Negotiator Frost will be giving a speech today in which he is expected to say the chances of a deal with the EU are being undermined by Brussels that the UK should stick to EU rules. Frost will call on the EU to offer UK a deal similar to those struck by Canada, Japan and South Korea. Meanwhile, reports note that the EU are yet to reach a full accord on their language of a mandate but are not showing any intentions of backing away from level playing field requirements. (FT)</p><p>UK PM Johnson spokesperson, when asked whether the budget is still planned for March 11th, says preparatory work is continuing at pace. (Newswires)</p><p>Italian PM Conte has denied speculations that he was looking to put together a new coalition. (Newswires)</p><p>S&amp;P affirmed Sweden at AAA/A-1+; outlook stable. (Newswires)</p><p>S&amp;P affirmed Hungary at BBB; outlook revised to “Positive” from “Stable”. (Newswires)</p><p>Fitch affirmed Hungary at BBB; outlook Stable. (Newswires)</p><p>Data Recap:</p><p>- EU GDP Flash Estimate QQ (Q4) 0.1% vs. Exp. 0.1% (Prev. 0.1%). (Newswires) - EU GDP Flash Estimate YY (Q4) 0.9% vs. Exp. 1.0% (Prev. 1.0%) - EU Employment Flash QQ (Q4) 0.3% vs. Exp. 0.10% (Prev. 0.10%) - EU Employment Flash YY (Q4) 1.0% vs. Exp. 0.80% (Prev. 0.90%)</p><p><strong>COMMODITIES</strong></p><p>OPEC delegates suggest OPEC+ is mulling cancelling plans for an emergency earlier meeting, keeping the March 5-6 dates instead. (Newswires)</p><p>Russian Oil Companies believe that the rouble rate is an important factor in Russia's stance regarding OPEC+ deal; growing oil glut is strengthening the case for Russia to cut oil output in tandem with OPEC, Oil Source. (Newswires)</p><p>Baker Hughes (14th Feb): Oil -2 at 678, natgas -1 at 110, total at 790, unchanged. (Newswires)</p><p><strong>GEOPOLITICAL&nbsp;</strong></p><p>Leader of one of the main Iranian-backed Shia militia groups, Harakat Hezbollah, has declared that a “countdown has begun” regarding attacks on US forces in Iraq. (Twitter)</p><p>Yemen Houthi Military spokesperson said they have downed a tornado warplane, belonging to \"enemy forces\" in Al-Jawf, Saudi Arabia. (Newswires)</p><p>Rockets have dropped near the US Embassy in Iraq, according to officials – no injuries were reported. (Newswires)</p><p>Iranian President Rouhani said that Iran will never yield to US pressure for talks. (Newswires)</p><p><strong>US&nbsp;</strong></p><p>White House is reportedly considering incentives to encourage stock buying, according to CNBC citing sources. (CNBC)</p><p>Fed’s Mester (Voter, Hawk) said she does not believe the expansion is tiring and is positive on the US consumer, seen signs of manufacturing stabilising. She added that monetary policy is in a good place, reiterates Fed's guidance that unless there is a material change to the outlook, policy will remain the same. Mester also added that she is not a fan of negative rates. On the domestic economy, Mester noted that inflation is low but believes it will hit the 2% target at year-end of early next year. She said coronavirus is a risk for growth but has not marked down her 2020 forecast because of the coronavirus. Mester reiterated that the overnight operations and treasury bill purchases are not QE. (Newswires)</p><p>Fed's Kashkari (Voter, Dove) says there is still slack in the labour market. (Newswires)</p><p>Data Recap:</p><p>- US Industrial Production MM (Jan) -0.3% vs. Exp. -0.2% (Prev. -0.3%, Rev. -0.4%) (Newswires) - US Retail Sales MM (Jan) 0.3% vs. Exp. 0.3% (Prev. 0.3%, Rev. 0.2%) - US Retail Sales Ex-Autos MM (Jan) 0.3% vs. Exp. 0.3% (Prev. 0.7%, Rev. 0.6%)</p><p><strong>MARKET RECAP&nbsp;</strong></p><p><strong>* CLOSING LEVELS: SPX +0.16% at 3379, DJIA -0.09% at 29,398, NDX +0.29% at 9,624.</strong> : United Airlines (UAL) announced it delayed the return of the 737 MAX to September 4th, weighing on Boeing (BA). Southwest Airlines (LUV) machinists union stated it has invoked its right to mediation to resolve contract dispute following two years of negotiations. eBay (EBAY) was firmer after it announced the acquisition of StubHub has been completed, which impacted its revenue guidance, however, it increased its share repurchase programme to USD 4.5bln from USD 1.5bln, which saw eBay provide better than expected EPS guidance. Tesla (TSLA) priced its 2.67mln secondary shares at USD 767, whilst separate reports noted the automaker is recalling 3k Model X vehicles in China. The information reported at the close last night that Facebook (FB) has released a new app which largely resembles Pinterest (PINS), weighing on the photo-sharing platform. Royal Caribbean (RCL) announced it expects to take a USD 0.65/shr impact due to the coronavirus. Of note for Semiconductors, WSJ reported the US Pentagon has dropped its opposition to tightening Chinese company's access to shipments from US chipmakers (SOX, QCOM, INTC, AMD), citing people familiar with the matter. This was followed this reports that GOP Senator Rick Scott proposed a bill to restrict US sales to Huawei, cutting the minimum requirement of US made parts from 25% to 10% in its products.</p><p><strong>*US T-NOTE FUTURES (H20) SETTLED 7 TICKS HIGHER AT 130-31+</strong>: The TPLEX bull flattened on Friday as participants took a more risk averse stance ahead of the weekend. The bid gained traction from early European trade, with the 10-year yield finding its lows at 1.573%, remaining nearby till settlement. After a few sessions of T-Note selling, the bid today is likely part due to some position squaring, mediocre data, as well as traders looking to cut their risk exposure over the weekend, where the known unknown is whether the nCoV will escalate further, pressing more fears of pandemic rather than the current epidemic. Additionally, following the duration-heavy supply from the Treasury in the past few sessions, the selling pressure (exacerbated by dealer hedging) will have subsided. By settlement, the whole curve was flatter, seeing the 2s10s narrow by 1.5bps, leaving the 10-year yield at 1.59%. One desk highlights that the 10-year yield has now settled higher for the third straight weekly close, nodding to an easing of concerns.</p>",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newsquawk",
+        "slug": "daily-asia-pac-opening-news-16-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 25,
+            "name": "Global News"
+        },
+        "important": false,
+        "highlighted": true,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 06:00:00",
+        "gmt_time": "2020-02-16 22:00:00"
+    },
+    {
+        "id": 909046,
+        "updated_sequence": 2112231,
+        "published_at": {
+            "unix": 1581888600,
+            "text": "2020-02-16 21:30:00 +0000",
+            "iso_8601": "2020-02-16T21:30:00Z"
+        },
+        "updated_at": {
+            "unix": 1581889086,
+            "text": "2020-02-16 21:38:06 +0000",
+            "iso_8601": "2020-02-16T21:38:06Z"
+        },
+        "subject": "New Zealand Performance of Services Index (Jan) 57.1 (Prev. 52.1)",
+        "content": "",
+        "reaction_details": "",
+        "reaction_updated_at": null,
+        "analysis_details": "",
+        "analysis_updated_at": null,
+        "push_notify": false,
+        "source": "Newswires",
+        "slug": "new-zealand-performance-of-services-index-jan-57-1-prev-52-1-16-02-2020",
+        "hidden": false,
+        "section": {
+            "id": 19,
+            "name": "Other Data"
+        },
+        "important": false,
+        "highlighted": false,
+        "disclaimer": null,
+        "rumour": false,
+        "hk_time": "2020-02-17 05:30:00",
+        "gmt_time": "2020-02-16 21:30:00"
+    }
+]
