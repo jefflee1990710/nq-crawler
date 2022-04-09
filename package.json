@@ -6,7 +6,7 @@
   "dependencies": {
     "axios": "^0.19.2",
     "json2csv": "^5.0.1",
-    "moment": "^2.27.0",
+    "moment": "^2.29.2",
     "moment-timezone": "^0.5.31",
     "puppeteer": "^3.3.0"
   }
